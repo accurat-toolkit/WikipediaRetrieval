@@ -1,0 +1,54 @@
+[[Image:TheIrregulars JUPITER Himalia.svg|thumb|right|300px|This diagram compares the orbital elements and relative sizes of the members of the Himalia group. The horizontal axis illustrates their average distance from Jupiter, the vertical axis their orbital inclination, and the circles their relative sizes.]]
+[[Image:TheIrregulars JUPITER GROUPS.svg|thumb|right|300px|This diagram illustrates all the irregular satellites of Jupiter. The Himalia group is bunched together near the top of the diagram. An object's position on the horizontal axis indicates its distance from Jupiter. The vertical axis indicates its [[orbital inclination|inclination]]. [[Orbital eccentricity|Eccentricity]] is indicated by yellow bars illustrating the object's maximum and minimum distances from Jupiter. Circles illustrate an object's size in comparison to the others.]]
+The '''Himalia group''' is a group of [[prograde]] [[irregular satellite]]s of [[Jupiter]] that follow similar [[orbit]]s to Himalia and are thought to have a common origin.
+
+The known members of the group are (in order of increasing distance from Jupiter):
+* [[Leda (moon)|Leda]]
+* [[Himalia (moon)|Himalia]] (the largest, which gives its name to the group)
+* [[Lysithea (moon)|Lysithea]]
+* [[Elara (moon)|Elara]]
+The initial orbit estimate of the recently discovered satellite [[S/2000 J 11]] also qualified it as a member of the group (it appeared to have the same [[orbital inclination|inclination]], and a slightly larger [[semi-major axis]])<ref name="SJ2003">
+[[Scott S. Sheppard]], [[David C. Jewitt]]
+''An abundant population of small irregular satellites around Jupiter'', Nature, '''423''' (May 2003), pp.261-263 
+[http://www.ifa.hawaii.edu/~jewitt/papers/JSATS/SJ2003.pdf (pdf)] </ref>
+but its orbit is not known with adequate precision and the mean orbital elements have not yet been calculated.
+
+The [[International Astronomical Union]] (IAU) reserves names in '''-a''' for the moons in this group.
+
+==Characteristics and origin==
+
+The objects in the Himalia group have [[semimajor axis|semi-major axes]] (distances from Jupiter) in the range of 11.15 and 11.75 [[gigametre|Gm]], [[orbital inclination|inclination]]s between 26.6° and 28.3°, and [[eccentricity (orbit)|eccentricities]] of between 0.11 and 0.25.
+In physical appearance, the group is very homogenous, all satellites displaying neutral colours ([[color index|colour indices]] B−V = 0.66 and V−R = 0.36) similar to those of [[C-type asteroid]]s. Given the limited dispersion of the orbital parameters and the [[electromagnetic spectrum|spectral]] homogeneity, it has been suggested that the group could be a remnant of the break-up of an asteroid from the  [[Asteroid Belt|main asteroid belt]].<ref name=Grav2003> Grav, Tommy; Holman, Matthew J.; Gladman, Brett J.; [[Kaare Aksnes|Aksnes, Kaare]] ''Photometric survey of the irregular satellites'', Icarus, '''166''',(2003), pp. 33-45. [http://arxiv.org/abs/astro-ph/0301016 Preprint]</ref> The radius of the parent asteroid was probably about 89&nbsp;km, only slightly larger than that of Himalia, which retains approximately 87% of the mass of the original body. This indicates the asteroid was not heavily disturbed.<ref name="SJ2003"/>
+
+[[Numerical integration]]s show a high probability of collisions among the members of the prograde group during the lifespan of the solar system (''e.g.''  on average 1.5 collisions between Himalia and Elara). In addition, the same simulations have shown fairly high probabilities of collisions between prograde and retrograde satellites (e.g. [[Pasiphae (moon)|Pasiphae]] and Himalia have a 27% probability of collision within 4.5 [[gigayear]]s). Consequently, it has been suggested that the current group could be a result of a more recent, rich collisional history among the prograde and retrograde satellites as opposed to the single break-up shortly after the planet formation that has been inferred for the [[Carme group|Carme]] and [[Ananke group]]s.<ref name="Nesvorny2004">
+David Nesvorný, Cristian Beaugé, and Luke Dones
+''Collisional Origin of Families of Irregular Satellites'', The Astronomical Journal, '''127''' (2004), pp. 1768–1783 [http://www.boulder.swri.edu/~davidn/papers/irrbig.pdf (pdf).]</ref>
+
+==References==
+<references/>
+
+{{Moons of Jupiter}}
+
+{{DEFAULTSORT:Himalia Group}}
+[[Category:Moons of Jupiter]]
+[[Category:Irregular satellites]]
+
+[[bg:Група на Хималия (спътници)]]
+[[da:Himalia-gruppen]]
+[[de:Himalia-Gruppe]]
+[[fr:Groupe d'Himalia]]
+[[hr:Grupa Himalia]]
+[[it:Gruppo di Imalia]]
+[[lv:Himalijas grupa]]
+[[hu:Himalia csoport]]
+[[ja:ヒマリア群]]
+[[nds:Himalia-Grupp]]
+[[pl:Grupa Himalii]]
+[[pt:Grupo Himalia]]
+[[ru:Группа Гималии]]
+[[simple:Himalia group]]
+[[sk:Rodina Himalia]]
+[[sl:Himalijina skupina]]
+[[sr:Хималијина група]]
+[[sh:Grupa Himalia]]
+[[fi:Himalia-ryhmä]]

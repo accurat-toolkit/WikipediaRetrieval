@@ -1,0 +1,36 @@
+[[Attēls:Pm1234 Ground.png|thumb|235px|Pirmo dažu tūkstošu parciālo summu attēlojums.]]
+
+'''1 − 2 + 3 − 4 + ...''' [[matemātika|matemātikā]] ir bezgalīga [[progresija]], kurā visu laiku tiek pieskaitīti [[skaitlis|skaitļi]], kas pēc vērtības ir par vienu lielāki nekā iepriekšējais skaitlis, kā arī mainās šī skaitļa zīme, tas ir, no [[pluss]] (+) uz [[mīnuss]] (-) un pretēji. Izmantojot [[summa]]s saskaitīšanas zīmi, to pieraksta šādi:
+
+:<math alt="Summation from n equals 1 to m of the series n * (-1)^(n-1)">sum_{n=1}^m n(-1)^{n-1}.</math>
+
+
+{{matemātika-aizmetnis}}
+
+[[Kategorija:Progresijas]]
+[[Kategorija:Matemātikas paradoksi]]
+
+{{Link FA|ca}}
+{{Link FA|en}}
+{{Link FA|es}}
+{{Link FA|pt}}
+
+[[bn:১ − ২ + ৩ − ৪ + · · ·]]
+[[ca:1 − 2 + 3 − 4 + ...]]
+[[da:1 − 2 + 3 − 4 + · · ·]]
+[[de:Alternierende Reihe (Euler)]]
+[[en:1 − 2 + 3 − 4 + ···]]
+[[es:1 − 2 + 3 − 4 + · · ·]]
+[[fa:۱ − ۲ + ۳ − ۴ + …]]
+[[fi:1 − 2 + 3 − 4 + · · ·]]
+[[fr:Série alternée des entiers]]
+[[it:1 − 2 + 3 − 4 + · · ·]]
+[[ja:1-2+3-4+…]]
+[[no:1 − 2 + 3 − 4 + · · ·]]
+[[pt:1 − 2 + 3 − 4 + · · ·]]
+[[ro:1 − 2 + 3 − 4 + · · ·]]
+[[sl:1 − 2 + 3 − 4 + · · ·]]
+[[sv:1 − 2 + 3 − 4 + · · ·]]
+[[th:1 − 2 + 3 − 4 + · · ·]]
+[[tr:1 − 2 + 3 − 4 + · · ·]]
+[[zh:1-2+3-4+…]]

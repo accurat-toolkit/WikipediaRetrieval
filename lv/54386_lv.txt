@@ -1,0 +1,77 @@
+{{Info zvaigznājs
+| name = Krāsns
+| abbreviation = For
+| name_latin = Fornax
+| RA = 3
+| dec = −30
+| areatotal = 221
+| arearank = 65. vieta
+| numbermainstars = 2
+| numberstarsplanets = 1
+| numberbrightstars = 0
+| numbernearbystars = 2
+| brighteststarname = ''α For''
+| starmagnitude = 3,87
+| neareststarname = ''HD 14412''
+| stardistance = 41,35
+| numbermessierobjects = 0
+| meteorshowers = 
+| bordering = [[Valis (zvaigznājs)|Valis]]<br />[[Tēlnieks (zvaigznājs)|Tēlnieks]]<br />[[Fēnikss (zvaigznājs)|Fēnikss]]<br />[[Eridāna]]<br />
+| r_latvija = nav novērojams
+| latmax = 50
+| latmin = 90
+}}
+
+'''Krāsns''' ir dienvidu puslodes zvaigznājs, kuru aprakstīja Nikolā Lakals. Zvaigznājs simbolizē degli, uz kura ķīmiķi karsē ķimikālijas. 
+
+{{Zvaigznāji}}
+{{Astro-aizmetnis}}
+
+[[Kategorija:Zvaigznāji]]
+
+[[ar:الكور (كوكبة)]]
+[[be:Сузор'е Печ]]
+[[bg:Пещ (съзвездие)]]
+[[bn:যজ্ঞকুণ্ড মণ্ডল]]
+[[ca:Constel·lació del Forn]]
+[[co:Fornax]]
+[[cs:Souhvězdí Pece]]
+[[da:Kemiske Ovn]]
+[[de:Chemischer Ofen]]
+[[el:Κάμινος (αστερισμός)]]
+[[en:Fornax]]
+[[eo:Forno (konstelacio)]]
+[[es:Fornax]]
+[[et:Ahi (tähtkuju)]]
+[[fa:کوره (صورت فلکی)]]
+[[fi:Sulatusuuni]]
+[[fr:Fourneau (constellation)]]
+[[ga:An Fhoirnéis]]
+[[gl:Fornax]]
+[[he:תנור (קבוצת כוכבים)]]
+[[hr:Kemijska peć (zviježđe)]]
+[[hu:Kemence csillagkép]]
+[[it:Fornace (costellazione)]]
+[[ja:ろ座]]
+[[ko:화로자리]]
+[[la:Fornax (sidus)]]
+[[lb:Fornax (Stärebild)]]
+[[lt:Krosnis (žvaigždynas)]]
+[[ml:അഗ്നികുണ്ഡം]]
+[[nl:Oven (sterrenbeeld)]]
+[[nn:Smelteomnen]]
+[[pl:Gwiazdozbiór Pieca]]
+[[pt:Fornax]]
+[[ro:Cuptorul (constelaţie)]]
+[[ru:Печь (созвездие)]]
+[[sah:Оһох (сулустар бөлөхтөрө)]]
+[[sh:Kemijska peć (zviježđe)]]
+[[sk:Súhvezdie Pec]]
+[[sv:Ugnen]]
+[[th:กลุ่มดาวเตาหลอม]]
+[[tr:Fornax (takımyıldız)]]
+[[uk:Піч (сузір'я)]]
+[[ur:آتش دان (مجمع النجوم)]]
+[[vi:Thiên Lô]]
+[[zh:天炉座]]
+[[zh-yue:天爐座]]

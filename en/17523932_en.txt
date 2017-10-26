@@ -1,0 +1,49 @@
+{{Taxobox 
+| name = Lesser Spearwort
+| image = RanunculusFlammula4.jpg
+| regnum = [[Plant]]ae
+| divisio = [[Flowering plant|Magnoliophyta]]
+| classis = [[Magnoliopsida]]
+| ordo = [[Ranunculales]]
+| familia = [[Ranunculaceae]]
+| genus = ''[[Ranunculus]]''
+| species = '''''R. flammula'''''
+| binomial = ''Ranunculus flammula''
+| binomial_authority = [[Linnaeus|L.]]
+}}
+'''''Ranunculus flammula''''' L. ('''Lesser Spearwort''') is a species of [[perennial plant|perennial]] [[herbaceous]] plants in the genus ''[[Ranunculus]]'' (buttercup), growing in damp places throughout the [[Boreal Kingdom]]. It is very closely related to ''[[Ranunculus reptans|R. reptans]]'' L., which is distinguished by prostrate and more slender stems, narrower leaves and smaller flowers and is sometimes included within ''R. flammula'' sensu lato as a variety (''R. flammula'' var. ''reptans'' (L.) E. Meyer).  It flowers June/July.
+
+==Gallery==
+
+<gallery>
+Image:RanunculusFlammula4.jpg
+Image:ranunculus_flammula.jpeg
+Image:RanunculusFlammula.jpg
+</gallery>
+
+== Illustrations ==
+<gallery>
+Image:Ranunculus flammula Sturm45.jpg|''Ranunculus flammula''<br />Illustration in:<br />Jakob Sturm: ''"Deutschlands Flora in Abbildungen"'',<br />Stuttgart (1796)
+Image:Ranunculus flammula Sturm46.jpg|''Ranunculus flammula''<br />Illustration in:<br />Jakob Sturm: ''"Deutschlands Flora in Abbildungen"'',<br />Stuttgart (1796)
+Image:Nsr-slika-029.png|Žgoča zlatica. (''Ranúnculus Flámmula''.)<br />Illustration #29 in: Martin Cilenšek: ''[[:Category:Naše škodljive rastline|Naše škodljive rastline]]'', Celovec (1892)
+</gallery>
+
+==External links==
+*[http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501143 ''Ranunculus flammula''] in ''[[Flora of North America]]''
+*[http://plants.usda.gov/java/profile?symbol=RAFL2 USDA PLANTS Profile]
+
+[[Category:Ranunculus]]
+
+
+{{ranunculales-stub}}
+
+[[de:Brennender Hahnenfuß]]
+[[es:Ranunculus flammula]]
+[[fr:Renoncule flammette]]
+[[hsb:Rěčna maslenka]]
+[[lv:Rāvas gundega]]
+[[nl:Egelboterbloem]]
+[[pl:Jaskier płomiennik]]
+[[fi:Ojaleinikki]]
+[[sv:Ältranunkel]]
+[[wa:Blawete]]

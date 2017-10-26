@@ -1,0 +1,22 @@
+{{viela
+|attēls=[[Attēls:Alpha-eleostearic acid.svg|400px]]<br />Eleostearīnskābes struktūrformula
+|ķīmiskā formula=C<sub>18</sub>H<sub>30</sub>O<sub>2</sub>
+|molmasa=278,43
+|blīvums=?
+|kušanas temperatūra=48°C
+|viršanas temperatūra=235°C pie 12 mmHg (sadalās)
+}}
+'''Eleostearīnskābe''' (''trans,trans,cis''-9,11,13-oktadekatriēnskābe, α-eleostearīnskābe, konjugētā linolēnskābe,  CH<sub>3</sub>(CH<sub>2</sub>)<sub>3</sub>CH=CHCH=CHCH=CH(CH<sub>2</sub>)<sub>7</sub>COOH)  pieder pie nepiesātinātajām [[karbonskābes|karbonskābēm]] ar trim konjugētām divkāršajām saitēm molekulā.  Eleostearīnskābe ir kristāliska viela.
+
+== Atrašanās dabā ==
+Sevišķi daudz eleostearīnskābes satur tungas koku (''Aleurites'') eļļa (66 - 82%).
+
+== Īpašības ==
+Hidrogenējot iegūst [[stearīnskābe|stearīnskābi]]. Ozonējot rodas [[baldriānskābe]] un [[azelaīnskābe]]. Apstarojot ar UV gaismu, α-eleostearīnskābe pārgrupējas par ''trans''-izomēru jeb β-eleostearīnskābi ar augstāku kušanas temperatūru (67°C). Eleostearīnskābe pieder pie ātri žūstošām taukskābēm.
+
+{{Nepiesātinātās karbonskābes 1}}
+
+[[Kategorija:Karbonskābes]]
+
+[[en:Eleostearic acid]]
+[[ja:エレオステアリン酸]]

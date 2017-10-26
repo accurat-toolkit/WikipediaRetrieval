@@ -1,0 +1,23 @@
+{{Izolēts raksts|date=2010. gada janvārī,}}
+'''Plejotropija''' (no [[grieķu valoda|grieķu val.]] ''pleio'' 'daudzas' ''tropo'' 'izmaiņas') ir viena [[gēns|gēna]] spēja izpausties dažādos efektos, viena gēna spēja kontrolēt vairākas [[fenotips|fenotipiskās]] pazīmes. 
+
+{{biostub}}
+
+[[Kategorija:Ģenētika]]
+
+[[ca:Pleiotropia]]
+[[de:Pleiotropie]]
+[[en:Pleiotropy]]
+[[es:Pleiotropía]]
+[[fi:Pleiotropia]]
+[[fr:Pléiotropie]]
+[[he:פליאוטרופיה]]
+[[it:Pleiotropia]]
+[[nl:Pleiotropie]]
+[[no:Pleiotropi]]
+[[pl:Plejotropia]]
+[[pt:Pleiotropia]]
+[[ru:Плейотропия]]
+[[simple:Pleiotropism]]
+[[tr:Pleiotropi]]
+[[uk:Плейотропія]]

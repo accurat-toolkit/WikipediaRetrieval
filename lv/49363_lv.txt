@@ -1,0 +1,81 @@
+<!-- {{Kompānijas kartīte 
+| nosaukums            = Sony Ericsson Mobile Communications
+| logotips             = [[Attēls:Sony_Ericsson_logo.svg|240px]]
+| veids                = [[Kopīgais uzņēmums]]
+| devīze               =
+| zucelta              = [[2001]]
+| izvietojums          = {{Velikobritānijas kārogs}} [[Londons]], [[Velikobritānija]]
+| atsledzes konfigurācijas = [[Flints Mailzs|Mailzs Flints]] (prezidents)
+| nozare               = Telekomunikācijas iekārtu ražošana
+| produkcija           = [[mobilais telefons|Mobilie telefoni]]
+| arpgiezums           = €7,3 milj ([[2005 gads]])
+| operācijas peļņa     = €514 milj (2005 gads)
+| tīra peļņa           = €356 milj (2005 gads)
+| darbinieku skaits    = 5 tukst. cilvēku
+| saits                = [http://www.sonyericsson.lv www.sonyericsson.lv]
+}} -->
+'''Sony Ericsson Mobile Communications''' — [[telekomunikācijas|telekomunikāciju]] kompānija, dibināta [[2001]]. gadā kā [[Zviedrija|zviedru]] [[mobilais telefons|mobilo telefonu]] ražotāja [[Ericsson]] un [[Japāna|japāņu]] elektronikas tehnikas ražotāja [[Sony]] kopuzņēmums. Kompānija ražo mobilos telefonus un to aksesuārus ar Sony Ericsson [[zīmols|zīmolu]]. Kompānijas galvenā mītne atrodas [[Londona|Londonā]].
+
+Kopš {{dat|2007|11|1|Ģ}} kompānijas prezidents ir Hideki Komijama<!-- Hideki Komiyama [http://www.sonyericsson.com/cws/corporate/company/aboutus/executivebiographies] -->, viceprezidents - Anderss Runevads<!-- Anders Runevad --> (kopš 2007. gada janvāra).
+
+== Kompānijas dibinātāji ==
+* [[Sony|Sony Digital Telecommunication Network Company]] (50 %)
+* [[Ericsson|Ericsson Division Consumer Products]] (50 %)
+
+== Darbība ==
+Sony Ericsson sadarbojas ar [[Vodafone]] un ražo telefonus [[GSM]] un [[3G]] tīklam. Kompānijas pētniecības centri atrodas Zviedrijā, Japānā, [[Ķīna|Ķīnā]], [[ASV]] un [[Apvienotā Karaliste|Lielbritānijā]]. Pēc analītiķu atzīmes iSuppli, 2006. gada II ceturksnī Sony Ericsson ieņēma ceturto vietu pasaulē pēc saražoto telefonu skaita (7% tirgus) pēc [[Nokia]] (35%), [[Motorolla]] (23%) un [[Samsung Mobile]] (12%).
+
+Kompānijā strādā vairāk nekā 5 tūkst. darbinieku. 2005 gadā pārdoto telefonu skaits bija 51,2 milj. gab. (2004 — 42,3 milj.), peļņa — $7,3 miljardi ($6,5 miljardi), tīrā peļņa — $356 miljoni ($316 milj.).
+
+== Ārējas saites ==
+* [http://www.sonyericsson.lv/ Oficiālā mājaslapa]
+
+{{org-aizmetnis}}
+
+[[Kategorija:Mobilie sakari]]
+
+[[ar:سوني إريكسون]]
+[[be-x-old:Sony Ericsson]]
+[[bg:Сони Ериксон]]
+[[bs:Sony Ericsson]]
+[[ca:Sony Ericsson]]
+[[cs:Sony Ericsson]]
+[[da:Sony Ericsson]]
+[[de:Sony Ericsson]]
+[[en:Sony Ericsson]]
+[[es:Sony Ericsson]]
+[[et:Sony Ericsson]]
+[[fa:سونی اریکسون]]
+[[fi:Sony Ericsson]]
+[[fr:Sony Ericsson]]
+[[he:סוני-אריקסון]]
+[[hr:Sony Ericsson]]
+[[hu:Sony Ericsson]]
+[[id:Sony Ericsson]]
+[[it:Sony Ericsson]]
+[[ja:ソニー・エリクソン・モバイルコミュニケーションズ]]
+[[ka:Sony Ericsson]]
+[[ko:소니 에릭슨]]
+[[lt:Sony Ericsson]]
+[[mk:Сони Ериксон]]
+[[ms:Sony Ericsson]]
+[[nah:Sony Ericsson]]
+[[nl:Sony Ericsson]]
+[[no:Sony Ericsson]]
+[[pl:Sony Ericsson]]
+[[pt:Sony Ericsson]]
+[[ro:Sony Ericsson]]
+[[ru:Sony Ericsson]]
+[[simple:Sony Ericsson]]
+[[sk:Sony Ericsson]]
+[[sl:Sony Ericsson]]
+[[sr:Сони Ериксон]]
+[[sv:Sony Ericsson]]
+[[tg:Sony Ericsson]]
+[[th:โซนี่ อิริคสัน]]
+[[tr:Sony Ericsson]]
+[[uk:Sony Ericsson]]
+[[uz:Sony Ericsson Mobile Communications]]
+[[vi:Sony Ericsson]]
+[[zh:索尼爱立信]]
+[[zh-yue:新力愛立信]]

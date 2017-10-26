@@ -1,0 +1,64 @@
+{{Info BioTakso
+|           attēls = 
+|           valsts = Animalia
+|        valsts_lv = Dzīvnieki
+|         valsts_r = Dzīvnieki
+|             tips = Chordata
+|          tips_lv = Hordaiņi
+|            klase = Aves
+|         klase_lv = Putni
+|            kārta = Charadriiformes
+|         kārta_lv = Tārtiņveidīgie
+|           dzimta = Jacanidae
+|        dzimta_lv = Jakanas
+|            ģints = Actophilornis
+|         ģints_lv = 
+|             suga = Actophilornis albinucha
+|          suga_lv = Madagaskaras jakana
+|         binomial = Actophilornis albinucha
+|        izplatība = [[Attēls:LocationMadagascar.svg|center|250px|]]<br>Sarkans - Madagaskaras jakanas izplatība</br>
+|      kategorijas = nē
+}}
+
+'''Madagaskaras jakana''' (''Actophilornis albinucha'') ir viena no [[jakanas|jakanu dzimtas]] (''Jacanidae'') ''[[Actophilornis]]'' ģints [[bridējputns|bridējputnu]] sugām, kura dzīvo tikai [[Madagaskara|Madagaskarā]]. ''Actophilornis'' [[ģints|ģintī]] ir vēl viena jakanu [[suga]] - [[Āfrikas jakana]] (''Actophilornis africana'').
+
+Madagaskaras jakanas dzīvo [[saldūdens]] [[ezers|ezeros]] vai [[purvs|purvos]] un [[dīķis|dīķos]] ar atbilstošu veģetāciju ([[augi]] ar peldošām lapām). To var sastapt gandrīz visā [[sala|salā]], izņemot [[kalni|kalnos]] un [[tuksnesis|tuksnesī]]<ref>http://ibc.lynxeds.com/species/madagascar-jacana-actophilornis-albinucha</ref>.
+
+== Izskats un ieradumi ==
+Madagaskaras jakanai ir garas [[kājas]] un [[kakls]]. Mātītes ir lielākas par tēviņiem. Kā visām [[jakanas|jakanām]] Madagaskaras jakanai ir ļoti gari [[kājas|kāju]] pirksti, kas ļauj jakanai staigāt pa peldošo [[ūdensaugi|ūdensaugu]] lapām. Madagaskaras jakana pamatā pārvietojas tikai soļojot pa lapām, ļoti reti paceļoties gaisā. Tās ir arī labas peldētājas un nirējas. Jakana var pārpeldēt brīvus [[ūdens]] klajumus no vienas lapu "salas" līdz nākamai<ref name="san"/>. 
+
+Madagaskaras jakanas ķermenis ir kastaņbrūnā [[krāsa|krāsā]] ar [[melns|melniem]] spārnu galiem. Tās [[kakls]] un [[galva]] ir melnā krāsā apakšdaļā, bet to virspuse ir [[balts|balta]]. Kājas gaiši brūnas. Knābis ass, vidēji garš, gaiši [[zils|zilā]] krāsā<ref name="san"/>.
+
+Madagaskaras jakana pārtiek no [[kukaiņi]]em un citiem [[bezmugurkaulnieki]]em, kā arī ūdensaugu [[sēklas|sēklām]]. Tās, pārvietojoties pa ūdensaugu [[lapa|lapām]], uzlasa kukaiņus gan no [[augi]]em, gan [[ūdens]] virsmas. 
+
+== Reprodukcija ==
+Mātītēm ir savas teritorijas, un [[riests|riesta]] laikā tās cenšas sapāroties ar pēc iespējas vairākiem tēviņiem. 
+
+Tēviņš uz [[ūdens]] iekārto peldošu [[ligzda|ligzdu]], kurā mātīte iedēj 4 melni iesvītrotas, [[brūns|brūnas]] [[ola]]s. Katras olas izskats ir atšķirīgs. Pērēšanas rūpes uzņemas tēviņš, kā arī aizsargā ligzdu no ienaidniekiem. Ja ligzda sāk grimt un olām draud briesmas, tēviņš tās paņem zem [[spārni]]em un pārnes uz jaunu, drošu vietu. Kamēr tēviņš perē olas, mātīte dodas pie nākamā tēviņa. Rūpes par cāļu audzināšanu mātītes neuzņemas. 
+
+Jau pēc izšķilšanās jakanas [[cālis|cāļi]] uzreiz var skriet. Tēvs tos audzina un apmāca kā atrast [[kukaiņi|kukaiņus]], [[gliemji|gliemjus]], [[tārpi|tārpus]], mazus [[krabis|krabīšus]] un [[zivis]], kā arī [[augi|augu]] sēklas. Cāļi paliek kopā ar tēvu 40 - 70 [[diena]]s. Ja mazajiem draud briesmas, tēvs tos paslēpj zem saviem spārniem<ref name="san">http://www.sandiegozoo.org/animalbytes/t-jacana.html</ref>.
+
+== Atsauces ==
+{{reflist}}
+
+== Ārējās saites ==
+* [http://avesphoto.com/WEBSITE/MA/species/JACMAD-2.htm Madagaskaras jakanas foto 1]
+
+* [http://www.mangoverde.com/birdsound/picpages/pic52-3-1.html Madagaskaras jakanas foto 2]
+
+* [http://www.ptice.net/modules.php?set_albumName=Ptice-Madagascara&id=Actophilornis_albinucha_16_Bildgr_e_ndern&op=modload&file=index&name=gallery&include=view_photo.php Madagaskaras jakanas foto 3]
+
+* http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&sid=3069&m=0
+
+*
+
+
+[[Kategorija:Jakanu dzimta]]
+
+[[br:Jakana Madagaskar]]
+[[en:Madagascar Jacana]]
+[[fi:Madagaskarinjassana]]
+[[fr:Jacana malgache]]
+[[hu:Madagaszkári levéljáró]]
+[[it:Actophilornis albinucha]]
+[[nl:Madagaskarjacana]]

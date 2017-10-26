@@ -1,0 +1,69 @@
+'''GEO''' or '''Geo''' may refer to any of the following:
+
+In computational & scientific use:
+* [[GEO (magazine)]], a popular scientific magazine
+* [[GEO 600]], a detector for gravitational radiation
+* [[Global Environment Outlook]], an environmental assessment produced by the United Nations
+* [[Geo (microformat)]], a microformat for marking up WSG84 geographical coordinates in (X)HTML
+* [[Gene Expression Omnibus]], a National Center for Biotechnology Information database for gene expression
+
+In commercial use:
+* [[Geo (marketing)]], a discipline within marketing analysis
+* [[Geo TV]], a leading television channel in Pakistan
+* [[Geo (automobile)]], a defunct brand of entry-level cars produced by General Motors
+
+People:
+{{Wiktionary|Geo.}}
+* '''Geo.''' is sometimes an abbreviation of the name [[George]]
+* Geo, the composer for the J-pop group [[Sweetbox]]
+* [[Geo Bogza]], a Romanian poet and essayist
+* [[Geo Stelar]] is the main protagonist in Mega Man Star Force
+
+As a group:
+* ''[[Grupo Especial de Operaciones]]'', a division of the Spanish police
+* General Education Officer, the basic rank of teachers of the [[Education in Singapore|Ministry of Education in Singapore]]
+* [[Group on Earth Observations]], an intergovernmental organization
+
+As a place:
+* GEO, the IATA code for [[Cheddi Jagan International Airport]]
+* [[Estadio Casas GEO]], stadium in Mexicali, Mexico
+* [[Geo (landscape)]], a creek (inlet) or gulley in the Orkney and Shetland Islands
+* The IOC country code and three letter country code for {{GEO}}, a Eurasian country
+* '''Geo City''', a fictional city in the videogame [[Raw Danger]]
+
+As a prefix: '''geo-''' is taken from the Greek word γη or γαια meaning "earth", usually in the sense of "ground or land". ''Geo-'' is thus a prefix for many words dealing in some way with the earth, including:
+{{Wiktionarypar|geo-|geography|geology|geopolitics|geothermal}}
+* [[Geography]], the study of the Earth and its features
+** [[Geology]], the study of the Earth's structure
+** [[Geopolitics]], the analysis of history, geography and social science with respect to international politics
+** [[Geodesy]], also known as geodetics, the study of the measurement and representation of the earth
+
+* [[Geothermal (geology)]], heat sources from within the Earth
+** [[Geo-exchange]], a heating and cooling system
+
+* [[Geometry]], the study of spatial relationships
+** [[Geocentric]], a model of the universe that places the earth at its centre
+*** [[Geostationary orbit]], a circular orbit directly above the earth's equator
+*** [[Geosynchronous orbit]], an orbit that has the same period as the Earth's sidereal rotation
+
+* [[Geocaching]], an outdoor activity that involves using navigational techniques to finds geocaches 
+
+* [[Geocoding]] or [[GeoTagging]], encoding coordinates in to features, images, web pages and other data records
+** [[Geolocation]], the science of determining the real-world location of a website or website visitor
+
+{{disambig}}
+
+[[de:GEO]]
+[[es:GEO]]
+[[eo:GEO]]
+[[fr:GEO]]
+[[ko:GEO]]
+[[it:GEO]]
+[[lv:GEO]]
+[[lt:GEO]]
+[[nl:Geo]]
+[[ja:GEO]]
+[[ksh:GEO (Watt ėßß datt?)]]
+[[ru:Geo]]
+[[simple:Geo]]
+[[sv:GEO]]

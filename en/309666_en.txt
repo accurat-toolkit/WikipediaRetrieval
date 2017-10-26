@@ -1,0 +1,106 @@
+{{otheruses}}
+[[Image:Coral Sea Islands.gif|thumb|200 px|right|A map of the Coral Sea Islands.]]
+The '''Coral Sea''' is a [[marginal sea]] off the north-east coast of [[Australia]]. It is bounded in the west by the east coast of [[Queensland]], thereby including the [[Great Barrier Reef]], in the east by [[Vanuatu]] (formerly the [[New Hebrides]]) and by [[New Caledonia]], and in the north approximately by the southern extremity of the [[Solomon Islands]].<ref name="Pacific Islands Pilot"> [http://permanent.access.gpo.gov/websites/pollux/pollux.nss.nima.mil/NAV_PUBS/SD/pub127/127sec06.pdf]></ref> South of it is the [[Tasman Sea]].
+
+[[File:Coral Sea map.png|thumb|left|Map showing the location of the Coral Sea.]]
+
+While the [[Great Barrier Reef]] with its islands and cays belong to Queensland, most reefs and islets east of it are part of the [[Coral Sea Islands Territory]]. In addition, some islands west of and belonging to [[New Caledonia]] are also part of the Coral Sea Islands in a geographical sense, such as the [[Chesterfield Islands]] and [[Bellona Reefs]].
+
+The Coral Sea [[basin (geology)|Basin]] was formed between 58 million - 48 million years ago because the Queensland continental shelf was uplifted, forming the [[Great Dividing Range]], and continental blocks subsided at the same time.<ref name="Geomorphology pp.19">{{cite book
+ | last = Hopley
+ | first = David
+ | coauthors = Smithers, Scott G.; Parnell, Kevin E.
+ | title = The geomorphology of the Great Barrier Reef : development, diversity, and change
+ | year = 2007
+ | publisher = Cambridge : Cambridge University Press
+ | isbn = 0521853028
+ | page = 19
+ }}</ref>  
+
+The Coral Sea is ecologically an important source of coral for the [[Great Barrier Reef]], both during its formation and after sea level lowering.<ref name="Geomorphology pp.27">{{cite book
+ | last = Hopley
+ | first = David
+ | coauthors = Smithers, Scott G.; Parnell, Kevin E.
+ | title = The geomorphology of the Great Barrier Reef : development, diversity, and change
+ | year = 2007
+ | publisher = Cambridge : Cambridge University Press
+ | isbn = 0521853028
+ | page = 27
+ }}</ref>  
+
+==History==
+{{main|Battle of the Coral Sea}}
+The sea was the location for a major confrontation at the time of [[World War II]] between the navies of [[Australia]], the [[Empire of Japan]], and the [[United States]].
+
+== See also ==
+[[Image:Louisiade archipelago.jpg|thumb|200 px|A satellite image of the [[Louisiade Archipelago]] and the northern Coral Sea.]]
+*[[USS Coral Sea (CV-43)|USS Coral Sea (aircraft carrier)]]
+*[[Coral Sea Islands]]
+
+==References==
+{{Reflist}}
+* Community monitoring of reef sharks in the Coral Sea and Great Barrier Reef, Australia (2008) [http://www.auf-spearfishing.com.au/Documentation/Coral%20Sea%20Shark%20Report%202008-7.pdf Australian Underwater Federation]
+{{coord|16|56|03|S|155|06|36|E|type:waterbody|display=title}}
+
+==Further reading==
+{{commonscat}}
+*{{cite news 
+  | last = Bradley
+  | first = Claire
+  | coauthors = 
+  | title = Catch and Release
+  | work = [[Sunday Herald Sun]]
+  | pages = Sunday magazine supplement (pp. 19-20)
+  | language = 
+  | publisher = [[News Limited]]
+  | date = [[2009-01-18]]
+  | url = http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=18132009011800000000001001&page=19&article=6938c434-0f17-4550-9284-43a0abb8f467&key=THB9a8/QLRTlsUxg6JzIow==&feed=rss
+  | accessdate = }}—article on 2009 documentary, ''Mysteries of the Shark Coast'', part of a "greater plan to extend the boundaries of the Great Barrier Reef to the Coral Sea [the Osprey Reef] and, in turn, protect the [grey reef and whitetip] sharks that call this region home."  
+
+{{List of seas}}
+
+[[Category:Coral Sea]]
+
+[[af:Koraalsee]]
+[[ar:بحر كورال]]
+[[bs:Koraljno more]]
+[[br:Mor Kouralek]]
+[[bg:Коралово море]]
+[[ca:Mar del Corall]]
+[[cs:Korálové moře]]
+[[cy:Môr Cwrel]]
+[[da:Koralhavet]]
+[[de:Korallenmeer]]
+[[et:Korallimeri]]
+[[el:Θάλασσα των Κοραλλίων]]
+[[es:Mar del Coral]]
+[[eo:Korala Maro]]
+[[eu:Koral itsasoa]]
+[[fa:دریای کورال]]
+[[fr:Mer de Corail]]
+[[gl:Mar do Coral]]
+[[ko:산호해]]
+[[hr:Koraljno more]]
+[[it:Mar dei Coralli]]
+[[he:ים האלמוגים]]
+[[lv:Koraļļu jūra]]
+[[lt:Koralų jūra]]
+[[hu:Korall-tenger]]
+[[mn:Шүрэн тэнгис]]
+[[nl:Koraalzee]]
+[[ja:珊瑚海]]
+[[no:Korallhavet]]
+[[pl:Morze Koralowe]]
+[[pt:Mar de Coral]]
+[[ru:Коралловое море]]
+[[sk:Koralové more]]
+[[sr:Корално море]]
+[[sh:Koraljno more]]
+[[fi:Korallimeri]]
+[[sv:Korallhavet]]
+[[ta:பவளக் கடல்]]
+[[tg:Баҳри Марҷон]]
+[[tr:Mercan Denizi]]
+[[uk:Коралове море]]
+[[vi:Biển San hô]]
+[[zh:珊瑚海]]

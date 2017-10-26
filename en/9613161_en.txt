@@ -1,0 +1,59 @@
+{{Infobox Settlement
+| name = Twardogóra
+| image_flag =
+| image_shield = POL Twardogóra COA.svg
+| pushpin_map = Poland
+| subdivision_type = Country
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Lower Silesian Voivodeship|Lower Silesian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oleśnica County|Oleśnica]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Twardogóra|Twardogóra]]
+| area_total_km2 = 8.29
+| population_as_of = 2006
+| population_total = 6866
+| population_density_km2 = auto
+| latd = 51 | latm = 21 | lats = 53 | latNS = N | longd = 17 | longm = 28 | longs = 11 | longEW = E
+| elevation_m =
+| postal_code_type = Postal code
+| postal_code=56-416
+| website = http://www.twardogora.pl }}
+
+'''Twardogóra''' {{IPAr|pl|t|f|a|r|d|o|'|g|u|r|a}} (formerly German ''Festenberg'') is a town in [[Oleśnica County]], [[Lower Silesian Voivodeship]], in south-western [[Poland]]. It is the seat of the administrative district ([[gmina]]) called [[Gmina Twardogóra]]. Prior to 1945 it was in [[Germany]]. On 23 January 1945 the town was taken by the [[Red Army]] and later the same year became a part of [[Poland]]. (For more information on the history of the region, see [[Silesia]].)
+
+It lies approximately {{convert|20|km|mi|0}} north of [[Oleśnica]], and {{convert|40|km|mi|0}} north-east of the regional capital [[Wrocław]].
+
+As at 2006, the town has a population of 6,866.
+
+==People==
+* [[Paul Grützner]] (1847-1919), physiologist
+* [[Hagen Kleinert]] (born 1941), physicist
+
+==External links==
+*[http://www.twardogora.pl Official website]
+*[http://users.physik.fu-berlin.de/~kleinert/pictures/festenberg-ak.jpg Old postcard of Festenberg]
+
+{{Gmina Twardogóra}}
+
+{{coord|51|21|53|N|17|28|11|E|region:PL_type:city|display=title}}
+
+{{DEFAULTSORT:Twardogora}}
+[[Category:Cities and towns in Lower Silesian Voivodeship]]
+[[Category:Oleśnica County]]
+
+
+{{Oleśnica-geo-stub}}
+
+[[de:Twardogóra]]
+[[eo:Twardogóra]]
+[[jv:Twardogóra]]
+[[lv:Tvardogura]]
+[[nl:Twardogóra]]
+[[pl:Twardogóra]]
+[[pt:Twardogóra]]
+[[ro:Twardogóra]]
+[[ru:Твардогура]]
+[[sk:Twardogóra]]
+[[uk:Твардогура]]

@@ -1,0 +1,42 @@
+{{Infobox_River 
+| river_name         = Iecava river
+| image_name         = Iecava pie Ozolniekiem.jpg
+| caption            = Iecava river in autumn near [[Ozolnieki|Ozolnieki village]]
+| origin             = [[Jaunjelgava municipality]], [[Latvia]]
+| mouth              = [[Lielupe|Lielupe river]], [[Latvia]]
+| basin_countries    = {{LAT}}
+| length_km          = 155
+| length             = <ref>[http://www.jrpic.lv/picdown/projekti/hidro/3.1.2.pdf Lielāko upju un to baseinu izvietojums] (The location of the biggest rivers and their basins in Latvia, in Latvian)</ref>
+| elevation_m        =  
+| elevation          = <!-- REFERENCES/DETAILS --> 
+| mouth_elevation_m  =  
+| mouth_elevation    = <!-- REFERENCES/DETAILS --> 
+| discharge_m3/s     =  
+| discharge          = <!-- REFERENCES/DETAILS --> 
+| watershed_km2      = 2172
+| watershed          = <ref>[http://www.jrpic.lv/picdown/projekti/hidro/3.1.2.pdf Lielāko upju un to baseinu izvietojums] (The location of the biggest rivers and their basins in Latvia, in Latvian)</ref>
+}}
+'''Iecava''' is a [[river]] in [[Latvia]]. Iecava's [[Source (river or stream)|source]] is formed from several [[Spring (hydrosphere)|springs]] near [[Daudzese]] [[village]], [[Jaunjelgava municipality]]. The river's mouth located 4 km below [[Jelgava]] [[city]] in [[Lielupe]] river.<ref>[http://www.jrpic.lv/picdown/projekti/hidro/3.1.2.pdf Lielāko upju un to baseinu izvietojums] (The location of the biggest rivers and their basins in Latvia, in Latvian)</ref>
+
+Iecava river is flowing through [[Taurkalne low land|Taurkalne]] and [[Upmale low land]] where it has mainly [[Forest|wooded]] [[coast]]s.<ref>[http://www.jrpic.lv/picdown/projekti/hidro/3.1.2.pdf Lielāko upju un to baseinu izvietojums] (The location of the biggest rivers and their basins in Latvia, in Latvian)</ref> Near [[Iecava]] [[town]] it crossing [[Zemgale low land]] and in [[Tīreļi low land]] it reaches Lielupe river.
+
+The main water source (more than 50%) for Iecava river is water from melting [[snow]], but water from [[groundwater]]s is minimal (4-5%); because of that river usually overflows in [[Spring (season)|springs]] and has low water level in [[summer]]s.<ref>[http://www.jrpic.lv/picdown/projekti/hidro/3.1.2.pdf Lielāko upju un to baseinu izvietojums] (The location of the biggest rivers and their basins in Latvia, in Latvian)</ref>
+
+Total number of Iecava's tributaries is ~400 (rivers, brooklets and ditches),<ref>[http://www.jrpic.lv/picdown/projekti/hidro/3.1.2.pdf Lielāko upju un to baseinu izvietojums] (The location of the biggest rivers and their basins in Latvia, in Latvian)</ref> the biggest of them are: 
+
+left bank's:<br />[[Kuma river|Kuma]] - 6 km<br />[[Ģirupe river|Ģirupe]] - 12 km<br />[[Smārde river|Smārde]] - 12 km<br />[[Ģedulis river|Ģedulis]] - 11 km<br />[[Īkstrums river|Īkstrums]] - 23 km:<br />right bank's:<br />[[Sudmaļupe river|Sudmaļupe]] - 6 km<br />[[Svētupe river|Svētupe]] 6 km<br />[[Dzērvīte river|Dzērvīte]] - 11 km<br />[[Briede river|Briede]] - 10 km<br />[[Vēršupe river|Vēršupe]] - 15 km<br />[[Smakupe river|Smakupe]] 26 km<br />[[Jāņupe river|Jāņupe]] - 20 km<br />[[Biržiņa river|Biržiņa]] - 16 km<br />[[Misa River|Misa]] - 108 km
+
+==References==
+{{reflist}}
+{{commonscat|Iecava river}}
+
+{{Main tributaries of Lielupe river}}
+
+{{coord missing|Latvia}}
+
+[[Category:Rivers of Latvia]]
+[[Category:Ozolnieki municipality]]
+
+[[lv:Iecava (upe)]]
+[[lt:Iecava]]
+[[ru:Иецава (река)]]

@@ -1,0 +1,84 @@
+{{Info zvaigznājs
+| name = Berenikes Mati
+| abbreviation = Com
+| name_latin = Coma Berenices
+| RA = 12,76
+| dec = +21,83
+| areatotal = 386
+| arearank = 42. vieta
+| numbermainstars = 3
+| numberstarsplanets = 2
+| numberbrightstars = 0
+| numbernearbystars = 2
+| brighteststarname = ''β Com''
+| starmagnitude = 4,26
+| neareststarname = ''β Com''
+| stardistance = 30
+| numbermessierobjects = 8
+| meteorshowers = 
+| bordering = [[Medību Suņi]]<br>[[Lielais Lācis]]<br>[[Lauva (zvaigznājs)|Lauva]]<br>[[Jaunava (zvaigznājs)|Jaunava]]<br>[[Vēršu Dzinējs]]<br>
+| r_latvija = pavasarī
+| latmax = 90
+| latmin = 70
+}}
+
+'''Berenikes Mati''' ir salīdzinoši neizteiksmīgs zvaigznājs, kas atrodas blakus Lauvai. Senāk šo zvaigžņu sakopojumu uzskatīja par Lauvas astes galu. Zvaigznājs savu nosaukumu guvis no [[Ēģipte|Ēģiptes]] valdnieka Ptolemaja III sievas Berenikes II vārda - tas ir viens no dažiem zvaigznājiem, kura vārds cēlies no vēsturiskas personas. 243. gadā pirms mūsu ēras Ptolemajs III devās bīstamā karagājienā pret sīriešiem, kuri bija nogalinājuši karaļa māsu, un Berenike zvērēja ziedot dievietei [[Afrodīte|Afrodītei]] savus garos matus ar kuriem viņa ļoti lepojās, ja vīrs atgriezīsies neskarts. Kad Ptolemajs III veiksmīgi atgriezās, Berenike turēja solījumu uz ziedoja savus matus Afrodītes templim. Nākamajā rītā mati bija pazuduši un galma astronoms Konons, lai mierinātu saniknoto Bereniki, paziņoja ka viņas ziedojums tik ļoti pagodinājis Afrodīti un viņa pacēlusi Berenikes matus debesīs un norādīja uz Lauvas asti, saucot to par Berenikes Matu zvaigznāju. Spožākās zvaigznes ''β Com'' absolūtais zvaigžņlielums ir gandrīz tāds pats kā Saulei un novērojot šo zvaigzni var gūt priekšstatu par to, kā mūsu Saule izskatās no apmēram 30 [[gaismas gads|gaismas gadu]] liela attāluma. Otra spožākā zvaigzne tiek saukta par Diadēmu - apzīmējot dārgakmeni Berenikes kronī. Lai gan zvaigznājā nav daudz, spožu zvaigžņu, tas satur daudz galaktiku.
+
+{{Zvaigznāji}}
+{{Astro-aizmetnis}}
+
+[[Kategorija:Zvaigznāji]]
+
+[[ar:الهلبة (كوكبة)]]
+[[az:Veronikanın Saçları]]
+[[be:Сузор'е Валасы Веранікі]]
+[[bg:Косите на Вероника]]
+[[bn:কোমা বারেনিসিসের মণ্ডল]]
+[[ca:Cabellera de Berenice]]
+[[co:Coma Berenices]]
+[[cs:Souhvězdí Vlasů Bereniky]]
+[[da:Berenikes Lokker]]
+[[de:Haar der Berenike]]
+[[el:Κόμη Βερενίκης]]
+[[en:Coma Berenices]]
+[[eo:Berenica Hararo (konstelacio)]]
+[[es:Coma Berenices]]
+[[et:Berenike Juuksed]]
+[[fa:گیسوی برنیکه]]
+[[fi:Bereniken hiukset]]
+[[fr:Chevelure de Bérénice]]
+[[ga:Folt Bheirnicé]]
+[[gl:Coma Berenices]]
+[[he:שערות ורוניקה]]
+[[hr:Berenikina kosa]]
+[[hu:Bereniké haja csillagkép]]
+[[hy:Բերենիկեի Գես]]
+[[id:Coma Berenices]]
+[[it:Chioma di Berenice (costellazione)]]
+[[ja:かみのけ座]]
+[[ka:ბერენიკეს თმები]]
+[[ko:머리털자리]]
+[[la:Coma Berenices (sidus)]]
+[[lb:Coma Berenices (Stärebild)]]
+[[lt:Berenikės Garbanos]]
+[[ml:സീതാവേണി]]
+[[nl:Hoofdhaar (sterrenbeeld)]]
+[[nn:Berenikes hår]]
+[[no:Berenikes hår]]
+[[pl:Warkocz Bereniki]]
+[[pt:Coma Berenices]]
+[[ro:Părul Berenicei (constelaţie)]]
+[[ru:Волосы Вероники (созвездие)]]
+[[sah:Вероника Суһуоҕа (сулустар бөлөхтөрө)]]
+[[sh:Berenikina kosa]]
+[[sk:Súhvezdie Vlasy Bereniky]]
+[[sl:Berenikini kodri (ozvezdje)]]
+[[sr:Береникина коса (сазвежђе)]]
+[[sv:Berenikes hår]]
+[[th:กลุ่มดาวผมเบเรนิซ]]
+[[tr:Coma Berenices (takımyıldız)]]
+[[uk:Волосся Вероніки (сузір'я)]]
+[[ur:گیسو (مجمع النجوم)]]
+[[vi:Hậu Phát]]
+[[zh:后发座]]
+[[zh-yue:后髮座]]

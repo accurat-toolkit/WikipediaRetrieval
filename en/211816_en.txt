@@ -1,0 +1,98 @@
+{{Infobox Constellation|
+name = Circinus |
+abbreviation = Cir |
+genitive = Circini |
+pronounce = {{IPA-en|ˈsɜrsɨnəs|}} ''Círcinus,'' genitive {{IPA|/ˈsɜrsɨnaɪ/}} |
+symbology = [[Compass (drafting)|Compass]] |
+RA = 15 |
+dec= &minus;60 |
+areatotal = 93 |
+arearank = 85th |
+numbermainstars = 3 |
+numberbfstars = 9 |
+numberstarsplanets = 0 |
+numberbrightstars = 0 |
+numbernearbystars = 0 |
+brighteststarname = α Cir |
+starmagnitude = 3.2 |
+neareststarname = α Cir |
+stardistance = 53.5 |
+numbermessierobjects = 0 |
+meteorshowers = None |
+bordering = [[Centaurus]]<br /> [[Musca]]<br /> [[Apus]]<br /> [[Triangulum Australe]]<br /> [[Norma (constellation)|Norma]]<br /> [[Lupus (constellation)|Lupus]] |
+latmax = [[10th parallel north|10]] |
+latmin = [[South Pole|90]] |
+month = June |
+notes=}}
+The [[constellation]] '''Circinus''' is a small [[constellation]] in the southern sky, first defined in the 18th century. Its name is [[Latin]] for [[compass (drafting)|compass]], referring to the [[drafting]] tool used for drawing circles; it should not be confused with [[Pyxis]], a constellation that represents a [[mariner's compass]].
+
+==History==
+
+Circinus was introduced in the 18th century by [[Nicolas Louis de Lacaille]], whose fascination with secular science led him to name the constellations he defined after scientific instruments. 
+
+==Location==
+
+Circinus is located at a [[declination]] of −50 to −60 degrees, and hence the whole constellation is visible only south of the [[30th parallel north|30° north]] [[latitude]].
+
+==References==
+* Ian Ridpath and Wil Tirion (2007). ''Stars and Planets Guide'', Collins, London. ISBN 978-0007251209. Princeton University Press, Princeton. ISBN 978-0691135564.
+
+== External links ==
+* [http://www.allthesky.com/constellations/centaurus/ The Deep Photographic Guide to the Constellations: Circinus]
+*[http://www.ianridpath.com/startales/circinus.htm Star Tales – Circinus]
+
+{{Commonscat|Compass (drafting)}}
+{{Commons|Circinus}}
+
+{{navconstel}}
+{{Sky|15|00|00|-|60|00|00|10}}
+
+[[Category:Circinus constellation| ]]
+[[Category:Constellations]]
+[[Category:Southern constellations]]
+[[Category:Western constellations]]
+
+[[ar:البيكار (كوكبة)]]
+[[bn:বৃত্ত মণ্ডল]]
+[[be:Сузор'е Цыркуль]]
+[[bg:Пергел (съзвездие)]]
+[[ca:Compàs (constel·lació)]]
+[[cs:Souhvězdí Kružítka]]
+[[co:Circinus]]
+[[da:Passeren]]
+[[de:Zirkel (Sternbild)]]
+[[el:Διαβήτης (αστερισμός)]]
+[[es:Circinus]]
+[[eo:Cirkelo (konstelacio)]]
+[[fa:دوپرگار]]
+[[fr:Compas (constellation)]]
+[[gl:Circinus]]
+[[ko:컴퍼스자리]]
+[[hr:Šestar (zviježđe)]]
+[[it:Compasso (costellazione)]]
+[[he:מחוגה (קבוצת כוכבים)]]
+[[la:Circinus (sidus)]]
+[[lv:Cirkulis (zvaigznājs)]]
+[[lb:Circinus (Stärebild)]]
+[[lt:Skriestuvas (žvaigždynas)]]
+[[hu:Körző csillagkép]]
+[[ml:ചുരുളന്‍]]
+[[nl:Passer (sterrenbeeld)]]
+[[ja:コンパス座]]
+[[no:Passeren]]
+[[nn:Passaren]]
+[[pl:Gwiazdozbiór Cyrkla]]
+[[pt:Circinus]]
+[[ro:Compasul (constelaţie)]]
+[[ru:Циркуль (созвездие)]]
+[[sk:Súhvezdie Kružidlo]]
+[[sh:Šestar (sazviježđe)]]
+[[fi:Harppi (tähdistö)]]
+[[sv:Cirkelpassaren]]
+[[th:กลุ่มดาววงเวียน]]
+[[tr:Circinus (takımyıldız)]]
+[[uk:Циркуль (сузір'я)]]
+[[ur:پرکار (مجمع النجوم)]]
+[[vi:Viên Quy]]
+[[zh-yue:圓規座]]
+[[zh:圆规座]]

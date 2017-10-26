@@ -1,0 +1,75 @@
+<table border=1 cellpadding=2 cellspacing=0 align=right width=275px>
+<caption><font size=+1>'''Gelsenkirchen'''</font></caption>
+<tr><td style=background:#efefef; align=center colspan=2>
+<table border=0 cellpadding=2 cellspacing=0>
+<tr><td align=center>[[Image:Lage der Stadt Gelsenkirchen in Deutschland.png|160px|]]<td align=center>[[Image:Stadtwappen der kreisfreien Stadt Gelsenkirchen.png|87px|]]
+</table>
+<tr><td>Iedzīvotāji (2005)<td>267 673
+<tr><td>Rakstos<td>1003.g
+<tr><td>Pilsētas tiesības<td>1896.g
+<tr><td>Federālā zeme<td>[[Ziemeļreina-Vestfālene]]
+<tr><td>Mājaslapa<td>http://www.gelsenkirchen.de/
+</table>'''Gelzenkirhene''' ({{val-de|Gelsenkirchen}}) - rūpnieciska pilsēta [[Vācija|Vācijā]], [[Ziemeļriena-Vesfālene|Ziemeļreinā-Vestfālene]]. Atrodas [[Rūra (konurbācija)|Rūras]] konurbācijas ziemeļos.
+
+[[Image:BuerNorden2005 2.jpg|200px|thumb|left|Gelzenkirhenes panorāma]]
+XX gs. sākumā Gelzinkirhene, toreiz '''Gelzinkirhene-Būra''' (''Gelsenkirchen-Buer''), bija viena no svarīgākajām [[ogles|ogļu]] ieguves pilsētām [[Eiropa|Eiropā]], tomēr 2000.gadā tika aizvērta pēdējā [[šahta]].
+
+Mūsdienās šeit atrodas lielākā [[saules enerģija|saules enerģijas]] spēkstacija Vācijā. 
+
+[[Futbols|Futbolā]] pazīstama kā kluba '' [[FC Schalke 04]]'' mājvieta.
+
+{{commonscat|Gelsenkirchen, Germany|Gelzenkirhene}}
+{{Vācija-aizmetnis}}
+
+[[Kategorija:Vācijas pilsētas]]
+
+{{Link FA|de}}
+
+[[ar:غيلسنكيرشن]]
+[[az:Gelzenkirxen]]
+[[bg:Гелзенкирхен]]
+[[ca:Gelsenkirchen]]
+[[cs:Gelsenkirchen]]
+[[da:Gelsenkirchen]]
+[[de:Gelsenkirchen]]
+[[el:Γκελζενκίρχεν]]
+[[en:Gelsenkirchen]]
+[[eo:Gelsenkirchen]]
+[[es:Gelsenkirchen]]
+[[et:Gelsenkirchen]]
+[[fa:گلزن‌کیرشن]]
+[[fi:Gelsenkirchen]]
+[[fr:Gelsenkirchen]]
+[[gl:Gelsenkirchen]]
+[[he:גלזנקירכן]]
+[[hr:Gelsenkirchen]]
+[[id:Gelsenkirchen]]
+[[it:Gelsenkirchen]]
+[[ja:ゲルゼンキルヒェン]]
+[[kk:Гельзенкирхен]]
+[[ko:겔젠키르헨]]
+[[ksh:Jelsenkirsche]]
+[[lt:Gelzenkirchenas]]
+[[mr:गेलसिन्कीचेन]]
+[[ms:Gelsenkirchen]]
+[[nds:Gelsenkiärken]]
+[[nl:Gelsenkirchen]]
+[[nn:Gelsenkirchen]]
+[[no:Gelsenkirchen]]
+[[oc:Gelsenkirchen]]
+[[pl:Gelsenkirchen]]
+[[pt:Gelsenkirchen]]
+[[ro:Gelsenkirchen]]
+[[ru:Гельзенкирхен]]
+[[sh:Gelsenkirchen]]
+[[simple:Gelsenkirchen]]
+[[sk:Gelsenkirchen]]
+[[sq:Gelzenkirheni]]
+[[sr:Гелзенкирхен]]
+[[sv:Gelsenkirchen]]
+[[th:เกลเซนเคียร์เคิน]]
+[[tr:Gelsenkirchen]]
+[[vi:Gelsenkirchen]]
+[[vo:Gelsenkirchen]]
+[[zh:盖尔森基兴]]
+[[zh-min-nan:Gelsenkirchen]]

@@ -1,0 +1,38 @@
+{{Infobox Latvian municipalities
+| name              = Rucava municipality<br/>''Rucavas novads''
+| map               = Rucavas novada karte.png
+| map2              = 
+| map2_description  = 
+| coat_of_arms      = 
+| name_coat_of_arms = 
+| coat_of_arms_width= 
+| flag              = 
+| name_flag         = 
+| centre            = Rucava
+| area              = 448,6<ref>[http://www.raplm.gov.lv/uploads/filedir/Nozares/Pasvaldibas/Administrat%C4%ABvi%20teritori%C4%81lais%20iedal%C4%ABjum%20ar%20platibu.doc The Ministry of Regional Development and Local Government of the Republic of Latvia]</ref>
+| population        = 2.013<ref>[http://web.cvk.lv/pub/public/29275.html The Central Election Commission of Latvia]</ref>
+| pop_year          = 2009
+| density           = 4,89
+| formed            = 2009
+| mayor             = Viktors Čamans
+| villages          = 
+| website           =
+}}
+'''Rucava municipality''' ({{lang-lv|Rucavas novads}}) is a [[municipality]] in [[Courland]], [[Latvia]]. The municipality was formed in [[2009]] by [[Merger (politics)|merging]] [[Dunika parish]] and [[Rucava parish]] the administrative centre being [[Rucava]].
+
+== See also ==
+* [[Administrative divisions of Latvia (2009)]]
+
+== References ==
+{{reflist}}
+
+{{Latvian municipalities 2009}}
+
+{{coord missing|Latvia}}
+{{Latvia-geo-stub}}
+
+[[Category:Municipalities of Latvia]]
+
+[[es:Municipalidad de Rucava]]
+[[lv:Rucavas novads]]
+[[lt:Rucavos savivaldybė]]

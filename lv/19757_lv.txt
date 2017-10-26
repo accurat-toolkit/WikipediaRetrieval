@@ -1,0 +1,53 @@
+'''Asamblervaloda''' ir [[zema līmeņa programmēšanas valoda]], kas ir [[cilvēklasāms|cilvēklasāma]] [[mašīnvaloda|mašīnvalodas]] notācija. Dažādu datoru arhitektūru asamblervalodas nav savietojamas savā starpā. Savulaik asamblervalodas lietošana bija plaši izplatīta, bet mūsdienās tā aprobežojas ar atsevišķiem gadījumiem, kad ir nepieciešama īpaša ātrdarbība.
+
+Programma asamblervalodā sastāv no instrukcijām, kas atbilst mašīnkoda instrukcijām, kas tiks ielādētas atmiņā un izpildītas. Piemēram [[x86]] procesori spēj izpildīt sekošu mašīnkoda instrukciju:
+* 10110000 01100001 (0xb061)
+Šī pati komanda asamblervalodā izskatās sekojoši:
+* mov al, 61h
+
+== Skatīt arī ==
+* [[Asamblers]]
+
+{{IT-aizmetnis}}
+[[Kategorija:Programmēšanas valodas]]
+
+[[ar:لغة تجميع]]
+[[bg:Асемблер]]
+[[bn:অ্যাসেম্বলি ভাষা]]
+[[bs:Assembler]]
+[[ca:Llenguatge assemblador]]
+[[cs:Jazyk symbolických adres]]
+[[da:Assemblersprog]]
+[[de:Assemblersprache]]
+[[el:Assembly (γλώσσα προγραμματισμού)]]
+[[en:Assembly language]]
+[[eo:Asembla lingvo]]
+[[es:Lenguaje ensamblador]]
+[[et:Assemblerkeel]]
+[[fa:اسمبلی]]
+[[fi:Assembly (ohjelmointikieli)]]
+[[fr:Assembleur]]
+[[he:שפת סף]]
+[[hi:असेम्बली भाषा]]
+[[hr:Asemblerski jezik]]
+[[hu:Assembly]]
+[[is:Smalamál]]
+[[it:Assembly]]
+[[ja:アセンブリ言語]]
+[[ka:ასემბლერი]]
+[[ko:어셈블리어]]
+[[lt:Asemblerio kalba]]
+[[no:Assembler]]
+[[pt:Linguagem de montagem]]
+[[ro:Limbaj de asamblare]]
+[[ru:Язык ассемблера]]
+[[sh:Asemblerski jezik]]
+[[si:ඇසෙම්බ්ලි භාෂාව]]
+[[simple:Assembly language]]
+[[sl:Zbirni jezik]]
+[[sq:Assembly]]
+[[sr:Асемблер]]
+[[th:ภาษาแอสเซมบลี]]
+[[tr:Çevirici diller]]
+[[vi:Hợp ngữ]]
+[[zh:汇编语言]]

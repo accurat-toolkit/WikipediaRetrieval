@@ -1,0 +1,44 @@
+{{Info BioTakso
+| attēls =Espenrotkappe.jpg
+| att_nosaukums=[[Parastā apšubeka]] (''Leccinum aurantiacum'')
+| valsts =Fungi
+| valsts_lv =Sēnes
+| nodalījums =Basidiomycota
+| nodalījums_lv =Bazīdijsēnes
+| klase =Homobasidiomycetes
+| klase_lv =Himēnijsēnes
+| kārta =Boletales
+| kārta_lv =Beku rinda
+| dzimta =Boletaceae
+| dzimta_lv =Beku dzimta
+| ģints =Leccinum
+| ģints_lv =Lācīši
+| suga =L. aurantiacum
+| suga_lv =Parastā apšubeka
+| binomial =Leccinum aurantiacum
+| sinonīmi = ''Leccinum rufum, Boletus rufus''
+| kategorijas =nē
+}}
+
+
+{{atsauces+}}
+'''Parastā apšubeka''' ({{val-la|Leccinum aurantiacum}}) - [[sēne]]. Cepurīte var būt dažādā krāsā - dzeltena, dzelteni brūna, iesārta, brūni sarkana; izaug līdz 25 cm plata. Jaunām apšu bekām cepurīte salīdzinājumā ar kātiņu ir ļoti maza, pusapaļa, vēlāk izplešas. Kātiņš balts, ar tumši brūnām vai melnām gareniskām zvīņām. Stobriņu slānis jaunām apšu bekām gaiši pelēks, ciets, vecām - tumši pelēks, mīksts, viegli atdalāms no cepurītes mīkstuma. Jaunām sēnēm mīkstums balts, vecākām - pelēcīgs, griezuma vai lauzuma vietās kļūst tumšs. Mušu kāpuru bojājumu vietas - melnas. Atrodama galvenokārt retās lapu un jauktu koku jaunaudzēs, mežmalās. Vislabāk aug tur, kur ir apses. Galvenais augšanas periods ir augusts un septembris. Ļoti garšīga sēne. Lieto bez iepriekšējas novārīšanas. Saskaroties ar gaisu, apšu bekas mīkstums kļūst pelēks, tāpēc arī pagatavotās bekas ir pelēkas. Ļoti laba sēne marinēšanai.
+
+[[Kategorija:Bekas]]
+[[Kategorija:Ēdamās sēnes]]
+
+[[ca:Abró vermell]]
+[[de:Espenrotkappe]]
+[[en:Leccinum aurantiacum]]
+[[fi:Haavanpunikkitatti]]
+[[fr:Bolet orangé]]
+[[hu:Vörös érdestinóru]]
+[[it:Leccinum aurantiacum]]
+[[ka:ვერხვისძირა]]
+[[lt:Tikrasis raudonviršis]]
+[[pl:Koźlarz czerwony]]
+[[ru:Подосиновик красный]]
+[[sah:Кыһыл тэтиҥээйи]]
+[[sl:Trepetlikov turek]]
+[[sv:Aspsopp]]
+[[uk:Підосиковик]]

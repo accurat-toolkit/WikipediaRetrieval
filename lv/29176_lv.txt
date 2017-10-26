@@ -1,0 +1,35 @@
+{| border=1 cellpadding=2 cellspacing=0 align=right width=300px
+|+<font size=+1>'''Brisbena (upe)'''</font>
+|- 
+| style=background:#efefef; align=center colspan=2 | 
+{| border=0 cellpadding=2 cellspacing=0
+| align=center | [[Attēls:Brisbane River.jpg|280px|]]
+| 
+|}
+|- 
+| Valsts
+| [[Austrālija_(valsts)|Austrālija]]
+|- 
+| Garums
+| 344 km
+|- 
+| Platība
+| 13,600 km²
+|}
+
+'''Brisbena''' ir upe [[Austrālija_(valsts)|Austrālijas]] austrumu daļā. Tā tek cauri [[Brisbena_(pilsēta)|Brisbenas]] pilsētai.
+
+[[Kategorija:Upes]]
+
+[[ar:نهر بريزبين]]
+[[de:Brisbane River]]
+[[en:Brisbane River]]
+[[es:Río Brisbane]]
+[[fr:Brisbane (fleuve)]]
+[[ja:ブリスベン川]]
+[[mn:Брисбэн гол]]
+[[nl:Brisbane (rivier)]]
+[[no:Brisbane River]]
+[[pl:Brisbane (rzeka)]]
+[[zh:布里斯班河]]
+[[zh-yue:布里斯本河]]

@@ -1,0 +1,28 @@
+:''Not to be confused with [[Kerckhoffs' principle]].''
+
+There are several '''Kirchhoff's laws''', all named after [[Gustav Robert Kirchhoff]]:
+
+* [[Kirchhoff's circuit laws]]
+* [[Kirchhoff's law of thermal radiation]]
+* [[Kirchhoff's equations]]
+* [[Spectrum analysis|Kirchhoff's three laws of spectroscopy]]
+
+==See also==
+* [[Scientific laws named after people]]
+* [[Ohm's law]]
+
+{{DEFAULTSORT:Kirchhoff's Laws}}
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[ar:قوانين كيرشوف (توضيح)]]
+[[da:Kirchhoffs love]]
+[[el:Νόμοι του Κίρκοφ]]
+[[ko:키르히호프의 법칙]]
+[[hr:Kirchhoffovi zakoni]]
+[[lv:Kirhofa likumi]]
+[[nl:Wetten van Kirchhoff]]
+[[ja:キルヒホッフの法則]]
+[[pl:Prawa Kirchhoffa]]
+[[pt:Leis de Kirchhoff]]
+[[fi:Kirchhoffin säännöt]]
+[[zh:基爾霍夫定律]]

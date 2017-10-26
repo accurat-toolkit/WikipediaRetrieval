@@ -1,0 +1,100 @@
+{{Infobox Settlement
+ | official_name = Kizilorda
+ | native_name = Қызылорда
+ | image_skyline = Qyzylorda station.jpg|Dzelzceļa stacija
+ | image_flag = 
+ | image_seal = 
+ | image_map = 
+ | map_caption = 
+ |pushpin_map            = Kazakhstan
+ |pushpin_label_position =bottom
+ |pushpin_mapsize        = 280
+ |pushpin_map_caption    =Atrašanās vieta Kazahstānā
+ |subdivision_type = [[Valstis|Valsts]]
+ |subdivision_type1 = [[Kazahstānas apgabali|Apgabals]]
+ |subdivision_name =‎ {{KAZ}}
+ |subdivision_name1 = [[Kizilordas apgabals]]
+ | established_title = Dibināta
+ | established_date =1820
+ | government_type = 
+ | leader_title = Akims <small>([[mērs]])</small>
+ | leader_name = Seriks Kozhanijazovs
+ | area_magnitude = 
+ | area_total_sq_mi =
+ | area_total_km2 = 
+ | area_land_sq_mi =
+ | area_land_km2 = 
+ | area_urban_sq_mi = 
+ | area_urban_km2 = 
+ | area_metro_km2 = 
+ | area_metro_sq_mi = 
+ | population_as_of=1999
+ | population_footnotes =
+ | population_total = 157 400
+ | population_urban = 
+ | population_metro =
+ | population_density_sq_mi = 
+ | population_density_km2 =
+ | timezone = [[Butānas laiks|BTT]]
+ | utc_offset = +6
+ | timezone_DST =
+ | utc_offset_DST = 
+ | latd=44|latm=51|lats=0|latNS=N
+ | longd=65|longm=31|longs=0|longEW=E
+ | elevation_footnotes=
+ | elevation_m = 
+ | elevation_ft = 
+ | postal_code_type = [[Pasta indekss]]
+ | postal_code = 120001 - 120018
+ | area_code = +7 7242
+ | website = http://www.kyzylorda-city.kz/
+ | footnotes =
+ }}
+
+'''Kizilorda''' ({{val-kk|Қызылорда}}) ir pilsēta [[Kazahstāna|Kazahstānā]], [[Kizilordas apgabals|Kizilordas apgabala]] galvaspilsēta. Pilsētā ir 157 400 iedzīvotāju ([[1999]]. gada dati). Pilsētai cauri tek [[Sirdarja]].
+
+Kizilorda ir dibināta [[1820]]. gadā kā [[Kokanda haniste|Kokanda]] cietoksnis ''Akmečeta'' (''Ak-Mechet'', arī ''Aq Masjid'', ''Aq Mechet'', 'baltā mošeja'). Forta komandieris bija [[Jakubs Begs]], līdz to [[1853]]. gadā ieņēma [[Krievija]]s karaspēks ģenerāļa [[Vasīlijs Perovskis|Vasīlija Perovska]] vadībā. 
+
+Krievi pārsauca fortu par ''Perovska fortu''. Kopš [[1867]]. gada pilsētu sauca ''Perovska''; kopš [[1920]] atkal par Akmečetu. 
+
+[[1925]]. gadā pilsēta kļuva par Kizil-Ordu, no [[kazahu valoda|kazahu]] ''qyzyl'' 'sarkans' un ''orda'' 'centrs', 'galvaspilsēta'.
+
+Pilsētai ir sadraudzības pilsētas attiecības ar [[ASV]] štata [[Kolorado]] pilsētu [[Arvada|Arvadu]].
+
+Kizilordā atrodas [[Kizilordas_lidosta|lidosta]].
+
+Kizilorda ir izveidojusies par piegādes centru svarīgiem [[naftas lauks|naftas laukiem]] tuvējā [[Turgajas ieplaka|Turgajas ieplakā]].
+
+== Ārējās saites ==
+{{commonsCat|Qyzylorda|Kizilorda}}
+* http://www.kyzylorda-city.kz/
+* http://www.kyzylorda.kz
+* http://www.kyzylordaforum.com
+
+{{Kazahstāna-aizmetnis}}
+
+[[Kategorija:Bijušās galvaspilsētas]]
+[[Kategorija:Kazahstānas pilsētas]]
+
+[[ca:Kizilordà]]
+[[de:Qysylorda]]
+[[en:Kyzylorda]]
+[[et:Kõzõlorda]]
+[[fa:قیزیل‌اوردا]]
+[[fi:Qızılorda]]
+[[fr:Kyzylorda]]
+[[it:Qyzylorda]]
+[[ja:クズロルダ]]
+[[kk:Қызылорда]]
+[[ko:키질로르다]]
+[[lt:Kyzylorda]]
+[[nl:Qızılorda]]
+[[nn:Kyzylorda]]
+[[pl:Kyzyłorda]]
+[[pt:Qyzylorda]]
+[[roa-rup:Kyzylorda]]
+[[ru:Кызылорда]]
+[[sv:Qyzylorda]]
+[[uk:Кизилорда]]
+[[war:Kyzylorda]]
+[[zh:克孜勒奧爾達]]

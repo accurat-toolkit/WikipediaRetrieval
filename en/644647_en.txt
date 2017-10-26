@@ -1,0 +1,62 @@
+{{Infobox Settlement
+| name = Janów Lubelski
+| image_shield = POL Janów Lubelski COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Country
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Lublin Voivodeship|Lublin]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Janów Lubelski County]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Janów Lubelski]]
+| leader_title = Mayor
+| leader_name = Krzysztof Adam Kołtyś
+| area_total_km2 = 14.84
+| population_as_of = 2006
+| population_total = 11938
+| population_density_km2 = auto
+| timezone = [[Central European Time|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 50 | latm = 43 | lats =  | latNS = N | longd = 22 | longm = 25 | longs =  | longEW = E
+| postal_code_type = Postal code
+| postal_code = 23-300
+| blank_name = [[Polish car number plates|Car plates]]
+| blank_info = LJA
+| website = http://www.janowlubelski.pl/ }} 
+
+'''Janów Lubelski''' {{IPAr|pl|'|j|a|n|u|f|-|l|u|'|b|e|l|s|k|i}} is a town in eastern [[Poland]]. It has 11,882 inhabitants (2004).
+
+Situated in the [[Lublin Voivodship]] (since 1999). It is the capital of [[Janów Lubelski County]]. 
+
+It has a large hospital (Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej). It also has several tourist attractions - buildings and churches from 17th-18th centuries.
+
+The town was founded in 1640 at the site of an older village.
+
+<br>
+{{Janów Lubelski County}}
+{{Gmina Janów Lubelski}}
+
+{{coord|50|43|N|22|25|E|region:PL_type:city|display=title}}
+
+{{DEFAULTSORT:Janow Lubelski}}
+[[Category:Cities and towns in Lublin Voivodeship]]
+[[Category:Janów Lubelski County]]
+
+
+{{Lublin-geo-stub}}
+
+[[de:Janów Lubelski]]
+[[eo:Janów Lubelski]]
+[[jv:Janów Lubelski]]
+[[lv:Janova Lubelska]]
+[[nl:Janów Lubelski]]
+[[pl:Janów Lubelski]]
+[[pt:Janów Lubelski]]
+[[ro:Janów Lubelski]]
+[[ru:Янув-Любельски]]
+[[sk:Janów Lubelski]]
+[[uk:Янів-Любельський]]

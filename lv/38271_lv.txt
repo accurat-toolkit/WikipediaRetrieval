@@ -1,0 +1,32 @@
+'''Dabas liegums''' ir cilvēka darbības mazpārveidota vai dažādā pakāpē pārveidota dabas teritorija, kas ietver īpaši aizsargājamo savvaļas augu un dzīvnieku sugu dzīvotnes un īpaši aizsargājamos biotopus.
+
+==Skatīt arī==
+* [[Lielie Kangari]]
+* [[Mežmuižas avoti]]
+
+== Ārējās saites ==
+*[http://www.likumi.lv/doc.php?id=59994 Likums: Par īpaši aizsargājamām dabas teritorijām]
+
+{{ģeo-aizmetnis}}
+
+[[Kategorija:Latvijas ģeogrāfija]]
+[[Kategorija:Latvijas īpaši aizsargājamās dabas teritorijas]]
+
+[[cs:Chráněné území]]
+[[de:Schutzgebiete in Natur- und Landschaftsschutz]]
+[[en:Protected area]]
+[[es:Área protegida]]
+[[et:Kaitseala]]
+[[fr:Aire protégée]]
+[[hu:Tájvédelmi körzet]]
+[[id:Kawasan yang dilindungi]]
+[[nl:Beschermd gebied]]
+[[pl:Obszar chroniony]]
+[[pt:Área protegida]]
+[[ro:Arie protejată]]
+[[ru:Особо охраняемая природная территория]]
+[[sk:Chránené územie]]
+[[sr:Заштита природе]]
+[[th:พื้นที่คุ้มครอง]]
+[[uk:Природоохоронна територія]]
+[[zh:保护区]]

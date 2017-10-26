@@ -1,0 +1,31 @@
+{{viela
+|attēls=[[Attēls:Lignocerīnskābe.svg|240px]]
+|ķīmiskā formula=C<sub>24</sub>H<sub>48</sub>O<sub>2</sub>
+|molmasa=368,64
+|blīvums=820,7
+|kušanas temperatūra=81-83,5°C
+|viršanas temperatūra=?
+}}
+'''Lignocerīnskābe''' (tetrakozānskābe, С<sub>23</sub>Н<sub>47</sub>СООН) pieder pie  piesātinātajām  [[karbonskābe|karbonskābēm]]. Lignocerīnskābe ir balta kristāliska (adatveida kristāli) viela.
+
+==Atrašanās dabā==
+Atrodama koku sveķos, vaskos ( no cēlies vielas nosaukums - {{Val-la|lignum}} - koks, {{Val-la|cera}} - [[vasks]]),
+[[cerebrozīdi|cerebrozīdos]], iespējams, zemesriekstu eļļā. Lignocerīnskābe atrodama arī karnaubas vaskā ([[Brazīlija]]s vaska palmas lapu vaskā), tādēļ senāk to sauca par karnaubas skābi.
+
+==Iegūšana==
+Rodas [[lignīns|lignīna]] ražošanā kā blakusprodukts. Gandrīz tīru lignocerīnskābi var iegūt no buksuskoka sveķiem.
+
+==Īpašības==
+Reducējot lignocerīnskābi, var iegūt [[lignocerilspirts|lignocerilspirtu]].
+
+
+{{Piesātinātās karbonskābes}}
+
+[[Category:Karbonskābes]]
+
+[[de:Lignocerinsäure]]
+[[en:Lignoceric acid]]
+[[ja:リグノセリン酸]]
+[[pl:Kwas lignocerynowy]]
+[[pt:Ácido lignocérico]]
+[[ru:Лигноцериновая кислота]]

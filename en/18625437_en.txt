@@ -1,0 +1,267 @@
+{{SwimmingAt2008SummerOlympics}}
+The '''women's 100 metre backstroke''' event at the 2008 Olympic Games took place on 10-12 August at the [[Beijing National Aquatics Center]]. This [[Swimming (sport)|swimming]] event used the [[backstroke]]. Because an Olympic size swimming pool is 50 metres long, this race consisted of two lengths of the pool.
+
+Seven heats were held, with most containing the maximum number of swimmers (eight). The heat in which a swimmer competed did not formally matter for advancement, as the swimmers with the top sixteen times from the entire field qualified for the semifinals. Two semifinal heats of eight swimmers each were held. The swimmers with the eight fastest times again advanced to the finals; there, they all competed in a single final heat to earn final placements.
+
+The qualifying standards were for the 2008 event were 1:01.70 seconds (A norm) and 1:03.86 seconds (B norm). NOCs with two or more swimmers meeting the A standard could enter any two such swimmers; otherwise, they could enter a single swimmer meeting the B standard.
+
+==Schedule==
+<small>All times are [[China Standard Time]] ([[UTC+8]])</small>
+{| class="wikitable"
+! Date
+! Time
+! Round
+|-
+|Sunday, [[August 10]], [[2008]] || '''18:30-19:00''' || '''[[#Heats|Heats]]'''
+|-
+|Monday, [[August 11]], [[2008]] || '''10:00-10:10''' || '''[[#Semifinals|Semifinals]]'''
+|- bgcolor="lemonchiffon"
+|Tuesday, [[August 12]], [[2008]] ||align=center| '''10:20''' || '''[[#Final|Final]]'''
+|}
+
+==Medalists==
+{| class="wikitable"
+|-
+|{{OlympicGoldMedalist|[[Natalie Coughlin]]|USA|2008 Summer}}
+|-
+| {{OlympicSilverMedalist| [[Kirsty Coventry]]|ZIM|2008 Summer}}
+|-
+| {{OlympicBronzeMedalist| [[Margaret Hoelzer]] |USA|2008 Summer}}
+|}
+
+==Records==
+Prior to this competition, the existing world and Olympic records were as follows.
+
+{{World Olympic Record
+| world_athlete   = {{flagathlete|[[Natalie Coughlin]]|USA}}
+| world_mark      = 58.97
+| world_place     = [[Omaha, Nebraska|Omaha]], [[United States]]
+| world_date      = [[1 July]] [[2008]]
+| world_ref       = <ref>{{cite news|title=Coughlin and Peirsol blitz to world records|url=http://www.nytimes.com/reuters/sports/sports-swimming-us.html|publisher=''[[The New York Times]]''|date=2008-07-01|accessdate=2008-08-06}}</ref>
+| olympic_athlete = {{flagIOCathlete|[[Natalie Coughlin]]|USA|2004 Summer}}
+| olympic_mark    = 59.68
+| olympic_place   = [[Athens]], [[Greece]]
+| olympic_date    = [[21 August]] [[2004]]
+| olympic_ref     =
+}}
+
+The following new world and Olympic records were set during this competition.
+
+{| class=wikitable style=text-align:center
+|-
+! Date !! Event !! Name !! Nationality !! Time !! OR !! WR
+|-
+| [[August 10]] || Heat 5 || [[Anastasia Zuyeva]] || align=left | {{flagIOC|RUS|2008 Summer}} || 59.61 || OR || 
+|-
+| [[August 10]] || Heat 6 || [[Reiko Nakamura]] || align=left | {{flagIOC|JPN|2008 Summer}} || 59.36 || OR || 
+|-
+| [[August 10]] || Heat 7 || [[Kirsty Coventry]] || align=left | {{flagIOC|ZIM|2008 Summer}} || 59.00 || OR || 
+|-
+| [[August 11]] || Semifinal 2 || [[Kirsty Coventry]] || align=left | {{flagIOC|ZIM|2008 Summer}} || 58.77 || OR || WR
+|}
+
+During the two preliminary heats, [[Kristy Coventry]] broke first the existing Olympic Record, then the existing World Record. Thus, prior to the final heat, both records were different than what they had been before the competition started.  In the final heat, [[Natalie Coughlin]] won the event, but failed to recapture her pre-match records from Coventry .  However, she did better her pre-match World Record, and thus her personal best, by .01 second.
+
+==Heats==
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Rank !! Heat !! Lane !! Name !! Nationality !! Time !! Notes
+|-bgcolor=ccffcc
+|1 || 7 || 5 ||align=left| [[Kirsty Coventry]] ||align=left| {{flagIOC|ZIM|2008 Summer}}  || '''<span style="display:none">0:</span>59.00''' || '''Q, OR'''
+|-bgcolor=ccffcc
+|2 || 6 || 6 ||align=left| [[Reiko Nakamura]] ||align=left| {{flagIOC|JPN|2008 Summer}}  || '''<span style="display:none">0:</span>59.36''' || '''Q, OR'''
+|-bgcolor=ccffcc
+|3 || 5 || 4 ||align=left| [[Anastasia Zuyeva]] ||align=left| {{flagIOC|RUS|2008 Summer}}  || '''<span style="display:none">0:</span>59.61''' || '''Q, OR'''
+|-bgcolor=ccffcc
+|4 || 7 || 4 ||align=left| [[Natalie Coughlin]] ||align=left| {{flagIOC|USA|2008 Summer}}  || '''<span style="display:none">0:</span>59.69''' || '''Q'''
+|-bgcolor=ccffcc
+|5 || 6 || 5 ||align=left| [[Laure Manaudou]] ||align=left| {{flagIOC|FRA|2008 Summer}}  || '''1:00.09''' || '''Q'''
+|-bgcolor=ccffcc
+|6 || 7 || 6 ||align=left| [[Gemma Spofforth]] ||align=left| {{flagIOC|GBR|2008 Summer}}  || '''1:00.11''' || '''Q'''
+|-bgcolor=ccffcc
+|7 || 6 || 4 ||align=left| [[Margaret Hoelzer]] ||align=left| {{flagIOC|USA|2008 Summer}}  || '''1:00.13''' || '''Q'''
+|-bgcolor=ccffcc
+|8 || 6 || 3 ||align=left| [[Ito Hanae]] ||align=left| {{flagIOC|JPN|2008 Summer}}  || '''1:00.16''' || '''Q'''
+|-bgcolor=ccffcc
+|9 || 5 || 5 ||align=left| [[Emily Seebohm]] ||align=left| {{flagIOC|AUS|2008 Summer}}  || '''1:00.27''' || '''Q'''
+|-bgcolor=ccffcc
+|10 || 4 || 3 ||align=left| [[Julia Wilkinson]] ||align=left| {{flagIOC|CAN|2008 Summer}}  || '''1:00.38''' || '''Q'''
+|-bgcolor=ccffcc
+|11 || 5 || 8 ||align=left| [[Antje Buschschulte]] ||align=left| {{flagIOC|GER|2008 Summer}}  || '''1:00.48''' || '''Q'''
+|-bgcolor=ccffcc
+|12 || 5 || 2 ||align=left| [[Elizabeth Simmonds]] ||align=left| {{flagIOC|GBR|2008 Summer}}  || '''1:00.53''' || '''Q'''
+|-bgcolor=ccffcc
+|13 || 5 || 6 ||align=left| [[Nina Alexandrovna Zhivanevskaya]] ||align=left| {{flagIOC|ESP|2008 Summer}}  || '''1:00.54''' || '''Q'''
+|-bgcolor=ccffcc
+|14 || 5 || 3 ||align=left| [[Sophie Edington]] ||align=left| {{flagIOC|AUS|2008 Summer}}  || '''1:00.65''' || '''Q'''
+|-bgcolor=ccffcc
+|15 || 7 || 1 ||align=left| [[Elizabeth Coster]] ||align=left| {{flagIOC|NZL|2008 Summer}}  || '''1:00.66''' || '''Q'''
+|-bgcolor=ccffcc
+|16 || 6 || 1 ||align=left| [[Kseniya Moskvina]] ||align=left| {{flagIOC|RUS|2008 Summer}}  || '''1:00.70''' || '''Q'''
+|-
+|17 || 5 || 1 ||align=left| [[Xu Tianlongzi]] ||align=left| {{flagIOC|CHN|2008 Summer}}  || 1:00.82 ||
+|-
+|18 || 7 || 7 ||align=left| [[Fabíola Molina]] ||align=left| {{flagIOC|BRA|2008 Summer}}  || 1:01.00 ||
+|-
+|19 || 3 || 3 ||align=left| [[Carolina Colorado]] ||align=left| {{flagIOC|COL|2008 Summer}}  || 1:01.19 ||
+|-
+|20 || 4 || 4 ||align=left| [[Melissa Ingram]] ||align=left| {{flagIOC|NZL|2008 Summer}}  || 1:01.24 ||
+|-
+|21 || 5 || 7 ||align=left| [[Kateryna Zubkova]] ||align=left| {{flagIOC|UKR|2008 Summer}}  || 1:01.25 ||
+|-
+|22 || 6 || 2 ||align=left| [[Sanja Jovanović]] ||align=left| {{flagIOC|CRO|2008 Summer}}  || 1:01.30 ||
+|-
+|23 || 7 || 2 ||align=left| [[Alexianne Castel]] ||align=left| {{flagIOC|FRA|2008 Summer}}  || 1:01.44 ||
+|-
+|24 || 7 || 8 ||align=left| [[Nikolett Szepesi]] ||align=left| {{flagIOC|HUN|2008 Summer}}  || 1:01.77 ||
+|-
+|25 || 3 || 2 ||align=left| [[Anna Gostomelsky]] ||align=left| {{flagIOC|ISR|2008 Summer}}  || 1:01.87 ||
+|-
+|26 || 4 || 6 ||align=left| [[Romina Armellini]] ||align=left| {{flagIOC|ITA|2008 Summer}}  || 1:02.21 ||
+|-
+|26 || 4 || 8 ||align=left| [[Anja Carman]] ||align=left| {{flagIOC|SLO|2008 Summer}}  || 1:02.21 ||
+|-
+|28 || 4 || 5 ||align=left| [[Mercedes Peris]] ||align=left| {{flagIOC|ESP|2008 Summer}}  || 1:02.30 ||
+|-
+|29 || 3 || 1 ||align=left| [[Sarah Sjöström]] ||align=left| {{flagIOC|SWE|2008 Summer}}  || 1:02.38 ||
+|-
+|30 || 4 || 2 ||align=left| [[Hanna-Maria Seppälä]] ||align=left| {{flagIOC|FIN|2008 Summer}}  || 1:02.39 ||
+|-
+|31 || 4 || 1 ||align=left| [[Aisling Margaret Cooney]] ||align=left| {{flagIOC|IRL|2008 Summer}}  || 1:02.50 ||
+|-
+|32|| 3 || 7 ||align=left| [[Alana Dillette]] ||align=left| {{flagIOC|BAH|2008 Summer}}  || 1:02.56 ||
+|-
+|33 || 1 || 4 ||align=left| [[Kiera Aitken]] ||align=left| {{flagIOC|BER|2008 Summer}}  || 1:02.62 ||
+|-
+|34 || 3 || 4 ||align=left| [[Tsai Hiu Wai Sherry]] ||align=left| {{flagIOC|HKG|2008 Summer}}  || 1:02.68 ||
+|-
+|35 || 3 || 5 ||align=left| [[Fernanda González]] ||align=left| {{flagIOC|MEX|2008 Summer}}  || 1:02.76 ||
+|-
+|36 || 2 || 4 ||align=left| [[Zuzanna Mazurek]] ||align=left| {{flagIOC|POL|2008 Summer}}  || 1:02.77 ||
+|-
+|37 || 6 || 7 ||align=left| [[Iryna Amshennikova]] ||align=left| {{flagIOC|UKR|2008 Summer}}  || 1:02.85 ||
+|-
+|38 || 2 || 5 ||align=left| [[Gisela Morales]] ||align=left| {{flagIOC|GUA|2008 Summer}}  || 1:02.92 ||
+|-
+|39 || 3 || 6 ||align=left| [[Petra Klosová]] ||align=left| {{flagIOC|CZE|2008 Summer}}  || 1:03.36 ||
+|-
+|40 || 2 || 3 ||align=left| [[Marica Strazmester]] ||align=left| {{flagIOC|SRB|2008 Summer}}  || 1:03.56 ||
+|-
+|41 || 3 || 8 ||align=left| [[Sarah Blake Bateman]] ||align=left| {{flagIOC|ISL|2008 Summer}}  || 1:03.82 ||
+|-
+|42 || 6 || 8 ||align=left| [[Christin Zenner]] ||align=left| {{flagIOC|GER|2008 Summer}}  || 1:03.87 ||
+|-
+|43 || 2 || 7 ||align=left| [[Erin Volcán]] ||align=left| {{flagIOC|VEN|2008 Summer}}  || 1:03.90 ||
+|-
+|44 || 2 || 6 ||align=left| [[Kim Yuyon]] ||align=left| {{flagIOC|KOR|2008 Summer}}  || 1:04.63 ||
+|-
+|45 || 2 || 2 ||align=left| [[Yekaterina Rudenko]] ||align=left| {{flagIOC|KAZ|2008 Summer}}  || 1:04.85 ||
+|-
+|46 || 1 || 5 ||align=left| [[Maria Virginia Baez]] ||align=left| {{flagIOC|PAR|2008 Summer}}  || 1:05.39 ||
+|-
+|47 || 1 || 3 ||align=left| [[Christie Marie Bodden Baca]] ||align=left| {{flagIOC|PAN|2008 Summer}}  || 1:07.18 ||
+|-
+|DNS || 4 || 7 ||align=left| [[Svetlana Khokhlova]] ||align=left| {{flagIOC|BLR|2008 Summer}}  || ''DNS'' ||
+|-
+|DSQ || 7 || 3 ||align=left| [[Zhao Jing (swimmer)|Zhao Jing]] ||align=left| {{flagIOC|CHN|2008 Summer}}  || ''DSQ'' ||
+|}
+
+==Semifinals==
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Rank !! Heat !! Lane !! Name !! Nationality !! Time !! Notes
+|-bgcolor=ccffcc
+|1 || 2 || 4 ||align=left| [[Kirsty Coventry]] ||align=left| {{flagIOC|ZIM|2008 Summer}}  || '''<span style="display:none">0:</span>58.77''' || '''Q, WR'''
+|-bgcolor=ccffcc
+|2 || 1 || 5 ||align=left| [[Natalie Coughlin]] ||align=left| {{flagIOC|USA|2008 Summer}}  || '''<span style="display:none">0:</span>59.43''' || '''Q'''
+|-bgcolor=ccffcc
+|3 || 1 || 4 ||align=left| [[Reiko Nakamura]] ||align=left| {{flagIOC|JPN|2008 Summer}}  || '''<span style="display:none">0:</span>59.64''' || '''Q'''
+|-bgcolor=ccffcc
+|4 || 2 || 5 ||align=left| [[Anastasia Zuyeva]] ||align=left| {{flagIOC|RUS|2008 Summer}}  || '''<span style="display:none">0:</span>59.77''' || '''Q'''
+|-bgcolor=ccffcc
+|5 || 1 || 3 ||align=left| [[Gemma Spofforth]] ||align=left| {{flagIOC|GBR|2008 Summer}}  || '''<span style="display:none">0:</span>59.79''' || '''Q'''
+|-bgcolor=ccffcc
+|6 || 2 || 6 ||align=left| [[Margaret Hoelzer]] ||align=left| {{flagIOC|USA|2008 Summer}}  || '''<span style="display:none">0:</span>59.84''' || '''Q'''
+|-bgcolor=ccffcc
+|7 || 1 || 6 ||align=left| [[Ito Hanae]] ||align=left| {{flagIOC|JPN|2008 Summer}}  || '''1:00.13''' || '''Q'''
+|-bgcolor=ccffcc
+|8 || 2 || 3 ||align=left| [[Laure Manaudou]] ||align=left| {{flagIOC|FRA|2008 Summer}}  || '''1:00.19''' || '''Q'''
+|- 
+|9 || 2 || 2 ||align=left| [[Emily Seebohm]] ||align=left| {{flagIOC|AUS|2008 Summer}}  || 1:00.31 || 
+|- 
+|10 || 1 || 7 ||align=left| [[Elizabeth Simmonds]] ||align=left| {{flagIOC|GBR|2008 Summer}}  || 1:00.39 || 
+|- 
+|11 || 2 || 1 ||align=left| [[Nina Alexandrovna Zhivanevskaya]] ||align=left| {{flagIOC|ESP|2008 Summer}}  || 1:00.50 || 
+|- 
+|12 || 1 || 2 ||align=left| [[Julia Wilkinson]] ||align=left| {{flagIOC|CAN|2008 Summer}}  || 1:00.60 || 
+|- 
+|13 || 1 || 1 ||align=left| [[Sophie Edington]] ||align=left| {{flagIOC|AUS|2008 Summer}}  || 1:01.05 || 
+|- 
+|14 || 1 || 8 ||align=left| [[Kseniya Moskvina]] ||align=left| {{flagIOC|RUS|2008 Summer}}  || 1:01.06 || 
+|- 
+|15 || 2 || 7 ||align=left| [[Antje Buschschulte]] ||align=left| {{flagIOC|GER|2008 Summer}}  || 1:01.15 || 
+|- 
+|16 || 2 || 8 ||align=left| [[Elizabeth Coster]] ||align=left| {{flagIOC|NZL|2008 Summer}}  || 1:01.45 || 
+|}
+
+==Final==
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Rank !! Lane !! Name !! Nationality !! Time !! Notes
+|-
+| {{Gold1}}
+|5
+|align=left| [[Natalie Coughlin]] ||align=left| {{flagIOC|USA|2008 Summer}} 
+| <span style="display:none">0:</span>58.96 || AR
+|-
+| {{Silver2}}
+|4
+|align=left| [[Kirsty Coventry]] ||align=left| {{flagIOC|ZIM|2008 Summer}} 
+| <span style="display:none">0:</span>59.19 || 
+|-
+| {{Bronze3}}
+|7
+|align=left| [[Margaret Hoelzer]] ||align=left| {{flagIOC|USA|2008 Summer}} 
+| <span style="display:none">0:</span>59.34 || 
+|-
+|4
+|2
+|align=left| [[Gemma Spofforth]] ||align=left| {{flagIOC|GBR|2008 Summer}} 
+| <span style="display:none">0:</span>59.38 || ER
+|-
+|5
+|6
+|align=left| [[Anastasia Zuyeva]] ||align=left| {{flagIOC|RUS|2008 Summer}} 
+| <span style="display:none">0:</span>59.40 || 
+|-
+|6
+|3
+|align=left| [[Reiko Nakamura]] ||align=left| {{flagIOC|JPN|2008 Summer}} 
+| <span style="display:none">0:</span>59.72 || 
+|-
+|7
+|8
+|align=left| [[Laure Manaudou]] ||align=left| {{flagIOC|FRA|2008 Summer}} 
+| <span style="display:none">0:</span>1:00.10 || 
+|-
+|8
+|1
+|align=left| [[Ito Hanae]] ||align=left| {{flagIOC|JPN|2008 Summer}} 
+| <span style="display:none">0:</span>1:00.18 ||
+|}
+<small>ER: European Record.</small>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Swimming At The 2008 Summer Olympics – Women's 100 Metre Backstroke}}
+[[Category:Swimming events at the 2008 Summer Olympics|Women's backstroke 100 metre]]
+
+[[it:Nuoto ai Giochi della XXIX Olimpiade - 100 metri dorso femminili]]
+[[lv:Peldēšana 2008. gada Olimpiskajās spēlēs - Sievietēm, 100 metri, uz muguras]]
+[[hu:2008. évi nyári olimpiai játékok (női 100 méteres hátúszás)]]
+[[mr:२००८ उन्हाळी ऑलिंपिकमधील जलतरण - महिला १०० मीटर बॅकस्ट्रोक]]
+[[no:Svømming under Sommer-OL 2008 - 100 meter ryggsvømming damer]]
+[[pt:Natação nos Jogos Olímpicos de Verão de 2008 - 100m costas feminino]]
+[[ru:Плавание на летних Олимпийских играх 2008 - 100 метров на спине (женщины)]]
+[[zh:2008年夏季奧林匹克運動會游泳比賽－女子100米背泳]]

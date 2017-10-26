@@ -1,0 +1,473 @@
+{{otheruses1|the German city}}
+{{Refimprove|date=February 2009}}
+
+{{Infobox German location
+|Name               = Hanover
+|German_name        = Hannover
+|Art                = City
+|image_photo        = New town hall Hannover.jpg
+|imagesize          = <!-- Photo size. Default is 250px -->
+|image_caption      = The [[New Town Hall (Hanover)|New Town Hall]] in Hanover, built from 1901 to 1913.
+|Wappen             = Coat_of_arms_of_Hannover.svg
+|lat_deg            = 52 | lat_min = 22 | lat_sec = 0
+|lon_deg            = 9 | lon_min = 43 | lon_sec = 0
+|Bundesland         = Lower Saxony
+|Landkreis          = Region Hanover
+|Höhe               = 55
+|Fläche             = 204.01
+|area_metro         = <!-- Metropolitan area, in km². XXX.XX (no commas or other text) -->
+|Einwohner          = 522944
+|Stand              = 2007-11-01
+|pop_ref            = <ref>{{cite web |url=http://www.nls.niedersachsen.de/Tabellen/Bevoelkerung/Bev_veraend_11_06.html |title=Bevölkerungsveränderungen in den kreisfreien Städten und Landkreisen im November 2006 |accessdate=2007-04-25 |language=German}}</ref>
+|pop_metro          = 1128543 
+|PLZ                = 30001 - 30669
+|Vorwahl            = 0511
+|Kfz                = H
+|Gemeindeschlüssel  = 03 2 41 001
+|NUTS               = <!-- NUTS value: DEXXX  - WILL NOT BE DISPLAYED -->
+|LOCODE             = DE HAJ
+|Gliederung         = 13 districts
+|Website            = [http://www.hannover.de/ www.hannover.de]|
+|Bürgermeister      = Stephan Weil
+|Bürgermeistertitel = Oberbürgermeister
+|Partei             = SPD
+|ruling_party1      = SPD
+|ruling_party2      = Greens
+}}
+
+'''Hanover''' or '''Hannover'''{{#tag:ref|Hanover is the traditional English spelling, even though the German spelling (with a double n) is becoming more popular in English; recent editions of other encyclopediæ prefer the German spelling<ref>[http://www.merriam-webster.com/dictionary/Hannover Meriam Webster] lists "Hannover" as the main entry, with "Hanover" being a variant.</ref><ref>[http://www.britannica.com/EBchecked/topic/254472/Hannover Encyclopædia Britannica] uses "Hannover". It says "''English'' Hanover" but uses "Hannover" in the prose.</ref><ref>[http://www.britannica.com/EBchecked/topic/254472/Hannover Microsoft Encarta] gives the primary spelling as "Hannover".</ref> and local government and organisations use the endonymic spelling on their English websites.<ref>http://www.hannover.de/english/ HANNOVER.DE - Official Website of the City and Region of Hannover</ref> However, the traditional spelling should always be used in historical context, especially when referring to the British [[House of Hanover]].{{Citation needed|date=September 2009}}
+|group="nb"}} ({{Audio-de|Hannover|De-Hannover-pronunciation.ogg}}, {{IPA2|haˈnoːfɐ}}), on the river [[Leine]], is the [[capital city|capital]] of the [[Federal states of Germany|federal state]] of [[Lower Saxony]] (''Niedersachsen''), [[Germany]] and was once by [[personal union]] the family seat of the [[House of Hanover|Hanoverian Kings of Great Britain]], in their dignities as the dukes of [[Brunswick-Lüneburg]]  (which title was later called the [[Prince-Elector|Elector of Hanover]] at the end of the historical period known as [[Early Modern Europe]]). After the [[Napoleonic Wars]] ended, the Electorate was enlarged and made into the capital of the [[Kingdom of Hanover]]. 
+
+In addition to being the capital of [[Lower Saxony]], Hanover was the capital of the administrative area ''Regierungsbezirk Hannover'' (''[[Hanover (region)|Hanover region]]'') until Lower Saxony's [[subnational entity|administrative regions]] were disbanded at the beginning of 2005. It is, however, still part of the [[Hanover (district)|Hanover district]] (''Region Hannover''), which is a municipal body made up from the former district and city of Hanover.
+
+With a population of 522,944 (1 February 2007) the [[city]] is a major center of northern Germany, known for hosting annual commercial [[expo]]sitions such as the [[Hanover Fair]] and the [[wikt:CeBIT|CeBIT]]. Every year Hanover hosts the [[Schützenfest Hannover]], the world's largest Marksmen's Fun Fair, and the [[Oktoberfest_celebrations#Hanover|Oktoberfest Hannover]], which is the second largest [[Oktoberfest]] in the world. In 2000, Hanover hosted the world fair [[Expo 2000]]. The [[Hanover fairground]], due to numerous extensions especially for the Expo 2000, is the largest in the world. Hanover also has regional importance because of its universities and medical school, its international airport, and its large [[Hanover Zoo|zoo]]. The city is also a major crossing point of railway lines and highways ([[Autobahn]]en), connecting European main lines in east-west-direction ([[Berlin]] - [[Ruhr area]]) and north-south-direction ([[Hamburg]] - [[Munich]] et al.).
+
+== History ==
+{{Main| History of Hanover}}
+Founded in medieval times on the south bank of the river [[Leine]] (the original name ''Honovere'' may be translated as "high bank", though this is debated), Hanover was a small village of ferrymen and fishermen that became a comparatively large town in the 13th century as a natural crossroads. In a time of relatively difficult overland travel,  its position on the upper navigable reaches of the river favored it for increasing trade and growth.  Connected to the [[Hanseatic League]] city of [[Bremerhaven]] via the [[Leine]] river from its place near the southern edge of the wide [[Germany|central German plains]] to its north and situated north-west of the [[Harz]] mountains, it enjoyed a mountain skirting "[[Junction (road)|crossroad]]s" position in east-west land traffic by mule train. Hanover thus acted as a gateway to the [[Rhine]], the [[Ruhr (river)|Ruhr]] and [[Saar River]] valleys and their industrial areas to the southwest, for the plains regions both to its east and north, as well as overland traffic skirting the Hartz between the [[Low Countries]] and [[Electorate of Saxony|Saxony]] or [[Thuringia]]. 
+
+In the 14th century the main [[Church (building)|churches]] of Hanover were built, as well as a [[city wall]] with three [[town gates]] to secure the city. With the beginnings of industrialization in Germany, trade in iron and silver from the northern Hartz mountains increased the city's importance.
+
+In 1636 [[George, Duke of Brunswick-Lüneburg]], ruling the [[Brunswick-Lüneburg]]ian Principality of [[Calenberg]], moved his residence to Hanover. The Dukes of Brunswick-Lüneburg ruling Calenberg were imperially elevated to the rank of [[Prince-elector]] in 1692 (confirmed by the [[Reichstag (institution)|Diet]] in 1708), thus their principality became upgraded into the [[Electorate of Brunswick-Lüneburg]], however colloquially called [[Electorate of Hanover]] after Calenberg's capital (see also: [[House of Hanover]]). Its electors would later become in [[personal union]] monarchs of [[Great Britain]] (after 1801, monarchs of the [[United Kingdom of Great Britain and Ireland]]).  The first of them was [[George I of Great Britain|George I Louis]], who ascended to the British throne in 1714. The last British monarch who ruled in Hanover was [[William IV of the United Kingdom|William IV]]; [[Salic law]] forbade the accession of a woman in Hanover, in this case Queen Victoria of Great Britain and Ireland. As a male-line descendant of George I, Queen Victoria was herself a member of the House of Hanover.  Her descendants, however, were affiliated to her husband's titular name of Saxe-Coburg-Gotha.  Three kings of Great Britain, or the United Kingdom, were at the same time [[prince-elector|Electoral Princes]] of Hanover. 
+
+During the time of the personal union of the crowns of the United Kingdom and Hanover (1714&ndash;1837), the monarchs rarely visited the city.  In fact, during the reigns of the final three joint rulers (1760&ndash;1837), there was only one short visit, by [[George IV of the United Kingdom|George IV]], in 1821. 1816–1837 [[Viceroy]] [[Prince Adolphus, Duke of Cambridge|Adolphus]] represented the monarch in Hanover.
+
+During the [[Seven Years' War]]  the [[Battle of Hastenbeck]] took place on July 26, 1757, near the city. The [[France|French]] army defeated the [[Hanoverian Army of Observation]], leading to the city's occupation.
+
+=== 19th century ===
+
+[[File:Kroepke 1895.jpg|thumb|Am Kröpcke, 1895.]]
+[[File:Hannover Schloss zu Herrenhausen (um 1895).jpg|thumb|right|Schloss Herrenhausen, 1895.]]
+After [[Napoleon I of France|Napoleon]] imposed the [[Convention of Artlenburg]] (Convention of the Elbe) on July 5, 1803, about 30,000 French soldiers occupied Hanover. The Convention also meant the disbanding of the army of Hanover. [[George III of the United Kingdom|George III]] did not recognize the Convention of the Elbe. As a result of this, a great number of soldiers from Hanover eventually emigrated to [[Great Britain]], leading to the formation of the [[King's German Legion]], which was the only German army to fight continually during the entire Napoleonic wars against the French. They later played an important role in the [[Battle of Waterloo]] in 1815. The [[Congress of Vienna]] in 1814 elevated the electorate to the [[Kingdom of Hanover]]. The capital town Hanover expanded to the western bank of the [[Leine]] and grew considerably since then.
+
+In 1837, the [[personal union]] of the United Kingdom and Hanover ended as [[William IV of the United Kingdom|William IV's]] heir in the United Kingdom was female ([[Queen Victoria]]). According to [[Salic Law]] Hanover could only be inherited by males. As a consequence, Hanover passed to William IV's brother, [[Ernest Augustus I of Hanover|Ernest Augustus]],  and remained a kingdom until 1866, when it  was annexed by [[Prussia]], during the [[Austro-Prussian war]]. Despite having won the [[Battle of Langensalza (1866)|Battle of Langensalza]] against Prussia,the city of Hanover became the Prussian provincial capital. After the annexation, the people of Hanover opposed the Prussian regime. 
+
+However, for Hanoverian industry, the new connection to [[Prussia]] meant an improvement in business. The introduction of [[free trade]] promoted economic growth, and also led  to the recovery of the [[Gründerzeit]] (founders era). In the period from 1871 to 1912 the population of Hanover grew from 87,600 to 313,400. 
+
+In 1872 the first [[Horse car|horse railway]] was inaugurated, and from 1893 an electric [[tram]] was developed. 
+
+In 1887 [[Emile Berliner]] invented the record and the [[phonograph|gramophone]]. 
+
+The upswing in Hanover started with the era of urban Director [[Heinrich Tramm]]. From 1891–1918 he was director of the city of Hanover, and fundamentally shaped the look of the city up to the turn of the century (The "Tramm Era"). The New Town Hall, the Trammplatz, is named after him. 
+
+In 1883 from the city of Hanover, the Hanover district government was created and became active. 
+
+The city was enlarged first in 1869, followed in 1882 by adding Königsworther Platz and the Welfengarten. In 1891 the municipalities of [[Herrenhausen]], [[Hainholz]], [[Vahrenwald]] were added. In 1907 the municipalities of [[Herrenhausen-Stöcken|Stöcken]], Gutsbezirk Mecklenheide, Bothfeld, Klein-Buchholz, [[Groß-Buchholz]], [[Kirchrode]], [[Döhren-Wülfel|Döhren]] and [[Döhren-Wülfel|Wülfel]] were incorporated into Hanover
+
+[[File:Hannover Synagogenmahnmal.jpg|thumb|left|The Synagogue Memorial in Hanover.]]
+=== Nazi Germany ===
+From 1937 the Lord Mayor and the state commissioners of Hanover were members of the [[NSDAP]] (NAZI party). As everywhere else in Germany, there was also a [[History of the Jews in Germany|Jewish population in Hanover]]. In October 1938, 484 Hanoverian Jews of Polish origin were expelled to [[Poland]], including the [[Herschel Grynszpan|Grynszpan family]]. However, Poland refused to admit them. The Grynszpans and thousands of other Polish-Jewish deportees were left stranded at the border, fed only intermittently by the Polish [[Red Cross]] and Jewish welfare organizations. Their famous (or infamous) assassin son [[Herschel Grynszpan]] was in [[Paris]] at the time. When he heard about the expulsion of his family to Poland, he drove to the German embassy and killed the German diplomat Eduard [[Ernst vom Rath]]. 
+
+The Nazis took this act as a pretext for staging their  nationwide pogrom known as [[Kristallnacht]]. It was in Hanover on November 9, 1938 that the synagogue, designed in 1870 by [[Edwin Oppler]] in [[neo-romantic]] style, was burnt by the Nazis. 
+
+In September 1941, through the "Action Lauterbacher" plan, a [[ghettoisation]] of the remaining Hanoverian Jewish families began. Even before the [[Wannsee Conference]], on December 15, 1941, the first Jews from Hanover were deported to [[Riga]]. A total of 2,400 people were deported, and very few survived. Of the approximately 4,800 Jews who had lived in Hannover 1938, less than 100 were still in the city when troops of the [[United States Army]] arrived on April 10, 1945 to occupy Hanover at the end of the war. Today, a memorial at the Opera Square is a reminder of the persecution of the Jews in Hanover.
+
+=== World War II ===
+[[File:Aegidienkirche Hannover.jpg|thumb|The [[:de:Aegidienkirche (Hannover)|Aegidienkirche]] was not rebuilt and its ruins were kept as a WWII memorial.]]
+Hanover was an important [[road junction]] and production center that was a target area of the [[Strategic bombing during World War II]], including the [[Oil Campaign of World War II|Oil Campaign]]. Targets included the [[VARTA|AFA]] ([[Herrenhausen|Stöcken]]), the [[Oil Campaign of World War II|Deurag-Nerag]] refinery ([[Misburg]]), the [[Continental AG|Continental]] plant ([[Vahrenwald]]), the United light metal works (VLW) in [[Ricklingen]] and [[Laatzen]], and in [[Linden-Limmer|Linden]], [[Oil Campaign of World War II#References|the Hanover/Limmer rubber reclamation plant]], the [[Hanomag]] factory, and [[NMH]].  [[Forced labor]]ers were used from the [[List of subcamps of Neuengamme|Hannover-Misburg subcamp]] of the [[Neuengamme concentration camp]]. The residential areas were also targeted and more than 6,000 people were killed in the Allied bombing raids. More than 90% of the city center was destroyed in 88 bombing raids<ref>[http://www.hannover.de/de/kultur_freizeit/geschichte/geschichte_/Stadt_Hannover/gesch_zah/gesch_za3.html| History of Hanover 1866-1945, official web site of the city (German)]</ref>. After the war, the [[:de:Aegidienkirche (Hannover)|Aegidienkirche]] was not rebuilt and its ruins were kept as a war memorial.
+
+Hanover was in the British zone of occupation of Germany after the war, and became part of the new [[länder|state (Land)]] of [[Lower Saxony]] in 1946.
+
+Today the City of Hanover is a Vice-President City of [[Mayors for Peace]], an international Mayoral organization mobilizing cities and citizens worldwide to abolish and eliminate nuclear weapons by the year 2020.<ref>[http://www.2020visioncampaign.org Mayors for Peace]</ref>
+
+==Geography==
+===Climate===
+Hanover experiences a [[oceanic climate]] ([[Köppen climate classification]] ''Cfb'').
+
+{{Infobox Weather
+|metric_first=Yes
+|single_line=Yes
+|location=Hanover
+|Jan_Hi_°F = 37.4 | Jan_REC_Hi_°F = 
+|Feb_Hi_°F = 39.4 | Feb_REC_Hi_°F = 
+|Mar_Hi_°F = 46.2 | Mar_REC_Hi_°F = 
+|Apr_Hi_°F = 54.9 | Apr_REC_Hi_°F = 
+|May_Hi_°F = 63.9 | May_REC_Hi_°F = 
+|Jun_Hi_°F = 69.6 | Jun_REC_Hi_°F = 
+|Jul_Hi_°F = 72.0 | Jul_REC_Hi_°F = 
+|Aug_Hi_°F = 72.1 | Aug_REC_Hi_°F = 
+|Sep_Hi_°F = 65.5 | Sep_REC_Hi_°F = 
+|Oct_Hi_°F = 56.8 | Oct_REC_Hi_°F = 
+|Nov_Hi_°F = 45.9 | Nov_REC_Hi_°F = 
+|Dec_Hi_°F = 39.4 | Dec_REC_Hi_°F = 
+|Year_Hi_°F = 55.3 | Year_REC_Hi_°F =
+ 
+|Jan_Lo_°F = 28.0  | Jan_REC_Lo_°F = 
+|Feb_Lo_°F = 28.4 | Feb_REC_Lo_°F = 
+|Mar_Lo_°F = 32.5 | Mar_REC_Lo_°F = 
+|Apr_Lo_°F = 37.2 | Apr_REC_Lo_°F = 
+|May_Lo_°F = 44.6 | May_REC_Lo_°F = 
+|Jun_Lo_°F = 50.5 | Jun_REC_Lo_°F = 
+|Jul_Lo_°F = 53.6 | Jul_REC_Lo_°F = 
+|Aug_Lo_°F = 53.1 | Aug_REC_Lo_°F = 
+|Sep_Lo_°F = 48.9 | Sep_REC_Lo_°F = 
+|Oct_Lo_°F = 42.8 | Oct_REC_Lo_°F = 
+|Nov_Lo_°F = 36.1 | Nov_REC_Lo_°F = 
+|Dec_Lo_°F = 30.7 | Dec_REC_Lo_°F = 
+|Year_Lo_°F = 40.5 | Year_REC_Lo_°F = 
+|Jan_Precip_inch = 2.1
+|Feb_Precip_inch = 1.5
+|Mar_Precip_inch = 1.9
+|Apr_Precip_inch = 2.0
+|May_Precip_inch = 2.4
+|Jun_Precip_inch = 2.9
+|Jul_Precip_inch = 2.4
+|Aug_Precip_inch = 2.5
+|Sep_Precip_inch = 2.1
+|Oct_Precip_inch = 1.7
+|Nov_Precip_inch = 2.1
+|Dec_Precip_inch = 2.4
+|Year_Precip_inch = 26.0
+|source=''Intellicast''<ref name= >{{cite web
+|url=http://www.intellicast.com/Local/History.aspx?location=GMXX0051 |title=Hanover historic weather averages |dateformat=dmy |accessdate= 19 September 2009 |publisher=Intellicast}}</ref>
+|accessdate=[[2009-09-19]]}}
+
+===Subdivisions===
+==== Districts====
+[[File:Lage der Stadtbezirke in Hannover.png|thumb|right|Boroughs of Hanover]]
+[[File:Hannover in der Region Hannover.png|thumb|right|Hanover Region]]
+#[[Hanover-Mitte|Mitte]]
+#[[Vahrenwald-List]]
+#[[Bothfeld-Vahrenheide]]
+#[[Buchholz-Kleefeld]]
+#[[Misburg-Anderten]]
+#[[Kirchrode-Bemerode-Wülferode]]
+#[[Südstadt-Bult]]
+#[[Döhren-Wülfel]]
+#[[Ricklingen]]
+#[[Linden-Limmer]]
+#[[Ahlem-Badenstedt-Davenstedt]]
+#[[Herrenhausen-Stöcken]]
+#[[Hanover-Nord|Nord]]
+
+====Quarters====
+*[[Hannover-Nordstadt|Nordstadt]]
+*[[Hannover-Südstadt|Südstadt]]
+*[[Hannover-Oststadt|Oststadt]]
+*[[Hannover-Zoo|Zoo]] (for the zoo itself, see [[Hanover Zoo]])
+*[[Herrenhausen]]
+
+== Main sights==
+{{wide image|Hannover_Panorama2.jpg|1500px|Panoramic view from the viewing platform at the [[New City Hall (Hanover)|New Town Hall]]}}
+[[File:Hannover - Hauptbahnhof Eingangsportal 1.jpg|thumb|Ernst August memorial, central railway station]]
+[[File:Hannover Opernhaus.jpg|thumb|right|The [[Staatsoper Hanover]] ("state opera") is housed in its classical 19th century opera house.]]
+[[File:Marketchurchhannover.jpg|thumb|Market Church in Hanover]]
+[[File:Oldtownhallhannover.JPG|thumb|Old Town Hall]]
+[[File:Leine at Hannover City.JPG|thumb|[[Leine]] River At Hanover City]]
+[[File:Waterloosäule sst.jpg|thumb|right|Waterloo Column in Hanover]]
+
+One of the most famous sights is the ''[[Herrenhausen Gardens|Royal Gardens of Herrenhausen]]'':
+
+The ''Great Garden'' is an important European baroque garden. The palace itself, however, was largely destroyed by Allied bombing. Some points of interest are the ''Grotto'' (the interior was designed by the French artist [[Niki de Saint-Phalle]]), the ''Galery Building'', the ''Orangerie'' and the two pavillons by Remy de la Fosse. The Great Garden consists of several parts. The most popular ones are the ''Great Ground'' and the ''Neuveau Jardin''. At the centre of the Neuveau Jardin is Europe's highest garden fountain. The historic ''Garden Theatre'' inter alia hosted the musicals of the German rock musician [[Heinz Rudolf Kunze]]. 
+
+The ''Berggarten'' is an important European botanical garden. Some points of interest are the ''Tropical House'', the ''Cactus House'', the ''Canary House'' and the ''Orchid House'', which hosts one of the world's biggest collection of orchids, and free-flying birds and butterflies. Near the entrance to the Berggarten is the historic ''Library Pavillon''. The ''Mausoleum'' of the Guelphs is also located in the Berggarten. Like the Great Garden, the Berggarten also consists of several parts, for example the ''Paradies'' and the ''Prairie Garden''. There is also the ''[[Sea Life Centre]] Hanover'', which is the first tropical aquarium in Germany.
+
+The ''[[Georgengarten]]'' is an English landscape garden.  The ''Leibniz Temple'' and the ''Georgen Palace'' are two points of interest there. 
+
+Other gardens are the ''Guelph Garden'' with the ''Guelph Palace'' and the ''Prince Garden''. Nearby are the ''Water Art'', the ''Hardenbergsche House'' and the ''Prince House''.
+
+The landmark of Hanover is the ''New Town Hall'' (Neues Rathaus).  Inside the building are four scale models of the town and the only working diagonal elevator in Germany, which goes up the large dome. 
+
+The ''[[Hanover Zoo]]'' is one of the most spectacular and best zoos in Europe. The zoo received the Park Scout Award for the third year running in 2008, placing it among the best zoos in Germany. The zoo consists of several theme-areas: Sambesi, Meyers Farm, Gorilla-Mountain, Jungle-Palace, and Mullewapp.  Some smaller areas are Australia, the wooded area for wolves, and the so-called swimming area with many seabirds.  There is also a tropical house, a jungle house, and a show arena.  The new Alaska-themed area, Yukon Bay, is still under construction. 
+
+Another point of interest is the ''Old Town''.  At the centre is the huge [[Marktkirche|Market Church]] and the ''Old Town Hall''.  Near by are the ''Leibniz House'', the ''Nolte House'', and the ''Beguine Tower''.  A very nice quarter of the Old Town is the ''Kreuz-Church-Quarter'' around the ''Kreuz Church'' with many nice little lanes. Nearby is the old theatre, called ''Ballhofeins''.  On the edge of the Old Town are the ''Market Hall'', the ''Leine Palace'', and the ruin of the ''Aegidien Church'' which is now a monument to the victims of war and violence. Through the ''Marstall Gate'' you arrive at the bank of the river ''Leine'', where the world-famous ''Nanas'' of [[Niki de Saint-Phalle]] are located. They are part of the ''Mile of Sculpture'' which leads from the Königsworter Square up to the entrance of the Georgengarten. Near the Old Town is the district Calenberger Neustadt where the Catholic Church of ''St. Clemens'', the ''Reformed Church'', and the Protestant ''Neustädter Church'' are located.    
+
+Some other popular sights are the ''Waterloo Column'', the ''[[Georg Ludwig Friedrich Laves|Laves]] House'', the ''Wangenheim Palace'', the ''Lower Saxony State Archives'', the ''Hanover Playhouse'', the ''Kröpcke Clock'', the ''Anzeiger Tower Block'', the ''Administration Building of the NORD/LB'', the ''Cupola Hall'' of the Congress Centre, the ''Lower Saxony Stock'', the ''Ministry of Finance'', the ''Garten Church'', the ''Luther Church'', the ''Gehry Tower'' (designed by the American architect [[Frank O. Gehry]]), the specially designed ''Bus Stops'', the ''Opera House'', ''the Central Station'', the ''Maschsee'' lake and the city forest ''Eilenriede'', which is one of the largest of its kind in Europe. Due to its around 40 parks, forests and gardens, a couple of lakes, two rivers and one canal, Hanover offers a large variety of leisure activities.
+
+Since 2007 the historic ''Leibniz Letters'', which can be visited in the ''[[Gottfried Wilhelm Leibniz]] Library'', are an UNESCO [[World Heritage Site]].
+
+Outside of the city centre is the ''EXPO-Park'', former site of [[EXPO 2000]]. Some points of interests are the ''Planet M.'', the former ''German Pavillon'', the ''Yempa Event-Palace'', the ''Expowale'', the ''EXPO-Plaza'' and the ''EXPO-Gardens'' (Parc Agricole, EXPO-Park South and the Gardens of change). Via the ''Exponale'', which is one of the largest pedestrianbridges in Europe, the fairground is reachable. The ''Hanover fairground'' is the largest in the world. Two important sights on the fairground are the ''Hermes Tower'' (88.8 metres high) and the ''EXPO Roof'', which is the largest woodroof in the world. 
+
+In the district of Anderten is the ''European Cheese Centre'', which is the only Cheese-Experience-Centre in Europe. Nearby is also Hanovers large funpark, the ''CAMPO Aktiv-Arena''. It is the largest sports- and leisure facility in Northern Germany with around 60 attractions. Another important sight in Anderten is the ''Hindenburg Lock'', which was the biggest lock in Europe at the time of construction in 1928. The ''Animalgarden'' in the district of Kirchrode is a huge forest and shows the local animals. 
+
+In the district of Groß-Buchholz is the ''Telemax'', the tallest building in Lower Saxony and one of the highest television towers in Northern Germany. Some other remarkable towers are the ''VW-Tower'' and the old towers of the former mid-age defence belt: ''Döhrener Tower'', ''Lister Tower'' and the ''Horse Tower''. 
+
+The 36 most important sights of the city centre are connected with a {{convert|4.2|km|mi|0}} long red line, which is painted on the pavement. This so-called ''Red Thread'' marks out a walk that starts at the Tourist Information Office and ends on the Ernst-August-Square in front of the central station. There is also a guided sightseeing-bus tour through the city.
+
+== Society and Culture ==
+=== Museums and Galleries ===
+The ''Historic Museum'' describes the history of Hanover, from the medieval settlement "honovere" to the world-famous Exhibition City of today. The museum focuses on the period from 1714 to 1834 when Hanover had a strong relationship with the British royal house.
+ 
+With more than 4,000 members, the ''Kestnergesellschaft'' is the largest art society in Germany. The museum hosts exhibitions from  classical modernist art to contemporary art. One big focus is put on film, video, contemporary music and architecture, room installments and big presentations of contemporary paintings, sculptures and video art. 
+
+The ''Kestner Museum'' is located in the ''House of 5.000 windows''. The museum is named after [[August Kestner]] and exhibits 6,000 years of applied art in four areas: Ancient cultures, ancient Egypt, applied art and a valuable collection of historic coins.
+
+The ''KUBUS'' is a forum for contemporary art. It features mostly exhibitions and projects of famous and important artists from Hanover.  
+
+The ''Kunstverein Hannover'' (Art Society Hanover) was established in 1832 as one of the first art societies in Germany. It is located in the ''Künstlerhaus'' (House of artists). There are around 7 international monografic and thematic Exhibitions in one year. 
+
+The ''Lower Saxony State Museum'' is the largest museum in Hanover. The ''State Gallery'' shows the European Art from the 11th to the 20th century, the ''Nature Department'' shows the zoology, geology, botanic, geology and a ''Vivarium'' with fishes, insects, reptiles and amphibians. The ''Primeval Department'' shows the primeval history of Lower Saxony and the ''Folklore Department'' shows the cultures from all over the world. 
+
+The ''Sprengel Museum'' shows the art of the 20th century. It is one of the most notable art museums in Germany. The focus is put on the classical modernist art with the collection of ''Kurt Schwitters'', works of the German expressionism, and the French cubism, the cabinet of abstracts, the graphics and the department of photography and media. Furthermore the museum shows the famous works of the French artist Niki de Saint-Phalle. 
+
+The ''Theatre Museum'' shows an exhibition of the history of the theatre in Hanover from the 17th century up to now: opera, concert, drama and ballet. The museum also hosts several touring exhibitions during the year.
+
+The ''Wilhelm-Busch-Museum'' is the ''German museum for caricature and critical graphics''. The collection of the works of Wilhelm Busch and the extensive collection of caricatures and critical graphics is this museum unique in Germany. Furthermore the museum hosts several exhibitions of national and international artists during the year. 
+
+A cabinet of coins is the ''Münzkabinett der TUI-AG''. The ''Polizeigeschichtliche Sammlung Niedersachsen'' is the largest police museum in Germany. Textiles from all over the world can be visited in the ''Museum for textile art''. The ''EXPOseeum'' is the museum of the world-exhibition "EXPO 2000 Hannover". Carpets and things from the orient can be visited in the ''Oriental Carpet Museum''. The ''Blind Man Museum'' is a rarity in Germany, another one is only in Berlin. The ''Museum of veterinary medicine'' is unique in Germany. The ''Museum for Energy History'' describes the 150 years old history of the application of energy. The ''Home Museum Ahlem'' shows the history of the district of Ahlem. The ''Mahn- und Gedenkstätte Ahlem'' describes the history of the Jewish people in Hanover and the ''Stiftung Ahlers Pro Arte / Kestner Pro Arte'' shows modern art. Modern art is also the maintopic of the ''Kunsthalle Faust'', the ''Nord/LB Art Gellery'' and of the ''Foro Artistico / Eisfabrik''.
+ 
+Some leading art events in Hanover are the ''Long Night of the museums'' and the ''Zinnober Kunstvolkslauf'' which features all the galleries in Hanover.
+
+People who are interested in space should visit the ''Observatory Geschwister Herrschel'' on the Lindener Mountain or the small planetarium inside of the Bismarck School.
+
+=== Theatre, Cabaret and Musical ===
+Around 40 theatres are located in Hanover. The ''Opera House'', the ''Schauspielhaus'' (Play House), the ''Ballhofeins'', the ''Ballhofzwei'' and the ''Cumbarlandsche Galerie'' belong to the ''Lower Saxony State Theatre''. The ''Theater am Aegi'' is Hanovers big theatre for musicals, shows and guest performances. The ''Neues Theater'' (New Theatre) is the Boulevard Theatre of Hanover. The ''Theater für Niedersachsen'' is another big theatre in Hanover, which also has an own Musical-Company. Some 0f the must important Musical-Productions are the rockmusicals of the German rockmusician Heinz Rudolph Kunze, which take place at the ''Garden-Theatre'' in the Great Garden. 
+
+Some important theatre-events are the ''Tanztheater International'', the ''Long Night of the Theatres'', the ''Festival Theaterformen'' and the ''International Competition for Choreographs''. 
+
+Hanovers leading cabaret-stage is the ''GOP Variety theatre'' which is located in the ''Georgs Palace''. Some other famous cabaret-stages are the ''Variety Marlene'', the ''Uhu-Theatre''. the theatre ''Die Hinterbühne'', the ''Rampenlich Variety'' and the revue-stage ''TAK''. The most important Cabaret-Event is the ''Kleines Fest im Großen Garten'' (Little Festival in the Great Garden) which is the most successful Cabaret Festival in Germany. It features artists from around the world. Some other important events are the ''Calenberger Cabaret Weeks'', the ''Hanover Cabaret Festival'' and the ''Wintervariety''.
+
+=== Music ===
+[[File:Scorpions (10).JPG|thumb|right|Hanover's own band, the [[Scorpions (band)|Scorpions]]]]The [[rock music|rock]] bands [[Scorpions (band)|Scorpions]] and [[Fury in the Slaughterhouse]] are originally from Hanover. Also, acclaimed DJ [[Mousse T]] has his main recording studio in the area. 
+
+There are/were two big international competitions for classical music in Hanover: 
+* Hanover International Violin Competition (since 1991)
+* [http://brainin.org/ClassicaNova/Englisch.html Classica Nova International Music Competition]   (1997) (Non profit association Classica Nova exists in Hanover with the aim to continue the [[Classica Nova]] competition).
+
+=== Sport ===
+[[Hannover 96]] (nickname ''Die Roten'' or 'The Reds') is Hanover's [[Football (soccer)|football]] team that plays in the [[Fußball-Bundesliga|Bundesliga]] top division. Home games are played at the [[AWD-Arena]]. ''Hannover 96 II'' plays in the fourth league and the home games are played in the traditional ''Eilenriedestadium''. ''[[Arminia Hannover]]'' is another very traditional soccer team in Hanover that has played in the first league for years and plays now in the ''Niedersachsen-West Liga'' (Lower Saxony League West). Home matches are played in the ''Rudolf-Kalweit-Stadium''.
+
+[[File:Panorama AWD-Arenax.jpg|thumb|left|Inside the [[AWD-Arena]]]]Hanover is one of Germany's centres for ice hockey. The ''Hannover Scorpions'' play in the top division and their home games are played in the ''[[TUI Arena]]''. The ''Hannover Indians'' are the second ice hockey team in Hanover. Even though the Hanover Indians are in the second league usually more people come to matches at the "PferdeTurm" than to matches of the "Hannover Scorpions". This is because the Indians are originally from Hanover whereas the Scorpions moved to Hanover to access the larger market.
+
+Hanover is also one of the [[Rugby union]] capitals in Germany. The first German Rugby team was founded in Hanover in 1878. Hanover is one of the leading towns in the German Rugby scene. ''[[DRC Hannover]]'' plays in the [[Rugby-Bundesliga|first division]], and ''SV Odin von 1905'' as well as ''SG 78/08 Hannover'' play in the second division. 
+
+The first German Fencing Club was founded in Hanover in 1862. Today there are three more Fencing Clubs in Hanover. 
+
+Hanover is a centre for Water Sports. Thanks to the lake ''Maschsee'', the rivers ''Ihme'' and ''Leine'' and to the channel ''Mittellandkanal'' Hanover hosts sailing schools, yacht schools, waterski clubs, rowing clubs, canoe clubs and paddle clubs. The water polo team ''WASPO W98'' plays in the first division.
+
+The ''Hannover Regents'' play in the first German Baseball division. 
+
+==== Important Sport Events ====
+
+The ''Hannover Marathon'' is the biggest running event in Hanover with more than 11.000 participants and usually around 200.000 spectators. Some other important running events are the ''Gilde Stadtstaffel'' (relay), the ''Sport-Check Nachtlauf'' (night-running), the ''Herrenhäuser Team-Challenge'', the ''Hannoversche Firmenlauf'' (company running) and the ''Silvesterlauf'' (sylvester running).
+
+Hanover hosts also an important international cycle race: The ''Nacht von Hannover'' (night of Hanover). The race takes place around the Market Hall. 
+
+The lake ''Maschsee'' hosts the ''International Dragon Boat Races'' and the ''Canoe-Polo-Tournament''. Many regattas take place during the year. ''Head of the river Leine'' on the river ''Leine'' is one of the biggest rowing regattas in Hanover. 
+
+Some other important sport events are the ''Lower Saxony Beach Volleyball Tournament'', the international horse show ''German Classics'' and the international ice hockey tournament ''Nations Cup''.
+
+=== Regular Events ===
+[[File:CeBit 2008 01.jpg|thumb|right|[[wikt:CeBIT|CeBIT]] 2008 conference centre in Hanover]]Hanover is one of the leading Exhibition Cities in the world. Each year Hanover hosts more than 60 international and national exhibitions. The most popular ones are the ''[[wikt:CeBIT|CeBIT]]'', the ''Hanover Fair'', the ''Domotex'', the ''Ligna'', the ''IAA Nutzfahrzeuge'' and the ''Agritechnica''. Hanover also hosts a huge number of congresses.
+
+But Hanover is not only one of the most important Exhibition Cities in the world, Hanover is also one of the German capitals for the marksmen. The ''Schützenfest Hannover'' is the largest Marksmen's Fun Fair in the world and takes place once a year. It consists of more than 260 rides and inns, five large beer tents and a big entertainment program. The highlight of this fun fair is the {{convert|12|km|mi|0}} long ''Parade of the Marksmen'' with more than 12.000 participants from all over the world, among them around 5.000 marksmen, 128 bands and more than 70 wagons, carriages and big festival vehicles. It is the longest procession in Europe. Around 2 million people visit this fun fair every year. The landmark of this Fun Fair is the biggest transportable Ferris Wheel in the world ({{convert|60|m|ft|0|abbr=on|disp=/}} high). The origins of this fun fair is located in the year 1529. 
+
+Hanover also hosts one of the two largest Spring Festivals in Europe with around 180 rides and inns, 2 large beer tents and around 1.5 million visitors each year. The [[Oktoberfest Hannover]] is the second largest Oktoberfest in the world with around 160 rides and inns, two large beer tents and around 1 million visitors each year. 
+
+The ''Maschsee Festival'' takes place around the Maschsee Lake. Each year around 2 million visitors want to enjoy live music, comedy, cabaret and many more. It is the largest Volksfest of its kind in Northern Germany. 
+
+The Great Garden hosts every year the ''International Fireworks Competition'', and the ''International Festival Weeks Herrenhausen'' with lots of music and cabaret. 
+
+The ''Carnival Procession'' is around {{convert|3|km|mi|0}} long and consists of 3.000 participants, around 30 festival vehicles and around 20 bands and takes place every year. 
+
+Some more festivals are for example the Festival ''Feuer und Flamme'' (Fire and Flames), the ''Gartenfestival'' (Garden Festival), the ''Herbstfestival'' (Autumn Festival), the ''Harley Days'', the ''Steintor Festival'' (Steintor is a party area in the city centre) and the ''Lister-Meile-Festival'' (Lister Meile is a large pedestrian area).
+
+Hanover also hosts Food Festivals, for example the ''Wine Festival'' and the ''Gourmet Festival''.
+
+Furthermore Hanover hosts some special markets. The ''Old Town Flea Market'' is the oldest flea market in Germany  {{Citation needed|date=March 2008}}and the ''Market for Art and Trade'' has a high reputation. Some other big market is of course the ''Christmas Market Hanover'' in the Old Town.
+
+== Transport ==
+[[File:Hannover-hauptbahnhof.jpg|thumb|right|[[Hannover Hauptbahnhof]]]]
+[[File:Mercedes irvine citaro sst.JPG|thumb|right|[[Citaro]] G natural gas bus designed by [[James Irvine (designer)|James Irvine]]]]
+[[File:2001-03-31.H-TW2000-Vahrenwalder-Platz.jpg|thumb|right|[[TW 2000]] tram designed by [[Herbert Lindinger]] and [[Jasper Morrison]]]]
+
+=== Rail ===
+The city's central station, [[Hannover Hauptbahnhof]], is a hub of vital importance in the German high-speed [[InterCityExpress|ICE]] network. It is the starting point of the [[Hanover-Würzburg high-speed rail line]] and the central hub for the [[Hanover S-Bahn]], offering international and national connections to virtually everywhere in Germany.
+
+=== Air ===
+Hanover and its area is served by [[Hanover/Langenhagen International Airport|Hanover/Langenhagen International Airport (HAJ)]]
+
+=== Road ===
+Hanover is an important hub in Germany's [[Autobahn]] network; the interchange of two major autobahns, the [[Bundesautobahn 2|A2]] and [[Bundesautobahn 7|A7]] is at ''Kreuz Hannover-Ost'', at the northeastern edge of the city.
+Local autobahns are [[Bundesautobahn 352|A 352]] (a bypass between A7 and A2, also known as the ''airport autobahn'' because it runs close to ''Hanover Airport'') and the [[Bundesautobahn 37|A 37]]. 
+The [[Schnellweg]] ''(en: [[expressway]])'' system, a number of [[Bundesstraße]] roads, forms a structure loosely resembling a large [[ring road]] together with A2 and A7. The roads are [[Bundesstraße 3|B 3]] , [[Bundesstraße 6|B 6]] and [[Bundesstraße 65|B 65]], called [[Westschnellweg]] (B6 on the northern part, B3 on the southern part), [[Messeschnellweg]] (B3, becomes A37 near [[Burgdorf, Hanover|Burgdorf]], crosses A2, becomes B3 again, changes to B6 at ''Seelhorster Kreuz'', then passes the [[Hanover fairground]] as B6 and becomes A37 again before merging into A7) and [[Südschnellweg]] (starts out as B65, becomes B3/B6/B65 upon crossing ''Westschnellweg'', then becomes B65 again at ''Seelhorster Kreuz'').
+
+=== Bus and light rail ===
+{{Main|Hanover Stadtbahn}}
+
+Hanover has an extensive [[Stadtbahn]] system, traditionally operated by [[üstra]]. The city is famous for its [[designer]] buses and tramways, the [[TW 6000]] and [[TW 2000]] trams being the most well-known examples.
+
+== Economy ==
+[[File:TUI KWA4.JPG|thumb|[[TUI AG]] headquarters in Hanover]]
+{{Refimprove|Section|date=May 2009}}
+The [[Volkswagen Commercial Vehicles]] [[Volkswagen Eurovan|Transporter]] (VWN) factory at [[Hannover-Stöcken]] is the biggest employer in the region and operates a huge plant at the northern edge of town besides the Mittellandkanal and Motorway A2. Together with a plant of German tire and automobile parts manufacturer [[Continental AG]] they own a coal-burning power plant. Continental AG, founded 1871 in Hanover, is one of the major companies in town even if there's a takeover in process: The [[Schaeffler Group]] from [[Herzogenaurach]] ([[Bavaria]]) holds the majority of the stocks but had due to the crisis to deposit the options as securities at banks.<ref>[http://www.conti-online.com/generator/www/com/de/continental/portal/themen/continental/ov_continental_de.html Profile of Continental AG], retrieved on 10 September 2009.</ref> 
+[[TUI AG]] is headquartered in Hanover.<ref>"[http://www.tui-group.com/en/konzern/meta/kontakt/ Contact TUI Group]." [[TUI AG]]. Retrieved on 29 May 2009.</ref>
+Hanover is home for many insurance companies, many of them just with national relevance. One major global re-insurance company is [[Hannover Re]] with its headquarter situated east of city centre.
+
+== Education ==
+The [[Leibniz University Hannover]] is the largest funded institution in Hanover for providing higher education to the students from around the world. Below are the names of the universities and some of the important schools including newly opened [[Hannover Medical Research School]] in 2003 for attracting the students from biology background from around the world.
+
+There are several universities in Hanover:
+* [[Leibniz University Hannover]]
+* Hanover State University of Music and Drama [http://www.hmt-hannover.de]
+* Hanover Medical School [http://www.mh-hannover.de]
+* [[School of Veterinary Medicine Hanover]] (''Tierärztlichen Hochschule Hannover'')
+There is one University of Applied Science and Arts in Hanover:
+* [[Fachhochschule Hannover]] [http://www.fh-hannover.de]
+
+The ''Schulbiologiezentrum Hannover'' maintains practical biology schools in four locations ([[Botanischer Schulgarten Burg]], Freiluftschule Burg, Zooschule Hannover, and Botanischer Schulgarten Linden). The [[University of Veterinary Medicine Hanover]] also maintains its own [[botanical garden]] specializing in medicinal and poisonous plants, the [[Heil- und Giftpflanzengarten der Tierärztlichen Hochschule Hannover]].
+
+== Towns named Hanover ==
+<div class="references-small" style="-moz-column-count:2; column-count:2;">
+* [[Hanover, Ontario|Hanover]], [[Ontario]], [[Canada]]
+* [[Hanover, South Africa|Hanover]], [[Northern Cape]], [[South Africa]]
+* [[Hanover, Brighton|Hanover]], [[Brighton]], [[UK]]
+* [[New Hanover, Illinois|New Hanover]], [[Illinois]], [[United States|U.S.]]
+* [[Hanover, Kansas|Hanover]], [[Kansas]], [[United States|U.S.]]
+* [[Hanover, Maine|Hanover]], [[Maine]], [[United States|U.S.]]
+* [[Hanover, Maryland|Hanover]], [[Maryland]], [[United States|U.S.]]
+* [[Hanover, Massachusetts|Hanover]], [[Massachusetts]], [[United States|U.S.]]
+* [[Hanover, Minnesota|Hanover]], [[Minnesota]], [[United States|U.S.]]
+* [[Hanover, New Hampshire|Hanover]], [[New Hampshire]], [[United States|U.S.]]
+* [[Hanover, New Mexico|Hanover]], [[New Mexico]], [[United States|U.S.]]
+* [[Hanover, Pennsylvania|Hanover]], [[Pennsylvania]], [[United States|U.S.]]
+* [[Hanover, Virginia|Hanover]], [[Virginia]], [[United States|U.S.]]
+</div>
+
+Also, [[Hanover County, Virginia|Hanover County]], [[Virginia]] and [[New Hanover County, North Carolina|New Hanover County]], [[North Carolina]], [[United States|U.S.]] are named after the city.
+
+==International relations==
+===Twin towns — Sister cities===
+Hanover is [[town twinning|twinned]] with:<ref name="Hanover">{{cite web|url=http://www.hannover.de/de/buerger/entwicklung/partnerschaften/staedte_regionspartnerschaften/index.html|title=Hanover - Twin Towns|publisher=[[copyright|©]] 2007-2009 [http://www.hanover.de/ HANNOVER.de] - Offizielles Portal der Landeshauptstadt und der Region Hannover in Zusammenarbeit mit hier.de |language=German|accessdate=2009-07-17}}</ref>
+
+{|
+| valign="top" |
+* {{flagicon|UK}} - [[Bristol]], [[United Kingdom]]<ref name="Bristol">{{cite web|url=http://www.bristol.gov.uk/ccm/navigation/leisure-and-culture/tourism-and-travel/town-twinning/|title=Bristol City - Town twinning|publisher=[[copyright|©]] 2009 [http://www.bristol.gov.uk/ccm/portal/ Bristol City Council]|accessdate=2009-07-17}}</ref>
+* {{flagicon|France}} - [[Perpignan]], [[France]]
+* {{flagicon|France}} - [[Rouen]], [[France]]
+* {{flagicon|Malawi}} - [[Blantyre, Malawi|Blantyre]], [[Malawi]]
+| valign="top" |
+* {{flagicon|Poland}} - [[Poznań]], [[Poland]]<ref name="Poznań" >''{{cite web|url=http://www.poznan.pl/mim/public/publikacje/pages.html?co=list&id=19&ch=20&instance=1017&lang=pl|title=Poznań Official Website - Twin Towns|accessdate=2008-11-29|publisher=<small>[[File:Flag of Poland.svg|border|10px]] {{fontcolor|Green|(in [[Polish language|{{fontcolor|Green|Polish}}]])}} [[copyright|©]] 1998–2008 Urząd Miasta Poznania   }}</small>''</ref>
+* {{flagicon|Japan}} - [[Hiroshima]], [[Japan]]<ref name="Hiroshima" >{{cite web|url=http://www.city.hiroshima.jp/shimin/kokusai/shimai/top-e.html |title=広島市の姉妹・友好都市 |publisher=City.hiroshima.jp |accessdate=2009-07-17}}</ref>
+* {{flagicon|Germany}} - [[Leipzig]], [[Germany]]<ref name="Leipzig">{{cite web|url=http://www.leipzig.de/int/en/int_messen/partnerstaedte/|title=Leipzig - International Relations|publisher=©  2009 Leipzig City Council, Office for European and International Affairs|accessdate=2009-07-17}}</ref>
+|}
+
+== Notes ==
+{{reflist|group="nb"}}
+
+== See also ==
+* [[Expo 2000]]
+* [[Hanover Fair]] (Hannover Messe)
+* [[:de:CeBIT|CeBIT]] (CeBIT Computer Messe)
+* [[Oktoberfest Hannover]]
+* [[Treaty of Hanover]] among Britain, France, and Prussia on May 19, 1727
+* [[Metropolitan region Hannover-Braunschweig-Göttingen-Wolfsburg]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons category|Hanover}}
+
+* {{wikitravel|Hanover}}
+*[http://www.hannover.de/ City's own website]
+* [http://www.niedersachsen-tourism.com/ Official website for tourism, holiday and leisure in Lower Saxony and Hanover]
+*{{de icon}} [http://www.exposeeum.de/ EXPOseeum] - see what is left from [[Expo 2000]]
+*{{en icon}} {{de icon}} [http://public-transport.net/bim/Hannover.htm tram in Hanover]
+* http://www.mh-hannover.de/hbrs.html
+* {{de icon}} [http://www.sv-odin.de/ SV Odin von 1905 website]
+{{Cities in Germany}}
+{{Cities and towns in Hanover (district)}}
+
+[[Category:German state capitals]]
+[[Category:Hanover| ]]
+
+[[af:Hannover]]
+[[als:Hannover]]
+[[ar:هانوفر]]
+[[an:Hannover]]
+[[ast:Hannover]]
+[[az:Hannover]]
+[[bn:হানোফার]]
+[[zh-min-nan:Hannover]]
+[[be:Горад Гановер]]
+[[bs:Hannover]]
+[[br:Hannover]]
+[[bg:Хановер]]
+[[ca:Hannover]]
+[[cs:Hannover]]
+[[cy:Hannover]]
+[[da:Hannover]]
+[[de:Hannover]]
+[[dsb:Hannover]]
+[[et:Hannover]]
+[[el:Αννόβερο]]
+[[es:Hanóver]]
+[[eo:Hanovro]]
+[[eu:Hannover]]
+[[fa:هانوفر]]
+[[fr:Hanovre]]
+[[fy:Hannover]]
+[[ga:Hannover]]
+[[gl:Hannóver - Hannover]]
+[[ko:하노버]]
+[[hsb:Hannover]]
+[[hr:Hannover]]
+[[id:Hanover]]
+[[os:Ганновер]]
+[[xh:IHanoveri (eJamani)]]
+[[is:Hannover]]
+[[it:Hannover]]
+[[he:הנובר]]
+[[ka:ჰანოვერი]]
+[[kk:Ганновер]]
+[[ku:Hannover]]
+[[la:Hannovera]]
+[[lv:Hannovere]]
+[[lb:Hannover]]
+[[lt:Hanoveris]]
+[[hu:Hannover]]
+[[mr:हॅनॉव्हर]]
+[[ms:Hanover]]
+[[nah:Hannover]]
+[[nl:Hannover (stad)]]
+[[ja:ハノーファー]]
+[[ce:Хановер]]
+[[no:Hannover]]
+[[nn:Hannover]]
+[[oc:Hannover]]
+[[uz:Hannover]]
+[[nds:Hannober]]
+[[pl:Hanower]]
+[[pt:Hanôver]]
+[[ksh:Hannover]]
+[[ro:Hanovra]]
+[[ru:Ганновер]]
+[[sah:Ганновэр]]
+[[sq:Hanoveri]]
+[[scn:Hannover]]
+[[simple:Hanover]]
+[[sk:Hannover]]
+[[sl:Hannover]]
+[[szl:Hanowery]]
+[[sr:Хановер]]
+[[fi:Hannover]]
+[[sv:Hannover]]
+[[th:ฮานโนเฟอร์]]
+[[tr:Hannover]]
+[[uk:Ганновер]]
+[[ug:Hanofér]]
+[[vi:Hannover]]
+[[vo:Hannover]]
+[[war:Hanover]]
+[[zh:漢諾威]]

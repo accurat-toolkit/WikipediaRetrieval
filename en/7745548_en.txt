@@ -1,0 +1,62 @@
+{{Taxobox | name = ''Leccinum aurantiacum''
+| image = Leccinum_aurantiacum_EHM6.JPG
+| image_width = 240px
+| regnum = [[Fungus|Fungi]]
+| divisio = [[Basidiomycota]]
+| class = [[Homobasidiomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Boletaceae]]
+| genus = [[Leccinum]]
+| species = '''''L. aurantiacum'''''
+| binomial = ''Leccinum aurantiacum''
+| binomial_authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]] ex [[Jean Florimond Boudon de Saint-Amans|St. Amans]])
+}}
+{{mycomorphbox 
+| name = Leccinum aurantiacum
+| hymeniumType=pores
+| capShape = convex
+| whichGills = adnate 
+| stipeCharacter=bare
+| sporePrintColor=olive
+| ecologicalType=mycorrhizal
+| howEdible=edible}}
+'''''Leccinum aurantiacum''''', which in North America goes by the common name '''Red-capped scaber stalk''', is an edible [[Boletaceae|bolete]] of the genus ''[[Leccinum]]''. There is some uncertainty regarding the taxonomic classification of this species (see the MushroomExpert.com article linked [[#External links|below]]).
+
+== Description ==
+The '''cap''' is orange-red and measures up to 8 in (20&nbsp;cm) across. Its flesh is white, bruising at first burgundy, then grayish or purple-black.  The underside of the cap has very small whitish '''pores''' that bruise olive-brown.  The '''stalk''' measures 4-7 in (10-18&nbsp;cm) tall and to a ¾-1¼ in (2-3&nbsp;cm) thick and can bruise blue-green. It is whitish, with short, rigid projections or [http://www.bartleby.com/61/53/S0115300.html scabers] that turn to brown to black with age.
+
+==Similar species==
+The similarly edible ''L. insigne'' grow in aspen or aspen and birch stands, ''L. atrostipitatum'' in birch stands.
+
+== Distribution and habitat==
+The Red-capped scaber stalk can be found in late summer and autumn all over northern North America and Europe, including in [[Colorado]], [[California]] and [[Wisconsin]] under [[conifer]]s and [[deciduous]] trees.
+
+== Use ==
+This is a favorite species for eating and can be prepared as other boletes. Its flesh turns very dark on cooking. Like most members of the Boletaceae, these mushrooms are popular with maggots, so check carefully.
+
+==References==
+* ''National Audubon Society Field Guide to North American Mushrooms'', Knopf, 1981.
+
+==External links==
+{{Commons|Leccinum aurantiacum}}
+*[http://www.mushroomexpert.com/leccinum_aurantiacum.html Leccinum aurantiacum]at MushroomExpert.com
+*[http://www.mykoweb.com/boletes/species/Leccinum_aurantiacum.html Leccinum aurantiacum]at MykoWeb
+
+[[Category:Leccinum]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+
+[[ca:Abró vermell]]
+[[de:Espenrotkappe]]
+[[fr:Bolet#Principaux genres et espèces]]
+[[it:Leccinum aurantiacum]]
+[[ka:ვერხვისძირა]]
+[[lv:Parastā apšubeka]]
+[[lt:Tikrasis raudonviršis]]
+[[hu:Vörös érdestinóru]]
+[[pl:Koźlarz czerwony]]
+[[ru:Подосиновик красный]]
+[[sl:Trepetlikov turek]]
+[[fi:Haavanpunikkitatti]]
+[[sv:Aspsopp]]
+[[uk:Підосиковик]]

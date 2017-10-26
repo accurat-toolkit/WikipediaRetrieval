@@ -1,0 +1,105 @@
+{{cita nozīme|Spānijas pilsētu|apgabalu|Mursija}}
+{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
+|+<font size=+1>'''Murcia'''</font>
+|- 
+| style=background:#efefef; align=center colspan=2 | 
+{| border=0 cellpadding=2 cellspacing=0
+| align=center | [[Attēls:Murcia, Spain location.png|160px|]]
+| align=center | [[Attēls:Escudo de Murcia Spain.jpg|87px|]]
+|}
+|- 
+| Iedzīvotāji (2006)
+| 415 159 [http://www.world-gazetteer.com/wg.php?x=&men=gpro&lng=en&dat=32&geo=-72&srt=pnan&col=aohdq&pt=c&va=&geo=460745887]<br />611 966 (aglom.)
+|- 
+| Dibināta
+| 825.g
+|-
+| Autonomais novads (''comunidad autónoma'')
+| [[Mursija (novads)|Mursija]]
+|-
+| Province (''provincia'')
+| -
+|- 
+| Mājaslapa
+| http://www.ayto-murcia.es/ 
+|}
+
+{{commons|Category:Murcia}}
+
+[[Attēls:Murcia CathedralSquare1.jpg|thumb|250px|Katedrāles laukums Mursijā]]
+
+'''Mursija''' ({{val|es|Murcia}}) ir pilsēta [[Spānija]]s dienvidaustrumos, [[Segura]]s upes krastos. [[Mursija (komūna)|Mursijas autonomā apgabala]] galvaspilsēta. Pazīstama ar tradicionālajām [[Klusās Nedēļa]]s [[Klusās Nedēļas procesija|procesijām]]. Apkārtnes ekonomika balstās uz lauksaimniecības produktu ([[citrons|citronu]], [[apelsīns|apelsīnu]], [[tomāts|tomātu]] u.c.) ražošanu.
+
+== Vēsture ==
+
+Pilsētu 825. gadā dibināja [[arābi|arābu]] [[Andalusa]]s [[emīrs]] [[Abdurahmans II]]. XII gadsimtā arābu ceļotājs [[Muhameds al-Idrisi]] atzīmēja, ka Mursija ir liela un labi nocietināta pilsēta. Pēc [[Kordovas kalifāts|Kordovas kalifāta]] krišanas 1031. gadā, Mursija nonāca [[Almērija]]s, [[Toledo]] un beidzot [[Seviļa]]s pakļautībā. 1172. gadā tā nokļuva [[Almohādi|Almohādu]] varā, un no 1223. līdz 1243. gadam bija netkarīgas valsts galvaspilsēta.
+
+1292. gadā Mursija iekļāvās [[Aragonas karaliste|Aragonā]], bet 1304. gadā - [[Kastīlijas karaliste|Kastīlijā]]. Pilsētā un apkārtnē apmetās daudzi ieceļotāji no [[Provansa]]s un [[Katalonija]]s.
+
+XVIII gadsimtā Mursija piedzīvoja uzplaukumu, pateicoties [[zīds|zīda]] ražošanai. 1651., 1879. un 1907. gadā tā cieta plūdos, bet 1829. gadā - [[zemestrīce|zemestrīcē]].
+
+== Cilvēki ==
+
+Mursijā dzimuši:
+
+* [[Ibn Arabi]] (''Ibn Arabi'', ''Doctor Maximus'', 1165-1240) - filozofs
+* [[Huans de la Serva]] (''Juan de la Cierva'', 1895-1936) - inženieris
+
+[[Kategorija:Spānijas pilsētas]]
+
+[[an:Murcia]]
+[[ar:مرسية]]
+[[ast:Murcia]]
+[[bg:Мурсия]]
+[[ca:Múrcia]]
+[[cs:Murcia]]
+[[da:Murcia]]
+[[de:Murcia (Stadt)]]
+[[en:Murcia]]
+[[eo:Murcio]]
+[[es:Murcia]]
+[[et:Murcia]]
+[[eu:Murtzia]]
+[[ext:Múrcia]]
+[[fa:مورسیا (شهر)]]
+[[fi:Murcia]]
+[[fr:Murcie]]
+[[gl:Murcia]]
+[[he:מורסיה (עיר)]]
+[[hr:Murcia]]
+[[hu:Murcia]]
+[[id:Murcia]]
+[[io:Murcia]]
+[[is:Murcia]]
+[[it:Murcia]]
+[[ja:ムルシア]]
+[[jv:Murcia]]
+[[ka:მურსია]]
+[[ko:무르시아]]
+[[la:Murcia]]
+[[lad:Mursia]]
+[[lb:Murcia]]
+[[lmo:Murcia]]
+[[lt:Mursija]]
+[[ms:Murcia]]
+[[nah:Murcia]]
+[[nl:Murcia (stad)]]
+[[nn:Murcia]]
+[[no:Murcia]]
+[[nov:Murcia]]
+[[oc:Múrcia]]
+[[pl:Murcja (miasto)]]
+[[pms:Murcia (Spagna)]]
+[[pt:Múrcia]]
+[[qu:Murcia]]
+[[ru:Мурсия]]
+[[simple:Murcia]]
+[[sr:Мурсија]]
+[[sv:Murcia]]
+[[tet:Múrsia]]
+[[tr:Murcia]]
+[[uk:Мурсія]]
+[[vec:Murcia]]
+[[vi:Murcia]]
+[[war:Murcia]]
+[[zh:穆尔西亚]]

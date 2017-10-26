@@ -1,0 +1,160 @@
+{{otherusesof}}
+{{wiktionarypar2|Q|q}}
+{{Latin alphabet navbox|uc=Q|lc=q}}
+'''Q''' is the seventeenth letter of the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈkjuː}}<!--Do not transcribe this /kjʰuː/. Aspiration is not phonemic in English.-->) is spelled '''cue'''.<ref>"Q" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "que," op. cit.</ref>
+
+== History ==
+{| border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;text-align:center;"
+|- bgcolor="#EEEEEE"
+! Egyptian hieroglyph <br/> ''wj''
+! Phoenician <br/> ''[[qoph]]''
+! Etruscan Q
+! Greek <br/> ''[[Qoppa]]''
+|-----
+|<hiero>V24</hiero>
+|[[Image:PhoenicianQ-01.png]]
+|[[Image:EtruscanQ-01.svg|64px]]
+|[[Image:GreekQ-01.png]]
+|}
+
+The [[Semitic languages|Semitic]] sound value of [[Qoph|Qôp]] (perhaps originally ''qaw'', "cord of wool", and possibly based on an [[Egyptian hieroglyph]]) was {{IPA|/q/}} ([[voiceless uvular plosive]]), a sound common to Semitic languages, but not found in English or most Indo-European ones. In [[Greek language|Greek]], this sign as [[Qoppa]] {{Unicode|Ϙ}} probably came to represent several [[labiovelar|labialized velar]] [[plosive]]s, among them {{IPA|/kʷ/}} and {{IPA|/kʷʰ/}}. As a result of later sound shifts, these sounds in Greek changed to {{IPA|/p/}} and {{IPA|/pʰ/}} respectively. Therefore, Qoppa was transformed into two letters: Qoppa, which stood for a number only, and [[Phi (letter)|Phi]] Φ which stood for the aspirated sound {{IPA|/pʰ/}} that came to be pronounced {{IPA|/f/}} in Modern Greek. 
+
+In the earliest [[Latin]] inscriptions, the letters C, K and Q were all used to represent the sounds /k/ and /g/ (which were not differentiated in writing).  Of these, Q was used to represent /k/ or /g/ before a rounded vowel (e.g. "EQO" = ''ego''), K before /a/, and C elsewhere.  Later, the use of C (and its variant G) replaced most usages of K and Q:  Q survived only to represent /k/ when immediately followed by a /w/ sound.<ref>{{cite book
+|title=New Comparative Grammar of Greek and Latin
+|first=Andrew L. 
+|last=Sihler
+|edition=illustrated
+|publisher=Oxford University Press
+|year=1995
+|location=New York
+|ISBN=0195083458
+|url=http://books.google.com/books?id=IeHmqKY2BqoC
+|pages=21
+}}</ref>
+
+The [[Etruscans]] used Q only in conjunction with V to represent {{IPA|/kʷ/}}
+
+== Usage ==
+In most modern western languages written in Latin script, such as in [[Romance language|Romance]] and [[Germanic languages]], Q appears almost exclusively in the digraph QU, though see [[List of English words containing Q not followed by U|Q without U]]. In [[English language|English]] this digraph most often denotes the cluster {{IPA|/kw/}}, except in borrowings from French where it represents {{IPA|/k/}} as in ''plaque''. In [[Italian language|Italian]] qu represents {{IPA|/kw/}} (where {{IPA|/w/}} is the [[semivowel]] allophone of {{IPA|/u/}}); in German, {{IPA|/kv/}}; and in [[French language|French]], [[Occitan language|Occitan]], [[Catalan language|Catalan]], [[Spanish language|Spanish]] and [[Portuguese language|Portuguese]], {{IPA|/k/}} or {{IPA|/kw/}}; in the same languages ''qu'' replaces [[c]] for {{IPA|/k/}} before front vowels [[i]] and [[e]], since in those contexts ''c'' is a fricative and letter 'k' is seldom used outside [[loan word]]s.) [[Danish language|Danish]] abolished the letter in 1872, although it's still part of the alphabet. A consequence of this was the change in spelling of the word 'kvinde' (woman), which prior to 1872 was spelt 'Quinde'. As a result the term 'kvinde med q' (woman spelt with q) is used for an old-fashioned woman, whilst 'kvinde med k' is used about a modern woman.
+
+In the [[Aymara language|Aymara]], [[Aleut language|Aleut]], [[Yupik language|Yup'ik]], [[Inuit language|Inuit]], [[Greenlandic language|Greenlandic]], [[Uzbek language|Uzbek]], [[Quechua]], and [[Tatar language]]s, as well as [[Romanization of Arabic|romanised]] [[Arabic language|Arabic]], Q is a [[voiceless uvular plosive]]. {{IPA|[q]}} is also used in the [[help:IPA|IPA]] for the voiceless uvular plosive, as well as in most transliteration schemes of [[Semitic languages]] for the "emphatic" ''[[Qoph|qōp]]'' sound. The sound is rendered with letter ﻕ in [[Arabic alphabet|Arabic script]].
+
+In [[Maltese language|Maltese]] and [[Võro language|Võro]], Q denotes the [[glottal stop]].
+
+In [[Albanian language|Albanian]], ''q'' represents the [[voiceless palatal plosive]], {{IPA|/c/}}. 
+
+In [[Chinese language|Chinese]] [[Hanyu Pinyin]], Q is used to represent the sound {{IPA|[tɕʰ]}}, which is close to English "ch" in "cheese".
+
+In [[Fijian language|Fijian]], Q represents the [[Prenasalized consonant|prenasalized]] [[voiced velar plosive]] {{IPA|[ŋɡ]}}.
+
+In [[Xhosa language|Xhosa]] and [[Zulu language|Zulu]], Q represents the [[postalveolar click]] {{IPA|[kǃ]}}.
+
+In [[Kiowa language|Kiowa]], Q represents a glottalized velar plosive, {{IPA|/kʼ/}}.
+
+Q, which is rarely seen in a word without a U next to it in English, is the second most rarely used letter in the [[English language]]. The Q represents a voiceless velar plosive, contrary to the belief that it represents a labialized voiceless velar plosive. If this were the case, there would be no need for the "U" at the end.
+
+[[File:Q and g comparison.svg|thumb|right]]
+The lowercase Q is usually seen as a lowercase O with a descender (i.e., downward vertical tail) extending from the right side of the bowl, with or without a swash (i.e., flourish). The lowercase Q's descender is usually typed without a swash due to the major style difference typically seen between the descenders of the lowercase G (a loop) and lowercase Q (vertical). The descender of the lowercase Q is usually handwritten finishing with a rightward swash to distinguish from the leftward facing curved descender on the lowercase G.{{-}}
+
+== Codes for computing ==
+{{Letter
+|NATO=Quebec
+|Morse= –  – · – 
+|Character=Q
+|Braille=⠟
+}}
+In [[Unicode]], the [[capital letter|capital]] Q is codepoint U+0051 and the [[lower case]] q is U+0071.
+
+The [[ASCII]] [[hexadecimal]] codes for capital Q and lowercase q are 51 and 71, respectively. These equal 81 and 113 in [[decimal]], and 01010001 and 01110001 in [[Binary numeral system|binary]].
+
+The [[EBCDIC]] code for capital Q is 216 and for lowercase q is 152.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#81;<tt>" and "<tt>&amp;#113;</tt>" for upper and lower case respectively.
+
+== See also ==
+{{Commons|Q}}
+* [[List of English words containing Q not followed by U]]
+* [[Ќ]]
+* [[Қ]]
+* [[Mind your Ps and Qs]]
+
+== References ==
+{{reflist}}
+{{Latin alphabet|Q|}}
+
+[[Category:Latin letters]]
+
+[[af:Q]]
+[[als:Q]]
+[[ar:Q]]
+[[arc:Q]]
+[[ast:Q]]
+[[az:Q]]
+[[zh-min-nan:Q]]
+[[bs:Q]]
+[[br:Q (lizherenn)]]
+[[ca:Q]]
+[[cs:Q]]
+[[co:Q]]
+[[cy:Q]]
+[[da:Q]]
+[[de:Q]]
+[[el:Q]]
+[[es:Q]]
+[[eo:Q]]
+[[eu:Q]]
+[[fa:Q]]
+[[fr:Q (lettre)]]
+[[fy:Q]]
+[[fur:Q]]
+[[gv:Quinsh (lettyr)]]
+[[gd:Q]]
+[[gl:Q]]
+[[gan:Q]]
+[[ko:Q]]
+[[hr:Q]]
+[[ilo:Q]]
+[[is:Q]]
+[[it:Q]]
+[[he:Q]]
+[[ka:Q]]
+[[kw:Q]]
+[[sw:Q]]
+[[ht:Q]]
+[[la:Q]]
+[[lv:Q]]
+[[lt:Q]]
+[[hu:Q]]
+[[mk:Q (Латиница)]]
+[[mzn:Q]]
+[[ms:Q]]
+[[nah:Q]]
+[[nl:Q (letter)]]
+[[ja:Q]]
+[[no:Q]]
+[[nn:Q]]
+[[nrm:Q]]
+[[uz:Q (harf)]]
+[[pl:Q]]
+[[pt:Q]]
+[[ro:Q]]
+[[qu:Q]]
+[[ru:Q (латиница)]]
+[[stq:Q]]
+[[scn:Q]]
+[[simple:Q]]
+[[sl:Q]]
+[[sr:Q (слово латинице)]]
+[[fi:Q]]
+[[sv:Q]]
+[[tl:Q]]
+[[th:Q]]
+[[tr:Q (harf)]]
+[[uk:Q (латиниця)]]
+[[vi:Q]]
+[[vo:Q]]
+[[yi:Q]]
+[[yo:Q]]
+[[zh-yue:Q]]
+[[bat-smg:Q]]
+[[zh:Q]]

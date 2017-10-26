@@ -1,0 +1,39 @@
+<table border=1 cellpadding=2 cellspacing=0 align=right width=275px>
+<caption><font size=+1>'''Czeladź'''
+</font></caption>
+<tr><td style=background:#efefef; align=center colspan=2>
+<table border=0 cellpadding=2 cellspacing=0>
+<tr><td align=center>[[Attēls:Polija Celadza.png|187px|]]<td align=center>[[Attēls:POL Czeladź COA.svg|87px|]]
+</table>
+<tr><td>Iedzīvotāju skaits (2007)<td>33 940 [http://www.world-gazetteer.com/wg.php?x=&men=gpro&lng=en&dat=32&geo=-173&srt=npan&col=aohdq&pt=c&va=x&geo=505171913]
+<tr><td>Pilsēta<td>pirms 1300. gada
+<tr><td>Vojevodiste<td>[[Silēzijas vojevodiste]]
+<tr><td>Apriņķis<td>[[Bendzinas apriņķis]]
+<tr><td>Mājaslapa<td>http://www.czeladz.pl/
+</table>'''Čeladza''' (''Czeladź'') - pilsēta [[Polija]]s dienvidos, [[Silēzijas vojevodiste|Silēzijas vojevodistē]] uz rietumiem no [[Bendzina]]s. Pastmarku mākslinieka [[Česlavs Slaņa|Česlava Slaņas]] (''Czesław Słania'', [[1921]] - [[2005]]) dzimtā pilsēta.
+
+{{commons|Category:Czeladź|Čeladza}}
+
+{{Polija-aizmetnis}}
+
+{{DEFAULTSORT:Czeladza}}
+
+[[Kategorija:Silēzijas vojevodistes pilsētas|Czeladza]]
+
+[[de:Czeladź]]
+[[en:Czeladź]]
+[[eo:Czeladź]]
+[[fr:Czeladź]]
+[[he:צ'לדז]]
+[[hsb:Czeladź]]
+[[it:Czeladź]]
+[[ja:チェラチ]]
+[[jv:Czeladź]]
+[[nl:Czeladź]]
+[[pl:Czeladź]]
+[[pt:Czeladź]]
+[[ro:Czeladź]]
+[[ru:Челядзь]]
+[[sk:Czeladź]]
+[[szl:Czeladź]]
+[[uk:Челядзь]]

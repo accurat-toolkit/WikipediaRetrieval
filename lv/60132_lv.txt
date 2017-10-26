@@ -1,0 +1,771 @@
+[[Starptautiskā Olimpiskā komiteja]] ('''SOK''') lieto trīsburtu '''valstu kodus''' [[Olimpiskās spēles|Olimpiskajās spēlēs]] dalību ņemošo atlētu grupu apzīmēšanai. Katrs kods parasti apzīmē [[Nacionālā olimpiskā komiteja|Nacionālo olimpisko komiteju]], bet ir bijuši vairāki gadījumi iepriekšējās spēlēs, kad ar speciāliem kodiem ir apzīmētas atlētu grupas, kuru valstis formāli nepiedalās spēlēs. 
+
+Vairāki no šiem kodiem ir atšķirīgi no [[ISO 3166-1]] standarta kodiem. Citas starptautiskas sporta organizācijas, kā [[FIFA]] un [[Sadraudzības spēles|Sadraudzības spēļu federācija]], lieto līdzīgus kodus, lai apzīmētu dalībnieku komandas.
+
+{{TOClimit|2}}
+
+== Vēsture ==
+[[1956. gada Ziemas olimpiāde]] un [[1960. gada Vasaras olimpiāde]] bija pirmās spēles, kurās ieviesa "Valstu iniciāļus", lai ar to palīdzību apzīmētu katru [[NOK]] oficiālajos ziņojumos.<ref>{{cite journal |title=IOC and OCOG Abbreviations for NOCs |last=Mallon |first=Bill |coauthors=[[Ove Karlsson (sports journalist)|Ove Karlsson]] |journal=[[Journal of Olympic History]] |volume=12 |issue=2 |year=2004 |month=May |pages=pp. 25–28 |url=http://www.la84foundation.org/SportsLibrary/JOH/JOHv12n2/johv12n2l.pdf |format=PDF |accessdate=2008-02-08}}</ref> Tomēr vairākās nākamajās spēlēs lietotie kodi parasti bija veidoti uz rīkotājvalsts valodas nosaukumu pamata (kā <tt>GIA</tt> [[Japāna]]i no [[itāļu valoda]]s ''Giappone'' [[1956. gada Ziemas olimpiāde|1956. gada Ziemas olimpiādē]] un [[1960. gada Vasaras olimpiāde|1960. gada Vasaras olimpiādē]]) vai veidoti uz [[franču valoda]]s nosaukumu pamata (kā <tt>COR</tt> [[Korejas Republika]]i no ''Corée''). Kopš [[1972. gada Ziemas olimpiāde]]s lielākā daļa kodu bija standartizēti, bet daži tika mainīti vēlākajos gados.
+
+== Aktuālie Nacionālo Olimpisko komiteju kodi ==
+[[Olimpiskā kustība|Olimpiskajā kustībā]] šobrīd ir 205 [[Nacionālā Olimpiskā komiteja|Nacionālās Olimpiskās komitejas]]. Sekojošajā tabulā ir apkopoti šobrīd lietotie kodi, kā arī atšķirīgie iepriekšējās spēlēs lietotie kodi. Daži no vēsturiskajiem kodiem ir izskaidroti sekojošajās sadaļās. Tikai vasaras vai ziemas spēlēm lietotie kodi apzīmēti ar "V" un "Z". [[ISO 3166-1]] ailē uzrādīti tikai atšķirīgie kodi; treknrakstā izcelti tie ISO kodi, kuri sakrīt ar citas valsts SOK kodu.
+
+{| id="toc" class="toc" summary="Contents" 
+! Saturs:
+|
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#Y|Y]] [[#Z|Z]]
+|}
+=== A ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| AFG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=AFG] || {{AFG}} || ||
+|-
+| AHO || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=AHO] || {{ANT}} || ATO <small>(1960)</small>, NAN <small>(1964)</small>||'''ANT'''
+|-
+| ALB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ALB] || {{ALB}} || ||
+|-
+| ALG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ALG] || {{ALG}} || AGR <small>(1964)</small>, AGL <small>(1968V)</small>||
+|-
+| AND || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=AND] || {{AND}} || ||
+|-
+| ANG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ANG] || {{AGO}} || ||AGO
+|-
+| ANT || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ANT] || {{ATG}} || ||ATG
+|-
+| ARG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ARG] || {{ARG}} || ||
+|-
+| ARM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ARM] || {{ARM}} || ||
+|-
+| ARU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ARU] || {{ABW}} || ||ABW
+|-
+| ASA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ASA] || {{ASM}} || ||ASM
+|-
+| AUS || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=AUS] || {{AUS}} || ||
+|-
+| AUT || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=AUT] || {{AUT}} || ||
+|-
+| AZE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=AZE] || {{AZE}} || ||
+|}
+
+=== B ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| BAH || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BAH] || {{BHS}} || ||BHS
+|-
+| BAN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BAN] || {{BGD}} || ||BGD
+|-
+| BAR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BAR] || {{BRB}} || BAD <small>(1964)</small> ||BRB
+|-
+| BDI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BDI] || {{BDI}} || ||
+|-
+| BEL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BEL] || {{BEL}} || ||
+|-
+| BEN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BEN] || {{BEN}} || DAY <small>(1964)</small>, DAH <small>(1968–1976)</small>||
+|-
+| BER || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BER] || {{BMU}} || ||BMU
+|-
+| BHU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BHU] || {{BTN}} || ||BTN
+|-
+| BIH || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BIH] || {{BIH}} || BSH <small>(1992V) </small>||
+|-
+| BIZ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BIZ] || {{BLZ}} || HBR <small>(1968–1972)</small> ||BLZ
+|-
+| BLR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BLR] || {{BLR}} || ||
+|-
+| BOL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BOL] || {{BOL}} || ||
+|-
+| BOT || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BOT] || {{BWA}} || ||BWA
+|-
+| BRA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BRA] || {{BRA}} || ||
+|-
+| BRN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BRN] || {{BHR}} || ||BHR
+|-
+| BRU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BRU] || {{BRN}} || ||'''BRN'''
+|-
+| BUL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BUL] || {{BUL}} || ||
+|-
+| BUR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BUR] || {{BFA}} || VOL <small>(1972–1984) </small>||BFA
+|}
+
+=== C ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| CAF || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CAF] || {{CAF}} || AFC <small>(1968)</small>||
+|-
+| CAM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CAM] || {{KHM}} || CAB <small>(1964)</small>, KHM <small>(1972–1976)</small>||KHM
+|-
+| CAN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CAN] || {{CAN}} || ||
+|-
+| CAY || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CAY] || {{CYM}} || ||CYM
+|-
+| CGO || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CGO] || {{COG}} || ||COG
+|-
+| CHA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CHA] || {{TCD}} || CHD <small>(1964)</small>||TCD
+|-
+| CHI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CHI] || {{CHL}} || CIL <small>(1956Z, 1960V)</small>||CHL
+|-
+| CHN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CHN] || {{CHN}} || ||
+|-
+| CIV || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CIV] || {{CIV}} || IVC <small>(1964)</small>, CML <small>(1968)</small>||
+|-
+| CMR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CMR] || {{CMR}} || ||
+|-
+| COD || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=COD] || {{COD}} || COK <small>(1968)</small>, ZAI <small>(1972–1996)</small>||
+|-
+| COK || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=COK] || {{COK}} || ||
+|-
+| COL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=COL] || {{COL}} || ||
+|-
+| COM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=COM] || {{COM}} || ||
+|-
+| CPV || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CPV] || {{CPV}} || ||
+|-
+| CRC || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CRC] || {{CRI}} || COS <small>(1964)</small>, CTC <small>(1984Z)</small>||CRI
+|-
+| CRO || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CRO] || {{CRO}} || ||
+|-
+| CUB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CUB] || {{CUB}} || ||
+|-
+| CYP || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CYP] || {{CYP}} || ||
+|-
+| CZE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CZE] || {{CZE}} || ||
+|}
+
+=== D ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>ISO 3166-1</small>
+|-
+| DEN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=DEN] || {{DEN}} || DAN <small>(1960V, 1968Z)</small>, DIN <small>(1968V)</small>||
+|-
+| DJI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=DJI] || {{DJI}} || ||
+|-
+| DMA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=DMA] || {{DMA}} || ||
+|-
+| DOM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=DOM] || {{DOM}} || ||
+|}
+
+=== E ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| ECU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ECU] || {{ECU}} || ||
+|-
+| EGY || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=EGY] || {{EGY}} || RAU <small>(1960, 1968</small>), UAR <small>(1964)</small>||
+|-
+| ERI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ERI] || {{ERI}} || ||
+|-
+| ESA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ESA] || {{SLV}} || SAL <small>(1964–1976)</small> ||SLV
+|-
+| ESP || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ESP] || {{ESP}} || SPA <small>(1956–1964, 1968Z)</small>||
+|-
+| EST || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=EST] || {{EST}} || ||
+|-
+| ETH || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ETH] || {{ETH}} || ETI <small>(1960, 1968)</small>||
+|}
+
+=== F ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| FIJ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=FIJ] || {{FJI}} || FIG <small>(1960)</small>||FJI
+|-
+| FIN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=FIN] || {{FIN}} || ||
+|-
+| FRA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=FRA] || {{FRA}} || ||
+|-
+| FSM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=FSM] || {{FSM}} || ||
+|}
+
+=== G ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| GAB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GAB] || {{GAB}} || ||
+|-
+| GAM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GAM] || {{GMB}} || ||GMB
+|-
+| GBR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GBR] || {{GBR}} || GRB <small>(1956Z–1960)</small>, GBI <small>(1964)</small> ||
+|-
+| GBS || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GBS] || {{GNB}} || ||GNB
+|-
+| GEO || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GEO] || {{GEO}} || ||
+|-
+| GEQ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GEQ] || {{GNQ}} || ||GNQ
+|-
+| GER || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GER] || {{DEU}} || ALL <small>(1968Z)</small>, ALE <small>(1968V)</small>, FRG <small>(1980–1988)</small> ||DEU
+|-
+| GHA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GHA] || {{GHA}} || ||
+|-
+| GRE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GRE] || {{GRE}} || ||
+|-
+| GRN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GRN] || {{GRD}} || ||GRD
+|-
+| GUA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GUA] || {{GTM}} || GUT <small>(1964) </small>||GTM
+|-
+| GUI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GUI] || {{GIN}} || ||GIN
+|-
+| GUM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GUM] || {{GUM}} || ||
+|-
+| GUY || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GUY] || {{GUY}} || GUA <small>(1960)</small>, GUI <small>(1964)</small>||
+|}
+
+=== H ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| HAI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=HAI] || {{HTI}} || ||HTI
+|-
+| HKG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=HKG] || {{HKG}} || HOK <small>(1960–1968)</small> ||
+|-
+| HON || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=HON] || {{HND}} || ||HND
+|-
+| HUN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=HUN] || {{HUN}} || UNG <small>(1956Z, 1960V)</small> ||
+|}
+
+=== I ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| INA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=INA] || {{IDN}} || INS <small>(1960)</small> ||IDN
+|-
+| IND || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=IND] || {{IND}} || ||
+|-
+| IRI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=IRI] || {{IRN}} || IRN <small>(1956–1988)</small>, IRA <small>(1968Z)</small> ||IRN
+|-
+| IRL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=IRL] || {{IRL}} || ||
+|-
+| IRQ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=IRQ] || {{IRQ}} || IRK <small>(1960, 1968)</small> ||
+|-
+| ISL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ISL] || {{ISL}} || ICE <small>(1960Z, 1964V)</small> ||
+|-
+| ISR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ISR] || {{ISR}} || ||
+|-
+| ISV || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ISV] || {{VIR}} || ||VIR
+|-
+| ITA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ITA] || {{ITA}} || ||
+|-
+| IVB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=IVB] || {{VGB}} || ||VGB
+|}
+
+=== J ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>ISO 3166-1</small>
+|-
+| JAM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=JAM] || {{JAM}} || ||
+|-
+| JOR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=JOR] || {{JOR}} || ||
+|-
+| JPN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=JPN] || {{JPN}} || GIA <small>(1956Z, 1960V)</small>, JAP <small>(1960Z)</small> ||
+|}
+
+=== K ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| KAZ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KAZ] || {{KAZ}} || ||
+|-
+| KEN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KEN] || {{KEN}} || ||
+|-
+| KGZ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KGZ] || {{KGZ}} || ||
+|-
+| KIR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KIR] || {{KIR}} || ||
+|-
+| KOR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KOR] || {{KOR}} || COR <small>(1956Z, 1960V, 1968V, 1972V)</small> ||
+|-
+| KSA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KSA] || {{SAU}} || ARS <small>(1968–1976)</small>, SAU <small>(1980–1984)</small> ||SAU
+|-
+| KUW || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KUW] || {{KUW}} || ||
+|}
+
+=== L ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| LAO || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LAO] || {{LAO}} || ||
+|-
+| LAT || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LAT] || {{LAT}} || ||
+|-
+| LBA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LBA] || {{LBA}} || LYA <small>(1964)</small>, LBY <small>(1968Z)</small> ||
+|-
+| LBR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LBR] || {{LBR}} || ||
+|-
+| LCA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LCA] || {{LCA}} || ||
+|-
+| LES || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LES] || {{LSO}} || ||LSO
+|-
+| LIB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LIB] || {{LBN}} || LEB <small>(1960Z, 1964V)</small> ||LBN
+|-
+| LIE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LIE] || {{LIE}} || LIC <small>(1956Z, 1964V, 1968Z)</small> ||
+|-
+| LTU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LTU] || {{LTU}} || LIT <small>(1992Z)</small> ||
+|-
+| LUX || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LUX] || {{LUX}} || ||
+|}
+
+=== M ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| MAD || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MAD] || {{MDG}} || MAG <small>(1964)</small> ||MDG
+|-
+| MAR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MAR] || {{MAR}} || MRC <small>(1964)</small> ||
+|-
+| MAS || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MAS] || {{MYS}} || MAL <small>(1964–1988)</small> ||MYS
+|-
+| MAW || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MAW] || {{MWI}} || ||MWI
+|-
+| MDA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MDA] || {{MDA}} || MLD <small>(1994)</small> ||
+|-
+| MDV || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MDV] || {{MDV}} || ||
+|-
+| MEX || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MEX] || {{MEX}} || ||
+|-
+| MGL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MGL] || {{MNG}} || MON <small>(1968Z)</small> ||MNG
+|-
+| MHL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MHL] || {{MHL}} ||
+|-
+| MKD || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MKD] || {{MKD}} || ||
+|-
+| MLI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MLI] || {{MLI}} || ||
+|-
+| MLT || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MLT] || {{MLT}} || MAT <small>(1960–1964)</small> ||
+|-
+| MNE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MNE] || {{MNE}} || ||
+|-
+| MON || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MON] || {{MCO}} || ||MCO
+|-
+| MOZ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MOZ] || {{MOZ}} || ||
+|-
+| MRI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MRI] || {{MUS}} || ||MUS
+|-
+| MTN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MTN] || {{MRT}} || ||MRT
+|-
+| MYA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MYA] || {{MMR}} || BIR <small>(1960, 1968–1988)</small>, BUR <small>(1964)</small> ||MMR
+|}
+
+=== N ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| NAM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NAM] || {{NAM}} || ||
+|-
+| NCA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NCA] || {{NIC}} || NCG <small>(1964)</small>, NIC <small>(1968)</small> ||NIC
+|-
+| NED || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NED] || {{NED}} || OLA <small>(1956Z)</small>, NET <small>(1960Z)</small>, PBA <small>(1960V)</small>, NLD <small>(1964V)</small>, HOL <small>(1968–1988)</small> ||
+|-
+| NEP || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NEP] || {{NPL}} || ||NPL
+|-
+| NGR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NGR] || {{NGR}} || NGA <small>(1964)</small> ||
+|-
+| NIG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NIG] || {{NER}} || NGR <small>(1964)</small> ||NER
+|-
+| NOR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NOR] || {{NOR}} || ||
+|-
+| NRU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NRU] || {{NRU}} || ||
+|-
+| NZL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NZL] || {{NZL}} || NZE <small>(1960, 1968Z)</small> ||
+|}
+
+=== O ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| OMA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=OMA] || {{OMN}} || ||OMN
+|}
+
+=== P ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| PAK || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PAK] || {{PAK}} || ||
+|-
+| PAN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PAN] || {{PAN}} || ||
+|-
+| PAR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PAR] || {{PRY}} || ||PRY
+|-
+| PER || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PER] || {{PER}} || ||
+|-
+| PHI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PHI] || {{PHL}} || FIL <small>(1960, 1968)</small> ||PHL
+|-
+| PLE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PLE] || {{PSE}} || ||PSE
+|-
+| PLW || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PLW] || {{PLW}} || ||
+|-
+| PNG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PNG] || {{PNG}} || NGY <small>(1976–1980)</small>, NGU <small>(1984–1988)</small> ||
+|-
+| POL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=POL] || {{POL}} || ||
+|-
+| POR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=POR] || {{PRT}} || ||PRT
+|-
+| PRK || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PRK] || {{PRK}} || NKO <small>(1964V, 1968Z)</small>, CDN <small>(1968)</small> ||
+|-
+| PUR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PUR] || {{PRI}} || PRI <small>(1960)</small>, PRO <small>(1968)</small> ||PRI
+|}
+
+=== Q ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>ISO 3166-1</small>
+|-
+| QAT || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=QAT] || {{QAT}} || ||
+|}
+
+=== R ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| ROU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ROU] || {{ROU}} || ROM <small>(1956–1960, 1972–2006)</small>, RUM <small>(1964–1968)</small> ||
+|-
+| RSA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=RSA] || {{ZAF}} || SAF <small>(1960–1972)</small> ||ZAF
+|-
+| RUS || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=RUS] || {{RUS}} || ||
+|-
+| RWA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=RWA] || {{RWA}} || ||
+|}
+
+=== S ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| SAM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SAM] || {{WSM}} || ||WSM
+|-
+| SEN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SEN] || {{SEN}} || SGL <small>(1964)</small> ||
+|-
+| SEY || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SEY] || {{SYC}} || ||SYC
+|-
+| SIN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SIN] || {{SGP}} || ||SGP
+|-
+| SKN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SKN] || {{KNA}} || ||KNA
+|-
+| SLE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SLE] || {{SLE}} || SLA <small>(1968)</small> ||
+|-
+| SLO || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SLO] || {{SVN}} || ||SVN
+|-
+| SMR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SMR] || {{SMR}} || SMA <small>(1960–1964)</small> ||
+|-
+| SOL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SOL] || {{SLB}} || ||SLB
+|-
+| SOM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SOM] || {{SOM}} || ||
+|-
+| SRB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SRB] || {{SRB}} || ||
+|-
+| SRI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SRI] || {{LKA}} || CEY <small>(1960–1972)</small> ||LKA
+|-
+| STP || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=STP] || {{STP}} || ||
+|-
+| SUD || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SUD] || {{SDN}} || ||SDN
+|-
+| SUI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SUI] || {{SUI}} || SVI <small>(1956Z, 1960V)</small>, SWI <small>(1960Z, 1964V)</small> ||
+|-
+| SUR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SUR] || {{SUR}} || ||
+|-
+| SVK || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SVK] || {{SVK}} || ||
+|-
+| SWE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SWE] || {{SWE}} || SVE <small>(1956Z, 1960V)</small>, SUE <small>(1968V)</small> ||
+|-
+| SWZ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SWZ] || {{SWZ}} || ||
+|-
+| SYR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SYR] || {{SYR}} || SIR <small>(1968)</small> ||
+|}
+
+=== T ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| TAN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TAN] || {{TZA}} || ||TZA
+|-
+| TGA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TGA] || {{TON}} || TON <small>(1984</small>) ||TON
+|-
+| THA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=THA] || {{THA}} || TAI <small>(1960, 1968)</small> ||
+|-
+| TJK || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TJK] || {{TJK}} || ||
+|-
+| TKM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TKM] || {{TKM}} || ||
+|-
+| TLS || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TLS] || {{TLS}} || ||
+|-
+| TOG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TOG] || {{TGO}} || ||TGO
+|-
+| TPE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TPE] || {{flaga|Taivāna|OS}} [[Taivāna]] || RCF <small>(1960)</small>, TWN <small>(1964–1968)</small>, ROC <small>(1972–1976)</small> ||TWN
+|-
+| TRI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TRI] || {{TTO}} || TRT <small>(1964–1968)</small> ||TTO
+|-
+| TUN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TUN] || {{TUN}} || ||
+|-
+| TUR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TUR] || {{TUR}} || ||
+|-
+| TUV || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TUV] || {{TUV}} || ||
+|}
+
+=== U ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| UAE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=UAE] || {{ARE}} || ||ARE
+|-
+| UGA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=UGA] || {{UGA}} || ||
+|-
+| UKR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=UKR] || {{UKR}} || ||
+|-
+| URU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=URU] || {{URY}} || URG <small>(1968)</small> ||URY
+|-
+| USA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=USA] || {{USA}} || SUA <small>(1960V)</small>, EUA <small>(1968V)</small> ||
+|-
+| UZB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=UZB] || {{UZB}} || ||
+|}
+
+=== V ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| VAN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=VAN] || {{VUT}} || ||VUT
+|-
+| VEN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=VEN] || {{VEN}} || ||
+|-
+| VIE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=VIE] || {{VNM}} || VET <small>(1964)</small>, VNM <small>(1968–1976)</small> ||VNM
+|-
+| VIN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=VIN] || {{VCT}} || ||VCT
+|}
+
+=== Y ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>ISO 3166-1</small>
+|-
+| YEM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=YEM] || {{YEM}} || ||
+|}
+
+=== Z ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:4em"| Ats.
+!style="width:18em"| NOK
+!style="width:22em"| Citi lietotie kodi
+!style="width:5em"| <small>[[ISO 3166-1]]</small>
+|-
+| ZAM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ZAM] || {{ZMB}} || NRH <small>(1964)</small>||ZMB
+|-
+| ZIM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ZIM] || {{ZWE}} || RHO <small>(1960–1972)</small>||ZWE
+|}
+
+== Vēsturiskās NOK un komandas ==
+=== Joprojām lietotie kodi ===
+Divpadsmit bijušajām NOK vai komandām ir kodi, kas tiek lietoti SOK rezultātu datu bāzēs<ref name="IOCdb">{{cite web |url=http://www.olympic.org/uk/athletes/results/search_r_uk.asp |title=Olympic Medal Winners |publisher=International Olympic Committee |accessdate=2008-02-08}}</ref>, lai atsauktos uz iepriekšējo gadu medaļniekiem un to komandām.
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:24em"| NOK/komanda
+! Citi lietotie kodi
+|-
+| ANZ || [[Attēls:Flag of Australasian team for Olympic games.svg|22px|border]] [[Austrālāzijas olimpiskā komanda|Austrālāzija]]
+ ||
+|-
+| BOH || [[Attēls:Flag of Bohemia.svg|22px|border]] [[Bohēmija]]
+ ||
+|-
+| BWI || [[Attēls:Flag of West Indies.svg|22px|border]] [[Vestindijas Federācija|Britu Vestindija]]
+|| ANT <small>(1960, 1968)</small>, WID <small>(1964)</small>
+|-
+| EUA || [[Attēls:Flag of Germany-1960-Olympics.svg|22px|border]] [[Apvienotā Vācijas komanda]] || GER <small>(1956–1964)</small>
+|-
+| EUN || [[Attēls:Olympic flag.svg|22px|border]] [[Apvienotā komanda]] <small>([[NVS]] un [[Gruzija]])</small>||
+|-
+| FRG || {{flaga|Vācija}} [[Vācijas Federatīvā Republika]] <small>(Rietumvācija)</small> || ALL <small>(1968Z)</small>, ALE <small>(1968V)</small>, GER <small>(1972–1976)</small>
+|-
+| GDR || [[Attēls:Flag of East Germany.svg|22px|border]] [[Vācijas Demokrātiskā Republika]] <small>(Austrumvācija)</small>|| ADE <small>(1968)</small>
+|-
+| SCG || [[Attēls:Flag of Serbia and Montenegro.svg|22px|border]] [[Serbija un Melnkalne]]||
+|-
+| TCH || {{flaga|Čehija}} [[Čehoslovākija]] || CSL <small>(1956Z)</small>, CZE <small>(1960Z)</small>, CSV <small>(1960V)</small>, CZS <small>(1964V)</small>, CHE <small>(1968V)</small>
+|-
+| URS || {{flaga|PSRS}} [[PSRS]] || SOV <small>(1968Z)</small>
+|-
+| YUG || {{flaga|Dienvidslāvija}} [[Dienvidslāvija]] || JUG <small>(1956–1960, 1968Z)</small>, YUS <small>(1964V)</small>
+|-
+| ZZX || [[Attēls:Olympic flag.svg|22px|border]] [[Jauktās komandas Olimpiskajās spēlēs|Jauktās komandas]] ||
+|}
+
+=== Atceltie kodi ===
+{| class="wikitable"
+!style="width:4em"| Kods
+!style="width:15em"| NOK
+!style="width:6em"| Gadi
+!Piezīmes
+|-
+| BIR || {{flaga|Mjanma}} [[Birma]] || 1948–1988 || Tagad {{MMR}} {{Unicode|(MYA)}}
+|-
+| CEY || [[Attēls:Flag of Ceylon.svg|22px|border]] [[Ceilona]] || 1948–1972 || Tagad {{LKA}} {{Unicode|(SRI)}}
+|-
+| DAH || {{flaga|Benina}} [[Dahomeja]]|| 1964–1976 || Tagad {{BEN}} {{Unicode|(BEN)}}
+|-
+| HBR || [[Attēls:British honduras flag.gif|22px|border]] [[Britu Hondurasa]] || 1968–1972 || Tagad {{BLZ}} {{Unicode|(BIZ)}}
+|-
+| KHM || [[Attēls:Flag of the Khmer Republic.svg|22px|border]] [[Khmeru Republika]] || 1972–1976 || Tagad {{KHM}} {{Unicode|(CAM)}}
+|-
+| MAL || [[Attēls:Flag of Malaya.svg|22px|border]] [[Malaja]] || 1956–1960 ||rowspan=2| Pirms [[Malaizija]]s izveidošanās startēja ar atsevišķu komandu.<br/>Tagad {{MYS}} {{Unicode|(MAS)}}
+|-
+| NBR || [[Attēls:Flag of North Borneo.gif|22px|border]] [[Ziemeļborneo]] || 1956
+|-
+| NRH || [[Attēls:Flag of Northern Rhodesia-1939.svg|22px|border]] [[Ziemeļrodēzija]] || 1964 || Tagad {{ZMB}} {{Unicode|(ZAM)}}
+|-
+| RHO || [[Attēls:Flag of Rhodesia.svg|22px|border]] [[Rodēzija]] || 1960–1972 || Tagad {{ZWE}} {{Unicode|(ZIM)}}
+|-
+| ROC || {{flaga|Taivāna}} [[Ķīnas Republika]] || 1932–1976 || Tagad [[Attēls:Flag of Chinese Taipei for Olympic games.svg|22px|border]] [[Taivāna]] {{Unicode|(TPE)}}
+|-
+| UAR || [[Attēls:Flag of United Arab Republic.svg|22px|border]] [[Apvienotā Arābu Republika]] || 1960–1968 || Tagad {{EGY}} {{Unicode|(EGY)}}
+|-
+| VOL || [[Attēls:Flag of Upper Volta.svg|22px|border]] [[Augšvolta]] || 1972–1984 || Tagad {{BFA}} {{Unicode|(BUR)}}
+|-
+| YAR || [[Attēls:Flag of North Yemen.svg|22px|border]] [[Jemenas Arābu Republika|Ziemeļjemena]] || 1984–1988 ||rowspan=2| Pirms [[Jemena]]s apvienošanās startēja ar atsevišķu komandu.<br/>Tagad {{YEM}} {{Unicode|(YEM)}}
+|-
+| YMD || [[Attēls:Flag of South Yemen.svg|22px|border]] [[Jemenas Tautas Demokrātiskā Republika|Dienvidjemena]] || 1988
+|-
+| YUG || [[Attēls:Flag of FR Yugoslavia.svg|22px|border]] [[Dienvidslāvija]] || 1996–2002 || Kā {{SCG}} 2004.–2006. g.
+|-
+| ZAI || [[Attēls:Flag of Zaire.svg|22px|border]] [[Zaira]] || 1972–1996 || Tagad {{COD}} {{Unicode|(COD)}}
+|-
+| BGY || [[Attēls:Flag of British guiana 1919-1954.gif|22px|border]] [[Britu Gviāna]] || 1948–1964 || Tagad {{GUY}} {{Unicode|(GUY)}}
+|-
+| GCO || [[Attēls:Flag of the Gold Coast.svg|22px|border]] [[Zelta Krasts]] || 1952 || Tagad {{GHA}} {{Unicode|(GHA)}}
+|-
+| SAR || [[Attēls:Flag of Saar.svg|22px|border]] [[Zāra]] || 1952 || Pirms pievienošanās [[Rietumvācija]]i startēja ar atsevišķu komandu.
+|}
+
+=== Speciālie kodi ===
+* '''IOP''' tika lietots [[1992. gada. Vasaras olimpiāde|1992. gada Vasaras olimpiādē]] [[Dienvidslāvija]]s atlētu apzīmēšanai, kuri [[ANO]] sankciju dēļ nevarēja startēt kā atsevišķa komanda.
+* '''IOA''' tika lietots [[2000. gada. Vasaras olimpiāde|2000. gada Vasaras olimpiādē]] [[Austrumtimora]]s atlētu apzīmēšanai pirms valsts NOK nodibināšanas.
+
+== Atsauces ==
+{{Reflist}}
+
+== Skatīt arī ==
+* [[ISO 3166-1|ISO 3166-1 valstu un teritoriju kodi]]
+* [[FIFA valstu kodi]]
+
+[[Kategorija:Valstu kodi]]
+[[Kategorija:Olimpiskās spēles]]
+
+[[af:Lys van IOK-landkodes]]
+[[ar:قائمة رموز بلدان اللجنة الأولمبية الدولية]]
+[[bn:আইওসি-ভুক্ত দেশসমূহের কোডের তালিকা]]
+[[ca:Codis del COI per als paisos]]
+[[de:Liste der olympischen Mannschaftskürzel]]
+[[el:Κατάλογος κωδικών χωρών ΔΟΕ]]
+[[en:List of IOC country codes]]
+[[es:Anexo:Códigos del COI para los países]]
+[[et:ROK-i maakoodide loend]]
+[[fa:فهرست کدهای کمیته بین‌المللی المپیک]]
+[[fi:Luettelo Kansainvälisen olympiakomitean maakoodeista]]
+[[gl:Lista de países por código do COI]]
+[[hr:Dodatak:Popis kratica država na Olimpijskim igrama]]
+[[hu:NOB-országkódok listája]]
+[[id:Daftar kode negara Komite Olimpiade Internasional]]
+[[it:Lista dei codici nazionali del CIO]]
+[[ja:IOCコード一覧]]
+[[kn:ಒಲಿಂಪಿಕ್ಸ್ ಕ್ರೀಡಾಕೂಟಗಳಲ್ಲಿ ವಿವಿಧ ರಾಷ್ಟ್ರಗಳ ಕೋಡ್ ಪಟ್ಟಿ]]
+[[ko:IOC 국가별 코드 목록]]
+[[mr:आय.ओ.सी. कोड यादी]]
+[[nl:Lijst van IOC-landcodes]]
+[[no:IOKs landkoder]]
+[[pt:Anexo:Lista de países por código do COI]]
+[[ro:Lista ţărilor după coduri CIO]]
+[[ru:Список кодов МОК]]
+[[simple:List of IOC country codes]]
+[[sr:Списак МОК кодова по државама]]
+[[sv:Lista över IOK:s landskoder]]
+[[tl:Talaan ng mga pambansang kodigo ng IOC]]
+[[uk:Список кодів МОК]]
+[[vi:Bảng mã IOC]]
+[[zh:國際奧委會國家編碼列表]]

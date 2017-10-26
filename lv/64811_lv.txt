@@ -1,0 +1,238 @@
+{{Peldēšana 2008 Vasaras OS}}
+Sacīkstes '''100 metru peldēšanā uz muguras sievietēm''' notika no 10. līdz 12. augustā. Sacīkstēm kvalificējās 49 sportistes. Zelta medaļu izcīnija ASV peldētāja Natālija Kohlina.
+
+== Medaļu ieguvēji ==
+
+{| class="wikitable"
+|- bgcolor="#dddddd"
+!Valsts!!Sportists
+|- bgcolor="gold"
+|{{USA}}||Natālija Kohlina <!--Natalie Coughlin-->
+|- bgcolor="silver"
+|{{ZIM}}||Kirstija Koventrija <!--Kirsty Coventry--> 
+|- bgcolor="#cc9966"
+|{{USA}}||Margareta Helzere <!--Margaret Hoelzer-->
+|}
+
+== Priekšsacīkstes ==
+
+Priekšcīkstes tikai aizvadītas 7 grupās. 16 labāko rezultātu uzstādītājas kvalificējās pusfinālam.
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!width=5px|Vieta
+!width=5px|Priekšsacīkšu grupa
+!width=5px|Celiņš
+!width=250px|Sportiste
+!width=80px|Rezultāts
+!width=5px|Piezīmes
+|-bgcolor=ccffcc
+|1. || 7 || 5 ||align=left| {{flaga|Zimbabve}} Kirstija Koventrija <!--Kirsty Coventry--> || '''<span style="display:none">0:</span>59.00''' || '''Q, OR'''
+|-bgcolor=ccffcc
+|2. || 6 || 6 ||align=left| {{flaga|Japāna}} Reiko Nakamura <!--Reiko Nakamura--> || '''<span style="display:none">0:</span>59.36''' || '''Q, OR'''
+|-bgcolor=ccffcc
+|3. || 5 || 4 ||align=left| {{flaga|Krievija}} Anastāsija Zujeva <!--Anastasia Zuyeva--> || '''<span style="display:none">0:</span>59.61''' || '''Q, OR'''
+|-bgcolor=ccffcc
+|4. || 7 || 4 ||align=left| {{flaga|ASV}} Natālija Kohlina <!--Natalie Coughlin--> || '''<span style="display:none">0:</span>59.69''' || '''Q'''
+|-bgcolor=ccffcc
+|5. || 6 || 5 ||align=left| {{flaga|Francija}} Laure Manado <!--Laure Manaudou--> || '''1:00.09''' || '''Q'''
+|-bgcolor=ccffcc
+|6. || 7 || 6 ||align=left| {{flaga|Lielbritānija}} Džemma Spoforta <!--Gemma Spofforth--> || '''1:00.11''' || '''Q'''
+|-bgcolor=ccffcc
+|7. || 6 || 4 ||align=left| {{flaga|ASV}} Margareta Helzere <!--Margaret Hoelzer-->
+ || '''1:00.13''' || '''Q'''
+|-bgcolor=ccffcc
+|8. || 6 || 3 ||align=left| {{flaga|Japāna}} Ito Hanaje <!--Ito Hanae--> || '''1:00.16''' || '''Q'''
+|-bgcolor=ccffcc
+|9. || 5 || 5 ||align=left| {{flaga|Austrālija}} Emīlija Sīboma <!--Emily Seebohm--> || '''1:00.27''' || '''Q'''
+|-bgcolor=ccffcc
+|10. || 4 || 3 ||align=left| {{flaga|Kanāda}} Džūlija Vilkinsone <!--Julia Wilkinson--> || '''1:00.38''' || '''Q'''
+|-bgcolor=ccffcc
+|11. || 5 || 8 ||align=left| {{flaga|Vācija}} Antje Buhšulte <!--Antje Buschschulte--> || '''1:00.48''' || '''Q'''
+|-bgcolor=ccffcc
+|12. || 5 || 2 ||align=left| {{flaga|Lielbritānija}} Elizabete Simondsa <!--Elizabeth Simmonds--> || '''1:00.53''' || '''Q'''
+|-bgcolor=ccffcc
+|13. || 5 || 6 ||align=left| {{flaga|Spānija}} Ņina Aleksandrovna Živaņevskaja <!--Nina Alexandrovna Zhivanevskaya--> || '''1:00.54''' || '''Q'''
+|-bgcolor=ccffcc
+|14. || 5 || 3 ||align=left| {{flaga|Austrālija}} Sofija Edingtone <!--Sophie Edington--> || '''1:00.65''' || '''Q'''
+|-bgcolor=ccffcc
+|15. || 7 || 1 ||align=left| {{flaga|Jaunzēlande}} Elizabete Kostere <!--Elizabeth Coster--> || '''1:00.66''' || '''Q'''
+|-bgcolor=ccffcc
+|16. || 6 || 1 ||align=left| {{flaga|Krievija}} Ksenija Moskvina <!--Kseniya Moskvina--> || '''1:00.70''' || '''Q'''
+|-
+|17. || 5 || 1 ||align=left| {{flaga|Ķīna}} Tjanlongzī Ksju <!--Xu Tianlongzi--> || 1:00.82 ||
+|-
+|18. || 7 || 7 ||align=left| {{flaga|Brazīlija}} Fabiola Molina <!--Fabiola Molina--> || 1:01.00 ||
+|-
+|19. || 3 || 3 ||align=left| {{flaga|Kolumbija}} Karolīna Kolorado <!--Carolina Colorado--> || 1:01.19 ||
+|-
+|20. || 4 || 4 ||align=left| {{flaga|Jaunzēlande}} Melisa Ingrama <!--Melissa Ingram--> || 1:01.24 ||
+|-
+|21. || 5 || 7 ||align=left| {{flaga|Ukraina}} Katerina Zubkova <!--Kateryna Zubkova--> || 1:01.25 ||
+|-
+|22. || 6 || 2 ||align=left| {{flaga|Horvātija}} Sanja Jovanoviča <!--Sanja Jovanović--> || 1:01.30 ||
+|-
+|23. || 7 || 2 ||align=left| {{flaga|Francija}} Aleksiana Kastela <!--Alexianne Castel--> || 1:01.44 ||
+|-
+|24. || 7 || 8 ||align=left| {{flaga|Ungārija}} Nikoleta Šepesi <!--Nikolett Szepesi--> || 1:01.77 ||
+|-
+|25. || 3 || 2 ||align=left| {{flaga|Izraēla}} Anna Gostomeļska <!--Anna Gostomelsky--> || 1:01.87 ||
+|-
+|26. || 4 || 6 ||align=left| {{flaga|Itālija}} Romina Armelīnī <!--Romina Armellini--> || 1:02.21 ||
+|-
+|26. || 4 || 8 ||align=left| {{flaga|Slovēnija}} Anja Karmana <!--Anja Carman--> || 1:02.21 ||
+|-
+|28. || 4 || 5 ||align=left| {{flaga|Spānija}} Mersedesa Perisa <!--Mercedes Peris--> || 1:02.30 ||
+|-
+|29. || 3 || 1 ||align=left| {{flaga|Zviedrija}} Sāra Sjostroma <!--Sarah Sjöström--> || 1:02.38 ||
+|-
+|30. || 4 || 2 ||align=left| {{flaga|Somija}} hanna Marija Sepala <!--Hanna-Maria Seppala--> || 1:02.39 ||
+|-
+|31. || 4 || 1 ||align=left| {{flaga|Īrija}} Aislina Margareta Kūnija <!--Aisling Margaret Cooney--> || 1:02.50 ||
+|-
+|32. || 3 || 7 ||align=left| {{flaga|Bahamas}} Alana Dilete <!--Alana Dillette--> || 1:02.56 ||
+|-
+|33. || 1 || 4 ||align=left| {{flaga|Bermuda}} Keira Aitkina <!--Kiera Aitken--> || 1:02.62 ||
+|-
+|34. || 3 || 4 ||align=left| {{flaga|Honkonga}} Šerila Caihjuvaja <!--Tsai Hiu Wai Sherry--> || 1:02.68 ||
+|-
+|35. || 3 || 5 ||align=left| {{flaga|Meksika}} Fernanda Gonsalesa <!--Fernanda Gonzalez--> || 1:02.76 ||
+|-
+|35. || 2 || 4 ||align=left| {{flaga|Spānija}} Zuzanna Mazureka <!--Zuzanna Mazurek--> || 1:02.77 ||
+|-
+|37. || 6 || 7 ||align=left| {{flaga|Ukraina}} Irīna Amšeņikova <!--Iryna Amshennikova--> || 1:02.85 ||
+|-
+|38. || 2 || 5 ||align=left| {{flaga|Gvatemala}} Žizela Moralesa <!--Gisela Morales--> || 1:02.92 ||
+|-
+|39. || 3 || 6 ||align=left| {{flaga|Čehija}} Petra Klosova <!--Petra Klosová--> || 1:03.36 ||
+|-
+|40. || 2 || 3 ||align=left| {{flaga|Serbija}} Marica Stražmestera <!--Marica Strazmester--> || 1:03.56 ||
+|-
+|41. || 3 || 8 ||align=left| {{flaga|Īslande}} Sāra Bleika Beitmana<!--Sarah Blake Bateman--> || 1:03.82 ||
+|-
+|42. || 6 || 8 ||align=left| {{flaga|Vācija}} Kristīna Cennera <!--Christin Zenner--> || 1:03.87 ||
+|-
+|43. || 2 || 7 ||align=left| {{flaga|Venecuēla}} Erina Nikola Volkana Smita <!--Erin Nicole Volcan Smith--> || 1:03.90 ||
+|-
+|44. || 2 || 6 ||align=left| {{flaga|Dienvidkoreja}} Kima Jujona <!--Kim Yuyon--> || 1:04.63 ||
+|-
+|45. || 2 || 2 ||align=left| {{flaga|Kazahstāna}} Jekaterina Rudenko <!--Yekaterina Rudenko--> || 1:04.85 ||
+|-
+|46. || 1 || 5 ||align=left| {{flaga|Paragvaja}} Marija Virdžīnija Baesa <!--Maria Virginia Baez--> || 1:05.39 ||
+|-
+|47. || 1 || 3 ||align=left| {{flaga|Panama}} Kristija Marija Bodena Baka <!--Christie Marie Bodden Baca--> || 1:07.18 ||
+|-
+| || 4 || 7 ||align=left| {{flaga|Baltkrievija}} Svetlana Hoklova <!--Svetlana Khokhlova--> || <small>nestartēja</small> ||
+|-
+| || 7 || 3 ||align=left| {{flaga|Ķīna}} Jina Žao <!--Zhao Jing--> || <small>diskvalificēta</small> ||
+|}
+
+== Pusfināls ==
+Pēc priekšsacīkstēm sacīkstes turpinājās 2 pusfinālos. Labāko 8 rezultātu ieguvēji kvalificējās finālam. 
+{| class="wikitable sortable" style="text-align:center"
+|-
+!width=5px|Vieta
+!width=5px|Pusfināls
+!width=5px|Celiņš
+!width=250px|Sportiste
+!width=80px|Rezultāts
+!width=5px|Piezīmes
+|-bgcolor=ccffcc
+|1. || 2 || 4 ||align=left| {{flaga|Zimbabve}} Kirstija Koventrija <!--Kirsty Coventry--> || '''<span style="display:none">0:</span>58.77''' || '''Q, WR'''
+|-bgcolor=ccffcc
+|2. || 1 || 5 ||align=left| {{flaga|ASV}} Natālija Kohlina <!--Natalie Coughlin--> || '''<span style="display:none">0:</span>59.43''' || '''Q'''
+|-bgcolor=ccffcc
+|3. || 1 || 4 ||align=left| {{flaga|Japāna}} Reiko Nakamura <!--Reiko Nakamura--> || '''<span style="display:none">0:</span>59.64''' || '''Q'''
+|-bgcolor=ccffcc
+|4. || 2 || 5 ||align=left| {{flaga|Krievija}} Anastāsija Zujeva <!--Anastasia Zuyeva--> || '''<span style="display:none">0:</span>59.77''' || '''Q'''
+|-bgcolor=ccffcc
+|5. || 1 || 3 ||align=left| {{flaga|Lielbritānija}} Džemma Spoforta <!--Gemma Spofforth--> || '''<span style="display:none">0:</span>59.79''' || '''Q'''
+|-bgcolor=ccffcc
+|6. || 2 || 6 ||align=left| {{flaga|ASV}} Margareta Helzere <!--Margaret Hoelzer--> || '''<span style="display:none">0:</span>59.84''' || '''Q'''
+|-bgcolor=ccffcc
+|7. || 1 || 6 ||align=left| {{flaga|Japāna}} Ito Hanaje <!--Ito Hanae--> || '''1:00.13''' || '''Q'''
+|-bgcolor=ccffcc
+|8. || 2 || 3 ||align=left| {{flaga|Francija}} Laure Manado <!--Laure Manaudou--> || '''1:00.19''' || '''Q'''
+|- 
+|9. || 2 || 2 ||align=left| {{flaga|Austrālija}} Emīlija Sīboma <!--Emily Seebohm--> || 1:00.31 || 
+|- 
+|10. || 1 || 7 ||align=left| {{flaga|Lielbritānija}} Elizabete Simondsa <!--Elizabeth Simmonds--> || 1:00.39 || 
+|- 
+|11. || 2 || 1 ||align=left| {{flaga|Spānija}} Ņina Aleksandrovna Živaņevskaja <!--Nina Alexandrovna Zhivanevskaya--> || 1:00.50 || 
+|- 
+|12. || 1 || 2 ||align=left| {{flaga|Kanāda}} Džūlija Vilkinsone <!--Julia Wilkinson--> || 1:00.60 || 
+|- 
+|13. || 1 || 1 ||align=left| {{flaga|Austrālija}} Sofija Edingtone <!--Sophie Edington--> || 1:01.05 || 
+|- 
+|14. || 1 || 8 ||align=left| {{flaga|Krievija}} Ksenija Moskvina <!--Kseniya Moskvina--> || 1:01.06 || 
+|- 
+|15. || 2 || 7 ||align=left| {{flaga|Vācija}} Antje Buhšulte <!--Antje Buschschulte--> || 1:01.15 || 
+|- 
+|16. || 2 || 8 ||align=left| {{flaga|Jaunzēlande}} Elizabete Kostere <!--Elizabeth Coster--> || 1:01.45 || 
+|}
+
+== Fināls ==
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!width=5px|Vieta
+!width=5px|Celiņš
+!width=200px|Sportiste
+!width=80px|Rezultāts
+!width=5px|Piezīmes
+|-bgcolor=gold
+|1.
+|5
+|align="left"|{{flaga|ASV}} Natālija Kohlina <!--Natalie Coughlin-->
+| <span style="display:none">0:</span>58.96 || AR
+|-bgcolor=silver
+|2.
+|4
+|align="left"|{{flaga|Zimbabve}} Kirstija Koventrija <!--Kirsty Coventry--> 
+| <span style="display:none">0:</span>59.19 || 
+|-bgcolor=cc9966
+|3.
+|7
+|align="left"|{{flaga|ASV}} Margareta Helzere <!--Margaret Hoelzer-->
+| <span style="display:none">0:</span>59.34 || 
+|-
+|4.
+|2
+|align="left"|{{flaga|Lielbritānija}} Džemma Spoforta <!--Gemma Spofforth-->
+| <span style="display:none">0:</span>59.38 || ER
+|-
+|5.
+|6
+|align="left"|{{flaga|Krievija}} Anastāsija Zujeva <!--Anastasia Zuyeva-->
+| <span style="display:none">0:</span>59.40 || 
+|-
+|6.
+|3
+|align="left"|{{flaga|Japāna}} Reiko Nakamura <!--Reiko Nakamura-->
+| <span style="display:none">0:</span>59.72 || 
+|-
+|7.
+|8
+|align="left"|{{flaga|Francija}} Laure Manado <!--Laure Manaudou-->
+| <span style="display:none">0:</span>1:00.10 || 
+|-
+|8.
+|1
+|align="left"|{{flaga|Japāna}} Ito Hanaje <!--Ito Hanae-->
+| <span style="display:none">0:</span>1:00.18 ||
+|}
+
+{{Veidne:Disciplīnas2008VasarasOS}}
+
+[[Kategorija:2008. gada Vasaras Olimpiskās spēles]]
+[[Kategorija:Peldēšana Olimpiskajās spēlēs|2008]]
+
+[[en:Swimming at the 2008 Summer Olympics – Women's 100 metre backstroke]]
+[[hu:2008. évi nyári olimpiai játékok (női 100 méteres hátúszás)]]
+[[it:Nuoto ai Giochi della XXIX Olimpiade - 100 metri dorso femminili]]
+[[ko:2008년 하계 올림픽 수영 여자 100m 배영]]
+[[mr:२००८ उन्हाळी ऑलिंपिकमधील जलतरण - महिला १०० मीटर बॅकस्ट्रोक]]
+[[no:Svømming under Sommer-OL 2008 - 100 meter ryggsvømming damer]]
+[[pt:Natação nos Jogos Olímpicos de Verão de 2008 - 100m costas feminino]]
+[[ru:Плавание на летних Олимпийских играх 2008 — 100 метров на спине (женщины)]]
+[[zh:2008年夏季奧林匹克運動會游泳比賽－女子100米背泳]]

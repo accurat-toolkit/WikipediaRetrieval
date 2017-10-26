@@ -1,0 +1,135 @@
+{{Infobox Russian federal subject2
+|EnglishName=Kaluga Oblast
+|RussianName=Калужская область
+|Map=Map of Russia - Kaluga Oblast (2008-03).svg
+|LatDeg=54
+|LatMin=30
+|LonDeg=35
+|LonMin=30
+|CoatOfArms=Gerb kalug obl.png
+|CoatOfArmsLink=[[Coat of arms of Kaluga Oblast]]
+|Flag=Flag of Kaluga Oblast.png
+|FlagLink=[[Flag of Kaluga Oblast]]
+|Anthem=''None''
+|AdmCtrType=Administrative center
+|AdmCtrName=[[Kaluga]]
+|DateEstablished=[[July 5]], [[1944]]
+|DateEstablishedRef=<ref name="FoundationDate">Charter of Kaluga Oblast, Article&nbsp;3.2</ref>
+|PoliticalStatus=Oblast
+|PoliticalStatusLink=Oblasts of Russia
+|FederalDistrict=[[Central Federal District|Central]]
+|EconomicRegion= [[Central economic region|Central]]
+|CodeNumber=40
+|ISO=RU-KLU
+|Area=29900
+|AreaRank=64th
+|Population=1041641
+|PopulationRank=52nd
+|UrbanPopulation=74.8%
+|RuralPopulation=25.2%
+|OfficialLanguages=[[Russian language|Russian]]
+|OfficialLanguagesRef=<ref name="Languages">According to Article&nbsp;68.2 of the [[Constitution of Russia]], only [[republics of Russia|republics]] have the right to establish official languages other than Russian</ref>
+|GovernmentAsOf=September 2009
+|HeadTitle=[[Governor of Kaluga Oblast|Governor]]
+|HeadTitleRef=<ref name="HeadTitle">Charter of Kaluga Oblast, Article&nbsp;26.1</ref>
+|HeadName=[[Anatoly Artamonov]]
+|HeadNameRef=<ref name="HeadName">Official website of Kaluga Oblast.  [http://www.admobl.kaluga.ru/sub/administration/ Gubernatorial Administration] {{ru icon}}</ref>
+|Legislature=[[Legislative Assembly of Kaluga Oblast|Legislative Assembly]]
+|LegislatureRef=<ref name="Legis">Charter of Kaluga Oblast, Article&nbsp;18.1</ref>
+|BasicLawType=Charter
+|BasicLawTitle=[[Charter of Kaluga Oblast]]
+|Website=http://www.admobl.kaluga.ru/
+|WebsiteRef
+}}
+'''Kaluga Oblast''' ({{lang-ru|Калу́жская о́бласть}}, ''Kaluzhskaya oblast'') is a [[federal subjects of Russia|federal subject]] of [[Russia]] (an [[oblast]]).  Its administrative center is the city of [[Kaluga]].
+
+==Geography==
+===Time zone===
+[[File:Map of Russia - Moscow time zone.svg|left|75px]]
+
+Kaluga Oblast is located in the [[Moscow Time|Moscow Time Zone]] (MSK/MSD).  [[Coordinated Universal Time|UTC]] offset is +0300&nbsp;(MSK)/+0400&nbsp;(MSD).
+<div style="clear:left"></div>
+
+==History==
+It was created in 1944 out of four other oblasts: [[Moskva Oblast]], [[Orel Oblast]], [[Smolensk Oblast]], and [[Tula Oblast]]. It is located at the historical region of the former [[Kaluga Governorate]].
+
+==Administrative divisions==
+{{Main|Administrative divisions of Kaluga Oblast}}
+
+==Birth and death rates (2007)==
+*Births: 10,099 (10.0 per 1000)
+*Deaths: 17,377 (17.3 per 1000) <ref>[http://www.kalugastat.ru/digital/region1/DocLib/nas_3.htm birth and death rates]</ref>
+
+==References==
+{{Commonscat|Kaluga Oblast}}
+
+{{Reflist}}
+
+==Sources==
+*{{RussiaBasicLawRef/klu}}
+
+==See also==
+*[[Upper Oka Principalities]]
+
+==External links==
+*[http://www.admobl.kaluga.ru/ Official website of Kaluga Oblast] {{ru icon}}
+*[http://www.artamonovguber.ru/ Official website of Anatoly Artamonov], Governor of Kaluga Oblast {{ru icon}}
+
+{{Subdivisions of Russia}}
+
+[[Category:Kaluga Oblast| ]]
+[[Category:States and territories established in 1944]]
+[[Category:Oblasts of Russia]]
+
+[[ar:كالوغا أوبلاست]]
+[[az:Kaluqa Vilayəti]]
+[[be:Калужская вобласць]]
+[[bs:Kaluška oblast]]
+[[bg:Калужка област]]
+[[ca:Província de Kaluga]]
+[[cs:Kalužská oblast]]
+[[de:Oblast Kaluga]]
+[[et:Kaluga oblast]]
+[[el:Περιφέρεια Καλούγκα]]
+[[myv:Калугань ёнкс]]
+[[es:Óblast de Kaluga]]
+[[fa:استان کالوگا]]
+[[fr:Oblast de Kalouga]]
+[[ga:Cúige Kaluga]]
+[[ko:칼루가 주]]
+[[hr:Kaluška oblast]]
+[[id:Oblast Kaluga]]
+[[os:Калугæйы облæст]]
+[[it:Oblast' di Kaluga]]
+[[he:מחוז קלוגה]]
+[[pam:Kaluga Oblast]]
+[[ka:კალუგის ოლქი]]
+[[kv:Калуга обласьт]]
+[[lv:Kalugas apgabals]]
+[[lt:Kalugos sritis]]
+[[hu:Kalugai terület]]
+[[mk:Калушка област]]
+[[ms:Wilayah Kaluga]]
+[[nl:Oblast Kaloega]]
+[[ja:カルーガ州]]
+[[no:Kaluga oblast]]
+[[nn:Kaluga oblast]]
+[[pnb:کالوگا]]
+[[pl:Obwód kałuski]]
+[[pt:Óblast de Kaluga]]
+[[ro:Regiunea Kaluga]]
+[[ru:Калужская область]]
+[[sah:Калууга уобалаhа]]
+[[sk:Kalužská oblasť]]
+[[sl:Kaluška oblast]]
+[[sr:Калушка област]]
+[[sh:Kaluška oblast]]
+[[fi:Kalugan alue]]
+[[sv:Kaluga oblast]]
+[[ta:களுகா ஒப்லாஸ்து]]
+[[tg:Вилояти Калуга]]
+[[tr:Kaluga Oblastı]]
+[[uk:Калузька область]]
+[[vi:Kaluga (tỉnh)]]
+[[war:Kaluga Oblast]]
+[[zh:卡卢加州]]

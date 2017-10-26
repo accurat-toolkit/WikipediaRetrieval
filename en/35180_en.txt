@@ -1,0 +1,172 @@
+{{Year nav 1st century CE|1}}
+{{dablink|This article is about the '''year 1'''. For the '''number 1''', see [[1 (number)]]. For other uses, see [[1 (disambiguation)]] and [[One (disambiguation)]].}}
+<!-- (prior nav-box below)
+{{yearbox| | in?=
+| cp=1st Century BC | c=1st century | cf=2nd century
+| yp1=3 BC | yp2=2 BC | yp3=1 BC | year=1 | ya1=2 | ya2=3 | ya3=4
+| dp3=20s BC | dp2=10s BC | dp1=0s BC | d=0s | dn1=10s | dn2=20s | dn3=30s
+}} -->
+[[Image:World 1 CE.PNG|thumb|300px|The world in 1]]
+[[Image:Germanic tribes (750BC-1AD).png|thumb|Germanic tribes in Europe in 1.]]
+{{C1YearInTopic}}
+Year '''1''' ('''[[Roman numerals|I]]''') was a [[common year starting on Saturday]] of the [[Julian calendar]]. The preceding year is [[1 BC]] in the widely used [[Gregorian calendar]] or in its predecessor, the Julian calendar, neither of which has a "[[year zero]]".
+__NOTOC__
+==Events==
+===By place===
+====Roman Empire====
+* [[Tiberius]], under order of [[Augustus]], quells revolts in [[Germania]] (1–[[5]]).
+* [[Gaius Caesar]] and [[Lucius Aemilius Paullus (consul 1)|Lucius Aemilius Paullus]] are appointed consuls. 
+* Gaius Caesar marries [[Livilla]], daughter of [[Antonia Minor]] and [[Nero Claudius Drusus]], in an effort to gain prestige.
+* [[Quirinius]] becomes a chief advisor to Gaius in Armenia.  [[Gnaeus Domitius Ahenobarbus (consul 32)|Gnaeus Domitius Ahenobarbus]] whose father [[Lucius Domitius Ahenobarbus (consul 16 BC)|Lucius Domitius Ahenobarbus]] had served as [[consul]] in [[16 BC]] also serves in the Armenia campaigns.
+* The [[Aqua Alsietina]] [[aqueduct]] is constructed. 
+* [[Silk]] appears in [[Rome]].<ref>The Silkroad Foundation's [http://www.silkroadfoundation.org/artl/chrono.shtml silk road chronology]</ref>
+* Areius Paianeius becomes [[Archon of Athens]].
+
+====Asia====
+* Start of the ''[[Yuanshi Era|Yuanshi]]'' era of the Chinese [[Han Dynasty]].
+* [[Confucius]] is given his first royal title ([[posthumous name]]) of Lord Baochengxun Ni.
+* [[Emperor Ping of Han China]] begins his reign and [[Wang Mang]] is re-instated as regent by [[Grand Empress Dowager Wang]].
+* Former regent [[Dong Xian]] commits suicide.
+* [[Sapadbizes]], Yuezhi prince and King of [[Kushan Empire|Kush]] ([[Bactria]]), dies. [[Heraios]] succeeds him as king.
+
+====Africa====
+* [[Kingdom of Aksum]], centered in modern day [[Ethiopia]] and [[Eritrea]], is founded (approximate date).
+* [[Amanishakheto]] Queen of [[Kingdom of Kush|Kush]] ([[Nubia]]) dies.  Her son, [[Natakamani]], becomes King of Kush.
+
+====Americas====
+* [[Moxos people|Moxos]] ceases to be a significant religious area in [[South America]] (approximate date).
+
+===By topic===
+====Arts and sciences====
+* The poem ''[[Metamorphoses (poem)|Metamorphoses]]'' is written by [[Ovid]].
+* [[Livy]] writes his monumental ''[[History of Rome]]'' (''[[Ab Urbe Condita]]'').
+
+====Religion====
+* Alleged birth of [[Jesus]], as assigned by [[Dionysius Exiguus]] in his [[anno Domini]] era according to at least one scholar.<ref name=declercq1>Georges Declercq, ''Anno Domini: The origins of the Christian Era'' (Turnhout, Belgium: Brepols, 2000), pp.143–147.</ref><ref name=declercq2>G. Declercq, "Dionysius Exiguus and the introduction of the Christian Era", ''Sacris Erudiri'' '''41''' (2002) 165–246, pp.242–246. Annotated version of a portion of ''Anno Domini''.</ref> However, most scholars think Dionysius placed the birth of Jesus in the previous year, [[1 BC]].<ref name=declercq1/><ref name=declercq2/> Despite this, most modern scholars do not consider Dionysius' calculations authoritative, placing the event several years earlier (see [[Chronology of Jesus]]).<ref>James D. G. Dunn, ''Jesus Remembered'', Eerdmans Publishing (2003), page 324.</ref>
+* [[Buddhism]] is introduced into [[China]].
+
+==Births==
+<!--Don't mention Jesus here, see the section "Religion" above.-->
+* [[Lucius Annaeus Gallio]], Roman proconsul (d. [[65]])
+* [[Quinctilius Varus]], son of [[Publius Quinctilius Varus]] and [[Claudia Pulchra]] (d. c. [[27]])
+* [[Pallas (freedman)|Pallas]], Greek [[Freedman]] and political advisor (d. [[65]])
+
+==Deaths==
+*[[Gaius Meng]],  commentarierer and part of the Sierrdia expedition (b. [[35 BC]])
+
+==References==
+{{reflist}}
+<!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the <ref(erences/)> tags-->
+
+{{C1YearEnd}}
+
+[[Category:1| ]]
+
+[[af:1]]
+[[als:0er#Johr 1]]
+[[ar:ملحق:1]]
+[[an:1]]
+[[arc:1]]
+[[frp:1]]
+[[ast:1]]
+[[gn:1]]
+[[az:1]]
+[[bn:১]]
+[[zh-min-nan:1 nî]]
+[[be:1]]
+[[be-x-old:1]]
+[[bh:१]]
+[[bs:1]]
+[[br:1]]
+[[bg:1]]
+[[ca:1]]
+[[cv:1]]
+[[ceb:1]]
+[[cs:1]]
+[[co:1]]
+[[cy:1]]
+[[da:1]]
+[[de:1]]
+[[et:1]]
+[[el:1]]
+[[es:1]]
+[[eo:1]]
+[[eu:1]]
+[[fa:۱ (میلادی)]]
+[[fr:1]]
+[[fy:1]]
+[[fur:1]]
+[[ga:1]]
+[[gv:1]]
+[[gl:1]]
+[[ko:1년]]
+[[hr:1.]]
+[[io:1]]
+[[ig:1]]
+[[bpy:মারি ১]]
+[[id:1]]
+[[ia:1]]
+[[it:1]]
+[[he:1]]
+[[jv:1]]
+[[ka:1]]
+[[kk:1]]
+[[sw:1]]
+[[ht:1 (almanak jilyen)]]
+[[la:1]]
+[[lv:1]]
+[[lb:1]]
+[[lt:1 m.]]
+[[lij:1]]
+[[lmo:1]]
+[[hu:1]]
+[[mk:1]]
+[[mr:इ.स. १]]
+[[ms:1]]
+[[nah:1]]
+[[nl:1]]
+[[new:१]]
+[[ja:1年]]
+[[nap:1]]
+[[ce:1 Шо]]
+[[no:1]]
+[[nn:1]]
+[[nrm:1]]
+[[oc:1]]
+[[or:୧]]
+[[uz:1]]
+[[pi:१]]
+[[nds:1]]
+[[pl:1]]
+[[pt:1]]
+[[ty:1]]
+[[ksh:Joohr 1]]
+[[ro:1]]
+[[qu:1]]
+[[ru:1 год]]
+[[sah:1]]
+[[sa:१]]
+[[sq:1]]
+[[simple:1]]
+[[sk:1]]
+[[sl:1]]
+[[srn:1]]
+[[sr:1]]
+[[fi:1]]
+[[sv:1]]
+[[tt:1]]
+[[th:พ.ศ. 544]]
+[[tg:1]]
+[[tr:1]]
+[[tk:1]]
+[[uk:1]]
+[[ur:1ء]]
+[[vec:1]]
+[[vo:1]]
+[[zh-classical:公元元年]]
+[[vls:1]]
+[[war:1]]
+[[yo:1]]
+[[diq:1]]
+[[bat-smg:1]]
+[[zh:1年]]

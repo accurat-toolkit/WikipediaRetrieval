@@ -1,0 +1,272 @@
+{{Infobox_University
+|name = California Institute of Technology
+|image_name = Caltech logo.svg
+|motto = "The truth shall make you free"
+|established = 1891
+|type = [[Private university|Private]]
+|calendar=Quarter
+|president= [[Jean-Lou Chameau]]
+|city = [[Pasadena, California|Pasadena]]
+|state = [[California|CA]]
+|country = [[United States|U.S.]]
+|undergrad = 864<ref name='enrollstats'>{{cite web|url=http://collegesearch.collegeboard.com/search/CollegeDetail.jsp?collegeId=4214 |title=College Board At A Glance|accessdate=2008-01-30 }}</ref>
+|postgrad = 1,222<ref name='enrollstats'/>
+|faculty = 293 professorial faculty<br /> 979 other faculty
+|campus = [[Urban area|Urban]], 124 acres (0.5&nbsp;km²)
+|endowment= [[United States dollar|US $]]1.4 [[1000000000 (number)|billion]] (July 24, 2009)<ref>{{cite web | title = S&P Credit Research | url = http://www.alacrastore.com/research/s-and-p-credit-research-California_Institute_of_Technology_s_Tax_Exempt_CP_Notes_Assigned_A_1_Rating-735996  | accessdate = October 25, 2009}}</ref> |athletics = [[National Collegiate Athletic Association|NCAA]] [[Division III]]
+|colors = [[Orange (colour)|Orange]] and [[White]] {{color box|#FF6600}}{{color box|#FFFFFF}}
+|mascot = Beaver
+|website= [http://www.caltech.edu/ www.caltech.edu]
+|logo= [[File:Caltech wordmark.png|200px]]
+}}
+
+The '''California Institute of Technology''' (commonly referred to as '''Caltech''')<ref name="caltech">The university itself only spells its short form as "Caltech"; other spellings such as [http://styleguide.caltech.edu/wordmark "Cal Tech" and "CalTech" are incorrect]. The Institute is also occasionally referred to as "CIT", most notably in its alma mater, but this is uncommon.</ref> is a [[private university|private]] research university located in [[Pasadena, California]], [[United States]]. The Institute maintains a strong emphasis on the natural sciences and engineering, and operates and manages [[NASA]]'s neighboring [[Jet Propulsion Laboratory]]. Caltech is a small school, with only about 2100 students (about 900 undergraduates and 1200 graduate students),<ref name='enrollstats'/> but it is ranked number 2 in the world<ref>http://www.globaluniversitiesranking.org/images/banners/top-100(eng).pdf</ref> according to [[Global University Ranking]] and in the top ten universities worldwide by metrics such as Science Watch,<ref>{{cite web|url=http://www.sciencewatch.com/sept-oct2002/sw_sept-oct2002_page1.htm|title=Harvard Rides High in Latest "Top Ten" Research Roundup|date=September/October 2002|work=ScienceWatch|accessdate=2009-04-25}}</ref>  Nobel Prizes,<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/lists/universities.html|title=Nobel Laureates and Universities|publisher=[[Nobel Foundation]]|accessdate=2009-04-25}}</ref> and general university rankings.
+
+== History ==
+Caltech began as a [[vocational school]] founded in Pasadena in 1891 by local businessman and politician [[Amos G. Throop]]. The school was known successively as ''Throop University'', ''Throop Polytechnic Institute'', and ''Throop College of Technology'', before acquiring its current name in 1921.<ref>{{cite news
+|first = Judith |last = Goodstein |date = 1998-06-29 |title = History of Caltech
+|url=http://nobelprize.org/nobel_prizes/physics/articles/goodstein/index.html | publisher = NobelPrize.org | accessdate= 2007-11-19}}</ref>
+
+At a time when scientific research in the United States was still in its infancy, [[George Ellery Hale]], a solar astronomer from the [[University of Chicago]], founded the [[Mount Wilson Observatory]] in 1904. He joined Throop's board of trustees the same year, and soon began developing it and the whole of Pasadena into a major scientific and cultural destination. He engineered the appointment of [[James A. B. Scherer]], a literary scholar untutored in science but a capable administrator and fundraiser, to Throop's presidency in 1908. Scherer persuaded retired businessman and trustee Charles W. Gates to donate $25,000 in seed money to build Gates Laboratory, the first science building on campus.<ref name="gates lab">{{cite book|last=Goodstein|first=Judith R.|title=Milikan's School: A History of the California Institute of Technology|publisher=[[W. W. Norton & Company]]|location=New York|date=1991|pages=51–63|chapter=Preamble to a Technical School|isbn=0-393-03017-2}}</ref> The promise of the lab attracted [[physical chemistry|physical chemist]] [[Arthur Amos Noyes]] to commit to developing the institution. Arther Fleming, Caltech's primary benefactor, who had donated the land for the permanent campus site at California and Wilson, later donated $100,000 to establish a physics facility, the Norman Bridge Laboratory, which succeeded in attracting experimental [[physics|physicist]] [[Robert Andrews Millikan]] to join the [[faculty (university)|faculty]] and assist in establishing the college as a center for [[science]] and [[technology]].<ref name="bridge lab">{{cite book|last=Goodstein|first=Judith R.|title=Milikan's School: A History of the California Institute of Technology|publisher=[[W. W. Norton & Company]]|location=New York|date=1991|pages=71–75|chapter=The Birth of Caltech|isbn=0-393-03017-2}}</ref>
+
+[[Image:Throop Polytechnic Institute, Pasadena, Calif.jpg|thumb|550px|left|Throop Polytechnic Institute, Pasadena, Calif, 1908. This photo was taken on the original campus in downtown Pasadena; in 1910 the Institute moved to its present location.]]
+
+The vocational school was disbanded, and the preparatory program was split off into an independent [[Polytechnic School]] in 1910. In 1911, a bill was introduced in the [[California Legislature]] calling for the establishment of a publicly funded "California Institute of Technology," with an initial budget of a million dollars, ten times the budget of Throop at the time. The board of trustees offered to turn Throop over to the state, but the presidents of [[Stanford]] and the [[University of California]] successfully lobbied to defeat the bill, which allowed Throop to develop as the only scientific research-oriented education institute in Southern California, public or private, until the onset of the [[Second World War]] necessitated the broader development of research-based science education.<ref name="The Dream Endures">{{cite book|last=Starr|first=Kevin|title=The Dream Endures: California Enters the 1940s|publisher=[[Oxford University Press]]|location=Oxford|date=1997|pages=74–77|chapter=Unto the Stars Themselves, Astronomy and the Pasadena Perspective|isbn=0-19-515797-4}}</ref>
+
+With the onset of [[World War I]], Hale organized the [[United States National Research Council|National Research Council]] to coordinate and support scientific work on military problems. While he supported the idea of federal appropriations for science, he took exception to a federal bill that would have funded engineering research at land-grant colleges, and instead sought to raise a $1 million national research fund entirely from private sources. To that end, as Hale wrote in the [[New York Times]]:
+
+<blockquote>
+Throop College of Technology, in Pasadena California has recently afforded a striking illustration of one way in which the Research Council can secure co-operation and advance scientific investigation. This institution, with its able investigators and excellent research laboratories, could be of great service in any broad scheme of cooperation. President Scherer, hearing of the formation of the council, immediately offered to take part in its work, and with this object, he secured within three days an additional research endowment of one hundred thousand dollars.<ref name="NRC">{{cite book|last=Goodstein|first=Judith R.|title=Milikan's School: A History of the California Institute of Technology|publisher=[[W. W. Norton & Company]]|location=New York|date=1991|pages=64–75|chapter=The Birth of Caltech|isbn=0-393-03017-2}}</ref>
+</blockquote>
+
+Through the National Research Council, Hale simultaneously lobbied for science to play a larger role in national affairs, and for Throop to play a national role in science. The new funds were designated for physics research, and ultimately lead to the establishment of the Norman Bridge Laboratory, which attracted Millikan from the University of Chicago. During the course of the war, Hale, Noyes and Millikan worked together in Washington on the NRC. Subsequently, they continued their partnership in developing Caltech.<ref name="NRC"/>
+
+Under the leadership of Hale, Noyes, and Millikan (and aided by the booming economy of [[Southern California]]), Caltech grew to national prominence in the 1920s. In 1923, Millikan was awarded the [[Nobel Prize]] in physics. In 1925, the school established a department of [[geology]] and hired [[William Bennett Munro]], then chairman of the division of History, Government, and Economics at [[Harvard University]], to create a division of [[humanities]] and [[social sciences]] at Caltech. In 1928, a division of [[biology]] was established under the leadership of [[Thomas Hunt Morgan]], the most distinguished biologist in the United States at the time, and discoverer of the role of genes and the [[chromosome]] in heredity. In 1930, [[Kerckhoff marine laboratory]] was established in Corona del Mar under the care of Professor [[George MacGinitie]]. In 1926, a graduate school of [[aeronautics]] was created, which eventually attracted [[Theodore von Kármán]]. Kármán later helped create the Jet Propulsion Laboratory, and played an integral part in establishing Caltech as one of the world's centers for [[rocket|rocket science]]. In 1928, construction of the [[Palomar Observatory]] began.
+
+Millikan served as "chairman of the executive council" (effectively Caltech's president) from 1921 to 1945, and his influence was such that the Institute was occasionally referred to as "Millikan's School." In the 1950s, 1960s, and 1970s, Caltech was the home of [[Murray Gell-Mann]] and [[Richard Feynman]], whose work was central to the establishment of the so-called "[[Standard Model]]" of particle physics. Feynman was also widely known outside the physics community as an exceptional teacher and colorful, unconventional character.
+
+Caltech remains, to this day, a small and highly focused university, with approximately 900 [[undergraduate]]s, 1300 [[graduate student]]s, and over 1000 [[faculty (university)|faculty]] members (including 293 [[professor]]s, 104 [[emeritus]] professors, 66 permanent research faculty, 87 visiting faculty, and over 500 [[postdoctoral researcher|postdoctoral scholars]]).<ref name = "ewjcbw">[http://www.caltech.edu/at-a-glance/ At a Glance] Caltech.edu. Retrieved 2007-11-19.</ref> A private institution, Caltech is governed by its [[Caltech Trustees|Board of Trustees]].
+
+As of 2006, Caltech has 31 [[Nobel Prize|Nobel laureates]] to its name. This figure includes 17 alumni, 14 non-alumni professors, and 4 professors who were also alumni ([[Carl D. Anderson]], [[Linus Pauling]], [[William A. Fowler]], and [[Edward B. Lewis]]). The number of awards is 32, because Pauling received prizes in both [[Chemistry]] and [[Peace]]. With fewer than 25,000 alumni in total, more than one in 1,400 have received the Nobel Prize&nbsp;— a ratio unmatched by any other university. Five faculty and alumni have received a [[Crafoord Prize]] from the [[Royal Swedish Academy of Sciences]], while 49 have been awarded the U.S. [[National Medal of Science]], and 10 have received the [[National Medal of Technology]].<ref name = "ewjcbw"/> Other distinguished researchers have been affiliated with Caltech as postdoctoral scholars (e.g., [[Barbara McClintock]], [[James D. Watson]], and [[Sheldon Glashow]]) or visiting professors (e.g., [[Albert Einstein]] and [[Edward Witten]]).
+
+Caltech manages the [[Jet Propulsion Laboratory]] (JPL) for [[NASA]].  The majority of NASA's interplanetary probes are developed at and operated from JPL.
+
+The Spitzer Science Center (SSC), located on the Caltech campus, is the data analysis and community support center for [[NASA]]'s [[Spitzer Space Telescope]]. The SSC, part of the [[Infrared Processing and Analysis Center (IPAC)]], works in collaboration with the [[Jet Propulsion Laboratory]].
+
+== Campus ==
+In 1917 Hale hired architect [[Bertram Goodhue]] to produce a master plan for the 22 acre (89,000 m²) campus. Goodhue conceived the overall layout of the campus and designed the physics building, Dabney Hall, and several other structures, in which he sought to be consistent with the local climate, the character of the school, and Hale's educational philosophy. Goodhue's designs for Caltech were also influenced by the traditional [[Architecture of the California Missions|Spanish mission architecture]] of Southern California.
+
+[[Image:CalTech-1912.jpg|thumb|Throop Hall, 1912.]]
+
+In 1971 a [[1971 San Fernando earthquake|magnitude-6.5 earthquake]] in [[San Fernando, California|San Fernando]] caused some damage to the Caltech campus. Engineers who evaluated the damage found that two historic buildings dating from the early days of the Institute&nbsp;— Throop Hall and the Goodhue-designed Culbertson Auditorium&nbsp;— had cracked. These were some of the first [[reinforced concrete]] buildings, and their plans did not contain enough details (such as how much [[rebar|reinforcing bar]] had been embedded in the concrete) to be sure they were safe, so the engineers recommended demolition. However, demolishing these historic structures required considerably more effort than would have been necessary had they been in real danger of collapse. A large [[wrecking ball]] was used to demolish Throop Hall, and smashing the concrete revealed massive amounts of rebar, far in excess of safety requirements. The rebar had to be cut up before the pieces could be hauled away, and the process took much longer than expected.
+
+In 2008 Caltech completed a 238&nbsp;kW [[solar array]] which is projected to produce approximately 320,000 kWh in 2009.<ref>{{cite web|url=http://www.solarindustrymag.com/e107_plugins/content/content.php?content.2134 |title=Solar Industry: Content / Projects & Contracts / Suntech Completes Solar Photovoltaic Installation At Caltech |publisher=Solarindustrymag.com |date=2008-11-05 |accessdate=2009-10-13}}</ref>
+
+== Academics ==
+[[Image:Reflecting Beckman Institute, Caltech.jpg|thumb|Beckman Institute at night]]
+[[Image:Caltech BridgeLaboratory.jpg|thumb|Bridge Laboratory of Physics]]
+[[Image:Laboratories of the Biological Sciences, Cal Tech.jpg|thumb|Kerckhoff Laboratory of the Biological Sciences]]
+Academics at Caltech emphasize quality over size, concentrating on a core of academic disciplines of very high caliber. Caltech is also known for interdisciplinary programs facilitated by the small physical size of the Caltech campus.
+
+Conversely, as a small school, Caltech cannot and does not offer the breadth of academic programs possible at larger universities. It does, however, offer co-operative programs with other schools, such as the Pasadena [[Art Center College of Design]], [[Occidental College]], [[UCLA]], and [[Scripps College]].
+
+Caltech is divided into six divisions, each of which offer several degree programs, plus a number of interdisciplinary programs. The six divisions are:
+*Division of Biology
+*Division of Chemistry and Chemical Engineering
+*Division of Engineering and Applied Science
+*Division of Geological and Planetary Sciences
+*Division of Humanities and Social Sciences
+*Division of Physics, Mathematics, and Astronomy
+
+=== Undergraduate program ===
+Caltech is on the [[academic term|trimester system]]. Because of its schedule, Caltech's school year starts relatively late, in late September, and ends in early June rather than May as at the more common semester-system colleges. Also, Caltech is unusual in that students normally take five classes every term rather than four, as at most colleges. Instead of majors, Caltech has "options", and until 2006 offered only one minor: in control and dynamical systems. During the spring term of 2006 the humanities and social sciences division announced its plans to introduce four more minors in English, history, philosophy, and history and philosophy of science. Approximately 20 percent of students double-major. This is achievable since the humanities and social sciences majors have been designed to be done in conjunction with a science major. Although choosing two options in the same division is discouraged, it is still possible.
+
+For the [[core curriculum]], students are required to take five terms of math, including [[differential equations]], [[probability]] and [[statistics]], five terms of physics including [[quantum mechanics]], [[special relativity]], and [[statistical mechanics]], two terms of chemistry, and a term of biology, as well as two terms of laboratory classes.
+
+Few students fail classes or fail out of the school as a whole. This is due to several cushions that help students survive. First of all, the first two terms of freshman year are on a pass/fail grading scheme, easing the transition to college and reducing academic stress. During the second term, "shadow grades" are given to help students gauge their own progress; during the first term, there are no grades at all. Second, there is little competition; collaboration on [[homework]] is encouraged (and often necessary for success) in almost every class. This allows even students who are not doing as well as others to learn the material from their peers and not get behind in their studies. Another helpful factor is the Honor System; this system encourages take-home tests, flexible homework schedules, and other freedoms, alleviating some of the practical burdens associated with a five-to-seven course workload.
+[[Image:Millikan Library, Caltech.jpg|thumb|left|Millikan Library, the tallest building on campus]]
+Caltech has a relatively low four-year graduation rate, compared to most leading US universities{{Fact|date=October 2008}}. This rate is currently about 80 percent,<ref>[http://finance.caltech.edu/budget/cds2005.pdf Caltech Common Data Set 2004-05]. Retrieved 2007-11-19.</ref> despite the fact that entering students have consistently higher average test scores (on the [[SAT]] 1 and 2) than any other university or college, as indicated by the major [[college and university rankings|college rankings]].<ref>[http://colleges.usnews.rankingsandreviews.com/usnews/edu/college/rankings/brief/t1natudoc_brief.php "America's Best Colleges 2008"] U.S. News and World Report College Rankings. Retrieved 2007-11-19.</ref> On the other hand, almost all students major in science or engineering, fields that traditionally suffer low graduation rates. In any case, the situation has improved recently; approximately 90 percent of entering students graduate in six years or less, compared to a substantially smaller fraction in the 1960s and 70s{{Fact|date=October 2008}}.
+
+Undergraduates at Caltech are also encouraged to participate in [[research]]. About half of students do research through the annual [http://surf.caltech.edu/ Summer Undergraduate Research Fellowships (SURF)] program at least once during their stay, and many continue it during the school year. Students write and submit SURF proposals for research projects in collaboration with professors, and about 70 percent of applicants are awarded SURFs. The program is open to both Caltech and non-Caltech undergraduate students. It serves as preparation for graduate school and helps to explain why Caltech has one of the highest percentages of alumni who go on to receive a Ph.D. of all the major universities.
+
+=== Athletics ===
+Caltech has athletic teams in baseball, men's & women's basketball, cross country, fencing, men's soccer, swimming & diving, men's & women's tennis, track & field, women's volleyball, and men's & women's water polo.<ref>[http://www.athletics.caltech.edu/ Caltech Athletics]. Retrieved 2007-11-19.</ref> Caltech's mascot is the Beaver, and its teams (with the exception of the fencing team) play in the [[Southern California Intercollegiate Athletic Conference]], which Caltech co-founded in 1915.<ref>[http://www.thesciac.org/information/about/index Southern California Intercollegiate Athletic Conference]. Retrieved 2007-11-19.</ref> The fencing team<ref>{{cite web|url=http://www.athletics.caltech.edu/sports/fencing/fencing.html |title=Caltech Athletics&nbsp;— Fencing Team |publisher=Athletics.caltech.edu |date= |accessdate=2009-10-13}}</ref> competes in the [[NCAA]]'s [[Division I]], facing teams from [[University of Southern California|USC]], [[UCLA]], [[UCSD]], and [[Stanford]], among others.
+
+On January 6, 2007, the Beavers' men's basketball team snapped a 207-game losing streak to Division III schools, beating [[Bard College]] 81-52. It was their first Division III victory since 1996. They still carry a 259 game losing streak in [[Southern California Intercollegiate Athletic Conference|conference]] play.<ref>{{Cite news
+  | last = Associated Press
+  | first =
+  | author-link =
+  | title = Caltech crushes Bard College to end 207-game slide
+  | publisher = ESPN
+  | year = 2007
+  | date = 2007-01-07
+  | url = http://sports.espn.go.com/ncb/news/story?id=2723039
+  | accessdate = 2007-11-19}}</ref><ref>{{cite web|url=http://www.athletics.caltech.edu/ |title=Caltech Athletics |publisher=Athletics.caltech.edu |date= |accessdate=2009-10-13}}</ref>  The [[documentary film]] ''[[Quantum Hoops]]'' concerns the events of the Beavers' 2005-6 season.
+
+On January 13, 2007, the Caltech women's basketball team snapped a 50-game losing streak, defeating the [[Claremont Colleges|Pomona-Pitzer]] Sagehens 55-53. The women's program, which entered the [[Southern California Intercollegiate Athletic Conference|SCIAC]] in 2002, garnered their first conference win. On the bench as honorary coach for the evening was [[Robert Grubbs|Dr. Robert Grubbs]], 2005 Nobel Laureate in Chemistry.<ref>{{cite web
+  | title = Pomona-Pitzer College vs Caltech (01-13-07 at Caltech Braun Center)
+  | date = 2007-01-13
+  | url = http://www.physical-education.pomona.edu/womens/basketball/stats/2007/pom-cit.htm
+  | accessdate = 2007-11-19 }}</ref>  The team went on to beat Whittier College on February 10, for its second SCIAC win, and placed its first member on the All Conference team.<ref>{{cite web
+  | title = 2007 Women's Basketball All-SCIAC Awards
+  | date = 2007-03-07
+  | url = http://www.thesciac.org/sports/wbkb/2006-07/news/wbb_allsciac_0607
+  | accessdate = 2007-11-19 }}</ref>  The 2006-2007 season is the most successful season in the history of the program.
+
+In 2007, 2008, and 2009, the women's table tennis team (a club team) competed in nationals. The women's [[Ultimate (sport)|Ultimate]] club team, known as "Snatch", has also been very successful in recent years, ranking 44 of over 200 college teams in the Ultimate Player's Association.<ref>[http://upa.org/scores/scores.cgi?page=22&div=34 College Women's Top UPA Rankings], Ultimate Player's Association. Retrieved 2007-11-19.</ref>
+
+== Student life ==
+[[Image:Caltech from the air.jpg|thumb|Aerial view of Caltech in [[Pasadena, California]].]]
+
+=== House system ===
+{{main|House System at Caltech}}
+
+During the early 20th century, a Caltech committee visited several universities and decided to transform the undergraduate housing system from regular [[fraternities and sororities|fraternities]] to a [[residential college|house system]]. Four south houses (or ''hovses'') were built: [[Blacker House]], [[Dabney House]], [[Fleming House]], and [[Ricketts House]]. In the 1960s, three north houses were built: [[Lloyd House]], [[Page House]], and [[Ruddock House]], and during the 1990s, [[Avery House]]. The four south houses closed for renovation in 2005 and reopened in 2006.
+
+=== Student life traditions ===
+[[Image:Beckman auditorium, Caltech.jpg|thumb|Beckman Auditorium]]
+==== Annual events ====
+
+Every [[Halloween]], Dabney House conducts the infamous "Millikan pumpkin-drop experiment" from the top of Millikan Library, the highest point on campus. According to tradition, a claim was once made that the shattering of a pumpkin frozen in [[liquid nitrogen]] and dropped from a sufficient height would produce a [[triboluminescence|triboluminescent]] spark. This yearly event involves a crowd of observers, who try to spot the elusive spark. The title of the event is an oblique reference to the famous [[oil-drop experiment|Millikan oil-drop experiment]] which measured ''e'', the [[elementary charge|elemental unit of electrical charge]].
+
+On '''Ditch Day''' the seniors ditch school, leaving behind elaborately designed tasks and traps at the doors of their rooms to prevent underclassmen from entering. Over the years this has evolved to the point where many seniors spend months designing mechanical, electrical, and software obstacles to confound the underclassmen. Each group of seniors designs a "stack" to be solved by a handful of underclassmen. The faculty have been drawn into the event as well, and cancel all classes on Ditch Day so the underclassmen can participate in what has become a highlight of the academic year. In 2007, Ditch Day fell on May 15. In 2008, on May 21.
+
+Another long-standing tradition is the playing of Wagner's ominous ''[[Ride of the Valkyries]]'' at 7:00 each morning during finals week with the largest, loudest speakers available. The playing of that piece is not allowed at any other time (except if one happens to be listening to the entire fifteen hours of ''[[The Ring Cycle]]''), and any offender is dragged into the showers to be drenched in cold water fully dressed. The playing of the ''Ride'' is such a strong tradition that the music was used during [[Apollo 17]] to awaken Astronaut [[Harrison Schmitt]], a Caltech alumnus. (Unfortunately, the tradition arose at different times in different Houses, so Schmitt did not react as expected. Instead, he just became confused.)
+
+==== Pranks ====
+[[Image:Caltech cannon.jpg|thumb|Fleming Cannon]]
+
+Caltech students have been known for the many [[practical joke|pranks]] (also known as '''[[RF (practical joke)|RF]]s''').
+
+The two most famous in recent history are the changing of the [[Hollywood Sign]] to read "Caltech", by judiciously covering up certain parts of the letters, and the changing of the [[Rose Bowl (stadium)|Rose Bowl]] scoreboard to an imaginary game where Caltech beat [[Massachusetts Institute of Technology|MIT]] 99-0. But the most famous of all occurred during the 1961 [[Rose Bowl Game#Trivia|Rose Bowl Game]], where Caltech students altered the flip-cards that were raised by the stadium attendees to display "Caltech", and several other "unintended" messages.  This event is now referred to as the [[Great Rose Bowl Hoax]].
+
+In 2005, a group of Caltech students pulled a string of pranks during MIT's Campus Preview Weekend for admitted students. These include covering up the word Massachusetts in the "Massachusetts Institute of Technology" engraving on the main building façade with a banner so that it read "That Other Institute of Technology". A group of MIT [[hacker (computing)|hackers]] responded by altering the banner so that the inscription read "The Only Institute of Technology." Caltech students also passed out T-shirts to MIT's incoming freshman class, with MIT on the front and "... because not everyone can go to Caltech" along with an image of a palm tree on the back.
+
+MIT retaliated in April 2006, when students posing as the Howe & Ser Moving Company stole the 130-year-old, 1.7-ton Fleming House cannon and moved it to their campus in Cambridge, Massachusetts for their 2006 Campus Preview Weekend, repeating a similar prank performed by nearby [[Harvey Mudd College]] in 1986. (The name "Howe & Ser", if said rapidly, and if read recognizing that the & symbol is a ligature of the Latin word "et", sounds like [[howitzer]]; it could also mean "how we answer", since the latest prank was an answer to the 2005 prank on MIT.) Thirty members of Fleming House traveled to MIT and reclaimed their cannon on April 10, 2006.
+
+On April 13, 2007 (Friday the 13th), a group of students from ''The California Tech'', Caltech's campus newspaper, arrived and distributed [http://tech.caltech.edu/TECH/mit/index.html fake copies] of ''The Tech'', MIT's campus newspaper, while prospective students were visiting for their Campus Preview Weekend. Articles included "MIT Invents the Interweb," "Architects Deem Campus 'Unfortunate'," and "Infinite Corridor Not Actually Infinite."
+
+In July 2008, Caltech graduate student [[Virgil Griffith]] released an online tool that traced back Wikipedia edits from individual MIT buildings. <ref>{{cite news
+ |title=WikiScanner Creator Releases New Tools to Uncover Anonymous Edits
+ |publisher=Wired
+ |date=2008-07-18
+ |url=http://blog.wired.com/27bstroke6/2008/07/wikiscanner-cre.html}}></ref>
+
+In recent years, pranking has been officially encouraged by Tom Mannion, Caltech's Assistant VP for Student Affairs and Campus Life. "The grand old days of pranking have gone away at Caltech, and that's what we are trying to bring back," reported the Boston Globe, which noted that "security has orders not to intervene in a prank unless officers get Mannion's approval beforehand."<ref>{{cite news
+ |title = Comedy on campus: MIT takes on Caltech for prank distinction
+ |publisher = The Boston Globe
+ |date = 2006-04-19
+|url = http://www.boston.com/news/local/articles/2006/04/19/comedy_on_campus_mit_takes_on_caltech_for_prank_distinction/|accessdate = 2007-11-19 }}</ref>
+
+Caltech pranks have been documented in three [http://www.legendsofcaltech.com/ Legends of Caltech] books, the most recent of which was edited by alumni [[Autumn Looijen]] '99 and [[Mason A. Porter]] '98 and published in May 2007.
+
+==== Honor Code ====
+[[Image:Caltech turtles.jpg|thumb|Throop Pond]]
+
+Life in the Caltech community is governed by the [[Honor Code]], which simply states: "No member of the Caltech community shall take unfair advantage of any other member of the Caltech community." This is enforced by a Board of Control, which consists of undergraduate students,<ref>{{cite web|url=http://donut.caltech.edu/about/boc/ug_handbook.php |title=The Honor System Handbook from the Board of Control at Caltech.edu |publisher=Donut.caltech.edu |date= |accessdate=2009-10-13}}</ref> and by a similar body at the graduate level, called the Graduate Review Board.<ref>{{cite web|url=http://www.its.caltech.edu/~grb/ |title=Graduate Review Board at Caltech.edu |publisher=Its.caltech.edu |date=2009-06-10 |accessdate=2009-10-13}}</ref>
+
+The Honor Code aims at promoting an atmosphere of respect and trust that allows Caltech students to enjoy privileges that make for a more relaxed atmosphere. For example, the Honor Code allows professors to make the majority of exams as take-home, allowing students to take them on their own schedule and in their preferred environment.
+
+Through the late 1990s, the only exception to the Honor Code, implemented earlier in the decade in response to changes in federal regulations, concerned the sexual harassment policy. Today, there are myriad exceptions to the Honor Code in the form of new institute policies such as the Fire Policy, and Alcohol Policy. Though both policies are presented in the Honor Code Handbook given to new members of the Caltech Community, large portions of the undergraduate population regard them as a slight against the Honor Code and the implicit trust and respect it represents within the community.<ref>{{cite news
+  | last =Rodriguez
+  | first =Juan
+  | title =Ricketts Pres. Apologizes
+  | page = 5
+  | publisher = The California Tech
+  | date = 2003-02-24}}</ref>
+
+== In media and popular culture ==
+<!--Please don't list every single TV show/movie Caltech is mentioned on or appears in. This is not meant to be a comprehensive list! Unless you have an example that is much, much, much better than those already here, don't insert it.-->
+
+Caltech has appeared in several works of popular culture, both as itself and in disguised form. [[MIT in popular culture|As with MIT]], a Caltech reference is often used to establish a character's high level of intelligence or a technical background; for example, [[List of characters in Criminal Minds|Penelope Garcia and Spencer Reid]] of ''[[Criminal Minds]]'' attended Caltech, as did [[List of Terminator: The Sarah Connor Chronicles minor characters|Andy Goode]], one of the creators of [[Skynet (Terminator)|Skynet]] in the [[Terminator (franchise)|''Terminator'' series]]. Caltech geologist Lee Silver tutors the crew of [[Apollo 15]] in the docudrama ''[[From the Earth to the Moon (miniseries)|From the Earth to the Moon]]''.<ref>{{cite web |url=http://history.nasa.gov/alsj/lee_silver.html |title=A little science on the Moon |publisher=NASA}}</ref>
+
+On television, the four lead characters on [[Chuck Lorre]] sitcom ''[[The Big Bang Theory (TV series)|The Big Bang Theory]]'' are all employed at Caltech. However the shots inside the workplace (usually in the lunchroom) are never actually shot at the university. Caltech is also the inspiration (and frequent film location) for the California Institute of Science of ''[[Numb3rs]]''.<ref name="realgenius">[http://alumnus.caltech.edu/~erich/real_genius_refs.html Caltech References in "Real Genius"]. Retrieved 2007-11-19.</ref> On film, the Pacific Tech of ''[[The War of the Worlds (1953 film)|The War of the Worlds]]''<ref name="cowan">Cowan, Douglas E. "[http://www.unomaha.edu/jrf/vol11no1/CowanWarWorlds.htm Intellects vast and cool and unsympathetic: Science, Religion, and ''The War of the Worlds'']." ''Journal of Religion and Film'', Vol. 11, No. 1, 1 April 2007.</ref> and ''[[Real Genius]]''<ref name="realgenius"/> is based on Caltech.
+
+In nonfiction, two 2007 documentaries examine aspects of Caltech; ''Curious'', its researchers,<ref>{{cite web|url=http://www.thirteen.org/curious/ |title="CURIOUS" from Thirteen/WNET |publisher=Thirteen.org |date= |accessdate=2009-10-13}}</ref><ref>[http://mr.caltech.edu/media/Press_Releases/PR13040.html "Documentary Focuses on Caltech Researchers"] Caltech Press Release, 1 October 2007</ref> and ''[[Quantum Hoops]]'', its men's basketball team.
+
+Given its Los Angeles-area location, the grounds of the Institute are often host to short scenes in movies and television. The [http://athenaeum.caltech.edu/ Athenaeum dining club] appears in the [[Beverly Hills Cop (film series)|''Beverly Hills Cop'' series]], ''[[The X-Files (film)|The X-Files]]'', and ''[[True Romance]]''.<ref>{{cite web|url=http://www.movie-locations.com/movies/b/bevhills.html |title=Film locations for Beverly Hills Cop |publisher=Movie-locations.com |date= |accessdate=2009-10-13}}</ref> Other examples include ''[[Legally Blonde]]'', ''[[The Wedding Planner]]'', ''[[Greek (TV series)|Greek]]'', ''[[The O.C.]]'', ''[[Entourage (TV series)|Entourage]]'' and ''[[Mission Impossible]]''.
+
+== Presidents ==
+
+*[[James Augustin Brown Scherer]] (1908–1920) (president of Throop College of Technology before the name change)
+*[[Robert A. Millikan]] (1921–1945), experimental physicist, Nobel laureate in physics for 1923 (his official title was "Chairman of the Executive Council")
+*[[Lee A. DuBridge]] (1946–1969), experimental physicist (first to officially hold the title of President)
+*[[Harold Brown (Secretary of Defense)|Harold Brown]] (1969–1977), physicist and public servant (left Caltech to serve as [[United States Secretary of Defense]] in the administration of [[Jimmy Carter]])
+*[[Robert F. Christy]] (1977–1978), astrophysicist (acting President)
+*[[Marvin L. Goldberger]] (1978–1987), theoretical physicist
+*[[Thomas E. Everhart]] (1987–1997), experimental physicist
+*[[David Baltimore]] (1997–2006), molecular biologist, Nobel laureate in physiology or medicine for 1975
+*[[Jean-Lou Chameau]] (2006–present), civil engineer and educational administrator
+
+== See also ==
+{{ portalbox | name1 = University | image1 = Platopainting.jpg | name2 = Education | image2 = Nuvola apps bookcase.svg }}
+
+*[[Caltech Submillimeter Observatory]]
+*[[Keck Institute for Space Studies]]
+*[[List of California Institute of Technology people]]
+*[[List of California Institute of Technology trustees]]
+*[[Einstein Papers Project]]
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+{{commons cat|California Institute of Technology|Caltech}}
+
+*[http://www.caltech.edu/ Official website]
+*[http://nobelprize.org/medicine/articles/goodstein/ History of Caltech] (at the official Nobel Prize website)
+
+{{coord|34.138577|-118.125494|region:US_type:edu|display=title}}
+{{California Institute of Technology}}
+{{Association of American Universities}}
+{{Universities Research Association}}
+{{APRU}}
+{{SCIAC}}
+{{Colleges and universities in Los Angeles County}}
+
+[[Category:California Institute of Technology|*]]
+[[Category:Pasadena, California]]
+[[Category:Universities and colleges in the Greater Los Angeles Area]]
+[[Category:Universities and colleges in California]]
+[[Category:Association of American Universities]]
+[[Category:Educational institutions established in 1891]]
+[[Category:Technical universities and colleges]]
+[[Category:Association of Independent Technological Universities]]
+[[Category:National Association of Independent Colleges and Universities]]
+[[Category:Western Association of Schools and Colleges]]
+
+[[ar:معهد كاليفورنيا للتكنولوجيا]]
+[[bn:ক্যালিফোর্নিয়া ইন্সটিটিউট অফ টেকনোলজি]]
+[[bg:Калифорнийски технологичен институт]]
+[[ca:Institut Tecnològic de Califòrnia]]
+[[cs:California Institute of Technology]]
+[[de:California Institute of Technology]]
+[[et:California Tehnoloogiainstituut]]
+[[es:Instituto Tecnológico de California]]
+[[eo:Kalifornia Instituto de Teknologio]]
+[[eu:Kaliforniako Teknologia Institutua]]
+[[fa:موسسه فناوری کالیفرنیا]]
+[[fr:California Institute of Technology]]
+[[gl:Instituto Tecnolóxico de California]]
+[[hak:Kâ-chû Lî-kûng Ho̍k-yen]]
+[[ko:캘리포니아 공과대학교]]
+[[id:Institut Teknologi California]]
+[[is:Tækniháskólinn í Kaliforníu]]
+[[it:California Institute of Technology]]
+[[he:המכון הטכנולוגי של קליפורניה]]
+[[ka:კალიფორნიის ტექნოლოგიის ინსტიტუტი]]
+[[lv:Kalifornijas Tehnoloģiskais institūts]]
+[[hu:California Institute of Technology]]
+[[nl:Caltech]]
+[[ja:カリフォルニア工科大学]]
+[[no:California Institute of Technology]]
+[[pl:California Institute of Technology]]
+[[pt:Instituto de Tecnologia da Califórnia]]
+[[ru:Калифорнийский технологический институт]]
+[[simple:California Institute of Technology]]
+[[fi:California Institute of Technology]]
+[[sv:California Institute of Technology]]
+[[th:สถาบันเทคโนโลยีแคลิฟอร์เนีย]]
+[[tr:Kaliforniya Teknoloji enstitüsü]]
+[[uk:Каліфорнійський технологічний інститут]]
+[[zh:加州理工學院]]

@@ -1,0 +1,44 @@
+{{Sporta līga
+| nosaukums      = Krievijas Augstākā līga
+| aktuāla_sezona = 
+| logo           = 
+| pikseļi        = 
+| sports         = [[Hokejs]]
+| dibin          = [[1992]]
+| komandas       = 33
+| valsts         = {{RUS}}<br>{{KAZ}}
+| čempions       = [[Hantu-mansu "Jugra"]]
+| mlapa          = [http://www.fhr.ru FHR.ru]
+}}'''Krievijas Augstākā līga''' ir starptautiska [[hokejs|hokeja]] līga, kurā pašlaik spēlē 33 komandas, no kurām viena ir no [[Kazahstāna]]s. Pēdējos gados līgā spēlējušais gan vairākas Kazahstānas komandas, gan [[Ukraina]]s [[Kijevas "Sokil"]]. Līga jau kopš tās dibināšanas [[1992]]. gadā ir pēc spēka otrā spēcīgākā [[Krievija]]s hokeja līga. Līdz [[Kontinentālā hokeja līga 2008-09|2008-09]] spēcīgākā bija [[Krievijas Superlīga]], bet tagad tā ir aizvietota ar starptautisko [[Kontinentālā hokeja līga|Kontinentālo hokeja līgu]].
+
+Katras sezonas čempionvienība izcīna [[Bratinas kauss|Bratinas kausu]].
+
+==Visi čempioni==
+*2008-09 - [[Hantu-mansu "Jugra"]]
+*2007-08 - [[Voskresenskas "Himik"]] 
+*2006-07 - [[Ņižņijnovgorodas "Torpedo"]] 
+*2005-06 - [[Čeļabinskas "Traktor"]]
+*2004-05 - [[Tveras "MVD"]] 
+*2003-04 - [[Permas "Molot Prikamie"]] 
+*2002-03 - [[Ņižņijnovgorodas "Torpedo"]] 
+*2001-02 - [[Novosibirskas "Sibirj"]] 
+*2000-01 - [[Maskavas "Spartak" (hokejs)|Maskavas "Spartak"]]
+*1999-00 - [[Almetjevskas "Ņeftjanik"]] 
+*1998-99 - [[Ņižņijnovgorodas "Torpedo"]] 
+*1997-98 - [[Almetjevskas "Ņeftjanik"]] 
+*1996-97 - [[Čeļabinskas "Mečel"]]
+*1995-96 - [[Habarovskas "SKA"]]
+*1994-95 - [[Ņižņekamskas "Ņeftehimik"]]
+*1993-94 - [[Samāras "CSK VVS"]]
+*1992-93 - [[Samāras "CSK VVS"]]
+
+{{hokejs-stub}}
+
+[[Kategorija:Krievijas Augstākā līga hokejā]]
+
+[[cs:Ruská vyšší liga ledního hokeje]]
+[[de:Wysschaja Liga]]
+[[en:Russian Major League]]
+[[fi:Vysšaja Liga]]
+[[fr:Championnat de Russie de hockey sur glace D2]]
+[[ru:Высшая лига чемпионата России по хоккею с шайбой]]

@@ -1,0 +1,72 @@
+[[Image:PanzerV Ausf.G 1 sk.jpg|thumb|A [[Panzer V]] with Zimmerit]]
+[[Image:Zimmerit Tiger II 1 Bovington.jpg|thumb|right|Close view of Zimmerit on the corner of a Tiger II]]
+[[Image:Zimmerit Tiger II 2 Bovington.jpg|thumb|right|Close view of Zimmerit on the bow of a Tiger II]]
+{{Refimprove|date=July 2009}}
+'''Zimmerit''' was a coating produced for German [[armored fighting vehicle]]s during [[World War II]] for the purpose of combating magnetically attached [[anti-tank mine]]s, although Germany was the only country to use magnetic mines against tanks in great numbers. It was created by the German company Chemische Werke Zimmer AG.<ref name="Spalding">{{harvnb|Spalding}}</ref>
+
+==Operation==
+The coating was a barrier that prevented the direct contact of magnetic mines against the metal surfaces of the vehicle. It was normally ridged to increase the overall thickness. This spacing reduces magnetic attraction, and causes magnetic mines to fall off from their own weight and the vibration of the vehicle. Zimmerit possessed no anti-magnetic properties of its own, rather it defeated the mines by  disallowing contact and providing distance.<ref name="Spalding"/><ref name="rottman19"/>
+
+==Deployment==
+[[File:Bundesarchiv Bild 101I-313-1004-25, Italien, Panzer "Elefant".jpg|thumb|Italy 1944, Panzerjäger Tiger - [[Elefant]] with Zimmerit]]
+Zimmerit was applied to some tanks and closed-top self-propelled guns produced from December 1943 to 9 September 1944.<ref name="rottman19"/> It was only rarely applied to open-top AFVs. The rough appearance of the coating gave a distinct appearance to the vehicles it coated. 
+
+Application of Zimmerit was usually done at the factory. The many variations seen in application designs, from the regular ridge-shaped pattern, to a less common waffle-shaped pattern, are mostly related to the factory producing each type of AFV. For example, the waffle pattern was seen almost exclusively on [[Sturmgeschütz III]] assault guns. In general, vehicles already in service were not given coats of Zimmerit. 
+
+Zimmerit was discontinued from factory application on 9 September 1944 and from field application on 7 October 1944.<ref name="J&D20">{{harvnb|Jentz|Doyle|1993|p=20}}</ref> This was due to baseless concerns that projectile impacts could set it on fire. These proved false, but the order was never rescinded.<ref name="rottman19"/><ref name="J&D20"/> Applying and drying the paste added days to the production of each vehicle,<ref name="Spalding"/> which was unacceptable as there was a shortage of tanks. 
+
+Following the war, the British carried out trials of a similar material on Churchill tanks but decided not to implement it. No similar material was used on post-war tanks, probably because the widespread use of man-portable [[HEAT]] rockets such as the [[Bazooka]] made magnetic mines obsolete.
+
+==Ingredients==
+The paste was composed of the following:<ref name="Spalding"/><ref name="rottman19">{{harvnb|Rottman|2005}} [http://www.google.co.uk/books?id=vCwV1bC47-cC&pg=PA19 p. 19.]</ref>
+*40 % [[Barium sulfate]] - BaSO<sub>4</sub>
+*25 % [[polyvinyl acetate]] – PVA (similar to [[wood glue]])
+*15 % [[pigment]] ([[ochre]])
+*10 % [[Zinc sulfide]] – ZnS
+*10 % [[sawdust]]
+
+==Vehicles with factory-applied Zimmerit==
+{{columns-list|2|
+*[[Panzer III]]
+*[[Panzer IV]]<ref name="rottman19"/>
+*[[Panzer V]]<ref name="rottman19"/>
+*[[Tiger I]]<ref name="rottman19"/> - mid and late production models only
+*[[Tiger II]]<ref name="rottman19"/> - early models only
+*[[StuG III]]
+*[[StuG IV]] - early models only
+*[[Jagdtiger]] - Porsche versions only
+*[[Jagdpanther]] - early models only
+*[[Jagdpanzer IV]]
+*[[Brummbär]]
+}}
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book | last1 = Jentz |first1 = Thomas |last2 = Doyle |first2= Hilary |title= Kingtiger Heavy Tank, 1942-45 |publisher= Osprey |location= London |year=1993 |isbn=1-85532-282-X }}
+*{{cite book | last = Rottman | first = Gordon | title = World War II Infantry Anti-Tank Tactics | publisher = Osprey Publishing (UK) | location = City | year = 2005 | isbn = 9781841768427 }}
+*{{cite journal |last=Spalding |first=Donald |title= ZIMMERIT: Production and Application Methods |journal= AFV NEWS |issue=Jan-Apr/1983 |archiveurl= http://web.archive.org/web/20071005162036/http://www.afvnews.ca/zimmerit.html |url=http://www.afvnews.ca/zimmerit.html |archivedate=2007-10-05}}
+
+== External links ==
+{{Commonscat|Zimmerit}}
+*[http://www.panzerworld.net/zimmerit.html The history of Zimmerit]
+
+[[Category:World War II armoured fighting vehicles of Germany]]
+
+[[bg:Цимерит]]
+[[cs:Zimmerit]]
+[[de:Zimmerit]]
+[[el:Zimmerit]]
+[[es:Zimmerit]]
+[[it:Zimmerit]]
+[[lv:Cimmerīts]]
+[[hu:Zimmerit]]
+[[nl:Zimmerit]]
+[[ja:ツィンメリット・コーティング]]
+[[no:Zimmerit]]
+[[pl:Zimmerit]]
+[[ru:Циммерит]]
+[[fi:Zimmerit]]
+[[sv:Zimmerit]]
+[[tr:Zimmerit]]

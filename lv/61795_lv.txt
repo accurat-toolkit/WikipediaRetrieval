@@ -1,0 +1,109 @@
+{{Infobox Settlement
+ | official_name = Ekibastuza
+ | native_name = Екібастұз
+ | image_skyline = GRES-2.jpg
+ | image_caption = [[Ekibastuzas GRES-2]] elektrostacijas dūmeņi
+ | image_flag = 
+ | image_seal = Ekibastuz_seal.png  
+ | image_map = 
+ | map_caption =
+ |pushpin_map            = Kazakhstan
+ |pushpin_label_position =bottom
+ |pushpin_mapsize        = 250
+ |pushpin_map_caption    = Atrašanās vieta Kazahstānā
+ |subdivision_type = [[Valstis|Valsts]]
+ |subdivision_type1 = [[Kazahstānas apgabali|Apgabals]]
+ |subdivision_name =‎ {{KAZ}}
+ |subdivision_name1 = [[Pavlodaras apgabals]]
+ | established_title = Pirmoreiz minēta
+ | established_date = [[1876]]
+ | established_title1 = Dibināta
+ | established_date1 = [[1948]]
+ | established_title2 = Pilsētas tiesības
+ | established_date2 = [[1957]]
+ | government_type = 
+ | leader_title = Akims <small>([[mērs]])</small>
+ | leader_name = [[Nurlans Nabijevs]]
+ | area_magnitude = 
+ | area_total_sq_mi =
+ | area_total_km2 = 
+ | area_land_sq_mi =
+ | area_land_km2 = 
+ | area_water_sq_mi =
+ | area_water_km2 = 
+ | area_urban_sq_mi = 
+ | area_urban_km2 = 
+ | area_metro_km2 = 
+ | area_metro_sq_mi = 
+ | population_as_of= {{dat|2007|1|1|N}} <ref>[http://oblstat.pavl.kz/rus/region/ekibas.html Statistics center of Pavlodar Province]</ref>
+ | population_footnotes =
+ | population_total = 141 000 
+ | population_urban = 
+ | population_metro =
+ | population_density_sq_mi = 
+ | population_density_km2 = 
+ | timezone = [[Butānas laiks|BTT]]
+ | utc_offset = +6
+ | timezone_DST =
+ | utc_offset_DST = 
+ | latd=51|latm=40|lats=0|latNS=N      
+ | longd=75|longm=22|longs=0|longEW=E
+ | elevation_footnotes=
+ | elevation_m = 347
+ | elevation_ft = 
+ | postal_code_type = [[Pasta indekss]]
+ | postal_code = 141200
+ | area_code = +7 71835 
+ | website = http://akim.ekibastuz.kz/
+ | footnotes =
+ }}
+
+'''Ekibastuza''' ({{val-kk|Екібастұз}}) ir industriāla pilsēta [[Pavlodaras apgabals|Pavlodaras apgabalā]], ziemeļaustrumu [[Kazahstāna|Kazahstānā]]. Tajā ir 141 000 iedzīvotāju ([[2007]]. gada dati). Tajā atrodas [[Ekibastuzas lidosta]].
+
+== Vēsture ==
+Ekibastuzas vēsture sākas [[19. gadsimts|19. gadsimtā]], kad krievu tirgoņu sūtītais kazahs Kosims Pšenbajevs, kurš meklēja derīgo izrakteņu atradnes, atklāja akmeņogļu atradnes uz dienvidaustrumiem no [[Pavlodara]]s. Atrasto vietu viņš apzīmēja ar 2 lieliem sāls gabaliem. Šī iezīme deva vietai nosaukumu "Ekibastuz", kas kazahu valodā nozīmē "divi sāls gabali". Drīz pēc tam sākās atradņu komerciāla izmantošana. Atradnes vēlāk pārdeva britu uzņēmējam Urkvartam. Tika uzbūvēts dzelzceļa pievads un [[1899]]. gadā izveidots ciemats ar šādu nosaukumu.
+
+[[Krievijas revolūcija]]s un Pasaules karu laikā akmeņogļu ieguves apjomi samazinājās un ciemats tika pilnība pamests. [[1948]]. gadā ieradās pirmā komanda 50 cilvēku sastāvā, kas uzsāka nākotnes pilsētas būvniecības darbus. Tika iezīmētas arī nākamo raktuvju robežas.
+
+[[1954]]. gada decembrī no Ekibastuzas izbrauca pirmie dzelzceļa vagoni ar akmeņoglēm. Ar šo brīdi sākās Ekibastuzas industriālā attīstība. [[1955]]. gada tika izrakta miljonā tonna ogļu.
+
+Pilsētas tiesības Ekibastuzai tika piešķirtas {{dat|1957|7|12}} ar [[Kazahijas PSR]] Augstākās Padomes prezidija lēmumu. Tobrīd pilsētas iedzīvotāju skaits bija ap 25 000.
+
+== Industrija ==
+Pilsētas nomalē atrodas divas [[akmeņogles|ogļu]] [[termoelektrostacija]]s: [[Ekibastuz GRES-1|GRES-1]] ar jaudu 4000&nbsp;MW un [[GRES-2]] ar 1000&nbsp;MW jaudu. GRES-2 skurstenis ir garākais skurstenis pasaulē (419,7 metri).<ref>[http://www.skyscraperpage.com/diagrams/?20374745 Diagram of 25 tallest flue gas stacks worldwide]</ref>
+
+GRES-2 būve bija daļa no Ekibastuzas akmeņogļu raktuvju attīstības programmas, plānojot uzbūvēt četras TEC, katru ar jaudu 4000 MW (8 vienības x 500&nbsp;MW). No [[1991]]. līdz [[1993]]. gadam tika uzbūvētas pirmās divas vienības. Trešās vienības būvi uzsāka [[1990]]. gadā, bet vēlāk celtniecību apturēja.
+
+Ekibastuzu un [[Kekšetau]] savieno [[elektrolīnija]] ar 1150&nbsp;kV pārvades spriegumu.
+
+Šodien Ekibastuzā atrodas pasaulē lielākās atklātās akmeņogļu raktuves un tas ir viens no perspektīvākajiem atklātajiem akmeņogļu reģioniem pasaulē. Tas satur vairāk kā 13 miljardu tonnu akmeņogļu 62 kvadrātkilometru platībā. Citiem vārdiem - 74 miljoni tonnu akmeņogļu uz kvadrātkilometru.
+
+==GULAG==
+No [[1920]]-ajiem līdz [[1950]]-ajiem gadiem pilsētā atradās liela [[GULAG]] sistēmas [[darba nometne]]. Šajā nometnē sodu izcieta publicists [[Aleksandrs Solžeņicins]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{commonscat|Ekibastuz|Ekibastuza}}
+* [http://ekibastuz.kz/ Ekibastuzas pilsētas vietne]
+* [http://www.delfer.kz/ Ekibastuzas izklaides portāls]
+* [http://forum.ekb.kz/ Ekibastuzas forums]
+
+[[Kategorija:Kazahstānas pilsētas]]
+
+[[cs:Ekibastuz]]
+[[de:Ekibastus]]
+[[en:Ekibastuz]]
+[[et:Jekibastuz]]
+[[fr:Ekibastouz]]
+[[kk:Екібастұз]]
+[[lt:Ekibastuzas]]
+[[nl:Ekibastuz]]
+[[nn:Ekibastus]]
+[[pl:Jekybastuz]]
+[[pt:Ekibastuz]]
+[[roa-rup:Ekibastuz]]
+[[ru:Экибастуз]]
+[[uk:Екібастуз]]
+[[zh:埃基巴斯圖茲]]

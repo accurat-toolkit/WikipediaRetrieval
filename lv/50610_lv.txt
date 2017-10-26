@@ -1,0 +1,47 @@
+{{Info BioTakso
+|          platums = 
+|        nosaukums =
+|           attēls =Ranunculus flammula Sturm45.jpg
+|       att_izmērs =250px 
+|    att_nosaukums ={{TaksoSaite|Ranunculus flammula|Rāvas gundega}}
+|           valsts =Plantae
+|        valsts_lv =Augi
+|       nodalījums =Magnoliophyta 
+|    nodalījums_lv =Segsēkļi 
+|            klase =Magnoliopsida 
+|         klase_lv =Divdīgļlapji 
+|            kārta =Ranunculales 
+|         kārta_lv =Gundegu rinda 
+|           dzimta =Ranunculaceae 
+|        dzimta_lv =Gundegu dzimta 
+|            ģints =Ranunculus 
+|         ģints_lv =Gundegas 
+|             suga =R. flammula 
+|          suga_lv =Rāvas gundega 
+|         binomial =Ranunculus flammula L.
+}}
+'''Rāvas gundega''' ({{val-la|ranunculus flammula}}; {{val-de|Brennende Hahnenfuß}}, {{val-ru|лютик жгучий}}) ir daudzgadīgs [[Gundegu dzimta]]s lakstaugs. <br>
+===Raksturojums===
+Augums neliels līdz vidējs 10 – 50 cm. Stumbrs pacilās vai gulošs. Mezglu vietās sakņojas. Apakšējās lapas eliptiskas, garā kātā. Augstāk lapas lancetiskas vai lineāri lancetiskas. Lapu garums 3 – 7 cm, platums 0,3 – 1,5 cm. Ziedi ir pa vienam. Ziedi dzelteni, lielums 1 – 1,5 cm. Vainaglapas apmēram divreiz garākas par kauslapām. Zied no jūnija līdz septembrim. Augļi – riekstiņi, kaili. <br>
+===Izplatība===
+Suga sastopama Eiropā (izņemot ziemeļdaļu), Ziemeļamerikā un Rietumāzijā. 
+Latvijā ir izplatīts visā valsts teritorijā. Aug pārmitrās pļavās, aizaugušos grāvjos, mitrās un atklātās vietās mežos.
+
+[[Attēls:RanunculusFlammula4.jpg|150px|left|Rāvas gundega]] 
+
+{{Commonscat|Ranunculus flammula}}
+{{Botānika-aizmetnis}}
+
+[[Kategorija:Gundegu rinda]]
+
+[[de:Brennender Hahnenfuß]]
+[[en:Ranunculus flammula]]
+[[es:Ranunculus flammula]]
+[[fi:Ojaleinikki]]
+[[fr:Renoncule flammette]]
+[[hsb:Rěčna maslenka]]
+[[it:Ranunculus flammula]]
+[[nl:Egelboterbloem]]
+[[pl:Jaskier płomiennik]]
+[[sv:Ältranunkel]]
+[[wa:Blawete]]

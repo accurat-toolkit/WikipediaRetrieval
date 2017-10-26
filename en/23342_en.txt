@@ -1,0 +1,132 @@
+{{dablink|Due to [[Wikipedia:Naming conventions (technical restrictions)|technical restrictions]], ":P" and "P#" redirect here. For ":P", see [[List of common emoticons#Common examples|List of common emoticons]]. For the "P#" programming language, see [[P Sharp]].}}
+{{otherusesof}}
+
+{{wiktionarypar2|P|p}}
+{{Latin alphabet navbox|uc=P|lc=p}}
+
+'''P''' is the sixteenth letter of the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈpiː}}<!--Do not transcribe this /pʰiː/. Aspiration is not phonemic in English.-->) is spelled '''pee'''.<ref>"P" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "pee," op. cit.</ref>
+
+==History==
+The Semitic Pê (mouth), as well as the Greek Π or π ([[Pi (letter)|Pi]]), and the Etruscan and Latin letters that developed from the former alphabet, all symbolized {{IPA|/p/}}, a [[voiceless bilabial plosive]]. 
+
+==Usage==
+In [[English language|English]] and most other European languages, P is a [[voiceless bilabial plosive]]. Both initial and final Ps can be combined with many other discrete [[consonant]]s in English words. A common example of [[Assimilation (linguistics)|assimilation]] is the tendency of prefixes ending in N to assume an M sound before Ps (such as "in" + "pulse" → "impulse" &mdash; see also [[List of Latin words with English derivatives]]).
+
+A common digraph in English is "ph", which represents the [[voiceless labiodental fricative]] {{IPA|/f/}}, and can be used to transliterate [[Phi]] (φ) in loanwords from [[Greek language|Greek]]. In German, the digraph "pf" is common, representing a labial [[affricate]] of {{IPA|/pf/}}.
+
+Arabic speakers are usually unaccustomed to pronouncing {{IPA|/p/}}; they pronounce it as {{IPA|/b/}}.
+
+==Codes for computing==
+{{Letter
+|NATO=Papa
+|Morse=·––·
+|Character=P
+|Braille=⠏
+}}
+
+In [[Unicode]], the [[capital letter|capital]] "P" is codepoint U+0050 and the [[lower case]] "p" is U+0070.
+
+The [[ASCII]] code for capital "P" is 80 and for lowercase "p" is 112; or in [[Binary numeral system|binary]] 01010000 and 01110000, respectively.
+
+The [[EBCDIC]] code for capital "P" is 215 and for lowercase "p" is 151.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#80;</tt>" and "<tt>&amp;#112;</tt>" for upper and lower case, respectively.
+
+==See also==
+{{col-begin}}
+{{col-3}}
+*[[thorn (letter)|Þ or þ]]
+*[[Sound recording copyright symbol|℗ or (P)]]
+*[[Pe (Cyrillic)|П, п - Pe (Cyrillic)]]
+{{col-3}}
+*[[Er (Cyrillic)|Р, р - Er (Cyrillic)]]
+*[[Pi (letter)|Π, π - Pi (Greek)]]
+*[[Pe (letter)|פ, ף - Pe (Hebrew)]]
+*[[Mind your Ps and Qs]]
+{{col-3}}
+{{Commons|P}}
+{{col-end}}
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|P|}}
+
+[[Category:Latin letters]]
+
+[[af:P]]
+[[als:P]]
+[[ar:P]]
+[[arc:P]]
+[[ast:P]]
+[[az:P]]
+[[zh-min-nan:P]]
+[[bs:P]]
+[[br:P (lizherenn)]]
+[[ca:P]]
+[[cs:P]]
+[[co:P]]
+[[cy:P]]
+[[da:P]]
+[[de:P]]
+[[et:P]]
+[[el:P]]
+[[es:P]]
+[[eo:P]]
+[[eu:P]]
+[[fa:P]]
+[[fr:P (lettre)]]
+[[fy:P]]
+[[fur:P]]
+[[gd:P]]
+[[gl:P]]
+[[gan:P]]
+[[ko:P]]
+[[hr:P]]
+[[ilo:P]]
+[[is:P]]
+[[it:P]]
+[[he:P]]
+[[ka:P]]
+[[kw:P]]
+[[sw:P]]
+[[ht:P]]
+[[la:P]]
+[[lv:P]]
+[[lt:P]]
+[[hu:P]]
+[[mk:P (Латиница)]]
+[[mzn:P]]
+[[ms:P]]
+[[nah:P]]
+[[nl:P (letter)]]
+[[ja:P]]
+[[no:P]]
+[[nn:P]]
+[[nrm:P]]
+[[uz:P (harf)]]
+[[pl:P]]
+[[pt:P]]
+[[ro:P]]
+[[qu:P]]
+[[ru:P (латиница)]]
+[[se:P]]
+[[stq:P]]
+[[scn:P]]
+[[simple:P]]
+[[sk:P]]
+[[sl:P]]
+[[sr:P (слово латинице)]]
+[[fi:P]]
+[[sv:P]]
+[[tl:P]]
+[[th:P]]
+[[tr:P (harf)]]
+[[uk:P (латиниця)]]
+[[vi:P]]
+[[vo:P]]
+[[yi:P]]
+[[yo:P]]
+[[zh-yue:P]]
+[[bat-smg:P]]
+[[zh:P]]

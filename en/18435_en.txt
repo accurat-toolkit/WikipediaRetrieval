@@ -1,0 +1,382 @@
+{{Previously|Saxony}}
+{{Infobox German Bundesland
+|Name = Lower Saxony
+|German_name = Niedersachsen </br>Neddersassen
+|state_coa = Coat of arms of Lower Saxony.svg
+|coa_size = 
+|map = Deutschland Lage von Niedersachsen.svg
+|flag = Flag of Lower Saxony.svg
+|capital = Hanover
+|area = 47624.22
+|area_source =  <!-- <ref>{{cite web |url=http://www1.nls.niedersachsen.de/statistik/ |title= Niedersächsisches Landesamt für Statistik}}</ref>Could not find area on this page. Please update link  -->
+|population = 	7977000
+|pop_ref = <ref>{{cite web |url=http://www.statistik-portal.de/Statistik-Portal/de_zs01_nds.asp |title= State population |work= Portal of the Federal Statistics Office Germany |accessdate=2007-04-25}}</ref>
+|pop_date = 2007-10-31
+|GDP = 188
+|GDP_year = 2005
+|GDP_percent = 8.4
+|Website = [http://www.niedersachsen.de/ www.niedersachsen.de]
+|leader_title = 
+|leader = Christian Wulff
+|leader_party = CDU
+|ruling_party1 = CDU
+|ruling_party2 = FDP
+|votes = 6
+|NUTS = DE9 | iso region = DE-NI
+|lat_d = 52.756 | long_d = 9.393
+}}
+'''Lower Saxony''' ([[German language|German]]: ''Niedersachsen'' {{IPA-de|ˈniːdɐzaksn̩|}}<!--not a typo: ''ch'' is pronounced [k] before an ''s''-->) lies in [[northern Germany|north-western Germany]] and is second in area and fourth in population among the sixteen ''[[States of Germany|Bundesländer]]'' (states) of [[Germany]]. In rural areas [[Low German]] is still spoken, but the number of speakers is declining.
+
+Lower Saxony borders on (from north and clockwise) the [[North Sea]], the states of [[Schleswig-Holstein]], [[Hamburg]], [[Mecklenburg-Vorpommern]], [[Brandenburg]], [[Saxony-Anhalt]], [[Thuringia]], [[Hesse]] and [[North Rhine-Westphalia]], and the Kingdom of the [[Netherlands]]. In total, Lower Saxony borders more neighboring states than any other federal state. The state of [[Bremen (state)|Bremen]] forms two [[enclave]]s within Lower Saxony, one being the city of Bremen, the other its [[seaport]] city of [[Bremerhaven]]. The state's principal cities include [[Hanover]], [[Braunschweig (city)|Braunschweig]], [[Osnabrück]], [[Oldenburg]], and [[Göttingen]].
+
+The northwestern portion of Lower Saxony is a part of [[Frisia]]; it is called ''Ostfriesland'' ''([[East Frisia]])'' and lies on the coast of the [[North Sea]].  It includes seven islands, known as the [[East Frisian Islands]]. In the extreme west of Lower Saxony is the [[Emsland]], a traditionally poor and sparsely populated area, once dominated by inaccessible swamps. The northern half of Lower Saxony, also known as the ''North German Plains'', is almost invariably flat except for the gentle hills around the [[Bremen]] [[geestland]]. Towards the south and southwest lie the northern parts of the ''German Central Highlands'', the [[Weserbergland]] ''(Weser mountain range)'' and the [[Harz]] mountains. Between these two lies the Lower Saxon Hill Country, a range of minor elevations. Lower Saxony's major cities and economic centres are mainly situated in its central and southern parts, namely [[Hanover]], [[Braunschweig (city)|Braunschweig]], [[Osnabrück]], [[Wolfsburg]], [[Salzgitter]] and [[Hildesheim]]. [[Oldenburg]], near the northwestern coastline, is another economic center. The region in the northeast is called ''Lüneburger Heide'' ''([[Lüneburg Heath]])'', the largest heathland area of Germany and in medieval times wealthy due to salt mining and salt trade, as well as to a lesser degree the exploitation of its [[peat bog]]s up until about the 1960s. To the north, the [[Elbe]] river separates Lower Saxony from [[Hamburg]], [[Schleswig-Holstein]], [[Mecklenburg-Western Pomerania]] and [[Brandenburg]]. The banks just south of the Elbe are known as ''[[Altes Land]] (Old Country)''. Due to its gentle local climate and fertile soil it is the state's largest area of fruit farming, its chief produce being [[apple]]s.
+
+See also [[List of places in Lower Saxony]].
+
+== Administration ==
+Lower Saxony is divided into 38 districts (''Landkreise'' or simply ''Kreise''):
+
+{|
+|- valign=top
+| colspan=3|[[Image:Landkreise Niedersachsen-en.svg|450px|Map of Lower Saxony with the district boundaries]]
+|- valign=top
+| width=33%|
+# [[Ammerland]]
+# [[Aurich (district)|Aurich]] <small>(includes [[Juist]], [[Norderney]] and [[Baltrum]])</small>
+# [[Grafschaft Bentheim]]
+# [[Celle (district)|Celle]]
+# [[Cloppenburg (district)|Cloppenburg]]
+# [[Cuxhaven (district)|Cuxhaven]]
+# [[Diepholz (district)|Diepholz]]
+# [[Emsland]]
+# [[Friesland (district)|Friesland]] <small>(includes [[Wangerooge]])</small>
+# [[Gifhorn (district)|Gifhorn]]
+# [[Goslar (district)|Goslar]]
+# [[Göttingen (district)|Göttingen]]
+# [[Hamelin-Pyrmont]] (''Hameln-Pyrmont'')
+| width=33%|
+<ol start=14>
+<li> [[Hanover (district)|Hannover]] (''Hanover'')
+<li> [[Harburg]]
+<li> [[Helmstedt (district)|Helmstedt]]
+<li> [[Hildesheim (district)|Hildesheim]]
+<li> [[Holzminden (district)|Holzminden]]
+<li> [[Leer (district)|Leer]] <small>(includes [[Borkum]])</small>
+<li> [[Lüchow-Dannenberg]]
+<li> [[Lüneburg (district)|Lüneburg]]
+<li> [[Nienburg (district)|Nienburg]]
+<li> [[Northeim (district)|Northeim]]
+<li> [[Oldenburg (district)|Oldenburg]]
+<li> [[Osnabrück (district)|Osnabrück]]
+<li> [[Osterholz]]
+</ol>
+| width=33%|
+<ol start=27>
+<li value=27> [[Osterode (district)|Osterode]]
+<li> [[Peine (district)|Peine]]
+<li> [[Rotenburg (district)|Rotenburg (Wümme)]]
+<li> [[Schaumburg]]
+<li> [[Soltau-Fallingbostel]]
+<li> [[Stade (district)|Stade]]
+<li> [[Uelzen (district)|Uelzen]]
+<li> [[Vechta (district)|Vechta]]
+<li> [[Verden (district)|Verden]]
+<li> [[Wesermarsch]]
+<li> [[Wittmund (district)|Wittmund]] <small>(includes [[Langeoog]] and [[Spiekeroog]])</small>
+<li> [[Wolfenbüttel (district)|Wolfenbüttel]]
+</ol>
+|}
+
+Furthermore there are ten urban districts:
+# [[Braunschweig (city)|Braunschweig]]
+# [[Delmenhorst]]
+# [[Emden]]
+# [[Göttingen]] ¹
+# [[Hannover]] ²
+# [[Oldenburg]]
+# [[Osnabrück]]
+# [[Salzgitter]]
+# [[Wilhelmshaven]]
+# [[Wolfsburg]]
+¹ ''following the "Göttingen Law" of January 1, 1964, the town of Göttingen is incorporated into the district (''Landkreis'') of Göttingen, but the rules on urban districts still apply, as long as no other rules exist.''<br />
+² ''following the "Law on the region of Hanover", Hanover counts since November 1, 2001 as an urban district as long as no other rules apply.''
+
+== History ==
+[[Image:Niedersachsen Verordnung 55 3339.jpg|thumb|'''Ordinance No. 55''', with which on November 22, 1946 the British military government founded the state Lower Saxony retroactively to November 1, 1946.]]
+The area is named after the [[Saxons]]. The Saxons lived in today's state of [[Schleswig-Holstein]] and merged with the [[Chauci]] on the left bank of the river Elbe until the middle of the 1st millennium AD. They then expanded over the whole of today's Lower Saxony and further. Originally the region was simply called ''Saxony'', but as the center of gravity of the [[Duchy of Saxony]] gradually moved up the Elbe, towards the present-day states of [[Saxony-Anhalt]] and [[Saxony]], the region was given the name of Lower Saxony, which it bore as an [[Imperial Circle Estate]] from the late 15th century on.
+
+Historically, Low Saxony esp. the southern regions or the Gottingen region sought a high degree of autonomy.{{Citation needed|date=September 2008}}  
+
+The state was founded in 1946 by the [[United Kingdom|British]] military administration, who merged the former states of [[Free State of Brunswick|Brunswick]], [[Free State of Oldenburg|Oldenburg]], and [[Free State of Schaumburg-Lippe|Schaumburg-Lippe]] with the former [[Prussia]]n province of [[Province of Hanover|Hanover]].
+
+After the [[Second World War]], the military authorities appointed the first Legislative Assembly (''Landtag'') in 1946, followed by a direct election of Lower Saxony's legislature a year later. It resulted in the election of [[Social Democratic Party of Germany|Social Democrat]] leader [[Hinrich Wilhelm Kopf]], who became the first prime minister. Kopf led a five-party coalition, whose basic task was to rebuild a state affected by the war's rigours. Kopf's cabinet had to organise an improvement of food supplies and the reconstruction of the cities and towns destroyed by the Allied air raids of the war years. In addition, the first state government also faced the challenge of integrating hundreds of thousands of refugees from Germany's former territories in the east (such as [[Silesia]] and [[East Prussia]]), which had been annexed by [[Poland]] and the [[Soviet Union]].
+
+Between 1978 and 2004, the state's districts and independent towns were grouped into four administrative regions (''[[Regierungsbezirk]]e''): Since 2004 the [[Regierungsbezirk|Bezirksregierung]]en have been broken up again.
+*[[Braunschweig (region)|Braunschweig]]
+*[[Hanover (region)|Hannover]] (''Hanover'')
+*[[Lüneburg (region)|Lüneburg]]
+*[[Weser-Ems]]
+
+== Economy ==
+Agriculture has always been a very important economic factor in Lower Saxony. [[Wheat]], [[potatoes]], [[rye]], and [[oats]] as well as [[beef]], [[pork]] and [[poultry]] are some of the state's present-day agricultural products. The north and northwest of Lower Saxony  are mainly made up of coarse sandy soil that makes crop farming difficult and therefore grassland and cattle farming are more prevalent in those areas. Towards the south and southeast, extensive [[loess]] layers in the soil left behind by the last [[ice age]] allow high-yield crop farming. One of the principal crops there is [[sugar beet]]. 
+
+Mining has been an important source of income in Lower Saxony for centuries. [[Silver ore]]  became a foundation of notable economic prosperity in the Harz Mountains as early as the 1100s, while [[iron mining]] in the Salzgitter area and [[salt mining]] in various areas of the state became another important economic backbone. Although overall yields are comparatively low, Lower Saxony is also an important supplier of crude oil in the European Union. Mineral products still mined today include [[iron]] and [[lignite]].
+
+[[Radioactive waste]] is frequently transported in the area to the city of [[Salzgitter]], for the [[deep geological repository]] [[Schacht Konrad]] and between [[Schacht Asse II]] in the [[Wolfenbüttel (district)|Wolfenbüttel]] district and [[Lindwedel]] and [[Höfer, Germany|Höfer]].
+
+[[Manufacturing]] is another large part of the regional economy. Despite decades of gradual downsizing and restructuring, the car maker [[Volkswagen]] with its five production plants within the state's borders still remains the single biggest private-sector employer, its world headquarters based in [[Wolfsburg]].  Due to a legal act commonly known as the ''Volkswagen Law'' that has just recently been ruled illegal by the [[European Union]]'s high court, the state of Lower Saxony is still the second largest shareholder, owning 20.3% of the company.
+<ref>{{cite web |url=http://news.bbc.co.uk/2/hi/business/7057815.stm |title= 'Volkswagen law' is ruled illegal |work= BBC News | Business |accessdate=2007-10-24}}</ref> Due to the importance of car manufacturing in Lower Saxony, a thriving supply industry is centered around its regional focal points. Other mainstays of the Lower Saxon industrial sector include aviation, shipbuilding, [[biotechnology]], and [[steel]].
+
+The service sector has gained importance following the demise of manufacturing in the 1970s and 1980s. Important branches today are the tourism industry with [[TUI AG]] in Hanover, one of Europe's largest travel companies, as well as [[trade]] and [[telecommunication]].
+
+== Politics ==
+{{Main|Politics of Lower Saxony}}
+
+Since 1948, politics in the state has been dominated by the rightist [[Christian Democratic Union (Germany)|Christian Democratic Union]] (CDU) and the leftist [[Social Democratic Party]]. Lower Saxony was one of the origins of the German environmentalist movement in reaction to the state government's support for underground nuclear waste disposal. This led to the formation of the German Green Party in 1980.
+
+The current Minister-President, [[Christian Wulff]], has led a coalition of his CDU with the [[Free Democratic Party (Germany)|Free Democratic Party]] since 2003. In [[Lower Saxony state election, 2008|the most recent state election in 2008]], the ruling CDU held on to its position as the leading party in the state, despite losing votes and seats. The CDU's coalition with the Free Democratic Party retained its majority although it was cut from 29 to 10.
+
+The election also saw the entry into the state parliament for the first time of the leftist [[The Left (Germany)|The Left]] party.
+
+===List of Minister-presidents of Lower Saxony===
+{| class="wikitable"  |
+|- class="hintergrundfarbe6"
+| '''Minister-president'''
+| '''Cabinet'''
+| '''Involved parties'''
+| '''Tenure'''
+|- class="hintergrundfarbe7"
+|[[Hinrich Wilhelm Kopf]]
+|[[Kabinett Kopf I|Kopf I]] 
+|[[SPD]], [[CDU]], [[Freie Demokratische Partei|FDP]], [[Deutsche Partei#Neugründung und Frühphase 1945–1949|NLP]], [[KPD]]
+|1946 – 47
+|- class="hintergrundfarbe7"
+|Hinrich Wilhelm Kopf
+|[[Kabinett Kopf II|Kopf II]]
+|SPD, CDU, FDP, [[Deutsche Partei|DP]], [[Deutsche Zentrumspartei|Zentrum]], KPD
+|1947 – 48
+|- class="hintergrundfarbe7"
+|Hinrich Wilhelm Kopf
+|[[Kabinett Kopf III|Kopf III]]
+|SPD, CDU, Zentrum
+|1948 – 51
+|- class="hintergrundfarbe7"
+|Hinrich Wilhelm Kopf
+|[[Kabinett Kopf IV|Kopf IV]]
+|SPD, [[Gesamtdeutscher Block/Bund der Heimatvertriebenen und Entrechteten|GB/BHE]], Zentrum
+|1951 – 55
+|- class="hintergrundfarbe4"
+|[[Heinrich Hellwege]]
+|[[Kabinett Hellwege I|Hellwege I]] 
+|DP, SPD, GB/BHE, CDU, FDP
+|1955 – 57
+|- class="hintergrundfarbe4"
+|Heinrich Hellwege
+|[[Kabinett Hellwege II|Hellwege II]]
+|DP, SPD, CDU
+|1957 – 59
+|- class="hintergrundfarbe7"
+|Hinrich Wilhelm Kopf
+|[[Kabinett Kopf V|Kopf V]] 
+|SPD, FDP, GB/BHE
+|1959 – 61
+|- class="hintergrundfarbe7"
+|[[Georg Diederichs]] 
+|[[Kabinett Diederichs I|Diederichs I]] 
+|SPD, FDP, GB/BHE
+|1961 – 63
+|- class="hintergrundfarbe7"
+|Georg Diederichs
+|[[Kabinett Diederichs II|Diederichs II]] 
+|SPD, FDP
+|1963 – 65
+|- class="hintergrundfarbe7"
+|Georg Diederichs
+|[[Kabinett Diederichs III|Diederichs III]] 
+|SPD, CDU
+|1965 – 67
+|- class="hintergrundfarbe7"
+|Georg Diederichs
+|[[Kabinett Diederichs IV|Diederichs IV]] 
+|SPD, CDU
+|1967 – 70
+|- class="hintergrundfarbe7"
+|[[Alfred Kubel]]
+|[[Kabinett Kubel I|Kubel I]] 
+|SPD
+|1970 – 74
+|- class="hintergrundfarbe7"
+|Alfred Kubel
+|[[Kabinett Kubel II|Kubel II]]
+|SPD, FDP
+|1974 – 76
+|- class="hintergrundfarbe5"
+|[[Ernst Albrecht]]
+|[[Kabinett Albrecht I|Albrecht I]] 
+|CDU
+|1976 – 77
+|- class="hintergrundfarbe5"
+|Ernst Albrecht
+|[[Kabinett Albrecht II|Albrecht II]] 
+|CDU, FDP, without party affiliation
+|1977 – 78
+|- class="hintergrundfarbe5"
+|Ernst Albrecht
+|[[Kabinett Albrecht III|Albrecht III]] 
+|CDU
+|1978 – 82
+|- class="hintergrundfarbe5"
+|Ernst Albrecht
+|[[Kabinett Albrecht IV|Albrecht IV]] 
+|CDU
+|1982 – 86
+|- class="hintergrundfarbe5"
+|Ernst Albrecht
+|[[Kabinett Albrecht V|Albrecht V]] 
+|CDU, FDP 
+|1986 – 90
+|- class="hintergrundfarbe7"
+|[[Gerhard Schröder]] 
+|[[Kabinett Schröder I (Niedersachsen)|Schröder I]] 
+|SPD, [[Bündnis 90/Die Grünen|Grüne]], parteilos
+|1990 – 94
+|- class="hintergrundfarbe7"
+|Gerhard Schröder
+|[[Kabinett Schröder II (Niedersachsen)|Schröder II]]
+|SPD, without party affiliation
+|1994 – 98
+|- class="hintergrundfarbe7"
+|Gerhard Schröder
+|[[Kabinett Schröder III (Niedersachsen)|Schröder III]] 
+|SPD
+|1998
+|- class="hintergrundfarbe7"
+|[[Gerhard Glogowski]]
+|[[Kabinett Glogowski|Glogowski]] 
+|SPD
+|1998 – 99
+|- class="hintergrundfarbe7"
+|[[Sigmar Gabriel]]
+|[[Kabinett Gabriel|Gabriel]] 
+|SPD, without party affiliation
+|1999 – 2003
+|- class="hintergrundfarbe5"
+|[[Christian Wulff]]
+|[[Kabinett Wulff I|Wulff I]] 
+|CDU, FDP
+|2003 – 08
+|- class="hintergrundfarbe5"
+|Christian Wulff
+|[[Kabinett Wulff II|Wulff II]] 
+|CDU, FDP
+|seit 2008
+|}
+
+== Coat of arms ==
+{{Main|Coat of arms of Lower Saxony}}
+The [[coat of arms]] shows a white [[horse]] ([[Saxon Steed]]) on red ground, which is an old symbol of the Saxon people.
+
+== See also ==
+*[[Metropolitan region Hannover-Braunschweig-Göttingen-Wolfsburg]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.international.niedersachsen.de/en/home.html Official governmental portal]
+* [http://www.niedersachsen-tourism.com/ Official website for tourism, holiday and leisure in Lower Saxony]
+* [http://www.niedersachsen-karte.de/ map with tourist highlights, notepad and personal guide]
+
+{{Germany_states}}
+
+[[Category:States and territories established in 1946]]
+[[Category:Lower Saxony| ]]
+[[Category:States of Germany]]
+[[Category:NUTS 1 statistical regions of the European Union]]
+
+{{Link FA|af}}
+
+[[af:Nedersakse]]
+[[als:Niedersachsen]]
+[[ang:Niðerseaxland]]
+[[ar:سكسونيا السفلى]]
+[[an:Baxa Saxonia]]
+[[ast:Baxa Saxonia]]
+[[az:Aşağı Saksoniya]]
+[[zh-min-nan:Niedersachsen]]
+[[bar:Niedersachsen]]
+[[bs:Donja Saksonija]]
+[[br:Saks-Izel]]
+[[bg:Долна Саксония]]
+[[ca:Baixa Saxònia]]
+[[cs:Dolní Sasko]]
+[[cy:Niedersachsen]]
+[[da:Niedersachsen]]
+[[de:Niedersachsen]]
+[[dsb:Dolnosakska]]
+[[et:Alam-Saksi]]
+[[el:Κάτω Σαξωνία]]
+[[es:Baja Sajonia]]
+[[eo:Malsupra Saksio]]
+[[eu:Saxonia Beherea]]
+[[fa:نیدرزاکسن]]
+[[fr:Basse-Saxe]]
+[[fy:Nedersaksen]]
+[[ga:An tSacsain Íochtarach]]
+[[gv:Niedersachsen]]
+[[gd:Sagsainn Iosail]]
+[[gl:Baixa Saxonia - Niedersachsen]]
+[[ko:니더작센 주]]
+[[hsb:Delnja Sakska]]
+[[hr:Donja Saska]]
+[[io:Infra-Saxonia]]
+[[id:Sachsen Bawah]]
+[[ie:Infra Saxonia]]
+[[os:Дæллаг Саксони]]
+[[is:Neðra-Saxland]]
+[[it:Bassa Sassonia]]
+[[he:סקסוניה התחתונה]]
+[[jv:Niedersachsen]]
+[[pam:Lower Saxony]]
+[[ka:ქვემო საქსონია]]
+[[ku:Niedersachsen]]
+[[la:Saxonia Inferior]]
+[[lv:Lejassaksija]]
+[[lt:Žemutinė Saksonija]]
+[[lij:Bassa Sassonia]]
+[[hu:Alsó-Szászország]]
+[[mk:Долна Саксонија]]
+[[ms:Niedersachsen]]
+[[nah:Tlani Saxonia]]
+[[nl:Nedersaksen]]
+[[nds-nl:Nedersaksen]]
+[[ja:ニーダーザクセン州]]
+[[no:Niedersachsen]]
+[[nn:Niedersachsen]]
+[[oc:Bassa Saxònia]]
+[[pnb:تھلواں سیکسنی]]
+[[pms:Bassa Sassònia]]
+[[nds:Neddersassen]]
+[[pl:Dolna Saksonia]]
+[[pt:Baixa Saxônia]]
+[[ksh:Needersachse (Bundesland)]]
+[[ro:Saxonia Inferioară]]
+[[rm:Saxonia bassa]]
+[[qu:Niedersachsen]]
+[[ru:Нижняя Саксония]]
+[[sah:Аллараа Саксонийа]]
+[[stq:Läichsaksen]]
+[[sq:Saksonia e Ulët]]
+[[simple:Lower Saxony]]
+[[sk:Dolné Sasko]]
+[[sl:Spodnja Saška]]
+[[sr:Доња Саксонија]]
+[[sh:Donja Saska]]
+[[fi:Ala-Saksi]]
+[[sv:Niedersachsen]]
+[[tr:Aşağı Saksonya]]
+[[uk:Нижня Саксонія]]
+[[vi:Niedersachsen]]
+[[vo:Dona-Saxän]]
+[[war:Lower Saxony]]
+[[zh:下萨克森]]

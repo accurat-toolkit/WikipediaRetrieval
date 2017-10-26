@@ -1,0 +1,12 @@
+'''GER''' var nozīmēt:
+;ger
+* [[Vācu valoda]]s [[ISO 639-2]] B kods
+
+;GER
+* [[Vācija]]s [[SOK kods]]
+
+{{disambig}}
+
+[[en:GER]]
+[[fr:GER]]
+[[ja:GER]]

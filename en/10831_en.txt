@@ -1,0 +1,148 @@
+{{dablink|For [[Wikipedia:Naming conventions (technical restrictions)#Characters totally forbidden in page titles|technical reasons]], F# redirects here. For the programming language, see [[F Sharp (programming language)]]. For other uses, see [[F-sharp (disambiguation)]].}}
+{{pp-move-indef|small=yes}}
+{{otherusesof}}
+
+{{wiktionarypar2|F|f}}
+{{Latin alphabet navbox|uc=F|lc=f}}
+'''F''' is the sixth letter in the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈɛf}}) is spelled '''ef''' or '''eff'''.<ref>''The American Heritage Dictionary of the English Language''. 1976.</ref><ref>"F" ''Oxford English Dictionary,'' 2nd edition (1989); "ef", "eff", "bee" (under ''bee eff) op. cit.''</ref>
+
+==History==
+{| border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;text-align:center;"
+|-  bgcolor="#EEEEEE"
+! Proto-Semitic W
+! Phoenician <br/> ''[[Waw (letter)|waw]]''
+! Etruscan W
+! Greek <br/> ''[[Digamma]]''
+! Roman F
+|-----
+|[[Image:Proto-semiticW-01.png]]
+|[[Image:PhoenicianW-01.png]]
+|[[Image:EtruscanF-01.svg|40px]]
+|[[Image:GreekDigamma-01.png]]
+|[[Image:RomanF-01.png|Roman F]]
+|}
+
+The origin of F is the [[Semitic languages|Semitic]] letter [[Waw (letter)|''vâv'']] that represented the sound /v/, and originally probably represented either a "hook" or a "club". It may have been based on a comparable [[Egyptian hieroglyph]], such as that for "mace": <hiero>T3</hiero>
+
+The Phoenician form of the letter was adopted into Greek as a vowel, ''[[upsilon]]'' (which resembled its descendant, [[Y]], but was also ancestor to Roman letters [[U]], [[V]], and [[W]]); and with another form, as a consonant, ''[[digamma]]'', which resembled our letter F, but was pronounced /w/, as in Phoenician. (Later on, this /w/ [[phoneme]] disappeared from Greek, resulting in ''digamma'' being used as a numeral only.)
+
+In Etruscan, F also stood for /w/; however, they came up with the innovation of using the [[Digraph (orthography)|digraph]] FH to represent the sound /f/, and the letter acquired this sound on its own when the Romans picked it up (since they had already borrowed U independently from Greek ''upsilon'' to stand for /w/). The letter [[phi]] (Φ φ) came to approximate the sound of /f/ in Greek.
+
+The [[lower case]] ''f'' is not related to the visually similar [[long s]], ſ. The use of the ''long s'' died out by the beginning of the 19th century, largely to prevent confusion with ''f''.
+
+== Usage ==
+
+In English, F represents the [[voiceless labiodental fricative]]; this sound is also represented by "f" in the International Phonetic Alphabet and X-SAMPA. F represents the same sound in most other languages written in the Latin alphabet, provided they use the letter at all; some exceptions include [[Turkmen alphabet|Turkmen]], where it represents the [[voiceless bilabial fricative]] {{IPA|/ɸ/}}, and [[Welsh orthography|Welsh]], where it represents the [[voiced labiodental fricative]] {{IPA|/v/}}.
+
+In formal [[typography]], particularly for [[serif]]ed fonts, [[Lower case|minuscule]] f is one of the most commonly [[ligature (typography)|ligate]]d letters. Unicode encodes several ligatures beginning with lowercase f (U+FB00 through U+FB04) for compatibility with old character code sets, but recommends that those should not be used.<ref>{{cite web |url=http://www.unicode.org/versions/Unicode5.0.0/ch07.pdf#page=14 |title= The Unicode Standard, Version 5.0, chapter 7, page 236 |date=2006-10-01 |accessdate=2009-04-14 |publisher=[[Unicode Consortium]] |pages=37}}</ref>
+
+== Codes for computing ==
+{{Letter
+|NATO=Foxtrot
+|Morse=··–·
+|Character=F6
+|Braille=⠋
+}}
+In [[Unicode]] the [[majuscule|capital]] F is codepoint U+0046 and the [[lower case]] f is U+0066.
+
+The [[ASCII]] code for capital F is 70 and for lower case f is 102; or in [[Binary numeral system|binary]] 01000110 and 01100110, respectively.
+
+The [[EBCDIC]] code for capital F is 198 and for lowercase f is 134.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#70;</tt>" and "<tt>&amp;#102;</tt>" for upper and lower case, respectively.
+
+== See also ==
+{{Commons|F}}
+*[[Ef (Cyrillic)|Ф, ф - Ef (Cyrillic)]]
+*[[Phi (letter)|Φ, φ or {{Unicode|ϕ}} - Phi (Greek)]]
+
+== References==
+{{reflist}}
+
+{{Latin alphabet|F|}}
+
+[[Category:Latin letters]]
+
+[[af:F]]
+[[als:F]]
+[[ar:F]]
+[[arc:F]]
+[[ast:F]]
+[[az:F]]
+[[zh-min-nan:F]]
+[[be:F, літара]]
+[[bs:F]]
+[[br:F (lizherenn)]]
+[[ca:F]]
+[[cs:F]]
+[[co:F]]
+[[cy:F]]
+[[da:F]]
+[[de:F]]
+[[el:F]]
+[[es:F]]
+[[eo:F]]
+[[eu:F]]
+[[fa:F]]
+[[fr:F (lettre)]]
+[[fy:F]]
+[[fur:F]]
+[[gv:Faarney (lettyr)]]
+[[gd:F]]
+[[gl:F]]
+[[gan:F]]
+[[ko:F]]
+[[hr:F]]
+[[ilo:F]]
+[[id:F (huruf)]]
+[[is:F]]
+[[it:F]]
+[[he:F]]
+[[ka:F]]
+[[kw:F]]
+[[sw:F]]
+[[ht:F]]
+[[la:F]]
+[[lv:F]]
+[[lb:F]]
+[[lt:F]]
+[[hu:F]]
+[[mk:F (Латиница)]]
+[[mg:F]]
+[[mzn:F]]
+[[ms:F]]
+[[nah:F]]
+[[nl:F (letter)]]
+[[ja:F]]
+[[no:F]]
+[[nn:F]]
+[[nrm:F]]
+[[uz:F (harf)]]
+[[pl:F]]
+[[pt:F]]
+[[crh:F]]
+[[ro:F]]
+[[qu:F]]
+[[ru:F (латиница)]]
+[[se:F]]
+[[stq:F]]
+[[scn:F]]
+[[simple:F]]
+[[sk:F]]
+[[sl:F]]
+[[sr:F (слово латинице)]]
+[[sh:F]]
+[[fi:F]]
+[[sv:F]]
+[[tl:F]]
+[[th:F]]
+[[tr:F (harf)]]
+[[uk:F (латиниця)]]
+[[vi:F]]
+[[vo:F]]
+[[yi:F]]
+[[yo:F]]
+[[zh-yue:F]]
+[[diq:F]]
+[[bat-smg:F]]
+[[zh:F]]

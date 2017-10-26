@@ -1,0 +1,65 @@
+{{Infobox Settlement
+| name = Skaryszew
+| imagesize = 250px
+| image_flag = POL Skaryszew flag.svg
+| image_shield = POL Skaryszew COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Country
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Masovian Voivodeship|Masovian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Radom County|Radom]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Skaryszew|Skaryszew]]
+| leader_title = Mayor
+| leader_name = Ireneusz Kumięga
+| leader_title = Mayor
+| leader_name = Wlodzimierz Guzowski
+| established_title = Established
+| established_date = 1198
+| established_title3 = Town rights
+| established_date3 = 1264
+| area_total_km2 = 27.49
+| population_as_of = 2006
+| population_total = 3989
+| population_density_km2 = auto
+| timezone = [[Central European Time|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 51 | latm = 18 | lats = 32 | latNS = N | longd = 21 | longm = 14 | longs = 55 | longEW = E
+| postal_code_type = Postal code
+| postal_code = 26-640
+| area_code = +48 48
+| blank_name = [[Polish car number plates|Car plates]]
+| blank_info = WRA
+| website = http://www.skaryszew.pl }}
+ 
+'''Skaryszew''' {{IPAr|pl|s|k|a|'|r|y|sz|e|f}} is a town in [[Poland]], with 3,922 inhabitants (2004).
+
+{{coord|51|19|N|21|15|E|region:PL_type:city|display=title}}
+==References==
+<references />
+
+<br>
+{{Gmina Skaryszew}}
+
+[[Category:Cities and towns in Masovian Voivodeship]]
+[[Category:Radom County]]
+
+
+{{Masovian-geo-stub}}
+
+[[de:Skaryszew]]
+[[eo:Skaryszew]]
+[[jv:Skaryszew]]
+[[lv:Skariševa]]
+[[nl:Skaryszew]]
+[[pl:Skaryszew]]
+[[pt:Skaryszew]]
+[[ro:Skaryszew]]
+[[ru:Скарышев]]
+[[sk:Skaryszew]]
+[[uk:Скаришев]]

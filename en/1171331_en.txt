@@ -1,0 +1,30 @@
+[[Image:Water hemisphere.png|180px|right|Water hemisphere]]
+The '''water hemisphere''', sometimes but not always capitalised as the '''Water Hemisphere''', is the [[Sphere|hemisphere]] on the [[Earth]] containing the largest area of water. It is centered on {{coord|47|13|S|178|28|E|}}, near [[New Zealand]]'s [[Bounty Islands]].<ref name="Boggs">{{cite journal |last=Boggs |first=Samuel Whittemore |year=1945 |month=December |title=This Hemisphere |journal=Journal of Geography |volume=44 |issue=9 |pages=345–355 |doi=10.1080/00221344508986498}}</ref><ref>{{cite web |url=http://www.gis.psu.edu/projection/chapter4.html |title=Projecting the Hemisphere |accessdate=2007-12-14 |author=Judy M. Olson |date=1997 |work=Matching the Map Projection to the Need |publisher=American Congress on Surveying and Mapping}}</ref> The other half of the earth is the [[land hemisphere]].
+
+The water hemisphere has only one-eighth of the world's land,<ref name="Boggs"/> including [[Australia]], New Zealand, [[Antarctica]], a small part of [[Southeast Asia]] and the southern part of [[South America]]. Most of the [[Pacific Ocean]] and the [[Indian Ocean]] are on the water hemisphere. The area of the [[ocean]]s of the water hemisphere is much larger than its land area, but the area of the oceans of the land hemisphere is still larger than its land area.
+
+==References==
+{{reflist}}
+
+{{Hemispheres}}
+{{cartography-stub}}
+[[Category:Physical geography]]
+[[Category:Hemispheres]]
+[[Category:Oceans]]
+
+[[de:Wasserhemisphäre]]
+[[fr:Hémisphère maritime]]
+[[fy:Wetterhealrûn]]
+[[ko:수반구]]
+[[id:Belahan lautan]]
+[[ku:Nîvkada deryayî]]
+[[lv:Ūdens puslode]]
+[[ms:Hemisfera air]]
+[[nl:Waterhalfrond]]
+[[ja:水半球]]
+[[pl:Półkula wodna]]
+[[pt:Hemisfério de água]]
+[[ru:Полушарие воды]]
+[[simple:Water hemisphere]]
+[[sv:Vattenhalvklotet]]
+[[zh:水半球]]

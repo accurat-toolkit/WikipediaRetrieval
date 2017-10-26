@@ -1,0 +1,37 @@
+{{Pilsēta
+|nosaukums      = Twardogóra
+|valsts         = Polija
+|valsts_en      = Poland
+|ģerbonis       = POL Twardogóra COA.svg
+|karte          = Polija_Tvardogura.png
+|vojevodiste    = Lejassilēzijas vojevodiste
+|iedzīvotāji    = 6 894
+|iedz_stat_gads = 2007
+|iedz_blīvums   =
+|platība        = 8,29
+|pilsētas tiesības = 1293. gads
+|mājaslapa      = http://www.twardogora.pl/
+|citi nosaukumi = ''Festenberg'' (vācu)
+|apriņķis       = Oļesņicas apriņķis
+|koordinātes    = {{Coord|51|22||N|17|28||E|scale=100000}}
+}}
+
+[[Image:Twardogóra Syc. dw..png|thumb|300px|Tvardoguras - Sicovskas dzelzceļa stacija]]
+
+'''Tvardogura''' ({{val|pl|Twardogóra}}) - pilsēta [[Polija]]s dienvidrietumos, [[Lejassilēzijas vojevodiste|Lejassilēzijas vojevodistē]] uz ziemeļiem no [[Oļesņica]]s [[Tžebniku kalni|Tžebniku kalnos]] (''Wzgórza Trzebnickie''). 
+
+Līdz 1945. gadam pilsēta ietilpa [[Vācija|Vācijā]], kad, pamatojoties uz [[Potsdamas konference]]s lēmumiem, pilsēta tika piešķirta Polijai, bet pilsētas vācu iedzīvotāji padzīti.
+
+[[Kategorija:Lejassilēzijas vojevodistes pilsētas]]
+
+[[de:Twardogóra]]
+[[en:Twardogóra]]
+[[eo:Twardogóra]]
+[[jv:Twardogóra]]
+[[nl:Twardogóra]]
+[[pl:Twardogóra]]
+[[pt:Twardogóra]]
+[[ro:Twardogóra]]
+[[ru:Твардогура]]
+[[sk:Twardogóra]]
+[[uk:Твардогура]]

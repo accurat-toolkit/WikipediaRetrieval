@@ -1,0 +1,59 @@
+{{otheruses}}
+[[Image:Oeschinen.jpg|thumb|right|[[Oeschinen Lake]] in the [[Swiss Alps]], an example of a highly diversified landscape.]]
+[[Image:Mountains Tolima.jpeg|thumb|Landscape photograph of Tolima Colombia]]
+'''Landscape''' comprises the visible features of an area of [[land]], including physical elements such as [[landform]]s, living elements of [[flora]] and [[fauna]], abstract elements like lighting and [[weather]] conditions, and human elements like human activity and the [[built environment]].
+
+==Etymology==
+The word landscape comes from the [[Dutch language|Dutch]] word ''landschap'', from ''land'' (directly equivalent to the [[English language|English]] word land) also the suffix ''-schap'', corresponding to the [[English language|English]] suffix "-ship".
+
+''Landscape'', first recorded in 1598, was borrowed as a painters' term from Dutch during the 16th century, when Dutch artists were on the verge of becoming masters of the [[landscape art]] genre. The Dutch word ''landschap'' had earlier meant simply 'region, tract of land' but had acquired the artistic sense, which it brought over into English, of 'a picture depicting scenery on land'.
+
+==See also==
+{{Wiktionarypar|landscape}}
+* [[Cultural landscape]]
+* [[Geomorphology]]
+* [[Hardscape]]
+* [[Landscape architecture]]
+* [[Landscape ecology]]
+* [[Landscape design]]
+* [[Landscape history]]
+* [[Landscaping]]
+* [[Natural landscape]]
+* [[Softscape]]
+
+==References==
+{{Unreferenced|date=December 2006}}
+{{reflist}}
+
+[[Category:Landscape| ]]
+[[Category:Topography]]
+
+[[ar:منظر طبيعى]]
+[[bg:Пейзаж]]
+[[ca:Paisatge (geografia)]]
+[[cs:Krajina]]
+[[da:Landskab]]
+[[de:Landschaft]]
+[[et:Maastik]]
+[[es:Paisaje]]
+[[eo:Pejzaĝo]]
+[[fr:Paysage]]
+[[id:Lanskap]]
+[[it:Paesaggio]]
+[[lv:Ainava]]
+[[lt:Kraštovaizdis]]
+[[mwl:Paisage]]
+[[nl:Landschap]]
+[[ja:ランドスケープ]]
+[[nn:Landskap]]
+[[nds:Landschap]]
+[[pl:Kraina geograficzna]]
+[[pt:Paisagem]]
+[[ro:Peisaj]]
+[[ru:Ландшафт]]
+[[sk:Geografická krajina]]
+[[sr:Пејзаж]]
+[[sv:Landskap (terräng)]]
+[[uk:Ландшафт]]
+[[yi:לאנדשאפט]]
+[[zh:风景]]

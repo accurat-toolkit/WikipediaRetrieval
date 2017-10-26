@@ -1,0 +1,64 @@
+{{Info augstskola
+|nosaukums    = California Institute of Technology
+|attēla_nos   = CaltechLogo.png
+|att_izm      = 150px
+|att_apraksts = 
+|moto         = The truth shall make you free<small><br />''Patiesība padarīs tevi brīvu''</small>
+|dibin        = [[1891]]
+|valsts       = ASV
+|valsts_en    = USA
+|vieta        = [[Pasadena]], [[Kalifornija]]
+|tips         = [[Privāta universitāte|Privāta]] 
+|dotācijas    =
+|rektors      = 
+|fakult       = 
+|studenti     = 2100
+|asociācijas  =
+|trangs       =
+|arangs       =
+|mlapa        = [http://www.caltech.edu/ www.caltech.edu]
+}}'''Kalifornijas Tehnoloģiskais institūts''' ({{val-en|California Institute of Technology}}, zināms arī kā '''Caltech''')<ref name="caltech">Universitāte sevi īsajā formā sauc tikai par "Caltech", citi rakstības varianti kā "Cal Tech" un "CalTech" ir nepareizi. Institūtu reizēm apzīmē arī kā "CIT", visbiežāk tā ''[[alma mater]]'', bet tas notiek retāk.</ref> ir [[privāta universitāte|privāta]], [[kopapmācība]]s [[universitāte|izpētes universitāte]], kas atrodas [[Pasadena|Pasadenā]], [[Kalifornija|Kalifornijā]], [[ASV]]. Caltech galveno uzsvaru liek uz dabaszinātnēm un inženieriju. Caltech arī uztur un izmanto  [[Reaktīvas kustības laboratorija|Reaktīvas kustības laboratoriju]], [[NASA]] organizāciju, kas uzrauga un izstrādā daudz bezpilota [[kosmosa zonde|kosmosa zonžu]] projektēšanu un darbību. Caltech ir maza augstskola ar aptuveni 2100 studentiem (ap 900 bakalauru un 1200 maģistru un doktoru),<ref name='enrollstats'>{{cite web|url=http://collegesearch.collegeboard.com/search/CollegeDetail.jsp?collegeId=4214 |title=College Board At A Glance|accessdate=2008-01-30 }}</ref>, bet tiek vērtēta kā viena no 10 labākajām universitātēm pasaulē pēc tādiem parametriem kā [[citējamība]]<ref>[http://www.sciencewatch.com/sept-oct2002/sw_sept-oct2002_page1.htm Harvard Rides High in Latest "Top Ten" Research Roundup]</ref>, [[Nobela prēmija|Nobela prēmiju]] skaits<ref>[http://nobelprize.org/nobel_prizes/lists/universities.html Nobel Laureates and Universities]</ref> un vispārīgie universitāšu vērtējumi.
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:ASV augstskolas]]
+[[Kategorija:Universitātes ASV]]
+
+[[ar:معهد كاليفورنيا للتكنولوجيا]]
+[[az:Kaliforniya Texnologiya İnstitutu]]
+[[bg:Калифорнийски технологичен институт]]
+[[bn:ক্যালিফোর্নিয়া ইন্সটিটিউট অফ টেকনোলজি]]
+[[ca:Institut Tecnològic de Califòrnia]]
+[[cs:California Institute of Technology]]
+[[de:California Institute of Technology]]
+[[en:California Institute of Technology]]
+[[eo:Kalifornia Instituto de Teknologio]]
+[[es:Instituto Tecnológico de California]]
+[[et:California Tehnoloogiainstituut]]
+[[eu:Kaliforniako Teknologia Institutua]]
+[[fa:موسسه فناوری کالیفرنیا]]
+[[fi:California Institute of Technology]]
+[[fr:California Institute of Technology]]
+[[gl:Instituto Tecnolóxico de California]]
+[[hak:Kâ-chû Lî-kûng Ho̍k-yen]]
+[[he:המכון הטכנולוגי של קליפורניה]]
+[[hi:कैलिफोर्निया इंस्टीट्यूट ऑफ टेक्नोलॉजी]]
+[[hu:California Institute of Technology]]
+[[id:Institut Teknologi California]]
+[[is:Tækniháskólinn í Kaliforníu]]
+[[it:California Institute of Technology]]
+[[ja:カリフォルニア工科大学]]
+[[ka:კალიფორნიის ტექნოლოგიის ინსტიტუტი]]
+[[ko:캘리포니아 공과대학교]]
+[[nl:Caltech]]
+[[no:California Institute of Technology]]
+[[pl:California Institute of Technology]]
+[[pt:Instituto de Tecnologia da Califórnia]]
+[[ru:Калифорнийский технологический институт]]
+[[simple:California Institute of Technology]]
+[[sv:California Institute of Technology]]
+[[th:สถาบันเทคโนโลยีแคลิฟอร์เนีย]]
+[[tr:Kaliforniya Teknoloji Enstitüsü]]
+[[uk:Каліфорнійський технологічний інститут]]
+[[zh:加州理工學院]]

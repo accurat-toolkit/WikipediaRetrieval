@@ -1,0 +1,108 @@
+{{Infobox scientist
+| name              = Albert Fert  
+| image             = Albert fert 15 janvier 2009 Spintronique Paris Descartes.JPG
+| imagesize         = 170px
+| caption           = [[Paris Descartes University]] 2009, Paris
+| birth_date        = {{birth date and age|1938|03|07|df=y}}
+| birth_place       = [[Carcassonne]], [[France]]
+| residence         = [[Paris]], [[France]] 
+| nationality       = [[France]]
+| field             = [[Physics]]
+| work_institutions = [[Université Paris-Sud]], [[Michigan State University]]
+| alma_mater        = [[École normale supérieure]]
+| doctoral_advisor  = I. A. Campbell
+| doctoral_students =  
+| known_for         = [[Giant magnetoresistive effect]]
+| prizes            = [[Wolf Prize in Physics]] (2006)<br />[[Japan Prize]] (2007) <br /> [[Nobel Prize in Physics]] (2007)  
+}}
+
+'''Albert Fert''' (born [[March 7]] [[1938]]) is a [[France|French]] [[physics|physicist]] and one of the discoverers of [[giant magnetoresistance]] which brought about a breakthrough in [[gigabyte]] [[hard disks]]. He is currently professor at [[Université Paris-Sud]] in [[Orsay]] and scientific director of a joint laboratory ('Unité mixte de recherche') between the [[Centre national de la recherche scientifique]] (National Scientific Research Centre) and [[Thales Group]]. Also, he is an Adjunct professor of physics at [[Michigan State University]]. He was awarded the 2007 [[Nobel Prize in Physics]] together with [[Peter Grünberg]].
+
+==Biography==
+Fert graduated in 1962 from the [[École Normale Supérieure]] in [[Paris]]. He received his master's degree in 1963 at the [[University of Paris]], and earned his PhD in 1970 at the [[Université Paris-Sud]].
+
+In 1988 Fert discovered the [[Giant magnetoresistance]] effect (GMR) in multilayers of [[iron]] and [[chromium]] which is recognized as the birth of [[spintronics]]; GMR was simultaneously and independently discovered by Peter Grünberg from the [[Jülich Research Centre]]. Since 1988, Albert Fert has made contributions to the field of [[spintronics]].
+
+==Honours and awards==
+* [[American Physical Society]] International Prize for New Materials (1994)
+* Grand prix de physique [[Jean Ricard]] of the [[French Physical Society]] (1994)
+* International Union of Pure and Applied Physics Magnetism Award (1994)
+* Hewlett-Packard Europhysics Prize (1997)
+* [[Centre National de la Recherche Scientifique]] Gold Medal (2003)
+* [[Wolf Prize in Physics]] (2006)
+* [[Japan Prize]] (2007)
+* Elected to the [[French Academy of Sciences]] in 2004
+* [[Nobel Prize in Physics]] (2007)
+
+==Bibliography==
+<div class="references-small">
+* Fert, Albert. 2006. "Summary of Symposium D on "Magnetoelectronics". ''Journal of Alloys and Compounds''. 423, no. 1: 147. 
+* Fert, Albert, and Shang-Fan Lee. 1996. "Theory of the Bipolar Spin Switch". ''Physical Review. B, Condensed Matter''. 53, no. 10: 6554. 
+* Fert, Albert, Jean-Luc Duvail, and Thierry Valet. 1995. "Spin Relaxation Effects in the Perpendicular Magnetoresistance of Magnetic Multilayers". ''Physical Review. B, Condensed Matter''. 52, no. 9: 6513. 
+* Fert, Albert, Jean-Marie George, Henri Jaffres, Richard Mattana, and Pierre Seneor. 2003. "The New Era of Spintronics". ''Europhysics News''. 34, no. 6: 227. 
+* Hueso, Luis E, Jose M Pruneda, Valeria Ferrari, Gavin Burnell, Jose P Valdes-Herrera, Benjamin D Simons, Peter B Littlewood, Emilio Artacho, Albert Fert, and Neil D Mathur. 2007. "Transformation of Spin Information into Large Electrical Signals Using Carbon Nanotubes". ''Nature''. 445, no. 7126: 410.
+* Fert, Albert, Jean-Luc Duvail, Tierry Henri. 2006. "Supersymmetric Spin Information is Contained in Large Spinning Carbon Nanotubes". ''Europhysics Lett.''. 80, no. 3: 117. 
+* Levy, Peter M, and Albert Fert. 2006. "Condensed Matter: Electronic Properties, Etc. - Spin Transfer in Magnetic Tunnel Junctions with Hot Electrons". ''Physical Review Letters''. 97, no. 9: 97205. 
+</div>
+
+==References==
+*{{cite web | url=http://nobelprize.org/nobel_prizes/physics/laureates/2007/press.html | title=The Nobel Prize in Physics 2007 | publisher=Royal Swedish Academy of Sciences | date=2007-10-09}}
+*{{cite journal | last=Fert | first=Albert | coauthors=''et al.'' | title=Giant Magnetoresistance of (001)Fe/(001)Cr Magnetic Superlattices | journal= Physical Review Letters | volume=61  | issue=21 | pages=2472–2475 | month=November | year=1988 | url=http://link.aps.org/doi/10.1103/PhysRevLett.61.2472  | accessdate=2007-10-09 | doi=10.1103/PhysRevLett.61.2472}}
+
+==External links==
+*[http://www.trt.thalesgroup.com/ump-cnrs-thales Unité Mixte de Physique CNRS/Thales official website] 
+
+{{Wolf Prize in Physics}}
+{{Nobel Prize in Physics Laureates 2001-2025}}
+
+{{DEFAULTSORT:Fert, Albert}}
+[[Category:Alumni of the École Normale Supérieure]]
+[[Category:French Nobel laureates]]
+[[Category:French physicists]]
+[[Category:Japan Prize laureates]]
+[[Category:Nobel laureates in Physics]]
+[[Category:University of Paris alumni]]
+[[Category:Michigan State University faculty]]
+[[Category:Wolf Prize in Physics laureates]]
+[[Category:People from Aude]]
+[[Category:1938 births]]
+[[Category:Living people]]
+
+[[ar:البرت فير]]
+[[bg:Албер Фер]]
+[[ca:Albert Fert]]
+[[cs:Albert Fert]]
+[[de:Albert Fert]]
+[[es:Albert Fert]]
+[[eo:Albert Fert]]
+[[fa:آلبر فر]]
+[[fr:Albert Fert]]
+[[ko:알베르 페르]]
+[[id:Albert Fert]]
+[[it:Albert Fert]]
+[[ka:ალბერ ფერი]]
+[[ht:Albert Fert]]
+[[ku:Albert Fert]]
+[[la:Albertus Fert]]
+[[lv:Albērs Fērs]]
+[[mr:आल्बर्ट फर्ट]]
+[[nl:Albert Fert]]
+[[ja:アルベール・フェール]]
+[[no:Albert Fert]]
+[[pl:Albert Fert]]
+[[pt:Albert Fert]]
+[[ro:Albert Fert]]
+[[ru:Фер, Альбер]]
+[[scn:Albert Fert]]
+[[simple:Albert Fert]]
+[[sk:Albert Fert]]
+[[sl:Albert Fert]]
+[[sr:Албер Фер]]
+[[sh:Albert Fert]]
+[[fi:Albert Fert]]
+[[sv:Albert Fert]]
+[[ta:ஆல்பெர்ட் ஃவெர்ட்]]
+[[th:อัลเบิร์ต เฟิร์ต]]
+[[tr:Albert Fert]]
+[[vi:Albert Fert]]
+[[zh:阿尔贝·费尔]]

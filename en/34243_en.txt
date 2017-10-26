@@ -1,0 +1,169 @@
+{{otherusesof}}
+{{Refimprove|article|date=January 2007}}
+{{wiktionarypar2|Y|y}}
+{{Latin alphabet navbox|uc=Y|lc=y}}
+The letter '''Y''' is the twenty-fifth and penultimate letter in the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈwaɪ}}) is spelled '''wye''' or occasionally '''wy''', plural '''wyes.'''<ref>"Y" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "wy," op. cit.</ref>
+==History==
+[[Image:Proto-semiticW-01.png|right]]
+The original ancestor of Y was the Semitic letter ''[[Waw (letter)|Waw]]'', which was also the ultimate origin of the modern letters [[F]], [[U]], [[V]], and [[W]]. See [[F]] for details.
+
+In [[Ancient Greek]], Υ (''[[Upsilon]]'') represented {{IPA2|/u/}}, and was borrowed by the [[Ancient Rome|Romans]] as the letter V to represent both the vowel {{IPA|/u/}} and the consonant {{IPA|/w/}}. In later times, the pronunciation of the Greek letter shifted to {{IPA|/y/}}, and the Romans borrowed it again, as Y, to represent the new sound &mdash; mainly in names and words taken from Greek.
+
+The letter Y was used in [[Old English language|Old English]], as in [[Latin]], to represent {{IPA|/y/}}; however, some claim that this use was a type-setters' substitution for an old [[Anglo-Saxon futhorc|runic letter]] ''[[Yogh]]'', unrelated to the Latin use of the letter. Regardless, it is fairly likely that the letter, although technically named ''Y Græca'' ({{pron|ˈuː ˈɡraɪka}}) "Greek u" in contradistinction from native Latin {{IPA|/uː/}}, came to be analyzed as the letter [[V]] (called {{IPA|/uː/}}) atop the letter [[I]] (called {{IPA|/iː/}}). Such an analysis is made explicit in the [[First Grammatical Treatise]]. The letter was thus referred to as {{IPA|/uː iː/}},{{Fact|date=May 2009}} which fused to {{IPA|/wiː/}} and after English's [[Great Vowel Shift]] became {{IPA|/waɪ/}}.
+
+By [[Middle English]], {{IPA|/y/}} had lost its [[roundedness]] and merged with {{IPA|/i/}}, and Y came to be used with the same values as I, {{IPA|/iː/}} and {{IPA|/ɪ/}} as well as {{IPA|/j/}}. Those dialects that retained {{IPA|/y/}} spelled it with U, under French influence.
+
+The [[Modern English]] use of Y is a direct continuation of this Middle English use, although eventually vocalic Y became essentially restricted to three contexts: word-final (e.g. ''city''; cf. the plural ''cities''); representing upsilon in borrowings from Greek (e.g. ''system''); and in some words from monosyllabic stems before a vowel (e.g. ''rye'', and ''dying''.)<ref>C. M. Millward, ''A Biography of the English Language'' 2nd ed., Wadsworth (1996), p. 159, ISBN 0-1550-1645-8.</ref>. Y remains the standard spelling of the consonant {{IPA|/j/}}.
+
+Thus the words ''myth'' [of Greek origin] and ''gift'' [of Old English origin],
+which originally contained high front rounded vowels, both have {{IPA|[ɪ]}}.
+
+With the introduction of printing, the letter Y was used by [[William Caxton|Caxton]] and other printers in [[England]] to represent the [[thorn (letter)|letter thorn]] (Þ, þ) which was lacking from continental [[typeface]]s, resulting in the use of ''ye'' for the word ''the''. The pronunciation always remained {{IPA|/ði/}} (stressed), {{IPA|/ðə/}} (unstressed); the occasionally encountered {{IPA|/ji/}} is purely a modern [[spelling pronunciation]].
+
+==Usage==
+In Spanish, Y is called ''i/y griega'', in Catalan ''i grega'', in French and Romanian ''i grec'', in Polish ''igrek'' - all meaning "Greek i" (except for Polish, where it is simply a phonetic transcription of the French name); in most other European languages the Greek name is still used; in German, for example, it is called ''Ypsilon'' (or also sometimes spelt "Üpsilon") and in Portuguese and Italian it's called ''ípsilon'' or ''ípsilo'' (although in Portuguese there is also the name "Greek i"). [http://www.omniglot.com/writing/portuguese.htm] The letter Y was originally established as a vowel. In the standard English language, the letter Y is traditionally regarded as a consonant, but a survey of almost any English text will show that Y more commonly functions as a vowel. In many cases, it is known as a [[semivowel]].
+
+After fronting from {{IPA|/u/}}, [[Greek language|Greek]] {{IPA|/y/}} de-rounded to {{IPA|/i/}}.
+
+In [[English language|English]] [[morphology (linguistics)|morphology]], ''-y'' is a [[diminutive]] suffix.
+
+===Other Germanic and Scandinavian Languages===
+When not serving as the second vowel in a [[diphthong]], it has the sound value {{IPA|/y/}} in the [[Scandinavian language]]s and {{IPA|/ʏ/}} in [[German language|German]]. Y can never be a consonant (except for [[loanword]]s), but in diphthongs, as in the name Meyer, it serves as a variant of "i". 
+
+In [[Dutch language|Dutch]], Y appears only in [[loanword]]s and names and usually represents {{IPA|/i/}}. It is often left out of the Dutch alphabet and replaced with the "[[IJ (digraph)|ligature IJ]]". In [[Afrikaans language|Afrikaans]], a development of Dutch, Y denotes the diphthong [ɛi], probably as a result of mixing lower case i and y or may derive from the IJ ligature.
+
+===Spanish===
+In the [[Spanish language]], Y was used as a word-initial form of I that was more visible. (German has used [[J]] in a similar way.) Hence "el yugo y las flechas" was a symbol sharing the initials of [[Isabella I of Castille]] (''Ysabel'') and [[Ferdinand II of Aragon]]. This spelling was reformed by the [[Royal Spanish Academy]] and currently is only found in proper names spelt archaically, such as [[Ybarra]] or [[CYII]], the symbol of the [[Canal de Isabel II]]. [[X]] is also still used in Spanish with a different sound in some archaisms.
+
+Appearing alone as a word, the letter Y is a [[grammatical conjunction]] with the meaning "and" in [[Spanish language|Spanish]] and is pronounced {{IPA|/i/}}.
+In [[Spanish name|Spanish family name]]s, ''y'' can separate the father's surname from the mother's surname as in "[[Santiago Ramón y Cajal]]"; another example is "Maturin y Domanova", from the [[Jack Aubrey]] [[novel]] sequence. Catalan names use ''i'' for this. Otherwise, Y represents {{IPA|/[[ʝ]]/}} in Spanish. When coming before the sound {{IPA|/i/}}, Y is replaced with E: "español e inglés". This is to avoid pronouncing {{IPA|/i/}} twice.
+
+The letter Y is called "i/y griega", "Greek I", after the Greek letter [[ypsilon]]. Although in disuse nowadays, it was also called "ye", pronounced {{IPA|/ʝe/}}.
+
+===Other languages===
+[[Italian language|Italian]], too, has Y (''i greca'' or ''ipsilon'') in a small number of loanwords.
+
+In [[Polish language|Polish]] and [[Guaraní language|Guaraní]], it represents the [[close central unrounded vowel]] (IPA: /ɨ/)
+
+In [[Finnish language|Finnish]] and [[Albanian language|Albanian]], Y is always pronounced {{IPA|/y/}}.
+
+In [[Lithuanian Language|Lithuanian]] Y is the 15th letter and is a vowel. It is called ''the long i'' and is pronounced /i:/ like in English ''see''.
+
+In [[Faroese language|Faroese]] and [[Icelandic language|Icelandic]], it's always pronounced {{IPA|i}}. It can also be the part of diphthongs: ey and oy (Faroese only).
+
+In contrast, in the Latin transcription of [[Nenets language|Nenets]] (''Nyenec'') the letter "y" [[palatalization|palatalizes]] the preceding consonant. The letter Y shows how letters change their function.
+
+When used as a vowel in [[Vietnamese language|Vietnamese]], the letter ''y'' represents the [[close front unrounded vowel]]. When used as a monophthong, it is functionally equivalent to the Vietnamese letter ''i''. Thus, ''Mỹ Lai'' does not rhyme but ''mỳ Lee'' does. There have been efforts to replace all such uses with ''i'' altogether, but they have been largely unsuccessful, as a consonant, it represents the [[palatal approximant]].
+
+In [[English Language|English]], [[French Language|French]], [[Spanish Language|Spanish]], [[Aymara language|Aymara]], [[Turkish language|Turkish]], [[Quechua]], [[Japanese Language|Japanese]], [[Chinese Language|Chinese]] all [[Indian Languages]], all [[Semitic Languages]], Y is a [[Palatal consonant]], always denoting [[J (IPA)|/j/]]
+
+==Significance in the IPA==
+In the [[help:IPA|International Phonetic Alphabet]], {{IPA|[y]}} corresponds to the [[close front rounded vowel]], and the slightly different character {{IPA|[ʏ]}} corresponds to the [[near-close near-front rounded vowel]].
+
+It is indicative of the rarity of front rounded vowels that {{IPA|[y]}} is the rarest sound represented in the IPA by a letter of the Latin alphabet, being cross-linguistically less than half as frequent as [[voiceless uvular plosive|{{IPA|[q]}}]] or [[voiceless palatal plosive|{{IPA|[c]}}]] and only about a quarter as frequent as [[voiceless velar fricative|{{IPA|[x]}}]].
+
+==Codes for computing==
+{{Letter
+|NATO=Yankee
+|Morse=–·––
+|Character=Y
+|Braille=⠽
+}}
+
+In [[Unicode]] the [[majuscule|capital]] Y is codepoint U+0059 and the [[lower case]] y is U+0079.
+
+The [[ASCII]] code for capital Y is 89 and for lowercase y is 121; or in [[Binary numeral system|binary]] 01011001 and 01111001, correspondingly.
+
+The [[EBCDIC]] code for capital Y is 232 and for lowercase y is 168.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#89;</tt>" and "<tt>&amp;#121;</tt>" for upper and lower case respectively.
+
+==See also==
+{{Commons|Y}}
+*{{Unicode|[[Υ|Υ, υ]]}}, the Greek upsilon
+*{{Unicode|[[У|У, у]]}}, the Cyrillic U
+*{{Unicode|[[Ы|ы, ы]]}}, the Cyrillic Yeru
+*{{Unicode|[[Ү|Ү, ү]]}}, the Cyrillic Ue (Straight U)
+*{{Unicode|[[¥]]}}, a currency symbol
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|Y|}}
+
+[[Category:Latin letters]]
+[[Category:Vowel letters]]
+
+[[af:Y]]
+[[als:Y]]
+[[ar:Y]]
+[[arc:Y]]
+[[ast:Y]]
+[[az:Y]]
+[[zh-min-nan:Y]]
+[[br:Y (lizherenn)]]
+[[ca:Y]]
+[[cs:Y]]
+[[co:Y]]
+[[cy:Y]]
+[[da:Y]]
+[[de:Y]]
+[[et:Y]]
+[[el:Y]]
+[[es:Y]]
+[[eo:Y]]
+[[eu:Y]]
+[[fa:Y]]
+[[fr:Y (lettre)]]
+[[fy:Y]]
+[[fur:Y]]
+[[gv:Yiarn (lettyr)]]
+[[gd:Y]]
+[[gl:Y]]
+[[gan:Y]]
+[[ko:Y]]
+[[hr:Y]]
+[[ilo:Y]]
+[[is:Y]]
+[[it:Y]]
+[[he:Y]]
+[[ka:Y]]
+[[kw:Y]]
+[[sw:Y]]
+[[ht:Y]]
+[[la:Y]]
+[[lv:Y]]
+[[lt:Y]]
+[[hu:Y]]
+[[mk:Y (Латиница)]]
+[[mzn:Y]]
+[[ms:Y]]
+[[nah:Y]]
+[[nl:Y (letter)]]
+[[ja:Y]]
+[[no:Y]]
+[[nn:Y]]
+[[nrm:Y]]
+[[uz:Y (harf)]]
+[[pl:Y]]
+[[pt:Y]]
+[[ro:Y]]
+[[qu:Y]]
+[[ru:Y (латиница)]]
+[[stq:Y]]
+[[simple:Y]]
+[[sk:Y]]
+[[sl:Y]]
+[[fi:Y]]
+[[sv:Y]]
+[[tl:Y]]
+[[th:Y]]
+[[tr:Y (harf)]]
+[[uk:Y (латиниця)]]
+[[vi:Y]]
+[[vo:Y]]
+[[yi:Y]]
+[[yo:Y]]
+[[zh-yue:Y]]
+[[bat-smg:Y]]
+[[zh:Y]]

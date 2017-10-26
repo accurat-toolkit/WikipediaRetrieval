@@ -1,0 +1,122 @@
+{{Otheruses}}
+
+A '''metropolis''' is a big [[city]], in most cases with over half a million inhabitants in the city proper, and with a population of at least one million living in its [[Agglomeration|urban agglomeration]].{{Citation needed|date=September 2009}} Big cities belonging to a larger urban agglomeration, but which are not the core of that agglomeration, are not generally considered a metropolis but a part of it. A metropolis is usually a significant [[economical]], [[political]] and [[cultural]] center for some [[country]] or [[region]], and an important hub for regional or international connections and communications. The plural of the word is most commonly ''metropolises'', though ''metropoleis'' is sometimes used as well.
+
+In a broader sense, it refers to the city or state of origin of a [[colony]] (as of [[ancient Greece]]), a city regarded as a center of a specified activity, or a large important city.
+
+== Antiquity ==
+
+In the past, ''metropolis'' was the designation for a city or state of origin of a [[colony]]. Many large cities founded by ancient civilizations have been considered important world metropolises of their times due to their large populations and importance. Examples include [[Alexandria]], [[Angkor]], [[Antioch]], [[Athens]], [[Babylon]], [[Baghdad]], [[Beirut]], [[Benares]], [[Byblos]], [[Cahokia]], [[Carthage]], [[Constantinople]], [[Corinth]], [[Damascus]], [[Dholavira]], [[Ephesus]], [[Great Zimbabwe]], [[Harappa]], [[Jerusalem]], [[Leptis Magna]], [[Nanjing]], [[Nineveh]], [[Macchu Picchu]], [[Mohenjo-Daro]], [[Rome]], [[Sarai (city)|Sarai]], [[Side]], [[Siracuse]], [[Tenochtitlan]], [[Teotihuacan]], [[Tikal]], [[Tyre, Lebanon|Tyre]], [[Xian]] and [[Ur]]. Some of these ancient metropolises survived until the modern days and are among the [[List of oldest continuously inhabited cities|world's oldest continuously inhabited cities]].
+
+== Etymology and modern usage ==
+
+The word comes from the Greek μήτηρ, ''mētēr'' meaning "mother" and πόλις, ''pólis'' meaning "city"/"town", which is how the [[Greek colonies]] of antiquity referred to their original cities, with whom they retained cultic and political-cultural connections. The word was used in post-classical Latin for the chief city of a province, the seat of the government and, in particular, ecclesiastically for the seat or see of a [[metropolitan bishop]] to whom [[suffragan bishop]]s were responsible. This usage equates the province with the [[diocese]] or [[episcopal see]].
+
+In modern usage the word is also used for a [[metropolitan area]], a set of adjacent and interconnected [[cities]] clustered around a major urban center. In this sense ''metropolitan'' usually means "spanning the whole metropolis" (as in "metropolitan administration"); or "proper of a metropolis" (as in "metropolitan life", and opposed to "[[Province|provincial]]" or "rural").
+
+== Global cities ==
+
+The concept of a [[Global city]] (or a World city) means a city that has a direct and tangible effect on global affairs through socioeconomic means. The term has become increasingly familiar, because of the rise of [[globalization]] (i.e., [[global finance]], [[communication]]s, and [[travel]]). An attempt to define and categorize world cities by financial criteria was made by the Globalization and World Cities Study Group & Network (GaWC), based primarily at [[Loughborough University]] in England. The study ranked cities based on their provision of "advanced producer services" such as [[accountancy]], [[advertising]], [[finance]] and [[law]]. The Inventory identifies three levels of world cities and several sub-ranks (''see [[Global city#GaWC Inventory of World Cities|World cities ranking]]'').
+
+A metropolis is not necessarily a global city—or, being one, it could not be among the top-ranking—due to its standards of living, development, and infrastructures.
+
+== Local definitions by country ==
+=== Canada ===
+
+[[Statistics Canada]] defines a [[census metropolitan area]] as one or more adjacent municipalities situated around a major urban core where the urban core has a population of at least 100,000.<ref>[http://www12.statcan.ca/english/census01/products/reference/dict/geo009.htm Geographic Units: Census Metropolitan Area (CMA) and Census Agglomeration (CA)]</ref>
+
+=== India ===
+
+In the Republic of India, the Census Commission defines a metropolitan city as one having a population of over 40 lakh (4 million).<ref>[http://www.hinduonnet.com/2001/04/07/stories/0207000q.htm Ahmedabad yet to become mega city]</ref> [[Mumbai]], [[Delhi]], [[Chennai]], [[Kolkata]], [[Bangalore]], [[Hyderabad, Andhra Pradesh|Hyderabad]], and [[Ahmedabad]] are the seven cities that qualify. Residents of these cities are also entitled to a higher house-rent allowance. The figure only applies to the city region and not the conurbation.
+
+=== Italy ===
+
+With the 2001 reform of the Title V of the Constitution of Italy, the Italian republic has provided for the institution of ''Aree Metropolitane''. ''Aree Metropolitane'' will be instituted at least for the major conurbations of [[Rome]] and [[Milan]], but, {{As of|2009|January|lc=on}}, it is yet unclear whether the ''Aree Metropolitane'' will replace Provinces, or just be added to the older administrative subdivisions.
+
+=== Japan ===
+
+The Japanese legal term ''to'' (都) is commonly translated as "metropolis".<ref>{{cite web
+|url=http://www.jlgc.org/en/pdf/localg2006.PDF
+|title=Local Government in Japan
+|accessdate=2007-10-16
+|publisher=Council of Local Authorities for International Relations
+|format=PDF
+|pages=41
+}}</ref> Structured like a [[Prefectures of Japan|prefecture]] instead of a normal city, there is only one ''to'' in Japan, namely [[Tokyo]]. {{As of|2008}}, Japan has [[List of Japanese cities by population|11 other cities]] with populations greater than one million.
+
+=== United Kingdom ===
+
+Various [[conurbation]]s in the United Kingdom are considered to be metropolitan areas (see [[Metropolitan county]]). The term ''Metropolis'' itself is rarely used. [[London]] is archaically referred to as "the Metropolis", which is only retained by the London police force, the [[Metropolitan Police Service]].
+
+=== United States ===
+
+In the United States an [[Incorporation (municipal government)|incorporated]] area or group of areas having a population more than 50,000 is required to have a [[metropolitan planning organization]] in order to facilitate major infrastructure projects and to ensure financial solubility. Thus, a population of 50,000 or greater has been used as a [[de facto]] standard in the United States to define a metropolis. A similar definition is used by the [[United States Census Bureau]]. They define a [[Metropolitan Statistical Area|metropolitan statistical area]] as ''at least one urbanized area of 50,000 or more inhabitants''.
+
+== Metropolis as a mainland area ==
+
+{{Main|Metropole}}
+
+In France, Portugal and Spain, ''metropolis'' (''métropole'' (Fr.) / ''metrópole'' (Port.) / ''metrópoli'' (Spa.)) designates the mainland part of a country near or on the European continent; in the case of France, this would mean France without its [[Département d'outre-mer|overseas departments]]; for Portugal and Spain during the [[Spanish Empire]] and [[Portuguese Empire]] period, it used to be common to designate Portugal or Spain except its colonies (the ''Ultramar''). In France ''metropolis'' is also used to refer to large agglomerations.
+
+== See also ==
+
+; Other city types
+* [[Global city]]
+* [[Megacity]]
+* [[Megalopolis (city type)|Megalopolis]]
+
+; Lists
+* [[List of metropolitan areas by population]]
+
+; Planning theories
+* [[New Urbanism]]
+* [[Smart growth]]
+* [[Transit-oriented development]]
+
+; Other
+* [[Ekistics]]
+* [[Large Cities Climate Leadership Group]]
+* [[Metropolis (comics)]]
+* [[Sustainable city]]
+* [[World's largest cities]]
+
+== Notes and references ==
+
+{{reflist}}
+
+* Allen J. Scott (ed.) ''Global City Regions: Trends, Theory, Policy'', Oxford University Press (2001).
+* Monti, Daniel J., Jr., ''The American City: A Social and Cultural History''. Oxford, England and Malden, Massachusetts: Blackwell Publishers, 1999. 391 pp.&nbsp;ISBN 978-1-55786-918-0.
+
+== External links ==
+
+{{Wikisource1911Enc|metropolis}}
+* [http://www.census.gov/population/www/estimates/aboutmetro.html '''U.S. Census Bureau''': ''About Metropolitan and Micropolitan Statistics'']
+* [http://www.blog.ar2com.de/megalopolis/ '''Megalopolis, my Arcadia'''], a podcast with a worldwide analysis of megacities (focus Latin America)
+
+[[Category:Urban geography]]
+[[Category:Demographics]]
+[[Category:Lists of cities]]
+[[Category:Greek colonization]]
+
+[[cs:Metropole]]
+[[da:Storby]]
+[[de:Metropole]]
+[[et:Suurlinn]]
+[[el:Μητρόπολη]]
+[[eo:Metropolo]]
+[[fa:کلان‌شهر]]
+[[fr:Métropole]]
+[[gd:Àrd-bhaile]]
+[[ko:메트로폴리스]]
+[[it:Metropoli]]
+[[lv:Metropole]]
+[[nah:Āltepēnānyōtl]]
+[[nl:Metropool (stad)]]
+[[ja:メトロポリス]]
+[[no:Metropol]]
+[[pt:Metrópole]]
+[[sk:Metropola]]
+[[sl:Velemesto]]
+[[th:มหานคร]]
+[[tr:Metropol]]
+[[uk:Метрополія]]

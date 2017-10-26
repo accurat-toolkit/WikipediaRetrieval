@@ -1,0 +1,160 @@
+{{Taxobox
+| name = European Robin
+| status = LC
+| status_system = iucn3.1
+| status_ref =
+<ref name = IUCN>{{IUCN2006|assessors=BirdLife International|year=2004|id=51734|title=Erithacus rubecula|downloaded=12 May 2006}} Database entry includes a brief justification of why this species is  of least concern</ref>
+| image = Erithacus rubecula -Cheshire -England-8.jpg
+| image_caption = Adult in Cheshire, England<br/>(''E. r. melophilus'')
+| regnum = [[Animal]]ia
+| phylum = [[chordate|Chordata]]
+| classis = [[bird|Aves]]
+| ordo = [[passerine|Passeriformes]]
+| familia = [[Old World flycatcher|Muscicapidae]]
+| genus = ''[[Erithacus]]''
+| species = '''''E. rubecula'''''
+| binomial = ''Erithacus rubecula''
+| binomial_authority = ([[Carolus Linnaeus|Linnaeus]], 1758)
+| subdivision_ranks = [[Subspecies]]
+| subdivision = 7-10, see text.
+}}
+The '''European Robin''' ('''''Erithacus rubecula'''''), also known as a '''ruddock''', '''robinet''', or (in [[English-speaking world|Anglophone]] [[Europe]]) simply '''robin''', is a small [[insectivorous]] [[passerine]] [[bird]] that was formerly classed as a member of the [[Thrush (bird)|thrush]] family (Turdidae), but is now considered to be an [[Old World flycatcher]] (Muscicapidae). Around 12.5&ndash;14.0&nbsp;cm (5.0&ndash;5.5&nbsp;in) in length, the male and female are similar in colouration, with an orange breast and face lined with grey, brown upperparts and a whitish belly. It is found across Europe, east to Western Siberia and south to North Africa; it is sedentary in most of its range except the far north.
+
+The term ''Robin'' is also applied to some unrelated birds with red breasts. These include the [[American Robin]] (''Turdus migratorius''), which is a thrush, and the Australian red robins of the genus ''[[Petroica]]'', which are more closely related to [[Corvida|crows]].
+
+==Taxonomy==
+The European Robin was one of the many species originally described by [[Carolus Linnaeus|Linnaeus]] in his 18th century work, ''[[Systema Naturae]]'', under the name of ''Motacilla rubecula''.<ref>{{cite book | last=Linnaeus | first=C | authorlink=Carolus Linnaeus | title=Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio decima, reformata. | publisher=Holmiae. (Laurentii Salvii). | date=1758| pages= 188| language = Latin |quote = M. grisea, gula pectoreque fulvis. }}</ref> Its specific epithet ''rubecula'' is a diminutive derived from the [[Latin]] ''ruber'' 'red'.<ref>{{cite book | last = Simpson | first = D.P. | title = Cassell's Latin Dictionary | publisher = Cassell Ltd. | date = 1979 | edition = 5 | location = London | pages = 883 | isbn = 0-304-52257-0}}</ref> The genus ''[[Erithacus]]'' was created by French naturalist [[Georges Cuvier]] in 1800, giving the bird its current [[Binomial nomenclature|binomial name]] of ''E. rubecula''.<ref name=Cuvier>{{fr icon}} Cuvier, G. (1800) ''Lecons d'Anatomie Comparée'' Paris.</ref>
+
+The distinctive red breast of both sexes led to the European Robin's original name of ''redbreast''. In the fifteenth century, when it became popular to give human names to familiar species, the bird came to be known as ''Robin redbreast'', which was eventually shortened to ''Robin''.<ref>{{cite book | last = Lack| first = D. | title = Robin Redbreast | publisher = Oxford, Clarendon Press | date = 1950 | location = Oxford | pages = 44}}</ref> In American literature of the late 19th century, this robin was frequently called the ''English Robin''.<ref>{{cite book | last = Sylvester | first = Charles H. | title = Journeys Through Bookland | publisher = BiblioBazaar, LLC | date = 2006 | pages = 155 | isbn = 1426421176}}</ref> The [[Frisian language|Frisian]] ''robyntsje'' or ''robynderke'' is similar to the English name,<ref name=OED>{{Cite encyclopedia| title=Robin|encyclopedia=Oxford English Dictionary|editor=J. Simpson, E. Weiner (eds)| year=1989 |edition= 2nd edition| location=Oxford |publisher=Clarendon Press|id= ISBN 0-19-861186-2}}</ref> while Dutch ''Roodborstje'' and French ''Rougegorge'' both refer to the distinctive red front.<ref>{{cite book |title=Bird Spotting|author=Holland J |year=1965|publisher=Blandford |location=London |isbn= |pages=225}}</ref>
+
+The Robin belongs to a group of mainly [[insectivorous]] birds that have been variously assigned to the thrushes or "[[Old World flycatcher|flycatchers]]", depending on how these groups were perceived [[taxonomically]]. Eventually, the flycatcher-thrush assemblage was re-analysed and the genus ''[[Erithacus]]'' assigned to a group of thrush-like true flycatchers, the tribe Saxicolini, that also includes the [[nightingale]] and the [[Chat (bird)|Old World chats]].<ref>{{cite book |title=A World Checklist of Birds |author=Monroe Jr. BL, Sibley CG |year=1993 |publisher=Yale University Press |location=New Haven and London |isbn=0-300-05549-8|pages=228}}</ref> 
+
+Two Eastern [[Palearctic]] species are usually placed in the genus ''Erithacus'', the [[Japanese Robin]] (''E. akahige'') and the [[Ryūkyū Robin]] (''E. komadori''), the latter being a restricted-range island species. [[Biogeography]] and [[mtDNA]] [[cytochrome b|cytochrome ''b'']] [[DNA sequence|sequence]] data indicate that these might better be classified with some [[Far East]]ern "nightingales", leaving only the European species in ''Erithacus''.<ref name = Seki>Seki, Shin-Ichi (2006): The origin of the East Asian ''Erithacus'' robin, ''Erithacus komadori'', inferred from cytochrome ''b'' sequence data. ''Molecular Phylogenetics and Evolution'' '''39'''(3): 899–905. {{DOI|10.1016/j.ympev.2006.01.028}}</ref>
+
+===Subspecies===
+In its large continental Eurasian range, Robins vary somewhat, but do not form discrete populations that might be considered [[subspecies]].<ref name= Dietzen>Dietzen, C.; Witt, H.-H. & Wink, M. (2003): [http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/2003/3.2003.pdf The phylogeographic differentiation of the robin ''Erithacus rubecula'' on the Canary Islands revealed by mitochondrial DNA sequence data and morphometrics: evidence for a new robin taxon on Gran Canaria?] ''Avian Science'' '''3'''(2-3): 115-131.</ref><ref name=Patzold95>{{de icon}}{{cite book |title=Das Rotkehlchen ''Erithacus rubecula''. Neue Brehm-Bücherei |author=Pätzold R|year=1995 |publisher= Westarp Wissenschaften/Spektrum |location=Magdeburg/Heidelberg |isbn=3-89432-423-6}}</ref> Thus, Robin subspecies are mainly distinguished by forming resident populations on islands and in mountainous areas.
+
+[[Image:Erithacus-rubecula-melophilus Dublin-Ireland.jpg|thumb|The British subspecies, ''Erithacus rubecula melophilus'', differs only slightly from Continental birds.]]
+The Robin from the [[British Isles]] (''Erithacus rubecula melophilus'') also occurs on the Continental side of the [[English channel]] and as a vagrant in adjacent regions. ''E. r. witherbyi'' from Northwestern [[Africa]], [[Corsica]], and [[Sardinia]] closely resembles ''melophilus'' but for a shorter wing length.<ref name=Lack46>{{ cite journal |author=Lack D | year =1946| title =The Taxonomy of the Robin, ''Erithacus rubecula'' (Linnaeus) | journal =Bulletin of the British Ornithologists' Club| volume =66 |pages =55–64}}</ref> The northeasternmost birds, large and fairly washed-out in colour are ''E. r. tataricus''. In the southeast of its range, ''E. r. valens'' of the [[Crimean Peninsula]], ''E. r. caucasicus'' of the Caucasus and N [[Transcaucasia]], and ''E. r. hyrcanus'' southeastwards into [[Iran]] are generally accepted as significantly distinct.<ref name=Lack46/>
+
+On [[Madeira]] and the [[Azores]], the local population has been described as ''E. r. microrhynchos'', and although not distinct in [[Morphology (biology)|morphology]], its isolation seems to suggests the subspecies is valid (but see below). The most distinct birds are those of [[Tenerife]] and [[Gran Canaria]] (''E. (r.) superbus''), which may be a distinct species, the Tenerife Robin, ''Erithacus superbus''. It is readily distinguished by a white eye-ring, an intensely coloured breast, and a grey line that separates the orange-red from the brown colouration. Its belly is entirely white.<ref>{{cite book |title=Handbook of the Birds of Europe, the Middle East and North Africa. The Birds of the Western Palearctic. Volume V. Tyrant Flycatchers to Thrushes |author=Cramp S (ed.)|year=1988 |publisher=Oxford University Press |location=Oxford |isbn=0198575084 |pages= }}</ref> Robins from the western [[Canary Islands]] – [[El Hierro]], [[La Palma]] and [[La Gomera]] – on the other hand are indistinguishable from European ''E. r. rubecula''.<ref name=Lack46/> While cytochrome ''b'' sequence data and vocalisations<ref name = Bergmann>Bergmann, H. H. & Schottler, B. (2001): Tenerife robin ''Erithacus (rubecula) superbus'' - a species of its own? ''[[Dutch Birding]]'' '''23''': 140–146.</ref> indicate that the Tenerife/Gran Canaria Robins are indeed very distinct and probably derived from colonization by mainland birds some 2 [[mya (unit)|million years ago]],<ref>Although Dietzen ''et al.'' (2003) conclude that both Tenerife and Gran Canaria populations are independently derived from mainland populations and should constitute two species or all be placed in ''E. rubecula'' as subspecies, their data does not allow for a definite conclusion. The alternative explanation – that Tenerife was colonized by already-distinct Gran Canaria robins – has not been explored and the proposed model relies only on [[probabilistic]] [[inference]]. Likewise, the seemingly exact molecular dating is doubtful as it assumes a [[molecular clock]] that may or may not be correct, and of course the assumption that the ancestor of all robins was similar in colouration to ''superbus'' and not the Continental birds is, being inferred from their model of colonization, entirely conjectural.</ref> The W Canary Islands populations are younger ([[Middle Pleistocene]]) and only beginning to diverge genetically. In addition, Tenerife and Gran Canaria birds are well distinct genetically and the latter have been named ''E. (r.) marionae''; a thorough comparison between ''superbus'' and ''marionae'' is pending. Initial results suggest that Gran Canaria birds have distinctly shorter (c.10%) wings than Tenerife ''superbus''.<ref name=Dietzen/>
+
+===Other robins===
+The larger [[American Robin]] (''Turdus migratorius'') is named for its similarity to the European Robin, but the two birds are not closely related. The similarity lies largely in the [[Orange (colour)|orange]] chest patch in both species. This American species was incorrectly shown "feathering its nest" in [[London]] in the film ''[[Mary Poppins (film)|Mary Poppins]]'',<ref name = imdb>{{cite web|title=Mary Poppins (1964)  |work= |url= http://www.imdb.com/title/tt0058331/goofs |publisher= IMDb |accessdate=2008-01-21}}</ref> but it only occurs in the UK  as a very rare vagrant.<ref>[http://www.yorkshiretoday.co.uk/ViewArticle2.aspx?SectionID=55&ArticleID=1997214 "Village braced for invasion of twitchers as rare visitor flies in"], John Roberts, Yorkshire Post, 26 January 
+</ref> Some Central and South American ''Turdus'' thrushes are also named as robins such as the [[Mountain Robin]] (''T. plebejus'').<ref name= Clement >{{cite book |title=Thrushes (Helm Identification Guides)  |last= Clement |first= Peter |coauthors= Hathway, Ren;  Wilczur, Jan |publisher=Christopher Helm Publishers Ltd|year=2000 |isbn= 0-7136-3940-7}}</ref> The [[Australia]]n "robin redbreast", more correctly the [[Scarlet Robin]] (''Petroica multicolor''), is more closely related to the [[crow]]s and [[jay]]s than it is to the European Robin. It belongs to the family [[Petroicidae]], commonly called "Australasian robins". The [[Red-billed Leiothrix]] (''Leiothrix lutea'') is sometimes named "Pekin Robin" by [[aviculture|aviculturalists]]. Yet another group of Old World Flycatchers, this time from Africa and Asia is the genus ''Copsychus''; its members are known as [[Magpie-robin]]s, one of which, the [[Oriental Magpie Robin]]  ''(C. saularis)'', is the national bird of Bangladesh.
+
+==Description==
+[[Image:Young-robin-lg-wikipedia.jpg|thumb|Juvenile]]
+The adult European Robin is 12.5&ndash;14.0&nbsp;cm (5.0&ndash;5.5&nbsp;in) long and weighs 16&ndash;22&nbsp;[[gram|g]] (9/16&ndash;13/16&nbsp;[[ounce|oz]]), with a wingspan of 20&ndash;22&nbsp;cm (8&ndash;9&nbsp;in). The male and female bear similar plumage; an orange-red breast and face (more strongly coloured in the otherwise similar British subspecies ''E. r. mesophilus''), lined by a bluish grey on the sides of the neck and chest. The upperparts are brownish, or olive-tinged in British birds, and the belly whitish, while the legs and feet are brown. The bill and eyes are black. Juveniles are a spotted brown and white in colouration, with patches of red gradually appearing.<ref name=RSPB>{{cite book |author= Hume R |title=RSPB Birds of Britain and Europe |year=2002 |publisher=Dorling Kindersley |pages = 263 |location=London |isbn=0-7513-1234-7}}</ref>
+
+===Vocalisations===
+The Robin has a fluting, warbling song in the breeding season, when they often sing into the evening, and sometimes into the night, leading some to confuse them with the [[Nightingale]] (''Luscinia megarhynchos''). Nocturnal singing in urban Robins occurs in places that are noisy during the day, suggesting that they sing at night because it is quieter, and their message can propagate through the environment more clearly. Daytime noise outperformed night-time light pollution as a predictor of nocturnal singing activity in urban robins in [[Sheffield]], England.<ref>{{cite journal |author=Fuller RA, Warren PH, Gaston KJ |year=2007|title=Daytime noise predicts nocturnal singing in urban robins. |journal=Biology Letters |volume=3 |pages=368–70 |doi=10.1098/rsbl.2007.0134}}</ref> Both the male and female sing during the winter, when they hold separate territories, the song then sounding more plaintive than the summer version.<ref name=RSPB/> The female Robin moves a short distance from the summer nesting territory to a nearby area that is more suitable for winter feeding.  The male Robin keeps the same territory throughout the year.
+
+==Distribution and habitat==
+The Robin occurs in Eurasia east to Western [[Siberia]], south to [[Algeria]] and on the [[Atlantic Ocean|Atlantic]] islands as far west as the [[Azores]] and [[Madeira]]. It is not found in [[Iceland]].<ref name=RSPB/> In the south east, it reaches the [[Caucasus]] range. [[Great Britain|British]] Robins are largely resident but a small minority, usually female, migrate to southern [[Europe]] during winter, a few as far as [[Spain]]. [[Scandinavia]]n and [[Russia]]n Robins migrate to Britain and western Europe to escape the harsher winters. These migrants can be recognised by the greyer tone of the upper parts of their bodies and duller orange breast. The  European Robin prefers spruce woods in northern Europe, contrasting with its preference for parks and gardens in the British Isles.<ref name=Jon78>{{cite book |title=Birds of Wood, Park and Garden |last=Jonsson |first=Lars|year=1976|publisher=Penguin |location=Middlesex, England |isbn=0-14-063002-3 |pages=90}}</ref>
+
+Attempts to introduce the European Robin into Australia and New Zealand in the latter part of the 19th century were unsuccessful. Birds were released around [[Melbourne]], [[Auckland]], [[Christchurch]], [[Wellington]] and [[Dunedin]] by various local [[Acclimatisation society|Acclimatisation societies]], with none becoming established. There was a similar  outcome in North America as birds failed to establish after being released in [[Long Island]], New York in 1852, [[Oregon]] in 1889-92, and the [[Saanich Peninsula]] in [[British Columbia]] in 1908-10.<ref>{{cite book |title=Introduced Birds of the World: The worldwide history, distribution and influence of birds introduced to new environments |last=Long |first=John L. |year=1981 |publisher=Reed |location=Terrey Hills, Sydney |isbn=0-589-50260-3|pages=309}}</ref>
+
+==Behaviour==
+[[Image:Robintitchwell82.jpg|thumb|Feeding from the hand]]
+The Robin is [[wikt:diurnal|diurnal]], although has been reported to be active hunting insects on moonlit nights or near artificial light at night.<ref name=Patzold95/> Well known to British and Irish gardeners, it is relatively unafraid of people and likes to come close when anyone is digging the soil, in order to look out for [[earthworm]]s and other food freshly turned up; when the gardener stops for a break the robin might use the handle of the spade as a lookout point. Indeed, the robin is considered by many to be a gardener's friend and for various [[folklore]] reasons the robin would never be harmed. In continental Europe on the other hand, robins were hunted and killed as most other small birds and are more wary.<ref name=RSPB/> Robins also approach large wild animals, such as [[wild boar]] and other animals which disturb the ground, to look for any food that might be brought to the surface. In autumn and winter, robins will supplement their usual diet of terrestrial invertebrates, such as spiders, worms and insects, with berries and fruit.<ref name=Jon78/> They will also eat seed mixtures placed on bird-tables.<ref name=RSPB/> 
+
+[[Image:RobinEgg.JPG|thumb|A robin's egg]]
+
+Male Robins are noted for their highly aggressive territorial behaviour. They will ruthlessly attack other males that stray into their territories, and have been observed attacking other small birds without apparent provocation. Such attacks sometimes lead to fatalities, accounting for up to 10% of adult Robin deaths in some areas.<ref name=RSPBterr>{{cite web |url=http://www.rspb.org.uk/wildlife/birdguide/name/r/robin/territory.asp |title= The RSPB-Robin:Territory|accessdate=2008-05-17|work=RSPB website}}</ref>
+
+Because of high mortality in the first year of life, a Robin has an average [[life expectancy]] of 1.1&nbsp;years; however, once past its first year it can expect to live longer and one Robin has been recorded as reaching the age of 12&nbsp;years.<ref>{{cite web |url=http://www.garden-birds.co.uk/information/lifespan.htm |title= British garden birds - lifespan |accessdate=2007-04-07 |year= |month= |publisher=garden-birds.co.uk}}</ref> Predators include the domestic cat, which kills 15 times as many birds as do birds of prey such as the owl or sparrowhawk. A spell of very low temperature in winter may also result in significant mortality.<ref name=RSPBterr>{{cite web |url=http://www.rspb.org.uk/wildlife/birdguide/name/r/robin/threats.asp |title= The RSPB-Robin:Threats|accessdate=2008-05-17|work=RSPB website}}</ref> 
+
+===Breeding===
+[[Image:RobinOnNest.JPG|thumb|Female robin in its nest, incubating a clutch of eggs]]
+[[Image:RobinChicks.JPG|thumb|Robin chicks]]
+
+Robins may choose a wide variety of sites for building a nest, in fact anything which can offer some form of depression or hole may be considered. As well as the usual crevices, or sheltered banks, odder objects include pieces of machinery, barbecues, bicycle handlebars, bristles on upturned brooms, discarded kettles, watering cans, flower pots and even hats. The nest is composed of moss, leaves and grass, with finer grass, hair and feathers for lining. Two or three clutches of five or six eggs are laid throughout the breeding season, which commences in March in [[United Kingdom|Britain]] and [[Ireland]]. The eggs are a cream, buff or white speckled or blotched with reddish-brown colour, often more heavily so at the larger end.<ref name=Observerbirdseggs>{{cite book |title=The Observer's Book of Birds' Eggs|author=Evans G|pages=85|year=1972 |publisher=Warne |location=London |isbn=0-7232-0060-2}}</ref> When juvenile birds fly from the nests they are mottled brown in colour all over and do not have a red breast.  After two to  three months out of the nest, the juvenile bird grows some reddish feathers under its chin and over a similar period this patch gradually extends to complete the adult appearance.
+
+==Cultural depictions==
+[[Image:RedbreastDE.jpg|thumb|1880 Engraving]]
+The robin features prominently in English folklore, and that of northweastern France, but much less so in other parts of Europe.<ref name=ingersoll167>Ingersoll, p. 167</ref> It was held to be a storm-cloud bird and sacred to [[Thor]], the god of thunder, in [[Norse mythology]].<ref name = "Cooper92"/> More recently, it has become strongly associated with [[Christmas]], taking a starring role on many a [[Christmas card]] since the mid-19th century.<ref name="deVries76">{{cite book |last=de Vries |first=Ad |title=Dictionary of Symbols and Imagery |year=1976 |pages=388–89|publisher=North-Holland Publishing Company |location=Amsterdam |isbn=0-7204-8021-3}}</ref> The Robin has also appeared on many Christmas postage stamps. An old [[England|English]] [[folk tale]] seeks to explain the Robin's distinctive red breast. Legend has it that when [[Jesus]] was dying on the cross, the Robin, then simply brown in colour, flew to his side and sang into his ear in order to comfort him in his pain. The blood from his wounds stained the Robin's breast, and thereafter all Robins got the mark of Christ's blood upon them.<ref name = "Cooper92">{{cite book |last=Cooper |first=JC |title=Symbolic and Mythological Animals |pages=194 |year=1992 |publisher= Aquarian Press |location=London |isbn=1-85538-118-4}}</ref> An alternate legend has it that its breast was scorched fetching water for souls in Purgatory.<ref name="deVries76"/> The association with Christmas, however, more probably arises from the fact that postmen in [[Queen Victoria|Victorian]] Britain wore red uniforms and were nicknamed "Robin"; the Robin featured on the Christmas card is an emblem of the postman delivering the card.<ref>{{cite web |url=http://www.bbc.co.uk/nature/reallywild/amazing/robin.shtml |title= BBC Science & Nature:Animals |accessdate=2008-01-03 |year= |month= |publisher=bbc.co.uk}}</ref> Robins also feature in the traditional children's tale, ''[[Babes in the Wood]]''; the birds cover the dead bodies of the children.<ref name="deVries76"/>
+
+In the 1960s in a highly publicised vote, the Robin was adopted as the national bird of the [[UK]]. Unlike other countries, official emblems such as flags and anthems become national by convention and usage (see [[Union Jack]] and [[God Save The Queen]]) rather than by vote in [[Parliament]]. The Robin was used as a symbol of a Bird Protection Society.<ref name = Scot>Public Petition Committee of the Scottish Parliament.  National Bird (PE783). 10 Nov 2004. [http://www.scottish.parliament.uk/business/committees/enterprise/papers-06/ecp06-25.pdf The Enterprise and Culture Committee of the Scottish Parliament Agenda (25th Meeting, session 2) on 31 Oct 2006]</ref>
+
+Several [[England|English]] and [[Wales|Welsh]] professional [[football (soccer)|football]] clubs  are nicknamed "The Robins"; [[Bristol City]], [[Swindon Town]], [[Cheltenham Town]] and, traditionally, [[Wrexham FC]]: the nickname is derived from the clubs' home colours being [[red]]. A small bird is an unusual choice, though it is thought to symbolise agility in darting around the field.<ref>{{cite book |title=The Soccer Tribe |last=Morris |first=Desmond |authorlink=Desmond Morris|year=1981 |publisher=Jonathan Cape |location=London |isbn=0-224-01935-X |pages=210}}</ref> In addition to the football club, the [[Swindon Robins]] is the full name of the local [[Motorcycle speedway|Speedway]] promotion.  It is also the nickname of the English Rugby League team [[Hull Kingston Rovers]]. The nickname is derived from the club's home colours, of white with a red band, linking to the redbreast of the Robin.<ref>{{cite web | author =Hull Kingston Rovers RLFC | title = Hull Kingston Rovers: Club History - Early 1900’s ... | work = Official Website | publisher = Hull Kingston Rovers RLFC| date = 2008| url = http://www.hullkr.co.uk/clubhistory.php?era=2| accessdate =2008-02-26}}</ref>
+
+==Notes and references==
+{{reflist|2}}
+===Cited text===
+*{{cite book|last=Ingersoll|first=Ernest|title=Birds in legend, fable and folklore|chapter=Fire-birds: The Robin and the Wren|publisher=Longmans, Green and co.|location=New York|date=1923|url=http://www.archive.org/details/birdsinlegendfab00inge|accessdate=2009-08-08}}
+
+==Further reading==
+*{{cite book| first= Andrew| last= Lack| year= 2008| title= Redbreast: The Robin in Life and Literature| publisher= SMH Books| isbn= 9780955382727}}
+
+==External links==
+{{Commons|Erithacus rubecula}}
+*ARKive: [http://www.arkive.org/species/ARK/birds/Erithacus_rubecula/ Robin (''Erithacus rubecula'') images and movies]. Retrieved 2006-NOV-30.
+*[[BBC]] Science and Nature: [http://www.bbc.co.uk/nature/wildfacts/factfiles/253.shtml The Robin, Britain's national bird]. Includes photos and song. Retrieved 2006-NOV-30.
+*[[BBC]]: [http://www.bbc.co.uk/nature/programmes/radio/dawn_chorus/video/robin_song.ram European Robin song]. Streaming [[Real Audio]]. Retrieved 2006-NOV-30.
+*Birds of Britain: [http://www.birdsofbritain.co.uk/bird-guide/robin.htm Robin]. Retrieved 2006-NOV-30.
+*Digidylan: [http://www.digidylan.co.uk/pics_robin/robin_index.php hand feeding the robins]. Retrieved 2006-NOV-30.
+*[http://ibc.lynxeds.com/species/european-robin-erithacus-rubecula European Robin videos]. on Internet Bird Collection. Retrieved 2006-NOV-30.
+*[[RSPB]]: [http://www.rspb.org.uk/birds/guide/r/robin/index.asp Robin (''Erithacus rubecula'')]. Retrieved 2006-NOV-30.
+*iMeleon photography: [http://imeleon.com/keywords/1/robin.html European robin photos]
+*Quality European Robin Photographs [http://www.stevenround-birdphotography.com/Robin.htm]
+*[[SR P2|Sveriges Radio P2]]: [http://www.sr.se/p2/p2pippi/sounds/pip0504.ram Song of the European Robin] (Real Audio soundfile)
+*[http://www.ibercajalav.net/img/327_RobinErubecula.pdf Ageing and sexing (PDF) by Javier Blasco-Zumeta]
+
+[[Category:Birds of Europe]]
+[[Category:Birds of Turkey]]
+[[Category:Birds of Asia]]
+[[Category:Erithacus]]
+
+{{Link FA|he}}
+
+[[an:Papirroi]]
+[[frp:Petro-rojo]]
+[[ast:Eritachus rubecula]]
+[[be-x-old:Малінаўка (птушка)]]
+[[br:Boc'hruz]]
+[[bg:Червеногръдка]]
+[[ca:Pit-roig]]
+[[cv:Чепчен]]
+[[cs:Červenka obecná]]
+[[co:Pettirossu]]
+[[cy:Robin Goch]]
+[[da:Rødhals]]
+[[de:Rotkehlchen]]
+[[et:Punarind]]
+[[es:Erithacus rubecula]]
+[[eo:Ruĝgorĝulo]]
+[[eu:Txantxangorri]]
+[[fr:Rouge-gorge familier]]
+[[fy:Readboarstke]]
+[[ga:Spideog]]
+[[gd:Brù-dhearg]]
+[[gl:Paporroibo]]
+[[hr:Crvendać]]
+[[io:Redpektoro]]
+[[it:Erithacus rubecula]]
+[[he:אדום החזה]]
+[[ka:გულწითელა]]
+[[la:Erithacus rubecula]]
+[[lv:Sarkanrīklīte]]
+[[lt:Liepsnelė]]
+[[li:Roadbeursjke]]
+[[lmo:Erithacus rubecula]]
+[[hu:Vörösbegy]]
+[[nl:Roodborst]]
+[[ja:ヨーロッパコマドリ]]
+[[no:Rødstrupe]]
+[[nn:Raudstrupe]]
+[[pl:Rudzik zwyczajny]]
+[[pt:Pisco-de-peito-ruivo]]
+[[ro:Măcăleandru]]
+[[ru:Зарянка]]
+[[scn:Petturrussu]]
+[[sk:Slávik červienka]]
+[[sl:Taščica]]
+[[fi:Punarinta]]
+[[sv:Rödhake]]
+[[tr:Kızılgerdan]]
+[[vec:Petareło]]
+[[vls:Rôbost]]
+[[zh:歐亞鴝]]

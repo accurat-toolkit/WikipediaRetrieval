@@ -1,0 +1,40 @@
+{{Pilsēta
+|nosaukums      = Piechowice
+|valsts         = Polija
+|valsts_en      = Poland
+|ģerbonis       = Herb Piechowic.svg
+|karte          = Polija_Pehovice.png
+|vojevodiste    = Lejassilēzijas vojevodiste
+|iedzīvotāji    = 6 500
+|iedz_stat_gads = 2007
+|iedz_blīvums   =
+|platība        = 43,22
+|pilsētas tiesības = 1967. gads
+|mājaslapa      = http://www.piechowice.pl/
+|citi nosaukumi = ''Petersdorf'' (vācu)
+|apriņķis       = Jeleņaguras apriņķis
+|koordinātes    = {{Coord|50|51||N|15|37||E|scale=100000}}
+}}
+
+'''Pehovice''' ({{val|pl|Piechowice}}) - pilsēta [[Polija]]s dienvidrietumos, [[Lejassilēzijas vojevodiste|Lejassilēzijas vojevodistē]] uz dienvidrietumiem no [[Jeleņagura]]s. 
+
+Līdz 1945. gadam pilsēta ietilpa [[Vācija|Vācijā]], kad, pamatojoties uz [[Potsdamas konference]]s lēmumiem, pilsēta tika piešķirta Polijai, bet pilsētas vācu iedzīvotāji padzīti.
+
+{{DEFAULTSORT:Pehovice}}
+
+{{Polija-aizmetnis}}
+
+[[Kategorija:Lejassilēzijas vojevodistes pilsētas]]
+
+[[de:Piechowice]]
+[[en:Piechowice]]
+[[eo:Piechowice]]
+[[it:Piechowice]]
+[[jv:Piechowice]]
+[[nl:Piechowice]]
+[[pl:Piechowice]]
+[[pt:Piechowice]]
+[[ro:Piechowice]]
+[[ru:Пеховице]]
+[[sk:Piechowice]]
+[[uk:Пеховіце]]

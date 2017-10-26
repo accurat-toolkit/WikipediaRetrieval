@@ -1,0 +1,575 @@
+{{pp-semi-vandalism|small=yes}}
+{{Infobox_President
+|name=Nelson Mandela
+|image=Nelson Mandela.jpg
+|imagesize=146px
+|caption=Mandela in [[Pennsylvania]], [[United States]] in July 1993.
+|order=1<sup>st</sup> 
+|office=President of South Africa
+|term_start=10 May 1994
+|term_end=14 June 1999
+|deputy=[[Frederik Willem de Klerk]]<br />[[Thabo Mbeki]] 
+|predecessor=[[Frederik Willem de Klerk]]<br><small>as [[State President of South Africa]]</small>
+|successor=[[Thabo Mbeki]]
+|order2=19th [[Non-Aligned Movement#Secretaries General|Secretary General of the Non-Aligned Movement]]
+|term_start2=3 September 1998
+|term_end2=14 June 1999
+|predecessor2=[[Andrés Pastrana Arango]]
+|successor2=[[Thabo Mbeki]]
+|birth_date={{Birth date and age|1918|07|18|df=yes}}
+|birth_place= [[Mvezo]], [[Eastern Cape]], [[Union of South Africa]]
+|party=[[African National Congress]]
+|signature=Nelson Mandela Signature.svg}}
+{{Apartheid}}
+{{wikinews|Nelson Mandela taken off of US list of terrorists}}
+'''Nelson Rolihlahla Mandela''' ({{IPA2|xoˈliɬaɬa manˈdeːla|[[Xhosa language|Xhosa]] pronunciation:}}; born 18 July 1918 in Transkei, South Africa)<ref name="nobel">{{cite web|url=http://nobelprize.org/nobel_prizes/peace/laureates/1993/mandela-bio.html|title=Nelson Mandela - Biography|publisher=The Nobel Foundation|year=1993|accessdate=2009-04-30}}</ref> is a former [[President of South Africa|President]] of [[South Africa]], the first to be elected in a [[universal suffrage|fully representative]] democratic election, who held office from 1994–99. Before his presidency, Mandela was an anti-[[South Africa under apartheid|apartheid]] activist, and the leader of the [[African National Congress]]'s armed wing [[Umkhonto we Sizwe]]. The [[Judiciary of South Africa|South African courts]] convicted him on charges of sabotage, as well as other crimes committed while he led the movement against apartheid. In accordance with his conviction, Mandela served 27 years in prison, spending many of these years on [[Robben Island]]. He is currently a celebrated elder [[statesman]] who continues to voice his opinion on topical issues. In South Africa he is often known as '''Madiba''', an honorary title adopted by elders of Mandela's clan. The title has come to be synonymous with Nelson Mandela.
+
+Following his release from prison on 11 February 1990, Mandela supported reconciliation and negotiation, and helped lead the transition towards multi-racial democracy in South Africa. Since the end of apartheid, many have frequently praised Mandela, including former opponents. Mandela has received [[List of Nelson Mandela awards and honours|more than one hundred awards]] over four decades, most notably the [[Nobel Peace Prize]] in 1993. 
+
+==Early life==
+Mandela belongs to a [[cadet branch]] of the [[Thembu]] dynasty, which [[reign]]s in the [[Transkei|Transkeian Territories]] of [[South Africa]]'s [[Cape Province]].<ref name="AllAfrica">{{cite web|url=http://allafrica.com/stories/200807180124.html|title=South Africa: Celebrating Mandela At 90|date=17 July 2008|publisher=AllAfrica.com|accessdate=2008-10-28}}</ref> He was born in [[Mvezo]], a small village located in the district of [[Umtata]], the Transkei capital.<ref name="AllAfrica"/> His [[patrilineality|patrilineal]] great-grandfather [[Ngubengcuka]] (who died in 1832), ruled as the ''Inkosi Enkhulu'', or [[Monarch|king]], of the Thembu people.<ref>{{cite web|url=http://www.ew.com/ew/article/0,,316920,00.html|title=Book Review - ''Higher than Hope''|last=Meer|first=Fatima|date=16 March 1990 |publisher=Entertainment Weekly|accessdate=2008-10-28}}</ref> One of the king's sons, named ''Mandela'', became Nelson's grandfather and the source of his [[surname]]. However, because he was only the ''Inkosi's'' child by a wife of the Ixhiba [[clan]] (the so-called "Left-Hand House"<ref name="mafela">{{cite web|url=http://epress.anu.edu.au/aborig_history/indigenous_biog/mobile_devices/ch08.html|title=The revelation of African culture in Long Walk to Freedom|last=Mafela|first=Munzhedzi James|date=October 2008|publisher=Australian National University|accessdate=2009-07-18}}</ref>), the descendants of his branch of the royal family were not eligible to [[order of succession#Monarchies and nobility|succeed]] to the Thembu throne. 
+
+Mandela's father, [[Gadla Henry Mphakanyiswa]], served as [[Tribal chief|chief]] of the town of Mvezo.<ref>{{cite web|url=http://www.chalre.com/hiring_executives/Great_Leader_Profiles/Profile-Nelson_Mandela.htm|title=President of South Africa: Nelson Mandela|publisher=Chalre Associates|accessdate=2008-10-28}}</ref>  However, upon alienating the colonial authorities, they deprived Mphakanyiswa of his position, and moved his family to Qunu.  Despite this, Mphakanyiswa remained a member of the ''Inkosi's'' [[Privy Council]], and served an instrumental role in Jongintaba Dalindyebo's ascension to the Thembu throne. Dalindyebo would later return the favour by informally adopting Mandela upon Mphakanyiswa's death.<ref name="GreatSouls"> {{cite book|last=Aikman|first=David |title=Great Souls: Six Who Changed a Century|publisher=Lexington Books|date=2003|pages=70, 71|isbn=0739104381}}</ref> Mandela's father had four wives,<ref name="GreatSouls"/> with whom he fathered a total of thirteen children (four boys and nine girls).<ref name="GreatSouls"/> Mandela was born to his third wife ('third' by a complex royal ranking system), Nosekeni Fanny. Fanny was a daughter of Nkedama of the Mpemvu Xhosa clan, the [[dynasty|dynastic]] Right Hand House, in whose ''umzi'' or [[homestead (small African settlement)|homestead]] Mandela spent much of his childhood.<ref name=port>{{cite book|url=http://www.nextreads.com/display2.aspx?recid=126238&FC=1|title=Mandela: The Authorized Portrait|accessdate=2008-05-26|author=Mandela, Nelson|year=2006|page =13|isbn=0-7407-5572-2|publisher=Andrews McMeel Pub.|location=Kansas City, Mo.}}</ref> His [[given name]] ''Rolihlahla'' means "to pull a branch of a tree", or more colloquially, "troublemaker".<ref>[[#mandela1996|Mandela 1996]], p.7</ref><ref name=longwalk/> 
+
+Rolihlahla Mandela became the first member of his family to attend a school, where his teacher Miss Mdingane gave him the English name "Nelson".<ref>[[#mandela1996|Mandela 1996]], p. 9.
+"No one in my family had ever attended school [...] On the first day of school my teacher, Miss Mdingane, gave each of us an English name. This was the custom among Africans in those days and was undoubtedly due to the British bias of our education. That day, Miss Mdingane told me that my new name was Nelson. Why this particular name I have no idea."</ref>
+[[File:Young Mandela.jpg|thumb|left|upright|Nelson Mandela circa 1939<ref>[[#mandela1996|Mandela 1996]], pp. 16, 17</ref>]]
+
+When Mandela was nine, his father died of tuberculosis,<ref name="GreatSouls"/> and the [[regent]], Jongintaba, became his [[legal guardian|guardian]].<ref name="GreatSouls"/>  Mandela attended a [[Methodism|Wesleyan]] mission school located next to the palace of the regent. Following Thembu custom, he was [[initiation|initiated]] at age sixteen, and attended Clarkebury Boarding Institute.<ref name="BBC90th">{{cite web|url=http://news.bbc.co.uk/2/hi/in_depth/7500615.stm|title=Mandela celebrates 90th birthday|date=17 July 2008|publisher=[[BBC]]|accessdate=2008-10-28}}</ref> Mandela completed his [[Junior Certificate]] in two years, instead of the usual three.<ref name="BBC90th"/> Designated to inherit his father's position as a privy councillor, in 1937 Mandela moved to [[Healdtown Comprehensive School|Healdtown]], the Wesleyan college in [[Fort Beaufort]] which most Thembu [[royal family|royalty]] attended.<ref>{{cite web|url=http://www.historicschools.org.za/view.asp?ItemID=1&tname=tblComponent2&oname=Schools&pg=front&subm=Pilot%20Schools|title=Healdtown Comprehensive School|publisher=Historic Schools Project: South Africa|accessdate=2008-10-28}}</ref> At nineteen, he took an interest in [[boxing]] and [[running]] at the school.<ref name=port/>
+
+After [[matriculation|enrolling]], Mandela began to study for a [[Bachelor of Arts]] at the [[Fort Hare University]], where he met [[Oliver Tambo]]. Tambo and Mandela became lifelong friends and colleagues. Mandela also became close friends with his [[kinship and descent|kinsman]], [[Kaiser Matanzima|Kaiser ("K.D.") Matanzima]] who, as royal [[scion]] of the Thembu Right Hand House, was in line for the throne of Transkei<ref name="mafela"/>, a role that would later lead him to embrace [[Bantustan]] policies. His support of these policies would place him and Mandela on opposing political sides.<ref name=port/> At the end of Nelson's first year, he became involved in a [[Students' Representative Council]] boycott against university policies, and was told to leave [[Fort Hare]] and not return unless he accepted election to the SRC.<ref>[[#mandela1996|Mandela 1996]], pp. 18-19.</ref> Later, Mandela studied for a [[Bachelor of Laws]] from the [[University of London External Programme]].
+
+Shortly after leaving Fort Hare, Jongintaba announced to Mandela and Justice (the regent's son and heir to the throne) that he had arranged marriages for both of them. The young men, displeased by the arrangement, elected to relocate to [[Johannesburg]].<ref name="mandela1996pp10,20">[[#mandela1996|Mandela 1996]], pp. 10, 20.</ref> Upon his arrival, Mandela initially found employment as a guard at a mine.<ref name="NMF"> {{cite web|url=http://www.nelsonmandela.org/index.php/memory/views/biography/|title=Nelson Mandela Biography - Early Years|publisher=Nelson Mandela Foundation|accessdate=2008-10-28}}</ref> However, the employer quickly terminated Mandela after learning that he was the Regent's runaway [[Ward (law)|ward]]. Mandela later started work as an [[articled clerk]] at a Johannesburg law firm, Witkin, Sidelsky and Edelman, through connections with his friend and mentor, realtor [[Walter Sisulu]].<ref name="NMF"/>  While working at Witkin, Sidelsky and Edelman, Mandela completed his B.A. degree at the [[University of South Africa]] via correspondence, after which he began law studies at the [[University of Witwatersrand]], where he first befriended fellow students and future anti-apartheid political activists [[Joe Slovo]], [[Harry Schwarz]] and [[Ruth First]]. Slovo would eventually become Mandela's Minister of Housing, while Schwarz would become his [[South African ambassador to the United States|Ambassador to Washington]]. During this time Mandela lived in [[Alexandra, South Africa|Alexandra]] township, north of Johannesburg.<ref>{{cite web|url=http://www.nmcf.co.za/organize.html|title=Nelson Mandela Children's Fund - Organise|publisher=Nelson Mandela Children's Fund|accessdate=2008-10-28}}</ref>
+
+==Political activity==
+After the 1948 election victory of the [[Afrikaner]]-dominated [[National Party (South Africa)|National Party]], which supported the [[apartheid]] policy of [[racial segregation]],<ref>{{cite web|url=http://www.sahistory.org.za/pages/governence-projects/SA-1948-1976/1948-election.htm|title=The 1948 election and the National Party Victory|publisher=South African History Online|accessdate=2008-10-28}}</ref>  Mandela began actively participating in politics. He led prominently  in the ANC's 1952 [[Defiance Campaign]] and the 1955 [[Congress of the People (1955)|Congress of the People]], whose adoption of the [[Freedom Charter]] provided the fundamental basis of the anti-apartheid cause.<ref>{{cite web|url=http://www.anc.org.za/ancdocs/history/struggles/defiance.html|title=The Defiance Campaign|publisher=African National Congress|accessdate=2008-10-28}}</ref><ref>{{cite web|url=http://www.anc.org.za/ancdocs/history/campaigns/cop/index.html|title=Congress of the People, 1955|publisher=African National Congress|accessdate=2008-10-28}}</ref> During this time, Mandela and fellow lawyer [[Oliver Tambo]] operated the law firm of [[Mandela and Tambo]], providing free or low-cost legal counsel to many blacks who lacked attorney representation.<ref>{{cite book|last=Callinicos|first=Luli|title=Oliver Tambo: Beyond the Engeli Mountains|publisher=New Africa Books|date=2004|pages=173|isbn=0864866666}}</ref>
+
+[[Mahatma Gandhi]] influenced Mandela's approach, and subsequently the methods of succeeding generations of South African anti-apartheid activists.<ref>{{cite web|author=Mandela, Nelson|title=The Sacred Warrior|work=[[Time 100: The Most Important People of the Century]]|date=2000-01-03|url=http://www.time.com/time/time100/poc/magazine/the_sacred_warrior13a.html|accessdate=2008-05-26|publisher=[[Time (magazine)|Time]]}}</ref><ref>{{cite book|title=The Making of a Political Reformer: Gandhi in South Africa, 1893–1914|author= Bhana, Surendra;  Vahed, Goolam|year=2005|page=149}}</ref> Mandela even took part in the 29 January – 30 January 2007 conference in [[New Delhi]] marking the 100th anniversary of Gandhi's introduction of [[satyagraha]] in South Africa.<ref>{{cite news|author=Bhalla, Nita|title=Mandela calls for Gandhi's non-violence approach|publisher=[[Reuters]]|date=2007-01-29|url=http://www.boston.com/news/world/asia/articles/2007/01/29/mandela_calls_for_gandhis_non_violence_approach/|accessdate=2008-05-26}}</ref>  
+
+Initially committed to [[nonviolent resistance]], Mandela and 150 others were arrested on 5 December 1956 and charged with treason. The marathon [[Treason Trial]] of 1956–1961 followed, with all defendants receiving [[acquittal]]s.<ref>{{cite web|url=http://www.anc.org.za/ancdocs/history/mandela/1960s/treason.html|title=Nelson Mandela's Testimony at the Treason Trial 1956-60|publisher=African National Congress|accessdate=2008-10-28}}</ref>   From 1952–1959, a new class of black activists known as the Africanists disrupted ANC activities in the townships, demanding more drastic steps against the National Party regime.<ref name="ANCStatement">{{cite web|url=http://www.anc.org.za/ancdocs/misc/trcall.html|title=ANC - Statement to the Truth and Reconciliation Commission|date=August 1996|publisher=[[African National Congress]]|accessdate=2008-10-28}}</ref>  The ANC leadership under [[Albert Luthuli]], [[Oliver Tambo]] and [[Walter Sisulu]] felt not only that the Africanists were moving too fast but also that they challenged their leadership.<ref name="ANCStatement"/> The ANC leadership consequently bolstered their position through alliances with small White, Coloured, and Indian political parties in an attempt to give the appearance of wider appeal than the Africanists.<ref name="ANCStatement"/>  The Africanists ridiculed the 1955 [[Freedom Charter]] Kliptown Conference for the concession of the 100,000-strong ANC to just a single vote in a Congressional alliance. Four secretaries-general of the five participating parties secretly belonged to the reconstituted [[South African Communist Party]] (SACP), strongly adhering to the Moscow line.<ref>{{cite book|last=Shillington|first=Kevin|title=Encyclopedia of African History|publisher=CRC Press|date=2005|pages=1449|isbn=1579582451}}</ref><ref>{{cite web|url=http://www.anc.org.za/ancdocs/history/charter.html|title=The Freedom Charter|publisher=[[African National Congress]]|accessdate=2008-10-28}}</ref> 
+
+In 1959, the ANC lost its most militant support when most of the Africanists, with financial support from [[Ghana]] and significant political support from the [[Transvaal]]-based [[Basotho]], broke away to form the [[Pan Africanist Congress]] (PAC) under the direction of [[Robert Sobukwe]] and [[Potlako Leballo]].<ref>{{cite book|last=Leeman|first=Bernard|title=The PAC of Azania ''in'' Africa Today|editor=Alexander, Peter; Hutchison, Ruth; Schreuder, Deryck|publisher=The Australian National University Canberra|location=The Humanities Research Centre, The Australian National University Canberra|date=1996|isbn=07315 24918}}</ref>
+
+===Anti-apartheid activities===
+In 1961, Mandela became leader of the ANC's armed wing, [[Umkhonto we Sizwe]] (translated ''Spear of the Nation'', and also abbreviated ''MK''), which he co-founded.<ref>{{cite web|url=http://www.anc.org.za/ancdocs/history/mk/mk-born.html|title=Umkhonto is Born|publisher=[[African National Congress]]|accessdate=2008-10-28}}</ref> He coordinated sabotage campaigns against [[military]] and [[government]] targets, making plans for a possible [[guerrilla warfare|guerrilla war]] if the sabotage failed to end apartheid.<ref name="TerrorismReader">{{cite book|last=Whittaker|first=David J. |title=The Terrorism Reader|edition=Updated|publisher=Routledge|date=2003|pages=244|isbn=0415301017}}</ref> Mandela also raised funds for MK abroad and arranged for [[paramilitary]] training of the group.<ref name="TerrorismReader"/>
+
+Fellow ANC member Wolfie Kadesh explains the bombing campaign led by Mandela: "When we knew that we [sic] going to start on 16 December 1961, to blast the symbolic places of apartheid, like pass offices, native magistrates courts, and things like that ... post offices and ... the government offices. But we were to do it in such a way that nobody would be hurt, nobody would get killed."<ref name="pbsfrontline">{{cite web | url=http://www.pbs.org/wgbh/pages/frontline/shows/mandela/revolution/kodesh.html | title=Tell me about the bomb at the brickworks - Frontline The Long Walk of Nelson Mandela | publisher=PBS}}</ref> Mandela said of Wolfie: "His knowledge of warfare and his first hand battle experience were extremely helpful to me."<ref name="longwalk"/>
+
+Mandela described the move to armed struggle as a last resort; years of increasing repression and violence from the state convinced him that many years of [[non-violence|non-violent]] protest against apartheid had not and could not achieve any progress.<ref name="longwalk">{{cite book|first=Nelson|last=Mandela|title=[[Long Walk to Freedom (book)|Long Walk to Freedom]]|year=1994|publisher=[[Little, Brown and Company]]}}</ref><ref name="rivonia">{{cite web | author= Mandela, Nelson | title="I am Prepared to Die" — Nelson Mandela's statement from the dock at the opening of the defence case in the Rivonia Trial | publisher=[[African National Congress]] |date=1964-04-20 | url=http://www.anc.org.za/ancdocs/history/mandela/1960s/rivonia.html | accessdate=2008-05-26}}</ref>
+
+Later, mostly in the 1980s, MK waged a guerrilla war against the apartheid regime in which many [[civilian]]s became casualties.<ref name="TerrorismReader"/> Mandela later admitted that the ANC, in its struggle against apartheid, also violated human rights, sharply criticising those in his own party who attempted to remove statements supporting this fact from the reports of the [[Truth and Reconciliation Commission (South Africa)|Truth and Reconciliation Commission]].<ref>{{cite news|title=Mandela admits ANC violated rights, too|work=[[Financial Times]]|date=1998-11-02}}</ref>
+
+Up until July 2008, Mandela and ANC party members were barred from entering the United States — except the United Nations headquarters in [[Manhattan]] — without a special waiver from the [[United States Secretary of State|US Secretary of State]], because of their South African apartheid regime era designation as [[Terrorism|terrorists]].<ref name=bbcvisa>{{cite web|url=http://news.bbc.co.uk/1/hi/world/africa/7340248.stm|title=BBC News: US shamed by Mandela terror link|date=2008-04-10}}</ref><ref>{{cite web|url=http://news.bbc.co.uk/2/hi/americas/7484517.stm|title=Mandela taken off US terror list|work=BBC News|date =2008-07-01|accessdate=2008-07-01}}</ref>
+
+===Arrest and Rivonia trial===
+{{Main|Rivonia Trial}}
+On 5 August 1962 Mandela was arrested after living on the run for seventeen months, and was imprisoned in the Johannesburg Fort.<ref>{{cite web|url=http://www.thehistorychannel.co.uk/site/this_day_in_history/this_day_August_5.php|title=5 August - This day in history|publisher=[[The History Channel]]|accessdate=2008-10-28}}</ref> The arrest was made possible because the U.S. [[Central Intelligence Agency]] (CIA) tipped off the security police as to Mandela's whereabouts and disguise.<ref name=blum>{{cite web|url=http://www.thirdworldtraveler.com/Blum/CIAMandela_WBlum.html|publisher=Third World Traveller|title=How the CIA sent Nelson Mandela to prison for 28 years|first=William|last=Blum|accessdate=2008-05-26}}</ref><ref name=salon>{{cite web|url=http://www.salon.com/news/news961114.html|publisher=[[Salon.com]]|first=Jeff|last=Stein|title=Our Man in South Africa|date=1996-11-14|accessdate=2008-05-26}}</ref><ref>{{cite book|last =Weiner|first =Tim|year =2007|title=Legacy of Ashes|publisher=[[Penguin Group]]|page=362|isbn=978-1-846-14046-4}}</ref> Three days later, the charges of leading workers to strike in 1961 and leaving the country illegally were read to him during a court appearance. On 25 October 1962, Mandela was sentenced to five years in [[prison]]. Two years later on 11 June 1964, a verdict had been reached concerning his previous engagement in the [[African National Congress]] (ANC).<ref>{{cite web|url=http://www.guardian.co.uk/world/2001/feb/11/nelsonmandela.southafrica2|title=The Rivonia Trial|last=Katwala |first=Sunder|date=11 February 2001|publisher=[[The Guardian]]|accessdate=2008-10-28}}</ref>
+
+While Mandela was imprisoned, police arrested prominent ANC leaders on 11 July 1963, at [[Liliesleaf Farm]], [[Rivonia]], north of Johannesburg. Mandela was brought in, and at the [[Rivonia Trial]] they were charged by the chief prosecutor Dr. [[Percy Yutar]] with the capital crimes of sabotage (which Mandela admitted) and crimes which were equivalent to [[treason]], but easier for the government to prove.<ref name="SAHistoryOnline"> {{cite web|url=http://www.sahistory.org.za/pages/chronology/thisday/1963-07-11ii.htm|title=ANC Lilliesleaf Farm arrests|date=11 July 1963|publisher=South African History Online|accessdate=2008-10-28}}</ref>  The second charge accused the defendants of plotting a foreign invasion of South Africa, which Mandela denied.<ref name="SAHistoryOnline"/>
+
+In his statement from the dock at the opening of the defence case in the trial on 20 April 1964 at [[Pretoria]] Supreme Court, Mandela laid out the reasoning in the ANC's choice to use violence as a tactic.<ref name="GuardianMadiba"> {{cite web|url=http://www.guardian.co.uk/world/2007/apr/23/nelsonmandela|title=An ideal for which I am prepared to die|last=Mandela|first=Nelson|date=20 April 1964|publisher=[[The Guardian]]|accessdate=2008-10-28}}</ref>  His statement described how the ANC had used peaceful means to resist apartheid for years until the [[Sharpeville Massacre]].<ref name="TimeMag">{{cite web|url=http://www.time.com/time/magazine/article/0,9171,869441-1,00.html|title=The Sharpeville Massacre|date=4 April 1960|publisher=[[Time (magazine)|TIME]]|accessdate=2008-10-28}}</ref>  That event coupled with the referendum establishing the Republic of South Africa and the declaration of a [[state of emergency]] along with the banning of the ANC made it clear to Mandela and his compatriots that their only choice was to resist through acts of sabotage and that doing otherwise would have been tantamount to unconditional surrender.<ref name="TimeMag"/> Mandela went on to explain how they developed the Manifesto of [[Umkhonto we Sizwe]] on 16 December 1961 intent on exposing the failure of the National Party's policies after the economy would be threatened by foreigners' unwillingness to risk investing in the country.<ref name=mk>{{cite web|url=http://www.anc.org.za/ancdocs/history/manifesto-mk.html|title=Manifesto of Umkhonto we Sizwe|publisher=[[African National Congress]]|date=1961-12-16|accessdate=2008-05-26}}</ref> He closed his statement with these words: 
+
+{{cquote|During my lifetime I have dedicated myself to the struggle of the African people. I have fought against white domination, and I have fought against black domination. I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities. It is an ideal which I hope to live for and to achieve. But if needs be, it is an ideal for which I am prepared to die.<ref name="rivonia"/>}}
+
+[[Bram Fischer]], Vernon Berrange, [[Harry Schwarz]], [[Joel Joffe]], [[Arthur Chaskalson]] and [[George Bizos]] were part of the defence team that represented the accused.<ref name="RivoniaPapers">{{cite web|url=http://www.aluka.org/action/showCompilationPage?doi=10.5555/AL.SFF.COMPILATION.COLLECTION-MAJOR.RIVON&cookieSet=1|title=Rivonia Trial Papers|publisher=Aluka|accessdate=2008-10-28}}</ref> [[Harold Hanson]] was brought in at the end of the case to plead mitigation.<ref name="ANCRivonia">{{cite web|url=http://www.anc.org.za/ancdocs/history/trials/toward_robben_island.html|title=Toward Robben Island: The Rivonia Trial|publisher=[[African National Congress]]|accessdate=2008-10-28}}</ref>  All except Rusty Bernstein were found guilty, but they escaped the gallows and were sentenced to life imprisonment on 12 June 1964.<ref name="ANCRivonia"/> Charges included involvement in planning armed action, in particular four charges of [[sabotage]], which Mandela admitted to, and a [[conspiracy (political)|conspiracy]] to help other countries invade South Africa, which Mandela denied.<ref name="ANCRivonia"/>
+
+===Imprisonment===
+[[File:RobbenIslandHof.jpg|thumb|right|[[Robben Island]] prison yard]]
+[[File:Nelson Mandela's prison cell, Robben Island, South Africa.jpg|thumb|right|Nelson Mandela's prison cell on Robben Island]]
+Nelson Mandela was imprisoned on [[Robben Island]] where he remained for the next eighteen of his twenty-seven years in prison.<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/world/africa/7671712.stm|title=Mandela's jail overrun by rabbits |date=15 October 2008 |publisher=BBC|accessdate=2008-10-28}}</ref> While in jail, his reputation grew and he became widely known as the most significant black leader in South Africa.<ref name=nobel/> On the island, he and others performed [[Penal labour|hard labour]] in a lime quarry.<ref>{{cite web|url=http://www.independent.co.uk/news/world/africa/a-monument-to-mandela-the-robben-island-years-401137.html|title=A monument to Mandela: the Robben Island years|date=2 September 2007 |publisher=[[The Independent]]|accessdate=2008-10-28}}</ref> Prison conditions were very basic. Prisoners were segregated by race, with black prisoners receiving the fewest rations.{{Citation needed|date|date=September 2009}} [[Political prisoner]]s were kept separate from ordinary criminals and received fewer privileges.<ref>{{cite web|url=http://query.nytimes.com/gst/fullpage.html?res=9506E6DB103DF931A15755C0A962958260|title=Robben Island Journal; South Africa Ponders Fate of Apartheid's Bastille |last=Holmes|first=Steven A.|date=22 June 1994|publisher=[[The New York Times|NY Times]]|accessdate=2008-10-28}}</ref> Mandela describes how, as a D-group prisoner (the lowest classification) he was allowed one visitor and one letter every six months.<ref name="Memoirs">{{cite book|last=Kathrada|first=Ahmed|coauthors=Mandela, Nelson|title=Memoirs |publisher=Zebra|date=2004|pages=246|isbn=1868729184}}</ref> Letters, when they came, were often delayed for long periods and made unreadable by the prison censors.<ref name=longwalk/>
+
+Whilst in prison Mandela undertook study with the [[University of London]] by correspondence through its [[University of London External Programme|External Programme]] and received the degree of [[Bachelor of Laws]].<ref name="ObserverGM"> {{cite web|url=http://observer.gm/africa/gambia/article/2008/7/25/the-big-read-nelson-mandela-a-living-legend-1|title=The Big Read: Nelson Mandela: a living legend|date=25 July 2008|publisher=Daily Observer|accessdate=2008-10-28}}</ref> He was subsequently nominated for the position of [[Chancellor (education)|Chancellor]] of the University of London in the [[University of London Chancellor election, 1981|1981 election]], but lost to [[Anne, Princess Royal|Princess Anne]].<ref name="ObserverGM"/>
+
+In his 1981 memoir ''Inside BOSS''<ref name="InsideBOSS">{{cite book|author=Winter, Gordon|title=Inside BOSS|publisher=[[Penguin Books]] |year=1981}}</ref> secret agent Gordon Winter describes his involvement in a plot to rescue Mandela from prison in 1969: this plot was infiltrated by Winter on behalf of South African intelligence, who wanted Mandela to escape so they could shoot him during recapture. The plot was foiled by British Intelligence.<ref name="InsideBOSS"/>
+
+In March 1982 Mandela was transferred from Robben Island to [[Pollsmoor Prison]], along with other senior ANC leaders Walter Sisulu, Andrew Mlangeni, [[Ahmed Kathrada]] and [[Raymond Mhlaba]].<ref name="Memoirs"/> It was speculated that this was to remove the influence of these senior leaders on the new generation of young black activists imprisoned on Robben Island, the so-called "Mandela University".<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/peace/articles/mandela/index.html|title=Nelson Mandela and the Rainbow of Culture|last=Hallengren|first=Anders|date=11 September 2001|publisher=Nobelprize.org|accessdate=2008-10-28}}</ref> However, [[National Party (South Africa)|National Party]] minister [[Kobie Coetsee]] says that the move was to enable discreet contact between them and the South African government.<ref name=sparks/>
+
+In February 1985 President [[P.W. Botha]] offered Mandela conditional release in return for renouncing armed struggle.<ref>{{cite web|url=http://select.nytimes.com/gst/abstract.html?res=F30E12F8385F0C728CDDAB0894DD484D81|title=South Africa hints at conditional release for jailed black leaders|last=Cowell|first=Alan|date=1 February 1985|publisher=[[The New York Times|NY Times]]|accessdate=2008-10-28}}</ref> Coetsee and other ministers had advised Botha against this, saying that Mandela would never commit his organisation to giving up the armed struggle in exchange for personal freedom.<ref>{{cite web|url=http://www.anc.org.za/ancdocs/history/mandela/64-90/jabulani.html|title=Mandela's response to being offered freedom|publisher=[[African National Congress|ANC]]|accessdate=2008-10-28}}</ref> Mandela indeed spurned the offer, releasing a statement via his daughter Zindzi saying "What freedom am I being offered while the organisation of the people remains banned? Only free men can negotiate. A prisoner cannot enter into contracts."<ref name=sparks>{{cite book | title=Tomorrow is Another Country | first=Allister | last=Sparks | authorlink=Allister Sparks | year=1994 | publisher=Struik}}</ref>
+
+The first meeting between Mandela and the National Party government came in November 1985 when Kobie Coetsee met Mandela in Volks Hospital in [[Cape Town]] where Mandela was recovering from prostate surgery.<ref>{{cite web|url=http://www.mandela-children.ca/index.php?option=com_content&task=view&id=109|title=Key Dates in South African History|publisher=Nelson Mandela Children's Fund|accessdate=2008-10-28}}</ref>  Over the next four years, a series of tentative meetings took place, laying the groundwork for further contact and future negotiations, but little real progress was made.<ref name=sparks/>
+
+In 1988 Mandela was moved to [[Victor Verster Prison]] and would remain there until his release. Various restrictions were lifted and people such as [[Harry Schwarz]] were able to visit him. Schwarz, a friend of Mandela, had known him since university when they were in the same law class. He was also a defense barrister at the Rivonia Trial and would become Mandela's ambassador to [[Washington D.C.|Washington]] during his presidency.
+
+Throughout Mandela's imprisonment, local and international pressure mounted on the South African government to release him, under the resounding slogan ''Free Nelson Mandela!''<ref>{{cite web|url=http://www.anc.org.za/ancdocs/history/campaigns/prisoner.html|title=Free Nelson Mandela|date=July 1988|publisher=[[African National Congress|ANC]]|accessdate=2008-10-28}}</ref> In 1989, South Africa reached a crossroads when Botha suffered a stroke and was replaced as president by [[Frederik Willem de Klerk]].<ref>{{cite web|url=http://www.independent.co.uk/news/world/africa/pw-botha-unrepentant-defender-of-apartheid-dies-aged-90-422425.html|title=PW Botha, unrepentant defender of apartheid, dies aged 90|date=1 November 2006 |publisher=[[The Independent]]|accessdate=2008-10-28}}</ref> De Klerk announced Mandela's release in February 1990.<ref>{{cite book|last=Malam|first=John|title=The Release of Nelson Mandela: 11 February 1990|publisher=Cherrytree Books|date=2002|isbn=1842341030}}</ref>
+
+===Release===
+On 2 February 1990, [[State President of South Africa|State President]] F.W. de Klerk reversed the ban on the ANC and other anti-apartheid organisations, and announced that Mandela would shortly be released from prison.<ref>{{cite web|url=http://news.bbc.co.uk/onthisday/hi/dates/stories/february/11/newsid_2539000/2539947.stm|title=1990: Freedom for Nelson Mandela|date=11 February 1990|publisher=BBC|accessdate=2008-10-28}}</ref> Mandela was released from [[Victor Verster Prison]] in [[Paarl]] on 11 February 1990. The event was broadcast live all over the world.<ref>{{cite web|url=http://century.guardian.co.uk/1990-1999/Story/0,,112389,00.html|title=Mandela free after 27 years|last= Ormond|first=Roger |date=12 February 1990|publisher=[[The Guardian]]|accessdate=2008-10-28}}</ref>
+
+On the day of his release, Mandela made a speech to the nation.<ref name="ANCSpeech"> {{cite web|url=http://www.anc.org.za/ancdocs/history/mandela/1990/release.html|title=Nelson Mandela's address to Rally in Cape Town on his Release from Prison|date=11 February 1990|publisher=[[African National Congress|ANC]]|accessdate=2008-10-28}}</ref> He declared his commitment to peace and reconciliation with the country's white minority, but made it clear that the ANC's armed struggle was not yet over:
+
+{{cquote|Our resort to the armed struggle in 1960 with the formation of the military wing of the ANC ([[Umkhonto we Sizwe]]) was a purely defensive action against the violence of apartheid. The factors which necessitated the armed struggle still exist today. We have no option but to continue. We express the hope that a climate conducive to a negotiated settlement would be created soon, so that there may no longer be the need for the armed struggle.}} 
+
+He also said his main focus was to bring peace to the black majority and give them the [[Suffrage|right to vote]] in both national and local elections.<ref name="ANCSpeech"/>
+
+===Negotiations===
+{{Main|Negotiations to end apartheid in South Africa}}  
+Following his release from prison, Mandela returned to the leadership of the ANC and, between 1990 and 1994, led the party in the [[Negotiations to end apartheid in South Africa|multi-party negotiations]] that led to the country's first multi-racial elections.<ref>{{cite web|url=http://www.sahistory.org.za/pages/library-resources/online%20books/crime-humanity/menu.htm|title=A Crime Against Humanity - Analysing the Repression of the Apartheid State|publisher=South African History Online|accessdate=2008-12-23}}</ref>   
+
+In 1991, the ANC held its first national conference in South Africa after its unbanning, electing Mandela as President of the organisation. His old friend and colleague Oliver Tambo, who had led the organisation in exile during Mandela's imprisonment, became National Chairperson.<ref name=ancprofile>{{cite web|url=http://www.anc.org.za/people/mandela.html|publisher=[[African National Congress]]|title=Profile of Nelson Rolihlahla Mandela|accessdate=2007-05-08}}</ref>
+
+Mandela's leadership through the negotiations, as well as his relationship with President F.W. de Klerk, was recognised when they were jointly awarded the [[Nobel Peace Prize]] in 1993. However, the relationship was sometimes strained, particularly so in a sharp exchange in 1991 when he furiously referred to De Klerk as the head of "an illegitimate, discredited, minority regime". The talks broke down following the [[Boipatong massacre]] in June 1992 when Mandela took the ANC out of the negotiations, accusing De Klerk's government of complicity in the killings.<ref name=boipatong>{{cite web|url=http://www.anc.org.za/ancdocs/pr/1992/pr0618.html|title=Boipatong Massacre|date=1992-06-18|accessdate=2008-05-26|publisher=[[African National Congress]]}}</ref> However, talks resumed following the [[Bisho massacre]] in September 1992, when the spectre of violent confrontation made it clear that negotiations were the only way forward.<ref name=longwalk/>
+
+Following the assassination of ANC leader [[Chris Hani]] in April 1993, there were renewed fears that the country would erupt in violence.<ref>{{cite web|url=http://www.highbeam.com/doc/1G1-14028944.html|title=Chris Hani assassinated. (Obituary)|publisher=Social Justice |accessdate=2008-12-23}}</ref> Mandela addressed the nation appealing for calm, in a speech regarded as 'presidential' even though he was not yet president of the country at that time: {{cquote|Tonight I am reaching out to every single South African, black and white, from the very depths of my being. A white man, full of prejudice and hate, came to our country and committed a deed so foul that our whole nation now teeters on the brink of disaster. A white woman, of Afrikaner origin, risked her life so that we may know, and bring to justice, this assassin. The cold-blooded murder of Chris Hani has sent shock waves throughout the country and the world. ...Now is the time for all South Africans to stand together against those who, from any quarter, wish to destroy what Chris Hani gave his life for – the freedom of all of us.<ref>{{cite web|url=http://www.anc.org.za/show.php?doc=ancdocs/history/mandela/1993/pr930410.html|title=Statement of the President of the ANC, Nelson Mandela on the assassination of Martin Chris Hani|date=10 April 1993|accessdate=2008-12-23}}</ref> }} While some riots did follow the assassination, the negotiators were galvanised into action, and soon agreed that democratic elections should take place on 27 April 1994, just over a year after Hani's assassination.<ref name=sparks/>
+
+==Presidency of South Africa==
+South Africa's [[South African general election, 1994|first multi-racial elections]] in which full enfranchisement was granted were held on 27 April 1994. The ANC won 62% of the votes in the election, and Mandela, as leader of the ANC, was inaugurated on 10 May 1994 as the country's first black [[President of South Africa|President]], with the National Party's de Klerk as his first [[Deputy President of South Africa|deputy]] and [[Thabo Mbeki]] as the second in the [[Government of National Unity (South Africa)|Government of National Unity]].<ref>{{cite web | title=Mandela becomes SA's first black president | publisher=BBC | url=http://news.bbc.co.uk/onthisday/hi/dates/stories/may/10/newsid_2661000/2661503.stm  | accessdate=2008-05-26}}</ref> As President from May 1994 until June 1999, Mandela presided over the transition from minority rule and apartheid, winning international respect for his advocacy of national and international reconciliation.<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/peace/laureates/1993/presentation-speech.html|title=The Nobel Peace Prize 1993 - Presentation Speech|publisher=Nobelprize.org|accessdate=2008-10-28}}</ref> Mandela encouraged black South Africans to get behind the previously hated [[South African national rugby union team|''Springboks'']] (the South African national rugby team) as South Africa hosted the [[1995 Rugby World Cup]].<ref>{{cite web|url=http://news.bbc.co.uk/sport1/hi/rugby_union/rugby_world_cup/team_pages/south_africa/3167692.stm|title=Mandela rallies Springboks|date=6 October 2003|publisher=BBC Sport|accessdate=2008-10-28}}</ref>  After the Springboks won an epic final over New Zealand, Mandela presented the trophy to captain [[Francois Pienaar]], an Afrikaner, wearing a Springbok shirt with Pienaar's own number 6 on the back. This was widely seen as a major step in the reconciliation of white and black South Africans.<ref>{{cite web|url=http://www.telegraph.co.uk/portal/main.jhtml?view=DETAILS&grid=&xml=/portal/2007/10/19/ftmandela119.xml|title=How Nelson Mandela won the rugby World Cup |date=19 October 2007|publisher=[[The Daily Telegraph]]|accessdate=2008-10-28}}</ref>
+
+After assuming the presidency, one of Mandela's trademarks was his use of [[Batik]] shirts, known as "[[Madiba shirt]]s", even on formal occasions.<ref>{{cite web|url=http://news.bbc.co.uk/2/hi/africa/3532916.stm|title=How Mandela changed SA fashion|last=Khumalo |first=Fred|date=5 August 2004|publisher=BBC|accessdate=2008-10-28}}</ref> In [[South African intervention in Lesotho|South Africa's first post-apartheid military operation]], Mandela ordered troops into [[Lesotho]] in September 1998 to protect the government of [[Prime Minister]] [[Pakalitha Mosisili]]. This came after a disputed election prompted fierce opposition threatening the unstable government.<ref name=Lesotho>{{cite web | url=http://www.africa.upenn.edu/Newsletters/lsno8.html | title=Lesotho to hold re-elections within 15 to 18 months | publisher=Lesotho News Online | author= Thai, Bethuel | date=1998-10-04 | accessdate=2008-05-26}}</ref> Commentators and critics including [[AIDS]] activists such as [[Edwin Cameron]] have criticised Mandela for his government's ineffectiveness in stemming the AIDS crisis.<ref>{{cite web | url=http://www.guardian.co.uk/world/2003/jul/06/nelsonmandela.southafrica | title=Mandela at 85 | work=[[The Observer]] | first=Anthony | last=Sampson | authorlink=Anthony Sampson | date=2003-07-06|accessdate=2008-05-26}}</ref><ref>{{cite web | url=http://www.time.com/time/europe/html/040419/mandela.html | title=The Lion In Winter | first=Simon | last=Robinson | work=[[Time (magazine)|Time]] | date=2007-04-11|accessdate=2008-05-26}}</ref> After his [[retirement]], Mandela admitted that he may have failed his country by not paying more attention to the HIV/AIDS epidemic.<ref>{{cite web | title=Can Mandela's AIDS Message Pierce the Walls of Shame? | publisher=[[Peninsula Peace and Justice Center]] | date=2005-01-09 | url=http://peaceandjustice.org/article.php?story=20050109125126110&mode=print|accessdate=2008-05-26}}</ref><ref>{{cite web | title=South Africa: Mandela Deluged With Tributes as He Turns 85 | url=http://allafrica.com/stories/200307190001.html | publisher=[[AllAfrica.com]] | first=Ofeibea | last=Quist-Arcton | date=2003-07-19|accessdate=2008-05-26}}</ref> Mandela has since spoken out on several occasions against the AIDS epidemic.<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/world/africa/1049582.stm|title=Mandela's stark Aids warning|date=1 December 2000|publisher=[[BBC News]]|accessdate=2008-12-23}}</ref><ref>{{cite web|url=http://www.nytimes.com/2005/01/07/international/africa/07mandela.html|title=Mandela, Anti-AIDS Crusader, Says Son Died of Disease|date=7 January 2005|publisher=[[The New York Times|NY Times]]|accessdate=2008-12-23}}</ref> 
+
+===Lockerbie trial===
+President Mandela took a particular interest in helping to resolve the long-running dispute between [[Muammar al-Gaddafi|Gaddafi]]'s Libya, on the one hand, and the United States and Britain on the other, over bringing to trial the two Libyans who were indicted in November 1991 and accused of sabotaging [[Pan Am Flight 103]], which crashed at the Scottish town of [[Lockerbie]] on 21 December 1988, with the loss of 270 lives.<ref>{{cite web|url=http://www.guardian.co.uk/uk/2001/jan/31/lockerbie.derekbrown|title=Lockerbie trial: what happened when|last=Brown|first=Derek|date=31 January 2001|publisher=[[The Guardian]]|accessdate=2008-10-28}}</ref> As early as 1992, Mandela informally approached President [[George H.W. Bush]] with a proposal to have the two indicted Libyans tried in a third country. Bush reacted favourably to the proposal, as did President [[François Mitterrand]] of France and King [[Juan Carlos I of Spain]].<ref>{{cite web|url=http://www.guardian.co.uk/uk/1999/may/11/lockerbie.nelsonmandela|title=Mandela shies away from global role in retirement|last= McGreal|first=Chris|date=11 May 1999|publisher=[[The Guardian]]|accessdate=2008-10-28}}</ref> In November 1994 – six months after his election as president – Mandela formally proposed that South Africa should be the venue for the [[Pan Am Flight 103 bombing trial]].<ref>{{cite web|accessdate=2008-05-26|url=http://www.dispatch.co.za/1997/10/27/page%2013.htm|title=Families say SA trial site acceptable |publisher=Dispatch|date=1997-10-27}}</ref>
+
+However, British Prime Minister, [[John Major]], flatly rejected the idea saying the British government did not have confidence in foreign courts.<ref>{{cite news|work=[[The Guardian]]|date=1999-05-11| page= 13|title=Mandela's parting shot at Major over Lockerbie}}</ref> A further three years elapsed until Mandela's offer was repeated to Major's successor, [[Tony Blair]], when the president visited London in July 1997. Later the same year, at the [[Commonwealth Heads of Government Meeting 1997|1997 Commonwealth Heads of Government Meeting]] (CHOGM) at [[Edinburgh]] in October 1997, Mandela warned:<blockquote>"No one nation should be [[complainant]], [[prosecutor]] and [[judge]]."</blockquote>
+<!-- Deleted image removed: [[File:MandelaGaddafi.jpg|right|thumb|300px|President Mandela negotiated with [[Muammar al-Gaddafi]] the hand-over of two accused Libyans to stand [[Pan Am Flight 103 bombing trial|trial]].|{{deletable image-caption|1=Wednesday, 11 March 2009}}]] -->
+A compromise solution was then agreed for a trial to be held at [[Camp Zeist, Netherlands|Camp Zeist]] in the [[Netherlands]], governed by [[Scots law]], and President Mandela began negotiations with Colonel [[Muammar al-Gaddafi|Gaddafi]] for the handover of the two accused ([[Abdelbaset Ali Mohmed Al Megrahi|Megrahi]] and [[Lamin Khalifah Fhimah|Fhimah]]) in April 1999.<ref>{{cite news | url=http://news.bbc.co.uk/1/hi/world/1144147.stm | title=Analysis: Lockerbie's long road | publisher=BBC|accessdate=2008-05-26 | date=2001-01-31}}</ref> At the end of their nine-month trial, the verdict was announced on 31 January 2001. Fhimah was found [[not guilty]] but Megrahi was convicted and sentenced to 27&nbsp;years in a Scottish jail. Megrahi's initial appeal was turned down in March 2002, and former president Mandela went to visit him in [[Barlinnie (HM Prison)|Barlinnie prison]] on 10 June 2002.
+{{quote|'Megrahi is all alone', Mandela told a packed press conference in the prison's visitors room. 'He has nobody he can talk to. It is psychological persecution that a man must stay for the length of his long sentence all alone. It would be fair if he were transferred to a Muslim country — and there are Muslim countries which are trusted by the West. It will make it easier for his family to visit him if he is in a place like the kingdom of Morocco, Tunisia or Egypt.'<ref>{{cite news | url=http://www.guardian.co.uk/uk/2002/jun/10/lockerbie.nelsonmandela | title=Mandela appeals on behalf of Lockerbie bomber | date=2002-06-10 | publisher=[[guardian.co.uk]]|accessdate=2008-05-26}}</ref>}}
+
+Megrahi was subsequently moved to Greenock jail and out of [[solitary confinement]].<ref>{{cite web|url=http://www.telegraph.co.uk/news/1484296/Lockerbie-bomber-leaves-solitary-confinement.html|title=Lockerbie bomber 'leaves solitary confinement'|date=25 February 2005|publisher=[[The Daily Telegraph]]|accessdate=2008-10-28}}</ref> In August 2009 Megrahi, suffering from cancer and expected to have only 3 months left to live, was released on compassionate grounds and allowed to return to Libya. The Nelson Mandela Foundation expressed its support for the decision to release Megrahi in a letter sent to the Scottish Government on behalf of Mandela.<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/scotland/8229338.stm|title=
+Mandela backs Lockerbie decision|publisher=bbc online|accessdate=2009-08-30|publish date=2009-08-30}}</ref>
+
+==Marriage and family==
+Mandela has been married three times, has fathered six children, has twenty grandchildren, and a growing number of great-grandchildren. He is grandfather to [[Tribal chief|Chief]] [[Mandla Mandela]].<ref>{{cite web | url=http://www.uq.net.au/~zzhsoszy/states/southafrica/thembu.html | title=Genealogical Gleanings | accessdate=2008-05-26 | author= Soszynski, Henry | publisher=[[University of Queensland]]}}</ref>
+
+===First marriage===
+
+Mandela's first marriage was to Evelyn Ntoko Mase who, like Mandela, was also from what later became the [[Transkei]] area of South Africa, although they actually met in Johannesburg.<ref>{{cite web|url=http://www.nelsonmandela.org/index.php/memory/views/chronology/|title=Nelson Mandela - Timeline|publisher=Nelson Mandela Foundation|accessdate=2008-10-28}}</ref> The couple broke up in 1957 after 13 years, divorcing under the multiple strains of his constant absences, devotion to revolutionary agitation, and the fact she was a [[Jehovah's Witnesses|Jehovah's Witness]], a religion which requires political neutrality.<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/world/africa/1454208.stm|title=Mandela's life and times|date=16 July 2008 |publisher=BBC|accessdate=2008-10-28}}</ref> Evelyn Mase died in 2004.<ref>{{cite web|url=http://www.iol.co.za/index.php?from=rss_General&set_id=1&click_id=139&art_id=qw1084030021347B211|title=Madiba bids final farewell to his first wife |date=8 May 2004 |publisher=IoL|accessdate=2008-10-28}}</ref> The couple had two sons, Madiba Thembekile (Thembi) (1946-1969) and [[Makgatho Mandela]] (1950-2005) , and two daughters, both named Makaziwe (known as Maki; born 1947 and 1953). Their first daughter died aged nine months, and they named [[Makaziwe Mandela|their second daughter]] in her honour.<ref>{{cite web|url=http://www.biography.com/blackhistory/nelson-mandela.jsp|title=Nelson Mandela Biography - Black History|publisher=Biography.com|accessdate=2008-10-28}}</ref> All their children were educated at the [[United World College]] of [[Waterford Kamhlaba]].<ref>{{cite web|url=http://www.uwc.org/about_us/international_movement/presidents_and_patrons|title=UWC - Presidents and Patrons|publisher=[[United World Colleges]]|accessdate=2008-10-28}}</ref>  Thembi was killed in a car crash in 1969 at the age of twenty-five, while Mandela was imprisoned on Robben Island, and Mandela was not allowed to attend the funeral.<ref>{{cite book|last=Smith|first=Charlene |coauthors=Tutu, Desmond |title=Mandela: In Celebration of a Great Life|publisher=Struik|date=2004|pages=41|isbn=1868728285}}</ref> Makgatho died of AIDS in 2005.
+
+===Second marriage===
+Mandela's second wife, [[Winnie Madikizela-Mandela]], also came from the Transkei area, although they, too, met in Johannesburg, where she was the city's first black social worker.<ref name="ANCWinnie"> {{cite web|url=http://www.anc.org.za/people/mandela_nw.html|title=Winnie Mandela|publisher=[[African National Congress|ANC]]|accessdate=2008-10-27}}</ref>  They had two daughters, Zenani (Zeni), born 4 February 1958, and Zindziswa (Zindzi) Mandela-Hlongwane, born 1960.<ref name="ANCWinnie"/> Zindzi was only 18 months old when her father was sent to Robben island. Later, Winnie would be deeply torn by family discord which mirrored the country's political strife; while her husband was serving a [[Life imprisonment|life sentence]] on the Robben Island prison, her father became the agriculture minister in the Transkei.<ref name="ANCWinnie"/> The marriage ended in separation (April 1992) and divorce (March 1996), fuelled by political estrangement.<ref>{{cite web|url=http://www.highbeam.com/doc/1G1-18170308.html|title=Nelson and Winnie Mandela divorce; Winnie fails to win $5 million settlement. |date=8 April 1996|publisher=Jet|accessdate=2008-10-27}}</ref>
+
+Mandela still languished in prison when his daughter Zenani was married to [[House of Dlamini|Prince Thumbumuzi Dlamini]] in 1973, elder brother of King [[Mswati III of Swaziland|Mswati III]] of [[Swaziland]].<ref>{{cite web|url=http://main.wgbh.org/ton/programs/5069_01.html|title=Swaziland prince and princess attend Boston University|date=13 May 1987|publisher=WGBH Boston|accessdate=2008-10-27}}</ref> Although she had vivid memories of her father, from the age of four up until sixteen, South African authorities did not permit her to visit him.<ref>{{cite web|url=http://www.highbeam.com/doc/1P2-1353217.html|title=Daddy Stayed In Jail. That Was His Job'; Zenani Mandela's Life Without Father |date=8 November 1987 |publisher=[[The Washington Post]]|accessdate=2008-10-27}}</ref>  The Dlamini couple live and run a business in [[Boston]].<ref name="CSIS"> {{cite web|url=http://www.csis.org/leadership/fellows/2008-09|title=AILA International Fellows Program |publisher=Center for Strategic & International Studies|accessdate=2008-10-27}}</ref> One of their sons, Prince [[Cedza Dlamini]] (born 1976), educated in the United States, has followed in his grandfather's footsteps as an international advocate for human rights and humanitarian aid.<ref name="CSIS"/>
+
+Zindzi Mandela-Hlongwane made history worldwide when she read out Mandela's speech refusing his conditional pardon in 1985. She is a businesswoman in South Africa with three children, the eldest of whom is a son, Zondwa Gadaffi Mandela.<ref>{{cite web|url=http://auroraempowerment.com/mandela.html|title=Zondwa Gadaffi Mandela  |publisher=Aurora Empowerment Systems|accessdate=2009-09-20}}</ref>
+
+===Third marriage===
+Mandela was remarried, on his 80th birthday in 1998, to [[Graça Machel]] ''née'' Simbine, widow of [[Samora Machel]], the former [[Mozambique|Mozambican]] president and ANC ally who was killed in an air crash 12&nbsp;years earlier.<ref>{{cite web|url=http://www.cnn.com/WORLD/africa/9807/18/mandela.wedding.02/|title=Mandela gets married on 80th birthday|date=18 July 1998|publisher=[[CNN]]|accessdate=2008-10-27}}</ref>  The wedding followed months of international negotiations to set the unprecedented bride-price to be remitted to Machel's clan. Said negotiations were conducted on Mandela's behalf by his traditional sovereign, King Buyelekhaya Zwelibanzi Dalindyebo.<ref>{{cite web|url=http://www.dispatch.co.za/2007/10/09/Easterncape/aking.html|title=andela, Kaunda honour king|last=Ngcukana|first=Lubabalo|publisher=Daily Dispatch|accessdate=2008-10-27}}</ref>  The [[paramount chief]]'s grandfather was the regent Jongintaba Dalindyebo, who had arranged a marriage for Mandela, which he eluded by fleeing to [[Johannesburg]] in 1940.<ref name="mandela1996pp10,20" />
+
+Mandela still maintains a home at Qunu in the realm of his royal nephew (second cousin thrice-removed in [[Western world|Western]] reckoning), whose university expenses he defrayed and whose privy councillor he remains.<ref>{{cite web | url=http://www.see.org.za/xsite/workshop_report1.htm | title=Zuidelijk Afrika | accessdate=2008-05-26 | last=de Bruyne | first=Marnix | publisher=Netherlands Institute for Southern Africa}}</ref>
+
+==Retirement==
+Mandela became the oldest elected President of South Africa when he took office at the age of 75 in 1994. He decided not to stand for a second term as President, and instead retired in 1999, to be succeeded by [[Thabo Mbeki]].
+
+After his retirement as President, Mandela went on to become an advocate for a variety of social and human rights organisations. He has expressed his support for the international [[Make Poverty History]] movement of which the [[ONE Campaign]] is a part.<ref name=povertyhistory>{{cite web | url=http://www.makepovertyhistory.org/theyearof | title=2005: The year of Make Poverty History | publisher=Make Poverty History | accessdate=2007-05-01}}</ref> The [[Nelson Mandela Invitational]] charity golf tournament, hosted by [[Gary Player]], has raised over twenty million [[South African rand|rands]] for children's charities since its inception in 2000.<ref name="MandelaInv">{{cite web|url=http://www.nelsonmandelainvitational.co.za/default.asp?id=227875&des=article|title=SA's best to join international stars for charity|date=5 September 2007|publisher=Nelson Mandela Invitational|accessdate=2008-10-27}}</ref>
+This annual special event has become South Africa's most successful charitable sports gathering and benefits both the Nelson Mandela Children's Fund and Gary Player Foundation equally for various children's causes around the world.<ref>{{cite web|url=http://garyplayer.com/news/news_detail/nelson_mandela_invitational_tees_off/|title=Nelson Mandela Invitational Tees Off|date=14 November 2003 |publisher=GaryPlayer.com|accessdate=2008-10-27}}</ref>
+
+Mandela is a vocal supporter of [[SOS Children's Villages]], the world's largest organisation dedicated to raising orphaned and abandoned children.<ref>{{cite web|url=http://www.sos-childrensvillages.org/Get-involved/Celebrities-as-partners/Pages/Nelson-Mandela.aspx|title=Nelson Mandela|publisher=SOS Children's Villages|accessdate=2008-08-01}}</ref> Mandela appeared in a televised advertisement for the [[2006 Winter Olympics]], and was quoted for the [[International Olympic Committee]]'s ''Celebrate Humanity'' campaign:<ref name=ioc>{{cite web | url=http://multimedia.olympic.org/pdf/en_report_902.pdf | publisher=[[International Olympic Committee]] | format=[[PDF]] | title=Celebrate Humanity 2004 | year=2004 | accessdate=2007-05-01}}</ref>
+
+{{quote|
+For seventeen days, they are roommates.
+For seventeen days, they are soulmates.
+And for twenty-two seconds, they are competitors.
+Seventeen days as equals. Twenty-two seconds as adversaries.
+What a wonderful world that would be.
+That's the hope I see in the Olympic Games.
+}}
+
+===Health===
+In July 2001 Mandela was diagnosed and treated for [[prostate cancer]]. He was treated with a seven-week course of radiation.<ref>{{cite news | publisher=BBC | url= http://news.bbc.co.uk/2/hi/africa/1492865.stm | title=Mandela 'responding well to treatment' | date=2001-08-15|accessdate=2008-05-26}}</ref> In June 2004, at age 85, Mandela announced that he would be retiring from public life. His health had been declining, and he wanted to enjoy more time with his family. Mandela said that he did not intend to hide away totally from the public, but wanted to be in a position "of calling you to ask whether I would be welcome, rather than being called upon to do things and participate in events. My appeal therefore is: Don't call me, I will call you."<ref>{{cite web | title="I'll call you" | publisher=SouthAfrica.info | date=2004-06-02 | url=http://www.southafrica.info/mandela/mandela-retirement.htm | accessdate=2008-05-26}}</ref> Since 2003, he has appeared in public less often and has been less vocal on topical issues.<ref name=retirement/>  He is white-haired and walks slowly with the support of a stick.
+
+In 2003 Mandela's death was [[List of premature obituaries|incorrectly announced]] by CNN when his pre-written obituary (along with those of several other famous figures) was inadvertently published on CNN's web site due to a fault in password protection.<ref>{{cite web | url=http://www.thesmokinggun.com/archive/cnnobit1.html | title=The Smoking Gun: Archive | year=2003 | accessdate=2007-05-01|publisher=[[The Smoking Gun]]}}</ref> In 2007 a fringe right-wing group distributed hoax email and SMS messages claiming that the authorities had covered up Mandela's death and that white South Africans would be massacred after his funeral. Mandela was on holiday in Mozambique at the time.<ref name=hoaxdeath>{{cite news | url=http://www.mg.co.za/articlePage.aspx?articleid=300707&area=/insight/insight__national | title=Not yet uhuru | author= Groenewald, Yolandi;  Joubert, Pearlie | publisher=[[Mail & Guardian]] | date=2007-03-02}}</ref>
+
+Mandela's 90th birthday was marked across the country on 18 July 2008, with the main celebrations held at his home town of Qunu.<ref name="FOXNews">{{cite web|url=http://www.foxnews.com/story/0,2933,385561,00.html|title=Nelson Mandela Celebrates 90th Birthday by Urging Rich to Help Poor|date= 18 July 2008|publisher=[[Fox News Channel|Fox News]]|accessdate=2008-10-27}}</ref>  A [[Nelson Mandela 90th Birthday Tribute|concert in his honour]] was also held in [[Hyde Park, London]].<ref>{{cite web|url=http://www.independent.co.uk/arts-entertainment/music/news/hyde-park-concert-to-mark--mandelas-90th-821776.html|title=Hyde Park concert to mark Mandela's 90th|last=Bingham|first=John|date=6 May 2008|publisher=[[The Independent]]|accessdate=2008-10-27}}</ref> In a speech to mark his birthday, Mandela called for the rich people to help poor people across the world.<ref name="FOXNews"/>
+
+===Elders===
+On 18 July 2007, Nelson Mandela, [[Graça Machel]], and [[Desmond Tutu]] convened a group of world leaders in Johannesburg to contribute their wisdom and independent leadership to address the world's toughest problems. Nelson Mandela announced the formation of this new group, [[Global Elders|The Elders]], in a speech he delivered on the occasion of his 89th birthday.<ref>{{cite web | url=http://www.msnbc.msn.com/id/19836050 | title=Mandela joins ‘Elders’ on turning 89 | publisher=[[MSNBC]]|accessdate=2008-05-26 | date=2007-07-20}}</ref>
+
+Archbishop Tutu serves as the chair of The Elders. The founding members of this group also include Graça Machel, [[Kofi Annan]], [[Ela Bhatt]], [[Gro Harlem Brundtland]], [[Jimmy Carter]], [[Li Zhaoxing]], [[Mary Robinson]] and [[Muhammad Yunus]].<ref>{{cite web|url=http://www.southafrica.info/mandela/theelders.htm|title=Mandela launches The Elders|date=19 July 2007 |publisher=SAinfo|accessdate=2008-10-27}}</ref>
+
+"This group can speak freely and boldly, working both publicly and behind the scenes on whatever actions need to be taken", Mandela commented.  "Together we will work to support courage where there is fear, foster agreement where there is conflict, and inspire hope where there is despair."<ref>{{cite web|accessdate=2008-05-26|url=http://www.theelders.org/transcript.aspx|title=Nelson Mandela announces The Elders|publisher=The Elders}}</ref>
+
+===AIDS engagement===
+Since his retirement, one of Mandela's primary commitments has been to the fight against [[AIDS]]. He gave the closing address at the [[XIII International AIDS Conference, 2000|XIII International AIDS Conference]] in 2000, in Durban, South Africa.<ref>Paul Tebas, MD, "Closing Ceremony," http://www.thebody.com/content/art16140.html</ref> In 2003, he had already lent his support to the [[46664 (concerts)|46664]] AIDS fundraising campaign, named after his prison number.<ref>{{cite web|url=http://www.46664.com/2|title=About 46664|publisher=46664.com|accessdate=2008-10-27}}</ref> In July 2004, he flew to [[Bangkok]] to speak at the [[XV International AIDS Conference, 2004|XV International AIDS Conference]].<ref>{{cite web|url=http://www.kaisernetwork.org/aids2004/kffsyndication.asp?show=portal_071504.html|title=XV International AIDS Conference - Daily Coverage|date=15 July 2004|publisher=Kaisernetwork|accessdate=2008-10-27}}</ref>  His son, [[Makgatho Mandela]], died of AIDS on 6 January 2005.<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/world/africa/4151159.stm|title=Mandela's eldest son dies of Aids|date=6 January 2005|publisher=BBC|accessdate=2008-10-27}}</ref>  Mandela's AIDS activism is chronicled in [[Stephanie Nolen]]'s book, [[28 (book)|28: Stories of AIDS in Africa]].
+
+===Iraq invasion views===
+In 2002 and 2003, Mandela criticised the foreign policy of the [[George W. Bush administration|administration]] of [[U.S. president]] [[George W. Bush]] in a number of speeches.<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/world/middle_east/2228971.stm|title=Mandela warns Bush over Iraq|date=1 September 2002|publisher=BBC|accessdate=2008-10-27}}</ref><ref>{{cite web|url=http://www.independent.co.uk/news/world/africa/mandela-lambastes-arrogant-bush-over-iraq-609026.html|title=Mandela lambastes 'arrogant' Bush over Iraq|last=Cornwell|first=Rupert |date=31 January 2003|publisher=[[The Independent]]|accessdate=2008-10-27}}</ref> Criticising the lack of [[UN]] involvement in the decision to begin the [[War in Iraq]], he said, "It is a tragedy, what is happening, what Bush is doing. But Bush is now undermining the [[United Nations]]." Mandela stated he would support action against [[Iraq]] only if it is ordered by the [[UN]]. Mandela also insinuated that Bush may have been motivated by [[racism]] in not following the [[UN]] and its secretary-general [[Kofi Annan]] on the issue of the war. "Is it because the secretary-general of the United Nations is now a black man? They never did that when secretary-generals were white".<ref name="CBS30012003">{{cite web | author= Fenton, Tom | publisher=[[CBS]] | title=Mandela Slams Bush On Iraq | date=2003-01-30 | url=http://www.cbsnews.com/stories/2003/01/30/iraq/main538607.shtml | accessdate=2008-05-26}}</ref>
+
+He urged the people of the U.S. to join massive protests against Bush and called on world leaders, especially those with vetoes in the [[UN Security Council]], to oppose him.<ref>{{cite web|url=http://www.cbsnews.com/stories/2003/01/30/iraq/main538607.shtml|title=Mandela Slams Bush On Iraq|date=30 January 2003|publisher=CBS News|accessdate=2008-12-23}}</ref> "What I am condemning is that one power, with a president who has no foresight, who cannot think properly, is now wanting to plunge the world into a holocaust." He attacked the United States for its record on [[human rights]] and for dropping [[Atomic bombings of Hiroshima and Nagasaki|atomic bombs on Japan]] during [[World War II]]. "If there is a country that has committed unspeakable atrocities in the world, it is the United States of America. They don't care."<ref name="CBS30012003"/>
+
+===Ismail Ayob controversy===
+{{See|Ismail Ayob}}
+[[Ismail Ayob]] was a trusted friend and personal attorney of Mandela for over 30&nbsp;years. In May 2005, Ayob was asked by Mandela to stop selling [[printmaking|prints]] signed by Mandela and to account for the proceeds of their sale. This bitter dispute led to an extensive application to the [[High Court of South Africa]] by Mandela that year.<ref>{{cite news | work=Mail & Guardian | title=Mandela sues over forged sketches | author= Chanda, Abhik Kumar | date=2005-05-10 | url=http://www.mg.co.za/articledirect.aspx?articleid=237663|accessdate=2008-05-26}}</ref> Ayob denied any wrongdoing,<ref>{{cite news | url=http://www.businessday.co.za/articles/specialreports.aspx?ID=BD4A67853 | publisher=Business Day | date=2005-07-13 | title=Ayob denies gain from Mandela art | first=Ernest | last=Mabuza|accessdate=2008-05-26}}</ref> and claimed that he was the victim of a smear campaign orchestrated by Mandela's advisors, in particular, lawyer [[George Bizos]].<ref name=poorismail>{{cite news|title=Poor Ismail Ayob|first=Fikile-Notsikelelo|last=Moya|date=2005-08-05|publisher=Mail & Guardian|url=http://www.mg.co.za/articlePage.aspx?articleid=247331&area=/insight/insight__comment_and_analysis/|accessdate=2008-05-26}}</ref> 
+
+In 2005, and 2006 Ayob, his wife, and son were subject to an attack by Mandela's advisors. The dispute was widely reported in the media, with Ayob being portrayed in a negative light, culminating in the action by Mandela to the High Court. There were public meetings at which Mandela associates attacked Ayob and there were calls for Ayob and his family to be ostracised by society.<ref>{{cite news|url=http://www.businessday.co.za/articles/specialreports.aspx?ID=BD4A71659|date=2005-07-21|title=
+Courts ’have final word on Mandela-Ayob clash’|first=Jacques|last=Keet|publisher=Business Day|accessdate=2008-05-26}}</ref> The defence of Ismail and Zamila Ayob (his wife, and a fellow [[respondent]]) included documents signed by Mandela and witnessed by his secretaries, that, they claimed, refuted many of the allegations made by Nelson Mandela and his advisors.<ref>{{cite news|url=http://www.businessday.co.za/articles/specialreports.aspx?ID=BD4A70054|date=2005-07-18|title=Bizos behind vicious campaign to discredit, defame me — Ayob|first=Ernest|last=Mabuza|publisher=Business Day}}</ref>
+
+The dispute again made headlines in February 2007 when, during a hearing in the Johannesburg High Court, Ayob promised to pay R700 000 to Mandela, which Ayob had transferred into trusts for Mandela's children, and apologised,<ref>{{cite news|url=http://www.news24.com/News24/South_Africa/News/0,9294,2-7-1442_2075833,00.html|title=Ayob to pay back Mandela money|date=2007-02-27|publisher=[[News24]]|accessdate=2008-05-26}}</ref><ref name=whatcaused>{{cite news|url=http://www.iol.co.za/index.php?art_id=vn20070304081421601C920210|title=What caused the Ayob, Mandela spat? |first=Jeremy|last=Gordin |date=2007-03-04|work=[[Sunday Independent]]|accessdate=2008-05-26}}</ref> although he later claimed that he was the victim of a "[[Feud|vendetta]]", by Mandela.<ref>{{cite news|url=http://www.iol.co.za/index.php?art_id=vn20070303084618645C367333|title=Mandela waging a vendetta - Ayob |date=2007-03-03|first=Michael|last=Schmidt|publisher=Pretoria News}}</ref>  Some media commentators expressed sympathy for Ayob's position, pointing out that Mandela's iconic status would make it difficult for Ayob to be treated fairly.<ref name=poorismail/>
+
+====Allegations====
+Ayob, George Bizos and Wim Trengove were trustees of the Nelson Mandela Trust, which was set up to hold millions of rands donated to Nelson Mandela by prominent business figures, including the [[Nicky Oppenheimer|Oppenheimer]] family, for the benefit of his children and grandchildren.<ref>{{cite web|url=http://www.mg.co.za/article/2007-02-25-mandelas-lawyers-take-ismail-to-court-over-money|title=Mandela's lawyers take Ismail to court over money|date=25 February 2007 |publisher=Mail & Guardian|accessdate=2008-10-27}}</ref> Ayob later resigned from the Trust. In 2006, the two remaining trustees of the Nelson Mandela Trust launched an application against Ayob for disbursing money from the trust without their consent.<ref>{{cite news|url=http://www.news24.com/City_Press/News/0,7515,186-187_2078129,00.html|date=2007-03-03|title=Madiba set me up, says Ayob|author= Sefara, Makhudu;  Mapiloko, Jackie|publisher=[[News24]]|accessdate=2008-05-26}}</ref> Ayob claimed that this money was paid to the [[South African Revenue Service]], to Mandela's children and grandchildren, to Mandela himself, and to an accounting company for four years of accounting work.<ref name=whatcaused/>
+
+Bizos and Trengrove refused to ratify the payments to the children and grandchildren of Nelson Mandela and the payments to the accounting firm. A court settlement was reached in which this money, totalling over R700,000 was paid by Ismail Ayob to the trust on the grounds that Ayob had not sought the express consent of the other two trustees before disbursing the money.<ref>{{cite web|url=http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=vn20060708085708263C605474|title='Ayob tried to cover up unlawful spending' |last=Adams |first=Sheena |date=8 July 2006|publisher=IOL|accessdate=2008-10-27}}</ref>  It was alleged that Ayob made defamatory remarks about Mandela in his affidavit, for which the court order stated that Ayob should apologise.<ref>{{cite web|url=http://www.highbeam.com/doc/1G1-159966227.html|title=Lawyer to pay back R800000 to Mandela trust|last=Mkhwanazi |first=Siyabonga|date=28 February 2007|publisher=Pretoria News (South Africa)|accessdate=2008-10-27}}</ref> It was pointed out that these remarks, which centred on Nelson Mandela holding foreign bank accounts and not paying tax on these, had not originated from Ayob's affidavit but from Nelson Mandela's and George Bizos's own affidavits.<ref name=ismailnocash>{{cite news|url=http://allafrica.com/stories/200703100051.html|title=Ayob Runs Out of Cash But Accuses Mandela Again|publisher=Business Day|date=2007-03-10|first=Ernest|last=Mabuza|accessdate=2008-05-26}}</ref>
+
+===Blood Diamond controversy===
+In a ''[[The New Republic]]'' article in December 2006, Nelson Mandela was criticised for a number of positive comments he had made about the diamond industry. There were concerns that this would benefit suppliers of [[blood diamond]]s.<ref>{{cite web|url=http://www.jckonline.com/article/CA6346260.html|title=Nelson Mandela to speak out for diamond industry|last=Bates|first=Rob|date=22 June 2006|publisher=Jewelers' Circular Keystone|accessdate=2008-10-27}}</ref> In a letter to [[Edward Zwick]], the director of the motion picture ''[[Blood Diamond (film)|Blood Diamond]]'', Mandela had noted that:
+
+{{quote|...it would be deeply regrettable if the making of the film inadvertently obscured the truth, and, as a result, led the world to believe that an appropriate response might be to cease buying mined diamonds from Africa. ... We hope that the desire to tell a gripping and important real life historical story will not result in the destabilization of African diamond producing countries, and ultimately their peoples.<ref>{{cite web|url=http://www.tnr.com/doc.mhtml?i=20061218&s=chotiner121806|archiveurl=http://web.archive.org/web/20070308142504/http://www.tnr.com/doc.mhtml?i=20061218&s=chotiner121806|archivedate=2007-03-08 |title=Half Nelson - Mandela, diamond shill|work=[[The New Republic]]|date=2006-12-08|accessdate=2008-05-26}}</ref>}}
+
+The ''New Republic'' article claims that this comment, as well as various pro-diamond-industry initiatives and statements during his life and during his time as a president of South Africa, were influenced by both his friendship with [[Harry Oppenheimer]], former chairman of [[De Beers]], as well as an outlook for 'narrow national interests' of South Africa (which is a major diamond producer).<ref>{{cite web|url=http://latimesblogs.latimes.com/thedishrag/2006/06/mandela-to-defe.html|title=Mandela to defend De Beers from bad "Blood"|last= Snead|first=Elizabeth|date=15 June 2006|publisher=LA Times|accessdate=2008-10-27}}</ref>
+
+=== Zimbabwe and Robert Mugabe ===
+[[Robert Mugabe]], the president of [[Zimbabwe]] who has led the country since independence in 1980, has been widely criticised internationally for the 1980s [[Gukurahundi|fighting which killed about 3000 people]] as well as corruption, incompetent administration, political oppression and cronyism that has ultimately led to the economic collapse of the country.<ref>{{cite web|url=http://www.thezimbabwetimes.com/?p=97|title=Gukurahundi and current wave of violence similar|last=Chimuka|first=Garikai|date=14 May 2008|publisher=The Zimbabwe Times|accessdate=2008-10-26}}</ref><ref>{{cite web|url=http://news.bbc.co.uk/1/hi/world/africa/1709488.stm|title=Mugabe's descent into dictatorship|last= Winter|first=Joseph|date=13 March 2002|publisher=BBC|accessdate=2008-10-26}}</ref>
+
+Despite their common background as national liberators, Mandela and Mugabe were seldom seen as close. Mandela criticised Mugabe in 2000, referring to African leaders who had liberated their countries but had then overstayed their welcome.<ref name=mugabe>{{cite news|title=Mandela expresses anger at Mugabe
+|url=http://www.namibian.com.na/Netstories/2000/May/Africa/007A98DA73.html|date=2000-05-08|work=[[The Namibian]]|accessdate=2008-05-26}}</ref><ref name=mbeki-aids>{{cite news|url=http://archives.cnn.com/2000/WORLD/africa/09/29/safrica.mandela.reut/index.html|title=Mandela repudiates Mbeki on AIDS stance|publisher=CNN|date=2000-09-29|accessdate=2008-05-26}}</ref> In his retirement, Mandela spoke out less often on Zimbabwe and other international and domestic issues,<ref name=retirement>{{cite news|url=http://www.guardian.co.uk/world/2006/jul/18/southafrica.rorycarroll|work=[[The Guardian]]|title=Mandela keeps his opinions to himself as a nation marks its idol's birthday|first=Rory|last=Carroll|date=2006-07-18|accessdate=2008-05-26}}</ref> sometimes leading to criticism for not using his influence to greater effect to persuade Mugabe to moderate his policies.<ref name=zim>{{cite web|url=http://www.villagevoice.com/news/0322,hentoff,44393,6.html|work=[[The Village Voice]]|title=Where is Nelson Mandela?|last=Hentoff|first=Matt|date=2003-05-23|accessdate=2008-05-26}}</ref> His lawyer George Bizos revealed that Mandela has been advised on medical grounds to avoid engaging in stressful activity such as political controversy.<ref name=trapido>{{cite web|url=http://www.thoughtleader.co.za/traps/2008/06/09/why-has-nelson-mandela-remained-silent-on-zimbabwe/|work=[[Thought Leader]]|title=Why has Nelson Mandela remained silent on Zimbabwe?|last=Trapido|first=Michael|date=2008-06-10|accessdate=2008-06-25}}</ref> Nonetheless, in 2007, Mandela attempted to persuade Mugabe to leave office "sooner than later", with "a modicum of dignity", before he was hounded out like [[Augusto Pinochet]]. Mugabe did not respond to this approach.<ref>{{cite news|url=http://www.news24.com/News24/Africa/Zimbabwe/0,,2-11-1662_2214253,00.html|title=Mugabe snubs Mandela|date=2007-11-05|publisher=News24}}</ref>  In June 2008, at the height of the crisis over the [[Zimbabwean presidential election, 2008|Zimbabwean presidential election]], Mandela condemned the "tragic failure of leadership" in Zimbabwe.<ref name=zimfailure>{{cite news|url=http://www.news24.com/News24/Africa/Zimbabwe/0,,2-11-1662_2347143,00.html|title=Failure of leadership in Zim - Mandela|publisher=News24|date=2008-06-25}}</ref>
+
+==Acclaim==
+[[File:Soviet Union stamp 1988 CPA 5971.jpg|thumb|right|upright|Fighter for liberation of South Africa Nelson Mandela on a 1988 [[USSR]] commemorative stamp]]
+
+{{cquote2|Mandela rightly occupies an untouched place in the South African imagination. He's the national liberator, the savior, its [[George Washington|Washington]] and [[Abraham Lincoln|Lincoln]] rolled into one.| ''[[Newsweek Magazine]]'' <ref>[http://www.newsweek.com/id/214032/output/print Father Disfigure] by Eve Fairbanks, [[Newsweek Magazine]]'', August 27 2009</ref>}}
+
+===Orders and decorations===
+
+{{Main|List of Nelson Mandela awards and honours}}
+
+Mandela has received many South African, foreign and international honours, including the [[Nobel Peace Prize]] in 1993 (which was shared with [[Frederik Willem de Klerk]]),<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/peace/laureates/1993/|title=The Nobel Peace Prize 1993|publisher=Nobelprize.org|accessdate=2008-10-26}}</ref>  the  [[Order of Merit (Commonwealth)|Order of Merit]] and the [[Venerable Order of Saint John|Order of St. John]] from [[Elizabeth II of the United Kingdom|Queen Elizabeth II]] and the [[Presidential Medal of Freedom]] from [[George W. Bush]].<ref>{{cite web|url=http://www.royal.gov.uk/output/page1880.asp|title=The Order of Merit|date=November 2002|publisher=Royal Insight|accessdate=2008-10-26}}</ref><ref>{{cite web|url=http://georgewbush-whitehouse.archives.gov/news/releases/2002/07/20020709-8.html|title=President Honors Recipients of the Presidential Medal of Freedom|date=9 July 2002 |publisher=The White House|accessdate=2008-10-26}}</ref>  In July 2004, the city of [[Johannesburg]] bestowed its highest honour on Mandela by granting him the [[freedom of the city]] at a ceremony in [[Orlando, Soweto|Orlando]], [[Soweto]].<ref>{{cite web|url=http://www.gpg.gov.za/docs/nz/2004/nz0727.html|title=Madiba conferred freedom of Johannesburg|date=27 July 2004 |publisher=Gauteng Provincial Government|accessdate=2008-10-26}}</ref>
+
+As an example of his popular foreign acclaim, during his tour of Canada in 1998, 45,000 school children greeted him with adulation at a speaking engagement in the [[Rogers Centre|SkyDome]] in the city of [[Toronto]].<ref>{{cite web|url=http://www.rooneyproductions.com/events/m_child.htm|title=Mandela and the Children|publisher=Rooney Productions|accessdate=2008-10-26}}</ref> In 2001, he was the first living person to be made an [[Honorary Citizenship of Canada|honorary Canadian citizen]] (the only previous recipient, [[Raoul Wallenberg]], was awarded honorary citizenship posthumously).<ref>{{cite web|url=http://www.cbc.ca/canada/story/2001/11/19/mandela_011119.html|title=Mandela to be honoured with Canadian citizenship|date=19 November 2001 |publisher=CBC News|accessdate=2008-10-26}}</ref>   While in Canada, he was also made an honorary Companion of the  [[Order of Canada]], one of the few foreigners to receive the honour.<ref>{{cite web|url=http://www.gg.ca/honours/search-recherche/honours-desc.asp?TypeID=orc&id=3904&lang=e|title=Order of Canada - Nelson Mandela, C.C.|publisher=Governor General of Canada|accessdate=2008-10-26}}</ref>
+
+In 1990 he received the [[Bharat Ratna]] Award from the government of India and also received the last ever [[Lenin Peace Prize]] from Russia.<ref>{{cite web|url=http://india.gov.in/myindia/bharatratna_awards.php|title=Bharat Ratna Award|publisher=National Portal of India|accessdate=2008-10-26}}</ref> In 1992 he was awarded the Atatürk Peace Award by [[Turkey]]. He refused the award citing human rights violations committed by Turkey at the time, but later accepted the award in 1999.<ref name=ataturk>{{cite web | url=http://www.anc.org.za/ancdocs/pr/1992/pr0412a.html | title=Statement on the Ataturk Award given to Nelson Mandela | date=1992-04-12 | publisher=African National Congress | acdcessdate=2007-01-02}}</ref>
+
+<!-- 
+NOTE: 
+Rather than expanding this section, please add information about awards to [[List of Nelson Mandela awards and honours]].
+-->
+
+===Musical tributes===
+Many artists have dedicated songs to Mandela. One of the most popular was from the [[The Specials]] who recorded the song "[[Free Nelson Mandela]]" in 1983. [[Stevie Wonder]] dedicated his 1985 [[Academy Award for Best Original Song|Oscar]] for the song "[[I Just Called to Say I Love You]]" to Mandela, resulting in his music being banned by the [[South African Broadcasting Corporation]].<ref name=wonder>{{cite news | url=http://query.nytimes.com/gst/fullpage.html?res=9F00E4DD1438F934A15750C0A963948260 | title=Stevie Wonder Music Banned in South Africa | date=1985-03-27 | work=[[The New York Times]]|accessdate=2008-05-26}}</ref>  In 1985, [[Youssou N'Dour]]'s album ''Nelson Mandela'' was the [[Senegal]]ese artist's first United States release.
+
+In 1988, the [[Nelson Mandela 70th Birthday Tribute]] concert at London's [[Wembley Stadium (1923)|Wembley Stadium]] was a focal point of the anti-apartheid movement, with many musicians voicing their support for Mandela.<ref name="Mandela70">{{cite web|url=http://www.anc.org.za/ancdocs/history/mandela/awards/wembley88.html|title=The Mandela Concert, Wembley 1988|last=Ketchum |first=Mike|publisher=[[African National Congress]]|accessdate=2008-12-23}}</ref> [[Jerry Dammers]], the author of ''Nelson Mandela'', was one of the organisers.<ref name="Mandela70"/> [[Simple Minds]] recorded the song "Mandela Day" for the concert,<ref name="Mandela70"/>  [[Santana (band)|Santana]] recorded the instrumental "Mandela",<ref name="Mandela70"/> [[Tracy Chapman]] performed "Freedom Now", dedicated to Mandela and released on her album ''[[Crossroads (album)|Crossroads]]'',<ref name="Mandela70"/> [[Salif Keita]] from [[Mali]], who played at the concert, later visited South Africa and in 1995 recorded the song "Mandela" on his album ''[[Folon]]''.<ref name="Mandela70"/> and [[Whitney Houston]] performed and dedicated the gospel song "He I Believe".
+
+In South Africa, "''Asimbonanga (Mandela)''" ("We Have Not Seen Him") became one of [[Johnny Clegg]]'s most famous songs, appearing on his ''[[Third World Child]]'' album in 1987.<ref>{{cite book|last=Drewett|first=Michael|coauthors=Cloonan, Martin|title=Popular Music Censorship in Africa|publisher=Ashgate Publishing|date=2006|pages=30|isbn=0754652912}}</ref> [[Hugh Masekela]], in exile in the UK, sang "Bring Him Back Home (Nelson Mandela)" in 1987.<ref>{{cite book|last=Guernsey|first=Otis L.|coauthors=Sweet, Jeffrey; Kronenberger, Louis|title=The Best Plays|publisher=University of Michigan|date=21 May 2008|pages=347|isbn=1557830401}}</ref> [[Brenda Fassie]]'s 1989 song "Black President", a tribute to Mandela, was hugely popular even though it was banned in South Africa.<ref name=fassie>{{cite news | url=http://www.bbc.co.uk/africabeyond/africaonyourstreet/features/17724.shtml | title=Brenda Fassie dies | publisher=BBC | year=2004|accessdate=2008-05-26}}</ref> [[Nigeria]]n reggae musician [[Majek Fashek]] released the single, "Free Mandela", in 1992, making him one of many Nigerian recording artists who had released songs related to the anti-apartheid movement and to Mandela himself.
+
+In 1990, [[Hong Kong]] rock band [[Beyond (band)|Beyond]] released a popular Cantonese song, "Days of Glory". The anti-apartheid song featured lyrics referring to Mandela's heroic struggle for racial equality.<ref name="beyond">{{cite web | last=Lee | first=Carmen | work=[[Time (magazine)|Time]] | title=20 Years Ago Today | url=http://www.time.com/time/magazine/article/0,9171,501030623-458836,00.html | accessdate=2008-05-27 | date=2003-06-16}}</ref> In 2003, Mandela lent his weight to the [[46664 (concerts)|46664]] campaign against [[AIDS]], named after his prison number. Many prominent musicians performed in concerts as part of this campaign.<ref>{{cite book|last=Sherrod|first=Lonnie R.|title=Youth Activism: An International Encyclopedia|publisher=Greenwood Press|date=2006|pages=62|isbn=0313328129}}</ref> 
+
+When Mandela was released from prison in 1990 and the apartheid abolished in 1991, [[Ladysmith Black Mambazo]] wrote a celebratory album, ''[[Liph' Iqiniso]]'', that was released in 1993. The last track on the album, ''[["Isikifil' Inkululeko(Freedom Has Arrived)"]]'', was a celebration of the end of the apartheid. The group also accompanied Mandela in 1993 to the [[Nobel Peace Prize]] ceremony in [[Oslo, Norway]], and performed for his inaugaration in 1994.
+
+A summary of Mandela's life story is featured in the 2006 music video "[[If Everyone Cared]]" by [[Nickelback]].<ref>{{cite web|url=http://top40.about.com/od/singles/gr/ifeveryonecared.htm|title=Nickelback - If Everyone Cared|last=Lamb|first=Bill|publisher=About|accessdate=2008-12-23}}</ref>[[Raffi (musician)|Raffi]]'s song "Turn This World Around" is based on a speech given by Mandela where he explained the world needs to be "turned around, for the children".<ref>{{cite web|url=http://www.myhero.com/myhero/hero.asp?hero=nelsonMandela|title=Freedom Hero: Nelson Mandela|last=Trussell|first=Jeff|publisher=The My Hero Project|accessdate=2008-12-23}}</ref> A tribute concert for Mandela's 90th birthday took place in [[Hyde Park, London|Hyde Park]], [[London]] on 27 June 2008.<ref>{{cite web|url=http://www.nelsonmandela.org/index.php/news/article/mandelas_90th_birthday_year_celebrates_diversity_of_ideas/|title=Mandela's 90th birthday year celebrates diversity of ideas|publisher=Nelson Mandela Foundation|accessdate=2008-05-26}}</ref>
+
+===Published biographies===
+Mandela's autobiography, ''[[Long Walk to Freedom (book)|Long Walk to Freedom]]'', was published in 1994. Mandela had begun work on it secretly while in prison.<ref>[[#mandela1996|Mandela 1996]], p. 144-148.</ref> In that book Mandela did not reveal anything about the alleged complicity of [[Frederik Willem de Klerk|F.W. de Klerk]] in the violence of the eighties and nineties, or the role of his ex-wife [[Winnie Mandela]] in that bloodshed. However, he later co-operated with his friend, journalist [[Anthony Sampson]] who discussed those issues in ''[[Mandela: The Authorised Biography]]''.<ref>{{cite web|url=http://www.wsws.org/articles/1999/aug1999/mand-a05.shtml|title=Biography falls short of penetrating myth surrounding ANC leader|last=Ann|first=Talbot|date=5 August 1999|publisher=International Committee of the Fourth International (ICFI)|accessdate=2008-10-28}}</ref>  Another detail that Mandela omitted was the allegedly fraudulent book, ''[[Goodbye Bafana]]''.<ref name="NewStatesman">{{cite web|url=http://www.newstatesman.com/film/2007/05/goodbye-bafana-mandela-life|title=Whitewashed and watered down|last= Gilbey|first=Ryan|date=14 May 2007|publisher=[[New Statesman]]|accessdate=2008-10-28}}</ref> Its author, Robben Island warder [[James Gregory (writer)|James Gregory]], claimed to have been Mandela's confidant in prison and published details of the prisoner's family affairs.<ref name="NewStatesman"/>  Sampson maintained that Mandela had not known Gregory well, but that Gregory censored the letters sent to the future president and thus discovered the details of Mandela's personal life. Sampson also averred that other warders suspected Gregory of spying for the government and that Mandela considered suing Gregory.<ref name=sampson>{{cite book
+|title=[[Mandela: The Authorised Biography]]
+|first=Anthony
+|last=Sampson
+|authorlink=Anthony Sampson
+|pages=217
+|year=1999
+|publisher=[[HarperCollins]]}}</ref>
+
+===Cinema and television===
+The film ''Mandela and De Klerk'' told the story of Mandela's release from prison.<ref>{{cite web|url=http://movies.nytimes.com/movie/161621/Mandela-and-de-Klerk/overview|title=''Mandela and de Klerk'' (1997)|work=[[The New York Times]]|accessdate=2008-10-26}}</ref>  Mandela was played by [[Sidney Poitier]]. ''[[Goodbye Bafana]]'', a feature film that focuses on Mandela's life, had its world premiere at the Berlin film festival on 11 February 2007. The film starred [[Dennis Haysbert]] as Mandela and chronicled Mandela's relationship with prison guard [[James Gregory (writer)|James Gregory]].<ref>{{cite web|url=http://www.goodbyebafana.com/synopsis/|title=''Goodbye Bafana'' - Sypnosis|publisher=Goodbye Bafana - Official site|accessdate=2008-10-26}}</ref>
+
+In the final scene of the 1992 movie ''[[Malcolm X (film)|Malcolm X]]'', Mandela – recently released after 27&nbsp;years of political imprisonment – appears as a schoolteacher in a [[Soweto]] classroom.<ref name="Guardian">{{cite web|url=http://www.guardian.co.uk/film/2004/jun/03/features.matthewcunningham|title=Creme cameos|last=Cunningham |first=Matthew|date=3 June 2004|work=[[The Guardian]]|accessdate=2008-10-26}}</ref> He recites a portion of one of [[Malcolm X]]'s most famous speeches, including the following sentence: ''"We declare our right on this earth to be a human being, to be respected as a human being, to be given the rights of a human being in this society, on this earth, in this day, which we intend to bring into existence..."''  
+The famous final phrase of that sentence is  "''[[by any means necessary]]''."<ref name="EdGuerrero">{{cite book|last=Guerrero|first=Ed |title=Framing Blackness: The African American Image in Film|publisher=Temple University Press|date=1993|pages=202|isbn=1566391261}}</ref> Mandela informed director [[Spike Lee]] that he could not utter the phrase on camera fearing that the apartheid government would use it against him if he did. Lee obliged, and the final seconds of the film feature black-and-white footage of Malcolm X himself delivering the phrase.<ref name="EdGuerrero"/>
+
+Mandela and [[Springboks]] captain, [[Francois Pienaar]], are the focus of a 2008 book by John Carlin, ''Playing the Enemy: Nelson Mandela and the Game that Made a Nation'',<ref>Carlin, John (2008). ''Playing the Enemy: Nelson Mandela and the Game that Made a Nation''. New York: Penguin Press. ISBN 9781594201745</ref> that spotlights the role of the [[1995 Rugby Union World Cup]] win in post-apartheid South Africa. Carlin sold the film rights to [[Morgan Freeman]].<ref name=KellerB-NYTBR-2008-08-17>Keller, Bill. - "Entering the Scrum". - ''[[The New York Times Book Review]]''. - 17 August 2008.</ref> The film, entitled [[Invictus (film)|Invictus]],<ref>{{cite web|url=http://www.planet-rugby.co.za/Story/0,18259,3551_4695695,00.html|title=The cast of the World Cup film revealed!|date=24 December 2008|publisher=Planet Rugby|accessdate=2009-01-10}}</ref> will be directed by [[Clint Eastwood]], and will feature Freeman as Nelson Mandela and [[Matt Damon]] as Pienaar.<ref name=KellerB-NYTBR-2008-08-17 />
+
+In a forthcoming BBC television one-off drama ''Mrs Mandela'', Nelson Mandela will be portrayed by [[David Harewood]] and [[Sophie Okonedo]] will play his former wife [[Winnie Mandela]].<ref>{{cite news|author=Dowell, Ben|url=http://www.guardian.co.uk/media/2009/mar/11/bbc-commissions-winnie-mandela-drama|title=BBC commissions Winnie Mandela drama|work=guardian.co.uk|publisher=Guardian News and Media|date=11 March 2009|accessdate=11 March 2009}}</ref>
+
+===Statues and civic tributes===
+[[File:MandelaStatue.jpg|thumb|right|upright|The statue of Mandela in [[Parliament Square]], London.]]
+[[File:Nelson Mandella Gardens.jpg|thumb|right|upright|Nelson Mandela Gardens in [[Leeds]]]]
+On 30 April 2001, Nelson Mandela Gardens in [[Millennium Square, Leeds|Millenium Square]], [[Leeds]] was officially opened and Nelson Mandela was awarded the [[freedom of the city]] and awarded a commemorative 'golden owl' (the heraldric symbol of Leeds).  In a speech outside [[Leeds Civic Hall]] in front of 5000 people, mistakenly Mandela famously thanked 'the people of [[Liverpool]] for their generosity'.<ref>{{cite news|publisher=The Independent | title=Mandela vindicates `loony left' of Leeds for honouring struggle | author=Ian Herbert North | date=2001-05-01 | accessdate=2008-01-24 | url=http://findarticles.com/p/articles/mi_qn4158/is_20010501/ai_n14389284 }}</ref>
+
+On 31 March 2004, Sandton Square in [[Johannesburg]] was renamed [[Nelson Mandela Square]], after a 6-metre statue of Nelson Mandela was installed on the square to honour the famous South African statesman.<ref>{{cite web|url=http://www.highbeam.com/doc/1P2-16564833.html|title=S. Africa renames Sandton Square as Nelson Mandela Square |date=31 March 2004|publisher=Xinhua News Agency|accessdate=2008-10-28}}</ref>
+
+On 29 August 2007, a statue of Nelson Mandela was unveiled at [[Parliament Square]] in [[London]] by [[Richard Attenborough]], [[Ken Livingstone]], Wendy Woods, and [[Gordon Brown]].<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/england/6967927.stm|title=Nelson Mandela statue is unveiled |date=29 August 2007|publisher=[[BBC News]]|accessdate=2008-12-23}}</ref> The campaign to erect the statue was started in 2000 by the late [[Donald Woods]], a South African journalist driven into exile because of his anti-apartheid activities. Mandela stated that it represented not just him, but all those who have resisted oppression, especially those in South Africa.<ref>{{cite web|url=http://www.london.gov.uk/view_press_release.jsp?releaseid=1752|title=Broad Parliamentary Support for Trafalgar Square Mandela statue|date=21 May 2003|publisher=London|accessdate=2008-12-23}}</ref> He added: "The history of the struggle in South Africa is rich with the stories of heroes and heroines, some of them leaders, some of them followers. All of them deserve to be remembered."<ref name=News24>{{cite web|url=http://www.news24.com/News24/World/News/0,,2-10-1462_2173453,00.html|publisher=[[News24]]|title=Mandela salutes apartheid heroes|date=2007-08-29|accessdate=2008-05-26}}</ref>
+
+On 27 August 2008, a statue of Nelson Mandela was unveiled at Groot Drakenstein Correction Centre ( ref Drakenstein Correction centre) between Paarl and Franshhoek on the R301 road, near Cape Town. Formerly known as Victor Verster, this was where Mandela spent the last few years of his 27 years in jail in relative comfort, as he and other ANC stalwarts negotiated with the apartheid government on the terms of his release and the nature of the new South Africa.
+It stands on the very spot where Mandela took his first steps as a free man. Just outside the prison gates – the culmination of the Long Walk to Freedom – the title of Mandela's autobiography.
+http://www.mediaclubsouthafrica.com/index.php?option=com_content&view=article&id=703:mandelastatue270808&catid=42:land_news&Itemid=110
+http://www.nelsonmandela.org/index.php/news/article/nelson_mandela_statue_unveiled_in_cape_town/
+http://www.oryxmedia.co.za/wp-content/gallery/people/Mandela%20outside%20Victor%20Verster%20Prison%201990/apn22976-640.jpg
+
+http://lh5.ggpht.com/_uLBymF3Qigs/Sc53XUkJT-I/AAAAAAAACok/RecH0Cd6_X8/DSC_0668.NEF.jpg
+
+
+After 1989's [[Loma Prieta Earthquake]] demolished the [[Cypress Street Viaduct]] portion of the [[Nimitz Freeway]] in [[Oakland, California]], the city renamed the street-level boulevard that replaced it Mandela Parkway in his honor.
+
+In [[Leicester]],[[England]] There is a Nelson Mandela Park with the slogan "South Africa belongs to all those who live there, Black and White" It is opposite [[Leicester Tigers]] ground [[Welford Road]].
+
+===Postage stamps===
+[[Libya]] - 1994 (December 31) "[[Khadafi]] Prize for Human Rights" [[postage stamps]] issue with Nelson Mandela.<ref>[http://www.libyan-stamps.com Libyan Stamps online]</ref>
+<!-- Deleted image removed: [[File:1994Mandela STRIP Wikipedia.jpg|thumb|left|upleft|150px|[[Libya]] stamps issue "Khadafi Prize for Human Rights" (31.12.1994)|{{ifdc|1=1994Mandela STRIP Wikipedia.jpg|log=2009 June 12}}]] -->
+
+===Other===
+In 2004, zoologists Brent E. Hendrixson and Jason E. Bond named a South African species of trapdoor spider in the family [[Ctenizidae]] as ''[[Stasimopus mandelai]]'', "honoring Nelson Mandela, the former president of South Africa and one of the great moral leaders of our time."<ref name=Hendrixson>{{cite journal | author = Hendrixson, Brent E.;  Bond, Jason E. | year = 2004 | title = A new species of ''Stasimopus'' from the Eastern Cape Province of South Africa (Araneae, Mygalomorphae, Ctenizidae), with notes on its natural history | journal = [[Zootaxa]] | volume = 619 | pages = 1–14 | url = http://www.mapress.com/zootaxa/2004f/zt00619.pdf | format = [[PDF]] | accessdate=2008-05-26}}</ref>
+
+==See also==
+*[[Black Nobel Prize laureates]]
+*[[Free Nelson Mandela]]
+
+==References==
+{{reflist|2}}
+
+*{{cite book
+|last=Mandela
+|first=Nelson
+|coauthors=
+|editor=
+|others=Paul Duncan (abridgement and picture editing)
+|title=The Illustrated Long Walk to Freedom
+|year=1996
+|publisher=[[Little, Brown and Company]]
+|location=Boston
+|isbn=0316880205
+|ref=mandela1996}}
+
+==Further reading==
+*{{cite book
+|title=A Prisoner in the Garden: Opening Nelson Mandela's Prison Archive
+|publisher=[[Penguin Books]]
+|isbn=0-143-02495-7
+|year=2005}}
+*{{cite book
+|title=The Rainbow People of God: The Making of a Peaceful Revolution
+|publisher=[[Doubleday (publisher)|Doubleday]]
+|year=1996
+|isbn=978-0385-48374-2
+|author=Desmond Tutu ; edited by John Allen.}}
+*{{cite book
+|author=Benson, Mary
+|title=Nelson Mandela: The Man and the Movement}}
+*{{cite book
+|author=Bezdrob, Anne Marie du Preez
+|title=The Nelson Mandela Story
+|publisher=Samoja Books
+|isbn=0-620-36570-6
+|year=2006}}
+*{{cite book
+|author=Denenberg, Barry
+|title=Nelson Mandela: No Easy Walk To Freedom}}
+*{{cite book
+|author=Hoobler, Dorothy; Hoobler, Thomas
+|title=Mandela: The Man, The Struggle, The Triumph}}
+*{{cite book
+|author=Juckes, Tim
+|title=Opposition in South Africa: The Leadership of Matthews, Nelson Mandela, and Stephen Biko
+|location=[[Westport, Connecticut|Westport]]
+|publisher=Praeger Publishers
+|year=1995}}
+*{{cite book
+|author=Mandela, Nelson
+|title=[[Long Walk to Freedom (book)|Long Walk to Freedom]]
+|publisher=[[Little, Brown and Company]]
+|isbn=0-316-54818-9
+|year=1995}}
+*{{cite book
+|author=Meredith, Martin
+|title=Nelson Mandela: A Biography}}
+*{{cite book
+|author=[[Anthony Sampson|Sampson, Anthony]]
+|title=[[Mandela: The Authorised Biography]]
+|isbn= 0-679-78178-1
+|year=1999
+|publisher=Vintage Books
+|location=New York}} 
+*{{cite book
+|author=Smith, Charlene
+|title=Mandela: In Celebration of a Great Life}}
+*{{cite book
+|author=Villa-Vicencio, Charles
+|title=The Spirit of Freedom
+|location=[[Berkeley, California|Berkeley]]
+|publisher=[[University of California Press]]
+|year=1996}}
+
+==External links==
+{{wikiquote}}
+{{commons|Nelson Mandela}}
+{{wikisource author|Nelson Mandela}}
+*[http://nobelprize.org/peace/laureates/1993/mandela-bio.html Nelson Mandela – Biography at Nobelprize.org]
+*[http://www.nelsonmandela.org/ Nelson Mandela Foundation]
+*[http://www.nmcf.co.za/ Nelson Mandela Children's Fund]
+*[http://www.mandela-children.ca/ Nelson Mandela Children's Fund (Canada)]
+*[http://www.time.com/time/time100/leaders/profile/mandela.html Time 100 profile]
+*[http://www.npr.org/templates/story/story.php?storyId=1851882 Mandela: An Audio History]
+*[http://www.palmpictures.com/film/palm-world-voices-mandela.php Mandela: Son of Africa, Father of a Nation Documentary & Soundtrack]
+*[http://www.theelders.org/ The Elders] 
+*[http://www.blogs.targetx.com/wildriverreview/penworldvoices/2007/09/nelson_mandela_holding_africa.html The Art of Nelson Mandela]
+*[http://archives.cbc.ca/politics/international_politics/topics/3547/ CBC Digital Archives – Nelson Mandela: Prisoner, president, peacemaker]
+* The [http://africanactivist.msu.edu/ African Activist Archive Project]website has material on the struggle against apartheid and the U.S. anti-apartheid movement including material related to Nelson Mandela. Go to Advanced Search and search for Mandela. There are several photographs of anti-apartheid protests related to Mandela including a 1964 [http://africanactivist.msu.edu/image.php?objectid=329 Rivonia Trial Protest]. There are also a number of photographs after his release prison from his first trip to the United States including [http://africanactivist.msu.edu/image.php?objectid=404 Nelson Mandela with David N. Dinkins at New York City Hall]and [http://africanactivist.msu.edu/image.php?objectid=469 Nelson Mandela addresses the National Activist Briefing]at the Community Chirch of New York. Posters include the 1988 poster by the British Anti-Apartheid Movenet [http://africanactivist.msu.edu/image.php?objectid=711 Nelson Mandela 70th birthday tribute] and a 1991 poster by The Africa Fund [http://africanactivist.msu.edu/image.php?objectid=388 Nelson Mandela Is Free But He Cannot Vote].
+
+{{start box}}
+{{s-off}}
+{{s-bef|before=[[Frederik Willem de Klerk]]|as=[[State President of South Africa]]}}
+{{s-ttl|title=[[President of South Africa]]|years=1994 &ndash; 1999}}
+{{s-aft|after=[[Thabo Mbeki]]|rows=2}}
+|-
+{{s-bef|before=[[Andrés Pastrana Arango]]}}
+{{s-ttl|title=[[Non-Aligned Movement#Secretaries General|Secretary General of Non-Aligned Movement]]|years=1998 &ndash; 1999}}
+{{end box}}
+
+{{Template group
+|title = Nelson Mandela
+|titlestyle = style="background:#eee;
+|list =
+{{Nelson Mandela}}
+{{ANCpresidents}}
+{{SAPresidents}}
+{{NAMSecretary-General}}
+{{Nelson Mandela cabinet 1}}
+{{Nelson Mandela cabinet 2}}
+{{Nobel Peace Prize Laureates 1976-2000}}
+{{Footer Gandhi Peace Prize laureates}}
+{{Time Persons of the Year 1976-2000}}
+}}
+
+{{Persondata
+|NAME=Mandela, Nelson
+|ALTERNATIVE NAMES=Rolihlahla Dalibhunga Mandela
+|SHORT DESCRIPTION=[[South Africa]]n [[politician]] and anti-[[Apartheid]] fighter, [[President]] of [[South Africa]] (1994–1999)
+|DATE OF BIRTH=18 July 1918
+|PLACE OF BIRTH=[[Transkei]], [[South Africa]]
+|DATE OF DEATH=
+|PLACE OF DEATH=
+}}
+{{DEFAULTSORT:Mandela, Nelson}}
+[[Category:20th-century activists]]
+[[Category:20th-century national presidents in Africa]]
+[[Category:20th-century South African people]]
+[[Category:Alumni of the University of London External System]]
+[[Category:Anti-apartheid activists]]
+[[Category:Bailiffs Grand Cross of the Order of St John]]
+[[Category:Recipients of the Bharat Ratna]]
+[[Category:Companions of the Order of Australia]]
+[[Category:Companions of the Order of Canada]]
+[[Category:Congressional Gold Medal recipients]]
+[[Category:Recipients of the Gandhi Peace Prize]]
+[[Category:Lenin Peace Prize recipients]]
+[[Category:Gandhians]]
+[[Category:Knights Grand Cross of the Royal Norwegian Order of St. Olav]]
+[[Category:Knights of the Elephant]]
+[[Category:Members of the Order of Merit]]
+[[Category:Nelson Mandela| ]]
+[[Category:Nobel Peace Prize laureates]]
+[[Category:People from the Eastern Cape]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:Presidents of South Africa]]
+[[Category:Presidents of the African National Congress]]
+[[Category:Prisoners and detainees of South Africa]]
+[[Category:Recipients of the Sakharov Prize]]
+[[Category:South African activists]]
+[[Category:South African expatriates in the United Kingdom]] <!--as a student-->
+[[Category:South African humanitarians]]
+[[Category:South African lawyers]]
+[[Category:South African memoirists]]
+[[Category:South African Methodists]]
+[[Category:South African Nobel laureates]]
+[[Category:South African prisoners and detainees]]
+[[Category:South African revolutionaries]]
+[[Category:South African socialists]]
+[[Category:The Global Elders]]
+[[Category:Time magazine Persons of the Year]]
+[[Category:University of South Africa alumni]]
+[[Category:Victims of Apartheid repressions in South Africa]]
+[[Category:Xhosa people]]
+[[Category:1918 births]]
+[[Category:Living people]]
+[[Category:People acquitted of treason]]
+
+[[af:Nelson Mandela]]
+[[am:ኔልሰን ማንዴላ]]
+[[an:Nelson Mandela]]
+[[ang:Nelson Mandela]]
+[[ar:نيلسون مانديلا]]
+[[frp:Nelson Mandela]]
+[[ast:Nelson Mandela]]
+[[az:Nelson Mandela]]
+[[bn:নেলসন ম্যান্ডেলা]]
+[[be:Нельсан Мандэла]]
+[[be-x-old:Нэльсан Мандэла]]
+[[bcl:Nelson Mandela]]
+[[bs:Nelson Mandela]]
+[[br:Nelson Mandela]]
+[[bg:Нелсън Мандела]]
+[[ca:Nelson Rolihlahla Mandela]]
+[[cs:Nelson Mandela]]
+[[cy:Nelson Mandela]]
+[[da:Nelson Mandela]]
+[[de:Nelson Mandela]]
+[[et:Nelson Mandela]]
+[[el:Νέλσον Μαντέλα]]
+[[eml:Nelson Mandela]]
+[[es:Nelson Mandela]]
+[[eo:Nelson Mandela]]
+[[eu:Nelson Mandela]]
+[[fa:نلسون ماندلا]]
+[[hif:Nelson Mandela]]
+[[fo:Nelson Mandela]]
+[[fr:Nelson Mandela]]
+[[fy:Nelson Mandela]]
+[[ga:Nelson Mandela]]
+[[gl:Nelson Mandela]]
+[[gu:નેલ્સન મંડેલા]]
+[[ko:넬슨 만델라]]
+[[ha:Nelson Mandela]]
+[[hi:नेल्सन मंडेला]]
+[[hr:Nelson Mandela]]
+[[io:Nelson Mandela]]
+[[id:Nelson Mandela]]
+[[xh:Nelson Mandela]]
+[[is:Nelson Mandela]]
+[[it:Nelson Mandela]]
+[[he:נלסון מנדלה]]
+[[jv:Nelson Mandela]]
+[[kn:ನೆಲ್ಸನ್ ಮಂಡೇಲಾ]]
+[[ka:ნელსონ მანდელა]]
+[[sw:Nelson Mandela]]
+[[ku:Nelson Mandela]]
+[[la:Nelson Mandela]]
+[[lv:Nelsons Mandela]]
+[[lb:Nelson Mandela]]
+[[lt:Nelsonas Mandela]]
+[[hu:Nelson Mandela]]
+[[mk:Нелсон Мандела]]
+[[ml:നെല്‍‌സണ്‍ മണ്ടേല]]
+[[mr:नेल्सन मंडेला]]
+[[arz:نيلسون مانديلا]]
+[[ms:Nelson Mandela]]
+[[mn:Нелсон Мандела]]
+[[nl:Nelson Mandela]]
+[[ne:नेलसन मण्डेला]]
+[[ja:ネルソン・マンデラ]]
+[[no:Nelson Mandela]]
+[[nn:Nelson Mandela]]
+[[oc:Nelson Mandela]]
+[[uz:Nelson Mandela]]
+[[pms:Nelson Mandela]]
+[[tpi:Nelson Mandela]]
+[[nds:Nelson Mandela]]
+[[pl:Nelson Mandela]]
+[[pt:Nelson Mandela]]
+[[ksh:Nelson Mandela]]
+[[ro:Nelson Mandela]]
+[[qu:Nelson Mandela]]
+[[ru:Мандела, Нельсон]]
+[[sa:नेल्सन मन्डेला]]
+[[sc:Nelson Mandela]]
+[[sq:Nelson Mandela]]
+[[scn:Nelson Mandela]]
+[[simple:Nelson Mandela]]
+[[ss:Nelson Mandela]]
+[[sk:Nelson Mandela]]
+[[sl:Nelson Mandela]]
+[[so:Nelson Mandela]]
+[[sr:Нелсон Мандела]]
+[[sh:Nelson Mandela]]
+[[fi:Nelson Mandela]]
+[[sv:Nelson Mandela]]
+[[tl:Nelson Mandela]]
+[[ta:நெல்சன் மண்டேலா]]
+[[te:నెల్సన్ మండేలా]]
+[[th:เนลสัน มันเดลา]]
+[[tr:Nelson Mandela]]
+[[uk:Нельсон Мандела]]
+[[ug:نىلسۇن ماندىلا]]
+[[vec:Nelson Mandela]]
+[[vi:Nelson Mandela]]
+[[war:Nelson Mandela]]
+[[wuu:纳尔逊·曼德拉]]
+[[ts:Nelson Mandela]]
+[[yi:נעלסאן מאנדעלע]]
+[[yo:Nelson Mandela]]
+[[zh-yue:曼德拉]]
+[[bat-smg:Nelsons Mandela]]
+[[zh:纳尔逊·曼德拉]]

@@ -1,0 +1,796 @@
+[[File:Olympic flag.svg|thumb|200px|The flag of the international olympic movement.]]
+The [[International Olympic Committee]] ('''IOC''') uses [[three-letter acronym]] '''country codes''' to refer to each group of athletes that participate in the [[Olympic Games]].  Each code usually identifies a [[National Olympic Committee]], but there are several codes that have been used for other instances in past Games, such as teams composed of athletes from multiple nations, or groups of athletes not formally representing any nation.
+
+Several of the IOC codes are different from the standard [[ISO 3166-1 alpha-3]] codes. Other sporting organizations, such as [[FIFA]] or the [[Commonwealth Games|Commonwealth Games Federation]], use similar country codes to refer to their respective teams.
+
+{{TOClimit|2}}
+
+==History==
+The [[1956 Winter Olympics]] and [[1960 Summer Olympics]] were the first Games to feature ''Initials of Nations'' to refer to each NOC in the published official reports.<ref>{{cite journal |title=IOC and OCOG Abbreviations for NOCs |last=Mallon |first=Bill |coauthors=[[Ove Karlsson (sports journalist)|Ove Karlsson]] |journal=[[Journal of Olympic History]] |volume=12 |issue=2 |year=2004 |month=May |pages=25–28 |url=http://www.la84foundation.org/SportsLibrary/JOH/JOHv12n2/johv12n2l.pdf |format=PDF |accessdate=2008-02-08}}</ref> However, the codes used at the next few Games were often based on the host nation's language (e.g., GIA for [[Japan]] at the [[1956 Winter Olympics]] and [[1960 Summer Olympics]], from ''Giappone'' in Italian) or based on the French name for the nation (e.g., COR for [[South Korea|Korea]], from ''Corée'').  By the [[1972 Winter Olympics]], most codes were standardized on the current usage, but several have changed in recent years.  Additionally, the [[dissolution of the Soviet Union]], [[breakup of Yugoslavia]], [[dissolution of Czechoslovakia]], [[German reunification]], and several instances of [[geographical renaming]] have all resulted in code changes.
+
+In addition to this list of over 200 NOCs, the participation of committees at the [[Paralympic Games]] requires standardised IOC codes. Recent examples of these include [[Macau]] and the [[Faroe Islands]], coded MAC and FRO respectively.<ref>[http://results.beijing2008.cn/WRMP/ENG/BIO/NOC/FRO.shtml Faroe Islands][http://results.beijing2008.cn/WRMP/ENG/BIO/NOC/MAC.shtml Macau, China]</ref>
+
+==Current NOCs==
+There are 205 current NOCs ([[National Olympic Committee]]s) within the Olympic Movement.  The following tables show the currently used code for each NOC and any different codes used in past Games, per the official reports from those Games.  Some of the past code usage is further explained in the following sections.  Codes used specifically for a Summer Games only or a Winter Games only, within the same year, are indicated by "S" and "W" respectively.
+{| id="toc" class="toc" summary="Contents" 
+! Contents:
+|
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#Y|Y]] [[#Z|Z]]
+|}
+===A===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| AFG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=AFG] || {{flagIOC|AFG}} ||
+|-
+| AHO || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=AHO] || {{flagIOC|AHO}} || ATO (1960), NAN (1964)
+|-
+| ALB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ALB] || {{flagIOC|ALB}} ||
+|-
+| ALG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ALG] || {{flagIOC|ALG}} || AGR (1964), AGL (1968 S)
+|-
+| AND || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=AND] || {{flagIOC|AND}} ||
+|-
+| ANG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ANG] || {{flagIOC|ANG}} ||
+|-
+| ANT || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ANT] || {{flagIOC|ANT}} ||
+|-
+| ARG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ARG] || {{flagIOC|ARG}} ||
+|-
+| ARM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ARM] || {{flagIOC|ARM}} ||
+|-
+| ARU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ARU] || {{flagIOC|ARU}} ||
+|-
+| ASA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ASA] || {{flagIOC|ASA}} ||
+|-
+| AUS || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=AUS] || {{flagIOC|AUS}} ||
+|-
+| AUT || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=AUT] || {{flagIOC|AUT}} ||
+|-
+| AZE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=AZE] || {{flagIOC|AZE}} ||
+|}
+
+===B===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| BAH || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BAH] || {{flagIOC|BAH}} ||
+|-
+| BAN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BAN] || {{flagIOC|BAN}} ||
+|-
+| BAR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BAR] || {{flagIOC|BAR}} || BAD (1964)
+|-
+| BDI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BDI] || {{flagIOC|BDI}} ||
+|-
+| BEL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BEL] || {{flagIOC|BEL}} ||
+|-
+| BEN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BEN] || {{flagIOC|BEN}} || DAY (1964), DAH (1968–1976)
+|-
+| BER || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BER] || {{flagIOC|BER}} ||
+|-
+| BHU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BHU] || {{flagIOC|BHU}} ||
+|-
+| BIH || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BIH] || {{flagIOC|BIH}} || BSH (1992 S)
+|-
+| BIZ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BIZ] || {{flagIOC|BIZ}} || HBR (1968–1972)
+|-
+| BLR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BLR] || {{flagIOC|BLR}} ||
+|-
+| BOL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BOL] || {{flagIOC|BOL}} ||
+|-
+| BOT || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BOT] || {{flagIOC|BOT}} ||
+|-
+| BRA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BRA] || {{flagIOC|BRA}} ||
+|-
+| BRN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BRN] || {{flagIOC|BRN}} ||
+|-
+| BRU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BRU] || {{flagIOC|BRU}} ||
+|-
+| BUL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BUL] || {{flagIOC|BUL}} ||
+|-
+| BUR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=BUR] || {{flagIOC|BUR}} || VOL (1972–1984)
+|}
+
+===C===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| CAF || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CAF] || {{flagIOC|CAF}} || AFC (1968)
+|-
+| CAM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CAM] || {{flagIOC|CAM}} || CAB (1964), KHM (1972–1976)
+|-
+| CAN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CAN] || {{flagIOC|CAN}} ||
+|-
+| CAY || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CAY] || {{flagIOC|CAY}} ||
+|-
+| CGO || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CGO] || {{flagIOC|CGO}} ||
+|-
+| CHA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CHA] || {{flagIOC|CHA}} || CHD (1964)
+|-
+| CHI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CHI] || {{flagIOC|CHI}} || CIL (1956 W, 1960 S)
+|-
+| CHN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CHN] || {{flagIOC|CHN}} ||
+|-
+| CIV || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CIV] || {{flagIOC|CIV}} || IVC (1964), CML (1968)
+|-
+| CMR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CMR] || {{flagIOC|CMR}} ||
+|-
+| COD || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=COD] || {{flagIOC|COD}} || COK (1968), ZAI (1972–1996)
+|-
+| COK || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=COK] || {{flagIOC|COK}} ||
+|-
+| COL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=COL] || {{flagIOC|COL}} ||
+|-
+| COM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=COM] || {{flagIOC|COM}} ||
+|-
+| CPV || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CPV] || {{flagIOC|CPV}} ||
+|-
+| CRC || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CRC] || {{flagIOC|CRC}} || COS (1964), CTC (1984 W)
+|-
+| CRO || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CRO] || {{flagIOC|CRO}} ||
+|-
+| CUB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CUB] || {{flagIOC|CUB}} ||
+|-
+| CYP || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CYP] || {{flagIOC|CYP}} ||
+|-
+| CZE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=CZE] || {{flagIOC|CZE}} ||
+|}
+
+===D===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| DEN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=DEN] || {{flagIOC|DEN}} || DAN (1960 S, 1968 W), DIN (1968 S)
+|-
+| DJI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=DJI] || {{flagIOC|DJI}} ||
+|-
+| DMA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=DMA] || {{flagIOC|DMA}} ||
+|-
+| DOM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=DOM] || {{flagIOC|DOM}} ||
+|}
+
+===E===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| ECU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ECU] || {{flagIOC|ECU}} ||
+|-
+| EGY || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=EGY] || {{flagIOC|EGY}} || RAU (1960, 1968), UAR (1964)
+|-
+| ERI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ERI] || {{flagIOC|ERI}} ||
+|-
+| ESA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ESA] || {{flagIOC|ESA}} || SAL (1964–1976)
+|-
+| ESP || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ESP] || {{flagIOC|ESP}} || SPA (1956–1964, 1968 W)
+|-
+| EST || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=EST] || {{flagIOC|EST}} ||
+|-
+| ETH || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ETH] || {{flagIOC|ETH}} || ETI (1960, 1968)
+|}
+
+===F===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| FIJ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=FIJ] || {{flagIOC|FIJ}} || FIG (1960)
+|-
+| FIN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=FIN] || {{flagIOC|FIN}} ||
+|-
+| FRA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=FRA] || {{flagIOC|FRA}} ||
+|-
+| FSM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=FSM] || {{flagIOC|FSM}} ||
+|}
+
+===G===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| GAB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GAB] || {{flagIOC|GAB}} ||
+|-
+| GAM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GAM] || {{flagIOC|GAM}} ||
+|-
+| GBR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GBR] || {{flagIOC|GBR}} || GRB (1956 W–1960), GBI (1964)
+|-
+| GBS || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GBS] || {{flagIOC|GBS}} ||
+|-
+| GEO || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GEO] || {{flagIOC|GEO}} ||
+|-
+| GEQ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GEQ] || {{flagIOC|GEQ}} ||
+|-
+| GER || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GER] || {{flagIOC|GER}} || ALL (1968 W), ALE (1968 S), FRG (1980–1988)
+|-
+| GHA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GHA] || {{flagIOC|GHA}} ||
+|-
+| GRE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GRE] || {{flagIOC|GRE}} ||
+|-
+| GRN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GRN] || {{flagIOC|GRN}} ||
+|-
+| GUA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GUA] || {{flagIOC|GUA}} || GUT (1964)
+|-
+| GUI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GUI] || {{flagIOC|GUI}} ||
+|-
+| GUM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GUM] || {{flagIOC|GUM}} ||
+|-
+| GUY || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=GUY] || {{flagIOC|GUY}} || GUA (1960), GUI (1964)
+|}
+
+===H===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| HAI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=HAI] || {{flagIOC|HAI}} ||
+|-
+| HKG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=HKG] || {{flagIOC|HKG}} || HOK (1960–1968)
+|-
+| HON || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=HON] || {{flagIOC|HON}} ||
+|-
+| HUN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=HUN] || {{flagIOC|HUN}} || UNG (1956 W, 1960 S)
+|}
+
+===I===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| INA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=INA] || {{flagIOC|INA}} || INS (1960)
+|-
+| IND || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=IND] || {{flagIOC|IND}} ||
+|-
+| IRI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=IRI] || {{flagIOC|IRI}} || IRN (1956–1988), IRA (1968 W)
+|-
+| IRL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=IRL] || {{flagIOC|IRL}} ||
+|-
+| IRQ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=IRQ] || {{flagIOC|IRQ}} || IRK (1960, 1968)
+|-
+| ISL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ISL] || {{flagIOC|ISL}} || ICE (1960 W, 1964 S)
+|-
+| ISR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ISR] || {{flagIOC|ISR}} ||
+|-
+| ISV || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ISV] || {{flagIOC|ISV}} ||
+|-
+| ITA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ITA] || {{flagIOC|ITA}} ||
+|-
+| IVB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=IVB] || {{flagIOC|IVB}} ||
+|}
+
+===J===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| JAM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=JAM] || {{flagIOC|JAM}} ||
+|-
+| JOR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=JOR] || {{flagIOC|JOR}} ||
+|-
+| JPN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=JPN] || {{flagIOC|JPN}} || GIA (1956 W, 1960 S), JAP (1960 W)
+|}
+
+===K===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| KAZ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KAZ] || {{flagIOC|KAZ}} ||
+|-
+| KEN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KEN] || {{flagIOC|KEN}} ||
+|-
+| KGZ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KGZ] || {{flagIOC|KGZ}} ||
+|-
+| KIR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KIR] || {{flagIOC|KIR}} ||
+|-
+| KOR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KOR] || {{flagIOC|KOR}} || COR (1956 W, 1960 S, 1968 S, 1972 S)
+|-
+| KSA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KSA] || {{flagIOC|KSA}} || ARS (1968–1976), SAU (1980–1984)
+|-
+| KUW || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=KUW] || {{flagIOC|KUW}} ||
+|}
+
+===L===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| LAO || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LAO] || {{flagIOC|LAO}} ||
+|-
+| LAT || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LAT] || {{flagIOC|LAT}} ||
+|-
+| LBA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LBA] || {{flagIOC|LBA}} || LYA (1964), LBY (1968 W)
+|-
+| LBR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LBR] || {{flagIOC|LBR}} ||
+|-
+| LCA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LCA] || {{flagIOC|LCA}} ||
+|-
+| LES || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LES] || {{flagIOC|LES}} ||
+|-
+| LIB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LIB] || {{flagIOC|LIB}} || LEB (1960 W, 1964 S)
+|-
+| LIE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LIE] || {{flagIOC|LIE}} || LIC (1956 W, 1964 S, 1968 W)
+|-
+| LTU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LTU] || {{flagIOC|LTU}} || LIT (1992 W)
+|-
+| LUX || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=LUX] || {{flagIOC|LUX}} ||
+|}
+
+===M===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| MAD || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MAD] || {{flagIOC|MAD}} || MAG (1964)
+|-
+| MAR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MAR] || {{flagIOC|MAR}} || MRC (1964)
+|-
+| MAS || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MAS] || {{flagIOC|MAS}} || MAL (1964–1988)
+|-
+| MAW || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MAW] || {{flagIOC|MAW}} ||
+|-
+| MDA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MDA] || {{flagIOC|MDA}} || MLD (1994)
+|-
+| MDV || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MDV] || {{flagIOC|MDV}} ||
+|-
+| MEX || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MEX] || {{flagIOC|MEX}} ||
+|-
+| MGL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MGL] || {{flagIOC|MGL}} || MON (1968 W)
+|-
+| MHL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MHL] || {{flagIOC|MHL|2008 Summer}} ||
+|-
+| MKD || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MKD] || {{flagIOC|MKD}} ||
+|-
+| MLI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MLI] || {{flagIOC|MLI}} ||
+|-
+| MLT || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MLT] || {{flagIOC|MLT}} || MAT (1960–1964)
+|-
+| MNE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MNE] || {{flagIOC|MNE}} ||
+|-
+| MON || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MON] || {{flagIOC|MON}} ||
+|-
+| MOZ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MOZ] || {{flagIOC|MOZ}} ||
+|-
+| MRI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MRI] || {{flagIOC|MRI}} ||
+|-
+| MTN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MTN] || {{flagIOC|MTN}} ||
+|-
+| MYA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=MYA] || {{flagIOC|MYA}} || BIR (1960, 1968–1988), BUR (1964)
+|}
+
+===N===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| NAM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NAM] || {{flagIOC|NAM}} ||
+|-
+| NCA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NCA] || {{flagIOC|NCA}} || NCG (1964), NIC (1968)
+|-
+| NED || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NED] || {{flagIOC|NED}} || OLA (1956 W), NET (1960 W), PBA (1960 S), NLD (1964 S), HOL (1968–1988)
+|-
+| NEP || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NEP] || {{flagIOC|NEP}} ||
+|-
+| NGR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NGR] || {{flagIOC|NGR}} || NGA (1964)
+|-
+| NIG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NIG] || {{flagIOC|NIG}} || NGR (1964)
+|-
+| NOR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NOR] || {{flagIOC|NOR}} ||
+|-
+| NRU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NRU] || {{flagIOC|NRU}} ||
+|-
+| NZL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=NZL] || {{flagIOC|NZL}} || NZE (1960, 1968 W)
+|}
+
+===O===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| OMA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=OMA] || {{flagIOC|OMA}} || 
+|}
+
+===P===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| PAK || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PAK] || {{flagIOC|PAK}} ||
+|-
+| PAN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PAN] || {{flagIOC|PAN}} ||
+|-
+| PAR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PAR] || {{flagIOC|PAR}} ||
+|-
+| PER || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PER] || {{flagIOC|PER}} ||
+|-
+| PHI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PHI] || {{flagIOC|PHI}} || FIL (1960, 1968)
+|-
+| PLE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PLE] || {{flagIOC|PLE}} ||
+|-
+| PLW || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PLW] || {{flagIOC|PLW}} ||
+|-
+| PNG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PNG] || {{flagIOC|PNG}} || NGY (1976–1980), NGU (1984–1988)
+|-
+| POL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=POL] || {{flagIOC|POL}} ||
+|-
+| POR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=POR] || {{flagIOC|POR}} ||
+|-
+| PRK || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PRK] || {{flagIOC|PRK}} || NKO (1964 S, 1968 W), CDN (1968)
+|-
+| PUR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=PUR] || {{flagIOC|PUR}} || PRI (1960), PRO (1968)
+|}
+
+===Q===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| QAT || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=QAT] || {{flagIOC|QAT}} ||
+|}
+
+===R===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| ROU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ROU] || {{flagIOC|ROU}} || ROM (1956–1960, 1972–2006), RUM (1964–1968)
+|-
+| RSA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=RSA] || {{flagIOC|RSA}} || SAF (1960–1972)
+|-
+| RUS || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=RUS] || {{flagIOC|RUS}} ||
+|-
+| RWA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=RWA] || {{flagIOC|RWA}} ||
+|}
+
+===S===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| SAM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SAM] || {{flagIOC|SAM}} ||
+|-
+| SEN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SEN] || {{flagIOC|SEN}} || SGL (1964)
+|-
+| SEY || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SEY] || {{flagIOC|SEY}} ||
+|-
+| SIN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SIN] || {{flagIOC|SIN}} ||
+|-
+| SKN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SKN] || {{flagIOC|SKN}} ||
+|-
+| SLE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SLE] || {{flagIOC|SLE}} || SLA (1968)
+|-
+| SLO || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SLO] || {{flagIOC|SLO}} ||
+|-
+| SMR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SMR] || {{flagIOC|SMR}} || SMA (1960–1964)
+|-
+| SOL || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SOL] || {{flagIOC|SOL}} ||
+|-
+| SOM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SOM] || {{flagIOC|SOM}} ||
+|-
+| SRB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SRB] || {{flagIOC|SRB}} ||
+|-
+| SRI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SRI] || {{flagIOC|SRI}} || CEY (1960–1972)
+|-
+| STP || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=STP] || {{flagIOC|STP}} ||
+|-
+| SUD || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SUD] || {{flagIOC|SUD}} ||
+|-
+| SUI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SUI] || {{flagIOC|SUI}} || SVI (1956 W, 1960 S), SWI (1960 W, 1964 S)
+|-
+| SUR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SUR] || {{flagIOC|SUR}} ||
+|-
+| SVK || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SVK] || {{flagIOC|SVK}} ||
+|-
+| SWE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SWE] || {{flagIOC|SWE}} || SVE (1956 W, 1960 S), SUE (1968 S)
+|-
+| SWZ || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SWZ] || {{flagIOC|SWZ}} ||
+|-
+| SYR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=SYR] || {{flagIOC|SYR}} || RAU (1960), SIR (1968)
+|}
+
+===T===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| TAN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TAN] || {{flagIOC|TAN}} ||
+|-
+| TGA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TGA] || {{flagIOC|TGA}} || TON (1984)
+|-
+| THA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=THA] || {{flagIOC|THA}} || TAI (1960, 1968)
+|-
+| TJK || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TJK] || {{flagIOC|TJK}} ||
+|-
+| TKM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TKM] || {{flagIOC|TKM}} ||
+|-
+| TLS || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TLS] || {{flagIOC|TLS}} ||
+|-
+| TOG || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TOG] || {{flagIOC|TOG}} ||
+|-
+| TPE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TPE] || {{flagIOC|TPE}}<ref>Official name given to the [[Republic of China]] for Olympic competition</ref>   || RCF (1960), TWN (1964–1968), ROC (1972–1976)
+|-
+| TRI || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TRI] || {{flagIOC|TRI}} || TRT (1964–1968)
+|-
+| TUN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TUN] || {{flagIOC|TUN}} ||
+|-
+| TUR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TUR] || {{flagIOC|TUR}} ||
+|-
+| TUV || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=TUV] || {{flagIOC|TUV|2008 Summer}} ||
+|}
+
+===U===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| UAE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=UAE] || {{flagIOC|UAE}} ||
+|-
+| UGA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=UGA] || {{flagIOC|UGA}} ||
+|-
+| UKR || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=UKR] || {{flagIOC|UKR}} ||
+|-
+| URU || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=URU] || {{flagIOC|URU}} || URG (1968)
+|-
+| USA || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=USA] || {{flagIOC|USA}} || SUA (1960 S), EUA (1968 S)
+|-
+| UZB || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=UZB] || {{flagIOC|UZB}} ||
+|}
+
+===V===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| VAN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=VAN] || {{flagIOC|VAN}} ||
+|-
+| VEN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=VEN] || {{flagIOC|VEN}} ||
+|-
+| VIE || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=VIE] || {{flagIOC|VIE}} || VET (1964), VNM (1968–1976)
+|-
+| VIN || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=VIN] || {{flagIOC|VIN}} ||
+|}
+
+===Y===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| YEM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=YEM] || {{flagIOC|YEM}} ||
+|}
+
+===Z===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:4em"| Ref
+!style="width:18em"| Nation (NOC)
+!style="width:18em"| Other codes used
+|-
+| ZAM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ZAM] || {{flagIOC|ZAM}} || NRH (1964)
+|-
+| ZIM || [http://www.olympic.org/uk/organisation/noc/noc_uk.asp?noc_initials=ZIM] || {{flagIOC|ZIM}} || RHO (1960–1972)
+|}
+</div>
+
+==Historic NOCs and teams==
+===Codes still in use===
+Twelve historical NOCs or teams have codes that are still used in the IOC results database<ref name="IOCdb">{{cite web |url=http://www.olympic.org/uk/athletes/results/search_r_uk.asp |title=Olympic Medal Winners |publisher=International Olympic Committee |accessdate=2008-02-08}}</ref> to refer to past medal winners from these teams.
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:15em"| Nation/Team
+! Other codes used
+|-
+| ANZ || {{flagIOC|ANZ}} ||
+|-
+| BOH || {{flagIOC|BOH}} ||
+|-
+| BWI || {{flagIOC|BWI|1960 Summer}} || ANT (1960, 1968), WID (1964)
+|-
+| EUA || {{flagicon|Germany|EUA}} [[United Team of Germany]] || GER (1956–1964)
+|-
+| EUN || {{flagicon image|Olympic flag.svg}} [[Unified Team]] ||
+|-
+| FRG || {{flagIOC|FRG}} || ALL (1968 W), ALE (1968 S), GER (1972–1976)
+|-
+| GDR || {{flagIOC|GDR}} || ADE (1968)
+|-
+| SCG || {{flagIOC|SCG}} || [[Federal Republic of Yugoslavia|YUG]] (1996 S-2002 W)
+|-
+| TCH || {{flagIOC|TCH}} || CSL (1956 W), CZE (1960 W), CSV (1960 S), CZS (1964 S), CHE (1968 S)
+|-
+| URS || {{flagIOC|URS}} || SOV (1968 W)
+|-
+| YUG || {{flagIOC|YUG}} || JUG (1956–1960, 1968 W), YUS (1964 S)
+|-
+| ZZX || {{flagicon image|Olympic flag.svg}} [[Mixed team at the Olympics|Mixed teams]] ||
+|}
+
+===Obsolete codes===
+{| class="wikitable"
+!style="width:4em"| Code
+!style="width:15em"| Nation (NOC)
+!style="width:6em"| Years
+!Notes
+|-
+| BIR || {{flag|Burma}} || 1948–1988 || Now {{flagIOCteam|MYA}}
+|-
+| CEY || {{flag|Ceylon}} || 1948–1972 || Now {{flagIOCteam|SRI}}
+|-
+| DAH || {{flag|Dahomey}} || 1964–1976 || Now {{flagIOCteam|BEN}}
+|-
+| HBR || {{flag|British Honduras}} || 1968–1972 || Now {{flagIOCteam|BIZ}}
+|-
+| KHM || {{flagicon|Cambodia|1970}} [[Khmer Republic]] || 1972–1976 || Now {{flagIOCteam|CAM}}
+|-
+| MAL || {{flag|Malaya}} || 1956–1960 ||rowspan=2| Competed independently prior to the formation of [[Malaysia]] in 1963.<br/>Now {{flagIOCteam|MAS}}
+|-
+| — || {{flag|North Borneo}} || 1956
+|-
+| NRH || {{flag|Northern Rhodesia}} || 1964 || Now {{flagIOCteam|ZAM}}
+|-
+| RAU || {{flag|United Arab Republic}} || 1960 || colspan=2 |Now {{flagIOCteam|EGY}} <br/>and {{flagIOCteam|SYR}}
+|-
+| RHO || {{flag|Rhodesia}} || 1960–1972 || Now {{flagIOCteam|ZIM}}
+|-
+| ROC || {{flag|Republic of China}} || 1932–1976 || Now {{flagIOCteam|TPE}}
+|-
+| UAR || {{flag|United Arab Republic}} || 1964 || Now {{flagIOCteam|EGY}}
+|-
+| VOL || {{flag|Upper Volta}} || 1972–1984 || Now {{flagIOCteam|BUR}}
+|-
+| YAR || {{flag|North Yemen}} || 1984–1988 ||rowspan=2| Competed independently prior to [[Yemenite unification]] in 1990.<br/>Now {{flagIOCteam|YEM}}
+|-
+| YMD || {{flag|South Yemen}} || 1988
+|-
+| ZAI || {{flag|Zaire}} || 1972–1996 || Now {{flagIOCteam|COD}}
+|-
+| — || {{flag|British Guiana}} || 1948–1964 || Now {{flagIOCteam|GUY}}
+|-
+| — || {{flag|Gold Coast}} || 1952 || Now {{flagIOCteam|GHA}}
+|-
+| — || {{flag|Saar}} || 1952 || Competed independently prior to rejoining [[West Germany]] in 1957.
+|}
+
+Two other significant code changes have occurred, both because of a change in the nation's designation as used by the IOC:
+* '''HOL''' was changed to '''NED''' for the [[Netherlands]] for the 1992 Games, reflecting the change in designation from ''Holland''.
+* '''IRN''' was changed to '''IRI''' for [[Iran]] for the 1992 Games, reflecting the change in designation to ''Islamic Republic of Iran''.
+
+===Special codes===
+* '''ANZ''' is now used in the IOC's medal database<ref name="IOCdb"/> to identify the team from [[Australasia]], composed of athletes from both [[Australia]] and [[New Zealand]] for the 1908 and 1912 Games.  By 1920, both nations competed separately.
+* '''EUA''' is now used in the IOC's medal database<ref name="IOCdb"/> to identify the [[Unified Team of Germany]], composed of athletes representing the NOCs of both [[East Germany]] and [[West Germany]] for the 1956–1964 Games.  At the time, the team was simply known as ''Germany'' in the official reports for those six Games.
+* '''EUN''' was used in 1992 (both Summer and Winter Games) for the [[Unified Team]], composed of athletes from most of the ex-[[republics of the Soviet Union]].  Only the [[Baltic states]] were able to compete as independent teams in 1992; the other twelve new nations competed independently for the first time in 1994 and/or 1996.
+* '''IOP''' was used for ''[[Independent Olympic Participants at the 1992 Summer Olympics|Independent Olympic Participants]]'' in 1992, a designation used for athletes from [[Federal Republic of Yugoslavia|Yugoslavia]] who could not compete as a team due to [[United Nations]] sanctions.
+* '''IOA''' was used for ''[[Individual Olympic Athletes at the 2000 Summer Olympics|Individual Olympic Athletes]]'' in 2000, a designation used for athletes from [[Timor-Leste]] prior to the formation of its NOC.
+* '''ZZX''' is used to identify medals won by [[mixed team at the Olympics|mixed teams]] of athletes from multiple nations (such as the combination of [[France]] and [[United Kingdom|Great Britain]], for example), a situation that happened several times in the Games of 1896, 1900, and 1904.
+
+==See also==
+*Lists of [[National Olympic Committee]]s by continental association:
+**[[Association of National Olympic Committees of Africa]]
+**[[European Olympic Committees]]
+**[[Oceania National Olympic Committees]]
+**[[Olympic Council of Asia]]
+**[[Pan American Sports Organisation]]
+*[[List of participating nations at the Summer Olympic Games]]
+*[[List of participating nations at the Winter Olympic Games]]
+*[[List of FIFA country codes]]
+*[[Comparison of IOC, FIFA, and ISO 3166 country codes]]
+
+==References==
+{{reflist}}
+{{refbegin}}
+*{{cite book |title=VII Olympic Winter Games Cortina d'Ampezzo 1956 Official Report |page=70 |publisher=Società Grafica Romana |location=Rome |url=http://www.la84foundation.org/6oic/OfficialReports/1956/orw1956.pdf |format=PDF |accessdate=2008-01-31}}
+*{{cite book |title=VIII Olympic Winter Games Squaw Valley California 1960 Final Report |author=(ed.) Robert Rubin |publisher=California Olympic Commission |page=92 |url=http://www.la84foundation.org/6oic/OfficialReports/1960/1960w.pdf |format=PDF |accessdate=2008-01-31}}
+*{{cite book |title=The Games of the XVII Olympiad Rome 1960, The Official Report of the Organizing Committee, Volume 2 |author= (ed.) Giacomini, Romolo |page=56 |publisher=Carlo Colombo |location=Rome |month=May |year=1963 |url=http://www.la84foundation.org/6oic/OfficialReports/1960/OR1960v2pt1.pdf |format=PDF |accessdate=2008-02-04}}
+*{{cite book |title=The Official Report of the Games of the XVIII Olympiad, Tokyo 1964, Volume II |publisher=The Organizing Committee for the Games of the XVIII Olympiad |location=Tokyo |month=October |year=1966 |page=1 |url=http://www.la84foundation.org/6oic/OfficialReports/1964/or1964v2pt1.pdf |format=PDF |accessdate=2008-02-04}}
+*{{cite book |title=X<sup>th</sup> Winter Olympic Games Official Report |publisher=Comité d'Organisation des xèmes Jeux Olympiques d'Hiver de Grenoble |year=1969 |page=401 |url=http://www.la84foundation.org/6oic/OfficialReports/1968/or1968.pdf |format=PDF |accessdate=2008-01-31}}
+*{{cite book |title=The Official Report of the Organizing Committee of the Games of the XIX Olympiad Mexico 1968, Volume 3: The Games |author=(ed.) Trueblood, Beatrice |publisher=Organizing Committee of the Games of the XIX Olympiad |year=1969 |pages=16–17 |url=http://www.la84foundation.org/6oic/OfficialReports/1968/1968v3pt1.pdf |format=PDF |accessdate=2008-02-05}}
+*{{cite book |title=The Official Report of XIth Winter Olympic Games, Sapporo 1972 |publisher=The Organizing Committee for the Sapporo Olympic Winter Games |year=1973 |pages=434–455 |url=http://www.la84foundation.org/6oic/OfficialReports/1972/orw1972.pdf |format=PDF |accessdate=2008-01-31}}
+*{{cite book |title=The official report of the Organizing Committee for the Games of the XXth Olympiad Munich 1972, Volume 3 The competitions |author=(ed.) Kunze, Herbert |publisher=proSport |location=Munich |year=1974 |page=14 |url=http://www.la84foundation.org/6oic/OfficialReports/1972/1972s3.pdf |format=PDF |accessdate=2008-02-04}}
+*{{cite book |title=XII.Olympische Winterspiele Innsbruck 1976 Final Report |author=(ed.) Bertl Neumann |publisher=Organizing Committee for the XIIth Winter Olympic Games 1976 at Innsbruck |page=163 |url=http://www.la84foundation.org/6oic/OfficialReports/1976/orw1976.pdf |format=PDF |accessdate=2008-01-31}}
+*{{cite book |title=Games of the XXI Olympiad Montréal 1976 Official Report, Volume III Results |author=(ed.) Chantigny, Louis |publisher=COJO 76 |location=Montreal |year=1978 |page=7 |url=http://www.la84foundation.org/6oic/OfficialReports/1976/1976v3.pdf |format=PDF |accessdate=2008-02-05}}
+*{{cite book |title=Games of the XXII Olympiad Moscow 1980, Volume 3 Participants and Results |author=(ed.) I. T. Novikov |publisher=Fizkultura i Sport |year=1981 |location=Moscow |pages=9–10 |url=http://www.la84foundation.org/6oic/OfficialReports/1980/or1980v3.pdf |format=PDF |accessdate=2008-02-05}}
+*{{cite book |title=Official Report of the Organising Committee of the XlVth Winter Olympic Games 1984 at Sarajevo |publisher=Oslobodenje |location=Sarajevo |year=1984 |pages=89–90 |url=http://www.la84foundation.org/6oic/OfficialReports/1984/or1984w.pdf |format=PDF |accessdate=2008-01-31}}
+*{{cite book |title=Official Report of the Games of the XXIIIrd Olympiad Los Angeles 1984, Volume 2 Competition Summary and Results |publisher=Los Angeles Olympic Organizing Committee |author=(ed.) Perelman, Richard B. |year=1985 |page=202 |isbn=0-9614512-0-3 |url=http://www.la84foundation.org/6oic/OfficialReports/1984/1984v2.pdf |format=PDF |accessdate=2008-02-05}}
+*{{cite book |title=XV Olympic Winter Games Official Report |author=(ed.) Rodney Chapman |pages=621–645 |publisher=Calgary Olympic Development Association |isbn=0-921060-26-2 |year=1988 |url=http://www.la84foundation.org/6oic/OfficialReports/1988/orw1988pt1.pdf |format=PDF |accessdate=2008-01-31}}
+*{{cite book |title=Games of the XXIVth Olympiad Seoul 1988 Official Report, Volume 2: Competition Summary and Results |author=(ed.) Lee Kyong-hee |publisher=Seoul Olympic Organizing Committee |month=September |year=1989 |pages=150–161 |url=http://www.la84foundation.org/6oic/OfficialReports/1988/1988v2.pdf |format=PDF |accessdate=2008-02-05}}
+*{{cite book |title=Official Report of the XVI Winter Olympic Games of Albertville and Savoie |author=(ed.) Claudie Blanc, Jean-Marc Eysseric |isbn=2-9507109-0-5 |chapter=Results |page=3 |url=http://www.la84foundation.org/6oic/OfficialReports/1992/orw1992.pdf |format=PDF |accessdate=2008-01-31 |year=1992 |publisher=Comité d'organisation des XVIes Jeux olympiques d'hiver d'Albertville et de la Savoie |location=Albertville, France}}
+*{{cite book |title=Official Report of the Games of the XXV Olympiad Barcelona 1992, Volume IV The Games |author=(ed.) Cuyàs, Romà |publisher=COOB'92 |year=1992 |pages=396–397 |isbn=84-7868-097-7 |url=http://www.la84foundation.org/6oic/OfficialReports/1992/1992s4.pdf |format=PDF |accessdate=2008-02-05}}
+*{{cite book |title=Official Report of the XVII Olympic Winter Games |year=1994 |chapter=Volume IV |page=63 |url=http://www.la84foundation.org/6oic/OfficialReports/1994/E_BOOK4.PDF |format=PDF |accessdate=2008-01-31}}
+*{{cite book |title=The Official Report of the Centennial Olympic Games, Volume III The Competition Results |author=(ed.) Watkins, Ginger T. |publisher=Peachtree Publishers |location=Atlanta |year=1997 |isbn=1-56145-150-9 |pages=viii–ix |url=http://www.la84foundation.org/6oic/OfficialReports/1996/1996v3.pdf  |format=PDF |accessdate=2008-02-05}}
+*{{cite book |title=The XVIII Olympic Winter Games Official Report |author=(ed.) Shinano Mainichi Shimbun |publisher=The Organizing Committee for the XVIII Olympic Winter Games, Nagano 1998 |year=1998 |chapter=Volume Three Competition Results and Participants |page=12 |isbn=4-7840-9827-5 |url=http://www.la84foundation.org/6oic/OfficialReports/1998/Vol3_e.pdf |format=PDF |accessdate=2008-01-31}}
+*{{cite book |title=Official Report of the XXVII Olympiad, Volume Three: Results |publisher=Sydney Organising Committee for the Olympic Games |year=2001 |isbn=0-9579616-1-8 |chapter=National Olympic Committees |pages=1–5 |url=http://www.la84foundation.org/6oic/OfficialReports/2000/Results.pdf |format=PDF |accessdate=2008-02-05 |author=Sydney Organising Committee for the Olympic Games.}}
+*{{cite web |title=List of National Olympic Committees Participating in the XIX Olympic Winter Games in Salt Lake City |url=http://multimedia.olympic.org/pdf/en_report_258.pdf |format=PDF|publisher=International Olympic Committee |date=2002-01-30 |accessdate=2008-02-07}}
+*{{cite book |title=Official Report of the XXVIII Olympiad, Volume Two: The Games |author=(ed.) Skarveli, Efharis; Zervos, Isabel |publisher=Athens 2004 Organising Committee for the Olympic Games |month=November |year=2005 |isbn=960-88101-7-5 |pages=528–529 |url=http://www.la84foundation.org/6oic/OfficialReports/2004/or2004b.pdf |format=PDF |accessdate=2008-02-05}}
+{{refend}}
+
+{{Olympic Games}}
+{{Lists by country}}
+
+{{Link FL|de}}
+{{Link FL|ru}}
+
+[[Category:Country codes|IOC list]]
+[[Category:Lists of countries|IOC country codes]]
+[[Category:Lists of abbreviations|IOC country codes]]
+[[Category:Olympics related lists|Country codes]]
+
+[[af:Lys van IOK-landkodes]]
+[[ar:قائمة رموز بلدان اللجنة الأولمبية الدولية]]
+[[bn:আইওসি-ভুক্ত দেশসমূহের কোডের তালিকা]]
+[[ca:Codis del COI per als paisos]]
+[[de:Liste der olympischen Mannschaftskürzel]]
+[[et:ROK-i maakoodide loend]]
+[[el:Κατάλογος κωδικών χωρών ΔΟΕ]]
+[[es:Anexo:Códigos del COI para los países]]
+[[fa:فهرست کدهای کمیته بین‌المللی المپیک]]
+[[fr:Liste des codes pays du CIO]]
+[[gl:Lista de países por código do COI]]
+[[ko:IOC 국가별 코드 목록]]
+[[hr:Dodatak:Popis kratica država na Olimpijskim igrama]]
+[[id:Daftar kode negara Komite Olimpiade Internasional]]
+[[it:Lista dei codici nazionali del CIO]]
+[[lv:SOK valstu un teritoriju kodi]]
+[[hu:NOB-országkódok listája]]
+[[mr:आय.ओ.सी. कोड यादी]]
+[[nl:Lijst van IOC-landcodes]]
+[[ja:IOCコード一覧]]
+[[no:IOKs landkoder]]
+[[pt:Anexo:Lista de países por código do COI]]
+[[ro:Lista ţărilor după coduri CIO]]
+[[ru:Список кодов МОК]]
+[[simple:List of IOC country codes]]
+[[sr:Списак МОК кодова по државама]]
+[[fi:Luettelo Kansainvälisen olympiakomitean maakoodeista]]
+[[sv:Lista över IOK:s landskoder]]
+[[tl:Talaan ng mga pambansang kodigo ng IOC]]
+[[roa-tara:Liste de le codece naziunele d'u CIO]]
+[[vi:Bảng mã IOC]]
+[[zh:國際奧委會國家編碼列表]]

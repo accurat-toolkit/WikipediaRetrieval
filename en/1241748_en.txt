@@ -1,0 +1,43 @@
+'''GEM''' may refer to:
+
+* [[G.E.M.]], a [[Chinese people|Chinese]] [[pop singer]] from [[Hong Kong]]
+* [[Gas Electron Multiplier]]
+* [[Gender Empowerment Measure]]
+* Generable (sic) Enigmatic Matrix from the anime and manga My-Otome (see [[List of My-Otome terminology]])
+* [[Generalized Empirical Method]] &mdash; from Bernard Lonergan, also known as critical realism
+* [[Generalized Expertise Measure]]
+* [[SECS/GEM|Generic Equipment Model]] - Generic Model for Communications and Control of Manufacturing Equipment
+* [[Generalmusic]] &mdash; an Italian manufacturer of organs, synths and keyboards, formerly 'Galanti Electro Music'
+* [[Genetically engineered microorganism]]
+* [[German equatorial mount]]
+* [[Global Earthquake Model]]
+* [[Global Electric Motorcars]] - Manufacturer of electric cars and subsidiary of Chrysler
+* [[Global Environmental Multiscale Model]]
+* [[Global Entrepreneurship Monitor]] &mdash; the most comprehensive study of global entrepreneursip trends, conducted annually by the GEM Consortium, with 39 member countries
+* [[Globally Executable MHP]], a digital television specification
+* '''Glycosphingolipid-enriched microdomains''', in Biology. Also known as [[Lipid raft]]
+* [[Gordon/Evernham Motorsports]]
+* [[GPON encapsulation method]] &mdash; a method of encapsulation for GPON (Gigabit [[Passive Optical Network]])
+* [[Grand Egyptian Museum]]
+* [[Graphical Environment Manager]] &mdash; a windowing system created by Digital Research, Inc. (DRI)
+* [[Graphics Environment for Multimedia]] &mdash; a Pure data package for 3D graphics
+* [[Graphics Execution Manager]] &mdash; a Kernel based graphics memory manager replacement for Translation Table Maps
+* [[Graphite-Epoxy Motor]] &mdash; a solid rocket motor used for supplemental thrust on several space launch vehicles
+* [[Gravitoelectromagnetism]] &mdash; deals with the theory of field effects due to moving masses
+* [[Grenoble ecole de management]] &mdash; the Grenoble Graduate School of Management
+* [[Ground effect machines]] also known as Hovercraft
+* [[Growth Enterprise Market]] of Hong Kong Stock Exchange
+* [[Gyrokinetic ElectroMagnetic]] A global electromagnetic gyrokinetic simulation code for studying tokamak turbulence
+
+==See also==
+*[[Gem (disambiguation)]]
+{{disambig}}
+
+[[de:GEM]]
+[[eo:GEM]]
+[[fr:GEM]]
+[[it:GEM]]
+[[lv:GEM]]
+[[ja:GEM]]
+[[ksh:GEM (Watt ėßß datt?)]]
+[[sv:GEM]]

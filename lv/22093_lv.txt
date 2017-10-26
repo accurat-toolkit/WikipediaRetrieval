@@ -1,0 +1,112 @@
+{| class="infobox vcard" style="width:235px; font-size:90%; line-height:1.40em; text-align:left; background-color:#F9F9F9; border: 1px solid #D9D9D9;"
+|-
+| colspan=2 bgcolor=#d3daed align=center | <big>'''Ahmedabada</br>Ahmedabad, અમદાવાદ, अहमदाबाद'''</big>
+|-
+| colspan=2 | <!--- Šeit sākas info par karti --->
+{{Image label begin 
+| image = Gujarat locator map.svg 
+| width = 235px
+| float={{{float|none}}}}}
+{{Image label|x=-90.0|y=-70.0|scale={{{width|-1}}}|text='''Ahmedabada''' [[Attēls:Locator Dot.svg|7px]]}}
+{{Image label|x=-6.0|y=-137.0|scale={{{width|-1}}}|text=[[Attēls:India Gujarat locator map.svg|60px]]}}
+{{Image label end}}
+|-
+| width=40% | Dibināta || [[1411]]. gadā
+|-
+| [[Platība]] || 449 [[kvadrātkilometrs|km²]]
+|-
+| [[Iedzīvotāji]] || [[2008]]. gadā - 3 867 336<ref>{{cite web | accessdate = 2008-08-20 | language = angliski | url = http://www.world-gazetteer.com/wg.php?x=&men=gpro&lng=en&dat=32&geo=-104&srt=pnan&col=aohdq&pt=c&va=&geo=406933258 | title = Ahmadābād | publisher = World Gazetteer}}</ref><br />[[Aglomerācija|Aglomerācijā]] - 5 255 003
+|-
+| [[Augstums virs jūras līmeņa|Augstums v.j.l.]] || 53 [[metrs|m]]
+|-
+| [[Indijas štati|Štats]] || [[Gudžarata]]
+|-
+| [[Pilsētas mērs]] || [[Kanadži Takors]]<ref>Iespējams, ka ir nepareizi veikta transliterācija, angliski viņa vārds rakstās šādi: ''Kanaji Thakor''</ref>
+|-
+| [[Laika zona]] || [[UTC]] +5:30
+|-
+| [[Mājas lapa]] || [http://www.egovamc.com/ www.egovamc.com]
+|}
+
+'''Ahmedabada''' ({{val-en|Ahmedabad}}, [[gudžarati]] - અમદાવાદ, [[hindi]] - अहमदाबाद) ir [[Gudžarata]]s štata lielākā [[pilsēta]] un tā galvenais [[kultūra]]s un [[ekonomika]]s centrs. Tā ir arī viena no lielākajām [[Indija]]s pilsētām, tajā dzīvo 5,26 miljoni [[iedzīvotāji]]. Vairums iedzīvotāju ir [[gudžarati]]. Tā atrodas pie [[Sabarmati]] upes.
+
+No 1960. līdz 1970. gadam bija štata galvaspilsēta, kad to pārcēla uz [[Gandinagara|Gandinagaru]]. Kopš 2000. gada pilsēta strauji attīstās, tomēr attīstība radījusi spriedzi pilsētas kopienu starpā, vairojot politisko nestabilitāti un vardarbīgas sadursmes.
+
+Ekonomikā vēsturiski pazīstama kā [[tekstilrūpniecība]]s, bet mūsdienās - [[farmaceitiskā rūpniecība|farmaceitiskās rūpniecības]] centrs.
+
+== Vēsture ==
+[[Attēls:Sabarmati-Ashram-12.jpg|thumbnail|left|200px|Sabarmati āšrams (Gandija māja) Ahmedabadā.]]
+Pilsēta dibināta 1411. gadā kā [[Muzafarīdi|Muzafarīdu]] (''Muzaffarid'') dinastijas [[Gudžaratas sultanāts|Gudžaratas sultanāta]] galvaspilsēta. 1547. gadā to ieņēma [[Mogolu impērija|Mogolu]] valdnieks [[Akbars]].
+
+1818. gadā Ahmadabadu ieņēma [[Britu Austrumindijas kompānija]]. [[Lielbritānija|Britu]] valdīšanas laikos Ahmedabada tika saukta par "Austrumu [[Mančestra|Mančestru]]", jo pilsētā strauji attīstījās [[tekstilrūpniecība]]. 
+
+1915. gadā [[Mahatma Gandijs]] Ahmedabadā nodibināja [[ašrams|āšramu]], kurā propagandēja savas idejas. Indijas neatkarības kustības laikā Ahmedabada bija viens no galvenajiem neatkarības kustības centriem. 1930. gadā no Ahmadabadas sākās Gandija vadītais [[Sāls maršs]]. Pēc Indijas sadalīšanas Indijas un [[Pakistāna]]s valstīs, 1947. gadā pilsētas ielās notika sadursmes starp [[hinduisms|hinduistiem]] un [[islāms|musulmaņiem]].
+
+2001. gadā pilsēta smagi cieta 6,9 ballu stiprā [[zemestrīce|zemestrīcē]], bet 2002. gadā pilsētas dzīvi uz mēnesi paralizēja hinduistu un musulmaņu sadursmes.  
+
+== Atsauces un piezīmes ==
+{{commons|Category:Ahmedabad|Ahmedabada}}
+{{atsauces}}
+
+
+{{Indija-aizmetnis}}
+
+{{coor title dms|23|02|22|N|72|33|57|E|region:IQ_scale:200000}}
+
+[[Kategorija:Indijas pilsētas]]
+
+{{Link FA|en}}
+
+[[ar:أحمد آباد]]
+[[az:احمدآباد - هیندیستان]]
+[[bg:Ахмедабад]]
+[[bn:অহমদাবাদ]]
+[[bpy:অমদাৱাদ]]
+[[ca:Ahmedabad]]
+[[cs:Ahmadábád]]
+[[cy:Ahmedabad]]
+[[da:Ahmedabad]]
+[[de:Ahmedabad]]
+[[en:Ahmedabad]]
+[[eo:Ahmadabado]]
+[[es:Ahmedabad]]
+[[et:Ahmedabad]]
+[[fa:احمدآباد]]
+[[fi:Ahmedabad]]
+[[fr:Ahmedabad]]
+[[gl:Ahmedabad - અમદાવાદ]]
+[[gu:અમદાવાદ]]
+[[he:אחמדאבאד]]
+[[hi:अहमदाबाद]]
+[[hu:Ahmedábád]]
+[[id:Ahmedabad]]
+[[it:Ahmedabad]]
+[[ja:アフマダーバード]]
+[[kn:ಅಹ್ಮದಾಬಾದ್]]
+[[ko:아마다바드]]
+[[lt:Ahmadabadas]]
+[[ml:അഹമ്മദാബാദ്]]
+[[mr:अमदावाद]]
+[[new:अहेम्दाबाद]]
+[[nl:Ahmedabad]]
+[[no:Ahmadabad]]
+[[pam:Ahmedabad]]
+[[pl:Ahmadabad]]
+[[pt:Ahmedabad]]
+[[ro:Ahmedabad]]
+[[ru:Ахмадабад]]
+[[sh:Ahmedabad]]
+[[simple:Ahmedabad]]
+[[sr:Ахмедабад]]
+[[sv:Ahmedabad]]
+[[ta:அகமதாபாத்]]
+[[tg:Аҳмадобод]]
+[[tl:Ahmedabad]]
+[[tr:Ahmedabad]]
+[[ug:Exmetabad]]
+[[uk:Ахмедабад]]
+[[ur:احمد آباد]]
+[[vi:Ahmedabad]]
+[[vo:Ahmedabad]]
+[[wuu:艾哈迈德堡]]
+[[zh:艾哈迈达巴德]]

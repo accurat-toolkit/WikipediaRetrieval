@@ -1,0 +1,309 @@
+{{Dablink|For an arrangement of Sony Ericsson products, see [[list of Sony Ericsson products]]}}
+{{Infobox Company
+| company_name = Sony Ericsson Mobile <small>Communications</small> AB
+| company_logo = [[File:Sony Ericsson logo.svg|180px|SonyEricsson]]
+| company_type = [[Joint venture]]
+| foundation = 1 October 2001<ref name="Ericsson - press release">{{cite web|url=http://www.cisionwire.com/ericsson/sony-ericsson-mobile-communications-established-today|title=Ericsson - press release|publisher=Cision Wire|accessdate=2001-10-01}}</ref>
+| location = Head Office:<br />London, England, UK<br />Incorporated:<br />Sweden
+| key_people = Hideki (Dick) Komiyama (President)<ref name="Executive biographies">{{cite web |title=Executive biographies|url=http://www.sonyericsson.com/cws/corporate/company/aboutus/executivebiographies|year=2008|month=March|publisher=Sony Ericsson|accessdate=9 July 2009}}</ref> Anders Runevad (EVP) [[Carl-Henric Svanberg]] (Chairman)
+| industry = Telecommunications
+| products         = [[Mobile phone]]s<br />[[Mobile music|Mobile music devices]]<br />[[Wireless|Wireless systems]]<br />[[Wireless|Wireless voice devices]]<br />Hi-Tech accessories<br />[[Wireless|Wireless data devices]]
+| revenue = {{decrease}} €11,244 million (2008)<ref>[http://www.sonyericsson.com/cws/corporate/press/pressreleases/pressreleasedetails/pressreleaseq408-20090116 Sony Ericsson reports results for fourth quarter and full year 2008]</ref>
+| operating_income =
+| net_income = {{decrease}} -€73 million (2008)
+| num_employees = 9,400 (as of July 2008)
+| parent =  [[Sony|Sony Corporation]] (50%)<br />[[Ericsson|Ericsson AB]] (50%)
+| subsid =
+| homepage = [http://www.sonyericsson.com www.sonyericsson.com]
+| font used for the logo = EF Digital Sans
+| footnotes =
+}}
+
+{{Refimprove|article|date=July 2009|talk=y}}
+
+'''Sony Ericsson''' is a joint venture established on October 1, 2001<ref name="Ericsson - press release"/> by the Japanese consumer electronics company [[Sony Corporation]] and the Swedish telecommunications company [[Ericsson]] to make mobile phones. The stated reason for this venture is to combine Sony's consumer electronics expertise with Ericsson's technological leadership in the communications sector. Both companies have stopped making their own mobile phones.
+
+The company's global management is based in [[Hammersmith]], London, and it has research & development teams in Sweden, Japan, China, Germany, the United States, India and the United Kingdom. By 2008, it was the third-largest mobile phone manufacturer in the world after [[Nokia]] and [[Samsung]].{{Citation needed|date=August 2009}} The sales of products largely increased due to the launch of the adaptation of [[Sony]]'s popular [[Walkman]] and [[Cyber-shot]] series.
+
+==Recent performance==
+While Sony Ericsson has been enjoying strong growth recently, its South Korean rival [[LG Electronics]] overtook it in [[Calendar year|Q1]] 2008 due to the company's profits falling significantly by 43% to €133 million (approx. US$ 179.6697 million <ref>[http://www.google.com/search?hl=en&safe=off&q=€133+million+to+%24&btnG=Search €133 million to $ - Google Search]</ref>), sales falling by 8% and market share dropping from 9.4% to 7.9%, despite favourable conditions that the handset market was expected to grow by 10% in 2008. Sony Ericsson announced another profit warning in June 2008<ref>[http://www.engadget.com/2008/06/30/sony-ericsson-issues-second-profit-warning-of-the-year-expects/ Sony Ericsson issues second profit warning of the year, hopes to break even in Q2 - Engadget<!-- Bot generated title -->]</ref> and saw net profit crash by 97% in Q2 2008, announcing that it would cut 2,000 jobs, leading to wide fear that Sony Ericsson is on the verge of decline along with its struggling rival, [[Motorola]].<ref>[http://www.trustedreviews.com/mobile-phones/news/2008/04/24/Sony-Ericsson-Profits-Crash-48-/p1 Sony Ericsson Profits Crash 48% - TrustedReviews<!-- Bot generated title -->]</ref> In Q3 the profits were much on the same level, however November and December saw increased profits along with new models being released such as the C905 being one of the top sellers across the United Kingdom.
+
+Sony Ericsson has, as of July 18, 2008, approximately 9,400 employees and 2,500 contractors worldwide. Hideki Komiyama is the president of the company and has been since November 1, 2007 when he  replaced [[Miles Flint]]. The Corporate Executive Vice President is Anders Runevad.
+
+==History==
+===Troubles in Ericsson's mobile phone business===
+In the United States, Ericsson partnered with [[General Electric]] in the early [[1990s|nineties]], primarily to establish a US presence and brand recognition.
+
+Ericsson had decided to obtain chips for its phones from a single source -- a [[Philips]] facility in [[New Mexico]]. In March 2000, a fire at the Philips factory contaminated the sterile facility. Philips assured Ericsson and [[Nokia]] (their other major customer) that production would be delayed for no more than a week. When it became clear that production would actually be compromised for months, Ericsson was faced with a serious shortage. Nokia had already begun to obtain parts from alternative sources, but Ericsson's position was much worse as production of current models and the launch of new ones was held up.<ref>''"When the chain breaks"'' (June 17, 2006). [[The Economist]]: A survey of logistics, p. 18.</ref>
+
+Ericsson, which had been in the cellular phone market for decades, and was the world's no. 3 cellular telephone handset maker, was struggling with huge losses -- in spite of booming sales since 2000 -- due to this fire, and its inability to produce cheaper phones like [[Nokia]]. To curtail the losses, it considered outsourcing production to Asian companies that can produce the handset for lower costs.
+
+Speculation began about a possible sale by Ericsson of its mobile phone division, but the company's president said they had no plans to do that. "Mobile phones are really a core business for Ericsson. We wouldn't be as successful (in networks) if we didn't have phones", he said.
+
+===Background of the joint venture===
+[[Sony]] was a marginal player in the worldwide cell phone market with a share of less than 1 percent in 2000. Despite sustaining losses in this area, it wanted to focus on it more. In April 2001, Sony confirmed that it was in talks with Ericsson for a possible collaboration in the handset business. This was soon after [[Toshiba]] and [[Siemens]] had announced plans in November 2000 to work together on handsets for [[3G]] mobile networks, which was cancelled in 2001.
+
+By August 2001, the two companies had finalized the terms of the merger announced in April. The company was to have an initial workforce of 3,500 employees.
+
+===Early troubles===
+In spite of having aimed to be profitable in its very first year, Ericsson's market share actually fell and in August 2002, Ericsson said it would stop making mobile phones and end its partnership with Sony if the business continues to disappoint even as Sony said it was fully committed to the joint venture and wanted to make it a success. However, in January 2003, both companies said they would inject more money into the joint venture in a bid to stem the losses.
+
+Sony Ericsson's strategy was to release new models capable of digital photography as well as other multimedia capabilities such as downloading and viewing video clips and personal information management capabilities. To this end, it released several new models which had built-in [[digital camera]] and color screen which were novelties at that time. The high-end [[Sony Ericsson P800|P800]] which featured a built-in camera and [[PDA]] attributes was successful and helped in turning around. The joint venture, however, continued to make bigger losses in spite of booming sales. Thus, it kept postponing its target date for making a profit from its first year to 2002 to 2003 to second half of 2003.
+
+It even failed in its mission of becoming the top seller of multimedia handsets and was in fifth-place and struggling in 2003.
+
+===Turnaround===
+====Beginning of the turnaround====
+In June 2002, Sony Ericsson said it will stop making [[CDMA]] cellphones for the US market and will focus on [[GSM]] which was and remains the dominant technology. It also slashed jobs in research and development in USA and Germany. In October 2003, it posted its first quarterly profit but warned that falling prices on phones and competition would make it difficult to stay in black. Sony Ericsson's recovery is credited to the success of the [[T610]] model.
+
+Following the success of its P800 phone, Sony Ericsson introduced the [[P900]] at simultaneous events in [[Las Vegas, Nevada|Las Vegas]] and Beijing in October 2003. It was pegged as smaller, faster, simpler and more flexible than its predecessor.
+
+In March 2004, Ericsson said it would try to block its rival [[Nokia]] from gaining control of [[Symbian Ltd|Symbian]], an industry consortium that made operating software for [[smart phone]]s.
+
+In 2004, Sony Ericsson's market share increased from 5.6 percent in the first quarter to 7 percent in the second quarter. In July 2004, Sony Ericsson unveiled the [[P910]] communicator with its integrated [[thumbboard]], broad e-mail support, quadruple memory and improved screen.
+
+In February 2005, Sony Ericsson president [[Miles Flint]] announced at the [[3GSM World Congress]] that Sony Ericsson will unveil a mobile phone-come-digital music player in the next month. It would be called the Walkman phone and would play music file formats such as [[MP3]] and [[AAC]].
+
+====Success with Walkman phones and beyond====
+On March 1, 2005, Sony Ericsson introduced the [[Sony Ericsson K750|K750i]] with a 2 [[megapixel]] camera, as well as its platform mate, the [[Sony Ericsson W800|W800i]], the first of the highly successful Walkman phones capable of 30 hours of music playback, and two low-end phones.
+
+On May 1, 2005, Sony Ericsson agreed to become the global title sponsor for the [[WTA Tour]] in a deal worth 88 million US dollars over 6 years. The women's pro tennis circuit was renamed the Sony Ericsson WTA Tour. Just over a month later on June 7, it announced sponsorship of [[West Indies|West Indian]] batsmen [[Chris Gayle]] and [[Ramnaresh Sarwan]].
+
+In October 2005, Sony Ericsson presented the first mobile phone based on UIQ 3, the [[P990]].
+
+On January 2, 2007, Sony Ericsson announced in [[Stockholm]] that it will be having some of its mobile phones produced in India. It announced that its two outsourcing partners, FLextronics and [[Foxconn]] will be producing 10 million cellphones per year by 2009. [[CEO]] [[Miles Flint]] announced at a press conference held with India's communications minister [[Dayanidhi Maran]] in [[Chennai]] that India was one of the fastest growing markets in the world and a priority market for Sony Ericsson with 105 million users of GSM mobile telephones.
+
+On February 2, 2007, Sony Ericsson acquired [[UIQ Technology]], a Swedish software company from [[Symbian Ltd.]]. UIQ will remain an independent company, Miles Flint announced.<ref>[http://www.marketwatch.com/news/story/sony-ericsson-seeks-shareholders-uiq/story.aspx?guid={4BE5DD6B-9BEE-4085-B3A8-3EAF9878B747} Sony Ericsson seeks shareholders for UIQ software company - MarketWatch]</ref>
+
+On October 15, 2007, Sony Ericsson announced on Symbian Smartphone Show that they will be selling half of its UIQ share to [[Motorola]] thus making [[UIQ]] technology owned by two large mobile phone companies.
+
+== Success with Cyber-shot ==
+Sony Ericsson had great success with their Cyber-shot brand.  The brand was launched in 2005 by the introduction of the K750i which was one of the most popular Sony Ericsson phones. The reason for this was its Memory Card capability which was very desired at the time.  The Cyber-shot became a success very quickly because unlike Walkman, which have a very good media package and a poor camera, they have decent media viewing and good cameras.
+
+In 2007 their first 5-Megapixel camera phone, the Sony Ericsson K850i, was announced followed in 2008 by the Sony Ericsson C905 the world's first 8-Megapixel phone. At [[Mobile World Congress]] 2009, Sony Ericsson unveiled the first 12-Megapixel phone, named Satio on 28 May 2009.
+
+==Types of phones==
+===Main areas of interest===
+[[File:SE K750i.jpg|thumb|250px|The Sony Ericsson K750i is one of the most successful Sony Ericsson products.]]
+Sony Ericsson currently concentrates on the categories of: music, camera, business (web and email), design, all-rounder, and budget focused phones. Its five largest categories are:
+*The [[Walkman]]-branded W series music phones, launched in 2005.<br />The Sony Ericsson W-series music phones are notable for being the first music-centric series mobile phones, prompting a whole new market for portable music that was developing at the time. The main feature that can be seen in all of these walkman phones is they all have a silver 'W' button which once pressed opens the media center. Sony Ericsson's Walkman phones have previously been commercially endorsed by pop stars [[Christina Aguilera]] and [[Jason Kay]] across Europe.
+*The [[Cyber-shot]]-branded line of phones, launched in 2006 in newer models of the K series phones.<br />This range of phones are focused on the quality of the camera included with the phone.  Cyber-shot phones always include a flash, some with a xenon flash, and also include auto-focus cameras.  Sony Ericsson kicked off its global marketing campaign for Cyber-shot phone with the launch of 'Never Miss a Shot'. The campaign featured top female [[tennis]] players [[Ana Ivanović]] and [[Daniela Hantuchová]]. On 10 February 2008, the series has been expanded with the announcement of C702 and C902 phones. And the whole new thing;Sony Ericsson C905.
+*The [[BRAVIA]]-branded line of phones, launched in 2007 Japan market only.<br />Now, two mobile phones ([[FOMA]] SO903iTV and FOMA SO906i<ref>[[NTT docomo]] [http://www.nttdocomo.co.jp/english/product/foma/906i/so906i/index.html SO906i]</ref>) uses BRAVIA brand. BRAVIA branded phone are able to watch [[1seg]] terrestrial television.
+*The [[UIQ]] smartphone range of mobiles, introduced with the P series in 2003 with the introduction of P800.<br />They are notable for their touchscreens, QWERTY keypads (on most models), and use of the UIQ interface Platform from [[Symbian OS]]. This has since expanded into the M series and G series phones.
+*The [[XPERIA]] range of mobile phones, heralded by the [[Sony Ericsson XPERIA X1]] on February 2008 at the Mobile World Congress (formerly 3GSM) held in Barcelona Spain, had opened the door for integration of [[Windows Mobile]] Operating System into Sony Ericsson powerhouse smartphones. XPERIA was the first trademark promoted by the Sony Ericsson as its own and is designated to provide technological convergence among its target user base.
+
+===Phone series description===
+{| class="wikitable"
+|-valign="top"
+!Series
+!Branding
+!Description
+!Origin
+|-
+| style="text-align: center;" | A
+| style="text-align: center;" | Older Ericsson style phones.
+|-
+| style="text-align: center;" | C
+| style="text-align: center;" | [[Cyber-shot]]
+| Camera-focused phones.
+| '''C'''yber-shot
+|-
+| style="text-align: center;" | D
+| style="text-align: center;" | [[T-Mobile]]
+| T-Mobile network exclusive phones.
+| '''D'''eutsche Telekom
+|-
+| style="text-align: center;" | F
+| style="text-align: center;" | [[Vodafone]] (partial)
+| Vodafone network exclusive phones; Gaming focused phones
+| Voda'''f'''one / '''F'''un
+|-
+| style="text-align: center;" | G
+| style="text-align: center;" | -
+| Web browsing-oriented phones.
+| '''G'''eneration Web
+|-
+| style="text-align: center;" | J
+| style="text-align: center;" | -
+| Low-end series
+| '''J'''unior
+|-
+| style="text-align: center;" | K
+| style="text-align: center;" | Cyber-shot (partial),3G (partial)
+| All-around phones
+| '''K'''amera, '' Swedish for camera ''
+|-
+| style="text-align: center;" | M
+| style="text-align: center;" | -
+| Business-focused smartphones.
+| '''M'''essaging
+|-
+| style="text-align: center;" | P
+| style="text-align: center;" | -
+| Powerhouse smartphones.
+| '''P'''DA
+|-
+| style="text-align: center;" | R
+| style="text-align: center;" | -
+| Phones with built-in AM/FM radio
+| '''R'''adio
+|-
+| style="text-align: center;" | S
+| style="text-align: center;" | -
+| Fashion and camera focused phones.
+| '''S'''wivel, '''S'''lider, '''S'''napshot
+|-
+| style="text-align: center;" | T
+| style="text-align: center;" | -
+| All-around phones
+| '''T'''ala ''(Swedish for "talk")''
+|-
+| style="text-align: center;" | TM
+| style="text-align: center;" | T-Mobile
+| [[T-Mobile USA]] network exclusive phones
+| '''T'''-'''M'''obile
+|-
+| style="text-align: center;" | V
+| style="text-align: center;" | Vodafone
+| Vodafone network exclusive phones.
+| '''V'''odafone
+|-
+| style="text-align: center;" | W
+| style="text-align: center;" | [[Walkman]]
+| Music-focused phones.
+| '''W'''alkman
+|-
+| style="text-align: center;" | X
+| style="text-align: center;" | [[Xperia]]
+| Convergence and powerhouse devices.
+| '''X'''peria
+|-
+| style="text-align: center;" | Z
+| style="text-align: center;" | Ze Bobber
+| Design-oriented phones/clamshells
+| '''Z'''e Bobber''
+|-
+
+====Naming convention====
+=====Current system=====
+After the 2008 [[Mobile World Congress]], Sony Ericsson announced their new naming system comprising four characters, each character denoting the "Series", the "Range/Class", the "Version" and the "Form Factor" respectively.
+{| class="wikitable"
+|-
+|Series
+|Range/Class
+|Version
+|Form Factor
+|-
+|(see above for series letters)
+|1-4: Low-end<br /> 5-7: Mid-range<br /> 8-9: High-end
+|(in numerical order of succession)
+|0-2: Candybar<br /> 3-5: Slider<br /> 6-8: Clamshell<br /> 9: Others
+|}
+"a", "c" and "i" suffixes are used to denote models specifically for American, Chinese and international markets, respectively <ref>[http://blog.se-nse.net/2008/02/25/new-nomenclature-of-upcoming-se-phones/ New Nomenclature of Upcoming Sony Ericsson Phones - Unofficial Sony Ericsson Blog<!-- Bot generated title -->]</ref>
+
+=====Previous systems=====
+Sony Ericsson has used three methods in the past of naming their mobile products:
+*The most common format uses a total of five (or six) characters, eg. K750i.<br />This format begins with a capital letter to denote the series of the phone ('''K'''750i). This is then followed by three numbers (K'''750'''i). The first number indicates the sub-series of the phone, the second indicates the amount of progression from the previous release, i.e. K7'''0'''0i to K7'''5'''0i, and the third number is always either a '0' or '8' and the letter '8' is used either to show a variation of the phone destined for a different market without a feature, eg. the W88'''8''' is a W880i without 3G, or it is used to separate phones which have identical specifications but the designs are different, eg. K61'''0'''i and the K61'''8'''i or k800i and the k810i.  Finally, the lowercase letter at the end of the model name describes the market for which a product is intended; these are: '''a''' for the Americas, '''c''' for China, and '''i''' stands for an international version; there is also an 'im' suffix used for branding [[i-mode]] phones.  Often the last letter is left out to describe the phone generically with no region specific branding.
+*A newer format uses a total of three characters, eg. P1i.  It is believed that this format is intended for naming flagship models of each phone series due to the limited numbering combinations.<br />It begins with a capital letter to denote the series of the phone ('''P'''1i).  The number is used to indicate the amount of progression from the previous release (P'''1'''i) and the final lowercase letter, as explained above, describes the market for which a product is intended.  Again, often the last letter is left out to describe the phone generically with no region specific branding.
+*The oldest naming format uses a total of four characters, eg. T68i.  This format continued from the naming scheme of the Ericsson mobile business and was only ever used once.<br />This format begins with a capital letter to denote the series of the phone ('''T'''68i).  The first number indicates the sub-series of the phone (T'''6'''8i) and the second letter indicates the amount of progression from the previous release.  The last lowercase letter indicates that it is an update of the previous model, i.e. T68 to T68'''i'''.
+
+Another peculiar naming format was the one used in naming the Z1010; this format has not been used since the Z1010.
+
+Furthermore, Sony Ericsson always give their phones codenames when developing. Mainly to keep the information secret and to prevent leaks. All codenames are female names, and some have been taken from the female players of the Sony Ericsson-sponsored tennis tournament, WTA.
+
+==Financial information==
+Sony Ericsson posted its first profit in the second half of 2003. Since then, the sales figures from phones have been:
+*2004: 42 million units<ref>[http://www.gartner.com/it/page.jsp?id=492248 Gartner Says Top Six Vendors Drive Worldwide Mobile Phone Sales to 21 Percent Growth in 2005], gartner.com, 28 February 2006.</ref>
+*2005: 50 million units<ref>[http://www.sonyericsson.com/spg.jsp?cc=global&lc=en&ver=4001&template=pc3_1_1&zone=pc&lm=pc3&prid=4532 Sony Ericsson reports record shipments, sales and profits], sonyericsson.com, 18 January 2006.</ref>
+*2006: 74.8 million units<ref>[http://www.sonyericsson.com/spg.jsp?cc=global&lc=en&ver=4001&template=pc3_1_1&zone=pc&lm=pc3&prid=7012 Record quarter caps a record year for Sony Ericsson], sonyericsson.com, 17 January 2007.</ref>
+*2007: 103.4 million units<ref>[http://www.sonyericsson.com/cws/corporate/press/pressreleases/pressreleasedetails/q42007financialpressreleases-20080116 Sony Ericsson sells over 100 million handsets in 2007], sonyericsson.com, 16 January 2008.</ref>
+*2008: 96.6 million units<ref>[http://www.sonyericsson.com/cws/corporate/press/pressreleases/pressreleasedetails/pressreleaseq408-20090116 Sony Ericsson reports results for fourth quarter and full year 2008], sonyericsson.com, 16 January 2009.</ref>
+
+Also, Sony Ericsson sold 60&nbsp;million music enabled phones in 2006, including 17&nbsp;million Walkman devices, underlining how its products are more popular than Apple's [[iPod]]. Apple sold 46&nbsp;million iPods in 2006.
+According to the Swedish Magazine ''M3''s issue 7/2006 Sony Ericsson is the best-selling phone brand in the [[Nordic countries]], followed by [[Nokia]].
+
+According to the [[Information technology|IT]] research firm [[Gartner]], in the third quarter of 2008, Sony Ericsson became for the first time the third largest mobile phone manufacturer in the world after [[Nokia]] and [[Samsung Electronics|Samsung]], despite failing to improve significantly its market share (8.05% globally), and it is followed very closely by Motorola (7.98%) and LG (7.80%).
+
+==Compatibility==
+During [[E3 (Electronic Entertainment Expo)|E3]] 2007 Media and Business Summit, [[Phil Harrison]], [[Sony]] CEO showcased a Sony Ericsson phone using the PlayStation's [[XMB]]. A select group of phones are also said to integrate into [[PlayStation Home]] ''(final product)''
+
+During the announcement of Sony Ericsson K850, W960 and W910 some review sites have shown that those mentioned phones sport a new media manager to replace the standard Sony Ericsson File Manager which possesses a UI that resembles the XMB interface found on Sony PS3 and PSP products. The mobile developer site confirmed from their spec sheets and white papers that the XMB media manager is standard to the phones running Java Platform 8 also known as A200 Platform.
+
+==See also==
+*[[Sony]]
+*[[Ericsson]]
+*[[LG]]
+*[[Nokia]]
+*[[Samsung]]
+*[[Symbian Foundation|Symbian]]
+*[[MyPhoneExplorer]] - full featured Sony Ericsson manager software for MS [[Microsoft Windows|Windows]], (able to backup, synch and editing almost all data on the phone via [[Bluetooth]], [[infrared]] or [[USB]])
+*[[Media Go]] - music, photo, video, and game management software made for Sony Ericsson phones
+*[[Disc2Phone]] - music management software made for Sony Ericsson phones
+*[[SonicStage]] - music management software made for Japan market phones.
+*[[PlayNow]] - global content distribution portal 
+*[[List of Sony Ericsson products]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons|Sony Ericsson}}
+*[http://www.sonyericsson.com/ Sony Ericsson] – Official site
+
+{{Companies portal}}
+{{Sony Ericsson phones}}
+{{Sony Corp}}
+
+[[Category:Sony Ericsson| ]]
+[[Category:Consumer electronics brands]]
+[[Category:Companies based in London]]
+[[Category:Joint ventures]]
+[[Category:Mobile phone manufacturers]]
+[[Category:International joint-venture companies]]
+[[Category:Companies established in 2001]]
+
+[[ar:سوني إريكسون]]
+[[be-x-old:Sony Ericsson]]
+[[bs:Sony Ericsson]]
+[[bg:Сони Ериксон]]
+[[ca:Sony Ericsson]]
+[[cs:Sony Ericsson]]
+[[da:Sony Ericsson]]
+[[de:Sony Ericsson]]
+[[et:Sony Ericsson]]
+[[es:Sony Ericsson]]
+[[fa:سونی اریکسون]]
+[[fr:Sony Ericsson]]
+[[ko:소니 에릭슨]]
+[[hr:Sony Ericsson]]
+[[id:Sony Ericsson]]
+[[it:Sony Ericsson]]
+[[he:סוני-אריקסון]]
+[[ka:სონი ერიქსონი]]
+[[lv:Sony Ericsson]]
+[[lt:Sony Ericsson]]
+[[hu:Sony Ericsson]]
+[[mk:Сони Ериксон]]
+[[ms:Sony Ericsson]]
+[[nah:Sony Ericsson]]
+[[nl:Sony Ericsson]]
+[[ja:ソニー・エリクソン・モバイルコミュニケーションズ]]
+[[no:Sony Ericsson]]
+[[uz:Sony Ericsson Mobile Communications]]
+[[pl:Sony Ericsson]]
+[[pt:Sony Ericsson]]
+[[ro:Sony Ericsson]]
+[[ru:Sony Ericsson]]
+[[simple:Sony Ericsson]]
+[[sk:Sony Ericsson]]
+[[sl:Sony Ericsson]]
+[[sr:Сони Ериксон]]
+[[fi:Sony Ericsson]]
+[[sv:Sony Ericsson]]
+[[th:โซนี่ อิริคสัน]]
+[[tg:Sony Ericsson]]
+[[tr:Sony Ericsson]]
+[[uk:Sony Ericsson]]
+[[vi:Sony Ericsson]]
+[[zh-yue:新力愛立信]]
+[[zh:索尼爱立信]]

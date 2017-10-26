@@ -1,0 +1,79 @@
+[[Image:Disc Plain black.svg|thumb|Riņķis]]
+
+'''Riņķis''' ir [[plakne]]s daļa, ko ierobežo [[riņķa līnija]] un kurā atrodas tās centrs. Riņķi var definēt arī šādi: riņķis ir visu to plaknes [[punkts|punktu]] [[kopa]], kas atrodas ne tālāk par noteiktu attālumu no kāda fiksēta punkta. Riņķi bieži jauc ar riņķa līniju — riņķa līnija ir riņķa [[robeža (topoloģija)|robeža]] (tā nesatur riņķa iekšpusē esošos punktus).<br>
+Ikdienā riņķi bieži sauc par apli.<br>
+Riņķa vispārinājums trīs dimensiju telpā ir [[lode]].
+
+== Riņķa daļas ==
+
+[[Attēls:Riņķa daļas.svg|right]]
+
+;segments
+:''Segments'' ir riņķa daļa, kuru ierobežo horda un tās definētais loks. Perpendikuls no hordas viduspunkta līdz lokam ir ''segmenta augstums''.
+
+;sektors
+:''Sektors'' ir riņķa daļa, ko ierobežo loks un divi rādiusi, kas vilkti no loka galapunktiem.
+
+;kvadrants
+:''Kvadrants'' ir sektors, kuru veidojošie rādiusi ir savstarpēji [[perpendikuls|perpendikulāri]].
+
+== Riņķa īpašības ==
+
+* Riņķi pagriežot ap tā centru par jebkuru leņķi, tas sakritīs pats ar sevi;
+* Riņķa centrs sakrīt ar tā smagumcentru;
+* Jebkura taisne, kas iet caur riņķa centru, ir tā simetrijas ass;
+* Starp visām plaknes figūrām ar fiksētu perimetru (robežas garumu) riņķim ir vislielākais laukums.
+
+== Formulas ==
+
+* Riņķa [[laukums]]:
+:<math> S = pi R^2, ,</math>
+:kur ''R'' — riņķa rādiuss un <math>pi,</math> = 3,141592… ir konstante [[pī]].
+* Riņķa sektora laukums:
+:<math> S_alpha = frac{alpha R^2}{2} ,</math>
+:kur ''α'' — sektora leņķiskais lielums ([[radiāns|radiānos]]) un ''R'' — riņķa rādiuss.
+* Riņķa perimetrs:
+:<math> P = 2 pi R, ,</math>
+:kur ''R'' — riņķa rādiuss un <math>pi,</math> = 3,141592… ir konstante [[pī]].
+
+== Papildus literatūra ==
+
+* Vigodskis M., Elementārās matemātikas rokasgrāmata, 1967, Rīga.
+
+== Skatīt arī ==
+
+* [[Riņķa līnija]]
+* [[Lode]]
+* [[Sfēra]]
+
+[[Kategorija:Ģeometriskas figūras]]
+[[Kategorija:Eiklīda ģeometrija]]
+
+[[ar:قرص (رياضيات)]]
+[[bs:Krug]]
+[[ca:Cercle]]
+[[cs:Kruh]]
+[[cv:Çавра (геометри)]]
+[[de:Scheibe]]
+[[en:Disk (mathematics)]]
+[[eo:Disko (matematiko)]]
+[[es:Disco (topología)]]
+[[et:Ring]]
+[[fi:Kiekko (matematiikka)]]
+[[fr:Disque (géométrie)]]
+[[hr:Krug]]
+[[it:Cerchio]]
+[[ka:წრეწირი]]
+[[ko:원판]]
+[[lt:Skritulys]]
+[[nl:Schijf (wiskunde)]]
+[[pl:Koło]]
+[[ru:Круг]]
+[[sk:Kruh]]
+[[sl:Krog]]
+[[sr:Круг]]
+[[sv:Cirkelskiva]]
+[[tr:Daire (matematik)]]
+[[uk:Круг]]
+[[vi:Hình tròn]]
+[[zh:圆盘]]

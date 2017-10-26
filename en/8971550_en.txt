@@ -1,0 +1,45 @@
+{{chembox
+|   Name = α-Eleostearic acid
+|   ImageFile = Alpha-eleostearic acid.svg
+<!-- | ImageSize = 300px -->
+|   ImageName = α-Eleostearic acid
+|   IUPACName = (9''Z'',11''E'',13''E'')-octadeca-9,11,13-trienoic acid
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID = 4444560
+|   SMILES = O=C(O)CCCCCCC/C=CC=CC=CCCCC
+|   CASNo=506-23-0
+|   InChI = 1/C18H30O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h5-10H,2-4,11-17H2,1H3,(H,19,20)/b6-5+,8-7+,10-9-
+
+}}
+| Section2 = {{Chembox Properties
+|   Formula = C<sub>18</sub>H<sub>30</sub>O<sub>2</sub>
+|   MolarMass = [[List of elements by atomic mass|278.43]] g/[[Mole (unit)|mol]]
+|   MeltingPt = 48 °C<ref name=Burr>{{cite journal
+  | author=Burr, G.O.; Burr, M.M.; Miller, E.|year=1932
+  |  url=http://www.jbc.org/cgi/reprint/97/1/1.pdf |format=PDF|accessdate=2007-01-17
+  |  title= On the nature and role of the fatty acids essential in nutrition
+  |  journal=J. Biol. Chem. | volume=97 | issue = 1 | pages = 1–9}}</ref>
+  }}
+}}
+'''Eleostearic acid''' (ELA), sometimes called '''α-eleostearic acid''', is a [[Polyunsaturated fatty acid#Conjugated fatty acids|conjugated linolenic acid]]  (CLnA).  It makes up approximately 80% of the fatty acids in [[tung oil]] and 60% of [[bitter gourd]] oil.  Its high [[Polyunsaturated fatty acid|degree of unsaturation]] gives tung oil its properties as a [[drying oil]].  In rats, it is converted to a [[conjugated linoleic acid]] (CLA).<ref name=Tsuzuki >{{cite journal
+  |url= http://jn.nutrition.org/cgi/content/abstract/136/8/2153 |pmid= 16857834
+  |journal= J Nutr|year=2006 |month=August|volume=136|issue=8|pages=2153–9.
+  |title=   Conjugated linolenic acid is slowly absorbed in rat intestine, but quickly converted to conjugated linoleic acid
+  |author=Tsuzuki T, Kawakami Y, Abe R, ''et al.''|accessdate=2007-01-17
+  |day= 01}}</ref>
+In their pioneering work on [[essential fatty acid]]s, Burr, Burr and Miller compared the nutritional properties of ELA to that of its isomer [[alpha-linolenic acid]] (ALA).  ALA relieved essential fatty acid deficiency; ELA did not.<ref name=Burr />
+
+The closely related isomer β-eleostearic acid is (9E,11E,13E)-octadeca-9,11,13-trienoic acid.
+
+==References==
+[[Image:bittermelonfruit.jpg|thumb|left|α-Eleostearic acid makes up about 60% of the fatty acids from bitter gourd oil.]]
+
+<references/>
+
+[[Category:Fatty acids]]
+
+
+{{biochem-stub}}
+
+[[lv:Eleostearīnskābe]]
+[[ja:エレオステアリン酸]]

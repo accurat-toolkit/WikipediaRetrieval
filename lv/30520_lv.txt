@@ -1,0 +1,90 @@
+{{Infokaste persona
+|        platums = 
+|          vārds = Oskars Kalpaks
+|     vārds_orig = 
+|         attēls = Oskars Kalpaks.jpg
+|     att_izmērs = 200px
+|  att_nosaukums = 
+|     dz_dat_alt =
+|        dz_gads = 1882
+|     dz_mēnesis = 1
+|       dz_diena = 6
+|       dz_vieta = [[Meirāni|Meirānu]] pagasts, [[Vidzemes guberņa]], [[Krievijas impērija]] (tagad [[Madonas rajons|Madonas rajona]] [[Ošupes pagasts]], {{LAT}})
+|      m_dat_alt = 
+|         m_gads = 1919
+|      m_mēnesis = 3
+|        m_diena = 6
+|        m_vieta = [[Zirņu pagasts]], [[Saldus rajons]], {{LAT}}
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = 
+|        dzimums = 
+|         vecāki = Pēteris Kalpaks (1850.—1922.), Ilze Kevere (1854.—1890.)
+|          brāļi = Kārlis
+|          māsas = Anna
+|   dzīvesbiedrs = 
+|          bērni =
+|       paraksts = 
+|       piezīmes = 
+|    kategorijas =   
+|    citas daļas =
+{{Infodaļa militārpersona
+| dienesta_pakāpe = [[Attēls:Pulkvezleitnants.gif|55px]]<br />[[pulkvedis]] 
+|  dienesta_laiks = 1903.—1919.
+|          valsts = [[Krievijas impērija]] (1908.—1918.), [[Latvija]] (1918.—1919.)
+|       struktūra = Sauszemes armija
+|         vienība = 183. Pultuskas kājnieku pulks (1903.—1918.), [[Baltijas landesvērs]] (1918.—1919.)
+|       komandēja = [[Latviešu atsevišķais bataljons]]
+|          kaujas = [[Pirmais pasaules karš]], [[Latvijas brīvības cīņas]]
+|     apbalvojumi = 
+|       izglītība = [[Irkutska]]s karaskola
+|     apbalvojumi = 
+|      cits_darbs =  
+}}
+}}
+
+'''Oskars Kalpaks''' (dzimis {{dat|1882|1|6}}, miris {{dat|1919|3|6}}) bija latviešu [[pulkvedis]], pirmās Latvijas karaspēka vienības komandieris.
+
+==Biogrāfija==
+Oskars Kalpaks dzimis {{dat|1882|1|6}} [[Cēsu apriņķis|Cēsu apriņķa]] [[Meirāni|Meirānu]] pagasta (tagad [[Madonas rajons|Madonas rajona]] [[Ošupes pagasts|Ošupes pagasta]]) "Liepsalās". Viņa tēvs Pēteris Kalpaks (1850.—1922.) bija rentnieks. Māte — Ilze Kevere (1854.—1890.). Oskaram bija vecāka māsa Anna (1876.—?) un jaunāks brālis Kārlis (1884.—1953.). Pēc mātes nāves 1891. gadā tēvs apprecējās ar Annu Antužu.<ref name="Mugurēvičs, 2007">[[Ēvalds Mugurēvičs]]. Oskars Kalpaks. Pirmā pasaules kara un Latvijas Atbrīvošanas cīņu varoņa dzīves un kauju ceļš. 2. izdevums, Jumava, 2007. ISBN 978-9984-38-392-7</ref>
+
+Desmit gadu vecumā Oskars Kalpaks trīs gadu ziemas mēnešos gāja [[Visagals|Visagala]] pagastskolā. Pēc tam trīs gadus mācījās [[Lubāna]]s ministrijas skolā, kas bija [[Krievijas impērija|Krievijas]] valsts iestāde, un bija labāk apgādāta nekā pagastskolas un draudzes skolas, bet tajā mācības galvenokārt notika [[krievu valoda|krievu valodā]]. Skolas laikā zēns apguva [[vijole|vijoļspēli]], ko viņam patika spēlēt arī vēlāk. 
+
+Pēc pamatskolas absolvēšanas neveiksmīgi mēģināja iestāties Pleskavas karaskolā, nākošajā gadā devās uz Irkutsku, kur sekmīgi izturēja t.s. savvaļnieka pārbaudījumus, 1903. gada 18. Janvārī O.Kalpaku ieskaitīja [[Krievijas impērijas armija|Krievijas armijas]] 10. divīzijas, 40. Kolivaņas pulka 10. rotā, kas bijusi dislocēta Varšavā. Pabeidzis pulka mācību komandas kursu, O.Kalpaks 1904. gadā dodas uz Kazaņas kājnieku junkurskolu, taču tur neiztur iestājpārbaudījumus. Obligāto dienestu armijā O.Kalpaks beidza kā vecākais apakšoficieris 1905. gada maijā. Tā paša gada septembrī viņš atkal devās uz Irkutsku, kur šoreiz veiksmīgi nokārtoja iestājeksāmenus junkuru skolā. 1905. gada revolucionāru apspiešanai sūtīja karaspēku, tai skaitā karaskolas audzēkņus - O.Kalpaks Irkutskas strādnieku nemieru apspiešanas operācijā izpelnījās savu pirmo apbalvojumu - sudraba medaļu “За усердие” (“Par uzcītību“).1908. gada jūnijā O.Kalpaks absolvēja Irkutskas karaskolu un tika ieskaitīts 183. Pultuskas kājnieku pulkā, kura dislokācijas vieta bija Varšava. [[podporučiks|Podporučika]] dienesta pakāpes iegūšana nozīmē, ka viņš skolu bija beidzis ļoti sekmīgi, jo absolventiem parasti piešķīra tikai [[praporščiks|praporščika]] pakāpi. 1908.-1909.g. O.Kalpaks tika norīkots par rotas pagaidu komandieri, kādu laiku viņš ir pulka mantzinis. 1910. gada vasarā armijas dislokācijā sakarā ar 1. Pasaules kara tuvošanos notika lielas pārmaiņas, kuru rezultātā 183. Pultuskas pulku pārvietoja uz Kostromu. Te viņš jau kā jaunākais virsnieks kļuva par pulka instruktoru sagatavošanas komandas priekšnieku. Līdz kara sākumam O.Kalpaks pēc izdienas ieguva [[poručiks|poručika]] dienesta pakāpi un jau oficiāli kļuva par [[rota (armija)|rotas]] komandieri. Sakarā ar cariskās Krievijas jubilejām (1912., 1913.g.) viņš par labu dienestu tika apbalvots ar divām piemiņas medaļām. Pasaules kara sākumā 1914. gada augustā O.Kalpaks ar savu pulku kā ložmetēju [[vads (armijas daļa)|vada]] komandieris nokļuva krievu-austriešu frontē Galīcijā. Par ievainojumu kaujā tika apbalvots ar  [[Svētās Annas ordenis|Sv.Annas ordeņa]] 4. pakāpi. Par drošsirdību un iniciatīvu, komandējot vadu, pēc tam - rotu t.s. Karpatu operācijās, apbalvoja ar trīs ordeņiem. Par cīņām pie Brestas vēl divi ordeņi. Uzzinot par latviešu strēlnieku bataljonu formēšanu, viņš lūdza atļauju pārcelties uz tiem, taču tika noraidīts. Par 1915. gada augusta kaujām pie Zeļenijdvorecas viņu apbalvoja ar Sv. Jura zobenu. Savukārt 1915. gada septembra kaujās viņu apbalvoja ar [[Svētā Jura ordenis|Sv. Jura ordeņa]] 4. pakāpi. 1915. gada septembrī O.Kalpakam piešķīra štāba [[kapteinis|kapteiņa]] dienesta pakāpi. 1917. gada buržuāziski demokrātiskās revolūcijas laikā viņš iestājies sociālrevolucionāru (eseru) partijā. 1917. gada septembrī O.Kalpaks pēc izdienas ieguva [[apakšpulkvedis|apakšpulkveža]] dienesta pakāpi. Pēc atgriešanās no piecnedēļu atvaļinājuma, ko, iespējams, viņš pavadīja dzimtenē, 15. novembrī, t.i., jau padomju laikā, viņu norīkoja par [[pulks (armijas daļa)|pulka]] komandieri. Par O.Kalpaka autoritāti kareivju masās liecina. tas, ka 1917. gada 10.decembrī viņu ievēlēja par komandieri pulka sapulcē, ko pēc tam apstiprināja pulka komiteja. Pēc pulka demobilizācijas O.Kalpaks 1918. gada 8. aprīlī atgriezās Kostromā, kur pabeidza pulka štāba lietu nodošanu turienes muzejam. 1918. gada rudenī Kalpaks atgriezās dzimtenē.
+
+[[1918]]. gada decembrī [[Kārlis Ulmanis|K. Ulmaņa]] Pagaidu valdība viņu uzaicināja izveidot un komandēt latviešu karaspēka daļu sastādīšanu un komandēšanu, lai cīnītos pret [[lielinieki]]em (skat. [[Latvijas brīvības cīņas]]). Tika izveidots [[Latviešu atsevišķais bataljons]] vācu [[landesvērs|landesvēra]] sastāvā. Tas bija grūts uzdevums, jo iedzīvotaju vairākums simpatizēja lieliniekiem. Rādot personīgu laba karavīra piemēru, īsā laikā O. Kalpakam izdevās izveidot patriotisku, disciplinētu un kaujas spējīgu vienību. Atšķirībā no vācu un lielinieku piekoptās prakses, Kalpaks pavēlēja saudzīgi izturēties pret mierīgajiem iedzīvotajiem. 
+
+[[Sarkanā Armija|Sarkanajai Armijai]] uzbrūkot [[Kurzeme]]s virzienā Kalpaka bataljons nodrošināja Latvijas Pagaidu valdības pārcelšanos no [[Rīga]]s uz [[Jelgava|Jelgavu]] un tālāk uz [[Liepāja|Liepāju]] [[1919]]. gada sākumā. Frontes līnija apstājās pie [[Venta]]s. Liepājā tika veikta mobilizācija, kas bataljonu papildināja līdz 600 vīriem. Kalpaks tika paaugstināts par pulkvedi. Karaspēks saņēma papildspēkus arī no Vācijas un izveidoja t.s. [[dzelzsdivīzija|dzelzsdivīziju]].
+
+{{dat||3|3}} sākās plašs uzbrukums Sarkanajai Armijai. Kalpaka bataljona sākotnējais uzdevums bija ieņemt apdzīvotas vietas gar [[Skrunda]]s-[[Saldus]] ceļu. Latviešu bataljons un vācu dzelzsdivīzijas spēki pie "Airītēm" nonāca savstarpējā sadursmē - krēslā vieni otrus neatpazina (vienotu uniformu un atšķirības zīmju nebija), izcēlās apšaude. {{dat||3|6|Ģ}} pēcpusdienā no gūtajiem ievainojumiem bataljona komandieris Oskars Kalpaks mira. Apšaudē bez plkv. Kalpaka no Atsevišķā latviešu bataljona gāja bojā divi latviešu virsnieki - kapteinis [[Nikolajs Grundmanis]] un virsleitnants [[Pēteris Krievs]] - un vācu leitnants [[Šrinders]], un vairāki karavīri otrā landesvēra daļā - fon Borha bataljonā, ar kuru izcēlās apšaude.
+
+Pagaidu valdība izsludināja divu nedēļu sēras. Oskaru Kalpaku apglabāja {{dat||3|11}} Liepājas Ziemeļu kapos. {{dat|1919|9|18}} Kalpaka mirstīgās atliekas pārapbedīja dzimtajā kapsētā Meirānu [[Visagals|Visagalā]], netālu no "Liepsalām". Tur viņam [[1927]]. gadā atklāja [[Kārlis Zāle|K. Zāles]] veidoto pieminekli.
+
+==Piemiņa==
+[[Attēls:Kalpaka piemineklis.jpg|thumb|right|250px|Oskara Kalpaka piemineklis Rīgā, [[Esplanāde (Rīgā)|Esplanādē]]]]
+
+O. Kalpaka krišanas vietā [["Airītēs"]] [[1936]]. gadā tika ierīkots muzejs. Tas tika atjaunots [[1988]]. - [[1990]]. gadā. Kopš 2007.gada muzejs ir [[Latvijas Kara muzeja]] filiāle.
+
+Kalpaka dzimto māju vietā "Liepsalās" arī ir iekārtots muzejs. Diemžēl padomju meliorācijas rezultātā saglabājušies bija tikai kūts mūri, kuri tika pārbūvēti un tur izvietota ekspozīcija.
+
+{{dat|2006|6|22}} Kalpakam tika atklāts piemineklis Rīgā, [[Esplanāde (Rīgā)|Esplanādē]].
+
+Oskara Kalpaka vārdā ir nosauktas ielas Gulbenē, Jelgavā, Kuldīgā, Liepājā, Lubānā, Madonā, Rīgā, Sabilē, Siguldā, Skrundā.
+
+==Atsauces==
+{{atsauces}}
+
+==Ārējās saites==
+* [http://www.kalpaks.lv Kalpaka Pieminekļa Fonda mājas lapa]
+* [[Ēvalds Mugurēvičs|Ē. Mugurēvičs]] [http://www.historia.lv/alfabets/K/ka/kalpaks/raksti/mugurevic.htm Leģenda un vēsturiskā īstenība: Pulkveža Oskara Kalpaka (1882.-1919.) dzīves ceļš un cīņu gaitas.] Dzimtenes Balss. 1989., Nr.19
+* [http://www.spotnet.lv/index.php?option=archive&id=44&count=0 par Kalpaku]
+* [http://www.madona.lv/lat/turisms/muzeji/?doc=329 Muzejs, O. Kalpaka dzimtās mājas "Liepsalas"]
+* [http://www.ltg.lv/kalpaka.muzejs O. Kalpaka muzejs "Airītes"]
+
+
+[[Kategorija:1882. gadā dzimušie|Kalpaks, Oskars]]
+[[Kategorija:1919. gadā mirušie|Kalpaks, Oskars]]
+[[Kategorija:Latvijas armijas virsnieki|Kalpaks, Oskars]]
+
+[[en:Oskars Kalpaks]]
+[[ru:Калпакс, Оскар]]

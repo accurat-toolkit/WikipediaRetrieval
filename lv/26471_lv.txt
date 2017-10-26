@@ -1,0 +1,85 @@
+{{Krievijas republikas
+| nosaukums = Kalugas apgabals 
+| karte = RussiaKaluga2007-01.png
+| oriģ = Калужская область
+| karoga_attēls = Flag of Kaluga Oblast.png‎
+| karoga_nosaukums = Kalugas apgabala karogs
+| ģerboņa_attēls = Gerb kalug obl.png
+| ģerboņa_nosaukums = Kalugas apgabala ģerbonis
+| ģerboņa_platums = 80px
+| galvaspilsēta = [[Kaluga]]
+| valoda = [[krievu valoda|krievu]]
+| tautas = [[krievi]] (93,47%)
+| platība = 29 800
+| iedzīvotāji = 1 014 200
+| iedz blīvums = 34,0
+| pilsētas = 4
+| rajoni = 24
+| fedapgabals = [[Centrālais federālais apgabals|Centrālais]]
+| url = http://www.admobl.kaluga.ru/
+}}
+
+'''Kalugas apgabals''' ir viens no [[Krievija]]s apgabaliem. Tas robežojas ar [[Brjanskas apgabals|Brjanskas apgabalu]] rietumos, [[Smoļenskas apgabals|Smoļenskas apgabalu]] ziemeļos, [[Maskavas apgabals|Maskavas apgabalu]] austrumos, [[Tulas apgabals|Tulas]] un [[Orlas apgabals|Orlas]] apgabaliem dienvidos.
+
+{{commons|Kaluga Oblast|Kalugas apgabals }}
+
+{{Krievija-aizmetnis}}
+
+{{Krievijas administratīvais iedalījums}}
+
+[[Kategorija:Krievijas federācijas apgabali]]
+
+[[ace:Oblast Kaluga]]
+[[ar:كالوغا أوبلاست]]
+[[az:Kaluqa Vilayəti]]
+[[be:Калужская вобласць]]
+[[bg:Калужка област]]
+[[bs:Kaluška oblast]]
+[[ca:Província de Kaluga]]
+[[cs:Kalužská oblast]]
+[[de:Oblast Kaluga]]
+[[el:Περιφέρεια Καλούγκα]]
+[[en:Kaluga Oblast]]
+[[es:Óblast de Kaluga]]
+[[et:Kaluga oblast]]
+[[fa:استان کالوگا]]
+[[fi:Kalugan alue]]
+[[fr:Oblast de Kalouga]]
+[[ga:Cúige Kaluga]]
+[[he:מחוז קלוגה]]
+[[hr:Kaluška oblast]]
+[[hu:Kalugai terület]]
+[[id:Oblast Kaluga]]
+[[it:Oblast' di Kaluga]]
+[[ja:カルーガ州]]
+[[ka:კალუგის ოლქი]]
+[[ko:칼루가 주]]
+[[kv:Калуга обласьт]]
+[[lt:Kalugos sritis]]
+[[mk:Калушка област]]
+[[ms:Wilayah Kaluga]]
+[[myv:Калугань ёнкс]]
+[[nl:Oblast Kaloega]]
+[[nn:Kaluga oblast]]
+[[no:Kaluga oblast]]
+[[os:Калугæйы облæст]]
+[[pam:Kaluga Oblast]]
+[[pl:Obwód kałuski]]
+[[pnb:کالوگا]]
+[[pt:Óblast de Kaluga]]
+[[ro:Regiunea Kaluga]]
+[[ru:Калужская область]]
+[[sah:Калууга уобалаhа]]
+[[sh:Kaluška oblast]]
+[[sk:Kalužská oblasť]]
+[[sl:Kaluška oblast]]
+[[sr:Калушка област]]
+[[sv:Kaluga oblast]]
+[[sw:Kaluga Oblast]]
+[[ta:களுகா ஒப்லாஸ்து]]
+[[tg:Вилояти Калуга]]
+[[tr:Kaluga Oblastı]]
+[[uk:Калузька область]]
+[[vi:Kaluga (tỉnh)]]
+[[war:Kaluga Oblast]]
+[[zh:卡卢加州]]

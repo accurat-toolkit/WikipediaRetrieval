@@ -1,0 +1,148 @@
+{{Otheruses4|latīņu alfabēta burtu|A (nozīmju atdalīšana)|A}}
+[[Attēls:Latin A.png|thumb|right|100px|Burts "A".]]
+
+'''A''' ir [[latīņu alfabēts|latīņu alfabēta]] pirmais burts. Tiek izmantots gandrīz visos alfabētos uz latīņu alfabēta bāzes. Radies no grieķu burta [[Alfa|alfa (Α, α)]] un feniķiešu [[Alefs]]. Parasti skan kā patskanis [a] un tā varianti, bet dažreiz ir arī ciāds skanejums (piemēram, angļu valodā). Bieži ir [[digrāfs|digrāfu]] sastāvā (senākais — {{val|la|'''ae'''}}, vēlāk pārtapušais par [[Æ (latīņu alfabēts)|ligatūru '''æ''']]) vai ir kopā ar diaktriskajām zīmēm.
+
+== Vēsture ==
+Burta A rakstība iespējams radusies no simbola, kas atgādina buļļa galvu, [[Ēģiptiešu hieroglifi|ēģiptiešu hieroglifos]] un [[Semītu valodu saime|protosemītu rakstībā]]. Apmēram [[1600. gs. p.m.ē]] [[Feniķiešu alfabēts|feniķiešu alfabētā]] parādījās burta A līniju zīmējums. Tā nosaukums ir radniecīks ebreju "[[alefs]]".
+
+{| align="center" cellspacing="10"
+|- align="center"
+|[[Attēls:EgyptianA-01.svg|Egyptian hieroglyphic ox head]]<br />Ēģiptiešu hieroglifs<br />"buļļa galva"
+|[[Attēls:Proto-semiticA-01.png|Proto-semitic ox head]]<br />Protosemītu<br />"buļļa galva"
+|[[Attēls:PhoenicianA-01.png|Phoenician aleph]]<br />Feniķiešu ''alefs''
+|[[Attēls:Alpha uc lc.svg|65px|Greek alpha]]<br />Grieķu ''alfa''
+|[[Attēls:EtruscanA-01.png|Etruscan A]]<br />Etrusku A
+|[[Attēls:RomanA-01.svg|Roman A]]<br />Romiešu A
+|}
+
+[[Senā Grieķija|Senie grieķi]], pārņemot feniķiešu alfabētu, nezināja šī simbola izrunu [[Feniķiešu valoda|feniķiešu valodā]] un citās [[Semītu valoda|semītu valodās]], un pirmo reizi sāka lietot skaņu /a/, simbola A apzīmēšanai. Burta nosaukums pārtapa par "[[alfa]]". Agrīnajos grieķu rakstos, kas datēti ar [[8. gs. p.m.ē]], burts A guļ uz sāniem, bet vēlākos laikos A sāka atgadināt mūsdienu burtu A. Tajā laikā bija daži burta A dialektiskie rakstības veidi, kad saīsinājās viena no burta kājiņām vai horizontālā līnija tika rakstīta leņķī.
+
+[[Etruski]], pārņemot grieķu alfabētu, atstājot burtu bez izmaiņām. Tā tas pārgāja uz [[Latīņu alfabēts|latīņu alfabētu]], kuru izmanto daudzas [[Eiropa]]s valodas, bet pēc tam uz [[Kirilica|kirilicu]].
+
+== Tipogrāfiskie fonti ==
+Mūsdienu drukātais "a" nav līdzīgs grieķu rakstītajam A. Šī A modifikacija noformējās ap [[4. gadsimts|4.gs.]]
+
+{| align="center" cellspacing="10"
+|- align="center"
+|[[Attēls:BlackletterA-01.png|Blackletter A]]<br />[[Gotiskā rakstība|Gotiskais]] A
+|[[Attēls:UncialA-01.png|Uncial A]]<br />[[Unciālā rakstība|Unciālais]] A
+|[[Attēls:Acap.svg|Another Capital A]]<br />Gotiskā A paveids
+|- align="center"
+|[[Attēls:ModernRomanA-01.png|Modern Roman A]]<br />Mūsdienu garnitūra ''Roman''
+|[[Attēls:ModernItalicA-01.png|Modern Italic A]]<br />Mūsdienu garnitūra ''Italic''
+|[[Attēls:ModernScriptA-01.png|Modern Script A]]<br />Mūsdienu garnitūra ''Script''
+|}
+
+== Pielietojums ==
+
+[[Attēls:Sign language A.svg|left|140px|thumb|Burts "A" žestu valodā]]
+[[Attēls:ICS Alpha.svg|center|140px|thumb|Burta "A" izskats jūrniecības signālos]]
+
+{{Val-aizmetnis}}
+
+{{commons|A}}
+
+{{Latīņu alfabēts}}
+
+[[Kategorija:Latīņu alfabēta burti]]
+[[Kategorija:Latviešu alfabēta burti]]
+
+[[ace:A]]
+[[af:A]]
+[[als:A]]
+[[an:A]]
+[[ar:A]]
+[[arc:A]]
+[[ast:A]]
+[[az:A]]
+[[ba:A (латин хәрефе)]]
+[[bar:A]]
+[[bat-smg:A]]
+[[be:A, літара]]
+[[bg:A]]
+[[br:A (lizherenn)]]
+[[bs:A]]
+[[ca:A]]
+[[co:A]]
+[[crh:A]]
+[[cs:A]]
+[[cy:A]]
+[[da:A]]
+[[de:A]]
+[[diq:A]]
+[[dv:އޭ]]
+[[el:A]]
+[[eml:A]]
+[[en:A]]
+[[eo:A]]
+[[es:A]]
+[[et:A]]
+[[eu:A]]
+[[fa:A]]
+[[fi:A]]
+[[fr:A (lettre)]]
+[[fur:A]]
+[[fy:A]]
+[[gan:A]]
+[[gd:A]]
+[[gl:A]]
+[[gv:Aittyn]]
+[[he:A]]
+[[hr:A]]
+[[ht:A]]
+[[hu:A]]
+[[ia:A]]
+[[id:A]]
+[[ilo:A]]
+[[io:A]]
+[[is:A]]
+[[it:A]]
+[[ja:A]]
+[[jv:A]]
+[[ka:A]]
+[[ko:A]]
+[[ku:A (herf)]]
+[[kw:A]]
+[[la:A]]
+[[lb:A (Buschtaf)]]
+[[lt:A]]
+[[mg:A]]
+[[mk:A (Латиница)]]
+[[ml:A]]
+[[ms:A]]
+[[mzn:A]]
+[[nah:A]]
+[[nl:A (letter)]]
+[[nn:A]]
+[[no:A]]
+[[nrm:A]]
+[[pl:A]]
+[[pt:A]]
+[[qu:A]]
+[[ro:A]]
+[[ru:A (латиница)]]
+[[scn:A]]
+[[se:A]]
+[[simple:A]]
+[[sk:A]]
+[[sl:A]]
+[[sr:A (слово латинице)]]
+[[srn:A]]
+[[stq:A]]
+[[sv:A]]
+[[sw:A]]
+[[szl:A]]
+[[th:A]]
+[[tk:A]]
+[[tl:A]]
+[[tr:A (harf)]]
+[[uk:A (латиниця)]]
+[[uz:A (harf)]]
+[[vi:A]]
+[[vo:A]]
+[[yi:A]]
+[[yo:A]]
+[[zh:A]]
+[[zh-min-nan:A]]
+[[zh-yue:A]]

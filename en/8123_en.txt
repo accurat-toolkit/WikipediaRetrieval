@@ -1,0 +1,154 @@
+{{dablink|For [[Wikipedia:Naming conventions (technical restrictions)#Colon|technical reasons]], ''''':D''''' redirects here. For the emoticon '':D'', see [[Emoticon]].}}
+{{pp-move-indef|small=yes}}
+{{otherusesof}}
+
+{{wiktionarypar2|D|d}}
+{{Latin alphabet navbox|uc=D|lc=d}}
+'''D''' is the fourth letter in the [[Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈdiː}}) is spelled '''dee''', plural '''dees'''.<ref>"D" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "dee", ''op. cit.''</ref>
+== History ==
+{| class="wikitable"
+|- style="background-color:#EEEEEE; text-align:center;"
+! Egyptian hieroglyph <br>door 
+! Proto-Semitic <br/>Dal, Daleth
+! Phoenician <br/>''[[dalet]]h''
+! Etruscan <br/>D
+! Greek <br/>''[[Delta (letter)|Delta]]''
+! Roman <br/>D
+|- style="background-color:white; text-align:center;"
+|<hiero>O31</hiero>
+|[[Image:Proto-semiticD-01.png]][[Image:Proto-semiticD-02.png]]
+|[[Image:PhoenicianD-01.png]]
+|[[Image:EtruscanD-01.svg|64px]]
+|[[Image:Delta uc lc.svg|64px]]
+|[[Image:RomanD-01.png|Roman D]]
+|}
+
+The Semitic letter [[Daleth|Dâlet]] probably developed from the [[logogram]] for a fish or a door. There are various [[Egyptian hieroglyph]]s that might have inspired this. In Semitic, Ancient Greek, and Latin, the letter was pronounced /d/; in the [[Etruscan alphabet]] the letter was superfluous but still retained (see letter [[B]]). Greek letter: [[Delta (letter)|Δ]] (capital) or δ (small) (Delta).{{Fact|date=September 2007}}
+
+The [[Lower case|minuscule]] (lower-case) form of D consists of a loop and a tall [[vertical]] stroke.  It developed by gradual variations on the majuscule (capital) form. In handwriting, it was common to start the arc to the left of the vertical stroke, resulting in a [[serif]] at the top of the arc. This serif was extended while the rest of the letter was reduced, resulting in an angled stroke and loop. The angled stroke slowly developed into a vertical stroke.
+
+== Usage ==
+In most languages using the Latin alphabet, the letter ''d'' represents the sound {{IPA|/d/}}, but in the [[Vietnamese alphabet]] it represents the sound {{IPA|/z/}} in the north and {{IPA|/j/}} in the south. In [[Fijian language|Fijian]] it stands for the [[prenasalized consonant|prenasalized]] stop {{IPA|/nd/}}. In some languages where [[voice (phonetics)|voice]]less [[aspiration (phonetics)|unaspirated]] stops contrast with voiceless aspirated stops, ''d'' represents an unaspirated {{IPA|/t/}}, while ''t'' represents an aspirated {{IPA|/tʰ/}}. Examples of such languages include [[Icelandic language|Icelandic]], [[Scottish Gaelic]], [[Navajo language|Navajo]], and the [[Pinyin]] transliteration of [[Mandarin (linguistics)|Mandarin]].
+
+== Representations ==
+{{Letter
+|NATO=Delta
+|Morse=–··
+|Character=D4
+|Braille=⠙
+}}
+In [[Unicode]] the [[majuscule|capital]] D is codepoint U+0044 and the [[lower case]] d is U+0064.
+
+The [[ASCII]] code for capital D is 68 and for lower case d is 100; or in [[Binary numeral system|binary]] 01000100 and 01100100, respectively.
+
+The [[EBCDIC]] code for capital D is 196 and for lowercase d is 132.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#68;</tt>" and "<tt>&amp;#100;</tt>" for upper and lower case, respectively.
+
+In [[British Sign Language]] (BSL), the letter 'd' is represented as right hand held with index and thumb extended and slightly curved and tip of thumb and finger held against extended index of left hand.
+
+== See also ==
+{{Commons|D}}
+* [[D (musical note)]]
+* [[Eth (letter)|Eth]] (Ð, ð)
+* [[D with stroke]] (Đ, đ)
+* [[Ɗ|Hooked D]] ({{Unicode|Ɗ}}, {{Unicode|ɗ}})
+* [[De (Cyrillic)|Д, д - De (Cyrillic)]]
+* [[∂|<math>part</math>]], [[∂]] (the [[partial derivative symbol]]; "der")
+
+== References ==
+{{Refimprove|date=February 2007}}
+
+{{reflist}}
+
+{{Latin alphabet|D|}}
+
+[[Category:Latin letters]]
+
+[[af:D]]
+[[als:D]]
+[[ar:D]]
+[[arc:D]]
+[[ast:D]]
+[[az:D]]
+[[zh-min-nan:D]]
+[[be:D, літара]]
+[[bs:D]]
+[[br:D (lizherenn)]]
+[[ca:D]]
+[[cs:D]]
+[[co:D]]
+[[cy:D]]
+[[da:D]]
+[[de:D]]
+[[dv:D]]
+[[et:D]]
+[[el:D]]
+[[es:D]]
+[[eo:D]]
+[[eu:D]]
+[[fa:D]]
+[[fr:D (lettre)]]
+[[fy:D]]
+[[fur:D]]
+[[gv:Darragh (lettyr)]]
+[[gd:D]]
+[[gl:D]]
+[[gan:D]]
+[[ko:D]]
+[[hr:D]]
+[[io:D]]
+[[ilo:D]]
+[[id:D (huruf)]]
+[[is:D]]
+[[it:D]]
+[[he:D]]
+[[ka:D]]
+[[kw:D]]
+[[sw:D]]
+[[ht:D]]
+[[la:D]]
+[[lv:D]]
+[[lb:D]]
+[[lt:D]]
+[[hu:D]]
+[[mk:D (Латиница)]]
+[[mg:D]]
+[[mzn:D]]
+[[ms:D]]
+[[nah:D]]
+[[nl:D (letter)]]
+[[ja:D]]
+[[no:D]]
+[[nn:D]]
+[[nrm:D]]
+[[uz:D (harf)]]
+[[pl:D]]
+[[pt:D]]
+[[crh:D]]
+[[ro:D]]
+[[qu:D]]
+[[ru:D (латиница)]]
+[[se:D]]
+[[stq:D]]
+[[scn:D]]
+[[simple:D]]
+[[sk:D]]
+[[sl:D]]
+[[szl:D]]
+[[sr:D (слово латинице)]]
+[[fi:D]]
+[[sv:D]]
+[[tl:D]]
+[[th:D]]
+[[tg:D (забони барномасозӣ)]]
+[[tr:D (harf)]]
+[[uk:D (латиниця)]]
+[[vi:D]]
+[[vo:D]]
+[[yi:D]]
+[[yo:D]]
+[[zh-yue:D]]
+[[diq:D]]
+[[bat-smg:D]]
+[[zh:D]]

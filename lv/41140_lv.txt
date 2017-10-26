@@ -1,0 +1,17 @@
+Ir vairāki [[fizika]]s likumi, kas nosaukti '''[[Gustavs Roberts Kirhofs|Gustava Kirhofa]]''' vārdā:
+* [[Kirhofa likumi elektriskajai ķēdei]]
+* [[Kirhofa siltumstarojuma likums]]
+
+{{disambig}}
+
+[[Kategorija:Fizikas likumi]]
+
+[[ar:قوانين كيرشوف (توضيح)]]
+[[da:Kirchhoffs love]]
+[[en:Kirchhoff's laws]]
+[[fi:Kirchhoffin säännöt]]
+[[hr:Kirchhoffovi zakoni]]
+[[ja:キルヒホッフの法則]]
+[[ko:키르히호프의 법칙]]
+[[ru:Правило Кирхгофа]]
+[[zh:基爾霍夫定律]]

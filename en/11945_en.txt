@@ -1,0 +1,854 @@
+{{Redirect|Galileo}}
+{{pp-semi-protected|small=yes}}
+
+{{Infobox scientist|name = Galileo Galilei
+|image = Galileo.arp.300pix.jpg|200px
+|caption = Portrait of Galileo Galilei by [[Giusto Sustermans]]
+|birth_date = {{birth date|1564|2|15|df=y}}<ref name="McTutor">{{cite web
+ | last=O'Connor | first=J. J. | coauthors=Robertson, E. F.
+ | url=http://www-history.mcs.st-andrews.ac.uk/Biographies/Galileo.html |publisher=[[University of St Andrews]], [[Scotland]]
+ | work=The MacTutor History of Mathematics archive
+ | title=Galileo Galilei | accessdate=2007-07-24 }}</ref>
+|birth_place = [[Pisa]],<ref name="McTutor"/> [[Duchy of Florence]], [[Italy]]
+|residence = [[Grand Duchy of Tuscany]], [[Italy]]
+|nationality = [[Italy|Italian]]
+|death_date = {{death date and age|df=yes|1642|1|8|1564|2|15}}<ref name="McTutor"/>
+|death_place = [[Arcetri]],<ref name="McTutor"/> [[Grand Duchy of Tuscany]], [[Italy]]
+|field = [[Astronomy]], [[Physics]] and [[Mathematics]]
+|work_institutions = [[University of Pisa]]<br />[[University of Padua]]
+|alma_mater = [[University of Pisa]]
+|academic_advisors = [[Ostilio Ricci]]<ref>F. Vinci, ''Ostilio Ricci da Fermo, Maestro di Galileo Galilei'', Fermo, 1929.</ref>
+|notable_students  = [[Benedetto Castelli]]</br>[[Mario Guiducci]]</br>[[Vincenzio Viviani]]<ref>http://genealogy.math.ndsu.nodak.edu.id.php?id=134975</ref>
+|known_for = [[Kinematics]]<br />[[Analytical dynamics|Dynamics]]<br />[[Telescopic observational astronomy]]<br />[[Heliocentrism]]
+|religion = [[Roman Catholic Church|Roman Catholic]]
+|signature = Galileo Signature.svg
+|footnotes = His father was the musician [[Vincenzo Galilei]].  His mistress was [[Marina Gamba]] and [[Maria Celeste]] was one of Galileo's daughters.
+}}
+'''Galileo Galilei''' (15 February 1564<ref name=birthdate>[[#Reference-Drake-1978|Drake (1978, p.1).]] The date of Galileo's birth is given according to the [[Julian calendar]], which was then in force throughout the whole of Christendom. In 1582 it was replaced in Italy and several other Catholic countries with the [[Gregorian calendar]]. Unless otherwise indicated, dates in this article are given according to the Gregorian calendar.</ref>&nbsp;– 8 January 1642)<ref name="McTutor"/><ref>{{ws|"[[s:Catholic Encyclopedia (1913)/Galileo Galilei|Galileo Galilei]]" in the 1913 ''Catholic Encyclopedia''}} by John Gerard. Retrieved 11 August 2007</ref> was an [[Italy|Italian]] [[physicist]], [[mathematician]], [[astronomer]], and [[philosopher]] who played a major role in the [[Scientific Revolution]]. His achievements include improvements to the [[telescope]] and consequent astronomical observations, and support for [[Nicolaus Copernicus|Copernicanism]]. <!-- == His relevance == Please discuss on talk page before restoring this heading--> Galileo has been called the "father of modern observational [[astronomy]],"<ref>{{Citation | title = A Short History of Science to the Nineteenth Century | first = Charles | last = Singer | year = 1941 | publisher = Clarendon Press | url = http://www.google.com.au/books?id=mPIgAAAAMAAJ&pgis=1 }} (page 217)</ref> the "father of modern [[physics]],"<ref name="Einstein">{{cite book|last=Weidhorn|first=Manfred|title=The Person of the Millennium: The Unique Impact of Galileo on World History|year=2005|publisher=iUniverse|isbn=0-595-36877-8|pages=155}}</ref> the "father of [[science]],"<ref name="Einstein" /> and "the Father of Modern Science."<ref name=finocchiaro2007>[[#Reference-Finocchiaro-2007|Finocchiaro (2007)]].</ref> [[Stephen Hawking]] says, "Galileo, perhaps more than any other single person, was responsible for the birth of modern science."<ref>"Galileo and the Birth of Modern Science, by Stephen Hawking, American Heritage's Invention & Technology, Spring 2009, Vol. 24, No. 1, p. 36</ref>
+
+The motion of uniformly accelerated objects, taught in nearly all high school and introductory college physics courses, was studied by Galileo as the subject of [[kinematics]]. His contributions to observational astronomy include the telescopic confirmation of the [[phases of Venus]], the discovery of the four largest satellites of [[Jupiter]] (named the [[Galilean moons]] in his honour), and the observation and analysis of [[sunspots]]. Galileo also worked in applied science and technology, improving [[compass]] design.
+
+Galileo's championing of Copernicanism was controversial within his lifetime, when a large majority of philosophers and astronomers still subscribed (at least outwardly) to the [[geocentric]] view that the Earth is at the centre of the universe.  After 1610, when he began supporting [[heliocentrism]] publicly, he met with bitter opposition from some philosophers and clerics, and two of the latter eventually denounced him to the [[Roman Inquisition]] early in 1615.  Although he was cleared of any offence at that time, the [[Catholic Church]] nevertheless condemned heliocentrism as "false and contrary to Scripture" in February 1616,<ref name="contrary to scripture">[[#Reference-Sharratt-1994|Sharratt (1994, pp.127–131)]], [[#Reference-McMullin-2005a|McMullin (2005a)]].</ref> and Galileo was warned to abandon his support for it&mdash;which he promised to do.  When he later defended his views in his most famous work, ''[[Dialogue Concerning the Two Chief World Systems]]'', published in 1632, he was tried by the Inquisition, found "vehemently suspect of heresy," forced to recant, and spent the rest of his life under house arrest.
+
+==Life==
+Galileo was born in [[Pisa]] (then part of the [[Duchy of Florence]]), Italy, the first of six children of [[Vincenzo Galilei]], a famous [[lutenist]] and [[music theory|music theorist]], and Giulia Ammannati. Four of their six children survived infancy, and the youngest Michelangelo (or [[Michelagnolo Galilei|Michelagnolo]]) became a noted [[lutenist]] and composer.
+
+Galileo's full name was Galileo di Vincenzo Bonaiuti de' Galilei. At the age of 8, his family moved to [[Florence, Italy|Florence]], but he was left with Jacopo Borghini for two years.<ref name="McTutor" /> He then was educated in the Camaldolese Monastery at [[Vallombrosa]], 35&nbsp;km southeast of Florence.<ref name="McTutor" /> Although he seriously considered the priesthood as a young man, he enrolled for a medical degree at the University of Pisa at his father's urging. He did not complete this degree, but instead studied mathematics.<ref>[[#Reference-Reston-2000|Reston (2000, pp. 3–14).]]</ref> In 1589, he was appointed to the chair of mathematics in Pisa. In 1591 his father died and he was entrusted with the care of his younger brother [[Michelagnolo Galilei|Michelagnolo]]. In 1592, he moved to the [[University of Padua]], teaching [[geometry]], [[mechanics]], and [[astronomy]] until 1610.<ref>[[#Reference-Sharratt-1994|Sharratt (1994, pp. 45–66).]]</ref> During this period Galileo made significant discoveries in both pure science (for example, kinematics of motion, and astronomy) and applied science (for example, strength of materials, improvement of the telescope). His multiple interests included the study of [[astrology]], which in pre-modern disciplinary practice was seen as correlated to the studies of mathematics and astronomy.<ref>{{cite web | last=Rutkin | first=H. Darrel | url=http://www.stanford.edu/dept/HPST/colloquia0405.html | title=Galileo, Astrology, and the Scientific Revolution: Another Look | publisher=Program in History & Philosophy of Science & Technology, Stanford University | accessdate=2007-04-15 }}</ref>
+
+Although a genuinely pious [[Roman Catholic]],<ref>[[#Reference-Sharratt-1994|Sharratt (1994, pp.17, 213)]]</ref> Galileo fathered three children [[illegitimacy|out of wedlock]] with [[Marina Gamba]]. They had two daughters, Virginia in 1600 and Livia in 1601, and one son, Vincenzo, in 1606. Because of their illegitimate birth, their father considered the girls unmarriageable. Their only worthy alternative was the religious life. Both girls were sent to the convent of San Matteo in [[Arcetri]] and remained there for the rest of their lives.<ref name="daughters unmarriageable">[[#Reference-Sobel-2000|Sobel (2000, p.5)]] [http://www.galileosdaughter.com/firstchapter.shtml Chapter 1.] Retrieved on 26 August 2007. "But because he never married Virginia's mother, he deemed the girl herself unmarriageable. Soon after her thirteenth birthday, he placed her at the Convent of San Matteo in Arcetri."</ref> Virginia took the name [[Maria Celeste]] upon entering the convent. She died on 2 April 1634, and is buried with Galileo at the [[Basilica di Santa Croce di Firenze]]. Livia took the name Sister Arcangela and was ill for most of her life. Vincenzo was later [[Legitimation|legitimized]] and married Sestilia Bocchineri.<ref>{{cite conference
+ | last=Pedersen | first=O. | title=Galileo's Religion
+ | booktitle=Proceedings of the Cracow Conference, The Galileo affair: A meeting of faith and science
+ | publisher = Dordrecht, D. Reidel Publishing Co.
+ | pages=75-102 | date=24 May–27, 1984 | location=Cracow
+ | url=http://adsabs.harvard.edu/abs/1985gamf.conf...75P
+ | accessdate = 2008-06-09 }}</ref>
+
+In 1610 Galileo published an account of his telescopic observations of the moons of Jupiter, using this observation to argue in favour of the sun-centered, [[Copernicus|Copernican]] theory of the universe against the dominant earth-centered [[Geocentric model#Ptolemaic system|Ptolemaic]] and Aristotelian theories. The next year Galileo visited Rome in order to demonstrate his telescope to the influential philosophers and mathematicians of the [[Jesuit]] Collegio Romano, and to let them see with their own eyes the reality of the four moons of Jupiter.<ref>[[#Reference-Gebler-1879|Gebler (1879, pp. 22–35).]]</ref> While in Rome he was also made a member of the [[Accademia dei Lincei]].<ref>{{cite web
+ | author=Anonymous | year=2007
+ | url=http://www.lincei.it/modules.php?name=Content&pa=showpage&pid=21
+ | title=History | publisher=Accademia Nazionale dei Lincei
+ | accessdate=2008-06-10 }}</ref>
+
+In 1612, opposition arose to the Sun-centered theory of the universe which Galileo supported. In 1614, from the pulpit of the [[Basilica of Santa Maria Novella]], Father [[Tommaso Caccini]] (1574–1648) denounced Galileo's opinions on the motion of the Earth, judging them dangerous and close to [[Christian heresy|heresy]]. Galileo went to Rome to defend himself against these accusations, but, in 1616, [[Robert Bellarmine|Cardinal Roberto Bellarmino]] personally handed Galileo an admonition enjoining him neither to advocate nor teach Copernican astronomy.<ref>There are contradictory documents describing the nature of this admonition and the circumstances of its delivery. Finocchiaro, ''The Galileo Affair'', pp.147–149, 153</ref> During 1621 and 1622 Galileo wrote his first book, ''[[The Assayer]]'' (''Il Saggiatore''), which was approved and published in 1623. In 1630, he returned to Rome to apply for a license to print the ''[[Dialogue Concerning the Two Chief World Systems]]'', published in [[Florence]] in 1632. In October of that year, however, he was ordered to appear before the [[Congregation for the Doctrine of the Faith|Holy Office]] in Rome.
+
+Following a papal trial in which he was found vehemently suspect of heresy, Galileo was placed under house arrest and his movements restricted by the Pope. From 1634 onward he stayed at his country house at [[Arcetri]], outside of Florence. He went completely blind in 1638 and was suffering from a painful [[hernia]] and [[insomnia]], so he was permitted to travel to Florence for medical advice. He continued to receive visitors until 1642, when, after suffering fever and heart palpitations, he died.<ref>{{cite book
+ | first=Jo Eldridge | last=Carney | year=2000
+ | title=Renaissance and Reformation, 1500-1620: a
+ | publisher=Greenwood Publishing Group
+ | isbn=0-313-30574-9 }}</ref><ref>Allan-Olney (1870)</ref>
+
+==Scientific methods==
+Galileo made original contributions to the science of motion through an innovative combination of experiment and mathematics.<ref>[[#Reference-Sharratt-1994|Sharratt (1994, pp.204&ndash;05)]]</ref> More typical of science at the time were the qualitative studies of [[William Gilbert]], on magnetism and electricity. Galileo's father, [[Vincenzo Galilei]], a [[lute]]nist and music theorist, had performed experiments establishing perhaps the oldest known non-linear relation in physics: for a stretched string, the pitch varies as the square root of the tension.<ref>{{cite book
+ | first=H. F. | last=Cohen | year=1984
+ | title=Quantifying Music: The Science of Music at
+ | pages=78–84 | publisher=Springer
+ | isbn=90-277-1637-4 }}</ref> These observations lay within the framework of the [[Pythagoras#Musical theories and investigations|Pythagorean]] tradition of music, well-known to instrument makers, which included the fact that subdividing a string by a whole number produces a harmonious scale. Thus, a limited amount of mathematics had long related music and physical science, and young Galileo could see his own father's observations expand on that tradition.<ref>{{cite book
+ | first=Judith Veronica | last=Field | year=2005
+ | title=Piero Della Francesca: A Mathematician's Art
+ | pages=317–320 | publisher=Yale University Press
+ | isbn=0-300-10342-5 }}</ref>
+
+Galileo is perhaps the first to clearly state that the [[laws of nature]] are mathematical. In ''[[The Assayer]]'' he wrote "Philosophy is written in this grand book, the universe&nbsp;... It is written in the language of mathematics, and its characters are triangles, circles, and other geometric figures; ... ."<ref>In [[#Reference-Drake-1957|Drake (1957, pp.237−238)]]</ref> His mathematical analyses are a further development of a tradition employed by late scholastic natural philosophers, which Galileo learned when he studied philosophy.<ref>Wallace, (1984).</ref> Although he tried to remain loyal to the Catholic Church, his adherence to experimental results, and their most honest interpretation, led to a rejection of blind allegiance to authority, both philosophical and religious, in matters of science. In broader terms, this aided the separation of science from both [[philosophy]] and religion; a major development in human thought.
+
+By the standards of his time, Galileo was often willing to change his views in accordance with observation. Modern philosopher of science [[Paul Feyerabend]] also noted the supposedly improper aspects of Galileo's methodology, but he argued that Galileo's methods could be justified retroactively by their results. The bulk of Feyerabend's major work, ''Against Method'' (1975), was devoted to an analysis of Galileo, using his astronomical research as a case study to support Feyerabend's own anarchistic theory of [[scientific method]]. As he put it: 'Aristotelians&nbsp;... demanded strong empirical support while the Galileans were content with far-reaching, unsupported and partially refuted theories. I do not criticize them for that; on the contrary, I favour [[Niels Bohr|Niels Bohr's]] "this is not crazy enough."'<ref>{{cite book
+ | first=Paul | last=Feyerabend | year=1993
+ | title=Against Method | edition=3rd
+ | publisher=Verso | location=London | page=129
+ | isbn=0-86091-646-4 }}</ref> In order to perform his experiments, Galileo had to set up standards of length and time, so that measurements made on different days and in different laboratories could be compared in a reproducible fashion.  This provided a reliable foundation on which to confirm mathematical laws using [[inductive reasoning]].
+
+Galileo showed a remarkably modern appreciation for the proper relationship between mathematics, theoretical physics, and experimental physics. He understood the [[parabola]], both in terms of [[conic section]]s and in terms of the [[ordinate]] (y) varying as the square of the [[abscissa]] (x). Galilei further asserted that the parabola was the theoretically ideal [[trajectory]] of a uniformly accelerated projectile in the absence of [[friction]] and other disturbances. He conceded that there are limits to the validity of this theory, noting on theoretical grounds that a projectile trajectory of a size comparable to that of the [[Earth]] could not possibly be a parabola,<ref>[[#Reference-Sharratt-1994|Sharratt (1994, pp.202–04)]], [[#Reference-Galileo-1954|Galilei (1954, pp.250–52)]], [[#Reference-Favaro-1890|Favaro (1898,]] [http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=8&VOLPAG=274 8:274–75)] {{it icon}}</ref> but he nevertheless maintained that for distances up to the range of the artillery of his day, the deviation of a projectile's trajectory from a parabola would only be very slight.<ref>[[#Reference-Sharratt-1994|Sharratt (1994, pp.202–04)]], [[#Reference-Galileo-1954|Galilei (1954, pp.252)]], [[#Reference-Favaro-1890|Favaro (1898,]] [http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=8&VOLPAG=275 8:275)] {{it icon}}</ref> Thirdly, he recognized that his experimental data would never agree exactly with any theoretical or mathematical form, because of the imprecision of measurement, irreducible friction, and other factors.
+
+According to [[Stephen Hawking]], Galileo probably bears more of the responsibility for the birth of modern science than anybody else,<ref name="Hawking galileo">[[#Reference-Hawking-1988|Hawking (1988, p.179)]].</ref> and [[Albert Einstein]] called him the father of modern science.<ref name="father of science Einstein">[[#Reference-Einstein-1954|Einstein (1954, p.271)]]. "Propositions arrived at by purely logical means are completely empty as regards reality. Because Galileo realised this, and particularly because he drummed it into the scientific world, he is the father of modern physics—indeed, of modern science altogether."</ref>
+
+==Astronomy==
+===Contributions===
+[[Image:Galileo.script.arp.600pix.jpg.jpg|thumb|It was on this page that Galileo first noted an observation of the [[natural satellite|moons]] of [[Jupiter]]. This observation upset the notion that all celestial bodies must revolve around the Earth. Galileo published a full description in ''Sidereus Nuncius'' in March 1610]] [[Image:Phases-of-Venus.svg|thumb|The phases of Venus, observed by Galileo in 1610]]
+
+Based only on uncertain descriptions of the first practical telescope, invented by [[Hans Lippershey]] in the [[Netherlands]] in 1608, Galileo, in the following year, made a telescope with about 3x magnification. He later made others with up to about 30x magnification.<ref>[[#Reference-Drake-1990|Drake (1990, pp.133–34)]].</ref> With this improved device he could see magnified, upright images on the earth – it was what is now known as a terrestrial telescope, or spyglass. He could also use it to observe the sky; for a time he was one of those who could construct telescopes good enough for that purpose. On 25 August 1609, he demonstrated his first telescope to [[Venice|Venetian]] lawmakers. His telescopes were a profitable sideline. He could sell them to merchants who found them useful both at sea and as items of trade. He published his initial telescopic astronomical observations in March 1610 in a brief treatise entitled ''[[Sidereus Nuncius]]'' (''Starry Messenger'').
+
+On 7 January 1610 Galileo observed with his telescope what he described at the time as "three fixed stars, totally invisible<ref name=invisible>''i.e.'', invisible to the naked eye.</ref> by their smallness," all close to [[Jupiter]], and lying on a straight line through it.<ref name="jupiter's moons">[[#Reference-Drake-1978|Drake (1978, p.146).]]</ref> Observations on subsequent nights showed that the positions of these "stars" relative to Jupiter were changing in a way that would have been inexplicable if they had really been fixed stars. On 10 January Galileo noted that one of them had disappeared, an observation which he attributed to its being hidden behind Jupiter. Within a few days he concluded that they were [[orbit]]ing Jupiter:<ref name=moonconclusion> In ''Sidereus Nuncius'' [[#Reference-Favaro-1890|(Favaro,]][http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=3&VOLPAG=81 1892, 3:81]{{latin}}) Galileo stated that he had reached this conclusion on 11 January. [[#Reference-Drake-1978|Drake (1978, p.152)]], however, after studying unpublished manuscript records of Galileo's observations, concluded that he did not do so until 15 January.</ref> He had discovered three of Jupiter's four largest [[natural satellite|satellites]] (moons): [[Io (moon)|Io]], [[Europa (moon)|Europa]], and [[Callisto (moon)|Callisto]]. He discovered the fourth, [[Ganymede (moon)|Ganymede]], on 13 January. Galileo named the four satellites he had discovered ''Medicean stars'', in honour of his future patron, Cosimo II de' Medici, Grand Duke of Tuscany, and Cosimo's three brothers.<ref name="medicean stars">[[#Reference-Sharratt-1994|Sharratt (1994, p.17)]].</ref> Later astronomers, however, renamed them the [[Galilean moons|''Galilean satellites'']] in honour of Galileo himself.
+
+A planet with smaller planets orbiting it did not conform to the principles of [[On the Heavens|Aristotelian Cosmology]], which held that all heavenly bodies should circle the Earth,<ref>[[#Reference-Linton-2004|Linton (2004, pp.98,205)]], [[#Reference-Drake-1978|Drake (1978, p.157)]].</ref> and many astronomers and philosophers initially refused to believe that Galileo could have discovered such a thing.<ref name=scepticism>[[#Reference-Drake-1978|Drake (1978, p.158–68)]], [[#Reference-Sharratt-1994|Sharratt (1994, p.18–19)]].</ref> His observations were confirmed by the observatory of [[Christopher Clavius]] and he received a hero's welcome when he visited Rome in [[1611]]<ref>''God's Philosophers'' ju James Hannam Orion 2009 p313</ref>
+
+Galileo continued to observe the satellites over the next eighteen months, and by mid 1611 he had obtained remarkably accurate estimates for their periods—a feat which [[Johannes Kepler|Kepler]] had believed impossible.<ref name=periods>[[#Reference-Drake-1978|Drake (1978, p.168)]], [[#Reference-Sharratt-1994|Sharratt (1994, p.93)]].</ref>
+
+From September 1610, Galileo observed that [[Venus]] exhibited a full set of [[Lunar phase|phases]] similar to that of the [[Moon]]. The [[heliocentric model]] of the solar system developed by [[Nicolaus Copernicus]] predicted that all phases would be visible since the orbit of Venus around the [[Sun]] would cause its illuminated hemisphere to face the Earth when it was on the opposite side of the Sun and to face away from the Earth when it was on the Earth-side of the Sun.  On the other hand, in [[geocentric model#Claudius Ptolemy|Ptolemy's geocentric model]] it was impossible for any of the planets' orbits to intersect the spherical shell carrying the Sun.  Traditionally the orbit of Venus was placed entirely on the near side of the Sun, where it could exhibit only crescent and new phases.  It was, however, also possible to place it entirely on the far side of the Sun, where it could exhibit only gibbous and full phases.  After Galileo's telescopic observations of the crescent, gibbous and full phases of Venus, therefore, this Ptolemaic model became untenable. Thus in the early 17th century as a result of his discovery the great majority of astronomers converted to one of the various geo-heliocentric planetary models<ref>Thoren (1989), p.8; Hoskin (1999) p.117.</ref>, such as the Tychonic, Capellan and Extended Capellan models<ref>In the Capellan model only Mercury and Venus orbit the Sun, whilst in its extended version such as expounded by Riccioli, Mars also orbits the Sun, but the orbits of Jupiter and Saturn are centred on the Earth</ref>, each either with or without a daily rotating Earth. These all had the virtue of explaining the phases of Venus without the vice of the 'refutation' of full heliocentrism’s prediction of stellar parallax. 
+Galileo’s discovery of the phases of Venus was thus arguably his most empirically practically influential contribution to the two-stage transition from full geocentrism to full heliocentrism via geo-heliocentrism.
+
+Galileo also observed the planet [[Saturn]], and at first mistook its rings for planets, thinking it was a three-bodied system. When he observed the planet later, Saturn's rings were directly oriented at Earth, causing him to think that two of the bodies had disappeared. The rings reappeared when he observed the planet in 1616, further confusing him.<ref>Baalke, Ron. [http://www2.jpl.nasa.gov/saturn/back.html Historical Background of Saturn's Rings.] Jet Propulsion Laboratory, California Institute of Technology, NASA. Retrieved on [[2007-03-11]]</ref>
+
+Galileo was one of the first Europeans to observe [[sunspot]]s, although Kepler had unwittingly observed one in 1607, but mistook it for a transit of Mercury. He also reinterpreted a sunspot observation from the time of [[Charlemagne]], which formerly had been attributed (impossibly) to a transit of [[Mercury (planet)|Mercury]]. The very existence of sunspots showed another difficulty with the unchanging perfection of the heavens posited by orthodox Aristotelian celestial physics, but their regular periodic transits also confirmed the dramatic novel prediction of Kepler's Aristotelian celestial dynamics in his 1609 ''Astronomia Nova'' that the sun rotates, which was the first successful novel prediction of post-spherist celestial physics.<ref>In Kepler's Thomist 'inertial' variant of Aristotelian dynamics as opposed to Galileo's impetus dynamics variant all bodies universally have an inherent resistance to all motion and tendency to rest, which he dubbed 'inertia'. This notion of inertia was originally introduced by [[Averroes]] in the 12th century just for the celestial spheres in order to explain why they do not rotate with infinite speed on Aristotelian dynamics, as they should if they had no resistance to their movers. And in his ''Astronomia Nova'' celestial mechanics the inertia of the planets is overcome in their solar orbital motion by their being pushed around by the sunspecks of the rotating sun acting like the spokes of a rotating cartwheel. And more generally it predicted all but only planets with orbiting satellites, such as Jupiter for example, also rotate to push them around, whereas the Moon, for example, does not rotate, thus always presenting the same face to the Earth, because it has no satellites to push around. These seem to have been the first successful novel predictions of Thomist 'inertial' Aristotelian dynamics as well as of post-spherist celestial physics. In his 1630 ''Epitome'' (See p514 on p896 of the Encyclopædia Britannica 1952 ''Great Books of the Western World'' edition) Kepler keenly stressed he had proved the Sun's axial rotation from planetary motions in his ''Commentaries on Mars'' Ch 34 long before it was telescopically established by sunspot motion.</ref> And the annual variations in sunspots' motions, discovered by [[Francesco Sizzi]] and others<!-- {{Citation needed|date=June 2008}} ???? "and others" is unequivocally supported by the account in the reference given.---> in 1612–1613,<ref> [[#Reference-Drake-1978|Drake (1978, p.209)]]. Sizzi reported the observations he and his companions had made over the course of a year to Orazio Morandi in a letter dated 10 April 1613 [[#Reference-Favaro-1890|(Favaro,]][http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=11&VOLPAG=491 1901, 11:491 {{it}})]. Morandi subsequently forwarded a copy to Galileo.</ref> provided a powerful argument against both the Ptolemaic system and the geoheliocentric system of [[Tycho Brahe]].<ref name="sunspot argument"> In geostatic systems the apparent annual variation in the motion of sunspots could only be explained as the result of an implausibly complicated precession of the Sun's axis of rotation [[#Reference-Linton-2004|(Linton, 2004, p.212;]] [[#Reference-Sharratt-1994|Sharratt, 1994, p.166;]] [[#Reference-Drake-1970|Drake, 1970, pp.191–196)]] However, in Drake's judgment of this complex issue in Chapter 9 of his 1970 this is not so, for it does not refute non-geostatic geo-rotating geocentric models. For at most the variable annual inclinations of sunspots’ monthly paths to the ecliptic only proved there must be some terrestrial motion, but not necessarily its annual heliocentric orbital motion as opposed to a geocentric daily rotation, and so it did not prove heliocentrism by refuting geocentrism. Thus it could be explained in the semi-Tychonic geocentric model with a daily rotating Earth such as that of Tycho's follower [[Longomontanus]]. Especially see p190 and p196 of Drake's article. Thus on this analysis it only refuted the Ptolemaic geostatic geocentric model whose required daily geocentric orbit of the sun would have predicted the annual variation in this inclination should be observed daily, which it is not.</ref> For the seasonal variation refuted all non-geo-rotational geostatic planetary models such as the Ptolemaic pure geocentric model and the Tychonic geoheliocentric model in which the Sun orbits the Earth daily, whereby the variation should appear daily but does not. But it was explicable by all geo-rotational systems such as Longomontanus's semi-Tychonic geo-heliocentric model, Capellan and extended Capellan geo-heliocentric models with a daily rotating Earth, and the pure heliocentric model. A dispute over priority in the discovery of sunspots, and in their interpretation, led Galileo to a long and bitter feud with the Jesuit [[Christoph Scheiner]]; in fact, there is little doubt that both of them were beaten by [[David Fabricius]] and his son [[Johannes Fabricius|Johannes]], looking for confirmation of Kepler's prediction of the sun's rotation. Scheiner quickly adopted Kepler's 1615 proposal of the modern telescope design, which gave larger magnification at the cost of inverted images; Galileo apparently never changed to Kepler's design.
+
+Galileo was the first to report lunar [[mountain]]s and [[impact crater|craters]], whose existence he deduced from the patterns of light and shadow on the Moon's surface. He even estimated the mountains' heights from these observations. This led him to the conclusion that the Moon was "rough and uneven, and just like the surface of the Earth itself," rather than a perfect [[sphere]] as Aristotle had claimed.
+
+Galileo observed the [[Milky Way]], previously believed to be [[Nebula|nebulous]], and found it to be a multitude of [[star]]s packed so densely that they appeared to be clouds from Earth. He located many other stars too distant to be visible with the naked eye. Galileo also observed the planet [[Neptune]] in 1612, but did not realize that it was a planet and took no particular notice of it. It appears in his notebooks as one of many unremarkable dim stars.  He observed the double star Mizar in Ursa Major in 1617.<ref>[[#Reference-Ondra-2004|Ondra (2004), p. 72-73]]</ref>  In the ''Starry Messenger'' Galileo reported that stars appeared as mere blazes of light, essentially unaltered in appearance by the telescope, and contrasted them to planets which the telescope revealed to be disks.  However, in later writings he described the stars as also being disks, whose sizes he measured.  According to Galileo, stellar disk diameters typically measured a tenth the diameter of the disk of Jupiter (one five-hundredth the diameter of the sun), although some were somewhat larger and others substantially smaller.  Galileo argued that stars were suns, and that they were not arranged in a spherical shell surrounding the solar system but rather were at varying distances from Earth.  Brighter stars were closer suns, and fainter stars were more distant suns.  Based on this idea and on the sizes he claimed for stellar disks, he calculated stars to lie at distances ranging from several hundred solar distances for bright stars to over two thousand solar distances for faint stars barely visible to the unaided eye, with stars visible only with the telescope being further still.  These distances, although too small by modern standards, were far larger than planetary distances, and he used these calculations to counter anti-Copernican arguments that distant stars were an absurdity.<ref>[[#Reference-Finocchiaro-1989|Finocchiaro (1989, p. 167-176)]], [[#Reference-Drake-1953|Drake (1953), p. 359-360)]], [[#Reference-Ondra-2004|Ondra (2004), p. 74-75]]</ref>
+
+===Controversy over comets and ''The Assayer''===
+{{Main|The Assayer}}
+
+In 1619, Galileo became embroiled in a controversy with Father [[Orazio Grassi]], professor of mathematics at the Jesuit [[Collegio Romano]]. It began as a dispute over the nature of comets, but by the time Galileo had published ''[[The Assayer]]'' (''Il Saggiatore'') in 1623, his last salvo in the dispute, it had become a much wider argument over the very nature of Science itself. Because ''The Assayer'' contains such a wealth of Galileo's ideas on how Science should be practised, it has been referred to as his scientific manifesto.<ref name="scientific manifesto">[[#Reference-Drake-1960|Drake (1960, pp.vii,xxiii–xxiv)]], [[#Reference-Sharratt-1994|Sharratt (1994, pp.139–140)]].</ref>
+
+Early in 1619, Father Grassi had anonymously published a pamphlet, ''An Astronomical Disputation on the Three Comets of the Year 1618'' <!--- ''[[The Assayer#disputatio|An Astronomical Disputation on the Three Comets of the Year 1618]]'' This should eventually link to a section in the article on the Assayer -->,<ref name="disputatio">[[#Reference-Grassi-1960a|Grassi (1960a)]].</ref> which discussed the nature of a comet that had appeared late in November of the previous year. Grassi concluded that the comet was a fiery body which had moved along a segment of a great circle at a constant distance from the earth,<ref name="grassi great circle">[[#Reference-Drake-1978|Drake (1978, p.268)]], [[#Reference-Grassi-1960a|Grassi (1960a, p.16)]].</ref> and since it moved in the sky more slowly than the moon, it must be farther away than the moon.
+
+Grassi's arguments and conclusions were criticized in a subsequent article, ''Discourse on the Comets'' <!--- [[The Assayer#Discourse on Comets|Discourse on the Comets]]'' This should eventually link to a section in the article on the Assayer -->,<ref name="discourse on comets">[[#Reference-Galileo&Guiducci-1960|Galilei & Guiducci (1960)]].</ref> published under the name of one of Galileo's disciples, a Florentine lawyer named [[Mario Guiducci]], although it had been largely written by Galileo himself.<ref name="authorship of discourse">[[#Reference-Drake-1960|Drake (1960, p.xvi)]].</ref> Galileo and Guiducci offered no definitive theory of their own on the nature of comets,<ref name="criticism of previous theories">[[#Reference-Drake-1957|Drake (1957, p.222)]], [[#Reference-Drake-1960|Drake (1960, p.xvii)]].</ref> although they did present some tentative conjectures which we now know to be mistaken.
+
+In its opening passage, Galileo and Guiducci's ''Discourse'' gratuitously insulted the Jesuit [[Christopher Scheiner]],<ref name="Scheiner insult">[[#Reference-Sharratt-1994|Sharratt (1994, p.135)]], [[#Reference-Drake-1960|Drake (1960, p.xii)]], [[#Reference-Galileo&Guiducci-1960|Galilei & Guiducci (1960, p.24)]].</ref> and various uncomplimentary remarks about the professors of the Collegio Romano were scattered throughout the work.<ref name="uncomplimentary remark">[[#Reference-Sharratt-1994|Sharratt (1994, p.135)]].</ref> The Jesuits were offended,<ref name="jesuits offended">[[#Reference-Sharratt-1994|Sharratt (1994, p.135)]], [[#Reference-Drake-1960|Drake (1960, p.xvii)]].</ref> and Grassi soon replied with a polemical tract of his own, ''The Astronomical and Philosophical Balance''<!--- ''[[The Assayer#astronomical balance|The Astronomical and Philosophical Balance]]'' This should eventually link to a section in the article on the Assayer --> ,<ref name="astronomical balance">[[#Reference-Grassi-1960b|Grassi (1960b)]].</ref> under the pseudonym Lothario Sarsio Sigensano,<ref>[[#Reference-Drake-1978|Drake (1978, p.494)]], [[#Reference-Favaro-1890|Favaro]][http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=6&VOLPAG=111 (1896, 6:111)]. The pseudonym was a slightly imperfect anagram of Oratio Grasio Savonensis, a latinized version of his name and home town.</ref> purporting to be one of his own pupils.
+
+''The Assayer'' was Galileo's devastating reply to the ''Astronomical Balance''.<ref name="the assayer">[[#Reference-Galileo-1960|Galilei (1960)]].</ref> It has been widely regarded as a masterpiece of polemical literature,<ref name="masterpiece of polemics">[[#Reference-Sharratt-1994|Sharratt (1994, p.137)]], [[#Reference-Drake-1957|Drake (1957, p.227)]].</ref> in which "Sarsi's" arguments are subjected to withering scorn.<ref name="withering scorn">[[#Reference-Sharratt-1994|Sharratt (1994, p.138–142)]].</ref> It was greeted with wide acclaim, and particularly pleased the new pope, [[Urban VIII]], to whom it had been dedicated.<ref name="assayer success">[[#Reference-Drake-1960|Drake (1960, p.xix)]].</ref>
+
+Galileo's dispute with Grassi permanently alienated many of the Jesuits who had previously been sympathetic to his ideas,<ref name="jesuit alienation">[[#Reference-Drake-1960|Drake (1960, p.vii)]].</ref> and Galileo and his friends were convinced that these Jesuits were responsible for bringing about his later condemnation.<ref name="jesuits responsible">[[#Reference-Sharratt-1994|Sharratt (1994, p.175)]].</ref> The evidence for this is at best equivocal, however.<ref name="evidence of jesuits">[[#Reference-Sharratt-1994|Sharratt (1994, pp.175–78)]], [[#Reference-Blackwell-2006|Blackwell (2006, p.30)]].</ref>
+
+===Galileo, Kepler and theories of tides===
+Cardinal Bellarmine had written in 1615 that the Copernican system could not be defended without "a true [[physical entity|physical]] demonstration that the sun does not circle the earth but the earth circles the sun."<ref>Finocchiaro (1989), pp. 67–9.</ref> Galileo considered his theory of the tides to provide the required physical proof of the motion of the earth. This theory was so important to Galileo that he originally intended to entitle his ''Dialogue on the Two Chief World Systems'' the ''Dialogue on the Ebb and Flow of the Sea''.<ref>Finocchiaro (1989), p. 354, n. 52</ref> For Galileo, the [[tide]]s were caused by the sloshing back and forth of water in the seas as a point on the Earth's surface speeded up and slowed down because of the Earth's rotation on its axis and revolution around the Sun. Galileo circulated his first account of the tides in 1616, addressed to Cardinal Orsini.<ref>Finocchiaro (1989), pp.119–133</ref>
+
+If this theory were correct, there would be only one high tide per day. Galileo and his contemporaries were aware of this inadequacy because there are two daily high tides at [[Venice]] instead of one, about twelve hours apart. Galileo dismissed this anomaly as the result of several secondary causes, including the shape of the sea, its depth, and other factors.<ref>Finocchiaro (1989), pp.127–131 and Drake (1953), pp. 432–6</ref> Against the assertion that Galileo was deceptive in making these arguments, [[Albert Einstein]] expressed the opinion that Galileo developed his "fascinating arguments" and accepted them uncritically out of a desire for physical proof of the motion of the Earth.<ref>Einstein (1952) p. xvii</ref>
+
+Galileo dismissed as a "useless fiction" the idea, held by his contemporary [[Johannes Kepler]], that the moon caused the tides.<ref>Finocchiaro (1989), p. 128</ref> Galileo also refused to accept Kepler's elliptical orbits of the planets,<ref>{{cite web|url=http://www.hps.cam.ac.uk/starry/galtele.html|title=Starry Messenger. The Telescope], Department of History and Philosophy of Science of the University of Cambridge. Retrieved on [[2007-03-10]]|last=Kusukawa|first=Sachiko}}</ref> considering the circle the "perfect" shape for planetary orbits.
+
+[[Image:Galilee.jpg|thumb|right|Galileo Galilei. Portrait in crayon by Leoni.]]
+[[Image:Galileo telescope replica.jpg|thumb|A replica of the earliest surviving telescope attributed to Galileo Galilei, on display at the [[Griffith Observatory]].]]
+
+==Technology==
+
+Galileo made a number of contributions to what is now known as [[technology]], as distinct from pure physics, and suggested others. This is not the same distinction as made by Aristotle, who would have considered all Galileo's physics as ''techne'' or useful knowledge, as opposed to ''episteme'', or philosophical investigation into the causes of things. Between 1595–1598, Galileo devised and improved a ''Geometric and Military Compass'' suitable for use by [[artillery|gunners]] and [[surveying|surveyors]]. This expanded on earlier instruments designed by [[Niccolò Tartaglia]] and [[Guidobaldo del Monte]]. For gunners, it offered, in addition to a new and safer way of elevating [[cannon]]s accurately, a way of quickly computing the charge of [[gunpowder]] for [[Round shot|cannonballs]] of different sizes and materials. As a geometric instrument, it enabled the construction of any regular [[polygon]], computation of the area of any polygon or circular sector, and a variety of other calculations. About [[Timeline of temperature and pressure measurement technology|1593]], Galileo constructed a [[thermometer]], using the expansion and contraction of air in a bulb to move water in an attached tube.
+
+In 1609, Galileo was, along with Englishman [[Thomas Harriot]] and others, among the first to use a [[refracting telescope]] as an instrument to observe stars, planets or moons. The name "telescope" was coined for Galileo's instrument by a Greek mathematician, [[Giovanni Demisiani]],<ref>[[#Reference-Sobel-2000|Sobel (2000, p.43)]], [[#Reference-Drake-1978|Drake (1978, p.196)]]. In the ''Starry Messenger'', written in Latin, Galileo had used the term "perspicillum."</ref> at a banquet held in 1611 by Prince [[Federico Cesi]] to make Galileo a member of his [[Accademia dei Lincei]].<ref>{{cite web|url=http://www.omni-optical.com/telescope/ut104.htm|title=omni-optical.com "''A Very Short History of the Telescope''"}}</ref> The name was derived from the [[Greek language|Greek]] ''tele'' = 'far' and ''skopein'' = 'to look or see'. In 1610, he used a telescope at close range to magnify the parts of insects.<ref name="telescope microscope">[[#Reference-Drake-1978|Drake (1978, p.163–164)]], [[#Reference-Favaro-1890|Favaro]][http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=3&VOLPAG=163 (1892, 3:163]–[http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=3&VOLPAG=164 164)]{{la icon}}</ref> By 1624 he had perfected<ref name="microscope perfection">Probably in 1623, according to [[#Reference-Drake-1978|Drake (1978, p.286)]].</ref> a compound [[microscope]]. He gave one of these instruments to Cardinal Zollern in May of that year for presentation to the Duke of Bavaria,<ref name="Zollern microscope"> [[#Reference-Drake-1978|Drake (1978, p.289)]], [[#Reference-Favaro-1890|Favaro]][http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=13&VOLPAG=177 (1903, 13:177) ]{{it icon}}.</ref> and in September he sent another to Prince Cesi.<ref name="Cesi microscope">[[#Reference-Drake-1978|Drake (1978, p.286)]], [[#Reference-Favaro-1890|Favaro]][http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=13&VOLPAG=208 (1903, 13:208)]{{it icon}}. The actual inventors of the telescope and microscope remain debatable. A general view on this can be found in the article [http://micro.magnet.fsu.edu/optics/timeline/people/lippershey.html Hans Lippershey] (last updated [[2003-08-01]]), © 1995–2007 by Davidson, Michael W.<!--NO LINK to the Republican political activist--> and the [[Florida State University]]. Retrieved [[2007-08-28]]</ref> The [[Accademia dei Lincei|Linceans]] played a role again in naming the "microscope" a year later when fellow academy member [[Giovanni Faber]] coined the word for Galileo's invention from the [[Greek language|Greek]] words ''μικρόν'' (''micron'') meaning "small," and ''σκοπεῖν'' (''skopein'') meaning "to look at." The word was meant to be analogous with "telescope."<ref>{{cite web|url=http://brunelleschi.imss.fi.it/esplora/microscopio/dswmedia/risorse/testi_completi.pdf|title=brunelleschi.imss.fi.it "Il microscopio di Galileo"|format=PDF}}</ref><ref>Van Helden, Al. [http://galileo.rice.edu/chron/galileo.html Galileo Timeline] (last updated 1995), The Galileo Project. Retrieved [[2007-08-28]]. See also [[Timeline of microscope technology]].</ref> Illustrations of insects made using one of Galileo's microscopes, and published in 1625, appear to have been the [[Timeline of microscope technology|first]] clear documentation of the use of a compound microscope.<ref name="microscope use"> [[#Reference-Drake-1978|Drake (1978, p.286)]].</ref>
+
+In 1612, having determined the orbital periods of Jupiter's satellites, Galileo proposed that with sufficiently accurate knowledge of their orbits one could use their positions as a universal clock, and this would make possible the determination of [[longitude]]. He worked on this problem from time to time during the remainder of his life; but the practical problems were severe. The method was first successfully applied by [[Giovanni Domenico Cassini]] in 1681 and was later used extensively for large land surveys; this method, for example, was used by [[Lewis and Clark]]. For sea navigation, where delicate telescopic observations were more difficult, the longitude problem eventually required development of a practical portable [[marine chronometer]], such as that of [[John Harrison]].{{Citation needed|date=October 2009}}
+
+In his last year, when totally blind, he designed an [[escapement]] mechanism for a pendulum clock, a vectorial model of which may be seen [[Galileo's escapement|here]]. The first fully operational pendulum clock was made by [[Christiaan Huygens]] in the 1650s. Galilei created sketches of various inventions, such as a candle and mirror combination to reflect light throughout a building, an automatic tomato picker, a pocket comb that doubled as an eating utensil, and what appears to be a ballpoint pen.{{Citation needed|date=October 2009}}
+
+==Physics==
+[[File:Tito Lessi - Galileo and Viviani.jpg|thumb|''Galileo e [[Vincenzo Viviani|Viviani]]'', 1892, [[Tito Lessi]]]]
+Galileo's theoretical and experimental work on the motions of bodies, along with the largely independent work of Kepler and [[René Descartes]], was a precursor of the [[classical mechanics]] developed by [[Isaac Newton|Sir Isaac Newton]].
+
+A biography by Galileo's pupil [[Vincenzo Viviani]] stated that Galileo had dropped [[ball]]s of the same material, but different [[mass]]es, from the [[Leaning Tower of Pisa]] to demonstrate that their time of descent was independent of their mass.<ref>[[#Reference-Drake-1978|Drake (1978, pp.19,20)]]. At the time when Viviani asserts that the experiment took place, Galileo had not yet formulated the final version of his law of free fall. He had, however, formulated an earlier version which predicted that bodies ''of the same material'' falling through the same medium would fall at the same speed [[#Reference-Drake-1978|(Drake, 1978, p.20)]].</ref> This was contrary to what Aristotle had taught: that heavy objects fall faster than lighter ones, in direct proportion to weight.<ref>[[#Reference-Drake-1978|Drake (1978, p.9)]]; [[#Reference-Sharratt-1994|Sharratt (1994, p.31)]].</ref> While this story has been retold in popular accounts, there is no account by Galileo himself of such an experiment, and it is generally accepted by historians that it was at most a [[thought experiment]] which did not actually take place.<ref>{{cite web|url=http://www.pbs.org/wgbh/nova/galileo/experiments.html|title=Galileo's Battle for the Heavens. July 2002|last=Groleau|first=Rick}} {{cite web|url=http://www.hindu.com/seta/2005/06/30/stories/2005063000351500.htm|title=Science history: setting the record straight. 30 June 2005|last=Ball|first=Phil}} An exception is [[#Reference-Drake-1978|Drake (1978, pp.19–21, 414–416)]], who argues that the experiment did take place, more or less as Viviani described it.</ref>
+
+In his 1638 ''Discorsi'' Galileo's character Salviati, widely regarded as largely Galileo's spokesman, held that all unequal weights would fall with the same finite speed in a vacuum. But this had previously been proposed by [[Lucretius]]<ref>Lucretius, ''De rerum natura'' II, 225–229; Relevant passage appears in: Lane Cooper, ''Aristotle, Galileo, and the Tower of Pisa'' (Ithaca, N.Y.: Cornell University Press, 1935), page 49.</ref> and [[Simon Stevin]].<ref>Simon Stevin, ''De Beghinselen des Waterwichts, Anvang der Waterwichtdaet, en de Anhang komen na de Beghinselen der Weeghconst en de Weeghdaet'' [The Elements of Hydrostatics, Preamble to the Practice of Hydrostatics, and Appendix to The Elements of the Statics and The Practice of Weighing] (Leiden, Netherlands: Christoffel Plantijn, 1586) reports an experiment by Stevin and Jan Cornets de Groot in which they dropped lead balls from a church tower in Delft; relevant passage is translated here: E. J. Dijksterhuis, ed., ''The Principal Works of Simon Stevin'' (Amsterdam, Netherlands: C. V. Swets & Zeitlinger, 1955) vol. 1, pages 509 and 511. Available on-line at: http://www.library.tudelft.nl/cgi-bin/digitresor/display.cgi?bookname=Mechanics%20I&page=509</ref> Salviati also held it could be experimentally demonstrated by the comparison of pendulum motions in air with bobs of lead and of cork which had different weight but which were otherwise similar.
+
+Galileo proposed that a falling body would fall with a uniform acceleration, as long as the resistance of the medium through which it was falling remained negligible, or in the limiting case of its falling through a vacuum.<ref>[[#Reference-Sharratt-1994|Sharratt (1994, p.203)]], [[#Reference-Galileo-1954|Galilei]] [http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=753&chapter=109969&layout=html&Itemid=27#a_2289356 (1954, pp.251–54)].</ref> He also derived the correct kinematical law for the distance travelled during a uniform acceleration starting from rest—namely, that it is proportional to the square of the elapsed time (&nbsp;''d''&nbsp;∝&nbsp;''t''<sup>&nbsp;2</sup>&nbsp;).<ref>[[#Reference-Sharratt-1994|Sharratt (1994, p.198)]], [[#Reference-Galileo-1954|Galilei]] [http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=753&chapter=109916&layout=html&Itemid=27#a_2289015 (1954, p.174)].</ref> However, in neither case were these discoveries entirely original. The time-squared law for uniformly accelerated change was already known to [[Nicole Oresme]] in the 14th century,<ref>[[#Reference-Clagett-1968|Clagett (1968, p.561)]].</ref> and [[Domingo de Soto]], in the 16th, had suggested that bodies falling through a homogeneous medium would be uniformly accelerated.<ref>[[#Reference-Sharratt-1994|Sharratt (1994, p.198)]], [[#Reference-Wallace-2004|Wallace (2004, pp.II 384, II 400, III 272)]] Soto, however, did not anticipate many of the qualifications and refinements contained in Galileo's theory of falling bodies. He did not, for instance, recognise, as Galileo did, that a body would only fall with a strictly uniform acceleration in a vacuum, and that it would otherwise eventually reach a uniform terminal velocity.</ref> Galileo expressed the time-squared law using geometrical constructions and mathematically precise words, adhering to the standards of the day. (It remained for others to re-express the law in algebraic terms). He also concluded that objects ''retain their velocity'' unless a [[force]]—often [[friction]]—acts upon them, refuting the generally accepted Aristotelian hypothesis that objects "naturally" slow down and stop unless a force acts upon them (philosophical ideas relating to [[inertia]] had been proposed by [[Ibn al-Haytham]] centuries earlier, as had [[Jean Buridan]], and according to [[Joseph Needham]], [[Mo Tzu]] had proposed it centuries before either of them, but this was the first time that it had been mathematically expressed, verified experimentally, and introduced the idea of [[friction|frictional force]], the key breakthrough in validating inertia). Galileo's Principle of Inertia stated: "A body moving on a level surface will continue in the same direction at constant speed unless disturbed." This principle was incorporated into [[Newton's laws of motion]] (first law).[[Image:Pisa.Duomo.dome.Riminaldi01.jpg|thumb|Dome of the cathedral of Pisa with the "lamp of Galileo"]]
+
+Galileo also claimed (incorrectly) that a [[pendulum|pendulum's]] swings always take the same amount of time, independently of the [[amplitude]]. That is, that a simple pendulum is [[isochronous]]. It is popularly believed that he came to this conclusion by watching the swings of the bronze chandelier in the cathedral of Pisa, using his pulse to time it. It appears however, that he conducted no experiments because the claim is true only of infinitesimally small swings as discovered by [[Christian Huygens]]. Galileo's son, Vincenzo, sketched a clock based on his father's theories in 1642. The clock was never built and, because of the large swings required by its [[verge escapement]], would have been a poor timekeeper. (See [[#Technology|Technology]] above.)
+
+In 1638 Galileo described an experimental method to measure the [[Speed of light#Measurement of the speed of light|speed of light]] by arranging that two observers, each having lanterns equipped with shutters, observe each other's lanterns at some distance. The first observer opens the shutter of his lamp, and, the second, upon seeing the light, immediately opens the shutter of his own lantern. The time between the first observer's opening his shutter and seeing the light from the second observer's lamp indicates the time it takes light to travel back and forth between the two observers. Galileo reported that when he tried this at a distance of less than a mile, he was unable to determine whether or not the light appeared instantaneously.<ref>Galileo Galilei, ''Two New Sciences,'' (Madison: Univ. of Wisconsin Pr., 1974) p. 50.</ref> Sometime between Galileo's death and 1667, the members of the Florentine ''[[Accademia del Cimento]]'' repeated the experiment over a distance of about a mile and obtained a similarly inconclusive result.<ref>I. Bernard Cohen, "Roemer and the First Determination of the Velocity of Light (1676)," ''Isis'', 31 (1940): 327–379, see pp. 332–333</ref>
+
+Galileo is lesser known for, yet still credited with, being one of the first to understand sound frequency. By scraping a chisel at different speeds, he linked the pitch of the sound produced to the spacing of the chisel's skips, a measure of frequency.
+
+In his 1632 ''[[Dialogue Concerning the Two Chief World Systems|Dialogue]]'' Galileo presented a physical theory to account for [[tide]]s, based on the motion of the Earth. If correct, this would have been a strong argument for the reality of the Earth's motion. In fact, the original title for the book described it as a dialogue on the tides; the reference to tides was removed by order of the Inquisition. His theory gave the first insight into the importance of the shapes of ocean basins in the size and timing of tides; he correctly accounted, for instance, for the negligible tides halfway along the [[Adriatic Sea]] compared to those at the ends. As a general account of the cause of tides, however, his theory was a failure. Kepler and others correctly associated the Moon with an influence over the tides, based on empirical data; a proper physical theory of the tides, however, was not available until Newton.
+
+Galileo also put forward [[Galilean invariance|the basic principle of relativity]], that the laws of physics are the same in any system that is moving at a constant speed in a straight line, regardless of its particular speed or direction. Hence, there is no absolute motion or absolute rest. This principle provided the basic framework for Newton's laws of motion and is central to [[Albert Einstein|Einstein's]] [[special theory of relativity]].
+
+==Mathematics==
+While Galileo's application of mathematics to experimental physics was innovative, his mathematical methods were the standard ones of the day. The analysis and proofs relied heavily on the [[Eudoxus of Cnidus|Eudoxian]] theory of proportion, as set forth in the fifth book of [[Euclid's Elements]]. This theory had become available only a century before, thanks to accurate translations by [[Niccolò Tartaglia|Tartaglia]] and others; but by the end of Galileo's life it was being superseded by the algebraic methods of [[René Descartes|Descartes]].
+
+Galileo produced one piece of original and even prophetic work in mathematics: [[Galileo's paradox]], which shows that there are as many perfect squares as there are whole numbers, even though most numbers are not perfect squares. Such seeming contradictions were brought under control 250 years later in the work of [[Georg Cantor]].
+
+==Church controversy==
+{{Main|Galileo affair}}
+[[Image:Galileo facing the Roman Inquisition.jpg|thumb|Cristiano Banti's 1857 painting ''Galileo facing the Roman Inquisition'']]
+
+Western Christian biblical references [[Psalms|Psalm]] 93:1, Psalm 96:10, and [[Books of Chronicles|1 Chronicles]] 16:30 include (depending on translation) text stating that "the world is firmly established, it cannot be moved." In the same tradition, {{bibleverse||Psalm|104:5|NIV}} says, "the LORD set the earth on its foundations; it can never be moved." Further, [[Ecclesiastes]] 1:5 states that "And the sun rises and sets and returns to its place" etc.<ref name="Bellarmine quote">[[#Reference-Brodrick-1965|Brodrick (1965, c1964, p.95)]] quoting Cardinal Bellarmine's [[letter to Foscarini]], dated 12 April 1615. Translated from [[#Reference-Favaro-1890|Favaro]][http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=12&VOLPAG=171 (1902, 12:171–172)] {{it icon}}.</ref>
+
+Galileo defended [[heliocentrism]], and claimed it was not contrary to those Scripture passages. He took [[Augustine of Hippo|Augustine's]] position on Scripture: not to take every passage literally, particularly when the scripture in question is a book of poetry and songs, not a book of instructions or history. The writers of the Scripture wrote from the perspective of the terrestrial world, and from that vantage point the sun does rise and set.
+
+By 1616 the attacks on the ideas of [[Copernicus]] had reached a head, and Galileo went to [[Rome]] to try to persuade the Church authorities not to ban his ideas. In the end, [[Cardinal Bellarmine]], acting on directives from the Inquisition, delivered him an order not to "hold or defend" the idea that the Earth moves and the Sun stands still at the centre. The decree did not prevent Galileo from discussing heliocentrism hypothesis (thus maintaining a facade of separation between science and the church). For the next several years Galileo stayed well away from the controversy. He revived his project of writing a book on the subject, encouraged by the election of [[Cardinal Barberini]] as [[Pope Urban VIII]] in 1623. Barberini was a friend and admirer of Galileo, and had opposed the condemnation of Galileo in 1616. The book, ''[[Dialogue Concerning the Two Chief World Systems]]'', was published in 1632, with formal authorization from the [[Inquisition]] and papal permission.
+
+Pope Urban VIII personally asked Galileo to give arguments for and against heliocentrism in the book, and to be careful not to advocate heliocentrism. He made another request, that his own views on the matter be included in Galileo's book. Only the latter of those requests was fulfilled by Galileo. Whether unknowingly or deliberately, Simplicio, the defender of the Aristotelian Geocentric view in ''[[Dialogue Concerning the Two Chief World Systems]]'', was often caught in his own errors and sometimes came across as a fool. Indeed, although Galileo states in the preface of his book that the character is named after a famous Aristotelian philosopher ([[Simplicius of Cilicia|Simplicius]] in Latin, Simplicio in Italian), the name "Simplicio" in Italian also has the connotation of "simpleton."<ref>[[#Reference-Finocchiaro-1997|Finocchiaro (1997,]] [http://books.google.com.au/books?id=Li4eh7JIMtIC&pg=PA82 p.82)]; [[#Reference-Moss&Wallace-2003|Moss & Wallace (2003,]] [http://books.google.com.au/books?id=Lw50esHmgacC&pg=PA11 p.11)]</ref>  This portrayal of Simplicio made ''Dialogue Concerning the Two Chief World Systems'' appear as an advocacy book: an attack on Aristotelian geocentrism and defense of the Copernican theory. Unfortunately for his relationship with the Pope, Galileo put the words of Urban VIII into the mouth of Simplicio. Most historians agree Galileo did not act out of malice and felt blindsided by the reaction to his book.<ref> See Langford [[#Reference-Langford-1998|(1966, pp.133–134)]], and Seeger [[#Reference-Seeger-1966|(1966, p.30)]], for example. Drake [[#Reference-Drake-1978|(1978, p.355)]] asserts that Simplicio's character is modelled on the Aristotelian philosophers, Lodovico delle Colombe and [[Cesare Cremonini]], rather than Urban. He also considers that the demand for Galileo to include the Pope's argument in the ''Dialogue'' left him with no option but to put it in the mouth of Simplicio [[#Reference-Drake-1953|(Drake, 1953, p.491)]]. Even [[Arthur Koestler]], who is generally quite harsh on Galileo in ''[[The Sleepwalkers]]'' [[#Reference-Koestler-1990|(1959)]], after noting that Urban suspected Galileo of having intended Simplicio to be a caricature of him, says "this of course is untrue" [[#Reference-Koestler-1990|(1959, p.483)]]</ref> However, the Pope did not take the suspected public ridicule lightly, nor the Copernican advocacy. Galileo had alienated one of his biggest and most powerful supporters, the Pope, and was called to Rome to defend his writings.
+
+With the loss of many of his defenders in Rome because of ''Dialogue Concerning the Two Chief World Systems'', Galileo was ordered to stand trial on suspicion of heresy in 1633. The sentence of the Inquisition was in three essential parts:
+* Galileo was found "vehemently suspect of heresy," namely of having held the opinions that the Sun lies motionless at the centre of the universe, that the Earth is not at its centre and moves, and that one may hold and defend an opinion as probable after it has been declared contrary to Holy Scripture. He was required to [[Abjuration|"abjure, curse and detest"]] those opinions.<ref>[[#Reference-Fantoli-2005|Fantoli (2005, p.139)]], [[#Reference-Finocchiaro-1989|Finocchiaro (1989, p.288&ndash;293)]]. Finocchiaro's translation of the Inquisition's judgement against Galileo is [http://web.archive.org/web/20070930013053/http://astro.wcupa.edu/mgagne/ess362/resources/finocchiaro.html#sentence available on-line]. "Vehemently suspect of heresy" was a technical term of [[canon law]] and did not necessarily imply that the Inquisition considered the opinions giving rise to the verdict to be heretical. The same verdict would have been possible even if the opinions had been subject only to the less serious censure of "erroneous in faith" [[#Reference-Fantoli-2005|(Fantoli, 2005, p.140]]; [[#Reference-Heilbron-2005|Heilbron, 2005, pp.282-284)]].</ref>
+* He was ordered imprisoned; the sentence was later commuted to house arrest.
+* His offending ''Dialogue'' was banned; and in an action not announced at the trial, publication of any of his works was forbidden, including any he might write in the future.<ref>{{anchor|_note-publication-ban}}[[#Reference-Drake-1978|Drake (1978, p.367),]] [[#Reference-Sharratt-1994|Sharratt (1994, p.184),]] [[#Reference-Favaro-1890|Favaro]][http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=16&VOLPAG=209 (1905, 16:209,] [http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=16&VOLPAG=230 230)]{{it icon}}. See [[Galileo affair# note-publication-ban|Galileo affair]] for further details.</ref>
+[[Image:Tomb of Galileo Galilei.JPG|thumb|Tomb of Galileo Galilei, [[Basilica di Santa Croce di Firenze|Santa Croce]]]]
+
+According to popular legend, after recanting his theory that the Earth moved around the Sun, Galileo allegedly muttered the rebellious phrase [[E pur si muove!|''And yet it moves'']], but there is no evidence that he actually said this or anything similarly impertinent. The first account of the legend dates to a century after his death.<ref>
+[[#Reference-Drake-1978|Drake (1978, p.356)]]. The phrase "Eppur si muove" does appear, however, in a painting of the 1640s by the Spanish painter [[Bartolomé Esteban Murillo]] or an artist of his school. The painting depicts an imprisoned Galileo apparently pointing to a copy of the phrase written on the wall of his dungeon [[#Reference-Drake-1978|(Drake, 1978, p.357)]].
+</ref>
+
+After a period with the friendly [[Ascanio II Piccolomini|Ascanio Piccolomini]] (the Archbishop of [[Siena]]), Galileo was allowed to return to his villa at [[Arcetri]] near Florence, where he spent the remainder of his life under house arrest, and where he later became blind. It was while Galileo was under house arrest that he dedicated his time to one of his finest works, ''[[Two New Sciences]]''. Here he summarized work he had done some forty years earlier, on the two sciences now called [[kinematics]] and [[strength of materials]]. This book has received high praise from both [[Sir Isaac Newton]] and [[Albert Einstein]].{{Citation needed|date=July 2008}}<!-- http://www.seop.leeds.ac.uk/entries/newton-principia/notes.html : "All the evidence indicates that Newton never read Galileo's Two New Sciences..." --> As a result of this work, Galileo is often called, the "father of modern physics."
+
+Galileo died on 8 January 1642 at 77 years of age. The Grand Duke of Tuscany, [[Ferdinando II de' Medici, Grand Duke of Tuscany|Ferdinando II]], wished to bury him in the main body of the [[Basilica di Santa Croce di Firenze|Basilica of Santa Croce]], next to the tombs of his father and other ancestors, and to erect a marble mausoleum in his honour.<ref name=funeral>[[#Reference-Shea&Artigas-2003|Shea & Artigas (2003, p.199)]]; [[#Reference-Sobel-2000|Sobel (2000, p.378)]].</ref> These plans were scrapped, however, after Pope Urban VIII and his nephew, Cardinal Francesco Barberini, protested.<ref name="funeral protests"> [[#Reference-Shea&Artigas-2003|Shea & Artigas (2003, p.199)]]; [[#Reference-Sobel-2000|Sobel (2000, p.378)]]; [[#Reference-Sharratt-1994|Sharratt (1994, p.207)]]; [[#Reference-Favaro-1890|Favaro]][http://moro.imss.fi.it/lettura/LetturaWEB.DLL?VOL=18&VOLPAG=378 (1906,18:378–80)] {{it icon}}.</ref> He was instead buried in a small room next to the novices' chapel at the end of a corridor from the southern transept of the basilica to the sacristy.<ref name="burial spot">[[#Reference-Shea&Artigas-2003|Shea & Artigas (2003, p.199)]]; [[#Reference-Sobel-2000|Sobel (2000, p.380)]].</ref> He was reburied in the main body of the basilica in 1737 after a monument had been erected there in his honour.<ref name="reburial spot">[[#Reference-Shea&Artigas-2003|Shea & Artigas (2003, p.200)]]; [[#Reference-Sobel-2000|Sobel (2000, p.380–384)]].</ref>
+
+The Inquisition's ban on reprinting Galileo's works was lifted in 1718 when permission was granted to publish an edition of his works (excluding the condemned ''Dialogue'') in Florence.<ref name="incomplete works">[[#Reference-Heilbron-2005|Heilbron (2005, p.299)]].</ref> In 1741 [[Pope Benedict XIV]] authorized the publication of an edition of Galileo's complete scientific works<ref name="complete works 1">Two of his non-scientific works, the letters to Castelli and the Grand Duchess Christina, were explicitly not allowed to be included [[#Reference-Coyne-2005|(Coyne 2005, p.347)]].</ref> which included a mildly censored version of the ''Dialogue''.<ref name="complete works 2">[[#Reference-Heilbron-2005|Heilbron (2005, p.303–04)]]; [[#Reference-Coyne-2005|Coyne (2005, p.347)]]. The uncensored version of the ''Dialogue'' remained on the Index of prohibited books, however [[#Reference-Heilbron-2005|(Heilbron 2005, p.279)]].</ref> In 1758 the general prohibition against works advocating heliocentrism was removed from the [[Index Librorum Prohibitorum|Index of prohibited books]], although the specific ban on uncensored versions of the ''Dialogue'' and Copernicus's ''De Revolutionibus'' remained.<ref name="ban not lifted">[[#Reference-Heilbron-2005|Heilbron (2005, p.307)]]; [[#Reference-Coyne-2005|Coyne (2005, p.347)]] The practical effect of the ban in its later years seems to have been that clergy could publish discussions of heliocentric physics with a formal disclaimer assuring its hypothetical character and their obedience to the church decrees against motion of the earth: see for example the commented edition (1742) of Newton's 'Principia' by Fathers Le Seur and Jacquier, which contains such a disclaimer ('Declaratio') before the third book (Propositions 25 onwards) dealing with the lunar theory.</ref> All traces of official opposition to heliocentrism by the Church disappeared in 1835 when these works were finally dropped from the Index.<ref name="ban lifted">[[#Reference-McMullin-2005|McMullin (2005, p.6)]]; [[#Reference-Coyne-2005|Coyne (2005, p.346)]]. In fact, the Church's opposition had effectively ended in 1820 when a Catholic canon, Giuseppe Settele, was given permission to publish a work which treated heliocentism as a physical fact rather than a mathematical fiction. The 1835 edition of the Index was the first to be issued after that year.</ref>
+
+In 1939 [[Pope Pius XII]], in his first speech to the Pontifical Academy of Sciences, within a few months of his election to the papacy, described Galileo as being among the ''"most audacious heroes of research&nbsp;... not afraid of the stumbling blocks and the risks on the way, nor fearful of the funereal monuments"''<ref>Discourse of His Holiness Pope Pius XII given on 3 December 1939 at the Solemn Audience granted to the Plenary Session of the Academy, Discourses of the Popes from Pius XI to John Paul II to the Pontifical Academy of the Sciences 1939-1986, Vatican City, p.34</ref> His close advisor of 40 years, Professor Robert Leiber wrote: "Pius XII was very careful not to close any doors (to science) prematurely. He was energetic on this point and regretted that in the case of Galileo."<ref>Robert Leiber, Pius XII Stimmen der Zeit, November 1958 in Pius XII. Sagt, Frankfurt 1959, p.411</ref>
+
+On 15 February 1990, in a speech delivered at the [[Sapienza University of Rome]],<ref>An earlier version had been delivered on 16 December 1989, in Rieti, and a later version in Madrid on 24 February 1990 [[#Reference-Ratzinger-1994|(Ratzinger, 1994, p.81)]]. According to Feyerabend himself, Ratzinger had also mentioned him "in support of" his own views in a speech in Parma around the same time [[#Reference-Feyerabend-1995|(Feyerabend, 1995, p.178)]].</ref> [[Cardinal Ratzinger]] (later to become [[Pope Benedict XVI]]) cited some current views on the Galileo affair as forming what he called "a symptomatic case that permits us to see how deep the self-doubt of the modern age, of science and technology goes today."<ref name=self-doubt>Ratzinger [[#Reference-Ratzinger-1994|(1994, p.98)]].</ref> Some of the views he cited were those of the philosopher [[Paul Feyerabend]], whom he quoted as saying “The Church at the time of Galileo kept much more closely to reason than did Galileo himself, and she took into consideration the ethical and social consequences of Galileo's teaching too. Her verdict against Galileo was rational and just and the revision of this verdict can be justified only on the grounds of what is politically opportune.”<ref name="scupper"> Ratzinger [[#Reference-Ratzinger-1994|(1994, p.98)]]</ref> The Cardinal did not clearly indicate whether he agreed or disagreed with Feyerabend's assertions. He did, however, say "It would be foolish to construct an impulsive apologetic on the basis of such views."<ref name=self-doubt/>
+
+On 31 October 1992, [[Pope John Paul II]] expressed regret for how the Galileo affair was handled, and issued a declaration acknowledging the errors committed by the Church tribunal that judged the scientific positions of Galileo Galilei, as the result of a study conducted by the [[Pontifical Council for Culture]].<ref>{{cite news|publisher=New Scientist|url=http://www.newscientist.com/article/mg13618460.600-vatican-admits-galileo-was-right-.html|title=Vatican admits Galileo was right|date=1992-11-07|accessdate=2007-08-09}}.</ref><ref>{{cite news|publisher=BBC News|url=http://news.bbc.co.uk/1/hi/world/europe/7188860.stm|title=Papal visit scuppered by scholars|date=2008-01-15|accessdate=2008-01-16}}</ref> In March 2008 the Vatican proposed to complete its rehabilitation of Galileo by erecting a statue of him inside the Vatican walls.<ref>{{cite news|publisher=TimesOnline News|url=http://www.timesonline.co.uk/tol/comment/faith/article3478943.ece|title=Vatican recants with a statue of Galileo|date=2008-03-04|accessdate=2009-03-02}}</ref> In December of the same year, during events to mark the 400th anniversary of Galileo's earliest telescopic observations, Pope Benedict XVI praised his contributions to astronomy.<ref>{{cite news|publisher=BBC News|url=http://news.bbc.co.uk/2/hi/europe/7794668.stm|title=Pope praises Galileo's astronomy|date=2008-12-21|accessdate=2008-12-22}}</ref>
+
+==His writings==
+[[Image:Galileo Galilei01.jpg|thumb|upright|Statue outside the [[Uffizi]], Florence.]]
+
+Galileo's early works describing scientific instruments include the 1586 tract entitled ''[[The Little Balance]]'' (''La Billancetta'') describing an accurate balance to weigh objects in air or water<ref>{{citation|url=http://galileo.rice.edu/sci/instruments/balance.html|title=Hydrostatic balance|publisher=The Galileo Project|accessdate=2008-07-17}}</ref> and the 1606 printed manual ''[[Le Operazioni del Compasso Geometrico et Militare]]'' on the operation of a geometrical and military compass.<ref>{{citation|url=http://hsci.ou.edu/exhibits/exhibit.php?exbgrp=1&exbid=10&exbpg=1|title=The Works of Galileo|publisher=The University of Oklahoma, College of Arts and Sciences|accessdate=2008-07-17}}</ref>
+
+His early works in dynamics, the science of motion and mechanics were his 1590 Pisan ''De Motu'' (On Motion) and his ''circa'' 1600 Paduan ''Le Meccaniche'' (Mechanics). The former was based on Aristotelian-Archimedean fluid dynamics and held that the speed of gravitational fall in a fluid medium was proportional to the excess of a body's specific weight over that of the medium, whereby in a vacuum bodies would fall with speeds in proportion to their specific weights. It also subscribed to the Hipparchan-Philoponan [[impetus dynamics]] in which impetus is self-dissipating and free-fall in a vacuum would have an essential terminal speed according to specific weight after an initial period of acceleration.
+
+Galileo's 1610 ''[[Sidereus Nuncius|The Starry Messenger]]'' (''Sidereus Nuncius'') was the first scientific treatise to be published based on observations made through a telescope.  It reported his discoveries of:
+* the [[Galilean moons]];
+* the roughness of the Moon's surface;
+* the existence of a large number of stars invisible to the naked eye, particularly those responsible for the appearance of the [[Milky Way]]; and
+* differences between the appearances of the planets and those of the fixed stars&mdash;the former appearing as small discs, while the latter appeared as unmagnified points of light. 
+Galileo published a description of sunspots in 1613 entitled ''[[Letters on Sunspots]]''<ref>{{citation|url=http://hsci.ou.edu/exhibits/exhibit.php?exbgrp=1&exbid=13&exbpg=2|title=Sunspots and Floating Bodies|publisher=The University of Oklahoma, College of Arts and Sciences|accessdate=2008-07-17}}</ref> suggesting the Sun and heavens are corruptible. The ''Letters on Sunspots'' also reported his 1610 telescopic observations of the full set of phases of Venus, and his discovery of the puzzling "appendages" of Saturn and their even more puzzling subsequent disappearance.  In 1615 Galileo prepared a manuscript known as the ''[[Letter to the Grand Duchess Christina]]'' which was not published in printed form until 1636. This letter was a revised version of the ''[[Letter to Castelli]]'', which was denounced by the Inquisition as an incursion upon theology by advocating Copernicanism both as physically true and as consistent with Scripture.<ref>{{citation|url=http://hsci.ou.edu/exhibits/exhibit.php?exbgrp=1&exbid=14&exbpg=3|title=Galileo, Letter to the Grand Duchess Christina|publisher=The University of Oklahoma, College of Arts and Sciences|accessdate=2008-07-17}}</ref> In 1616, after the order by the inquisition for Galileo not to hold or defend the Copernican position, Galileo wrote the ''[[Discourse on the tides]]'' (''Discorso sul flusso e il reflusso del mare'') based on the Copernican earth, in the form of a private letter to Cardinal Orsini.<ref>{{citation|url=http://galileo.rice.edu/sci/observations/tides.html|title=Galileo's Theory of the Tides|publisher=The Galileo Project|accessdate=2008-07-17}}</ref> In 1619, Mario Guiducci, a pupil of Galileo's, published a lecture written largely by Galileo under the title ''[[Discourse on the Comets]]'' (''Discorso Delle Comete''), arguing against the Jesuit interpretation of comets.<ref>{{citation|url=http://galileo.rice.edu/chron/galileo.html|title=Galileo Timeline|publisher=The Galileo Project|accessdate=2008-07-17}}</ref>
+
+In 1623, Galileo published ''[[The Assayer]]&nbsp;– Il Saggiatore'', which attacked theories based on Aristotle's authority and promoted experimentation and the mathematical formulation of scientific ideas. The book was highly successful and even found support among the higher echelons of the Christian church.<ref>{{citation|url=http://muse.tau.ac.il/museum/galileo/galileo.html|author=|title=Galileo Galilei|publisher=Tel-Aviv University, Science and Technology Education Center|accessdate=2008-07-17}}</ref> Following the success of The Assayer, Galileo published the ''[[Dialogue Concerning the Two Chief World Systems]]'' (Dialogo sopra i due massimi sistemi del mondo) in 1632. Despite taking care to adhere to the Inquisition's 1616 instructions, the claims in the book favouring Copernican theory and a non Geocentric model of the solar system led to Galileo being tried and banned on publication. Despite the publication ban, Galileo published his ''[[Two New Sciences|Discourses and Mathematical Demonstrations Relating to Two New Sciences]]'' (''Discorsi e Dimostrazioni Matematiche, intorno a due nuove scienze'') in 1638 in [[House of Elzevir|Holland]], outside the jurisdiction of the Inquisition.
+* ''The Little Balance'' (1586)
+* ''On Motion'' (1590) <ref>[http://echo.mpiwg-berlin.mpg.de/content/scientific_revolution/galileo]</ref>
+* ''Mechanics'' (c1600)
+* ''[[Sidereus Nuncius|The Starry Messenger]]'' (1610; in Latin, Sidereus Nuncius)
+* ''Letters on Sunspots'' (1613)
+* ''[[Letter to the Grand Duchess Christina]]'' (1615; published in 1636)
+* ''Discourse on the Tides'' (1616; in Italian, Discorso del flusso e reflusso del mare)
+* ''Discourse on the Comets'' (1619; in Italian, Discorso Delle Comete)
+* ''[[The Assayer]]'' (1623; in Italian, Il Saggiatore)
+* ''[[Dialogue Concerning the Two Chief World Systems]]'' (1632; in Italian Dialogo dei due massimi sistemi del mondo)
+* ''[[Two New Sciences|Discourses and Mathematical Demonstrations Relating to Two New Sciences]]'' (1638; in Italian, Discorsi e Dimostrazioni Matematiche, intorno a due nuove scienze)
+
+==Legacy==
+Galileo's astronomical discoveries and investigations into the Copernican theory have led to a lasting legacy which includes the categorisation of the four large moons of [[Jupiter]] discovered by Galileo ([[Io (moon)|Io]], [[Europa (moon)|Europa]], [[Ganymede (moon)|Ganymede]] and [[Callisto (moon)|Callisto]]) as the [[Galilean moons]]. Other scientific endeavours and principles are named after Galileo including the [[Galileo (spacecraft)|Galileo spacecraft]],<ref>{{cite book
+ | first=Daniel | last=Fischer | year=2001
+ | title=Mission Jupiter: The Spectacular Journey of the ''Galileo'' Spacecraft
+ | pages=v | publisher=Springer
+ | isbn=0-387-98764-9 }}</ref><!-- Ref. mentions both the moons and the spaccraft. --> the first spacecraft to enter orbit around Jupiter, the proposed [[Galileo (satellite navigation)|Galileo]] [[Global Navigation Satellite System|global satellite navigation system]], the [[Transformation (geometry)|transformation]] between [[inertial system]]s in [[classical mechanics]] denoted [[Galilean transformation]] and the [[Gal (unit)]], sometimes known as the ''Galileo'' which is a non-[[SI]] unit of [[acceleration]].
+
+[[File:2009 Austria 25 Euro Year of Astronomy Front.jpg|right|160px|thumb|[[Euro gold and silver commemorative coins (Austria)#2009 coinage|International Year of Astronomy commemorative coin]]]]
+Partly because 2009 is the fourth centenary of Galileo's first recorded astronomical observations with the telescope, the United Nations has scheduled it to be the [[International Year of Astronomy]].<ref>{{cite web
+ | author=United Nations Educational, Scientific and Cultural Organization
+ | date=11 August 2005
+ | title=Proclamation of 2009 as International year of Astronomy
+ | url=http://unesdoc.unesco.org/images/0014/001403/140317e.pdf
+ | format=PDF | publisher=UNESCO | accessdate=2008-06-10 }}</ref> A global scheme laid out by the [[International Astronomical Union]] (IAU), it has also been endorsed by [[UNESCO]] — the [[UN]] body responsible for Educational, Scientific and Cultural matters. The [[International Year of Astronomy]] 2009 is intended to be a global celebration of astronomy and its contributions to society and culture, stimulating worldwide interest not only in astronomy but science in general, with a particular slant towards young people.
+
+Galileo is mentioned several times in the "opera" section of the famous [[Queen (band)|Queen]] song, "[[Bohemian Rhapsody]]."
+
+The 20th century German playwright [[Bertolt Brecht]] dramatised Galileo's life in his ''[[Life of Galileo]]'' (1943).  A [[Galileo (film)|film adaptation]] with the title ''Galileo'' was released in 1975.
+
+Galileo Galilei was recently selected as a main motif for a high value collectors' coin: the €25 [[Euro gold and silver commemorative coins (Austria)#2009 coinage|International Year of Astronomy commemorative coin]], minted in 2009. This coin also commemorates the 400th anniversary of the invention of [[Refracting telescope#Galilean telescope|Galileo's telescope]]. The obverse shows a portion of his portrait and his telescope. The background shows one of his first drawings of the surface of the moon. In the silver ring other telescopes are depicted: the [[Isaac Newton Telescope]], the observatory in [[Kremsmünster Abbey]], a modern telescope, a [[radio telescope]] and a [[Space observatory|space telescope]]. In 2009, the [[Galileoscope]] was also released. This is a mass produced low-cost educational 2-inch telescope with relatively high quality.
+
+==Notes==
+{{reflist|2}}
+
+==See also==
+*[[Villa Il Gioiello]] (Galileo's main home in Florence)
+*[[Galileo day]] (a term used for a number of celebrations and campaigns)
+
+==References==
+{{refbegin|2}}
+* {{cite book
+ | first=Mary
+ | last=Allan-Olney
+ | year=1870
+ | title=The Private Life of Galileo: Compiled primarily from his correspondence and that of his eldest daughter, Sister Maria Celeste
+ | publisher=Nichols and Noyes
+ | location=Boston
+ | url=http://books.google.com/books?id=zWcSAAAAIAAJ
+ | accessdate=2008-06-09 }}
+*{{cite book
+ | first= Mario
+ | last= Biagioli
+ | title= Galileo, Courtier: The Practice of Science in the Culture of Absolutism
+ | year= 1993
+ | publisher= University of Chicago Press
+ | location= Chicago, IL
+ | ref= Reference-Biagioli-1993}}
+* {{cite book
+ | title= Behind the Scenes at Galileo's Trial
+ | author= Blackwell, Richard J.
+ | publisher= University of Notre Dame Press
+ | year= 2006
+ | location= Notre Dame, IN
+ | isbn= 0-268-02201-1
+ | ref=Reference-Blackwell-2006}}
+* {{cite book
+ | title= Galileo: the man, his work, his misfortunes
+ | author= Brodrick, James, S. J.
+ | publisher= G. Chapman
+ | year= 1965
+ | origyear= c1964
+ | location= London
+ | isbn=
+ | ref=Reference-Brodrick-1965}}
+* {{cite book
+ | title= Nicole Oresme and the Medieval Geometry of Qualities and Motions; a treatise on the uniformity and difformity of intensities known as Tractatus de configurationibus qualitatum et motuum
+ | last = Clagett
+ | first = Marshall (editor & translator)
+ | publisher= University of Wisconsin Press
+ | year= 1968
+ | location= Madison, WI
+ | isbn= 0-299-04880-2
+ | ref=Reference-Clagett-1968}}
+* {{cite book |last=Clavelin |first=Maurice |title=The Natural Philosophy of Galileo |publisher=MIT Press |year=1974}}
+* {{cite journal |last=Coffa |first=J. |title=Galileo's Concept of Inertia |journal=Physis Riv. Internaz. Storia Sci. |year=1968 |volume=10 |pages=261–281}}
+* {{cite book |last=Consolmagno |first=Guy |last2=Schaefer |first2=Marta |year=1994 |title=Worlds Apart, A Textbook in Planetary Science |location=Englewood, New Jersey |publisher=Prentice-Hall |ISBN=0-13-964131-9}}
+* {{cite book
+ |last=Cooper
+ |first=Lane
+ |title=Aristotle, Galileo, and the Tower of Pisa
+ |publisher=Cornell University Press
+ |location=Ithaca, NY
+ |year=1935
+ |isbn=1-4067-5263-0
+ |ref=Reference-Cooper-1935}}
+* {{cite book
+ | title= The Church's Most Recent Attempt to Dispel the Galileo Myth
+ | author= Coyne, George V., S.J.
+ | others= In [[#Reference-McMullin-2005|McMullin (2005, pp.340–359)]]
+ | year= 2005
+ | ref=Reference-Coyne-2005}}
+* {{cite book |editor-last=Drabkin |editor-first=Israel |editor2-last=Drake |editor2-first=Stillman  |title=On Motion and On Mechanics |publisher=University of Wisconsin Press |year=1960 |ISBN=0-299-02030-4}}
+* {{cite book
+ | title= Dialogue Concerning the Two Chief World Systems
+ | author= Drake, Stillman (translator)
+ | publisher= University of California Press
+ | year= 1953
+ | location= Berkeley, CA
+ | ref=Reference-Drake-1953}}
+* {{cite book |ref=Reference-Drake-1957 |last=Drake |first=Stillman |year=1957 |title=Discoveries and Opinions of Galileo |location=New York |publisher=Doubleday & Company |ISBN=0-385-09239-3}}
+* {{cite book
+ | title= Introduction to the Controversy on the Comets of 1618
+ | last= Drake
+ | first=  Stillman
+ | others= In [[#Reference-Drake&O'Malley-1960|Drake & O'Malley (1960, pp.vii–xxv)]]
+ | year= 1960
+ | ref=Reference-Drake-1960}}
+* {{cite book
+ | title= Galileo Studies
+ | last= Drake
+ | first=  Stillman
+ | publisher= The University of Michigan Press
+ | year= 1970
+ | location= Ann Arbor
+ | isbn= 0-472-08283-3
+ | ref=Reference-Drake-1970}}
+* {{cite journal |last=Drake |first=Stillman |year=1973 |title=Galileo's Discovery of the Law of Free Fall. |journal=Scientific American |volume=228 |issue=5 |pages=84–92}}
+* {{cite book |ref=Reference-Drake-1978 |last=Drake  |first=Stillman |year=1978 |title=Galileo At Work |location=Chicago |publisher=University of Chicago Press |ISBN=0-226-16226-5}}
+* {{cite book
+ | title= Galileo: Pioneer Scientist
+ | last= Drake
+ | first= Stillman
+ | publisher= The University of Toronto Press
+ | year= 1990
+ | location= Toronto
+ | isbn= 0-8020-2725-3
+ | ref=Reference-Drake-1990}}
+* {{cite book
+ | title= The Controversy on the Comets of 1618
+ | author= Drake, Stillman, and O'Malley, C.D. (translators)
+ | publisher= University of Philadelphia Press
+ | year= 1960
+ | location= Philadelphia, PA
+ | ref=Reference-Drake&O'Malley-1960}}
+* {{cite book |last=Dugas |first=René |title=A History of Mechanics |origyear=1955 |publisher=Dover Publications |year=1988}}
+* {{cite book |last=Duhem |first=Pierre |title=Etudes sur Leonard de Vinci |year=1906-13}}
+* {{cite book |last=Duhem |first=Pierre |title=Le Systeme du Monde |year=1913}}
+* {{cite encyclopedia |last=Duhem |first=Pierre |title=History of Physics |encyclopedia=Catholic Encyclopedia}}
+* {{cite book |last=Einstein |first=Albert |year=1953 |chapter=Foreword |title=Dialogue Concerning the Two Chief World Systems |editor-last=Drake |editor-first=Stillman |publisher=University of California  Press |location=Berkeley, CA}}
+* {{cite book
+ | title= Ideas and Opinions
+ | last= Einstein
+ | first= Albert
+ | others= translated by Sonja Bargmann
+ | publisher= Crown Publishers
+ | year= 1954
+ | authorlink= Albert Einstein
+ | location= London
+ | isbn= 0-285-64724-5
+ | ref=Reference-Einstein-1954}}
+* {{cite book |last=Fantoli |first=Annibale |year=2003 |title=Galileo&nbsp;— For Copernicanism and the Church |edition=third English |publisher=Vatican Observatory Publications |ISBN=88-209-7427-4}}
+* {{cite book
+ | title= The Disputed Injunction and its Role in Galileo's Trial
+ | first= Annibale
+ | last= Fantoli
+ | others= In [[#Reference-McMullin-2005|McMullin (2005, pp.117–149)]]
+ | year= 2005
+ | ref=Reference-Fantoli-2005}}
+* {{Cite book | ref=Reference-Favaro-1890
+ | editor-last= Favaro
+ | editor-first= Antonio
+ | editor-link= :it:Antonio Favaro 
+ | date =  1890–1909; reprinted 1929–1939 and 1964–1966
+ | title= Le Opere di Galileo Galilei, Edizione Nazionale
+ | url = http://moro.imss.fi.it/lettura/LetturaWEB.DLL?AZIONE=CATALOGO 
+ | trans_title= The Works of Galileo Galilei, National Edition
+ | language=italian
+ | publication-place = [[Florence]]
+ | publisher= Barbera
+ | isbn= 88-09-20881-1
+}} A searchable online copy is available on the [http://www.imss.fi.it/istituto/index.html Institute and Museum of the History of Science], Florence, and a brief overview of ''Le Opere'' is available at  [http://www.finns-books.com/fgalileo.htm Finn's fine books], and [http://www.pacifier.com/~tpope/Additional_Info.htm#National_Edition here].
+* {{cite book |last=Feyerabend |first=Paul |title=Againat Method |publisher=Verso |year=1975}}
+* {{cite book
+ | title= Killing Time: The Autobiography of Paul Feyerabend
+ | author= Feyerabend, Paul
+ | authorlink= Paul Feyerabend
+ | publisher= University of Chicago Press
+ | year= 1995
+ | location= Chicago, MI
+ | isbn= 0-226-24531-4
+ | ref=Reference-Feyerabend-1995}}
+* {{cite book |last=Fillmore |first=Charles |origyear=1931 |edition=17th |date=July 2004 |year=2004 |title=Metaphysical Bible Dictionary |location=Unity Village, Missouri |publisher=Unity House |ISBN=0-87159-067-0}}
+* {{cite book
+ | title= Galileo on the world systems: a new abridged translation and guide
+ | last= Finocchiaro
+ | first= Maurice A.
+ | publisher= University of California Press
+ | year= 1997
+ | url= http://books.google.com.au/books?id=Li4eh7JIMtIC
+ | location= Berkeley and Los Angeles, CA
+ | isbn= 0-520-20548-0
+ | ref=Reference-Finocchiaro-1997}}
+* {{cite book
+ | title= The Galileo Affair: A Documentary History
+ | author= Finocchiaro, Maurice A.
+ | publisher= University of California Press
+ | year= 1989
+ | location= Berkeley, CA
+ | isbn= 0-520-06662-6
+ | ref=Reference-Finocchiaro-1989}}
+* {{Cite journal
+ | last = Finocchiaro
+ | first = Maurice A.
+ | title = Book Review—The Person of the Millennium: The Unique Impact of Galileo on World History
+ | journal =The Historian
+ | volume = 69
+ | issue = 3
+ | pages = 601–602
+ | date = Fall 2007
+ | doi = 10.1111/j.1540-6563.2007.00189_68.x
+ | ref = Reference-Finocchiaro-2007}}
+* {{cite book
+ | title= The Assayer
+ | author= Galilei, Galileo
+ | others =translated by [[Stillman Drake]]. In [[#Reference-Drake&O'Malley-1960|Drake & O'Malley (1960, pp.151–336)]]
+ | year= 1960
+ | origyear= 1623
+ | ref=Reference-Galileo-1960}}
+* {{Cite book |ref=Reference-Galileo-1954 |last=Galilei |first=Galileo |origyear=1638, 1914 |year=1954 |editor-last=Crew |editor-first=Henry |editor2-last=de Salvio |editor2-first=Alfonso |url=http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=753&Itemid=99999999 |title=Dialogues Concerning Two New Sciences |publisher=Dover Publications Inc. |location=New York, NY |ISBN=486-60099-8}}
+* Galilei, Galileo ''Galileo: Two New Sciences'' (Translation by [[Stillman Drake]] of Galileo's 1638 ''Discourses and mathematical demonstrations concerning two new sciences'') University of Wisconsin Press 1974 ISBN 0-299-06400-X
+* {{cite book
+ | title= Discourse on the Comets
+ | author= Galilei, Galileo, and Guiducci, Mario
+ | others =translated by [[Stillman Drake]]. In [[#Reference-Drake&O'Malley-1960|Drake & O'Malley (1960, pp.21–65)]]
+ | year= 1960
+ | origyear= 1619
+ | ref=Reference-Galileo&Guiducci-1960}}
+* {{cite book
+ | title=Galileo Galilei and the Roman Curia
+ | last=von Gebler
+ | first=Karl
+ | year=1879
+ | url=http://books.google.com/books?vid=OCLC02415342&id=FheRZAirWvQC
+ | location=London
+ | publisher=C.K. Paul & Co.
+ | ref=Reference-Gebler-1879}}
+* Geymonat, Ludovico (1965), ''Galileo Galilei, A biography and inquiry into his philosophy and science'', translation of the 1957 Italian edition, with notes and appendix by [[Stillman Drake]], McGraw-Hill
+* Grant, Edward ''Aristotle, Philoponus, Avempace, and Galileo's Pisan Dynamics'' Centaurus, 11, 1965-7
+* {{cite book
+ | title= On the Three Comets of the Year MDCXIII
+ | author= Grassi, Horatio
+ | others =translated by C.D. O'Malley. In [[#Reference-Drake&O'Malley-1960|Drake & O'Malley (1960, pp.3–19)]]
+ | year= 1960a
+ | origyear= 1619
+ | ref=Reference-Grassi-1960a}}
+* {{cite book
+ | title= The Astronomical and Philosophical Balance
+ | author= Grassi, Horatio
+ | others =translated by C.D. O'Malley. In [[#Reference-Drake&O'Malley-1960|Drake & O'Malley (1960, pp.67–132)]]
+ | year= 1960b
+ | origyear= 1619
+ | ref=Reference-Grassi-1960b}}
+* Grisar, Hartmann, S.J., Professor of Church history at the University of Innsbruck (1882). [http://books.google.com/books?vid=ISBN0790562294&id=aqMBAAAAQAAJ&printsec=titlepage&dq=%22hartmann+grisar%22 ''Historisch theologische Untersuchungen über die Urtheile Römischen Congegationen im Galileiprocess (Historico-theological Discussions concerning the Decisions of the Roman Congregations in the case of Galileo)''], Regensburg: Pustet.&nbsp;– [[Google Books]] ISBN 0-7905-6229-4. [http://isbndb.com/d/book/galileistudien.html (LCC# QB36&nbsp;– ''microfiche'')] [http://books.google.com/books?id=aqMBAAAAQAAJ&q=%22hartmann+grisar%22+%22Historisch+theologische%22&dq=%22hartmann+grisar%22+%22Historisch+theologische%22&ei=GOsIR_m6K4yKpwKygp3BDg&pgis=1 Reviewed here (1883), pp.211–213]
+*Hall, A. R. ''From Galileo to Newton'' 1963
+*Hall, A. R. ''Galileo and the Science of Motion'' in 'British Journal of History of Science', 2 1964-5
+*Hoskin, Michael (Ed) ''The Cambridge concise history of astronomy'' CUP 1999
+* {{cite book
+ | title= A Brief History of Time
+ | author= Hawking, Stephen
+ | publisher= Bantam Books
+ | year= 1988
+ | authorlink= Stephen Hawking
+ | location= New York, NY
+ | isbn= 0-553-34614-8
+ | ref=Reference-Hawking-1988}}
+* {{cite book
+ | title= Censorship of Astronomy in Italy after Galileo
+ | author= Heilbron, John L.
+ | others= In [[#Reference-McMullin-2005|McMullin (2005, pp.279–322)]]
+ | year= 2005
+ | ref=Reference-Heilbron-2005}}
+* Hellman, Hal (1988). ''Great Feuds in Science. Ten of the Liveliest Disputes Ever''. New York: Wiley
+* {{cite book
+ | title= The contemporaries of Tycho Brahe
+ | first= Richard A.
+ | last=Jarrel
+ | others= In [[#Reference-Taton&Wilson-1989|Taton and Wilson (1989, pp.22&ndash;32)]]
+ | year= 1989
+ | ref=Reference-jarrel-1989}}
+* {{cite book
+ | title= The Refusal to Accommodate. Jesuit Exegetes and the Copernican System
+ | author= Kelter, Irving A.
+ | others= In [[#Reference-McMullin-2005|McMullin (2005, pp.38–53)]]
+ | year= 2005
+ | ref=Reference-Kelter-2005}}
+*Humphreys, W. C. ''Galileo, Falling Bodies and Inclined Planes. An Attempt at Reconstructing Galileo's Discovery of the Law of Squares'' 'British Journal of History of Science' 1967
+* {{cite book
+ | title = [[The Sleepwalkers]]: A History of Man's Changing Vision of the Universe
+ | author= [[Arthur Koestler|Koestler, Arthur]]
+ | publisher= Penguin
+ | year= 1990
+ | origyear = 1959
+ | isbn= 0-14-019246-8
+ | ref= Reference-Koestler-1990}} Original edition published by Hutchinson (1959, London).
+* [[Koyré]], Alexandre ''A Documentary History of the Problem of Fall from Kepler to Newton'' Transaction of the American Philosophical Society, 1955
+* Koyré, Alexandre ''Galilean Studies'' Harvester Press 1978
+* Kuhn, T. ''The Copernican Revolution'' 1957
+* Kuhn, T. ''The Structure of Scientific Revolutions'' 1962
+* Lattis, James M. (1994). ''Between Copernicus and Galileo: Christopher Clavius and the Collapse of Ptolemaic Cosmology'', Chicago: the University of Chicago Press
+* {{cite book
+ | title= Galileo, Science and the Church
+ | author= Langford, Jerome K., O.P.
+ | publisher= St. Augustine's Press
+ | edition= third
+ | year= 1998
+ | origyear= 1966
+ | isbn= 1-890318-25-6
+ | ref=Reference-Langford-1998}}. Original edition by Desclee (New York, NY, 1966)
+* Lessl, Thomas, "[http://www.catholiceducation.org/articles/apologetics/ap0138.html The Galileo Legend]." ''New Oxford Review'', 27–33 (June 2000).
+* {{cite book
+ | title= From Eudoxus to Einstein—A History of Mathematical Astronomy
+ | author= Linton, Christopher M.
+ | publisher= Cambridge University Press
+ | year= 2004
+ | location= Cambridge
+ | isbn= 978-0-521-82750-8
+ | ref=Reference-Linton-2004}}
+* Losee, J. ''Drake, Galileo, and the Law of Inertia'' American Journal of Physics, 34, p.&nbsp;430-2 1966
+* {{cite book
+ | title= The Church and Galileo
+ | author= McMullin, Ernan, ed.
+ | publisher= University of Notre Dame Press
+ | year= 2005
+ | location= Notre Dame, IN
+ | isbn= 0-268-03483-4
+ | ref=Reference-McMullin-2005}}
+* {{cite book
+ | title= The Church's Ban on Copernicanism, 1616
+ | author= McMullin, Ernan,
+ | others= In [[#Reference-McMullin-2005|McMullin (2005, pp.150–190)]]
+ | year= 2005a
+ | ref=Reference-McMullin-2005a}}
+* Mach, Ernst. ''The Science of Mechanics'' 1893
+* Machamer, Peter (Ed) ''The Cambridge Companion to Galileo'' Cambridge University Press 1998
+* {{cite book
+ | title= Rhetoric & dialectic in the time of Galileo
+ | first1= Jean Dietz
+ | last1= Moss
+ | first2= Williamm
+ | last2= Wallace
+ | url= http://books.google.com.au/books?id=Lw50esHmgacC
+ | publisher= CUA Press
+ | year= 2003
+ | location= Washington D.C.
+ | isbn= 0-8132-1331-2
+ | ref=Reference-Moss&Wallace-2003}}
+* Naylor, Ronald H. (1990). "Galileo's Method of Analysis and Synthesis," ''Isis'', 81: 695–707
+* Newall, Paul (2004). [http://www.galilean-library.org/hps.html "The Galileo Affair"]
+* {{Cite journal
+ | last = Ondra
+ | first = Leos
+ | title = A New View of Mizar
+ | journal = Sky & Telescope
+ | pages = 72–75
+ | month= July
+ | year = 2004
+ | ref = Reference-Ondra-2004}}
+* {{cite book |last=Remmert |first=Volker R. |year=2005 |chapter=Galileo, God, and Mathematics |editor-last=Koetsier |editor-first=Teun |editor2-last=Bergmans |editor2-first=Luc |title=Mathematics and the Divine. A Historical Study |location=Amsterdam |publisher=Elsevier |pages=347–360}}
+* {{cite book
+ | title= Turning point for Europe? The Church in the Modern World—Assessment and Forecast
+ | author= Ratzinger, Joseph Cardinal
+ | authorlink= Pope Benedict XVI
+ | others= translated from the 1991 German edition by Brian McNeil
+ | publisher= Ignatius Press
+ | year= 1994
+ | location = San Francisco, CA
+ | isbn= 0-89870-461-8
+ | oclc= 60292876
+ | ref= Reference-Ratzinger-1994}}
+* {{cite book
+ | last=Reston
+ | first=James
+ | year=2000
+ | title=Galileo: A Life
+ | publisher=Beard Books
+ | isbn=1-893122-62-X
+ | ref=Reference-Reston-2000}}
+* {{cite book
+ | title= Galileo Galilei, his life and his works
+ | author= Seeger, Raymond J.
+ | publisher= Pergamon Press
+ | year= 1966
+ | location= Oxford
+ | ref= Reference-Seeger-1966}}
+* {{cite journal |ref=Reference-Settle-1961 |last=Settle |first=Thomas B. |year=1961 |title=An Experiment in the History of Science |journal=Science |volume=133 |pages=19–23 |doi=10.1126/science.133.3445.19}}
+* {{cite book |ref=Reference-Sharratt-1994 |last=Sharratt |first=Michael |year=1994 |title=Galileo: Decisive Innovator |publisher=Cambridge University Press |location=Cambridge |ISBN=0-521-56671-1}}
+* Shapere, Dudley ''Galileo, a Philosophical Study'' University of Chicago Press 1974
+* {{cite book
+ | title= Galileo in Rome: The Rise and Fall of a Troublesome Genius
+ | author= Shea, William R. and Artigas, Mario
+ | publisher= Oxford University Press
+ | year= 2003
+ | location= Oxford
+ | isbn= 0-19-516598-5
+ | ref= Reference-Shea&Artigas-2003}}
+* {{cite book
+ | title= Galileo's Daughter
+ | author= Sobel, Dava
+ | publisher= Fourth Estate
+ | year= 2000
+ | location= London
+ | origyear= 1999
+ | isbn= 1-85702-712-4
+ | ref= Reference-Sobel-2000}}
+* {{cite book
+ | title= Planetary astronomy from the Renaissance to the rise of astrophysics Part A: Tycho Brahe to Newton
+ | editor1-first= René
+ | editor1-last= Taton
+ | editor2-first= Curtis
+ | editor2-last= Wilson
+ | publisher= Cambridge University Press
+ | year= 1989
+ | location= Cambridge
+ | isbn= 0-521-24254-1
+ | ref=Reference-Taton&Wilson-1989}}
+* {{cite book
+ | title= Tycho Brahe
+ | first= Victor E.
+ | last=Thoren
+ | others= In [[#Reference-Taton&Wilson-1989|Taton and Wilson (1989, pp.3-21)]]
+ | year= 1989
+ | ref=Reference-Thoren-1989}}
+* {{cite book
+ | title= Galileo, telescopic astronomy, and the Copernican system
+ | first= Albert
+ | last=Van Helden
+ | others= In [[#Reference-Taton&Wilson-1989|Taton and Wilson (1989, pp.81-105)]]
+ | year= 1989
+ | ref=Reference-Vanhelden-1989}}
+* Wallace, William A. (1984) ''Galileo and His Sources: The Heritage of the Collegio Romano in Galileo's Science,'' (Princeton: Princeton Univ. Pr.), ISBN 0-691-08355-X
+* {{cite book
+ | title= Domingo de Soto and the Early Galileo
+ | last = Wallace
+ | first = William A.
+ | publisher= Ashgate Publishing
+ | year= 2004
+ | location= Aldershot
+ | isbn= 0-86078-964-0
+ | ref= Reference-Wallace-2004}}
+* {{cite book |last=White |first=Andrew Dickson |year=1898 |url=http://cscs.umich.edu/~crshalizi/White/ |title=A History of the Warfare of Science with Theology in Christendom |location=New York |publisher=D. Appleton and Company}}
+* {{cite book |last=White |first=Michael |year=2007 |title=Galileo: Antichrist: A Biography |publisher=Weidenfeld & Nicolson |location=London |ISBN=978-0-297-84868-4}}
+* {{cite journal |last=Wisan |first=Winifred Lovell |year=1984 |title=Galileo and the Process of Scientific Creation |journal=Isis |volume=75 |pages=269–286}}
+* {{cite journal |last=Zik |first=Yaakov |title=Science and Instruments: The telescope as a scientific instrument at the beginning of the seventeenth century |journal=Perspectives on Science |year=2001 |season=Fall |volume=9 |issue=3 |pages=259–284}}
+{{refend}}
+
+==External links==
+{{sisterlinks|s=Author:Galileo Galilei}}
+* [http://www.imss.fi.it/ History of Science Museum - Florence]
+* [http://genealogy.math.ndsu.nodak.edu/id.php?id=134975 Galileo's math genealogy]
+* [http://www-history.mcs.st-andrews.ac.uk/PictDisplay/Galileo.html Portraits of Galileo]
+* [http://asv.vatican.va/en/stud/download/CAV_21.htm Original documents on the trial of Galileo Galilei] in the [[Vatican Secret Archives]]
+* [http://web.archive.org/web/20071209222631/http://www.catholic.net/rcc/Periodicals/Issues/GalileoAffair.html Galileo Affair catholic.net]
+* [http://galileo.rice.edu/ The Galileo Project] at [[Rice University]]
+* [http://www.pbs.org/wgbh/nova/galileo/ PBS Nova Online: ''Galileo's Battle for the Heavens'']
+* [http://www.pbs.org/400years/ PBS documentary: ''400 Years of the Telescope'']
+* [http://plato.stanford.edu/entries/galileo/ Stanford Encyclopedia of Philosophy entry on Galileo]
+* [http://www.galilean-library.org/ The Galilean Library], educational site.
+* [http://www.catholicleague.org/research/galileo.html ''Galileo and the Catholic Church''] article at Catholic League
+*{{imdb title|id=0956139|title=Animated Hero Classics: Galileo (1997)}}
+* [http://www.mpiwg-berlin.mpg.de/Galileo_Prototype/MAIN.HTM Electronic representation of Galilei's notes on motion (MS. 72)]
+*{{worldcat id|id=lccn-n79-3254}}
+* Galileo's 1590 ''De Motu'' translation [http://echo.mpiwg-berlin.mpg.de/content/scientific_revolution/galileo]
+* [http://www.intratext.com/Catalogo/Autori/AUT158.HTM Works by Galileo Galilei]: text with concordances and frequencies.
+*[http://www.pacifier.com/~tpope/ CCD Images through a Galilean Telescope] Modern recreation of what Galileo might have seen
+* Galilei, Galileo. [http://www.rarebookroom.org/Control/galgal/index.html ''Le Operazioni del Compasso Geometrico et Militare''] 1610 Rome. From [[Rare Book Room]]. Scanned first edition.
+* Galilei, Galileo. [http://www.rarebookroom.org/Control/galsol/index.html ''Istoria e Dimostrazioni Intorno Alle Macchie Solar''] 1613 Rome. From [[Rare Book Room]]. Scanned first edition.
+*{{MacTutor Biography|id=Galileo}}
+*Linda Hall Library features a [http://contentdm.lindahall.org/u?/classics,5292 first edition of ''Sidereus Nuncius Magna''] as well as a [http://contentdm.lindahall.org/u?/classics,426 pirated edition from the same year], both fully digitized.
+*[http://www.youtube.com/watch?v=5C5_dOEyAfk&feature=related Feather & Hammer Drop on Moon]
+
+{{philosophy of science}}
+
+{{Persondata
+|NAME=Galilei, Galileo
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION=Italian [[mathematician]], [[physicist]], [[philosopher]] and [[astronomer]]
+|DATE OF BIRTH={{birth date|1564|2|15|df=y}}
+|PLACE OF BIRTH=[[Pisa]]
+|DATE OF DEATH={{death date|1642|1|8|df=y}}
+|PLACE OF DEATH=[[Arcetri]]
+}}
+{{DEFAULTSORT:Galileo Galilei}}
+[[Category:16th-century Italian people]]
+[[Category:17th-century astronomers|Galilei]]
+[[Category:17th-century Latin writers|Galilei]]
+[[Category:Blind people]]
+[[Category:Christian astrologers]]
+[[Category:Discoverers of moons]]
+[[Category:Experimental physicists]]
+[[Category:Ballistics experts]]
+[[Category:Galileo Galilei]]
+[[Category:Italian astrologers]]
+[[Category:Italian astronomers|Galilei]]
+[[Category:Italian mathematicians|Galilei]]
+[[Category:Italian physicists|Galilei]]
+[[Category:Italian Roman Catholics]]
+[[Category:People from Pisa]]
+[[Category:People from Tuscany]]
+[[Category:Philosophers of science]]
+[[Category:Religion and science]]
+[[Category:Scientific instrument makers]]
+[[Category:Theoretical physicists]]
+[[Category:University of Pisa alumni]]
+[[Category:1564 births]]
+[[Category:1642 deaths]]
+
+{{Link FA|als}}
+{{Link FA|bg}}
+{{Link FA|de}}
+{{Link FA|fi}}
+{{Link FA|it}}
+{{Link FA|ja}}
+{{Link FA|ru}}
+
+[[af:Galileo Galilei]]
+[[als:Galileo Galilei]]
+[[ar:جاليليو جاليلي]]
+[[an:Galileo Galilei]]
+[[ast:Galileo Galilei]]
+[[az:Qalileo Qaliley]]
+[[bn:গ্যালিলিও গ্যালিলি]]
+[[zh-min-nan:Galileo Galilei]]
+[[ba:Галилео Галилей]]
+[[be:Галілеа Галілей]]
+[[be-x-old:Ґалілеа Ґалілей]]
+[[bcl:Galileo Galilei]]
+[[bs:Galileo Galilej]]
+[[br:Galileo Galilei]]
+[[bg:Галилео Галилей]]
+[[ca:Galileo Galilei]]
+[[cs:Galileo Galilei]]
+[[cy:Galileo Galilei]]
+[[da:Galileo Galilei]]
+[[de:Galileo Galilei]]
+[[et:Galileo Galilei]]
+[[el:Γαλιλαίος Γαλιλέι]]
+[[es:Galileo Galilei]]
+[[eo:Galilejo]]
+[[eu:Galileo Galilei]]
+[[fa:گالیلئو گالیله]]
+[[hif:Galileo Galilei]]
+[[fr:Galilée (savant)]]
+[[ga:Galileo Galilei]]
+[[gd:Galileo Galilei]]
+[[gl:Galileo Galilei]]
+[[gan:伽利略]]
+[[ko:갈릴레오 갈릴레이]]
+[[hy:Գալիլեո Գալիլեյ]]
+[[hi:गैलीलियो गैलिली]]
+[[hr:Galileo Galilej]]
+[[io:Galileo Galilei]]
+[[id:Galileo Galilei]]
+[[ia:Galileo Galilei]]
+[[ie:Galileo Galilei]]
+[[is:Galíleó Galílei]]
+[[it:Galileo Galilei]]
+[[he:גלילאו גליליי]]
+[[jv:Galileo Galilei]]
+[[pam:Galileo Galilei]]
+[[ka:გალილეო გალილეი]]
+[[kk:Галилео Галилей]]
+[[sw:Galileo Galilei]]
+[[ht:Galileo Galilei]]
+[[ku:Galileo Galilei]]
+[[lad:Galileo Galilei]]
+[[la:Galilaeus Galilaei]]
+[[lv:Galileo Galilejs]]
+[[lb:Galileo Galilei]]
+[[lt:Galileo Galilei]]
+[[lij:Galileo Galilei]]
+[[lmo:Galileo Galilei]]
+[[hu:Galileo Galilei]]
+[[mk:Галилео Галилеј]]
+[[ml:ഗലീലിയോ ഗലീലി]]
+[[mt:Galileo Galilei]]
+[[mr:गॅलेलियो गॅलिली]]
+[[arz:جاليليو جاليلى]]
+[[ms:Galileo Galilei]]
+[[mn:Галилео Галилей]]
+[[nah:Galileo Galilei]]
+[[nl:Galileo Galilei]]
+[[ja:ガリレオ・ガリレイ]]
+[[pih:Galileo Galilei]]
+[[no:Galileo Galilei]]
+[[nn:Galileo Galilei]]
+[[nov:Galileo Galilei]]
+[[oc:Galileo Galilei]]
+[[uz:Galileo Galilei]]
+[[pag:Galileo Galilei]]
+[[pms:Galileo Galilei]]
+[[nds:Galileo Galilei]]
+[[pl:Galileusz]]
+[[pt:Galileu Galilei]]
+[[kaa:Galileo Galilei]]
+[[ro:Galileo Galilei]]
+[[qu:Galileo Galilei]]
+[[ru:Галилей, Галилео]]
+[[sah:Галилео Галилей]]
+[[sc:Galileo Galilei]]
+[[sco:Galileo Galilei]]
+[[sq:Galileo Galilei]]
+[[scn:Galileu Galilei]]
+[[simple:Galileo Galilei]]
+[[sk:Galileo Galilei]]
+[[sl:Galileo Galilei]]
+[[ckb:گالیلێو گالیلەی]]
+[[sr:Галилео Галилеј]]
+[[sh:Galileo Galilej]]
+[[fi:Galileo Galilei]]
+[[sv:Galileo Galilei]]
+[[tl:Galileo Galilei]]
+[[ta:கலீலியோ கலிலி]]
+[[kab:Galileo Galilei]]
+[[tt:Галилео Галилей]]
+[[te:గెలీలియో గెలీలి]]
+[[th:กาลิเลโอ กาลิเลอี]]
+[[tr:Galileo Galilei]]
+[[uk:Галілео Галілей]]
+[[ur:گلیلیو]]
+[[vi:Galileo Galilei]]
+[[vo:Galileo Galilei]]
+[[fiu-vro:Galilei Galileo]]
+[[war:Galileo Galilei]]
+[[yi:גאלילעא גאליליי]]
+[[zh-yue:伽利略]]
+[[diq:Galileo Galilei]]
+[[bat-smg:Galėlies Galėliejos]]
+[[zh:伽利略·伽利莱]]

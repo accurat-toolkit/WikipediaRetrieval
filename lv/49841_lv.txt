@@ -1,0 +1,42 @@
+{{Datorspēle
+|nosaukums    = Driver: Parallel Lines
+|bilde        = [[Attēls:Driver par l.jpg|200px]]
+|apraksts     =
+|developer    = [[Reflections Interactive]]
+|publisher    = [[Atari]] ([[PS2]], [[Xbox]])<br />[[Ubisoft]] ([[Wii]], [[PC]])
+|distributor  = [[Electronic Arts]]
+|designer     = 
+|series       = 
+|engine       = 
+|version      = 
+|release      = [[PlayStation 2|PS2]], [[Xbox]]<br />{{flaga|Eiropas Savienība}} {{dat|2006|3|17}}<br />[[PC]], [[Wii]]<br />{{flaga|Eiropas Savienība}} {{dat|2007|6|28}}
+|genre        = [[braukšanas spēle|braukšnas]], [[šaušanas spēle|šaušanas]]
+|modes        = Viena spēlētāja
+|ratings      ={{flaga|Eiropas Savienība}} PEGI 18+
+|platforms    = [[PlayStation 2]], [[Xbox]], [[PC]], [[Wii]]
+|media        = 
+|requirements = 
+|input        =  
+}}
+'''Driver: Parallel Lines''' ir [[Driver]] sērijas jaunākā daļa. Spēli ir veidojusi studija [[Reflections Interactive]]. Spēle paredzēta spēlētājiem no 18 gadu vecuma. Spēlē ir pieejami 14 dažādi ieroču, spēles darbība notiek [[Ņujorka (pilsēta)|Ņujorkā]]. Spēle ir balstīta uz misijām, kuras veicot, iespējams pelnīt naudu.
+
+{{datorspēle-aizmetnis}}
+
+[[Kategorija:PlayStation 2 spēles]]
+[[Kategorija:Xbox spēles]]
+[[Kategorija:PC spēles]]
+[[Kategorija:Wii spēles]]
+
+[[de:Driver (Spieleserie)#Driver: Parallel Lines]]
+[[en:Driver: Parallel Lines]]
+[[fi:Driver: Parallel Lines]]
+[[fr:Driver: Parallel Lines]]
+[[it:Driver: Parallel Lines]]
+[[ja:DRIVER PARALLEL LINES]]
+[[lt:Driver: Parallel Lines]]
+[[no:Driver: Parallel Lines]]
+[[pl:Driver: Parallel Lines]]
+[[pt:Driver: Parallel Lines]]
+[[ru:Driver: Parallel Lines]]
+[[sv:Driver: Parallel Lines]]
+[[tr:Driver: Parallel Lines]]

@@ -1,0 +1,11 @@
+'''Latvijas Universitātes Stadions''' is a multi-use [[stadium]] in [[Riga]], [[Latvia]].  It is currently used mostly for [[football (soccer)|football]] and [[Rugby football|rugby]] matches and is the home stadium of [[FK Rīga]].  The stadium holds 5,000 people.
+
+{{Latvia-sports-venue-stub}}
+
+{{coord|56.961479|24.1436899|type:landmark|display=title}}
+
+[[Category:Football venues in Latvia]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[cs:Latvijas Universitates Stadions]]
+[[lv:Latvijas Universitātes stadions]]

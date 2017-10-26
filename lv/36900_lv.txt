@@ -1,0 +1,58 @@
+{{Infobox Settlement
+| name = Skariševa
+| image_skyline = 
+| imagesize = 250px
+| image_caption = 
+| image_flag = POL Skaryszew flag.svg
+| image_shield = POL Skaryszew COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Mazovijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Radomas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 	1264-1870, 1922
+| area_total_km2 = 27.49
+| population_as_of = 2006
+| population_total = 3989
+| population_density_km2 = auto
+| timezone = [[Central European Time|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 51 
+| latm = 18 
+| lats = 32
+| latNS = N 
+| longd = 21 
+| longm = 14
+| longs = 55
+| longEW = E
+| elevation_m = 
+| website = http://www.skaryszew.pl/
+}}
+
+'''Skariševa''' ({{val|pl|Skaryszew}}) - pilsēta [[Polija|Polijā]], [[Mazovijas vojevodiste|Mazovijas vojevodistē]] uz dienvidaustrumiem no [[Radoma]]s. 
+
+{{Polija-aizmetnis}}
+
+{{commonscat|Skaryszew|Skariševa}}
+
+[[Kategorija:Mazovijas vojevodistes pilsētas|Skariszeva]]
+
+{{Link FA|pl}}
+
+[[de:Skaryszew]]
+[[en:Skaryszew]]
+[[eo:Skaryszew]]
+[[jv:Skaryszew]]
+[[nl:Skaryszew]]
+[[pl:Skaryszew]]
+[[pt:Skaryszew]]
+[[ro:Skaryszew]]
+[[ru:Скарышев]]
+[[sk:Skaryszew]]
+[[uk:Скаришев]]

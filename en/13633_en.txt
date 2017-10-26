@@ -1,0 +1,442 @@
+{{otheruses4|the Greek poet Homer and the works attributed to him|other meanings|Homer (disambiguation)}}
+{{redirect|Homeric}}
+
+{{sprotect2}}
+{{Homer infobox}}
+
+'''Homer''' ([[Ancient Greek]]: {{polytonic|[[wikt:Ὅμηρος#Ancient_Greek|Ὅμηρος]]}}, ''Hómēros'') is a [[legendary]] ancient Greek [[Epic poetry|epic]] [[poet]], traditionally said to be the author of the epic poems the ''[[Iliad]]'' and the ''[[Odyssey]]''. The ancient Greeks generally believed that Homer was a historical individual, but modern scholars are skeptical: no reliable biographical information has been handed down from [[classical antiquity]],<ref> G. S. Kirk's comment that "Antiquity knew nothing definite about the life and personality of Homer" represents the general consensus (Kirk, ''The Iliad: a Commentary'' (Cambridge 1985), v. 1).</ref> and the poems themselves manifestly represent the culmination of many centuries of oral story-telling and a well-developed "formulaic" system of poetic composition. According to [[Martin Litchfield West|Martin West]], "Homer" is "not the name of a historical poet, but a [[pen name|fictitious or constructed name]]."<ref>{{cite journal|author= West, Martin|title=The Invention of Homer|journal=Classical Quarterly|volume=49|date=1999|issue=364}}</ref>  
+
+The date of Homer's existence was controversial in antiquity and is no less so today. [[Herodotus]] said that Homer lived 400 years before his own time, which would place him at around 850 BC;<ref>[[Herodotus]] 2.53.</ref> but other ancient sources gave dates much closer to the supposed time of the [[Trojan War]].<ref>{{cite journal|author= Graziosi, Barbara|title=The Invention of Homer|location=[[Cambridge]]|date=2002|pages=98–101}}</ref> The date of the Trojan War was given as 1194–1184 BC by [[Eratosthenes]], who strove to establish a scientific chronology of events and this date is gaining support because of recent archaeological research.{{citation needed|date=March 2009}}
+
+For modern scholarship, "the date of Homer" refers to the date of the poems' conception as much as to the lifetime of an individual. The scholarly consensus is that "the ''Iliad'' and the ''Odyssey'' date from the extreme end of the 9th century BC or from the 8th, the ''Iliad'' being anterior to the ''Odyssey'', perhaps by some decades",<ref>{{cite book|author= Vidal-Naquet, Pierre|title=Le monde d'Homère|publisher=Perrin|date= 2000|page=19}}</ref> i.e., somewhat earlier than [[Hesiod]],<ref>{{cite book|author= M. L. West|title=Hesiod's Theogony|publisher=[[Oxford University Press]]|location=[[Oxford]]|date= 1966|pages=40, 46}}</ref> and that the ''Iliad'' is the oldest work of western literature. Over the past few decades, some scholars have argued for a 7th-century date. Those who believe that the Homeric poems developed gradually over a long period of time, however, generally give a later date for the poems: according to [[Gregory Nagy]], they became fixed texts in only the 6th century.<ref>{{cite journal|author= [[Gregory Nagy|Nagy, Gregory]]|title=Homeric Poetry and Problems of Multiformity: The "Panathenaic Bottleneck|publisher=[[Classical Philology (journal)]]|volume=96|date=2001|pages=109–119}}</ref>
+
+[[Alfred Heubeck]] states that the formative influence of the works of Homer in shaping and influencing the whole development of Greek culture was recognised by many Greeks themselves, who considered him to be their instructor.<ref>{{cite book| author= Heubeck, Alfred|coauthors= West, Stephanie; Hainsworth, J. B.|title=A Commentary on Homer's Odyssey|publisher=[[Oxford University Press]]|location= [[Oxford]]|date= 1988|page=3}}</ref>
+
+==Life and legends==
+[[Image:William-Adolphe Bouguereau (1825-1905) - Homer and his Guide (1874).jpg|thumb|250px|Homer and His Guide, by [[William-Adolphe Bouguereau]] (1825–1905). The scene portrays Homer on [[Mount Ida]], beset by dogs and guided by the goatherder, Glaucus. (The tale is told in [[Pseudo-Herodotus]]).]]
+Although "Homer" is a Greek name, attested in Aeolic-speaking areas,<ref>{{cite book|title=Homer: The Iliad|author= Silk, Michael|publisher=[[Cambridge University Press]]|location=[[Cambridge]]|date= 1987|page=5}}</ref> nothing definite is known of him; yet rich traditions grew up, or were conserved, purporting to give details of his birthplace and background. Many of them were purely fantastical: the satirist [[Lucian]], in his fabulous [[True History]], makes him out to be a [[Babylonia]]n called Tigranes, who assumed the name Homer only when taken "hostage" (''homeros'') by the Greeks.<ref>Lucian, ''Verae Historiae'' 2.20, cited and tr.Barbara Graziosi‚''Inventing Homer:The Early Reception of Epic'',’ Cambridge University Press, 2002 p.127</ref> When the Emperor [[Hadrian]] asked the [[Oracle]] at [[Delphi]] who Homer really was, the [[Pythia]] proclaimed that he was [[Ithaca]]n, the son of [[Epikaste]] and [[Telemachus]], from the ''[[Odyssey]]''.<ref>{{cite book|first=Herbert W.|last=Parke|title=Greek Oracles|date=1967|pages=136–137 citing the ''[[Certamen]]'', 12}}</ref> These stories proliferated and were incorporated into a number<ref>There were seven in addition to an account of a bardic competition between Homer and [[Hesiod]].F.Stoessl,'Homeros'in ''Der Kleine Pauly: Lexikon der Antike in fünf Bänden'', Deutscher Taschenbuch Verlag, München 1979, Bd.2, p.1202</ref> of ''Lives of Homer'' compiled from the Alexandrian period onwards.<ref name=Kirk190>{{cite book|first=G.S.|last=Kirk|authorlink=Geoffrey Kirk|title=Homer and the Epic: A Shortened Version of the Songs of Homer|publisher=Cambridge University Press|date=1965|location=London|pages=190}}</ref> The most common version has Homer born in the [[Ionia]]n region of [[Asia Minor]], at [[Smyrna]], or on the island of [[Chios]], and dying on the [[Cyclades|Cycladic]] island of [[Ios Island|Ios]].<ref name=Kirk190/><ref>Homêreôn was one of the names for a month in the calendar of Ios. [[Henry Liddell|H.G. Liddell]], [[Robert Scott (philologist)|R. Scott]], ''A Greek-English Lexicon'', rev.ed.Sir [[Henry Stuart-Jones]], Clarendon Press, Oxford, 1968 ''ad loc''</ref> A connection with Smyrna seems to be alluded to in a legend that his original name was "Melesigenes" ("born of [[River Meles|Meles]]", a river which flowed by that city), and of the nymph Kretheis. Internal evidence from the poems gives some support to this connection: familiarity with the topography of this area of Asia Minor's littoral obtrudes in place-names and details, and similes evocative of local scenery: the meadow birds at the mouth of the [[Cayster River|Caystros]] ([[Iliad]] 2.459ff.), a storm in the [[Icarus|Icarian]] sea ([[Iliad]] 2.144ff.), and wind-lore ([[Iliad]] 2.394ff: 4.422ff: 9.5),<ref>Kirk, op.cit.pp.191f.; G.S.Kirk,''The Songs of Homer,'' Cambridge University Press, 1962 pp.272ff.)</ref> or that women of either Maeonia or Caria stain ivory with scarlet ([[Iliad]] 4.142).<ref>Barry B. Powell, ‘Did Homer sing at Lefkandi?’, Electronic Antiquity, July 1993, Vol. 1, No. 2.</ref>
+
+The association with Chios dates back at least to [[Semonides]] of [[Amorgos]] who cited a famous line in the ''Iliad'' (6.146) as by "the man of Chios". Some kind of [[eponym]]ous [[bard]]ic [[guild]], known as the [[Homeridae]] (sons of Homer), or ''Homeristae'' ('Homerizers')<ref>[[Gilbert Murray]], ''The Rise of the Greek Epic,'' p.307</ref> appears to have existed there, variously tracing descent from an imaginary ancestor of that name,<ref>"The probability is that 'Homer' was not the name of a historical Greek poet but the imaginary ancestor of the Homeridai; such guild-names in -''idai'' and -''adai'' are not normally based on the name of an historical person". M.L. West, ''The East Face of Helicon: West Asiatic Elements in Greek Poetry and Myth,'' Clarendon Press, Oxford, 1997 p. 622. West hazards a conjectural [[Phoenician alphabet|Phoenician]] prototype for Homer's name, "''*benê ômerîm''" ("sons of speakers"), ''id est'' professional tale-tellers.</ref> or vaunting their special function as [[rhapsode]]s or "lay-stitchers" specialising in the recitation of Homeric poetry.
+
+The poet's name is homophonous with "''homêros''", meaning, generally, "hostage" (or "surety"), long understood as "he who accompanies; he who is forced to follow", or, in some dialects, "blind".<ref>P. Chantraine, ''dictionnaire étymologique de la langue grecque,'' Klincksieck, Paris, 1968, vol.2 (3-4) p.797 ''ad loc.''</ref> The assonance itself generated many tales relating the person to the functions of a hostage or of a blind man. In regard to the latter, traditions holding that he was [[blindness|blind]] may have arisen from the meaning of the word both in [[Ionic Greek|Ionic]], where the verbal form "''hómêreuô''" has the specialized meaning of "guide the blind",<ref>H.G.Liddell, R.Scott, ''A Greek-English Lexicon'', rev. ed. Sir Henry Stuart-Jones, Clarendon Press, Oxford, 1968 ''ad loc''.</ref> and in the [[Aeolic Greek|Aeolian]] dialect of [[Cyme]], where ''homêros'' was synonymous with standard Greek ''tuphlós'', meaning 'blind'.<ref>Pseudo-Herodotus, ''Vita Homeri''1.3 in Thomas W. Allen, ''Homeri Opera'', Tomus V,(1912) 1946 p.194. Cf. [[Lycophron]], ''Alexandra,'' l.422</ref> The characterization of Homer as a blind [[bard]] goes back to some verses in the [[Delos|Delian]] ''Hymn to [[Apollo]],'' the third of the ''[[Homeric Hymns]],''<ref>Homeric Hymns 3:172-3</ref> verses later cited to support this notion by [[Thucydides]].<ref>[[Thucidides]], ''[[The Peloponnesian War]]'' 3:104</ref> The [[Cume]]an historian [[Ephorus]] held the same view, and the idea gained support in antiquity on the strength of a false [[etymology]] deriving his name from ''ho mê horôn'' (ὁ μὴ ὁρών: "he who does not see"). Critics have long taken as self-referential<ref>Barbara Graziosi,''Inventing Homer: The Early Reception of Epic'',’ Cambridge University Press, 2002 p.133</ref> a passage in the ''Odyssey'' describing a blind bard, [[Demodocus (Odyssey character)|Demodocus]], in the court of the [[Phaeacia]]n king, who recounts stories of Troy to the shipwrecked [[Odysseus]].<ref>Odyssey, 8:64ff.</ref> 
+
+Many scholars take the name of the poet to be indicative of a generic function. Gregory Nagy takes it to mean "he who fits (the Song) together".<ref> Gregory Nagy, ''The Best of the Achaeans: Concepts of the Hero in Archaic Greek Poetry,'' [[Johns Hopkins University Press]], [[Baltimore]] and [[London]], 1979 pp296-300</ref> "''Hómêréô''", another related verb, besides signifying "meet", can mean "(sing) in accord/tune".<ref>M.L. West (ed.), ''Hesiod Theogony'',Clarendon Press, Oxford 1966 on line 39, p.170</ref> Some argue that "Homer" may have meant "he who puts the voice in tune" with dancing.<ref>Gilbert Murray, ''The Rise of the Greek Epic'', ibid., p.</ref><ref> Filippo Càssola (ed.) ''Inni Omerici'', Mondadori, [[Milan]], 1975 p. xxxiii</ref> Marcello Durante links "Homeros" to an epithet of Zeus as "god of the assemblies" and argues that behind the name lies the echo of an archaic word for "reunion", similar to the later [[Panegyris]], denoting a formal assembly of competing minstrels.<ref>Marcello Durante, 'II nome di Omero', in ''Rendiconti Accademia Lincei'', XII, 1957 pp. 94-111</ref><ref>Marcello Durante, ''Sulla preistoria della tradizione poetica greca'',Edizioni dell'Ateneo, Rome 1971 2 vols. vol. 2 pp. 185-204, esp. pp. 194ff.</ref>
+
+The ''Ancient Lives'' depict Homer as a wandering minstrel, much like [[Thamyris]]<ref>[[Iliad]], 2.595</ref> or [[Hesiod]], who walked as far as [[Chalkis]] to sing at the funeral games of [[Amphidamas]].<ref> [[Hesiod]], [[Works and Days]], 654-5; [[Martin P. Nilsson]], ''Homer & Mycenae''(12933) [[University of Pennsylvania Press]], 1972 pp. 207ff.</ref> We are given the image of a "blind, begging singer who hangs around with little people: shoemakers, fisherman, potters, sailors, elderly men in the gathering places of harbour towns".<ref>Joachim Latacz, ''Homer: His Art and His World,'' tr. James P. Holoka, [[University of Michigan Press]], [[Ann Arbor, Michigan|Ann Arbor]] 1996, p. 29</ref> The poems themselves give evidence of singers at the courts of the nobility. Scholars are divided as to which category, if any, the court singer or the wandering minstrel, the historic "Homer" belonged.<ref>Barbara Graziosi, ibid. esp. p.134</ref>
+
+{{Details3|[[Ancient accounts of Homer]], [[Life of Homer (Pseudo-Herodotus)]]}}
+
+==Works attributed to Homer==
+{{Homer}}
+
+The Greeks of the sixth and early fifth centuries understood by "Homer", generally, "the whole body of [[Epic poetry|heroic tradition]] as embodied in [[hexameter]] verse".<ref>Gilbert Murray, ''The Rise of the Greek Epic', 4th ed. ibid. p. 93</ref> Thus, in addition to the ''[[Iliad]]'' and the ''[[Odyssey]],'' there are "exceptional" epics which organize their respective themes on a "massive scale".<ref>William G. Thalman, ''Conventions of Form and Thought in Early Greek Greek Epic Poetry'', John Hopkins University Press, Baltimore and London, 1984 p. 119</ref> Many other works were credited to Homer in antiquity, including the entire [[Epic Cycle]]. The genre included further poems on the [[Trojan War]], such as the ''[[Little Iliad]]'', the ''[[Nostoi]]'', the ''[[Cypria]],'' and the ''[[Epigoni]]'', as well as the [[Thebes, Greece|Theban]] poems about [[Oedipus]] and his sons. Other works, such as the corpus of ''[[Homeric Hymns]]'', the comic mini-epic ''[[Batrachomyomachia]]'' ("The Frog-Mouse War"), and the ''[[Margites]]'' were also attributed to him, but this is now believed to be unlikely. Two other poems, the ''[[Capture of Oechalia]]'' and the ''[[Phocais]]'' were also assigned Homeric authorship, but the question of the identities of the authors of these various texts is even more problematic than that of the authorship of the two major epics.
+
+==Problems of authorship==
+{{details|Homeric Question}}
+
+The idea that Homer was responsible for just the two outstanding epics, the ''[[Iliad]]'' and the ''[[Odyssey]]'', did not win consensus until 350 BC.<ref>Gilbert Murray: ''The Rise of the Greek Epic'', 4th ed. 1934, Oxford University Press reprint 1967 p. 299</ref> While many find it unlikely that both epics were composed by the same person, others argue that the stylistic similarities are too consistent to support the theory of multiple authorship. One view which attempts to bridge the differences holds that the ''Iliad'' was composed by "Homer" in his maturity, while the ''Odyssey'' was a work of his old age. The ''[[Batrachomyomachia]]'', ''[[Homeric Hymns]]'' and cyclic epics are generally agreed to be later than the ''Iliad'' and the ''Odyssey''.
+
+Most scholars agree that the ''Iliad'' and ''Odyssey'' underwent a process of standardisation and refinement out of older material beginning in the 8th century BC. An important role in this standardisation appears to have been played by the [[Athens|Athenian]] [[tyrant]] [[Hipparchus (son of Pisistratus)|Hipparchus]], who reformed the recitation of Homeric poetry at the [[Panathenaea|Panathenaic festival]]. Many [[classicist]]s hold that this reform must have involved the production of a [[canon (fiction)|canonical]] written text.
+
+Other scholars still support the idea that Homer was a real person. Since nothing is known about the life of this Homer, the common joke—also recycled in disputes about the [[Shakespeare authorship question|authorship of plays]] ascribed to [[Shakespeare]]-has it that the poems "were not written by Homer, but by another man of the same name."<ref>http://psychclassics.yorku.ca/Baldwin/History/preface.htm#f4</ref><ref>http://www.worldwideschool.org/library/books/lit/literarystudies/LiteraryBlunders/chap7.html</ref> [[Samuel Butler (1835-1902)|Samuel Butler]] argued that a young Sicilian woman wrote the ''Odyssey'' (but not the ''Iliad''), an idea further pursued by [[Robert Graves]] in his novel ''[[Homer's Daughter]]'' and [[Andrew Dalby]] in ''[[Rediscovering Homer]]''.<ref>[http://chs.harvard.ed/chs/files/classics_issue3_ebbott.pdf Mary Ebbott "Butler's Authoress of the Odyssey: gendered readings of Homer, then and now," (Classics@: Issue 3).]</ref>
+
+Independent of the question of single authorship is the near-universal agreement, after the work of [[Milman Parry]],<ref name =Parry>Adam Parry (ed.) ''The Making of Homeric Verse: The Collected Papers of Milman Parry'', Clarendon Press, Oxford 1987.</ref> that the Homeric poems are dependent on an [[oral tradition]], a generations-old technique that was the collective inheritance of many singer-poets (''[[Aoidos|aoidoi]]''). An analysis of the structure and vocabulary of the ''Iliad'' and ''Odyssey'' shows that the poems contain many formulaic phrases typical of extempore epic traditions; even entire verses are at times repeated. Parry and his student [[Albert Lord]] pointed out that such elaborate oral tradition, foreign to today's literate cultures, is typical of [[epic poetry]] in a predominantly oral cultural milieu, the key words being "oral" and "traditional". Parry started with "traditional": the repetitive chunks of language, he said, were inherited by the singer-poet from his predecessors, and were useful to him in composition. Parry called these repetitive chunks "formulas".
+
+Exactly when these poems would have taken on a fixed written form is subject to debate. The traditional solution is the "transcription hypothesis", wherein a non-literate "Homer" dictates his poem to a literate scribe between the 8th and 6th centuries. The [[Greek alphabet]] was introduced in the early 8th century, so it is possible that Homer himself was of the first generation of authors who were also literate. The classicist [[Barry B. Powell]] suggests that the Greek Alphabet was invented c. 800 BC by one man, probably Homer, in order to write down oral epic poetry <ref>"Signs of Meaning" ''Science'' '''324''' p 38 3-April-2009 reviewing Powell's ''Writing'' and citing Powell's ''Homer and the Origin of the Greek Alphabet'' CUP 1991</ref>. More radical Homerists like Gregory Nagy contend that a canonical text of the Homeric poems as "scripture" did not exist until the [[Hellenistic]] period (3rd to 1st century BCE).
+
+==Homeric studies==
+{{main|Homeric scholarship}}
+
+The study of Homer is one of the oldest topics in scholarship, dating back to antiquity. The aims and achievements of Homeric studies have changed over the course of the millennia. In the last few centuries, they have revolved around the process by which the Homeric poems came into existence and were transmitted over time to us—first orally and later in writing.
+
+Some of the main trends in modern Homeric scholarship have been—in the 19th and early 20th centuries-''Analysis'' and ''Unitarianism'' (see [[Homeric Question]]), schools of thought which emphasized on the one hand the inconsistencies in, and on the other the artistic unity of, Homer; and in the 20th century and later ''Oral Theory'', the study of the mechanisms and effects of oral transmission, and ''Neoanalysis'' -- the study of the relationship between Homer and other early epic material.
+
+==Homeric dialect==
+{{main|Homeric Greek}}
+The language used by Homer is an archaic version of [[Ionic Greek]], with admixtures from certain other dialects, such as [[Aeolic Greek]]. It later served as the basis of Epic Greek, the language of [[epic poetry]], typically in [[dactylic hexameter]].
+
+==Homeric style==
+[[Aristotle]] remarks in his ''[[Poetics (Aristotle)|Poetics]]'' that Homer was unique among the poets of his time, focusing on a single unified theme or action in the epic cycle.<ref>[[Aristotle]], ''[[Poetics]],'' 1451a 16-29. Cf. [[Aristotle]], "On the Art of Poetry" in T.S. Dorsch (tr.), ''[[Aristotle]], [[Horace]], [[Longinus]]: Classical Literary Criticism'', Penguin, Harmondsworth, 1965 ch. 8 pp. 42-43</ref>
+
+The cardinal qualities of the style of Homer are well articulated by [[Matthew Arnold]]:<blockquote>[T]he translator of Homer should above all be penetrated by a sense of four qualities of his author:—that he is eminently rapid; that he is eminently plain and direct, both in the evolution of his thought and in the expression of it, that is, both in his syntax and in his words; that he is eminently plain and direct in the substance of his thought, that is, in his matter and ideas; and finally, that he is eminently noble.<ref>Matthew Arnold, 'On Translating Homer' (Oxford Lecture, 1861) in [[Lionel Trilling]] (ed.) ''The Portable Matthew Arnold,''(1949) Viking Press, New York 1956 pp. 204-228, p. 211</ref></blockquote>
+
+The peculiar rapidity of Homer is due in great measure to his use of [[hexameter]] verse. It is characteristic of early literature that the evolution of the thought, or the grammatical form of the sentence, is guided by the structure of the verse; and the correspondence which consequently obtains between the rhythm and the syntax—the thought being given out in lengths, as it were, and these again divided by tolerably uniform pauses—produces a swift flowing movement such as is rarely found when periods are constructed without direct reference to the metre. That Homer possesses this rapidity without falling into the corresponding faults, that is, without becoming either fluctuant or monotonous, is perhaps the best proof of his unequalled poetic skill. The plainness and directness of both thought and expression which characterise him were doubtless qualities of his age, but the author of the ''[[Iliad]]'' (similar to [[Voltaire]], to whom Arnold happily compares him) must have possessed this gift in a surpassing degree. The ''[[Odyssey]]'' is in this respect perceptibly below the level of the ''Iliad''.
+
+[[Image:Homer Statue Munich.jpg|thumb|left|Statue of Homer outside the Bavarian State Library in [[Munich]].]]
+
+Rapidity or ease of movement, plainness of expression, and plainness of thought are not distinguishing qualities of the great epic poets [[Virgil]], [[Dante]],<ref>Dante has Virgil introduce Homer, with a sword in hand, as ''poeta sovrano'' (sovereign poet), walking ahead of [[Horace]], [[Ovid]] and [[Marcus Annaeus Lucanus|Lucan]]. Cf. ''[[Divine Comedy#Inferno|Inferno]]'' IV, 88</ref> and [[John Milton|Milton]]. On the contrary, they belong rather to the humbler epico-lyrical school for which Homer has been so often claimed. The proof that Homer does not belong to that school—and that his [[poetry]] is not in any true sense [[ballad]] poetry—is furnished by the higher artistic structure of his [[poems]] and, as regards style, by the fourth of the qualities distinguished by Arnold: the quality of nobleness. It is his noble and powerful style, sustained through every change of idea and subject, that finally separates Homer from all forms of ballad-poetry and popular [[Epic poetry|epic]].
+
+Like the French epics, such as the ''[[Chanson de Roland]],'' Homeric poetry is indigenous and, by the ease of movement and its resultant simplicity, distinguishable from the works of Dante, Milton and Virgil. It is also distinguished from the works of these artists by the comparative absence of underlying motives or sentiment. In Virgil's poetry, a sense of the greatness of [[Roman Empire|Rome]] and [[Italy]] is the leading motive of a passionate rhetoric, partly veiled by the considered delicacy of his language. Dante and Milton are still more faithful exponents of the [[religion]] and [[politics]] of their time. Even the French [[epics]] display sentiments of fear and hatred of the [[Saracens]]; but, in Homer's works, the interest is purely dramatic. There is no strong antipathy of race or religion; the war turns on no political events; the capture of [[Troy]] lies outside the range of the ''Iliad''; and even the protagonists are not comparable to the chief national heroes of Greece. So far as can be seen, the chief interest in Homer's works is that of human feeling and emotion, and of [[drama]]; indeed, his works are often referred to as "dramas".
+
+==History and the Iliad==
+{{main|Historicity of the Iliad}}
+[[Image:Homeric Greece.svg|thumb|Greece according to the ''Iliad'']] 
+
+The excavations of [[Heinrich Schliemann]] at [[Hisarlik]] in the late 19th century provided initial evidence to scholars that there was a historical basis for the [[Trojan War]]. Research into oral epics in [[Serbo-Croatian]] and [[Turkic languages]], pioneered by the aforementioned Parry and Lord, began convincing scholars that long poems could be preserved with consistency by oral cultures until they are written down.<ref name =Parry/> The [[decipherment]] of [[Linear B]] in the 1950s by [[Michael Ventris]] (and others) convinced many of a linguistic continuity between 13th century BC [[Mycenae]]an writings and the poems attributed to Homer.
+
+It is probable, therefore, that the story of the [[Trojan War]] as reflected in the Homeric poems derives from a tradition of epic poetry founded on a war which actually took place. It is crucial, however, not to underestimate the creative and transforming power of subsequent tradition: for instance, [[Achilles]], the most important character of the ''[[Iliad]],'' is strongly associated with southern [[Thessaly]], but his legendary figure is interwoven into a tale of war whose kings were from the [[Peloponnese]]. Tribal wanderings were frequent, and far-flung, ranging over much of Greece and the Eastern Mediterranean.<ref>Gilbert Murray, ''The Rise of the Greek Epic,'' Clarendon Press, Oxford 1907, pp. 182f., slightly expanded in the 4th. ed.(1934) 1960 pp. 206ff.</ref> The epic weaves brilliantly the ''{{lang|la|disiecta membra}}'' (scattered remains) of these distinct tribal narratives, exchanged among clan bards, into a monumental tale in which Greeks join collectively to do battle on the distant plains of Troy.
+
+==Hero cult==
+[[Image:Apotheosis Homer BM 2191.jpg|thumb|[[The Apotheosis of Homer]], by Archelaus of Priene. Marble relief, possibly of the 3rd century BC, now in the [[British Museum]].]]
+
+In the Hellenistic period, Homer was the subject of a [[hero cult]] in several cities. A shrine, the ''Homereion'', was devoted to him in [[Alexandria]] by [[Ptolemy IV Philopator]] in the late 3rd century BC. This shrine is described in [[Claudius Aelianus|Aelian]]'s 3rd century work ''Varia Historia''. He tells how Ptolemy "placed in a circle around the statue [of Homer] all the cities who laid claim to Homer" and mentions a painting of the poet by the artist [[Galaton]], which apparently depicted Homer in the aspect of [[Oceanus]] as the source of all poetry. 
+
+A marble relief, found in Italy but thought to have been sculpted in [[Egypt]], depicts the [[apotheosis]] of Homer. It shows Ptolemy and his wife or sister [[Arsinoe III]] standing beside a seated poet, flanked by figures from the ''Odyssey'' and ''Iliad'', with the nine [[Muses]] standing above them and a procession of worshippers approaching an altar, believed to represent the Alexandrine Homereion. [[Apollo]], the god of music and poetry, also appears, along with a female figure tentatively identified as [[Mnemosyne]], the mother of the Muses. [[Zeus]], the king of the gods, presides over the proceedings. The relief demonstrates vividly that the Greeks considered Homer not merely a great poet but the divinely-inspired reservoir of all literature.<ref>Morgan, Llewelyn, 1999. ''Patterns of Redemption in Virgil's Georgics'' (Cambridge: Cambridge University Press), p. 30.</ref>
+
+Homereia also stood at [[Chios]], [[Ephesus]], and [[Smyrna]], which were among the city-states that claimed to be his birthplace. [[Strabo]] (14.1.37) records a Homeric temple in Smyrna with an ancient ''[[xoanon]]'' or cult statue of the poet. He also mentions sacrifices carried out to Homer by the inhabitants of [[Argos]], presumably at another Homereion.<ref>Zanker, Paul, 1996. ''The Mask of Socrates: The Image of the Intellectual in Antiquity'', Alan Shapiro, trans. (Berkeley: University of California Press).</ref>
+
+==Transmission and publication==
+Though evincing many features characteristic of oral poetry, the ''Iliad'' and ''Odyssey'' were at some point committed to writing. The Greek script, adapted from a [[Phoenician alphabet|Phoenician]] [[syllabary]] around 800 BCE, made possible the notation of the complex rhythms and vowel clusters that make up hexameter verse. Homer's poems appear to have been recorded shortly after the alphabet's invention: an inscription from [[Ischia]] in the Bay of [[Naples]], ca. 740 BCE, appears to refer to a text of the ''Iliad''; likewise, illustrations seemingly inspired by the [[Polyphemus]] episode in the ''Odyssey'' are found on [[Samos]], [[Mykonos]] and in Italy dating from the first quarter of the seventh century BCE. We have little information about the early condition of the Homeric poems, but in the second century BCE, Alexandrian editors stabilized this text from which all modern texts descend.
+
+In [[late antiquity]], knowledge of Greek declined in Latin-speaking western Europe and, along with it, knowledge of Homer's poems. It was not until the fifteenth century AD that Homer's work began to be read once more in Italy. By contrast it was continually read and taught in the Greek-speaking Eastern Roman Empire where the majority of the classics also survived. The first printed edition appeared in 1488.
+
+==See also==
+===Topics===
+{{col-begin}}
+{{col-2}}
+<div class="references-small">
+*[[Achaeans]]
+*[[Achilles]]
+*[[Aoidos]]
+*[[Ancient accounts of Homer]]
+*[[Aristarchus]] of Samothrace
+*[[Bibliomancy]]
+*[[Catalogue of Ships]]
+*[[Cyclic Poets]] 
+*[[Dactylic hexameter]]
+*[[Deception of Zeus]]
+*[[Epic Cycle]]
+*[[Epic poetry]]
+*[[Epithets in Homer]]
+*[[Geography of the Odyssey]]
+*[[Greek mythology]]
+*[[Homeric Greek]]
+*[[Homeric nod]]
+*[[Homeric Question]]
+*[[Homeric scholarship]]
+*[[Homer's Ithaca]]
+</div>
+{{col-2}}
+<div class="references-small">
+*[[Hector]]
+*[[Historicity of the Iliad]] 
+*[[Ithaca]]
+*[[Life of Homer (Pseudo-Herodotus)]]
+*[[List of characters in the Iliad]]
+*[[Odysseus]]
+*[[Peisistratos (Athens)]]
+*[[Rhapsode]]
+*[[Shield of Achilles]]
+*''[[Sortes Homerica]]''
+*''[[Tabula Iliaca]]'' 
+*"''[[Telemachy]]''"
+*[[Trojan Battle Order]]
+*[[Trojan War]]
+*[[Trojan War in art and literature]]
+*[[Troy]]
+*[[Troy VII]]
+*[[Venetus A]] Manuscript
+*[[Zenodotus]] of Ephesus
+</div>
+{{col-end}}
+
+===Modern scholars===
+{{col-begin}}
+{{col-2}}
+*[[Richard Bentley]]
+*[[Ioannis Kakridis]]
+*[[Adolf Kirchhoff]]
+*[[Geoffrey Kirk]]
+*[[Karl Lachmann]]
+*[[Walter Leaf]]
+*[[Albert Lord]]
+*[[David Binning Monro]] 
+*[[Karl Otfried Müller]]
+*[[Gilbert Murray]]
+*[[Gregory Nagy]]
+</div>
+{{col-2}}
+*[[Gregor Wilhelm Nitzsch]]
+*[[Milman Parry]] 
+*[[Barry B. Powell]] 
+*[[Heinrich Schliemann]]
+*[[William Bedell Stanford]] 
+*[[Jean-Baptiste Gaspard d'Ansse de Villoison]]
+*[[Alan Wace]]
+*[[Martin Litchfield West]]
+*[[Ulrich von Wilamowitz-Moellendorff]]
+*[[Friedrich August Wolf]]
+*[[Christian Werner]]
+</div>
+{{col-end}}
+
+==Notes==
+{{reflist|2}}
+
+==Selected bibliography==
+===Editions===
+(texts in Homeric Greek)
+*[[Demetrius Chalcondyles]] ''editio princeps'', Florence, 1488
+*the [[Aldine editions]] (1504 and 1517)
+*Th. Ridel, Strassbourg, ca. 1572, 1588 and 1592.
+*Wolf (Halle, 1794-1795; Leipzig, 1804 1807)
+*Spitzner (Gotha, 1832-1836)
+*Bekker (Berlin, 1843; Bonn, 1858)
+*La Roche (Odyssey, 1867-1868; Iliad, 1873-1876, both at Leipzig)
+*Ludwich (Odyssey, Leipzig, 1889-1891; Iliad, 2 vols., 1901 and 1907)
+*W. Leaf (Iliad, London, 1886-1888; 2nd ed. 1900-1902)
+*W. Walter Merry and James Riddell (Odyssey i.-xii., 2nd ed., Oxford, 1886)
+*Monro (Odyssey xiii.-xxiv. with appendices, Oxford, 1901)
+*Monro and Allen (Iliad), and Allen (Odyssey, 1908, Oxford).
+*D.B. Monro and T.W. Allen 1917-1920, ''Homeri Opera'' (5 volumes: ''Iliad'' = 3rd edition, ''Odyssey'' = 2nd edition), Oxford. ISBN 0-19-814528-4, ISBN 0-19-814529-2, ISBN 0-19-814531-4, ISBN 0-19-814532-2, ISBN 0-19-814534-9
+*H. van Thiel 1991, ''Homeri Odyssea'', Hildesheim. ISBN 3-487-09458-4, 1996, ''Homeri Ilias'', Hildesheim. ISBN 3-487-09459-2
+*M.L. West 1998-2000, ''Homeri Ilias'' (2 volumes), Munich/Leipzig. ISBN 3-598-71431-9, ISBN 3-598-71435-1
+*P. von der Mühll 1993, ''Homeri Odyssea'', Munich/Leipzig. ISBN 3-598-71432-7
+*[[Wikisource:el:ΙΛΙΑΣ|Ilias in Wikisource]]
+
+===Interlinear translations===
+*''The Iliad of Homer a Parsed Interlinear'', Handheldclassics.com (2008) Text ISBN 978-1607252986
+
+===English translations===
+{{main|English Translations of Homer}}
+This is a partial list of translations into English of Homer's Iliad and Odyssey.
+*[[Augustus Taber Murray]] (1866-1940)
+**''Homer: Iliad'', 2 vols., revised by William F. Wyatt, [[Loeb Classical Library]], Harvard University Press (1999).
+**''Homer: Odyssey'', 2 vols., revised by George E. Dimock, [[Loeb Classical Library]], Harvard University Press (1995).
+*[[Robert Fitzgerald]] (1910&ndash;1985)
+**''The Iliad'', Farrar, Straus and Giroux (2004) ISBN 0-374-52905-1
+**''The Odyssey'', Farrar, Straus and Giroux (1998) ISBN 0-374-52574-9
+*[[Robert Fagles]] (1933-2008)
+**''The Iliad'', Penguin Classics (1998) ISBN 0-14-027536-3
+**''The Odyssey'', Penguin Classics (1999) ISBN 0-14-026886-3
+*[[Stanley Lombardo]] (b. 1943)
+**''Iliad'', [[Hackett Publishing Company]] (1997) ISBN 0-87220-352-2
+**''Odyssey'', [[Hackett Publishing Company]] (2000) ISBN 0-87220-484-7
+**''Iliad'', (Audiobook) Parmenides (2006) ISBN 1-930972-08-3
+**''Odyssey'', (Audiobook) Parmenides (2006) ISBN 1-930972-06-7
+**''The Essential Homer'', (Audiobook) Parmenides (2006) ISBN 1-930972-12-1
+**''The Essential Iliad'', (Audiobook) Parmenides (2006) ISBN 1-930972-10-5
+*[[Samuel Butler (novelist)]] (1835-1902)
+**''The Iliad'', Red and Black Publishers (2008) ISBN 978-1-934941-04-1
+**''The Odyssey'', Red and Black Publishers (2008) ISBN 978-1-934941-05-8
+*[[Herbert Jordan]] (b. 1938)
+**"Iliad", University of Oklahoma Press (2008) ISBN 9780806139746 (soft cover); ISBN 9780806139425 (cloth bound)
+
+===General works on Homer===
+*Pierre Carlier, ''Homère'', Fayard 1999. ISBN 2-213-60381-2
+*Pierre Vidal-Naquet, ''Le monde d'Homère'', Perrin 2000. ISBN 2-262-01181-8
+*Jacqueline de Romilly, ''Homère'', Presses Universitaire de France, 5th ed. 2005. ISBN 2-13-054830-X
+*J. Latacz 2004, ''Troy and Homer: Towards a Solution of an Old Mystery'', Oxford, ISBN 0-19-926308-6; 5th updated and expanded edition, Leipzig 2005 (in Spanish 2003 ISBN 84-233-3487-2, modern Greek 2005 ISBN 960-16-1557-1) 
+*Robert Fowler (ed.), [http://books.google.com/books?id=K5WQRBvMp18C&printsec=frontcover ''The Cambridge Companion to Homer''], Cambridge University Press, Cambridge 2004. ISBN 0-521-01246-5
+*I. Morris and B. B. Powell 1997, ''A New Companion to Homer'', Leiden. ISBN 90-04-09989-1
+*B. B. Powell 2007, "Homer," 2nd edition. Oxford. ISBN 978-1-4051-5325-5
+*{{cite book|first=A.J.B.|last=Wace|authorlink=Alan Wace|coauthors=F.H. Stubbings|date=1962|title=A Companion to Homer|location=London|isbn=0-333-07113-1|publisher=Macmillan}}
+
+===Influential readings and interpretations===
+*E. Auerbach 1953, ''Mimesis'', Princeton (orig. publ. in German, 1946, Bern), chapter 1. ISBN 0-691-11336-X
+*M.W. Edwards 1987, ''Homer, Poet of the Iliad'', Baltimore. ISBN 0-8018-3329-9
+*B. Fenik 1974, ''Studies in the Odyssey'', Wiesbaden ('Hermes' Einzelschriften 30).
+*M.I. Finley, ''The World of Odysseus'' 1954, rev. ed. 1978.
+*I.J.F. de Jong 1987, ''Narrators and Focalizers'', Amsterdam/Bristol. ISBN 1-85399-658-0
+*G. Nagy 1980, "The Best of the Achaeans", Baltimore. ISBN 978-0801860157
+
+===Commentaries===
+*''Iliad'':
+**P.V. Jones (ed.) 2003, ''Homer's Iliad. A Commentary on Three Translations'', London. ISBN 1-85399-657-2
+**[[G. S. Kirk]] (gen. ed.) 1985-1993, ''The Iliad: A Commentary'' (6 volumes), Cambridge. ISBN 0-521-28171-7, ISBN 0-521-28172-5, ISBN 0-521-28173-3, ISBN 0-521-28174-1, ISBN 0-521-31208-6, ISBN 0-521-31209-4
+**[[Joachim Latacz|J. Latacz]] (gen. ed.) 2002-, ''Homers Ilias. Gesamtkommentar. Auf der Grundlage der Ausgabe von Ameis-Hentze-Cauer (1868-1913)'' (2 volumes published so far, of an estimated 15), Munich/Leipzig. ISBN 3-598-74307-6, ISBN 3-598-74304-1
+**N. Postlethwaite (ed.) 2000, ''Homer's Iliad: A Commentary on the Translation of Richmond Lattimore'', Exeter. ISBN 0-85989-684-6
+**M.W. Willcock (ed.) 1976, ''A Companion to the Iliad'', Chicago. ISBN 0-226-89855-5
+*''Odyssey'':
+**A. Heubeck (gen. ed.) 1990-1993, ''A Commentary on Homer's Odyssey'' (3 volumes; orig. publ. 1981-1987 in Italian), Oxford. ISBN 0-19-814747-3, ISBN 0-19-872144-7, ISBN 0-19-814953-0
+**P. Jones (ed.) 1988, ''Homer's Odyssey: A Commentary based on the English Translation of Richmond Lattimore'', Bristol. ISBN 1-85399-038-8
+**I.J.F. de Jong (ed.) 2001, ''A Narratological Commentary on the Odyssey'', Cambridge. ISBN 0-521-46844-2
+
+===Trends in Homeric scholarship===
+;"Classical" analysis
+*A. Heubeck 1974, ''Die homerische Frage'', Darmstadt. ISBN 3-534-03864-9
+*R. Merkelbach 1969, ''Untersuchungen zur Odyssee'' (2nd edition), Munich. ISBN 3-406-03242-7
+*D. Page 1955, ''The Homeric Odyssey'', Oxford.
+*U. von Wilamowitz-Möllendorff 1916, ''Die Ilias und Homer'', Berlin.
+*F.A. Wolf 1795, ''Prolegomena ad Homerum'', Halle. Published in English translation 1988, Princeton. ISBN 0-691-10247-3
+
+;Neoanalysis
+*M.E. Clark 1986, "Neoanalysis: a bibliographical review," ''Classical World'' 79.6: 379-94.
+*J. Griffin 1977, "The epic cycle and the uniqueness of Homer," ''Journal of Hellenic Studies'' 97: 39-53.
+*J.T. Kakridis 1949, ''Homeric Researches'', London. ISBN 0-8240-7757-1
+*W. Kullmann 1960, ''Die Quellen der Ilias (Troischer Sagenkreis)'', Wiesbaden. ISBN 3-515-00235-9
+
+;Homer and oral tradition
+*E. Bakker 1997, ''Poetry in Speech: Orality and Homeric Discourse'', Ithaca NY. ISBN 0-8014-3295-2
+*J.M. Foley 1999, ''Homer's Traditional Art'', University Park PA. ISBN 0-271-01870-4
+*G.S. Kirk 1976, ''Homer and the Oral Tradition'', Cambridge. ISBN 0-521-21309-6
+*A.B. Lord 1960, ''The Singer of Tales'', Cambridge MA. ISBN 0-674-00283-0
+*M. Parry 1971, ''The Making of Homeric Verse'', Oxford. ISBN 0-19-520560-X
+*B. B. Powell, 1991, ''Homer and the Origin of the Greek Alphabet,'' ISBN 0-521-58907-X
+
+===Dating the Homeric poems===
+*R. Janko 1982, ''Homer, Hesiod and the Hymns'', Cambridge. ISBN 0-521-23869-2
+
+==External links==
+{{Literature Portal}}
+{{Commons|Homeros}}
+{{Wikisource_author}}
+*[http://www.holyebooks.org/authors/homer/illiad/illiad.html Iliad by Homer]
+*[http://www.gutenberg.org/browse/authors/h#a705 Works by Homer] at [[Project Gutenberg]].
+*[http://www.archive.org/details/iliadmurray01homeuoft Iliad bilingual edition bks 1-12] at [[archive.org]]
+*[http://www.gpc.edu/~shale/humanities/literature/world_literature/homer.html Collection of Homer-related links]
+*[http://www.ellopos.net/elpenor/greek-language.asp Greek lessons based on Homer]
+*[http://www.ellopos.net/elpenor/lessons/pharr.asp Clyde Pharr, Homer and the study of Greek]
+*[http://madeinatlantis.com/athens/homer.htm Homer]
+*[http://www.rhapsodes.fll.vt.edu/iliad1.htm SORGLL: Homer, Iliad, Bk I, 1-52; read by Stephen Daitz]
+*[http://www.ucpress.edu/books/pages/11091.php/ Racing Odysseus: A College President Becomes a Freshman Again] A former college president attended St. John's College and wrote a memoir about his experience reading Homer, rowing Crew, and examining the importance of a liberal arts education in today’s society.
+*{{citation
+ |url=http://www.leeds.ac.uk/classics/resources/poetics/poet-hom.htm
+ |title=Aristotle's Poetics: Notes on Homer's Iliad and Odyssey
+ |last=Heath
+ |first=Malcolm
+ |date=May 4, 2001
+ |accessdate=2008-10-01}}
+*[http://www.iliadtranslation.com/translation.html Translation issues:] Iliad translator Herbert Jordan (U. of Oklahoma Press 2008) describes translation issues including: how literal should it be; whether to call the besiegers Achaeans, Argives, Danaans, or Greeks; how—and whether—to translate "winged words"; what the wall by the ships looked like; whether the besiegers slept in tents, huts, camps—or nothing.
+
+<!--spacing, please do not remove-->
+
+{{Ancient Greece topics}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME=Homer
+|ALTERNATIVE NAMES=Ὅμηρος
+|SHORT DESCRIPTION=Author
+|DATE OF BIRTH=ca. 8th century BC
+|PLACE OF BIRTH=
+|DATE OF DEATH=
+|PLACE OF DEATH=
+}}
+[[Category:Oral epic poets]]
+[[Category:Epic poets]]
+[[Category:Blind people]]
+[[Category:Homer|*]]
+[[Category:Mythography]]
+[[Category:Ancient Greeks|Homer]]
+[[Category:Ancient Greek poets|Homer]]
+[[Category:Mycenaean Greece]]
+[[Category:Greek historical hero cult]]
+[[Category:Greek culture heroes]]
+[[Category:Ancient Chians]]
+[[Category:Ancient Smyrnaeans]]
+[[Category:Deified people]]
+
+{{Link FA|bar}}
+{{Link FA|hu}}
+<!-- interwiki -->
+
+[[af:Homerus]]
+[[als:Homer]]
+[[am:ሆሜር]]
+[[ar:هوميروس]]
+[[an:Omero]]
+[[ast:Homero]]
+[[az:Homer]]
+[[bn:হোমার]]
+[[zh-min-nan:Homeros]]
+[[ba:Гомер]]
+[[be:Гамер]]
+[[be-x-old:Гамэр]]
+[[bar:Homer]]
+[[bs:Homer]]
+[[br:Homeros]]
+[[bg:Омир]]
+[[ca:Homer]]
+[[cs:Homér]]
+[[cy:Homeros]]
+[[da:Homer]]
+[[de:Homer]]
+[[et:Homeros]]
+[[el:Όμηρος]]
+[[es:Homero]]
+[[eo:Homero]]
+[[ext:Omeru]]
+[[eu:Homero]]
+[[fa:هومر]]
+[[hif:Homer]]
+[[fr:Homère]]
+[[fy:Homerus]]
+[[fur:Omêr]]
+[[ga:Hóiméar]]
+[[gd:Homer]]
+[[gl:Homero]]
+[[gan:荷馬]]
+[[ko:호메로스]]
+[[haw:Homer]]
+[[hy:Հոմերոս]]
+[[hi:होमर]]
+[[hr:Homer]]
+[[id:Homerus]]
+[[os:Гомер]]
+[[is:Hómer]]
+[[it:Omero]]
+[[he:הומרוס]]
+[[jv:Homeros]]
+[[ka:ჰომეროსი]]
+[[sw:Homer]]
+[[ku:Homer]]
+[[la:Homerus]]
+[[lv:Homērs]]
+[[lb:Homer]]
+[[lt:Homeras]]
+[[li:Homeros]]
+[[hu:Homérosz]]
+[[mk:Хомер]]
+[[ml:ഹോമര്‍]]
+[[mt:Omeru]]
+[[mr:होमर]]
+[[arz:هوميروس]]
+[[ms:Homer]]
+[[mwl:Houmero]]
+[[mn:Хомер]]
+[[nl:Homerus]]
+[[new:होमर]]
+[[ja:ホメーロス]]
+[[no:Homer]]
+[[nn:Homer]]
+[[nov:Hómeros]]
+[[oc:Omèr]]
+[[uz:Homer]]
+[[pag:Homer]]
+[[ps:هومر]]
+[[nds:Homer (Dichter)]]
+[[pl:Homer]]
+[[pt:Homero]]
+[[kaa:Homer]]
+[[ro:Homer]]
+[[qu:Omiros]]
+[[ru:Гомер]]
+[[sah:Хомер]]
+[[sq:Homeri]]
+[[scn:Omeru]]
+[[simple:Homer]]
+[[sd:هومر]]
+[[sk:Homér]]
+[[sl:Homer]]
+[[szl:Hůmer]]
+[[sr:Хомер]]
+[[sh:Homer]]
+[[fi:Homeros]]
+[[sv:Homeros]]
+[[tl:Homer]]
+[[ta:ஓமர்]]
+[[kab:Homer]]
+[[tt:Гомер]]
+[[te:హోమర్]]
+[[th:โฮเมอร์]]
+[[tg:Ҳомер]]
+[[tr:Homeros]]
+[[uk:Гомер]]
+[[vi:Homer]]
+[[vo:Homeros]]
+[[fiu-vro:Homeros]]
+[[war:Homer]]
+[[zh-yue:荷馬]]
+[[bat-smg:Huomers]]
+[[zh:荷马]]

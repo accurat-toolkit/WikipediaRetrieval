@@ -1,0 +1,721 @@
+{| style="float:right; background:transparent;"
+<!--Table to prevent [edit] links becoming bunched (cf [[WP:BUNCH]])-->
+|{{Infobox F1 driver|
+  Name = Eddie Irvine|
+  Image = Eddie_Irvine.jpg|Eddie Irvine, Silverstone 1998|
+  Nationality = <!-- Please see 'Nationality' section below and read the discussion page before changing this but basically F1 sporting infobox shows sporting nationality, which was British -->{{flag|United Kingdom|name=British}}|
+  Years = {{F1|1993}}–{{F1|2002}} |
+  Team(s) =  [[Jordan Grand Prix|Jordan]], [[Scuderia Ferrari|Ferrari]], [[Jaguar Racing|Jaguar]]|
+  Races = 148 (147 starts) |
+  Championships = 0 |
+  Wins = 4 |
+  Podiums = 26 |
+  Poles = 0 |
+  Fastest laps = 1 |
+  Points = 191 |
+  First race = [[1993 Japanese Grand Prix]] |
+  First win =  [[1999 Australian Grand Prix]] |
+  Last win =  [[1999 Malaysian Grand Prix]]|
+  Last race = [[2002 Japanese Grand Prix]] |
+}}
+{{Le Mans drivers |
+  Years = 1992 - 1994 |
+  Team(s) = [[TOM'S]]/[[SARD]], [[SARD|SARD Toyota]] | 
+  Best Finish = 2nd ([[1994 24 Hours of Le Mans|1994]]) |
+  Class Wins = 1 ([[1994 24 Hours of Le Mans|1994]])  |
+}}
+|}
+'''Edmund "Eddie" Irvine, Jr.''' (born 10 November 1965, [[Newtownards]], [[County Down]]<ref>[http://www.f1complete.com/content/view/400/273/ Biography] f1complete.com. Retrieved on 17-05-08.</ref>) is a former [[racing driver]] from [[Northern Ireland]].<!-- Please see 'Nationality' section below before changing this --> He grew up in [[Conlig]], [[County Down]], and was influenced by his parents, who were also involved in motor racing. His father, Edmund Sr., and his sister, Sonia (now a physiotherapist), worked with him during his career.<ref>ITV Sport</ref> 
+
+His professional racing career began in 1983 and he progressed to [[Formula Three]] racing in 1988, before moving on to [[International Formula 3000|Formula 3000]] in 1989. He got his break in the top of the Formula racing series after he started racing for [[Jordan Grand Prix|Jordan]] in the [[International Formula 3000|Formula 3000]] series in 1990, and was subsequently picked up by the Jordan [[Formula One]] team in 1993. His reputation steadily increased in Formula One, eventually leading [[Scuderia Ferrari|Ferrari]] to sign him to partner [[Michael Schumacher]] in 1996.
+
+1999 was his most successful season; Irvine won four races, taking the Drivers' Championship to the last race in which he finished third. In the overall Championship he finished as runner-up to [[McLaren (racing)|McLaren]] driver [[Mika Häkkinen]]. He left Ferrari the following year for the new [[Jaguar Racing]] team and was the only driver to get Jaguar to the podium in their short F1 history; he achieved this feat twice.
+
+==Before F1 (1983–1993)==
+[[File:Irvine 89.jpg|thumb|left|Eddie Irvine at the 1989 [[Macau Grand Prix]]. His helmet design was based on that of Ayrton Senna.]]
+Eddie Irvine's racing career began in [[Formula Ford]], and from 1983 through 1986 he spent the championships in middle-field places, finishing on the podium on some occasions. His big break came in 1987 when he signed for the works [[Van Diemen]] team and won both RAC and Esso FF1600 championships with a respectable 19 wins out of 36 races, including the prestigious Formula Ford Festival.
+
+His performances in Formula Ford led to a signing in the front running [[West Surrey Racing|WSR]] [[Formula Three]] team. During the season, it was clear that the Alfa Romeo Engine in Irvine's car did not have a chance of competing with the Toyota and VW powered cars. He finished the year fifth in the standings, without a single win, but with 8 podium positions.
+
+After a good showing in the 1988 [[Macau Grand Prix]], where he put his WSR [[Ralt]] car on the pole and won the first leg, Eddie signed for the [[Pacific Racing|Pacific]] team for the 1989 [[International Formula 3000|F3000]] Championship. In a complicated season for a rookie team, Irvine finished the final standings in ninth place, ahead of his highly rated team mate [[JJ Lehto]], who was already in F1 by mid-season. At the end of the year, Irvine returned to the [[Macau Grand Prix]] with his former team (WSR) in one of its Ralt F3 Cars.
+
+For 1990 Irvine signed with [[Jordan Grand Prix|Eddie Jordan]] for a second attempt at the F3000 Championship, this time winning the German round, and finishing the year third in the standings ahead of his team mates, [[Heinz-Harald Frentzen]] and [[Emanuele Naspetti]]. Again at the end of the season, Irvine stepped back to Formula Three to participate in the 1990 Macau and Fuji rounds, showing strong performance against F3 drivers and finishing on the podium in both events.
+
+With no F1 in sight, Irvine headed for Japan, to compete in the [[Formula Nippon|Japanese Formula 3000 Championship]]. He finished seventh in the standings in [[1991 Japanese Formula 3000 season|1991]], eighth in [[1992 Japanese Formula 3000 season|1992]], and runner-up in [[1993 Japanese Formula 3000 season|1993]], just as he debuted with the [[Jordan Grand Prix|Jordan F1 team]] at that year's Japanese Grand Prix.
+
+==F1 career==
+===Jordan (1993–1995)===
+In the early stages of his F1 career, Irvine was known as a fierce competitor. Even when he had a weaker car with which he only qualified for the rear of the grid, he had a tendency to "try to win a race at the start", often causing himself and others to exit a race in an untimely and untidy fashion. He was also noted for his personality, perhaps best described as anti-authoritarian. He finished 6th and secured a point on his debut Formula One race with Jordan in 1993 at [[1993 Japanese Grand Prix|Suzuka]]. 
+
+This race set the theme of controversy for Irvine that would follow him for the next couple of years. Seeing [[Ayrton Senna]] coming up behind him in his rear-view mirror, Irvine allowed him to pass. However, when Senna seemingly did not bother to lap [[Damon Hill]] who Irvine was racing against at the time, he felt he was being held up and, amazingly for a rookie against an all-time great, unlapped himself and immediately overtook Hill. <ref>http://www.youtube.com/watch?v=HL79Io4htbw</ref> Incensed, Senna walked into the Jordan motorhome after the race finished and punched Irvine in the face.<ref>[http://www.themagicofsenna.com/senna/suzuka.html Suzuka, 1993]</ref> Irvine spoke about this when asked about his most memorable moment:
+
+{{Cquote|I assume you’re talking about racing so I’ll keep it clean then! I think going around the outside of three guys at the first corner and up to fifth in my first grand prix for Jordan. I did have a chuckle when I unlapped Ayrton Senna in that race and was laughing my head off in the car.|20px|20px|2007 interview.<ref>[http://www.virginmedia.com/sport/motorsport/formula1/features/eddie-irvine-Q&A.php Virgin Media]</ref>}}
+
+[[File:Eddie Irvine 1995 Britain.jpg|thumb|right|Irvine driving for [[Jordan Grand Prix|Jordan]] at the [[1995 British Grand Prix]].]]
+
+Irvine continued with Jordan until 1995, where he was well matched with his younger, though more experienced team-mate, [[Rubens Barrichello]]. His lack of reliability as well as a tendency to get involved in accidents in 1994 meant that the final championship standings did not mirror his speed. Irvine recorded his first podium finish in F1 with a third place (behind Barrichello in 2nd) at the memorable [[1995 Canadian Grand Prix]]. 
+
+Irvine's affinity for apparently reckless driving began to dissipate when he moved to the Ferrari team. F1 sports commentators even changed his [[nickname]] from "Irv the swerve" to "Steady Eddie" and "Fast Eddie". <ref>http://www.irvtheswerve.net/about.html</ref>
+
+As the Formula One world became more technical and the driver personalities less distinctive, his non-conformist approach was generally appreciated.
+
+===Ferrari (1996–1999)===
+In 1996, the [[Scuderia Ferrari|Ferrari]] team picked him to partner [[Michael Schumacher]]. Between 1996 and 1997, Irvine played a clear second driver in the team to Schumacher. Both years the comparison with Schumacher was inevitable and it showed; in 1996 Schumacher had 59 points and 3 wins, against Irvine's 11 points and no wins. In 1997, not counting Schumacher's disqualification from the world championship, the German had 78 points and 5 wins, against Irvine's 24 points and, again, no wins.
+
+In 1998, Irvine's fitness level was in question as he had suffered from back pain. His seat was adjusted to help combat this problem. Possibly stemming from this, a journalist suggested he was unfit. In stark contrast with the journalist's allegation however, three days prior to the publication of the article, Irvine had recorded one of the highest levels of fitness of an F1 driver.
+
+[[File:Eddie Irvine 1999 Canada.jpg|thumb|right|Irvine driving for [[Scuderia Ferrari|Ferrari]] at the [[1999 Canadian Grand Prix]], during his most successful season in F1]]
+
+1999 saw Irvine's career reach a peak as, through a combination of circumstance and the culmination of his much improved and matured style and performance during his years at Ferrari, he found himself battling for the world championship following [[Michael Schumacher]]'s accident at that year's [[1999 British Grand Prix|British Grand Prix]] which saw the German break his leg.
+
+Irvine won the season's opening grand prix in [[1999 Australian Grand Prix|Australia]], in a race with significant attrition. With consistent points finishes, subsequent good form, and a rather abnormal series of glaring mistakes by rivals [[McLaren (racing)|McLaren]] and reigning World Champion [[Mika Häkkinen]], he was relatively well placed to take up the fight as the team's lead driver alongside Schumacher's replacement, [[Mika Salo]]. A further two victories in the [[1999 Austrian Grand Prix|Austrian]] and [[1999 German Grand Prix|German Grand Prix]] rounds increased Irvine's title hopes. The former featured an exciting battle down to the finish with [[McLaren (racing)|McLaren]] driver [[David Coulthard]] (who did himself no favours after spinning Häkkinen out in the first lap). The latter victory however was rather controversial as it was handed to him by teammate Salo out of sight of TV cameras, although Irvine looked set to pass Salo with or without his help. Salo had outqualified the Irishman, and was ahead of him throughout the race; he inherited the lead after Häkkinen had a botched pitsop and subsequently went out later with a spectacular left rear tire puncture and crash. Following the race, Irvine handed his victory trophy over to 2nd place Salo as a gesture to show his gratitude.
+
+Irvine added two more high points finishes of 3rd at [[1999 Hungarian Grand Prix|Hungary]] and 4th in [[1999 Belgian Grand Prix|Belgium]], However, by this stage it was clear that the Ferrari team were struggling as both Irvine and Salo began complaining about the car's lack of grip and poor handling (It was suggested that the team's lack of proper development was due to Michael Schumacher's missing presence in the team). This became more apparent during the Hungarian and Belgian rounds but moreso at Ferrari's [[1999 Italian Grand Prix|Home Grand Prix]] at Monza, where Irvine struggled for pace and finished a lackluster 6th (in contrast, teammate Salo, who's driving style seemed to suit the Ferrari's lack of grip at high speed tracks, finished 3rd). This streak cost Irvine valuable points although it was somewhat offset by Häkkinen's misfortune in several races during this period (highlighted by a notorious blunder at the aforementioned Italian GP at Monza), but nevertheless, Irvine's lead from a peak 8 points was completely wiped out and both he and Häkkinen were equal coming towards the [[1999 European Grand Prix|European Round]] at the Nurburgring. 
+
+Irvine looked set for a very good points day and maybe a possible victory after McLaren gave Häkkinen the wrong tires in a race plagued by rapidly changing weather conditions. Unfortunately the normally flawless Ferrari pitcrew performed badly during his pitstop and he ultimately finished 7th, out of the points, whereas a resurgent Häkkinen managed to catch and pass Irvine and Marc Gene's [[Minardi]] and finish 5th. With a 2 point disadvantage, the returning Schumacher aided him in [[1999 Malaysian Grand Prix|Malaysia]]; starting on pole with Irvine behind in 2nd (the Ferraris suddenly fast again), he let his team-mate pass for the win (his 4th of the season) and then proceeded to hold up a visibly exhausted Häkkinen for 2nd place. Then after the race, both Ferraris were disqualified hours after the race as a result of a minor aerodynamic irregularity concerning the cars' [[Bargeboard (aerodynamics)|bargeboards]], seemingly handing the title to Häkkinen, and the constructors' championship to the British team. However, the decision was later overturned and both cars reinstated in the race results, meaning that Irvine headed into the final round leading the 1999 Formula One World Drivers' Championship by just 4 points.
+
+In the title showdown at [[1999 Japanese Grand Prix|Japan]], a finish in front of Mika Häkkinen would guarantee Irvine the title. Unfortunately, Irvine struggled for pace and ultimately ended up finishing third behind a triumphant Häkkinen and runner-up Schumacher, handing the championship to the [[Finland|Finn]]. It is interesting to note, however, that under the current points system (10-8-6-5-4-3-2-1), Irvine would have won the championship even with one race to go. However, the 1999 season used a 10-6-4-3-2-1 scheme.
+
+===Jaguar (2000–2002)===
+[[File:Eddie Irvine 2002.jpg|right|thumb|Irvine at the [[2002 United States Grand Prix]]]]
+Notwithstanding his success in 1999, Irvine had become increasingly frustrated with a Ferrari team that had a team orders policy, meaning that he had to consistently take a backseat. He moved to Jaguar in 2000 to help establish the new team, where he finally became the lead driver. 
+
+The team learned much from Irvine's experience with Ferrari, but ultimately the Jaguar package was unreliable and uncompetitive. Driving a car much slower than most others, and dogged by the reliability problems, he still managed to get podium results at [[2001 Monaco Grand Prix|Monaco]] and [[2002 Italian Grand Prix|Monza]].
+
+Friction in the Jaguar camp and his vocal frustration at the lack of positive development of the car resulted in his contract not being renewed. He was considered for a return to Jordan for the 2003 season but, due to that team's financial problems, he was left without a drive. He announced his retirement from Formula One racing that year.
+
+==Career after F1==
+Irvine is seen by many as a playboy in the mould of [[James Hunt]], in contrast to the sport's modern stars, who are seen as staid and less flamboyant. Irvine is also remembered for his tendency to speak his mind, often to the irritation of some.
+
+Eddie played himself in the 2004 comedy ''The Prince and Me'', which starred [[Julia Stiles]].
+
+He was a millionaire through property investment before reaching Formula One. Outside of F1, Irvine is said to have built up a multi-million [[Pound sterling|pound]] property portfolio, owning around forty properties throughout the world. According to the [[Sunday Times Rich List]], published in April 2006, Irvine was the fifth richest person of Northern Ireland at that time, having increased his personal fortune to approximately £160 million.
+
+He is also the owner of ''Eddie Irvine Sports'', a [[snooker]], [[billiards|pool]], [[kart racing]], [[paintball]]ing, and [[Football (soccer)|football]] facility in [[Bangor, County Down|Bangor]], close to his native Conlig.
+
+He is now executive producer of a film being produced about [[Paddy Mayne]].<ref>"Who Blair Wins" By: Kelleher, Lynne The Sunday Mirror June 18, 2006 http://findarticles.com/p/articles/mi_qn4161/is_20060618/ai_n16490721</ref>
+
+[[File:1978 Ferrari 312 T3.jpg|thumb|right|Irvine demonstrating a [[Ferrari 312T]]3 at the 2009 [[Goodwood Festival of Speed]].]]
+
+In May 2006, it was announced that Irvine would be one of the celebrities taking part in [[ITV|ITV's]] ''[[Soccer Aid]]''. In aid of [[UNICEF]], this television show featured an England vs the rest of the world [[Football (soccer)|football]] match, with teams made up of a mix of celebrities and ex-professionals. Unfortunately, he had to pull out because of a leg injury.
+
+In late 2006 he launched a new television programme on the [[Sky One]] channel, with two teams of celebrity racing drivers competing against each other. [[David Coulthard]] was captain and coach of the ''girls'' team, and Irvine of the ''boys''. Ultimately, despite some impressive performances by both teams, Irvine's team won by some margin. Also in 2006 Irvine had a brief fling with actress and model [[Pamela Anderson]], who broke off the romance claiming that "Eddie was just too sweet for me."<ref>[http://www.celebrityspider.com/news/june06/article062606-9.html Pamela Anderson: Eddie Irvine Was Too Sweet<!-- Bot generated title -->]</ref>
+
+In 2002, Irvine successfully sued [[TalkSport|TalkSport Radio]] for "passing off" his image in a print advertisement, as if he had personally endorsed the station.<ref>''Irvine v Talksport''. EWHC 367 (Ch).</ref>
+
+== Nationality ==
+By virtue of being born in [[Northern Ireland]], a [[constituent country]] of the [[United Kingdom]], Irvine was a British citizen throughout his career. He also held a racing license issued by the National Sporting Authority of the [[Republic of Ireland]].<ref name=Indyflag /> (Drivers are not compelled to obtain their license from their home country.) The FIA's International Sporting Regulations state that drivers competing in FIA World Championships shall compete under the nationality of their passport, rather than that of the National Sporting Authority that issued their racing license, as is the case in other racing series.<ref>[http://argent.fia.com/web/fia-public.nsf/917D67F70F1C5EE7C12573B7003DCEC5/$FILE/CSI%20modif%20ap%20AGO%20oct%2007%20ANG%20-%20Applic.%2001.01.08%20-%20clean.pdf?Openelement FIA international sporting regulations] para 112</ref>
+
+This situation created some confusion as to Irvine's nationality when he appeared at podium ceremonies in the Formula One World Championship. At his first podium, a third place for [[Jordan Grand Prix|Jordan]] at the [[1995 Canadian Grand Prix]], the British [[Union Flag]] was flown. However, at his third podium, a second place for [[Scuderia Ferrari|Ferrari]] at the [[1997 Argentine Grand Prix]], an Irish [[Flag of Ireland|Tricolour]] was mistakenly flown by the race organisers.<ref name=Sunflag /> This led to his family receiving threatening phone calls. Irvine then requested that at subsequent races, a politically neutral [[shamrock]] flag be flown, and the non-sectarian [[Londonderry Air]] be played to mark a victory.<ref name=Indyflag>[http://findarticles.com/p/articles/mi_qn4158/is_19970425/ai_n14113573 Villeneuve backs return to 'real racetracks'] [[The Independent]]. Published on 25-04-08. Retrieved on 21-03-08.</ref> An FIA spokesman said:
+{{cquote|As far as we understand, Irvine has a British passport so the Union Jack should be raised. ... I understand he has a special flag, but our regulations do not allow this.|20px|20px|FIA spokesman Francesco Longanesi.<ref name=Sunflag>Ramsey, Chris. ''Eddie's flag of convenience!'' [[The Sun]] (London, England) [[April 26]], [[1997]]</ref>}}
+
+Irvine has self-identified as being Irish:
+{{cquote|But at the end of the day, I’m Irish. I mean, I’ve got a British passport, but if you’re from Ireland, north or south, you’re Irish. And ‘British’ is. . . such a nondescript thing, isn’t it?|20px|20px|1995 interview.<ref>[http://web.archive.org/web/20061018153355/http://www.andrewmueller.net/scroll.lasso?ID=51&story=THE+EGO+AND+THE+GRID_full_story The Ego and the Grid (archived)] Archive version retrieved on 29 March 2009.</ref>}}
+
+==Racing record==
+===Career summary===
+{| border="2" cellpadding="2" cellspacing="0" style="margin: 0 1em 0 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+! Season
+! Series
+! Team Name
+! Races
+! Poles
+! Wins
+! Points
+! Final Placing
+|-
+|align="center"| '''1983'''
+| Misc [[Formula Ford]] races
+|align="center"| ?
+|align="center"| 20
+|align="center"| ?
+|align="center"| ?
+|align="center"| ?
+|align="center"| ?
+|-
+|align="center"| '''1984'''
+| Misc [[Formula Ford]] races
+|align="center"| ?
+|align="center"| 22
+|align="center"| 2
+|align="center"| 2
+|align="center"| ?
+|align="center"| ?
+|-
+|align="center"| '''1985'''
+| Esso [[Formula Ford]] 1600
+|align="center"| ?
+|align="center"| 20
+|align="center"| 3
+|align="center"| 0
+|align="center"| 44
+|align="center"| 10th
+|-
+|align="center"| '''1986'''
+| Misc [[Formula Ford]] races
+|align="center"| ?
+|align="center"| 17
+|align="center"| 0
+|align="center"| 0
+|align="center"| ?
+|align="center"| ?
+|-
+|align="center" rowspan=4| '''1987'''
+| Esso [[Formula Ford]] 1600
+|align="center"| [[Van Diemen]]
+|align="center"| 14
+|align="center"| 5
+|align="center"| 6
+|align="center"| 165
+|align="center" bgcolor="#FBFFBF"| 1st
+|-
+| RAC [[Formula Ford]] 1600
+|align="center"| [[Van Diemen]]
+|align="center"| 12
+|align="center"| 10
+|align="center"| 8
+|align="center"| 160
+|align="center" bgcolor="#FBFFBF"| 1st
+|-
+| [[Formula Ford]] Festival 
+|align="center"| [[Van Diemen]]
+|align="center"| 1
+|align="center"| 1
+|align="center"| 1
+|align="center"| N/A
+|align="center" bgcolor="#FBFFBF"| 1st
+|-
+| BBC [[Formula Ford]] 2000
+|align="center"| [[Van Diemen]]
+|align="center"| 4
+|align="center"| 2
+|align="center"| 2
+|align="center"| 24
+|align="center" bgcolor="#DFDFDF"| 2nd
+|-
+|align="center" rowspan=3| '''1988'''
+| [[British Formula Three Championship|British F3 championship]]
+|align="center"| [[West Surrey Racing|WSR]]
+|align="center"| 18
+|align="center"| 1
+|align="center"| 0
+|align="center"| 53
+|align="center"| 5th
+|-
+| Cellnet [[Formula Three]] Race
+|align="center"| [[West Surrey Racing|WSR]]
+|align="center"| 1
+|align="center"| 0
+|align="center"| 0
+|align="center"| N/A
+|align="center"| R
+|-
+| [[Macau Grand Prix]]
+|align="center"| [[West Surrey Racing|WSR]]
+|align="center"| 1
+|align="center"| 1
+|align="center"| 0
+|align="center"| N/A
+|align="center"| R
+|-
+|align="center" rowspan=2| '''1989'''
+| [[International Formula 3000]]
+|align="center"| [[Pacific Racing|Pacific]]
+|align="center"| 10
+|align="center"| 0
+|align="center"| 0
+|align="center"| 11
+|align="center"| 9th
+|-
+| [[Macau Grand Prix]]
+|align="center"| [[West Surrey Racing|WSR]]
+|align="center"| 1
+|align="center"| 0
+|align="center"| 0
+|align="center"| N/A
+|align="center"| R
+|-
+|align="center" rowspan=3| '''1990'''
+| [[International Formula 3000]]
+|align="center"| [[Jordan Grand Prix|Jordan]]
+|align="center"| 11
+|align="center"| 0
+|align="center"| 1
+|align="center"| 27
+|align="center" bgcolor="#FFDF9F"| 3rd
+|-
+| [[Macau Grand Prix]]
+|align="center"| [[West Surrey Racing|WSR]]
+|align="center"| 1
+|align="center"| 0
+|align="center"| 0
+|align="center"| N/A
+|align="center" bgcolor="#FFDF9F"| 3rd
+|-
+| [[F3 Fuji Cup]]
+|align="center"| [[West Surrey Racing|WSR]]
+|align="center"| 1
+|align="center"| 0
+|align="center"| 0
+|align="center"| N/A
+|align="center" bgcolor="#FFDF9F"| 3rd
+|-
+|align="center"| '''1991'''
+| [[Formula Nippon|Japanese Formula 3000]]
+|align="center"| [[Cerumo Racing|Cerumo]]
+|align="center"| 11
+|align="center"| 0
+|align="center"| 1
+|align="center"| 14
+|align="center"| 7th
+|-
+|align="center" rowspan=2| '''1992'''
+| [[Formula Nippon|Japanese Formula 3000]]
+|align="center"| [[Cerumo Racing|Cerumo]]
+|align="center"| 11
+|align="center"| 2
+|align="center"| 1
+|align="center"| 17
+|align="center"| 8th
+|-
+| [[24 Hours of Le Mans|24 hours Le Mans]]
+|align="center"| [[TOM'S]]/[[SARD]]
+|align="center"| 1
+|align="center"| 0
+|align="center"| 0
+|align="center"| N/A
+|align="center"| 9th
+|-
+|align="center" rowspan=3| '''1993'''
+| [[Formula Nippon|Japanese Formula 3000]]
+|align="center"| [[Cerumo Racing|Cerumo]]
+|align="center"| 10
+|align="center"| 4
+|align="center"| 1
+|align="center"| 32
+|align="center" bgcolor="#DFDFDF"| 2nd
+|-
+| [[24 Hours of Le Mans|24 hours Le Mans]]
+|align="center"| [[SARD|SARD Toyota]]
+|align="center"| 1
+|align="center"| 0
+|align="center"| 0
+|align="center"| N/A
+|align="center"| 4th
+|-
+| [[Formula One]]
+|align="center"| [[Jordan Grand Prix|Jordan]]
+|align="center"| 2
+|align="center"| 0
+|align="center"| 0
+|align="center"| 1
+|align="center"| 20th
+|-
+|align="center" rowspan="2"| '''1994'''
+| [[Formula One]]
+|align="center"| [[Jordan Grand Prix|Jordan]]
+|align="center"| 13
+|align="center"| 0
+|align="center"| 0
+|align="center"| 6
+|align="center"| 16th
+|-
+| [[24 Hours of Le Mans|24 hours Le Mans]]
+|align="center"| [[SARD|SARD Toyota]]
+|align="center"| 1
+|align="center"| 0
+|align="center"| 0
+|align="center"| N/A
+|align="center" bgcolor="#DFDFDF"| 2nd
+|-
+|align="center"| '''1995'''
+| [[Formula One]]
+|align="center"| [[Jordan Grand Prix|Jordan]]
+|align="center"| 17
+|align="center"| 0
+|align="center"| 0
+|align="center"| 10
+|align="center"| 12th
+|-
+|align="center"| '''1996'''
+| [[Formula One]]
+|align="center"| [[Scuderia Ferrari|Ferrari]]
+|align="center"| 16
+|align="center"| 0
+|align="center"| 0
+|align="center"| 11
+|align="center"| 10th
+|-
+|align="center"| '''1997'''
+| [[Formula One]]
+|align="center"| [[Scuderia Ferrari|Ferrari]]
+|align="center"| 17
+|align="center"| 0
+|align="center"| 0
+|align="center"| 24
+|align="center"| 7th
+|-
+|align="center"| '''1998'''
+| [[Formula One]]
+|align="center"| [[Scuderia Ferrari|Ferrari]]
+|align="center"| 16
+|align="center"| 0
+|align="center"| 0
+|align="center"| 47
+|align="center"| 4th
+|-
+|align="center"| '''1999'''
+| [[Formula One]]
+|align="center"| [[Scuderia Ferrari|Ferrari]]
+|align="center"| 16
+|align="center"| 0
+|align="center"| 4
+|align="center"| 74
+|align="center" bgcolor="#DFDFDF"| 2nd
+|-
+|align="center"| '''2000'''
+| [[Formula One]]
+|align="center"| [[Jaguar Racing|Jaguar]]
+|align="center"| 17
+|align="center"| 0
+|align="center"| 0
+|align="center"| 4
+|align="center"| 13th
+|-
+|align="center"| '''2001'''
+| [[Formula One]]
+|align="center"| [[Jaguar Racing|Jaguar]]
+|align="center"| 17
+|align="center"| 0
+|align="center"| 0
+|align="center"| 6
+|align="center"| 12th
+|-
+|align="center"| '''2002'''
+| [[Formula One]]
+|align="center"| [[Jaguar Racing|Jaguar]]
+|align="center"| 17
+|align="center"| 0
+|align="center"| 0
+|align="center"| 8
+|align="center"| 9th
+|}
+
+===Complete Formula One Grand Prix results===
+([[Template:F1 driver results legend 2|key]]) (Races in '''bold''' indicate pole position) (Races in ''italics'' indicate fastest lap)
+{| class="wikitable" style="text-align:center; font-size:95%"
+! Year
+! Entrant
+! Chassis
+! Engine
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! 12
+! 13
+! 14
+! 15
+! 16
+! 17
+! WDC
+! Points
+|-
+| [[1993 Formula One season|1993]]
+! [[Jordan Grand Prix|Sasol Jordan]]
+! [[Jordan Grand Prix|Jordan]] [[Jordan 193|193]]
+! [[Hart (racing)|Hart]]
+| [[1993 South African Grand Prix|RSA]]<br /><small></small>
+| [[1993 Brazilian Grand Prix|BRA]]<br /><small></small>
+| [[1993 European Grand Prix|EUR]]<br /><small></small>
+| [[1993 San Marino Grand Prix|SMR]]<br /><small></small>
+| [[1993 Spanish Grand Prix|ESP]]<br /><small></small>
+| [[1993 Monaco Grand Prix|MON]]<br /><small></small>
+| [[1993 Canadian Grand Prix|CAN]]<br /><small></small>
+| [[1993 French Grand Prix|FRA]]<br /><small></small>
+| [[1993 British Grand Prix|GBR]]<br /><small></small>
+| [[1993 German Grand Prix|GER]]<br /><small></small>
+| [[1993 Hungarian Grand Prix|HUN]]<br /><small></small>
+| [[1993 Belgian Grand Prix|BEL]]<br /><small></small>
+| [[1993 Italian Grand Prix|ITA]]<br /><small></small>
+| [[1993 Portuguese Grand Prix|POR]]<br /><small></small>
+|bgcolor="#DFFFDF"| [[1993 Japanese Grand Prix|JPN]]<br /><small>6</small>
+|bgcolor="#EFCFFF"| [[1993 Australian Grand Prix|AUS]]<br /><small>Ret</small>
+|
+! 20th
+! 1
+|-
+| [[1994 Formula One season|1994]]
+! [[Jordan Grand Prix|Sasol Jordan]]
+! [[Jordan Grand Prix|Jordan]] [[Jordan 194|194]]
+! [[Hart (racing)|Hart]]
+|bgcolor="#EFCFFF"| [[1994 Brazilian Grand Prix|BRA]]<br /><small>Ret</small>
+| [[1994 Pacific Grand Prix|PAC]]<br /><small></small>
+| [[1994 San Marino Grand Prix|SMR]]<br /><small></small>
+| [[1994 Monaco Grand Prix|MON]]<br /><small></small>
+|bgcolor="#DFFFDF"| [[1994 Spanish Grand Prix|ESP]]<br /><small>6</small>
+|bgcolor="#EFCFFF"| [[1994 Canadian Grand Prix|CAN]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1994 French Grand Prix|FRA]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1994 British Grand Prix|GBR]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1994 German Grand Prix|GER]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1994 Hungarian Grand Prix|HUN]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[1994 Belgian Grand Prix|BEL]]<br /><small>13</small>
+|bgcolor="#EFCFFF"| [[1994 Italian Grand Prix|ITA]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[1994 Portuguese Grand Prix|POR]]<br /><small>7</small>
+|bgcolor="#DFFFDF"| [[1994 European Grand Prix|EUR]]<br /><small>4</small>
+|bgcolor="#DFFFDF"| [[1994 Japanese Grand Prix|JPN]]<br /><small>5</small>
+|bgcolor="#EFCFFF"| [[1994 Australian Grand Prix|AUS]]<br /><small>Ret</small>
+|
+! 16th
+! 6
+|-
+| [[1995 Formula One season|1995]]
+! [[Jordan Grand Prix|Total Jordan Peugeot]]
+! [[Jordan Grand Prix|Jordan]] [[Jordan 195|195]]
+! [[Peugeot]]
+|bgcolor="#EFCFFF"| [[1995 Brazilian Grand Prix|BRA]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1995 Argentine Grand Prix|ARG]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[1995 San Marino Grand Prix|SMR]]<br /><small>8</small>
+|bgcolor="#DFFFDF"| [[1995 Spanish Grand Prix|ESP]]<br /><small>5</small>
+|bgcolor="#EFCFFF"| [[1995 Monaco Grand Prix|MON]]<br /><small>Ret</small>
+|bgcolor="#FFDF9F"| [[1995 Canadian Grand Prix|CAN]]<br /><small>3</small>
+|bgcolor="#CFCFFF"| [[1995 French Grand Prix|FRA]]<br /><small>9</small>
+|bgcolor="#EFCFFF"| [[1995 British Grand Prix|GBR]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[1995 German Grand Prix|GER]]<br /><small>9</small>
+|bgcolor="#EFCFFF"| [[1995 Hungarian Grand Prix|HUN]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1995 Belgian Grand Prix|BEL]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1995 Italian Grand Prix|ITA]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[1995 Portuguese Grand Prix|POR]]<br /><small>10</small>
+|bgcolor="#DFFFDF"| [[1995 European Grand Prix|EUR]]<br /><small>6</small>
+|bgcolor="#CFCFFF"| [[1995 Pacific Grand Prix|PAC]]<br /><small>11</small>
+|bgcolor="#DFFFDF"| [[1995 Japanese Grand Prix|JPN]]<br /><small>4</small>
+|bgcolor="#EFCFFF"| [[1995 Australian Grand Prix|AUS]]<br /><small>Ret</small>
+! 12th
+! 10
+|-
+| [[1996 Formula One season|1996]]
+! [[Scuderia Ferrari]]
+! [[Scuderia Ferrari|Ferrari]] [[Ferrari F310|F310]]
+! [[Scuderia Ferrari|Ferrari]]
+|bgcolor="#FFDF9F"| [[1996 Australian Grand Prix|AUS]]<br /><small>3</small>
+|bgcolor="#CFCFFF"| [[1996 Brazilian Grand Prix|BRA]]<br /><small>7</small>
+|bgcolor="#DFFFDF"| [[1996 Argentine Grand Prix|ARG]]<br /><small>5</small>
+|bgcolor="#EFCFFF"| [[1996 European Grand Prix|EUR]]<br /><small>Ret</small>
+|bgcolor="#DFFFDF"| [[1996 San Marino Grand Prix|SMR]]<br /><small>4</small>
+|bgcolor="#CFCFFF"| [[1996 Monaco Grand Prix|MON]]<br /><small>7</small>
+|bgcolor="#EFCFFF"| [[1996 Spanish Grand Prix|ESP]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1996 Canadian Grand Prix|CAN]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1996 French Grand Prix|FRA]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1996 British Grand Prix|GBR]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1996 German Grand Prix|GER]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1996 Hungarian Grand Prix|HUN]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1996 Belgian Grand Prix|BEL]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1996 Italian Grand Prix|ITA]]<br /><small>Ret</small>
+|bgcolor="#DFFFDF"| [[1996 Portuguese Grand Prix|POR]]<br /><small>5</small>
+|bgcolor="#EFCFFF"| [[1996 Japanese Grand Prix|JPN]]<br /><small>Ret</small>
+|
+! 10th
+! 11
+|-
+| [[1997 Formula One season|1997]]
+! [[Scuderia Ferrari|Scuderia Ferrari Marlboro]]
+! [[Scuderia Ferrari|Ferrari]] [[Ferrari F310B|F310B]]
+! [[Scuderia Ferrari|Ferrari]]
+|bgcolor="#EFCFFF"| [[1997 Australian Grand Prix|AUS]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[1997 Brazilian Grand Prix|BRA]]<br /><small>16</small>
+|bgcolor="#DFDFDF"| [[1997 Argentine Grand Prix|ARG]]<br /><small>2</small>
+|bgcolor="#FFDF9F"| [[1997 San Marino Grand Prix|SMR]]<br /><small>3</small>
+|bgcolor="#FFDF9F"| [[1997 Monaco Grand Prix|MON]]<br /><small>3</small>
+|bgcolor="#CFCFFF"| [[1997 Spanish Grand Prix|ESP]]<br /><small>12</small>
+|bgcolor="#EFCFFF"| [[1997 Canadian Grand Prix|CAN]]<br /><small>Ret</small>
+|bgcolor="#FFDF9F"| [[1997 French Grand Prix|FRA]]<br /><small>3</small>
+|bgcolor="#EFCFFF"| [[1997 British Grand Prix|GBR]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1997 German Grand Prix|GER]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[1997 Hungarian Grand Prix|HUN]]<br /><small>9</small>
+|bgcolor="#CFCFFF"| [[1997 Belgian Grand Prix|BEL]]<br /><small>10</small>
+|bgcolor="#CFCFFF"| [[1997 Italian Grand Prix|ITA]]<br /><small>8</small>
+|bgcolor="#EFCFFF"| [[1997 Austrian Grand Prix|AUT]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1997 Luxembourg Grand Prix|LUX]]<br /><small>Ret</small>
+|bgcolor="#FFDF9F"| [[1997 Japanese Grand Prix|JPN]]<br /><small>3</small>
+|bgcolor="#DFFFDF"| [[1997 European Grand Prix|EUR]]<br /><small>5</small>
+! 7th
+! 24
+|-
+| [[1998 Formula One season|1998]]
+! [[Scuderia Ferrari|Scuderia Ferrari Marlboro]]
+! [[Scuderia Ferrari|Ferrari]] [[Ferrari F300|F300]]
+! [[Scuderia Ferrari|Ferrari]]
+|bgcolor="#DFFFDF"| [[1998 Australian Grand Prix|AUS]]<br /><small>4</small>
+|bgcolor="#CFCFFF"| [[1998 Brazilian Grand Prix|BRA]]<br /><small>8</small>
+|bgcolor="#FFDF9F"| [[1998 Argentine Grand Prix|ARG]]<br /><small>3</small>
+|bgcolor="#FFDF9F"| [[1998 San Marino Grand Prix|SMR]]<br /><small>3</small>
+|bgcolor="#EFCFFF"| [[1998 Spanish Grand Prix|ESP]]<br /><small>Ret</small>
+|bgcolor="#FFDF9F"| [[1998 Monaco Grand Prix|MON]]<br /><small>3</small>
+|bgcolor="#FFDF9F"| [[1998 Canadian Grand Prix|CAN]]<br /><small>3</small>
+|bgcolor="#DFDFDF"| [[1998 French Grand Prix|FRA]]<br /><small>2</small>
+|bgcolor="#FFDF9F"| [[1998 British Grand Prix|GBR]]<br /><small>3</small>
+|bgcolor="#DFFFDF"| [[1998 Austrian Grand Prix|AUT]]<br /><small>4</small>
+|bgcolor="#CFCFFF"| [[1998 German Grand Prix|GER]]<br /><small>8</small>
+|bgcolor="#EFCFFF"| [[1998 Hungarian Grand Prix|HUN]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[1998 Belgian Grand Prix|BEL]]<br /><small>Ret</small>
+|bgcolor="#DFDFDF"| [[1998 Italian Grand Prix|ITA]]<br /><small>2</small>
+|bgcolor="#DFFFDF"| [[1998 Luxembourg Grand Prix|LUX]]<br /><small>4</small>
+|bgcolor="#DFDFDF"| [[1998 Japanese Grand Prix|JPN]]<br /><small>2</small>
+|
+! 4th
+! 47
+|-
+| [[1999 Formula One season|1999]]
+! [[Scuderia Ferrari|Scuderia Ferrari Marlboro]]
+! [[Scuderia Ferrari|Ferrari]] [[Ferrari F399|F399]]
+! [[Scuderia Ferrari|Ferrari]]
+|bgcolor="#FFFFBF"| [[1999 Australian Grand Prix|AUS]]<br /><small>1</small>
+|bgcolor="#DFFFDF"| [[1999 Brazilian Grand Prix|BRA]]<br /><small>5</small>
+|bgcolor="#EFCFFF"| [[1999 San Marino Grand Prix|SMR]]<br /><small>Ret</small>
+|bgcolor="#DFDFDF"| [[1999 Monaco Grand Prix|MON]]<br /><small>2</small>
+|bgcolor="#DFFFDF"| [[1999 Spanish Grand Prix|ESP]]<br /><small>4</small>
+|bgcolor="#FFDF9F"| ''[[1999 Canadian Grand Prix|CAN]]''<br /><small>3</small>
+|bgcolor="#DFFFDF"| [[1999 French Grand Prix|FRA]]<br /><small>6</small>
+|bgcolor="#DFDFDF"| [[1999 British Grand Prix|GBR]]<br /><small>2</small>
+|bgcolor="#FFFFBF"| [[1999 Austrian Grand Prix|AUT]]<br /><small>1</small>
+|bgcolor="#FFFFBF"| [[1999 German Grand Prix|GER]]<br /><small>1</small>
+|bgcolor="#FFDF9F"| [[1999 Hungarian Grand Prix|HUN]]<br /><small>3</small>
+|bgcolor="#DFFFDF"| [[1999 Belgian Grand Prix|BEL]]<br /><small>4</small>
+|bgcolor="#DFFFDF"| [[1999 Italian Grand Prix|ITA]]<br /><small>6</small>
+|bgcolor="#CFCFFF"| [[1999 European Grand Prix|EUR]]<br /><small>7</small>
+|bgcolor="#FFFFBF"| [[1999 Malaysian Grand Prix|MAL]]<br /><small>1</small>
+|bgcolor="#FFDF9F"| [[1999 Japanese Grand Prix|JPN]]<br /><small>3</small>
+|
+|bgcolor="#DFDFDF"| '''2nd'''
+|bgcolor="#DFDFDF"| '''74'''
+|-
+| [[2000 Formula One season|2000]]
+! [[Jaguar Racing]]
+! [[Jaguar Racing|Jaguar]] [[Jaguar R1|R1]]
+! [[Cosworth]]
+|bgcolor="#EFCFFF"| [[2000 Australian Grand Prix|AUS]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2000 Brazilian Grand Prix|BRA]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[2000 San Marino Grand Prix|SMR]]<br /><small>7</small>
+|bgcolor="#CFCFFF"| [[2000 British Grand Prix|GBR]]<br /><small>13</small>
+|bgcolor="#CFCFFF"| [[2000 Spanish Grand Prix|ESP]]<br /><small>11</small>
+|bgcolor="#EFCFFF"| [[2000 European Grand Prix|EUR]]<br /><small>Ret</small>
+|bgcolor="#DFFFDF"| [[2000 Monaco Grand Prix|MON]]<br /><small>4</small>
+|bgcolor="#CFCFFF"| [[2000 Canadian Grand Prix|CAN]]<br /><small>13</small>
+|bgcolor="#CFCFFF"| [[2000 French Grand Prix|FRA]]<br /><small>13</small>
+|bgcolor="#F1F8FF"| [[2000 Austrian Grand Prix|AUT]]<br /><small>PO</small>
+|bgcolor="#CFCFFF"| [[2000 German Grand Prix|GER]]<br /><small>8</small>
+|bgcolor="#CFCFFF"| [[2000 Hungarian Grand Prix|HUN]]<br /><small>8</small>
+|bgcolor="#CFCFFF"| [[2000 Belgian Grand Prix|BEL]]<br /><small>10</small>
+|bgcolor="#EFCFFF"| [[2000 Italian Grand Prix|ITA]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[2000 United States Grand Prix|USA]]<br /><small>7</small>
+|bgcolor="#CFCFFF"| [[2000 Japanese Grand Prix|JPN]]<br /><small>8</small>
+|bgcolor="#DFFFDF"| [[2000 Malaysian Grand Prix|MAL]]<br /><small>6</small>
+! 13th
+! 4
+|-
+| [[2001 Formula One season|2001]]
+! [[Jaguar Racing]]
+! [[Jaguar Racing|Jaguar]] [[Jaguar R2|R2]]
+! [[Cosworth]]
+|bgcolor="#CFCFFF"| [[2001 Australian Grand Prix|AUS]]<br /><small>11</small>
+|bgcolor="#EFCFFF"| [[2001 Malaysian Grand Prix|MAL]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2001 Brazilian Grand Prix|BRA]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2001 San Marino Grand Prix|SMR]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2001 Spanish Grand Prix|ESP]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[2001 Austrian Grand Prix|AUT]]<br /><small>7</small>
+|bgcolor="#FFDF9F"| [[2001 Monaco Grand Prix|MON]]<br /><small>3</small>
+|bgcolor="#EFCFFF"| [[2001 Canadian Grand Prix|CAN]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[2001 European Grand Prix|EUR]]<br /><small>7</small>
+|bgcolor="#EFCFFF"| [[2001 French Grand Prix|FRA]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[2001 British Grand Prix|GBR]]<br /><small>9</small>
+|bgcolor="#EFCFFF"| [[2001 German Grand Prix|GER]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2001 Hungarian Grand Prix|HUN]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2001 Belgian Grand Prix|BEL]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2001 Italian Grand Prix|ITA]]<br /><small>Ret</small>
+|bgcolor="#DFFFDF"| [[2001 United States Grand Prix|USA]]<br /><small>5</small>
+|bgcolor="#EFCFFF"| [[2001 Japanese Grand Prix|JPN]]<br /><small>Ret</small>
+! 12th
+! 6
+|-
+| [[2002 Formula One season|2002]]
+! [[Jaguar Racing]]
+! [[Jaguar Racing|Jaguar]] [[Jaguar R3|R3]]
+! [[Cosworth]]
+|bgcolor="#DFFFDF"| [[2002 Australian Grand Prix|AUS]]<br /><small>4</small>
+|bgcolor="#EFCFFF"| [[2002 Malaysian Grand Prix|MAL]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[2002 Brazilian Grand Prix|BRA]]<br /><small>7</small>
+|bgcolor="#EFCFFF"| [[2002 San Marino Grand Prix|SMR]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2002 Spanish Grand Prix|ESP]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2002 Austrian Grand Prix|AUT]]<br /><small>Ret</small>
+|bgcolor="#CFCFFF"| [[2002 Monaco Grand Prix|MON]]<br /><small>9</small>
+|bgcolor="#EFCFFF"| [[2002 Canadian Grand Prix|CAN]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2002 European Grand Prix|EUR]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2002 British Grand Prix|GBR]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2002 French Grand Prix|FRA]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2002 German Grand Prix|GER]]<br /><small>Ret</small>
+|bgcolor="#EFCFFF"| [[2002 Hungarian Grand Prix|HUN]]<br /><small>Ret</small>
+|bgcolor="#DFFFDF"| [[2002 Belgian Grand Prix|BEL]]<br /><small>6</small>
+|bgcolor="#FFDF9F"| [[2002 Italian Grand Prix|ITA]]<br /><small>3</small>
+|bgcolor="#CFCFFF"| [[2002 United States Grand Prix|USA]]<br /><small>10</small>
+|bgcolor="#CFCFFF"| [[2002 Japanese Grand Prix|JPN]]<br /><small>9</small>
+! 9th
+! 8
+|}
+
+{{start box}}
+{{s-sports}}
+{{succession box|title=[[British Formula Ford Championship|British Formula Ford Champion]]|before=[[Jason Elliot (driver)|Jason Elliot]] |after=[[Derek Higgins]]|years=1987}}
+{{succession box | title = [[Formula Ford Festival|Formula Ford Festival Winner]] | years=1987 | before = [[Roland Ratzenberger]] | after=[[Vincenzo Sospiri]]}}
+{{s-ach}}
+{{succession box | title=[[Hawthorn Memorial Trophy]] | before=[[David Coulthard]] | after=[[David Coulthard]]| years=1999}}
+{{succession box | before= [[Dario Franchitti]] |title=[[Autosport]]<br />British Competition Driver of the Year|after=[[David Coulthard]]|years=1999}}
+{{end box}}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Irvine, Eddie}}
+[[Category:1965 births]]
+[[Category:Living people]]
+[[Category:Ferrari Formula One drivers]]
+[[Category:Racecar drivers from Northern Ireland]]
+[[Category:Formula One drivers from Northern Ireland]]
+[[Category:Japanese Formula 3000 Championship drivers]]
+[[Category:British Formula Three Championship drivers]]
+[[Category:24 Hours of Le Mans drivers]]
+[[Category:People from Newtownards]]
+[[Category:People associated with Dalkey]]
+[[Category:International Formula 3000 drivers]]
+[[Category:Formula Ford drivers]]
+
+[[bg:Еди Ървайн]]
+[[ca:Eddie Irvine]]
+[[cs:Eddie Irvine]]
+[[da:Eddie Irvine]]
+[[de:Eddie Irvine]]
+[[et:Eddie Irvine]]
+[[es:Eddie Irvine]]
+[[fr:Eddie Irvine]]
+[[ga:Eddie Irvine]]
+[[hr:Eddie Irvine]]
+[[id:Eddie Irvine]]
+[[it:Eddie Irvine]]
+[[lv:Edijs Irvains]]
+[[hu:Eddie Irvine]]
+[[nl:Eddie Irvine]]
+[[ja:エディ・アーバイン]]
+[[no:Eddie Irvine]]
+[[pl:Eddie Irvine]]
+[[pt:Eddie Irvine]]
+[[ro:Eddie Irvine]]
+[[ru:Ирвайн, Эдди]]
+[[sl:Eddie Irvine]]
+[[fi:Eddie Irvine]]
+[[sv:Eddie Irvine]]

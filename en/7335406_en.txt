@@ -1,0 +1,57 @@
+{{Infobox Company 
+| company_name     = Parex Bank
+| company_logo     = [[Image:Parexlogo eng.png||Parex Bank]] 
+| vector_logo      = 
+| company_type     = 
+| foundation       = [[Image:Flag of Latvia.svg|22px]] [[Latvia]] (1992)
+| founder          = 
+| location_city    = {{flagicon|Latvia}} [[Riga]]
+| location_country = [[Latvia]]
+| location         = 
+| origins          = 
+| key_people       = [[Nils Melngailis]] (chairman)<br />[[Valērijs Kargins]] (founder, vice-chairman, former chairman)<br />[[Viktors Krasovickis]] (founder, former vice-chairman)
+| area_served      = 
+| industry         = [[Finance and Insurance]]
+| products         = [[Financial Services]]
+| market cap       = 
+| revenue          = 
+| operating_income = 
+| net_income       = 
+| num_employees    = 2,600
+| parent           = 
+| subsid           = 
+| owner            = 
+| slogan           =
+| homepage         = [http://www.parex.lv www.parex.lv]
+| dissolved        = 
+| footnotes        = 
+}}
+
+'''Parex Banka''' is a [[Latvia]]n [[bank]] with branches in [[Berlin]], [[Stockholm]] and [[Tallinn]], and representative offices in [[Tokyo]], [[Moscow]], [[Kiev]], [[Baku]] and other cities. The bank employs 2,600 staff in 14 countries.
+
+In 2003, they commissioned the building of a new 150,000 m² headquarters in [[Riga]]. In 2005, they launched the first [[American Express]] cards in Latvia. The bank has [[Subsidiary|subsidiaries]] in [[Switzerland]] ([[AP Anlage und Privat Bank]]) and [[Lithuania]] ([[Parex Bankas]]).
+
+In the wake of the [[Economic crisis of 2008]] Parex Bank was nationalised on November 8, 2008. The Latvian state bought 51% of the bank's stocks for symbolic 2 [[Latvian lats|Lats]]. In addition 34% of the stocks were transferred to the state-owned Mortage and Land Bank as a security.<ref>[http://di.se/Nyheter/?page=/Avdelningar/Artikel.aspx%3Fstat%3D0%26ArticleID%3D2008%255c11%255c09%255c310476%26SectionId%3DBorsMarknad%26menusection%3DBorsMarknad%3BBorsMarknadNyheter Dagens Industri: ''Lettland tar över krisbank''.] (retrieved 2008-11-09)</ref> 
+
+== References ==
+{{Reflist}}
+* [http://home3.americanexpress.com/corp/pc/2005/parex.asp Parex banka and American Express launch the first American Express cards in Latvia] - American Express press release
+* [http://www.cowi.com/cowi/en/menu/projects/buildings/commercialbuildings/ParexBankaNewDomicileInRigaLatvia.htm Parex Banka's new domicile in Riga, Latvia] - Architect's press release
+
+== External links ==
+* [http://www.parexgroup.com/en/ Parex Banka]
+
+[[Category:Banks of Latvia]]
+[[Category:Banks established in 1992]]
+[[Category:Companies based in Riga]]
+
+{{Latvia-stub}}
+{{Euro-company-stub}}
+{{Euro-bank-stub}}
+
+[[de:Parex-Bank]]
+[[eo:Banko Parex]]
+[[lv:Parex banka]]
+[[lt:Parex bankas]]
+[[ru:Parex Bank]]
+[[sv:Parex Bank]]

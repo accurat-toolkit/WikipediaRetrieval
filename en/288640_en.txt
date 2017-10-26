@@ -1,0 +1,161 @@
+{{Infobox Military Unit
+|unit_name= National Oceanic and Atmospheric Administration<br />Commissioned Corps
+|image= [[File:NOAA-Corplogo.jpg|center|150px]]
+|caption= National Oceanic and Atmospheric Administration<br/>Commissioned Corps
+|dates= 1807<ref name="About NOAA Corps">[http://www.noaacorps.noaa.gov/about/about.html About NOAA Corps]</ref> - today
+|country= [[United States of America]]
+|allegiance=
+|branch= Commissioned Corps
+|type= [[Uniformed services of the United States|Uniformed service]]
+|size= 299 personnel<ref name="About NOAA Corps"/><br />19 ships, 14 aircraft<ref>[http://www.noaanews.noaa.gov/stories2009/20090714_commander.html New Commander to Direct NOAA’s Aircraft Operations]</ref>
+|command_structure= [[United States Department of Commerce|Department of Commerce]]
+|garrison= [[Silver Spring, MD]]
+|garrison_label= Headquarters
+|nickname=
+|motto=
+|patron=
+|colors= [[Blue]] & [[Gold (color)|Gold]] {{color box|#0000FF}}{{color box|#FFD700}}
+|colors_label= Colors
+|march= Forward with NOAA
+|mascot=
+|equipment=
+|equipment_label=
+|battles= <div style="width: 220px;">[[American Civil War]]<ref name="NOAA Corps History">[http://www.noaacorps.noaa.gov/about/history1.html History of the NOAA Commissioned Corps]</ref><br />[[World War I]]<ref name="NOAA Corps History"/><br />[[World War II]]<ref name="NOAA Corps History"/></div>
+|anniversaries=
+|decorations= 
+|battle_honours=
+<!-- Commanders -->
+|commander1= RADM [[Jonathan W. Bailey]]
+|commander1_label= Director, NOAA Commissioned Corps
+|commander2= RADM [[Philip M. Kenul]]
+|commander2_label= Director, Marine and Aviation Operations Centers
+|commander3= CAPT Raymond C. Slagle
+|commander3_label= Director, Commissioned Personnel Center
+|notable_commanders=RADM [[Evelyn J. Fields]]<br />RADM [[Samuel P. De Bow, Jr.]]
+<!-- Insignia -->
+|identification_symbol=
+|identification_symbol_label=
+|identification_symbol_2= 
+|identification_symbol_2_label=
+|identification_symbol_3=
+|identification_symbol_3_label=
+|identification_symbol_4=
+|identification_symbol_4_label=
+<!-- Aircraft -->
+|aircraft_attack=
+|aircraft_bomber=
+|aircraft_electronic=
+|aircraft_fighter=
+|aircraft_helicopter=
+|aircraft_interceptor=
+|aircraft_patrol=
+|aircraft_recon=[[WP-3D Orion|WP-3D]], [[Aero Commander 500|AC-500S]], [[Aero Commander 500|AC-695A]], [[Gulfstream IV|G-IV]], [[Cessna Citation II|CE-550]], [[de Havilland Canada DHC-6 Twin Otter|DHC-6]]
+|aircraft_trainer=
+|aircraft_transport=
+}}
+The '''National Oceanic and Atmospheric Administration Commissioned Corps''' ('''NOAA Corps''') is a federal uniformed service operating under the [[National Oceanic and Atmospheric Administration]] (NOAA), which is a scientific agency under the [[United States Department of Commerce]]. The NOAA Corps is one of the seven [[Uniformed services of the United States|uniformed services]] of the [[United States]], having approximately 300 [[commissioned officer]]s.
+[[Image:NOAA-Corpflag.jpg|thumb|left|200px|Flag of the NOAA Commissioned Corps]]
+==History==
+
+The NOAA Commissioned Corps, established in 1917 as the Coast and Geodetic Survey Corps, and then as the [[Environmental Science Services Administration]] (ESSA) Corps from 1965-1970, traces its roots back to the former [[U.S. Coast and Geodetic Survey]], which dates to 1807 under [[President of the United States|President]] [[Thomas Jefferson]].  Coast and Geodetic Survey [[Officer (armed forces)|officers]] were commissioned so that under the [[laws of war]], they could not be executed as [[Espionage|spies]] if they were serving as [[Surveyor (surveying)|surveyor]]s on a battlefield.
+
+The NOAA Corps today provides a cadre of professionals trained in [[engineering]], [[earth science]]s, [[oceanography]], [[meteorology]], [[fisheries science]], and other related disciplines. Officers operate ships, fly aircraft, manage research projects, conduct diving operations, and serve in staff positions throughout NOAA.
+
+==Commissioned officers==
+The NOAA Corps uses the same commissioned officer [[military rank|ranks]] as the United States [[United States Navy|Navy]] and [[United States Coast Guard|Coast Guard]].  While the rank of [[Admiral (United States)|admiral]] has been authorized for use by the NOAA Corps, no officer in its history has held that rank.<ref>[http://www.law.cornell.edu/uscode/37/usc_sec_37_00000201----000-.html] 10 USC 201. Pay grades: assignment to; general rules</ref>  The rank of [[Vice Admiral (United States)|vice admiral]] exists but requires congressional approval for re-activation; the only officer to hold that rank was [[Henry Arnold Karo|H. Arnold Karo]] in 1965.  Current NOAA Corps ranks rise from [[Ensign (rank)|ensign]] to [[Rear admiral (United States)|rear admiral]], [[U.S. uniformed services pay grades|pay grades]] O-1 through O-8 respectively.  NOAA Corps officers are appointed via direct commission and receive the same [[United States Military Pay|pay]] as other members of the [[Uniformed services of the United States|uniformed services]].  They can not hold a dual commission with another service but inter-service transfers are permitted.
+
+{| class="wikitable" border="1" cellpadding="2" cellspacing="0" align="center" width="100%"
+!colspan=11| '''Commissioned Officer Ranks of the National Oceanic and Atmospheric Administration Commissioned Corps'''
+|-
+![[Vice admiral (United States)|Vice Admiral]]<br/>''(inactive grade)''
+![[Rear admiral (United States)#Rear admiral|Rear Admiral]]
+![[Rear admiral (United States)#Rear admiral (lower half)|Rear Admiral <br/>(lower half)]]
+![[Captain (NOAA)| Captain]]
+|-
+!O-9
+!O-8
+!O-7
+!O-6
+|-
+| align="center" width="20%"| [[Image:US Navy O9 insignia.svg|60px]]
+| align="center" width="20%"| [[Image:US Navy O8 insignia.svg|60px]]
+| align="center" width="20%"| [[Image:US Navy O7 insignia.svg|60px]]
+| align="center" width="16%"| [[Image:US Navy O6 insignia.svg|60px]]
+|}
+{| class="wikitable" border="1" cellpadding="2" cellspacing="0" align="center" width="100%"
+|-
+|colspan=11|Note: The gold star above cuff stripes, the gold star on shoulder boards, and the silver anchor on admiral shoulder boards in these illustrations are from U.S. Navy ranks, while NOAA ranks use NOAA insignia instead.
+|}
+{| class="wikitable" border="1" cellpadding="2" cellspacing="0" align="center" width="100%"
+|-
+![[Commander (United States)|Commander]]
+![[Lieutenant commander (United States)|Lieutenant<br/>Commander]]
+![[Lieutenant]]
+![[Lieutenant (junior grade)|Lieutenant<br/>(junior grade)]]
+![[Ensign (rank)|Ensign]]
+|-
+!O-5
+!O-4
+!O-3
+!O-2
+!O-1
+|-
+| align="center" width="16%"| [[Image:US Navy O5 insignia.svg|60px]]
+| align="center" width="16%"| [[Image:US Navy O4 insignia.svg|60px]]
+| align="center" width="16%"| [[Image:US Navy O3 insignia.svg|60px]]
+| align="center" width="16%"| [[Image:US Navy O2 insignia.svg|60px]]
+| align="center" width="16%"| [[Image:US Navy O1 insignia.svg|60px]]
+|}
+
+==Uniforms==
+For formal service uniforms, the NOAA Corps wears the same [[Uniforms_of_the_United_States_Navy#Service_Dress|Service Dress Blues]] and Service Dress Whites as the [[United States Navy|Navy]], but with NOAA Corps insignia in place of Navy insignia.  For daily work uniforms, the NOAA Corps wears the same [[Operational Dress Uniform]] (ODU) as the [[United States Coast Guard|Coast Guard]], but with NOAA Corps insignia in place of Coast Guard insignia.
+
+<gallery>
+Image:Botc112 group.jpg|Officers wearing the Service Dress Blues
+Image:ODU1.JPG|Officer wearing the Operational Dress Uniform
+Image:ODU2.JPG|An ODU uniform ball cap, with [[Lieutenant Commander (United States)|LCDR]] rank insignia
+</gallery>
+
+==See also==
+* [[NOAA ships and aircraft]]
+* [[Awards and decorations of the National Oceanographic and Atmospheric Administration]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.noaacorps.noaa.gov NOAA Commissioned Corps]
+* [http://www.corpscpc.noaa.gov NOAA Commissioned Personnel Center]
+* [http://www.omao.noaa.gov NOAA's Office of Marine and Aviation Operations]
+* [http://www.moc.noaa.gov NOAA Marine Operations]
+* [http://www.aoc.noaa.gov/ NOAA Aircraft Operations]
+* [http://www.uniforminsignia.net/index.php?p=show&id=65&sid=1778 NOAA Corps uniform insignia] and [http://www.noaacorps.noaa.gov/about/insignia.html]
+* [http://www.noaacorps.noaa.gov/about/song.html/ NOAA Corps Marching Song]
+* [http://www.noaa.gov/ NOAA Home]
+* [http://www.noaacorps.noaa.gov/cpc/procedures/directives.html NOAA Directives and Appendices in pdf format]
+
+''This article incorporates material taken from the [[public domain]] website of the [http://www.noaacorps.noaa.gov/ NOAA Corps.]''
+
+{{US military navbox}}
+
+[[Category:National Oceanic and Atmospheric Administration|Corps]]
+[[Category:Uniformed services of the United States|NOAA Corps]]
+[[Category:Government agencies established in 1917]]
+
+[[cs:Národní úřad pro oceán a atmosféru]]
+[[de:National Oceanic and Atmospheric Administration]]
+[[es:Administración Nacional Oceánica y Atmosférica]]
+[[fa:سازمان ملی اقیانوسی و جوی]]
+[[fr:National Oceanic and Atmospheric Administration]]
+[[it:National Oceanic and Atmospheric Administration Commissioned Corps]]
+[[lv:ASV Nacionālā okeānu un atmosfēras administrācija]]
+[[hu:Nemzeti Éghajlati Adatközpont]]
+[[nl:National Oceanic and Atmospheric Administration]]
+[[ja:アメリカ海洋大気圏局]]
+[[no:National Oceanic and Atmospheric Administration]]
+[[ru:Уполномоченный корпус национального управления океанических и атмосферных исследований]]
+[[simple:National Oceanic and Atmospheric Administration]]
+[[fi:NOAA]]
+[[sv:National Oceanic and Atmospheric Administration]]
+[[uk:Національне управління з проблем океану і атмосфери]]
+[[zh:美国国家海洋和大气管理局]]

@@ -1,0 +1,55 @@
+In [[computer-aided design]], '''Geometric Description Language''' ('''GDL''') is the [[programming language]] of [[ArchiCAD library part]]s. '''GSM''' is the [[file format]] of these CAD objects.
+
+== Area of usage==
+
+These objects are similar to blocks in [[AutoCAD]], but unlike blocks, these are parametric, and the 2D and 3D features are connected, so in any view one can get the correct visualization (for example a side view on the section, top view on plan, and perspective in the 3D view). GDL scripts define an ArchiCAD library part in its main roles, these are 3D model, 3D model projected to section/elevation or to 2D plan, 2D plan view, [[user interface]] display and behaviour and listing quantities.
+
+All versions of the [[ArchiCAD]] contain their own default libraries, also objects like furniture, windows, doors, trees, people, cars, construction elements, etc.
+
+There are several commercial websites for selling high-detailed intelligent parametric objects, which are perhaps better and more variable than the default libraries, for example there are a lot of environmental objects like plants, people or garden elements, which are not included in the original software.
+
+== Licensing ==
+
+GDL is a free technology (although ArchiCAD itself is a commercial software), it is allowed and possible to develop GDL based object libraries using free tools like Graphisoft LP_XMLConverter and Graphisoft GDL Web Plug-In.
+
+== Technical information ==
+
+The '''GDL''' programming language is fundamentally [[BASIC]]-like. It has the same control flow statements and variable logic.
+
+In 2D and 3D in GDL, all the model elements are linked to a local right-handed [[coordinate system]]. For placing an element in the desired position, you have to move the coordinate system to the desired position (and orientation), then generate the element itself. Every movement, rotation or stretching of the coordinate system is called a [[Transformation (mathematics)|transformation]]. Transformations are stored in a [[Stack (data structure)|stack]], which can extended by further transformations and can be cut by deleting one or more transformations from the top of it.
+
+GDL is [[backward compatible]], which means that an [[ArchiCAD library part]] will be readable with every subsequent ArchiCAD program, but with none of the earlier versions.
+
+For detailed technical specification consult the ''GDL Reference Manual'' of the latest ArchiCAD release.
+
+== See also ==
+*[[ArchiCAD library part]]
+*[[ArchiCAD]]
+*[[Graphisoft]]
+
+== External links ==
+{{cleanup-spam}}
+=== About the technology ===
+*[http://www.graphisoft.com/products/archicad/object_technology/ Official GDL/Object Technology Home Page by Graphisoft]
+*[http://www.graphisoft.com/ftp/gdl/manual/12 GDL Reference Guide 12]
+*[http://www.graphisoft.com/support/developer/documentation/LibraryDevKit/ Basic Library Documentation including Technical Standards]
+=== Community ===
+*[http://archicad-talk.graphisoft.com/viewforum.php?f=6 Libraries / Library Parts / GDL section of ArchiCAD-Talk]
+*[http://www.gdlalliance.com/ GDL-Alliance]
+=== Downloadable GDL Libraries ===
+*[http://archicad-talk.graphisoft.com/object_depository.php Graphisoft's ArchiCAD GDL Object Depository] 
+*[http://www.smartgdl.uw.hu/ Objects for ArchiCAD]
+*[http://www.cadimagetools.com/ Cadimage Tools - ArchiCAD Plugin and Object Developer]
+*[http://www.3dsmile.it/ 3Dsmile.it - Objects for ArchiCAD for registered users]
+*[http://www.ArchiCADOBJECTS.com/ Objects for ArchiCAD for registered users]
+
+[[Category:CAD file formats]]
+[[Category:Procedural programming languages]]
+[[Category:Dynamically-typed programming languages]]
+[[Category:Domain-specific programming languages]]
+
+[[es:Geometric Description Language]]
+[[it:GDL (Linguaggio di Descrizione Geometrica)]]
+[[lv:GDL]]
+[[ja:GDL]]
+[[fi:GDL]]

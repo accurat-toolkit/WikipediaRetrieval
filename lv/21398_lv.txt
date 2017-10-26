@@ -1,0 +1,51 @@
+{{ezers
+|ezers=Baskunčaks
+|attēls=[[Attēls:Baskunchak.JPG|300px|Baskunčaks]]
+|koordinātes=48°10’Z 46°53’A
+|platība=115
+|garums=18
+|Vid_dziļums=?
+|Max_dziļums=1
+|tilpums=?
+|augstums_vjl=-21
+|izteka=Nav
+|baseins=?
+|valstis=[[Krievija]]
+|salas=
+|pilsētas=Nav
+}}'''Baskunčaks''' ([[krievu valoda|krieviski]] - ''Баскунчак'') - liels [[sālsezers]] [[Krievija]]s teritorijā, [[Astrahaņas apgabals|Astrahaņas apgabalā]]. Atrodas ap 270 km ziemeļos no [[Kaspijas jūra]]s un ap 53 km austrumos no [[Volga]]s. Atrodas zem jūras līmeņa. 
+
+Ezerā ietek Gorkaja un 25 avoti. Ezera ūdens sāļums - ap 300 g/l. Ezera gultni klāj 10 - 18 m biezs sāls slānis, taču sāli saturošu nogulumu kopējais biezums šeit sasniedz 6 km. Sāls ieguves rezultātā vietām ezera gultnē līdz 8 m dziļi robi. Pavasarī un rudenī [[rapa]]s (maksimāli sāļš ūdens) slāņa biezums sasniedz 1 m. Ezerā dzīvo tikai dažu sugu [[mikroorganisms|mikroorganismi]], kas spēj izturēt šādu sāļuma pakāpi.
+
+Sāli ezerā iegūst jau kopš [[8. gadsimts|8. gs]], kad netālu gāja [[Zīda ceļš]]. Pirmoreiz rakstītos avotos minēts [[1627]]. gadā, kad minēts Krievijas ģeogrāfiskajā aprakstā kā vieta, kur "lauž sāli, kas dzidra kā ledus". Ezerā tiešām atrodama ārkārtīgi tīra sāls (99,8 % NaCl), to iegūst uzņēmums "Бассоль". Ieguves apjoms - 1,5 - 5 miljoni tonnu gadā. Sāls izvešanai uzcelts Baskunčaka dzelzceļš.
+
+Jūlijā - augustā uz ezeru dodas tūristi, kas peldas rapā.
+
+=== Bogdo kalns ===
+Ezera dienvidu krastā stāv [[Bogdo kalns]] - vienīgais dabiskais kalns [[Piekaspijas zemiene|Piekaspijas zemienē]]. Kalna pakāje ir ap 20 m zem jūra slīmeņa, virsotne - ap 130 m virs jūras līmeņa. Kalna augstums gadā pieaug aptuveni par 1 mm, pateicoties tam, ka sāls slāņa lielais smagums lēnām izspiež to aizvien augstāk. Kalnā ir arī tukšumi un līdz 1,5 km garas [[ala]]s (Lielā Baskunčaka ala). Kalna atsegumos bagātīgi atrodamas [[triass|triasa]] faunas [[pārakmeņojums|pārakmeņojumi]].
+
+Vietējiem iedzīvotājiem - [[kalmiki]]em - šis kalns ir svēts.
+
+[[1997]]. gadā nodibināts dabas rezervāts, kas ietver Baskunčaku un Bogdo kalnu.
+
+== Ārējās saites ==
+{{Commonscat|Baskunchak|Baskunčaks}}
+* [http://www.zin.ru/animalia/Coleoptera/rus/bogdo_kg.htm Ezera un tā apkaimes apraksts krievu valodā, attēli]
+
+[[Kategorija:Krievijas ezeri]]
+[[Kategorija:Sālsezeri]]
+[[Kategorija:Beznoteces ezeri]]
+
+[[cs:Baskunčak]]
+[[de:Baskuntschak]]
+[[en:Lake Baskunchak]]
+[[eo:Baskunĉak]]
+[[et:Baskuntšak]]
+[[fr:Baskountchak]]
+[[lt:Baskunčakas]]
+[[nl:Baskoentsjakmeer]]
+[[nn:Baskuntsjak]]
+[[os:Баскунчак (цад)]]
+[[pl:Baskunczak]]
+[[ru:Баскунчак]]
+[[uk:Баскунчак]]

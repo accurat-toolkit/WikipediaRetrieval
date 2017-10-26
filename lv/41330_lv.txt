@@ -1,0 +1,53 @@
+[[Image:Raster to Vector Mechanical Example.jpg|right|thumb|Augšējā attēlā parādīta fotogrāfija, savukārt apakšējā attēlā šī paša situācija ir attēlota zīmējumā]]
+'''Attēls''' vai '''zīmējums''' ir materiālās kultūras elements, kas parasti ir divdimensionāls. Parasti attēlā ir redzams kāds [[fizikāls ķermenis|priekšmets]] vai [[persona]]. Attēli var būt arī trīsdimensionāli, piemēram, [[hologramma]]s.  Cilvēks un dzīvnieki attēlus uztver ar [[acis|acīm]]. Par attēliem var saukt arī dažādas [[karte]]s, [[grafiks|grafikus]], [[diagramma]]s vai arī [[abstraktā māksla|abstrakto mākslu]]. 
+
+==Attēlu iegūšanas metodes==
+
+Attēlus (zīmējumus) var iegūt 
+* [[zīmēšana|zīmējot]], [[krāsošana|krāsojot]], [[gleznošana|gleznojot]] vai [[izgrebšana|izgrebjot]];
+* ar vienkāršu priekšmetu palīdzību, piemēram, ar [[spogulis|spoguļa]], [[stikls|stikla]] un citu priekšmetu palīdzību;
+* ar dažādu tehnoloģiju palīdzību, piemēram, [[fotogrāfija|fotogrāfēšana]], [[printēšana]], [[datorgrafika]], [[projekcija]], ar [[teleskops|teleskopu]], [[mikroskops|mikroskopu]] u.c.
+
+==Attēlu izmantošana==
+
+Attēli galvenokārt tiek izmantoti:
+* dažādu [[teksts|tekstu]] ilustrēšanā;
+* [[navigācija|navigācijā]] (kartes, plāni);
+* dažādu datu analīzē (grafiki, diagrammas);
+* kinoindrustrijā ([[kinofilma]]s, [[multiplikācija|animācija]]s filmas);
+* makslas jomā ([[glezna]]s, [[skice]]s, [[grafiti]]).
+
+==Skatīt arī==
+* [[Telpisks attēls]]
+* [[Māksla]]
+* [[Optika]]
+* [[Fotogrāfija]]
+* [[Grafiti]]
+* [[Hologramma]]
+
+[[Kategorija:Māksla]]
+
+[[ar:صورة]]
+[[da:Billede]]
+[[de:Abbild]]
+[[en:Image]]
+[[eo:Bildo]]
+[[et:Pilt]]
+[[fa:تصویر]]
+[[fi:Kuva]]
+[[fr:Image]]
+[[ga:Íomhá]]
+[[gn:Ta'anga]]
+[[id:Citra]]
+[[io:Imajo]]
+[[it:Immagine]]
+[[ja:画像]]
+[[ka:სურათი]]
+[[ko:그림]]
+[[nl:Afbeelding (filosofie)]]
+[[no:Bilde]]
+[[pt:Imagem]]
+[[ru:Образ (информация)]]
+[[simple:Picture]]
+[[yi:בילד]]
+[[zh:图像]]

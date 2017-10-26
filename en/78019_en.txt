@@ -1,0 +1,144 @@
+{{Cleanup|date=March 2008}}
+{{Expand|date=March 2008}}
+
+{{Infobox Ocean
+| Ocean_name         = Sea of Azov
+| image_Ocean        = Sea_of_Azov-NASA.jpg
+| caption_Ocean      = The shallow Sea of Azov is clearly distinguished from the deeper Black Sea.
+| image_bathymetry  = Black Sea map.png
+| caption_bathymetry= 
+| location          = 
+| coords            = {{coord|46|N|37|E|type:waterbody_scale:1200000|display=inline,title}}
+| type              = 
+| inflow            = [[Don_River_(Russia)|Don]] and [[Kuban_River|Kuban]]
+| outflow           = 
+| catchment         = 
+| basin_countries   = 
+| length            = {{convert|340|km|mi|abbr=on}}
+| width             = {{convert|135|km|mi|abbr=on}}
+| area              = {{convert|37555|km2|sqmi|abbr=on}}
+| depth             = {{convert|13|m|ft|abbr=on}}
+| max-depth         = {{convert|15.3|m|ft|abbr=on}}
+| volume            = 
+| residence_time    = 
+| shore             = 
+| elevation         = 
+| frozen            = 
+| islands           = 
+| cities            = 
+| reference         =
+}} <!-- end of Infobox lake -->
+[[Image:Sea of azov1.jpg|thumb|The Sea of Azov near the [[Eysk Spit]].]]
+
+The '''Sea of Azov''' ({{lang-ru|Азо́вское мо́ре}} - ''Azovskoye more''; {{lang-uk|Озівськe or Азо́вське мо́ре}} - ''Ozivs'ke  ''or'' Azovs'ke more'', {{lang-crh|Azaq deñizi}}) is the world's shallowest sea, linked by the [[Strait of Kerch]] to the [[Black Sea]] to the south. It is bounded on the north by [[Ukraine]], on the east by [[Russia]] and on the west by the [[Crimean peninsula]]. The [[Don River (Russia)|Don River]] flows into it.
+
+==Geology and bathymetry==
+The sea is {{convert|340|km}} long and {{convert|135|km}} wide and has an area of {{convert|37555|km2}}. The main rivers flowing into it are the [[Don River, Russia|Don]] and [[Kuban River|Kuban]]; they ensure that the waters of the sea have comparatively low salinity and are almost fresh in places, and also bring in huge volumes of silt. To the west also lie the {{convert|110|km}} long [[Arabat Spit]] and the highly saline marshy inlets of the [[Sivash]].
+
+The Sea of Azov is the shallowest sea in the world with an average depth of {{convert|13|m}} and maximum depth of {{convert|15.3|m}}; where silt has built up, such as the [[Gulf of Taganrog]], the average depth is less than {{convert|1|m|ft|0}}. The prevailing current in the sea is a [[counter-clockwise]] swirl<!-- ; tides are variable but can peak at over 5 metres -->. Salinity varies from 1 to 15 parts per thousand (compared to 30 to 40 for the oceans) across the sea and with season.<ref>{{cite web|url=http://www.nodc.noaa.gov/OC5/AZOV2006/HTML/s_climatology.html|title=Climatological Atlas of the Sea of Azov|publisher=National Oceanographic Data Centre|accessdate=2008-01-06}}</ref>
+
+The shallowness and low salinity of the sea make it vulnerable to freezing during winter. Formation of sea ice can occur temporarily at any time from late December to mid-March. Under the present climate, the sea no longer freezes over, although during the 18th and 19th centuries and as far as the late 1970s, it was normally frozen over every year by early February. <ref>Sea ice survey - annual, University of Wisconsin Space Science and Engineering Centre</ref>
+
+The current name is popularly said to come from a [[Cumans|Polovtsian]] prince named ''Azum'' or ''Asuf'', who was killed defending a town in this region in 1067.
+
+==Hydrology and hydrochemistry==
+{{Expand-section|date=June 2008}}
+
+The current vertical profile of the Sea of Azov exhibits oxygenated surface waters and anoxic bottom waters, with the anoxic waters forming in a layer {{convert|0.5|to(-)|4|m|ft}} in thickness. The occurrence of the anoxic layer is attributed to seasonal eutrophication events associated with increased sedimantary input from the Don and Kuban Rivers. This sedimentary input stimulates biotic activity in the surfaces layers, which photosynthesize under aerobic conditions. Once expired, the dead organic matter sinks to the bottom of the sea where bacteria and microorganisms, using all available oxygen, consume the organic matter, leading to anoxic conditions. Studies have shown that in the Sea of Azov, the exact vertical structure is dependent on wind strength and sea surface temperature, but typically a 'stagnation zone' lies between the oxic and anoxic layers<ref>Debolskaya, E. I., E. V. Yakushev, et al. (2008). "Analysis of the hydrophysical structure of the Sea of Azov in the period of the bottom anoxia development." Journal of Marine Systems 70(3-4): 300-307.</ref>.
+[[File:Ab bird 023.jpg|thumb|[[Great Cormorant]]s on the [[Belosarayskaya Spit]].]]
+
+== Fauna ==
+{{Expand-section|date=June 2008}}
+Historically, the sea has had a rich variety of marine life, with over 80 fish and 300 invertebrate species identified.  But diversity and numbers have been reduced by over-fishing and water-intense large-scale cultivation of cotton, causing increasing levels of [[pollution]].<ref>[http://www.panda.org/about_wwf/what_we_do/marine/news/index.cfm?uNewsID=11262 ''Alien invaders in our seas'' Jessica Lindström Battle, WWF,Gland, SwSwitzerland, 02-14-2004]. Accessed: 04-24-2008]</ref> <ref> Reisner, Mark, "Cadillac Desert," Penguin 1987</ref>
+
+== History ==
+[[File:Azov sea2.jpg‎|thumb|The Kerch peninsula]]
+The [[Black Sea deluge theory]] dates the genesis of the Sea of Azov to 5600 BC, and there are traces of [[Neolithic]] settlement in the area now covered by it. In antiquity, it was known as Lake Mæotis<ref name="Lordkipanidze">Lordkipanidze, Otar  (2000) ''Phasis: The River and City in Colchis'' Franz Steiner Verlag, Stuttgart, p. 25, ISBN 3-515-07271-3</ref><ref>Vasiliev, Alexander Alexandrovich (1936) ''The Goths in the Crimea'' Mediaeval Academy of America, Cambridge, Mass., p.17, [http://www.worldcat.org/oclc/1043381 OCLC 1043381]</ref>, the Maeotian Lake or the Maeotian Sea ([[Greek language|Greek]] {{polytonic|ἡ Μαιῶτις λίμνη}} and [[Latin]] ''Palus Maeotis''), after the tribe of [[Maeotae]] which inhabited the [[Maeotian marshes]] to the east from the sea.
+
+===Deluge theory===
+{{main|Black Sea deluge theory}}
+In 1997, William Ryan and Walter Pitman from [[Columbia University]] published a theory that a massive flood through the [[Bosporus]] occurred in ancient times. They claim that the Black and [[Caspian Sea]]s were vast freshwater lakes, but then about 5600 BC, the [[Mediterranean Sea|Mediterranean]] spilled over a rocky sill at the Bosporus, creating the current communication between the Black and Mediterranean Seas. Subsequent work has been done both to support and to discredit this theory, and archaeologists still debate it. This has led some to associate this catastrophe with prehistoric [[Deluge (mythology)|flood myths]].
+
+===Crimean War 1854-56===
+A naval campaign between the Allied navies of [[United Kingdom of Great Britain and Ireland|Britain]] and [[France]] against Russia took place in the Sea of Azov between May and November 1855. The British awarded a bar, [[Sea of Azoff naval campaign|'Azoff']], to the [[British Crimean War medal]] to commemorate the campaign.
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons|Category:Sea of Azov|Sea of Azov}}
+{{Wikisource1911Enc|Azov, Sea of}}
+*[http://gavayi.com.ua/webcamera.php Azov sea beach-view webcam (located in Ukraine, Kirillovka, Gavayi recreation site)]
+*[http://www.mapofukraine.net/crimean_peninsula/azov_sea/sea_of_azov_crimea.html Pictures of Azov sea coast all along the Crimean peninsula] - pics from private mountain guide Sergey Sorokin
+*[http://soukal.707.cz/ Pictures of Azov sea - Berdjanks] - pics from private tour in CZ: Azovske more
+*[http://www.atlantis-motherland.com/location01.html Theory that Atlantis sank beneath the Sea of Azov.]  
+
+{{List of seas}}
+
+[[Category:Sea of Azov|Azov]]
+[[Category:Geography of Crimea]]
+[[Category:Landforms of Ukraine]]
+[[Category:Seas of Russia]]
+
+[[als:Asowsches Meer]]
+[[ang:Meotedisca Mere]]
+[[ar:بحر آزوف]]
+[[an:Mar d'Azov]]
+[[ast:Mar d'Azov]]
+[[bn:আজভ সাগর]]
+[[be:Азоўскае мора]]
+[[bs:Azovsko more]]
+[[br:Mor Azov]]
+[[bg:Азовско море]]
+[[ca:Mar d'Azov]]
+[[cv:Азов тинĕсĕ]]
+[[cs:Azovské moře]]
+[[da:Azovske Hav]]
+[[de:Asowsches Meer]]
+[[et:Aasov]]
+[[el:Θάλασσα Αζόφ]]
+[[es:Mar de Azov]]
+[[eo:Azova Maro]]
+[[eu:Azov itsasoa]]
+[[fa:دریای آزوف]]
+[[fr:Mer d'Azov]]
+[[gl:Mar de Azov]]
+[[ko:아조프 해]]
+[[hr:Azovsko more]]
+[[id:Laut Azov]]
+[[it:Mar d'Azov]]
+[[he:ים אזוב]]
+[[ka:აზოვის ზღვა]]
+[[kv:Азов саридз]]
+[[ku:Deryaya Azov]]
+[[la:Palus Maeotis]]
+[[lv:Azovas jūra]]
+[[lt:Azovo jūra]]
+[[hu:Azovi-tenger]]
+[[ms:Laut Azov]]
+[[mn:Азовын тэнгис]]
+[[nl:Zee van Azov]]
+[[ja:アゾフ海]]
+[[no:Azovhavet]]
+[[nn:Azovhavet]]
+[[pl:Morze Azowskie]]
+[[pt:Mar de Azov]]
+[[ro:Marea Azov]]
+[[ru:Азовское море]]
+[[scn:Mari d'Azov]]
+[[simple:Sea of Azov]]
+[[sk:Azovské more]]
+[[sl:Azovsko morje]]
+[[sr:Азовско море]]
+[[fi:Asovanmeri]]
+[[sv:Azovska sjön]]
+[[tt:Азак диңгезе]]
+[[th:ทะเลอะซอฟ]]
+[[vi:Biển Azov]]
+[[tr:Azak Denizi]]
+[[uk:Азовське море]]
+[[vec:Mar d'Azov]]
+[[yi:ים פון אזאוו]]
+[[zh:亞速海]]
+[[ext:Mari d'Azov]]
+[[crh:Azaq deñizi]]

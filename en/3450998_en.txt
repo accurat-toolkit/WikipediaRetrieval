@@ -1,0 +1,123 @@
+<!-- NOTICE: Wikipedia articles should not contain cheat codes, game strategy, or "lists" of any kind. Please do not add them to this article. See WP:NOT for more details. -->
+{{Infobox VG
+| title = Driver: Parallel Lines
+| image = [[Image:Driver - Parallel Lines Coverart.png]]
+| caption= <small>The original Atari cover for all regions. The Ubisoft's PAL releases, uses a completely different cover.</small>
+| developer = [[Ubisoft Reflections|Reflections Interactive]]
+| publisher = [[Atari]] (PS2, Xbox), [[Ubisoft]] (Wii, PC)
+| distributor = [[Electronic Arts]] (South America)
+| designer = Gareth Edmondson ([[Ubisoft Reflections|Reflections Interactive]])<br>Ken Allen ([[Atari]])
+| series       = [[Driver (series)|''Driver'']]
+| released = '''PlayStation 2 & Xbox'''<br>
+{{vgrelease|NA=March 14, 2006}}
+{{vgrelease|PAL=March 17, 2006}}
+'''PC & Wii'''<br />
+{{vgrelease|NA=June 26, 2007}}
+{{vgrelease|PAL=June 28, 2007}}
+<sup>[[Steam (content delivery)|Steam]]</sup> February 13, 2009
+| genre = [[Racing game|Racing]], [[Third-person shooter]]
+| modes = [[Single player]]
+| ratings ={{vgratings|ESRB=M|PEGI=18+|BBFC=18+|OFLCA=MA15+}}
+| platforms = [[PlayStation 2]], [[Wii]], [[Xbox]], [[Personal computer|PC]]
+| media = [[DVD]], [[Nintendo optical discs|Wii optical disc]], Download
+| requirements= Supported OS: Windows XP or Vista
+*[[Microprocessor|Processor]]: 2.0 GHz Pentium 4 or AMD Athlon (or better)
+*[[RAM]]: 256 MB (512 MB recommended)
+*[[Video Card]]: 64 MB DirectX 9.0c-compliant supporting Shader Model 1.1
+*[[Sound Card]]: DirectX 9.0c compliant (or better)
+*[[DirectX]] version: DirectX 9.0c or higher
+*DVD-ROM: 4x or faster DVD drive
+*Hard drive space: 4.8GB free hard disk space
+*Peripherals supported: gamepad
+*Supported video cards at time of release
+**[[NVIDIA]] [[GeForce]] 3/4/FX/6/7 families (Geforce 4MX not supported)
+**[[ATI Technologies|ATI]] [[Radeon]] 8500/9200-9800/X families.<ref>[http://store.steampowered.com/app/21780/ Driver: Parallel Lines on Steam]</ref>
+}}
+'''''Driver: Parallel Lines''''' is the fourth video game in the ''[[Driver (series)|Driver]]'' series. The game was released on [[March 14]] ([[March 17]] in Europe), [[2006]] on the [[Xbox]] and [[PlayStation 2]] consoles by [[Atari]], [[Wii]]<ref>[http://wii.ign.com/articles/761/761491p1.html IGN: Driver Skids to Wii]</ref> and [[Personal computer|PC]] on [[June 26]] [[2007]] ([[June 28]] [[2007]] in Europe) by [[Ubisoft]].<ref>[http://www.ubisoftgroup.com/gallery_files/site/270/1042/1159.pdf Ubisoft Third Quarter Sales Report], Ubisoft Corporate Website, January 23, 2007</ref> 
+
+==Overview==
+Diverging from previous ''Driver'' games, ''Parallel Lines'' takes place in just one city, [[New York City|New York]], instead of multiple cities, but in the middle of the story you change to different eras of the city - 1978 and 2006. Due to the underwhelming performance of ''[[DRIV3R]]'', particularly the often-derided on-foot sections, ''Parallel Lines'' returns to the formula used in earlier games in the series, focusing on [[Racing game|driving]], although [[Third-person shooter|shooting]] remains in the game. The game was received better by critics than ''DRIV3R'', but still was criticized, including its simple gameplay, hit-or-miss controls, and derivative storyline<ref>http://www.metacritic.com/games/platforms/ps2/driverparallellines?q=driver%20parallel%20lines [[Metacritic]] score: 69</ref>. This is the first game of the Driver series that does not follow [[undercover]] [[Police|cop]] [[Officer Tanner|Tanner]]. TK, the new main character, received [[Game Informer|Game Informer's]] "Biggest [[wikt:dork|Dork]] of 2006" award.
+
+==Gameplay==
+Driver: Parallel Lines takes place in an entirely [[open world (video games)|open world]] environment. Instead of choosing minigames from a menu as in previous ''Driver'' titles, minigames are now accessed from the in-game world. Many changes have been made from DRIVER, including visible [[blood]] when someone is shot, a [[money]] system, fully [[Car modding|modifiable]] vehicles, environment destruction (i.e., lamp posts can now be run over and [[fire hydrant]]s can break, spewing water into the air), and a new [[felony]] system that differentiates between personal felony and felony "attached" to vehicles the player has used. If the player attracts police attention on foot or in a certain vehicle and then loses the police and enters a "clean" car, their wanted level will be suspended. It can be reactivated, though, by spending too much time in the sight of a police officer, who will eventually recognize the player as "wanted". The same principle applies to out-of-car activities, such as weapon use, and allows the player to holster a weapon in order to lose police attention until spotted committing illegal acts again. For the Wii version, the felony bar has been replaced with ''Grand Theft Auto''-esque "[[Five-pointed star|stars]]" which light up when the player attracts police attention. Also, [[aquatic locomotion|swimming]] and jumping abilities from [[Driv3r]], were removed. 
+
+The game was originally intended to include [[Multiplayer game|online multiplayer]], but this was scrapped when it became apparent to the developers that they could not deliver a strong multiplayer mode<ref>Douglas C. Perry, [http://xbox.ign.com/articles/681/681097p1.html Driver Parallel Lines: Progress Report], ''IGN'', January 12, 2006</ref> and wanted to focus entirely on the single-player portion of the game. The [[instant replay]] film director mode of previous Driver games was removed from Parallel Lines. Instead, the only available cinematic mode is the fixed-perspective slow-motion "Thrill Camera".
+
+===New York City===
+[[Image:Driver-pl-nycskyline.jpg|thumb|200px|left|The major features of New York's skyline, such as the [[Empire State Building]], are always visible, even from the other boroughs across the river.]]
+The interpretation of New York City in ''Parallel Lines'' is not GPS street-accurate like [[True Crime: New York City]]'s Manhattan. Instead, the game presents a smaller but more stylistic version of the city that includes all the [[Borough (New York City)|boroughs]] except [[Staten Island]] and parts of the [[New Jersey]] shore. The game's [[Manhattan]], [[Brooklyn]], [[The Bronx]], [[Queens]], and [[New Jersey]] consists of 222.5 miles of roadway, larger than the combined total of all three cities ([[Miami, Florida|Miami]], [[Nice]], and [[Istanbul]]) from ''DRIV3R''. The game's New York City is also more "life-like" compared to previous games in the series: vendors sell donuts, [[Non-player character|NPC]] pedestrians talk rather than simply grunting and screaming, and numerous side jobs (such as taxi driving and car towing) are available. Several things have changed in the game from real-life New York, for example, [[New York Police Department]] has simply been dubbed into "City Police". However, the game completely lacks any kind of [[weather]]. The only atmospheric changes are the day-to-night cycle.
+
+In 1978, the twin towers of the [[World Trade Center]] are present, along with New York City's many other landmarks such as the [[Empire State Building]], [[Chrysler Building]], [[Times Square]], [[Central Park]], and [[Flatiron Building]] in Manhattan. In Brooklyn, the player can visit [[Coney Island]]. The game features all of New York City's [[Transportation in New York City#Bridges and tunnels|major bridges]] except the [[Verrazano-Narrows Bridge]], the [[Whitestone Bridge]], the [[Hell Gate Bridge]], and the [[Throgs Neck Bridge]]. The player can traverse these bridges freely from the start. An elevated portion of the [[New York City Subway]] that runs from Manhattan to Coney Island is part of the game world, but the subway system is not accessible to the player as a means of transportation. Trains do run on the above ground railway system.
+
+In the 2006 era, when T.K. goes to his safehouse, there is [[graffiti]] on the wall that says "Tanner Lives". This is a nod towards Tanner, the protagonist in the previous three Driver games. It is also a possible solution to the [[cliffhanger]] ending of [[DRIV3R]], where it is unclear if Tanner or the antagonist Jericho [[flatlines]] in a hospital following a shootout in Istanbul. There is also a dumpster in the game which contains copies of "Driv3r", alluding to the poor reception of the previous ''Driver'' game. Also in the 1978 bachelor pad, there is a poster for ''[[Stuntman (video game)|Stuntman]]'', another game by Reflections.
+
+===Vehicles===
+<!-- Do NOT add vehicles into this article. It is part of a game guide and any edits made will be subsequentially removed -->
+
+Both eras included in the game have distinct styles of vehicles, although a few of the 1978-era cars do show up in 2006, and the cars from 2006 can show up in 1978 by using the all cars cheat code, however all cars in from 1978 are all accessible in shop in 2006. Although based on real automobiles, all vehicles in the game are [[fiction|fictitious]], and are given fictitious names.
+
+New to the ''Driver'' franchise is the ability to customize, or [[Car modding|mod]], the player's vehicle. Each vehicle can be upgraded numerous ways in Ray's Garage. Upgrades include custom body and paint jobs, although they are preset, increased [[Internal combustion engine|engine]] power, [[nitrous]] boosters, [[bulletproof glass]], [[window film]] and tunable [[Suspension (vehicle)|springs]], [[Shock absorber|shocks]], [[ride height]], [[brakes]], [[Neon lamp|neon lighting]], and [[downforce]]. A test track is available to "try out" the upgraded vehicles and making any necessary adjustments.
+
+==Story==
+The game follows 18-year-old "TK" (The Kid), a skilled driver who works as a getaway driver for a [[New York City|New York]] crime ring. Ray Introduces him Slink, who introduces him to the Mexican. Bishop, a person who just appears in TK's house, makes TK break Candy out of Rikers. The Four are lead by Corrigan. They plan a kidnap. Following the [[kidnapping]] and [[murder]] of a prominent [[Colombia]]n [[drug lord]] named Rafael Martinez (Corrigan's group wants to distribute cocaine in the 80's and Martinez is competition) , TK is [[Frameup|set up]] and charged with the murder, since the police need someone in the frame and Corrigan an undercover cop can make it look like TK did it. TK is sent to [[Sing-Sing Prison]] for 28 years. While at Sing-Sing, TK hatches plans to kill each of the men who helped to frame him. When he is released in 2006 (Now aged 46), he sets out to kill his former associates, one of whom is now the Police Chief of the New York City Police Department. TK is aided by childhood friend Ray, who now wants to help. The fist thing he does is chase and kill the Mexican at Coney Island. He delivers the body to Corrigan. After disrupting Slink's drug and pornography flow, TK kills Slink. For Bishop, TK disrupts his smuggling operation. Bishop wants to duel alone, but he secretly has a tank ready. (Bishop is special ops).TK blows up the tank killing Bishop. Ray introduces one of Candy's Allies, Maria who gives a opportunity to meet Candy. After being drugged TK kills Candy. Corrigan relieved that all connections to the kidnap are gone, admits that Ray is working for him, in exchange for money. Corrigan kills Ray and tries to kill TK but TK is saved by Maria who reveals she is Martinez's daughter. They put a Cop Car with Candy's body in his parking space, blow up his office, Put Slink's body in the trunk of his limo and kill his body guards (Who tried to kill TK before, once with a car bomb in front of Ray's, another with an ambush at the start of Ram Raider. Another ambush for a job with Maria, and when TK tried to escape with Bishop's shipment of rocket launchers.)Maria tells TK that Corrigan is in Witness Protection. TK kills more bodyguards but Corrigan escapes by helicopter. After blowing up a tunnel with TK in it (TK narrowly escaping) he shoots down the chopper. Corrigan survives, but after a while he gives Corrigan to Maria, who wants more revenge than TK.<ref>[http://xbox.gamespy.com/xbox/driver-4-working-title/690272p1.html The Characters of Driver: Parallel Lines], ''[[GameSpy]]'', February 21, 2006</ref>
+
+==Development==
+{{expand-section|date=December 2008}}
+The game was intentionally set apart from the other ''Driver'' games.<ref>[http://www.driver-4.com/driver-4-or-driver-5.php Driver: Parallel Lines is not Driver 4]1UP video interview with production manager Gareth Edmondson in which he tells us that Driver: Parallel Lines is not Driver 4.</ref>
+
+== Reception ==
+{{VG Reviews
+|1UP = C+<ref name="1UP.com review">{{cite web|url=http://www.1up.com/do/reviewPage?cId=3148807&did=1|title=Driver: Parallel Lines Review|date=2006-03-15|accessdate=2009-07-03|last=Sharkey|first=Scott|publisher=[[1UP.com]]}}</ref>
+|Edge=7/10
+|EuroG =6/10<ref name="eurogamerrev">{{cite web|last=Donlan|last=Bramwell |first=Tom |url=http://www.eurogamer.net/articles/r_driver4_ps2 |title=Driver: Parallel Lines // PS2 /// Eurogamer - Games Reviews, News and More |publisher=Eurogamer.net |date= |accessdate=March 7, 2009}}</ref>
+|IGN = 7.2/10
+|GSpot = 6.5/10<ref name="GameSpot review">{{cite web|url=http://www.gamespot.com/ps2/driving/driver4/review.html|title=PlayStation 2 Driver: Parallel Lines Review|date=March 14, 2006|accessdate=March 7, 2009|publisher=[[GameSpot]]}}</ref>
+| MC = 65%<ref name=metacritic>{{cite web |accessdate=2008-12-11 |url=http://www.metacritic.com/games/platforms/xbox360/mirrorsedge |title=Mirror's Edge |publisher=Metacritic}}</ref>
+}}
+
+The game got mixed reviews. [[IGN]] rated it 7.2, praising the return of the series to its roots, and mentioned that "It's still not perfect, but it's not broken either." 
+
+[[Eurogamer]] gave 6/10 mentioning that "There's not too much shame in trying to do what GTA does, of course (and at least it's not about bloody gang warfare for once), but while this is definitely a solid improvement on its dreadful predecessor, it needed to achieve a basic level of competence and build upon it, and it only does that to a very limited extent."<ref name="eurogamerrev" /> [[Gamespot]] gave it 6.5 calling it a competent [[Grand Theft Auto clone|GTA clone]], but it's far from being recommendable.<ref name="GameSpot review" />
+
+==Soundtrack==
+Driver: Parallel Lines features a mixed licensed and original songs soundtrack consisting of over 70 songs, ranging from 1970s-era [[Rock music|rock]] and [[funk]] to modern [[alternative rock]] and [[Hip hop music|rap]] songs. The songs play while the player is in a vehicle, as if they were on the radio. Notable groups featured on the soundtrack include [[Funkadelic]], [[Can (band)|Can]], [[Suicide (band)|Suicide]], [[The Stranglers]], [[War (band)|War]], [[Iggy Pop]], [[Blondie (band)|Blondie]], [[David Bowie]], [[Parliament (band)|Parliament]], [[The Temptations]], [[Average White Band]], [[Public Enemy (band)|Public Enemy]], [[The Roots]], [[TV on the Radio]], [[The Secret Machines]], [[Kaiser Chiefs]], [[Yeah Yeah Yeahs]] and [[LCD Soundsystem]]. There are also many made up bands in the soundtrack performing fictitious tracks from the 1970s. All music licensing and ingame compositions was done by Nimrod Productions.
+
+It also must be noted that the [[Wii]] and [[Personal computer|PC]] version features mostly different songs, probably due these versions being released by Ubisoft.
+
+==Limited Edition==
+A [[Special edition|limited edition]] version of the game was released along with the regular version. The special edition, costing $10 more, includes an extra DVD containing information about the production of ''Parallel Lines'' as well as in-game videos and character profiles. Also included with the limited edition is the official [[soundtrack]], including twelve tracks from the game. The UK version is dubbed "Collectors Edition", and does not contain the DVD, instead only providing the soundtrack CD and a metal case.
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat|Driver}}
+*[http://www.atari.com/driver/ Official ''Driver: Parallel Lines'' site on Atari.com]
+*[http://www.ubi.com/ Official site on Ubi.com]
+
+{{Driver (video game)}}
+
+[[Category:2006 video games]]
+[[Category:PlayStation 2 games]]
+[[Category:Windows games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games with historical settings]]
+[[Category:Wii games]]
+[[Category:Xbox games]]
+[[Category:Driver series]]
+[[Category:Nonlinear video games]]
+[[Category:Ubisoft Entertainment games]]
+[[Category:Video games set in New York City]]
+
+[[fr:Driver: Parallel Lines]]
+[[it:Driver: Parallel Lines]]
+[[lv:Driver: Parallel Lines]]
+[[lt:Driver: Parallel Lines]]
+[[ja:DRIVER PARALLEL LINES]]
+[[no:Driver: Parallel Lines]]
+[[pl:Driver: Parallel Lines]]
+[[pt:Driver: Parallel Lines]]
+[[ru:Driver: Parallel Lines]]
+[[fi:Driver: Parallel Lines]]
+[[sv:Driver: Parallel Lines]]
+[[tr:Driver: Parallel Lines]]

@@ -1,0 +1,123 @@
+{{otherusesof}} 
+{{wiktionarypar2|T|t}}
+{{Latin alphabet navbox|uc=T|lc=t}}
+'''T''' is the twentieth letter in the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈtiː}}<!--Do not transcribe this /tʰiː/. Aspiration is not phonemic in English.-->) is spelled '''tee'''.<ref>"T" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "tee," op. cit.</ref> It is the most commonly used [[consonant]] and the second most common letter in the [[English language]].<ref>{{cite web|url=http://pages.central.edu/emp/LintonT/classes/spring01/cryptography/letterfreq.html|title=Relative Frequencies of Letters in General English Plain text|last=Lewand|first=Robert|work=Cryptographical Mathematics|publisher=[[Central College (Pella, Iowa)|Central College]]|accessdate=2008-06-25}}</ref>
+
+== History ==
+{| border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;text-align:center;"
+|-  bgcolor="#EEEEEE"
+! Proto-Semitic T
+! Phoenician <br/> ''[[taw]]''
+! Etruscan T
+! Greek <br/> ''[[Tau]]''
+|-----
+|[[Image:Proto-semiticT-01.png]]
+|[[Image:PhoenicianT-01.png]]
+|[[Image:EtruscanT-01.svg|40px]]
+|[[Image:Tau uc lc.svg|64px]]
+|}
+''[[Taw]]'' was the last letter of the Western [[Semitic]] and [[Hebrew alphabet]]s, and probably represented a cross.  The sound value of Semitic ''Taw'', [[Greek alphabet]] Tαυ (''Tau''), [[Old Italic alphabet|Old Italic]] and Latin T has remained fairly constant, representing {{IPA2|/t/}} in each of these; and it has also kept its original basic shape in all of these alphabets.
+
+==Codes for computing==
+{{Letter
+|NATO=Tango
+|Morse=–
+|Character=T
+|Braille=⠞
+}}
+In [[Unicode]], the [[capital letter|capital]] T is codepoint U+0054 and the [[lower case]] t is U+0074.
+
+The [[ASCII]] code for capital T is 84 and for lowercase t is 116; or in [[Binary numeral system|binary]] 01010100 and 01110100, correspondingly.
+
+The [[EBCDIC]] code for capital T is 227 and for lowercase t is 163.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#84;</tt>" and "<tt>&amp;#116;</tt>" for upper and lower case respectively.
+
+==See also==
+{{Commons|T}}
+*[[Te (Cyrillic)|Т, т - Te (Cyrillic)]]
+*[[Tau|Τ, τ - Tau (Greek)]]
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|T|}}
+
+[[Category:Latin letters]]
+
+[[af:T]]
+[[als:T]]
+[[ar:T]]
+[[arc:T]]
+[[ast:T]]
+[[az:T]]
+[[zh-min-nan:T]]
+[[bs:T]]
+[[br:T (lizherenn)]]
+[[ca:T]]
+[[cs:T]]
+[[co:T]]
+[[cy:T]]
+[[da:T]]
+[[de:T]]
+[[el:T]]
+[[es:T]]
+[[eo:T]]
+[[eu:T]]
+[[fa:T]]
+[[fr:T (lettre)]]
+[[fy:T]]
+[[fur:T]]
+[[gv:Tramman (lettyr)]]
+[[gd:T]]
+[[gl:T]]
+[[gan:T]]
+[[ko:T]]
+[[hr:T]]
+[[ilo:T]]
+[[is:T]]
+[[it:T]]
+[[he:T]]
+[[ka:T]]
+[[kw:T]]
+[[sw:T]]
+[[ht:T]]
+[[la:T]]
+[[lv:T]]
+[[lt:T]]
+[[hu:T]]
+[[mk:T (Латиница)]]
+[[mzn:T]]
+[[ms:T]]
+[[nah:T]]
+[[nl:T (letter)]]
+[[ja:T]]
+[[no:T]]
+[[nn:T]]
+[[nrm:T]]
+[[uz:T (harf)]]
+[[pl:T]]
+[[pt:T]]
+[[ro:T]]
+[[qu:T]]
+[[ru:T (латиница)]]
+[[se:T]]
+[[stq:T]]
+[[scn:T]]
+[[simple:T]]
+[[sk:T]]
+[[sl:T]]
+[[sr:T (слово латинице)]]
+[[fi:T]]
+[[sv:T]]
+[[tl:T]]
+[[th:T]]
+[[tr:T (harf)]]
+[[uk:T (латиниця)]]
+[[vi:T]]
+[[vo:T]]
+[[yi:T]]
+[[yo:T]]
+[[zh-yue:T]]
+[[bat-smg:T]]
+[[zh:T]]

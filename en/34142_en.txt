@@ -1,0 +1,173 @@
+{{Otherusesof}}
+{{wiktionarypar2|X|x}} 
+{{Latin alphabet navbox|uc=X|lc=x}}
+'''X''' is the twenty-fourth letter in the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈɛks}}) is spelled '''ex''',<ref>"X" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "ex," op. cit.</ref> plural '''exes''' ({{IPA-en|ˈɛksɨz|}}).
+
+==History==
+The [[consonant cluster]] {{IPA|/ks/}} was, in [[Ancient Greek]], written as either [[Chi (letter)|''Chi'']] '''Χ''' (Western Greek) or [[Xi (letter)|''Xi'']] '''Ξ''' (Eastern Greek). In the end, ''Chi'' was standardized as {{IPA|/kʰ/}} ({{IPA|/x/}} in [[Modern Greek]]), while ''Xi'' was standardized for {{IPA|/ks/}}. But the [[Etruscans]] had taken over ''Χ'' from older Western Greek; therefore, it stood for {{IPA|/ks/}} in Etruscan and [[Latin]].
+
+It is unknown whether the letters ''Chi'' and ''Xi'' are Greek inventions, or whether they are ultimately of [[Semitic]] origin.  ''Chi'' was placed toward the end of the [[Greek alphabet]], after the Semitic letters, along with ''[[Phi (letter)|Phi]]'', [[Psi (letter)|''Psi'']], and ''[[Omega]]'', suggesting that it was an innovation; further, there is no letter corresponding specifically to the sound /ks/ in Semitic. There was a Phoenician letter [[Image:Phoenician heth.png|15px]] ''ḥeth'' with a probable sound {{IPA|/ħ/}}, somewhat similar to {{IPA|/kʰ/}}, but this was adopted into Greek as first the consonant /h/, and later, the [[Vowel length|long vowel]] ''[[Eta]]'' (Η,η), and does not seem to have been the source of Greek ''Chi''. The Phoenician letter [[Image:phoenician samekh.png|15px]] ''Samekh'' (representing /s/) is usually considered the inspiration for Greek ''Xi'', but as noted, ''Chi'' had a graphically distinct shape from ''Xi''—although it may possibly have been another variant originally based on ''samekh''. The original form of ''samekh'' may have been an [[Egyptian hieroglyph]] for the [[Djed]] column, but this too is uncertain, as no intervening [[Proto-Sinaitic]] form of this letter is attested.
+
+{| border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;text-align:center;"
+|-  bgcolor="#EEEEEE"
+! Egyptian hieroglyph "column"
+! Phoenician S
+! Greek Xi
+! Greek Chi
+! Etruscan X
+|-----
+|<hiero>R11</hiero>
+|[[Image:PhoenicianX-01.png]]
+|[[Image:Xi uc lc.svg|64px]]
+|[[Image:Chi uc lc.svg|64px]]
+|[[Image:EtruscanX-01.svg|40px]]
+|}
+
+==Usage==
+In the [[International Phonetic Alphabet]], {{IPA|[x]}} represents a [[voiceless velar fricative]].
+
+In some languages, as a result of assorted phonetic changes, handwriting adaptations or simply spelling convention, ''X'' has other pronunciations:
+*[[Basque language|Basque]] or [[Leonese language|Leonese]]: as a spelling for {{IPA|[ʃ]}}.
+*[[Dutch language|Dutch]]: The island of Texel is pronounced as ''Tessel.'' This is because ss used to be written with a ligature closely resembling ''X''. In all other words ''X'' represents {{IPA|[ks]}}.
+*[[English language|English]]: ''X'' is typically a sign for the compound consonants {{IPA|[ks]}}; or sometimes when followed by an accented syllable beginning with a vowel, or when followed by silent h and an accented vowel {{IPA|[ɡz]}} (e.g. ''exhaust'', ''exam''); usually {{IPA|[z]}} at the beginnings of words (e.g. ''xylophone'', ''Xenon''), and in some compounds keeps the {{IPA|[z]}} sound, as in (e.g. ''meta-xylene''). It also makes the sound {{IPA|[kʃ]}} in words ending in -xion (typically used only in [[American and British English spelling differences#-xion / -ction|British-based spellings]] of the language; American spellings tend to use -ction). It can also represent the sounds {{IPA|[ɡʒ]}} or {{IPA|[kʃ]}}, for example, in the words luxury and sexual, respectively. Final x is always {{IPA|[ks]}} (e.g. ''ax''/''axe'') except in loan words such as ''faux'' (see French, below). In abbreviations, it can represent "trans-" (e.g. XMIT for transmit, XFER for transfer), "cross-" (e.g. X-ing for crossing; XREF for [[cross-reference]]), "Christ" (e.g. Xmas for Christmas; Xian for Christian), the "Crys" in Crystal (XTAL), or various words starting with "ex" (e.g. XL for extra large; XOR for [[Exclusive disjunction|exclusive-or]]).
+*[[French language|French]]: at the ends of words, silent (or {{IPA|[z]}} in [[Liaison (French)|liaison]] if the next word starts with a vowel). This usage arose as a handwriting alteration of final ''-us''. Two exceptions are pronounced [s]: ''six'' and ''dix''.
+*In [[Italian language|Italian]], ''X'' is always pronounced {{IPA|[ks]}}, as in the words ''uxorio'', ''extra'', ''xilofono''. It is also used, mainly amongst younger generations as a short form for "per" meaning "for", for example, x sempre (forever). This because in Italian the [[×|multiplication sign]] (similar to ''x'') is called "per".
+*In [[Norwegian language|Norwegian]], ''X'' is generally pronounced {{IPA|[ks]}}, but since the nineteenth century there has been a tendency to spell it out as ''ks'' whenever possible; it may still be retained in names of people, though it is fairly rare, and occurs mostly in foreign words and [[SMS language]]. Usage in [[German language|German]] and [[Finnish language|Finnish]] is similar.
+*[[Spanish language|Spanish]]: In Old Spanish, ''X'' was pronounced {{IPA|[ʃ]}}, as it is still currently in other [[Iberian Romance languages]]. Later, the sound evolved to a hard {{IPA|[x]}} sound. In modern Spanish, the hard {{IPA|[x]}} sound is spelled with a ''j'', or with a ''g'' before ''e'' and ''i'', though ''x'' is still retained for some names (notably ''México'', which alternates with ''Méjico''). Now, ''X'' represents the sound {{IPA|[s]}} (word-initially), or the consonant cluster {{IPA|[ks]}} (e.g. ''oxígeno, examen''). Even rarer, the ''x'' can be pronounced {{IPA|[ʃ]}} like in Old Spanish in some proper nouns such as ''Raxel'' (a variant of [[Rachel]]) and ''[[Xelajú]]''.
+*[[Galician language|Galician]], [[Catalan language|Catalan]] and [[Leonese language]]: In Galician (a language related to Portuguese and spoken in Northwestern Spain), and Leonese, in Spain, ''x'' is pronounced {{IPA|[ʃ]}} in most cases. In learned words, such as 'taxativo' (taxative), the ''x'' is pronounced {{IPA|[ks]}}. However, Galician speakers tend to pronounce it as {{IPA|[[s]]}}, especially when it appears in implosive position, such as in 'externo' (extern).
+*In [[Portuguese language|Portuguese]], ''x'' can have four sounds: the most common is {{IPA|[ʃ]}}, as in 'xícara' (cup). The other sounds are: {{IPA|[ks]}} as in 'fênix/fénix' (phoenix) and {{IPA|[[s]]}}, as in 'próximo' (close/next). The most rare is {{IPA|[z]}}, as in 'exagerado' (exaggerate).
+*[[Venetian language|Venetian]]:it represented the voiced alveolar fricative {{IPA|[z]}} much like in Portuguese 'exagerado', English 'xylophone' or in the French liaison. Examples from medieval texts include 'raxon' (reason), 'prexon' (prison), 'dexerto' (desert), 'chaxa/caxa' (home, It. "casa"). Nowadays, the most known word is 'xe' (is/are).
+*In [[Albanian language|Albanian]], ''x'' represents {{IPA|[dz]}}, while the [[digraph]] ''xh'' represents {{IPA|[dʒ]}}.
+*In [[Maltese language|Maltese]] x is pronounced {{IPA|[ʃ]}} or, in some cases, {{IPA|[ʒ]}} (only in loanwords such as 'televixin', and not for all speakers)
+
+Additionally, in languages for which the [[Latin alphabet]] has been adapted only recently, ''x'' has been used for various sounds, in some cases inspired by European usage, but in others, for consonants uncommon in Europe. For these no Latin letter stands out as an obvious choice, and since most of the various European pronunciations of ''x'' can be written by other means, the letter becomes available for more unusual sounds.
+*''X'' has its IPA value {{IPA|[x]}} in e.g. [[Kurdish language|Kurdish]], [[Azerbaijani language|Azerbaijani]], [[Uzbek language|Uzbek]], [[Tatar language|Tatar]] and [[Lojban]].
+*In [[Pashto language|Pashto]], ''x'' represents {{IPA|[dz]}}.
+*In [[Hindi]] it may represent the sound {{IPA|[kʃ]}} in alternate spellings of words containing क्ष, especially names such as [[Laxmi]] or [[Madhuri Dixit]].
+*In [[Vietnamese language|Vietnamese]] ''x'' is pronounced {{IPA|[s]}}
+*In [[Pirahã language|Pirahã]], ''x'' symbolizes the [[glottal stop]] {{IPA|[ʔ]}}.
+*In [[Hanyu Pinyin]], a transcription system for [[Mandarin Chinese]], the letter ''x'' represents the [[voiceless alveolo-palatal fricative]] {{IPA|/ɕ/}}.
+*In [[Nahuatl]], ''x'' represents {{IPA|[ʃ]}}.  
+*[[Nguni languages]]: represents the [[alveolar lateral click]] {{IPA|[ǁ]}}.
+*An illustrating example of ''x'' as a "leftover" letter is differing usage in three different [[East Cushitic languages]]:
+**[[Afar language]]: [[voiced alveolar implosive]] {{IPA|[ɗ]}}
+**[[Oromo language]]: [[alveolar ejective]] {{IPA|[tʼ]}}
+**[[Somali language]]: [[voiceless pharyngeal fricative]] {{IPA|[ħ]}}
+
+No words in the [[Basic English]] vocabulary begin with ''X'', but it occurs in words beginning with other letters. It is often found in a word with an E before it. X is the third most rarely used letter in the [[English language]].
+
+==Codes for computing==
+{{Letter
+|NATO=X-ray
+|Morse=–··–
+|Character=X
+|Braille=⠭
+}}
+In [[Unicode]] the [[majuscule|capital]] X is codepoint U+0058 and the [[lower case]] x is U+0078.
+
+The [[ASCII]] code for capital X is 88 and for lowercase x is 120; or in [[Binary numeral system|binary]] 01011000 and 01111000, correspondingly.
+
+The [[EBCDIC]] code for capital X is 231 and for lowercase x is 167.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#88;</tt>" and "<tt>&amp;#120;</tt>" for upper and lower case respectively.
+
+== See also ==
+{{col-begin}}
+{{col-4}}
+*Χ, χ : [[Chi (letter)|Greek letter Chi]]
+*Х, х : [[Kha (Cyrillic)|Cyrillic Kha]]
+*メ, [[Me (kana)|Me]], a [[Japanese language|Japanese]] [[katakana]] character
+*[[א]], [[Hebrew alphabet|Hebrew]] [[aleph]]
+*[[Wikt:乂|乂]], a [[Chinese language|Chinese]] character, pronounced {{IPA|[i]}} (high falling tone), "yì" in [[pinyin]].
+* × : [[Multiplication sign]]
+{{col-4}}
+* ᚷ, [[Gyfu]], a letter in the [[Anglo-Saxon futhorc]] [[runic]] alphabet used in pre-[[Normans|Norman]] [[Britain in the Middle Ages|Britain]].
+*[[XX]]
+*[[XXX]]
+*[[XXXX]]
+*[[X mark]]
+{{col-3}}
+{{Commons|X}}
+{{col-end}}
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|X|}}
+
+[[Category:Latin letters]]
+[[Category:Placeholder names]]
+
+[[af:X]]
+[[als:X]]
+[[ar:X]]
+[[arc:X]]
+[[ast:X]]
+[[az:X]]
+[[zh-min-nan:X]]
+[[br:X (lizherenn)]]
+[[ca:X]]
+[[cs:X]]
+[[co:X]]
+[[cy:X]]
+[[da:X]]
+[[de:X]]
+[[et:X]]
+[[el:X]]
+[[es:X]]
+[[eo:X]]
+[[eu:X]]
+[[fa:X]]
+[[fr:X (lettre)]]
+[[fy:X]]
+[[fur:X]]
+[[gv:X (lettyr)]]
+[[gd:X]]
+[[gl:X]]
+[[gan:X]]
+[[ko:X]]
+[[hr:X]]
+[[ilo:X]]
+[[is:X]]
+[[it:X]]
+[[he:X]]
+[[ka:X]]
+[[kw:X]]
+[[sw:X]]
+[[ht:X]]
+[[la:X]]
+[[lv:X]]
+[[lt:X]]
+[[hu:X]]
+[[mk:X (Латиница)]]
+[[mzn:X]]
+[[ms:X]]
+[[nah:X]]
+[[nl:X (letter)]]
+[[ja:X]]
+[[no:X]]
+[[nn:X]]
+[[nrm:X]]
+[[uz:X (harf)]]
+[[pl:X]]
+[[pt:X]]
+[[ro:X]]
+[[qu:X]]
+[[ru:X (латиница)]]
+[[stq:X]]
+[[simple:X]]
+[[sk:X]]
+[[sl:X]]
+[[fi:X]]
+[[sv:X]]
+[[tl:X]]
+[[th:X]]
+[[tr:X (harf)]]
+[[uk:X (латиниця)]]
+[[vi:X]]
+[[vo:X]]
+[[yi:X]]
+[[yo:X]]
+[[zh-yue:X]]
+[[bat-smg:X]]
+[[zh:X]]

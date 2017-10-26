@@ -1,0 +1,97 @@
+{{Infobox Constellation|
+name = Fornax |
+abbreviation = For |
+genitive = Fornacis |
+pronounce = {{IPA-en|ˈfɔrnæks|}}, genitive  {{IPA|/fɔrˈneɪsɨs/}} |
+symbology = the furnace |
+RA = 3 |
+dec= −30 |
+areatotal = 398 |
+arearank = 41st |
+numbermainstars = 2 |
+numberbfstars = 27 |
+numberstarsplanets = 3 |
+numberbrightstars = 0 |
+numbernearbystars = 2 |
+brighteststarname = α For |
+starmagnitude = 3.87 |
+neareststarname = HD 14412 |
+stardistance = 41.35 |
+numbermessierobjects = None |
+meteorshowers = None |
+bordering =[[Cetus]]<br />[[Sculptor (constellation)|Sculptor]]<br />[[Phoenix (constellation)|Phoenix]]<br />[[Eridanus (constellation)|Eridanus]] |
+latmax = [[50th parallel north|50]] |
+latmin = [[South Pole|90]] |
+month = December |
+notes=}}
+'''Fornax''' is a [[constellation]] in the southern sky. Its name is [[Latin]] for [[furnace]]. It was created in the eighteenth century and is now one of the 88 modern constellations.
+
+==History==
+Fornax was identified by [[Nicolas Louis de Lacaille]] in 1756. He originally called it '''Fornax Chemica''' ("[[chemical]] furnace"), representing a small [[solid fuel]] heater used for heating [[chemistry|chemical]] [[experiment]]s.
+
+==Notable features==
+Fornax has been the target of investigations into the furthest reaches of the universe. The [[Hubble Ultra Deep Field]] is located within Fornax, and the [[Fornax Cluster]], a small [[cluster of galaxies]], lies primarily within Fornax. At a meeting of the [[Royal Astronomical Society in Britain]], a team from [[University of Queensland]] described 40 unknown "dwarf" galaxies in this constellation; follow-up observations with the [[Hubble Space Telescope]] and the [[European Southern Observatory]]'s [[Very Large Telescope]] revealed that [[Ultra Compact Dwarfs]] are much smaller than previously known dwarf galaxies, about 120 light-years across (''[http://www.eso.org/sci/publications/messenger/archive/no.129-sep07/messenger-no129-49-52.pdf Hilker M. et. al.], 2007'').
+
+[[NGC 1316]] is a notably bright [[elliptical galaxy]] within the [[Fornax Cluster]].  The galaxy is also one of the brightest [[radio]] sources in the sky.
+
+==References== 
+*[[Ian Ridpath]] and [[Wil Tirion]] (2007). ''Stars and Planets Guide'', Collins, London. ISBN 978-0007251209. Princeton University Press, Princeton. ISBN 978-0691135564.
+*Hilker M. et. al.[http://www.eso.org/sci/publications/messenger/archive/no.129-sep07/messenger-no129-49-52.pdf ''Weighing Ultracompact Dwarf Galaxies in the Fornax Cluster''], Astronomical Science, The Messenger 129 – September 2007. [http://www.eso.org/sci/publications/messenger/ '''The Messenger'''] is a quarterly journal presenting ESO's activities to the public.
+
+
+== External links ==
+{{Commons|Fornax}}
+* [http://www.allthesky.com/constellations/fornax/constell.html The Deep Photographic Guide to the Constellations: Fornax]
+* [http://www.starrynightphotos.com/constellations/fornax_phoenix.htm Starry Night Photography - Fornax Constellation]
+*[http://www.ianridpath.com/startales/fornax.htm Star Tales – Fornax]
+
+{{navconstel}}
+{{Sky|03|00|00|-|30|00|00|10}}
+[[Category:Fornax constellation| ]]
+[[Category:Constellations]]
+[[Category:Southern constellations]]
+[[Category:Eastern constellations]]
+
+[[bn:যজ্ঞকুণ্ড মণ্ডল]]
+[[be:Сузор'е Печ]]
+[[bg:Пещ (съзвездие)]]
+[[ca:Forn (constel·lació)]]
+[[cs:Souhvězdí Pece]]
+[[co:Fornax]]
+[[da:Kemiske Ovn]]
+[[de:Chemischer Ofen]]
+[[et:Ahi (tähtkuju)]]
+[[el:Κάμινος (αστερισμός)]]
+[[es:Fornax]]
+[[eo:Forno (konstelacio)]]
+[[fa:کوره (صورت فلکی)]]
+[[fr:Fourneau (constellation)]]
+[[ga:An Fhoirnéis]]
+[[gl:Fornax]]
+[[ko:화로자리]]
+[[hr:Kemijska peć (zviježđe)]]
+[[it:Fornace (costellazione)]]
+[[he:תנור (קבוצת כוכבים)]]
+[[la:Fornax (sidus)]]
+[[lv:Krāsns (zvaigznājs)]]
+[[lb:Fornax (Stärebild)]]
+[[lt:Krosnis (žvaigždynas)]]
+[[hu:Kemence csillagkép]]
+[[ml:അഗ്നികുണ്ഡം]]
+[[nl:Oven (sterrenbeeld)]]
+[[ja:ろ座]]
+[[nn:Smelteomnen]]
+[[pl:Gwiazdozbiór Pieca]]
+[[pt:Fornax]]
+[[ro:Cuptorul (constelaţie)]]
+[[ru:Печь (созвездие)]]
+[[sk:Súhvezdie Pec]]
+[[fi:Sulatusuuni]]
+[[sv:Ugnen]]
+[[th:กลุ่มดาวเตาหลอม]]
+[[tr:Fornax (takımyıldız)]]
+[[uk:Піч (сузір'я)]]
+[[ur:آتش دان (مجمع النجوم)]]
+[[vi:Thiên Lô]]
+[[zh-yue:天爐座]]
+[[zh:天炉座]]

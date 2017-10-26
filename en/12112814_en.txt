@@ -1,0 +1,789 @@
+{{TennisEventInfo|2008|US Open|
+| date=[[August 25]] – [[September 8]]
+| edition=127th
+| category=[[Grand Slam (tennis)|Grand Slam]] (ITF)
+| location=[[New York City]], [[USA]]
+| champms={{flagicon|SUI}} [[Roger Federer]]
+| champws={{flagicon|USA}} [[Serena Williams]]
+| champmd={{flagicon|USA}} [[Bob Bryan]] / {{flagicon|USA}} [[Mike Bryan]]
+| champwd={{flagicon|ZIM}} [[Cara Black]] / {{flagicon|USA}} [[Liezel Huber]]
+| champxd={{flagicon|ZIM}} [[Cara Black]] / {{flagicon|IND}} [[Leander Paes]]
+| champbs={{flagicon|BUL}} [[Grigor Dimitrov]]
+| champgs={{flagicon|USA}} [[Coco Vandeweghe]]
+| champbd={{flagicon|AUT}} [[Niki Moser]] / {{flagicon|GER}} [[Cedrik-Marcel Stebe]]
+| champgd={{flagicon|THA}} [[Noppawan Lertcheewakarn]] / {{flagicon|SWE}} [[Sandra Roma]]
+| champml={{flagicon|AUS}} [[Pat Cash]]
+| champwl={{flagicon|USA}} [[Martina Navrátilová]]
+| champxl={{flagicon|USA}} [[Anne Smith]] / {{flagicon|USA}} [[Stan Smith]]
+}}
+
+The '''2008 US Open''' was a [[tennis]] tournament played on [[Tennis court#Hard courts|outdoor hard courts]]. It was the 127th edition of the [[US Open (tennis)|US Open]], and the fourth and final [[Grand Slam (tennis)|Grand Slam]] event of the year. It took place at the [[USTA Billie Jean King National Tennis Center]] in [[Flushing Meadows–Corona Park|Flushing Meadows]], [[New York City]], [[New York]], [[United States]], from August 25 through September 8, 2008.
+
+The men's defending champion, [[Roger Federer]], won the US Open for a fifth consecutive time. [[Justine Henin]], the women's defending champion, did not return to defend her title due to her retirement from tennis, for personal reasons, earlier in the year.<ref name=Heninretires>{{citeweb|url=http://news.bbc.co.uk/sport1/hi/tennis/7399963.stm|title=Henin announces shock retirement|author=[[BBC Sport]]|date=2008-05-14|accessdate=2008-11-12}}</ref> [[Serena Williams]] was the champion on the women's side, winning her third US Open title; she had last won the event in 2002. Federer and Williams's opponents, [[Andy Murray]] and [[Jelena Janković]], were making their débuts in Grand Slam finals. World number ones [[Rafael Nadal]] and [[Ana Ivanović]] went out in the semifinal and second round, respectively. This was Nadal's best ever result at the US Open; for Ivanovic, it was her second early exit at a Grand Slam since her win at the [[2008 French Open]].
+
+The home nation had success; Serena Williams was the first American to win a singles title since [[Andy Roddick]] in 2003. Twin brothers [[Bob and Mike Bryan]] won their second US Open title, and [[Liezel Huber]] (who became an American citizen in 2007)<ref name=HuberBlack>{{citeweb|url=http://news.bbc.co.uk/sport1/hi/tennis/7603216.stm|title= 
+Black & Huber win women's doubles|author=BBC Sport|date=2008-09-07|accessdate=2008-10-28}}</ref> won the women's doubles with Zimbabwean [[Cara Black]].
+
+==Preparations==
+[[File:American flag at 2008 US Open.jpg|thumb|The [[Flag of the United States|American flag]] being unfurled at the opening ceremony]]
+The [[International Tennis Federation]] and [[United States Tennis Association]] offered audiences a number of new ways to access the Open in 2008. A [[YouTube]] channel was set up to broadcast highlights, and the official US Open website featured hourly updates of what was happening at the tournament. Multiple matches could be accessed at any one time, on handheld video devices courtesy of [[American Express]]. In celebration of the 40th anniversary since the US National Championships became "[[Open era#Open Era|open]]" to professionals, a special opening ceremony was held, showcasing all the singles champions of the previous 40 years, with over two dozen of them in attendance. The ceremony was hosted by actor [[Forest Whitaker]] and included musical performances from funk band [[Earth, Wind & Fire]]. In addition to this, fans were shown nightly video tributes, and a commemorative book was published.<ref name=Before>{{citeweb|url=http://www.usopen.org/en_US/news/articles/2008-08-18/200808181219095040121.html|title=New Fan Enhancements and Programming Planned for 2008 US Open|author=usopen.org|date=2008-08-18|accessdate=2008-11-13}}</ref> On August 23, the annual [[Arthur Ashe Kids Day]] was held; [[Roger Federer]], [[Andy Roddick]], [[James Blake]], [[Novak Djoković]], [[Ana Ivanović]], and [[Serena Williams]] led the player participation. Musical acts including the [[Jonas Brothers]] and [[Sean Kingston]] performed on this day as well.<ref name=NYCgovt>{{citeweb|url=http://www.nyc.gov/html/sports/html/arthur_ashe_kids.html|title=2008 Arthur Ashe Kids' Day|author=New York City Sports Commission|date=2008-08-26|accessdate=2008-11-13}}</ref>
+
+==Men's and women's singles players==
+
+{{MultiCol}}
+* '''[[2008 US Open - Men's Singles|Men's Singles]]'''
+{| class="wikitable"
+|-
+!colspan="2"|'''Champion'''
+!colspan="2"|Runner-up
+|-
+|align="center" colspan="2"|<small>'''{{flagicon|SUI}} [[Roger Federer]] (2) </small>
+|align="center" colspan="2"|<small>{{flagicon|GBR}} [[Andy Murray]] (6) </small>
+|-
+!colspan="4"|Semifinals out
+|-
+|align="center" colspan="2"|<small>{{flagicon|ESP}} [[Rafael Nadal]] (1) </small>
+|align="center" colspan="2"|<small>{{flagicon|SRB}} [[Novak Djokovic]] (3) </small>
+|-
+!colspan="4"|Quarterfinals out
+|-
+|<small>{{flagicon|USA}} [[Mardy Fish|M Fish]] </small>
+|<small>{{flagicon|ARG}} [[Juan Martin del Potro|JM del Potro]] (17) </small>
+|<small>{{flagicon|USA}} [[Andy Roddick|A Roddick]] (8) </small>
+|<small>{{flagicon|LUX}} [[Gilles Muller|G Muller]] </small>
+|-
+!colspan="4"|4th Round out
+|-
+|<small>{{flagicon|USA}} [[Sam Querrey|S Querrey]] </small>
+|<small>{{flagicon|FRA}} [[Gaël Monfils|G Monfils]] (32) </small>
+|<small>{{flagicon|JPN}} [[Kei Nishikori|K Nishikori]] </small>
+|<small>{{flagicon|SUI}} [[Stanislas Wawrinka|S Wawrinka]] (10) </small>
+|-
+|<small>{{flagicon|CHI}} [[Fernando Gonzalez|F Gonzalez]] (11) </small>
+|<small>{{flagicon|ESP}} [[Tommy Robredo|T Robredo]] (15) </small>
+|<small>{{flagicon|RUS}} [[Nikolay Davydenko|N Davydenko]] (5) </small>
+|<small>{{flagicon|RUS}} [[Igor Andreev|I Andreev]] (23) </small>
+|-
+!colspan="4"|3rd Round out
+|-
+|<small>{{flagicon|SRB}} [[Viktor Troicki|V Troicki]] </small>
+|<small>{{flagicon|CRO}} [[Ivo Karlovic|I Karlovic]] (14) </small>
+|<small>{{flagicon|USA}} [[James Blake|J Blake]] (9) </small>
+|<small>{{flagicon|ARG}} [[David Nalbandian|D Nalbandian]] (7) </small>
+|-
+|<small>{{flagicon|ESP}} [[David Ferrer|D Ferrer]] (4) </small>
+|<small>{{flagicon|FRA}} [[Gilles Simon|G Simon]] (16) </small>
+|<small>{{flagicon|ITA}} [[Flavio Cipolla|F Cipolla]] </small>
+|<small>{{flagicon|AUT}} [[Jurgen Melzer|J Melzer]] </small>
+|-
+|<small>{{flagicon|ITA}} [[Andreas Seppi|A Seppi]] (31) </small>
+|<small>{{flagicon|FIN}} [[Jarkko Nieminen|J Nieminen]] </small>
+|<small>{{flagicon|FRA}} [[Jo-Wilfried Tsonga|J-W Tsonga]] (19) </small>
+|<small>{{flagicon|CRO}} [[Marin Cilic|M Cilic]] (30) </small>
+|-
+|<small>{{flagicon|RUS}} [[Dmitry Tursunov|D Tursunov]] (26) </small>
+|<small>{{flagicon|ESP}} [[Nicolas Almagro|N Almagro]] (18) </small>
+|<small>{{flagicon|ESP}} [[Fernando Verdasco|F Verdasco]] (13) </small>
+|<small>{{flagicon|CZE}} [[Radek Stepanek|R Stepanek]] (28) </small>
+|-
+!colspan="4"|2nd Round out
+|-
+|<small>{{flagicon|USA}} [[Ryler DeHeart|R DeHeart]] </small>
+|<small>{{flagicon|GER}} [[Philipp Kohlschreiber|P Kohlschreiber]] (25) </small>
+|<small>{{flagicon|FRA}} [[Nicolas Devilder|N Devilder]] </small>
+|<small>{{flagicon|FRA}} [[Florent Serra|F Serra]]</small>
+|-
+|<small>{{flagicon|BEL}} [[Steve Darcis|S Darcis]] </small>
+|<small>{{flagicon|FRA}} [[Paul-Henri Mathieu|P-H Mathieu]] (24) </small>
+|<small>{{flagicon|RUS}} [[Evgeny Korolev|E Korolev]]</small>
+|<small>{{flagicon|KAZ}} [[Andrey Golubev|A Golubev]] </small>
+|-
+|<small>{{flagicon|GER}} [[Andreas Beck (tennis)|A Beck]]</small>
+|<small>{{flagicon|CRO}} [[Roko Karanusic|R Karanusic]] </small>
+|<small>{{flagicon|BRA}} [[Thomaz Bellucci|T Bellucci]] </small>
+|<small>{{flagicon|ARG}} [[Jose Acasuso|J Acasuso]]</small>
+|-
+|<small>{{flagicon|USA}} [[Wayne Odesnik|W Odesnik]] </small>
+|<small>{{flagicon|TPE}} [[Yen-Hsun Lu|Y-H Lu]] </small>
+|<small>{{flagicon|CZE}} [[Jiří Vaněk (tennis)|J Vanek]]
+|<small>{{flagicon|FRA}} [[Michaël Llodra|M Llodra]]</small>
+|-
+|<small>{{flagicon|LAT}} [[Ernests Gulbis|E Gulbis]] </small>
+|<small>{{flagicon|ESP}} [[Guillermo Garcia-Lopez|G Garcia-Lopez]] </small>
+|<small>{{flagicon|CZE}} [[Ivo Minar|I Minar]] </small>
+|<small>{{flagicon|USA}} [[Bobby Reynolds|B Reynolds]] </small>
+|-
+|<small>{{flagicon|RUS}} [[Marat Safin|M Safin]] </small>
+|<small>{{flagicon|ESP}} [[Carlos Moya|C Moya]] </small>
+|<small>{{flagicon|USA}} [[Robby Ginepri|R Ginepri]] </small>
+|<small>{{flagicon|USA}} [[Robert Kendrick|R Kendrick]] </small>
+|-
+|<small>{{flagicon|ARG}} [[Agustin Calleri|A Calleri]] </small>
+|<small>{{flagicon|ROU}} [[Victor Hanescu|V Hanescu]] </small>
+|<small>{{flagicon|USA}} [[Sam Warburg|S Warburg]] </small>
+|<small>{{flagicon|GER}} [[Tommy Haas|T Haas]] </small>
+|-
+|<small>{{flagicon|POR}} [[Rui Machado|R Machado]] </small>
+|<small>{{flagicon|FRA}} [[Jérémy Chardy|J Chardy]] </small>
+|<small>{{flagicon|AUS}} [[Chris Guccione|C Guccione]] </small>
+|<small>{{flagicon|BRA}} [[Thiago Alves|T Alves]] </small>
+|-
+!colspan="4"|1st Round out
+|-
+|<small>{{flagicon|GER}} [[Björn Phau|B Phau]] </small>
+|<small>{{flagicon|BEL}} [[Olivier Rochus|O Rochus]] </small>
+|<small>{{flagicon|AUS}} [[Carsten Ball|C Ball]] </small>
+|<small>{{flagicon|PER}} [[Luis Horna|L Horna]] </small>
+|-
+|<small>{{flagicon|CZE}} [[Tomas Berdych|T Berdych]] (22) </small>
+|<small>{{flagicon|ESP}} [[Pablo Andujar|P Andujar]] </small>
+|<small>{{flagicon|GER}} [[Rainer Schüttler|R Schüttler]] </small>
+|<small>{{flagicon|CZE}} [[Jan Minar|J Minar]] </small>
+|-
+|<small>{{flagicon|USA}} [[Donald Young (tennis)|D Young]] </small>
+|<small>{{flagicon|GER}} [[Denis Gremelmayr|D Gremelmayr]] </small>
+|<small>{{flagicon|AUS}} [[Robert Smeets|R Smeets]] </small>
+|<small>{{flagicon|FRA}} [[Sebastien Grosjean|S Grosjean]] </small>
+|-
+|<small>{{flagicon|URU}} [[Pablo Cuevas|P Cuevas]] </small>
+|<small>{{flagicon|SWE}} [[Robin Söderling|R Söderling]] </small>
+|<small>{{flagicon|USA}} [[Brendan Evans|B Evans]] </small>
+|<small>{{flagicon|BRA}} [[Marcos Daniel|M Daniel]] </small>
+|-
+|<small>{{flagicon|ARG}} [[Martin Vassallo Arguello|M Vassallo Arguello]] </small>
+|<small>{{flagicon|USA}} [[John Isner|J Isner]] </small>
+|<small>{{flagicon|USA}} [[Ryan Sweeting|R Sweeting]] </small>
+|<small>{{flagicon|ARG}} [[Juan Monaco|J Monaco]] (29)</small>
+|-
+|<small>{{flagicon|ARG}} [[Guillermo Canas|G Canas]] </small>
+|<small>{{flagicon|ESP}} [[Oscar Hernandez (tennis)|O Hernandez]] </small>
+|<small>{{flagicon|GER}} [[Michael Berrer|M Berrer]] </small>
+|<small>{{flagicon|ESP}} [[Marcel Granollers|M Granollers]] </small>
+|-
+|<small>{{flagicon|ITA}} [[Simone Bolelli|S Bolelli]] </small>
+|<small>{{flagicon|ITA}} [[Fabio Fognini|F Fognini]] </small>
+|<small>{{flagicon|ECU}} [[Nicolas Lapentti|N Lapentti]] </small>
+|<small>{{flagicon|CZE}} [[Jan Hernych|J Hernych]] </small>
+|-
+|<small>{{flagicon|ESP}} [[Feliciano Lopez|F Lopez]] (27) </small>
+|<small>{{flagicon|SUI}} [[Stephane Bohli|S Bohli]] </small>
+|<small>{{flagicon|RUS}} [[Teimuraz Gabashvili|T Gabashvili]] </small>
+|<small>{{flagicon|ARG}} [[Sergio Roitman|S Roitman]] </small>
+|-
+|<small>{{flagicon|FRA}} [[Fabrice Santoro|F Santoro]] </small>
+|<small>{{flagicon|SWE}} [[Thomas Johansson|T Johansson]]</small>
+|<small>{{flagicon|SVK}} [[Dominik Hrbaty|D Hrbaty]] </small>
+|<small>{{flagicon|KOR}} [[Hyung-Taik Lee|H-T Lee]] </small>
+|-
+|<small>{{flagicon|GER}} [[Nicolas Kiefer|N Kiefer]] (20) </small>
+|<small>{{flagicon|USA}} [[Scoville Jenkins|S Jenkins]] </small>
+|<small>{{flagicon|CZE}} [[Tomas Zib|T Zib]] </small>
+|<small>{{flagicon|ESP}} [[Iván Navarro (tennis)|I Navarro]] </small>
+|-
+|<small>{{flagicon|GER}} [[Mischa Zverev|M Zverev]] </small>
+|<small>{{flagicon|USA}} [[Vincent Spadea|V Spadea]] </small>
+|<small>{{flagicon|PAK}} [[Aisam-ul-Haq Qureshi|A-u-H Qureshi]] </small>
+|<small>{{flagicon|ESP}} [[Santiago Ventura Bertomeu|S Ventura]] </small>
+|-
+|<small>{{flagicon|FRA}} [[Julien Benneteau|J Benneteau]] </small>
+|<small>{{flagicon|USA}} [[Amer Delic|A Delic]] </small>
+|<small>{{flagicon|FRA}} [[Nicolas Mahut|N Mahut]] </small>
+|<small>{{flagicon|FRA}} [[Arnaud Clément|A Clément]] </small>
+|-
+|<small>{{flagicon|ISR}} [[Dudi Sela|D Sela]] </small>
+|<small>{{flagicon|USA}} [[Austin Krajicek|A Krajicek]] </small>
+|<small>{{flagicon|ESP}} [[Albert Montanes|A Montanes]] </small>
+|<small>{{flagicon|ARG}} [[Eduardo Schwank|E Schwank]] </small>
+|-
+|<small>{{flagicon|CAN}} [[Frank Dancevic|F Dancevic]] </small>
+|<small>{{flagicon|SRB}} [[Janko Tipsarevic|J Tipsarevic]] </small>
+|<small>{{flagicon|FRA}} [[Laurent Recouderc|L Recouderc]] </small>
+|<small>{{flagicon|FRA}} [[Richard Gasquet|R Gasquet]] (12) </small>
+|-
+|<small>{{flagicon|RUS}} [[Igor Kunitsyn|I Kunitsyn]] </small>
+|<small>{{flagicon|RSA}} [[Rik De Voest|R De Voest]] </small>
+|<small>{{flagicon|POR}} [[Frederico Gil|F Gil]] </small>
+|<small>{{flagicon|FRA}} [[Marc Gicquel|M Gicquel]]</small>
+|-
+|<small>{{flagicon|ITA}} [[Potito Starace|P Starace]]</small>
+|<small>{{flagicon|USA}} [[Jesse Levine|J Levine]] </small>
+|<small>{{flagicon|CHI}} [[Paul Capdeville|P Capdeville]] </small>
+|<small>{{flagicon|ARG}} [[Maximo Gonzalez|M Gonzalez]] </small>
+|}
+{{ColBreak}}
+* '''[[2008 US Open - Women's Singles|Women's Singles]]'''
+{| class="wikitable"
+|-
+!colspan="2"|'''Champion'''
+!colspan="2"|Runner-up
+|-
+|align="center" colspan="2"|<small>'''{{flagicon|USA}} [[Serena Williams]] (4) </small>
+|align="center" colspan="2"|<small>{{flagicon|SRB}} [[Jelena Jankovic]] (2) </small>
+|-
+!colspan="4"|Semifinals out
+|-
+|align="center" colspan="2"|<small>{{flagicon|RUS}} [[Dinara Safina]] (6) </small>
+|align="center" colspan="2"|<small>{{flagicon|RUS}} [[Elena Dementieva]] (5) </small>
+|-
+!colspan="4"|Quarterfinals out
+|-
+|<small>{{flagicon|ITA}} [[Flavia Pennetta|F Pennetta]] (16) </small>
+|<small>{{flagicon|USA}} [[Venus Williams|V Williams]] (7) </small>
+|<small>{{flagicon|SUI}} [[Patty Schnyder|P Schnyder]] (15) </small>
+|<small>{{flagicon|AUT}} [[Sybille Bammer|S Bammer]] (29) </small>
+|-
+!colspan="4"|4th Round out
+|-
+|<small>{{flagicon|FRA}} [[Amelie Mauresmo|A Mauresmo]] (32) </small>
+|<small>{{flagicon|GER}} [[Anna-Lena Groenefeld|A-L Groenefeld]] </small>
+|<small>{{flagicon|FRA}} [[Severine Bremond|S Bremond]] </small>
+|<small>{{flagicon|POL}} [[Agnieszka Radwanska|A Radwanska]] (9) </small>
+|-
+|<small>{{flagicon|CHN}} [[Na Li|N Li]] </small>
+|<small>{{flagicon|SLO}} [[Katarina Srebotnik|K Srebotnik]] (28) </small>
+|<small>{{flagicon|FRA}} [[Marion Bartoli|M Bartoli]] (12) </small>
+|<small>{{flagicon|DEN}} [[Caroline Wozniacki|C Wozniacki]] (21) </small>
+|-
+!colspan="4"|3rd Round out
+|-
+|<small>{{flagicon|FRA}} [[Julie Coin|J Coin]] </small>
+|<small>{{flagicon|RUS}} [[Nadia Petrova|N Petrova]] (19) </small>
+|<small>{{flagicon|FRA}} [[Alize Cornet|A Cornet]] (17) </small>
+|<small>{{flagicon|SUI}} [[Timea Bacsinszky|T Bacsinszky]] </small>
+|-
+|<small>{{flagicon|JPN}} [[Ai Sugiyama|A Sugiyama]] (30) </small>
+|<small>{{flagicon|ITA}} [[Tathiana Garbin|T Garbin]] </small>
+|<small>{{flagicon|SVK}} [[Dominika Cibulkova|D Cibulkova]] (18) </small>
+|<small>{{flagicon|UKR}} [[Alona Bondarenko|A Bondarenko]] (27) </small>
+|-
+|<small>{{flagicon|GBR}} [[Anne Keothavong|A Keothavong]] </small>
+|<small>{{flagicon|RUS}} [[Ekaterina Makarova|E Makarova]] </small>
+|<small>{{flagicon|SVK}} [[Magdalena Rybarikova|M Rybarikova]] </small>
+|<small>{{flagicon|RUS}} [[Svetlana Kuznetsova|S Kuznetsova]] (3) </small>
+|-
+|<small>{{flagicon|UKR}} [[Tatiana Perebiynis|T Perebiynis]] </small>
+|<small>{{flagicon|USA}} [[Lindsay Davenport|L Davenport]] (23) </small>
+|<small>{{flagicon|BLR}} [[Victoria Azarenka|V Azarenka]] (14) </small>
+|<small>{{flagicon|CHN}} [[Jie Zheng|J Zheng]] </small>
+|-
+!colspan="4"|2nd Round out
+|-
+|<small>{{flagicon|SRB}} [[Ana Ivanovic|A Ivanovic]] (1) </small>
+|<small>{{flagicon|EST}} [[Kaia Kanepi|K Kanepi]] </small>
+|<small>{{flagicon|TPE}} [[Su-Wei Hsieh|S-W Hsieh]] </small>
+|<small>{{flagicon|CHN}} [[Shuai Peng|S Peng]] </small>
+|-
+|<small>{{flagicon|AUS}} [[Jessica Moore (tennis)|J Moore]] </small>
+|<small>{{flagicon|USA}} [[Bethanie Mattek|B Mattek]] </small>
+|<small>{{flagicon|TPE}} [[Yung-Jan Chan|Y-J Chan]] </small>
+|<small>{{flagicon|ITA}} [[Roberta Vinci|R Vinci]] </small>
+|-
+|<small>{{flagicon|RUS}} [[Elena Vesnina|E Vesnina]] </small>
+|<small>{{flagicon|BLR}} [[Olga Govortsova|O Govortsova]]</small>
+|<small>{{flagicon|CZE}} [[Nicole Vaidisova|N Vaidisova]] (20) </small>
+|<small>{{flagicon|HUN}} [[Agnes Szavay|A Szavay]] (13) </small>
+|-
+|<small>{{flagicon|COL}} [[Mariana Duque Marino|M Duque Marino]] </small>
+|<small>{{flagicon|ROU}} [[Ioana Rlauca Olaru|IR Olaru]] </small>
+|<small>{{flagicon|GER}} [[Sabine Lisicki|S Lisicki]] </small>
+|<small>{{flagicon|PAR}} [[Rossana de los Rios|R de los Rios]] </small>
+|-
+|<small>{{flagicon|FRA}} [[Pauline Parmentier|P Parmentier]] </small>
+|<small>{{flagicon|ITA}} [[Francesca Schiavone|F Schiavone]] (25) </small>
+|<small>{{flagicon|ITA}} [[Sara Errani|S Errani]] </small>
+|<small>{{flagicon|RUS}} [[Ekaterina Bychkova|E Bychkova]] </small>
+|-
+|<small>{{flagicon|RUS}} [[Anastasia Pavlyuchenkova|A Pavlyuchenkova]] </small>
+|<small>{{flagicon|AUT}} [[Tamira Paszek|T Paszek]]</small>
+|<small>{{flagicon|AUT}} [[Yvonne Meusburger|Y Meusburger]] </small>
+|<small>{{flagicon|ROU}} [[Sorana Cirstea|S Cirstea]] </small>
+|-
+|<small>{{flagicon|RUS}} [[Vera Zvonareva|V Zvonareva]] (8) </small>
+|<small>{{flagicon|FRA}} [[Aravane Rezai|A Rezai]] </small>
+|<small>{{flagicon|RUS}} [[Alisa Kleybanova|A Kleybanova]]</small>
+|<small>{{flagicon|ESP}} [[Virginia Ruano Pascual|V Ruano Pascual]] </small>
+|-
+|<small>{{flagicon|CZE}} [[Iveta Benesova|I Benesova]] </small>
+|<small>{{flagicon|ITA}} [[Maria Elena Camerin|ME Camerin]] </small>
+|<small>{{flagicon|ESP}} [[Anabel Medina Garrigues|A Medina Garrigues]] (26) </small>
+|<small>{{flagicon|SWE}} [[Sofia Arvidsson|S Arvidsson]] </small>
+|-
+!colspan="4"|1st Round out
+|-
+|<small>{{flagicon|RUS}} [[Vera Dushevina|V Dushevina]] </small>
+|<small>{{flagicon|AUS}} [[Casey Dellacqua|C Dellacqua]] </small>
+|<small>{{flagicon|ROU}} [[Monica Niculescu|M Niculescu]] </small>
+|<small>{{flagicon|FRA}} [[Nathalie Dechy|N Dechy]] </small>
+|-
+|<small>{{flagicon|FRA}} [[Olivia Sanchez|O Sanchez]] </small>
+|<small>{{flagicon|RUS}} [[Evgeniya Rodina|E Rodina]] </small>
+|<small>{{flagicon|GRE}} [[Eleni Daniilidou|E Daniilidou]] </small>
+|<small>{{flagicon|SUI}} [[Stefanie Voegele|S Voegele]]</small>
+|-
+|<small>{{flagicon|SVK}} [[Daniela Hantuchova|D Hantuchova]] (11)</small>
+|<small>{{flagicon|USA}} [[Melanie Oudin|M Oudin]] </small>
+|<small>{{flagicon|POL}} [[Marta Domachowska|M Domachowska]] </small>
+|<small>{{flagicon|FRA}} [[Camille Pin|C Pin]] </small>
+|-
+|<small>{{flagicon|FRA}} [[Virginie Razzano|V Razzano]] (31) </small>
+|<small>{{flagicon|RUS}} [[Alla Kudryavtseva|A Kudryavtseva]] </small>
+|<small>{{flagicon|FRA}} [[Stephanie Cohen-Aloro|S Cohen-Aloro]] </small>
+|<small>{{flagicon|USA}} [[Kristie Haerim Ahn|KH Ahn]] </small>
+|-
+|<small>{{flagicon|UKR}} [[Kateryna Bondarenko|K Bondarenko]] </small>
+|<small>{{flagicon|UKR}} [[Julia Vakulenko|J Vakulenko]] </small>
+|<small>{{flagicon|CZE}} [[Sandra Zahlavova|S Zahlavova]] </small>
+|<small>{{flagicon|SLO}} [[Andreja Klepac|A Klepac]] </small>
+|-
+|<small>{{flagicon|CZE}} [[Petra Cetkovska|P Cetkovska]] </small>
+|<small>{{flagicon|GER}} [[Julia Goerges|J Goerges]] </small>
+|<small>{{flagicon|EST}} [[Maret Ani|M Ani]] </small>
+|<small>{{flagicon|USA}} [[Gail Brodsky|G Brodsky]]</small>
+|-
+|<small>{{flagicon|KAZ}} [[Yaroslava Shvedova|Y Shvedova]] </small>
+|<small>{{flagicon|THA}} [[Tamarine Tanasugarn|T Tanasugarn]] </small>
+|<small>{{flagicon|ROU}} [[Edina Gallovits|E Gallovits]] </small>
+|<small>{{flagicon|USA}} [[Jill Craybas|J Craybas]] </small>
+|-
+|<small>{{flagicon|USA}} [[Jamea Jackson|J Jackson]]</small>
+|<small>{{flagicon|ESP}} [[Maria Jose Martinez Sanchez|MJ Martinez Sanchez]] </small>
+|<small>{{flagicon|CZE}} [[Hana Sromova|H Sromova]]</small>
+|<small>{{flagicon|AUS}} [[Samantha Stosur|S Stosur]] </small>
+|-
+|<small>{{flagicon|UZB}} [[Akgul Amanmuradova|A Amanmuradova]] </small>
+|<small>{{flagicon|NZL}} [[Marina Erakovic|M Erakovic]] </small>
+|<small>{{flagicon|USA}} [[Alexa Glatch|A Glatch]] </small>
+|<small>{{flagicon|ESP}} [[Nuria Llagostera Vives|N Llagostera Vives]] </small>
+|-
+|<small>{{flagicon|ISR}} [[Shahar Peer|S Peer]] (24) </small>
+|<small>{{flagicon|CRO}} [[Jelena Kostanic Tosic|J Kostanic Tosic]] </small>
+|<small>{{flagicon|AUS}} [[Anastasia Rodionova|A Rodionova]] </small>
+|<small>{{flagicon|RUS}} [[Anna Chakvetadze|A Chakvetadze]] (10) </small>
+|-
+|<small>{{flagicon|RUS}} [[Anastasia Pivovarova|A Pivovarova]] </small>
+|<small>{{flagicon|USA}} [[Vania King|V King]] </small>
+|<small>{{flagicon|ARG}} [[Gisela Dulko|G Dulko]] </small>
+|<small>{{flagicon|RUS}} [[Maria Kirilenko|M Kirilenko]] (22) </small>
+|-
+|<small>{{flagicon|BEL}} [[Yanina Wickmayer|Y Wickmayer]] </small>
+|<small>{{flagicon|ESP}} [[Lourdes Dominguez Lino|L Dominguez Lino]] </small>
+|<small>{{flagicon|CZE}} [[Lucie Safarova|L Safarova]] </small>
+|<small>{{flagicon|CHN}} [[Zhang Shuai (tennis)|S Zhang]] </small>
+|-
+|<small>{{flagicon|CZE}} [[Barbora Zahlavova Strycova|B Zahlavova Strycova]] </small>
+|<small>{{flagicon|UKR}} [[Mariya Koryttseva|M Koryttseva]] </small>
+|<small>{{flagicon|USA}} [[Asia Muhammad|A Muhammad]] </small>
+|<small>{{flagicon|JPN}} [[Aiko Nakamura|A Nakamura]] </small>
+|-
+|<small>{{flagicon|CAN}} [[Aleksandra Wozniak|A Wozniak]] </small>
+|<small>{{flagicon|ESP}} [[Carla Suarez Navarro|C Suarez Navarro]] </small>
+|<small>{{flagicon|CZE}} [[Petra Kvitova|P Kvitova]] </small>
+|<small>{{flagicon|RUS}} [[Galina Voskoboeva|G Voskoboeva]] </small>
+|-
+|<small>{{flagicon|CZE}} [[Klara Zakopalova|K Zakopalova]] </small>
+|<small>{{flagicon|ITA}} [[Karin Knapp|K Knapp]] </small>
+|<small>{{flagicon|FRA}} [[Emilie Loit|E Loit]] </small>
+|<small>{{flagicon|USA}} [[Ahsha Rolle|A Rolle]] </small>
+|-
+|<small>{{flagicon|BUL}} [[Tsvetana Pironkova|T Pironkova]] </small>
+|<small>{{flagicon|USA}} [[Shenay Perry|S Perry]] </small>
+|<small>{{flagicon|CHN}} [[Zi Yan|Z Yan]] </small>
+|<small>{{flagicon|USA}} [[Coco Vandeweghe|C Vandeweghe]] </small>
+|}
+{{EndMultiCol}}
+
+==Day by day==
+''Day by day summaries of the men's and women's singles events, with men's, women's, and mixed doubles exits also listed. Both the men's and women's singles draw are composed of 128 players, with 32 of these players [[2008 U.S. Open (tennis)#Seeds|seeded]].''
+===Day 1===
+[[File:Maria Kirilenko US Open 08.jpg|thumb|left|150px|Maria Kirilenko]]
+Seeds progressing on the first day of play included [[David Ferrer]], [[Andy Murray]], [[David Nalbandian]], [[Stanislas Wawrinka]], [[Gilles Simon]], [[Philipp Kohlschreiber]], and [[Gaël Monfils]]. Recent [[Tennis at the 2008 Summer Olympics|Olympic gold medalist]], and new [[List of ATP number 1 ranked players|World No. 1]] [[Rafael Nadal]], who acknowledged that he was suffering from fatigue post-match, advanced after being tested by qualifier [[Björn Phau]];<ref name=NadalFirst>{{cite news|author=BBC Sport|title=Nadal tested in opening victory| url =http://news.bbc.co.uk/sport1/hi/tennis/7581260.stm|date=2008-08-26|accessdate=2008-08-26}}</ref> and [[Juan Martín del Potro]], who entered the Open on a run of nineteen consecutive wins, and who, over the course of this run, had become the first player in ATP history to win his first four titles in as many tournaments, beat fellow Argentine [[Guillermo Cañas]]. Together Nadal and del Potro had completed the longest winning streaks on the [[2008 ATP Tour|tour in 2008]], with Nadal's run having extended to 32 matches.<ref name=DelPotro>{{citeweb|url=http://www.atptennis.com/1/en/2008news/washington_sunday.asp|title=Del Potro Captures Fourth Straight ATP Title|author=Association of Tennis Professionals (ATP)|date=2008-09-17|accessdate=2008-11-11}}</ref> Americans [[James Blake]] (seeded ninth) and [[Donald Young (tennis)|Donald Young]] treated the home crowd to a match spanning five sets, in one of the scheduled night matches, with Blake emerging as the victor.<ref name=BlakeYoung>{{cite news|author=Joshua Robinson|publisher=''[[New York Times]]''|title=Night Time Proves to Be Blake Time| url =http://www.nytimes.com/2008/08/26/sports/tennis/26blake.html?_r=1&ref=tennis&oref=slogin|date =2008-08-26| accessdate =2008-08-26}}</ref> [[Juan Mónaco]] and [[Feliciano López]] were the only seeds who failed to progress.<ref name=TennisMonaco>{{cite news|author=[[Associated Press]]|publisher=''[[Tennis Magazine]]''|title=Olympic champs Nadal, Dementieva win US Open matches| url =http://www.tennis.com/news/news.aspx?id=142534|date =2008-08-26| accessdate =2008-08-27}}</ref><ref name=ScotsmanMurray>{{cite news|author=Simon Lewis|publisher=''[[The Scotsman]]''|title=Murray keen to make hard work pay off in New York| url =http://sport.scotsman.com/tennis/Murray-keen-to-make-hard.4428837.jp|date =2008-08-26| accessdate =2008-08-27}}</ref>
+
+In the women's competition, [[Jelena Janković]], [[Svetlana Kuznetsova]], [[Vera Zvonareva]], [[Marion Bartoli]], [[Victoria Azarenka]], [[Patty Schnyder]], [[Caroline Wozniacki]], [[Francesca Schiavone]], [[Anabel Medina Garrigues]], [[Katarina Srebotnik]], and [[Sybille Bammer]] all made safe passage in to the second round.<ref name=USATodaywomensschedule>{{cite news|author=''[[USA Today]]''|title=US Open Tournament Scoreboard| url =http://www.usatoday.com/sports/tennis/open/wsingles-2008.htm?loc|accessdate=2008-11-13}}</ref> Nadal's Olympic counterpart, [[Elena Dementieva]], made hard work of her win against [[Akgul Amanmuradova]],<ref name=DementievaFirst>{{cite news|author=BBC Sport|title=Dementieva opens with scrappy win| url =http://news.bbc.co.uk/sport1/hi/tennis/7581247.stm|date =2008-08-26| accessdate =2008-08-26}}</ref> and former champion [[Lindsay Davenport]], playing the US Open for the first time since her return to the sport from a break due to motherhood,<ref name=Davenportcruising>{{cite news|author=''[[The Vancouver Sun]]''|title=Davenport cruising at Open| url =http://www.canada.com/vancouversun/news/sports/story.html?id=28aab249-c290-44cd-ae64-498b72baaf6a|date =2008-08-28| accessdate =2008-08-29}}</ref> beat recent [[2008 Bank of the West Classic|Bank of the West Classic]] winner [[Aleksandra Wozniak]]<ref name=WozniakStanford>{{cite news|author=BBC Sport|title=Wozniak takes title in Stanford| url =http://news.bbc.co.uk/sport1/hi/tennis/7516546.stm|date =2008-07-20| accessdate =2008-08-26}}</ref> in a comfortable two sets. Seeded losers included [[2007 U.S. Open - Women's Singles#Finals|2007 semifinalist]] [[Anna Chakvetadze]], who lost to [[Ekaterina Makarova]], making this her worst Slam finish in three years;<ref name=DementievaFirst/> [[Maria Kirilenko]], who lost to [[Tamira Paszek]]; and [[Shahar Peer]], who lost to [[Li Na (tennis)|Na Li]] 2–6, 6–0, 6–1.<ref name=TennisMonaco/>
+
+*Seeded players out: Juan Mónaco, Feliciano López; Shahar Peer, Anna Chakvetadze, Maria Kirilenko
+
+===Day 2===
+[[File:Andreas-seppi.png|thumb|Andreas Seppi]]
+[[File:Dominika-cibulkova.png|thumb|Dominika Cibulková]]
+Day 2 saw the first round matches from the bottom half of the draw begin; [[Fernando González]], [[Fernando Verdasco]], [[Ivo Karlović]], [[Tommy Robredo]], [[Igor Andreev]], and [[Paul-Henri Mathieu]] all progressed.<ref name=Day2Results>{{cite news|author=[[News Corporation]], ''Adelaide Now''|title=RESULTS from Day 2 of the U.S. Open.| url =http://www.news.com.au/adelaidenow/story/0,22606,24249907-12428,00.html|date =2008-08-26| accessdate =2008-08-27}}</ref> Defending champion and number two seed [[Roger Federer]], playing his first Grand Slam since the [[2004 Australian Open]] at a seeding lower than number one, beat [[Máximo González]] 6–3, 6–0, 6–3,<ref name=NYFederer>{{cite news|author=Joshua Robinson|publisher=New York Times|title=Federer, Seeded an Unfamiliar No. 2, Easily Advances| url =http://www.nytimes.com/2008/08/27/sports/tennis/27night.html?ref=tennis|date =2008-08-26| accessdate =2008-08-27}}</ref> and [[Andreas Seppi]], the thirty-first seed, triumphed in five sets (6–3, 7–5, 3–6, 3–6, 6–3) over [[Lee Hyung-taik|Hyung-taik Lee]]. Four seeds exited the tournament: [[Richard Gasquet]], who lost in five sets to former world number two [[Tommy Haas]]; [[Tomáš Berdych]], who lost to home favorite [[Sam Querrey]] in a humbling 6–3, 6–1, 6–2 scoreline;<ref name=Day2photos>{{cite news|author=[[Getty]]|publisher=BBC Sport|title=US Open day two photos| url =http://news.bbc.co.uk/sport1/hi/tennis/7582525.stm|date =2008-08-26| accessdate =2008-09-09}}</ref> [[2008 Canada Masters|Canada Masters]] runner-up [[Nicolas Kiefer]], who retired at two sets to one and 4–1 down in his match against [[Ivo Minář]]; and [[Mikhail Youzhny]], who withdrew due to a viral illness.<ref name=Day2Results/><ref name=NYFederer>{{cite news|author=BBC Sport|title=US Open day two photos| url =http://news.bbc.co.uk/sport1/hi/tennis/7582525.stm|date =2008-08-26| accessdate =2008-08-27}}</ref><ref name=Youzhnyill>{{cite news|author=Ray Krueger, Karen Crouse|title=Early Bird Doesn’t Avoid the Lines| url =http://www.nytimes.com/2008/08/27/sports/tennis/27open.html|date =2008-08-26| accessdate =2008-11-11}}</ref>
+
+[[List of WTA number 1 ranked players|World No. 1]] and top seed [[Ana Ivanović]], who had recently returned from injury, began her campaign with a hard fought win over [[Vera Dushevina]], coming through 6–1, 4–6, 6–4. The Williams sisters [[Venus Williams|Venus]] and [[Serena Williams|Serena]], both former champions, advanced with relative ease, as did in-form player and [[US Open Series]] winner [[Dinara Safina]].<ref name=Ivanovicscare>{{cite news|author=BBC Sport|title=Ivanovic survives US Open scare| url =http://news.bbc.co.uk/sport1/hi/tennis/7583032.stm|date =2008-08-26| accessdate =2008-08-27}}</ref><ref name=Safinaform>{{cite news|author=Michael Brick|publisher=''New York Times''|title=Siblings Advance in Their Own Ways| url =http://www.nytimes.com/2008/08/27/sports/tennis/27siblings.html?_r=1&ref=tennis&oref=slogin|date =2008-08-26| accessdate =2008-08-27|quote=As the winner of the United States Open Series leading into the Open}}</ref> [[Agnieszka Radwańska]], [[Ágnes Szávay]], [[Flavia Pennetta]], [[Alizé Cornet]], [[Nadia Petrova]], [[Nicole Vaidišová]], [[Alona Bondarenko]], [[Dominika Cibulková]], and former world number one [[Amélie Mauresmo]] all scored victories to enter the second round. However, eleventh seed [[Daniela Hantuchová]] suffered a heavy defeat to qualifier [[Anna-Lena Grönefeld]], and thirty-first seed [[Virginie Razzano]] was also beaten.<ref name=Day2Results/><ref name=Ivanovicscare/>
+*Seeded players out: Mikhail Youzhny ''(withdrawal)'', Tomáš Berdych, Richard Gasquet, Nicolas Kiefer; Daniela Hantuchová, Virginie Razzano
+
+*Seeded players out: [[Paul Hanley (tennis)|Paul Hanley]] / [[Jordan Kerr]]<ref name=USATodayMDoubles>{{citeweb|url=http://www.usatoday.com/sports/tennis/open/mdoubles-2008.htm?loc|title=US Open Tournament Scoreboard - Men's Doubles|author=''USA Today''|accessdate=2008-11-14}}</ref>
+
+===Day 3===
+On Day 3, the remaining men's first round matches were completed.<ref name=Day3Results>{{cite news|author=News Corporation, ''Adelaide Now''|title=RESULTS from Day 3 of the U.S. Open.| url =http://www.news.com.au/adelaidenow/story/0,22606,24254183-12428,00.html|date =2008-08-28| accessdate =2008-08-28}}</ref><ref name=MensDraw>{{cite news|author=usopen.org|title=2008 U.S. Open - Men's Singles draw| url =http://www.usopen.org/en_US/scores/draws/ms/msdraw.pdf|accessdate=2008-08-26|format=PDF}}</ref> Third-seeded [[Novak Djoković]], who had won the [[2008 Australian Open|Australian Open]] earlier in the year, won in straight sets against [[Arnaud Clément]], but was hampered by an ankle injury, for which he received courtside treatment. [[Andy Roddick]] produced a sterling performance to defeat [[Fabrice Santoro]] 6–2, 6–2, 6–2, and [[Nikolay Davydenko]], who entered the tournament on a poor run of form was, by his own admission, surprisingly efficient in dispatching [[Dudi Sela]] 6–3, 6–3, 6–3.<ref name=RoddickSantoro>{{citeweb|url=http://www.reuters.com/article/sportsNews/idUSN2751324320080828|title=Roddick roars past Santoro to end first round|publisher=[[Reuters]]|author=Larry Fine, Mark Lamport-Stokes|date=2008-08-27|accessdate=2008-11-16}}</ref><ref name=Djokovicinjury>{{cite news|author=BBC Sport|title=Djokovic wins after injury scare| url =http://news.bbc.co.uk/sport1/hi/tennis/7584572.stm|date =2008-08-28| accessdate =2008-08-28}}</ref> [[Nicolás Almagro]], [[Jo-Wilfried Tsonga]], [[Radek Štěpánek]], and [[Marin Čilić]] won their matches to claim places in the second round, meaning that no seeds were knocked out on Day 3.<ref name=Day3Results/>
+
+[[File:Zheng Jie US Open 08.jpg|thumb|left|200px|Jie Zheng]]
+In the women's second round matches, [[Elena Dementieva]], [[Patty Schnyder]], [[Marion Bartoli]], [[Victoria Azarenka]], [[Caroline Wozniacki]], [[Lindsay Davenport]],<ref name=Davenportcruising/> [[Katarina Srebotnik]], and [[Sybille Bammer]] all recorded routine victories to reach the third round. Two players who faced greater resistance from their opponents were [[Jelena Janković]] and [[Svetlana Kuznetsova]]. Jankovic, playing against [[Sofia Arvidsson]], had match points in the second set, and eventually came through 6–3, 6–7(5), 6–4. The match, which lasted two hours and forty-four minutes, left Jankovic unable to complete her warmdown. Kuznetsova meanwhile, had to come back from being 4–2 down to [[Sorana Cîrstea]] in the first set, before winning in two. Fellow Russian [[Vera Zvonareva]], a bronze medalist at the Olympic Games, lost to [[Tatiana Perebiynis]]; [[Francesca Schiavone]] lost to [[Anne Keothavong]], making Keothavong the first British woman to reach the third round of the US Open since [[Jo Durie]]'s run at the [[1991 U.S. Open - Women's Singles#Section 5|1991 Open]];<ref name=Keothavongwin>{{cite news|author=BBC Sport|title=Keothavong clinches historic win| url =http://news.bbc.co.uk/sport1/hi/tennis/7584555.stm|date =2008-08-27| accessdate =2008-08-28}}</ref> and [[Anabel Medina Garrigues]] lost to recent [[2008 Wimbledon Championships - Women's Singles#Finals|Wimbledon semifinalist]] [[Zheng Jie|Jie Zheng]].<ref name=Jankovicsurvives>{{cite news|author=BBC Sport|title=Jankovic survives Arvidsson test| url =http://news.bbc.co.uk/sport1/hi/tennis/7584608.stm|date =2008-08-28| accessdate =2008-08-28}}</ref>
+*Seeded players out: Francesca Schiavone, Vera Zvonareva, Anabel Medina Garrigues
+
+*Seeded players out: [[Jeff Coetzee]] / [[Rogier Wassen]], [[Mariusz Fyrstenberg]] / [[Marcin Matkowski]];<ref name=USATodayMDoubles/> [[Eva Hrdinová]] / [[Vladimíra Uhlířová]], [[Květa Peschke]] / [[Rennae Stubbs]], [[Maria Kirilenko]] / [[Flavia Pennetta]], [[Chan Yung-jan|Yung-jan Chan]] / [[Chuang Chia-jung|Chia-jung Chuang]], [[Nathalie Dechy]] / [[Casey Dellacqua]]<ref name=USATodayWDoubles>{{citeweb|url=http://www.usatoday.com/sports/tennis/open/wdoubles-2008.htm?loc|title=US Open Tournament Scoreboard - Women's Doubles|author=''USA Today''|accessdate=2008-11-14}}</ref>
+
+===Day 4===
+[[File:Gilles Simon US Open 08.jpg|thumb|left|225px|Gilles Simon]]
+The second round of the men's singles commenced, and [[David Nalbandian]], [[Stanislas Wawrinka]], [[Ivo Karlović]], [[Gilles Simon]], and [[Juan Martín del Potro]] all reached the final sixty-four of the draw. Joining them was [[Rafael Nadal]], who completed an imposing defeat over qualifier and world number 261 [[Ryler DeHeart]], 6–1, 6–2, 6–4. Three seeds who faced sterner tests from their opponents were [[David Ferrer]], who won a battling contest against [[Andreas Beck (tennis)|Andreas Beck]] in four sets, [[Andy Murray]], who was inconsistent in defeating [[Michaël Llodra]] 6–4, 1–6, 7–5, 7–6(7),<ref name=MurrayLlodra>{{cite news|author=BBC Sport|title=Murray edges to win over Llodra| url =http://news.bbc.co.uk/sport1/hi/tennis/7585267.stm|date =2008-08-28| accessdate =2008-08-29}}</ref> and American [[James Blake]], who was tied 4–6, 6–3, 1–0 with [[Steve Darcis]] before the Belgian's retirement. Two upsets occurred on Day 4: one involved [[Philipp Kohlschreiber]], who retired against the [[2008 Legg Mason Tennis Classic|Legg Mason Tennis Classic]] finalist of a fortnight previous, [[Viktor Troicki]],<ref name=DelPotro/> at 2–6, 6–3, 6–4, 3–0 down; the other saw [[Paul-Henri Mathieu]] beaten by American [[Mardy Fish]] 6–2, 3–6, 6–3, 6–4.<ref name=Nadalclass>{{cite news|author=BBC Sport|title=Nadal class too much for DeHeart| url =http://news.bbc.co.uk/sport1/hi/tennis/7587128.stm|date =2008-08-29| accessdate =2008-08-29}}</ref><ref name=Ivanovicshock>{{cite news|author=Associated Press|publisher=''[[Tennis Magazine]]''|title=Ivanovic shocked at US Open| url =http://www.tennis.com/news/news.aspx?id=143298|date =2008-08-28| accessdate =2008-08-29}}</ref>
+[[File:Julie-coin.png|thumb|right|225px|Julie Coin]]
+In the second set of women's second round matches, world number 188 [[Julie Coin]] provided one of the biggest shocks of the tournament, as she defeated [[Ana Ivanović]], the [[List of WTA number 1 ranked players|World No. 1]], 6–3, 4–6, 6–3.<ref name=ReutersIvanovic>{{citeweb|url=http://uk.reuters.com/article/tennisNews/idUKN2836916320080829|title=Qualifier Coin shocks herself in upset of Ivanovic|author=Larry Fine|publisher=Reuters|date=2008-08-29|accessdate=2008-11-13}}</ref><ref name=IvanovicBueno>{{citeweb|url=http://sports.espn.go.com/sports/tennis/notebook?page=notebook/tennis08282008|title=Coin's win an upset of epic historical proportions|publisher=[[ESPN]]|author=Greg Garber|date=2008-08-28|accessdate=2008-11-13}}</ref><ref name=IvanovicCoin>{{citeweb|url=http://www.telegraph.co.uk/sport/tennis/usopen/2642916/Ana-Ivanovic-suffers-shock-exit-to-French-qualifer-at-US-Open-Rafael-Nadal-progresses---Tennis.html|title=Ana Ivanović suffers shock exit to French qualifer at US Open, Rafael Nadal progresses|author=Vicki Hodges and agencies|publisher=''[[The Daily Telegraph|The Telegraph]]''|date=2008-09-24|accessdate=2008-11-13}}</ref> It was the earliest exit made by a top seed at the tournament since [[Maria Bueno]]'s second round loss at the [[1967 U.S. National Championships (tennis)|1967 U.S. National Championships]] (Bueno received a first round bye), before the beginning of the [[Open Era]].<ref name=IvanovicBueno/> Ivanovic, who made a similarly unexpected exit at the [[2008 Wimbledon Championships|Wimbledon Championships]],<ref name=Ivanovicupset>{{cite news|author=BBC Sport|title=Top seed Ivanovic upset by Zheng| url =http://news.bbc.co.uk/sport1/hi/tennis/7478357.stm|date =2008-06-27| accessdate =2008-08-29}}</ref> conceded that she was not playing to the standard of a world number one. Coin set up a clash with [[Amélie Mauresmo]], who bypassed the threat of [[Kaia Kanepi]] 2–6, 6–4, 6–0. Venus Williams eased to victory over [[Rossana de los Ríos]] 6–0, 6–3, and sister Serena won in similar fashion versus [[Elena Vesnina]], 6–1, 6–1. A top ten seed who had greater problems progressing was [[Dinara Safina]], who was troubled by her own unpredictable manner of play in defeating [[Roberta Vinci]] 6–4, 6–3; [[Agnieszka Radwańska]], [[Nadia Petrova]], [[Flavia Pennetta]], [[Alizé Cornet]], and [[Dominika Cibulková]] also came through. Two seeded players who fell were [[Ágnes Szávay]], who lost to [[Tathiana Garbin]] 5–7, 6–2, 6–3, and [[Nicole Vaidišová]], who lost to [[Séverine Brémond]].<ref name=Ivanovicshock/><ref name=Ivanovicbeaten>{{cite news|author=BBC Sport|title=Ivanovic beaten by qualifier Coin| url =http://news.bbc.co.uk/sport1/hi/tennis/7586573.stm|date =2008-08-28| accessdate =2008-08-29}}</ref>
+*Seeded players out: Nicole Vaidišová, Ágnes Szávay, Ana Ivanović; Paul-Henri Mathieu, Philipp Kohlschreiber
+
+*Seeded players out: [[Arnaud Clément]] / [[Michaël Llodra]] ''(retirement)'', [[Max Mirnyi]] / [[Jamie Murray]];<ref name=USATodayMDoubles/> [[Victoria Azarenka]] / [[Shahar Peer]];<ref name=USATodayWDoubles/> [[Chan Yung-jan|Yung-jan Chan]] / [[Julian Knowle]]<ref name=USATodayMixedDoubles>{{citeweb|url=http://www.usatoday.com/sports/tennis/open/mixeddoubles-2008.htm?loc|title=US Open Tournament Scoreboard - Mixed Doubles|author=''USA Today''|accessdate=2008-11-14}}</ref>
+
+===Day 5===
+[[File:Dmitry Tursunov US Open 08.jpg|thumb|left|150px|Dmitry Tursunov]]
+[[Roger Federer]] and [[Nikolay Davydenko]] completed easy wins, over [[Thiago Alves (tennis)|Thiago Alves]] and [[Augustin Calleri]] respectively, to reach the third round on the fifth day of play at Flushing Meadows. [[Novak Djoković]] was forced into a first set [[tiebreak]] against American qualifier [[Robert Kendrick]], and, after having been 6–2 up, faced two sets points in Kendrick's favor, before winning it 10–8; Djoković then took the next two sets, 6–4, 6–4. Afterwards, Djoković credited the first set win to his improved mental strength. Another top ten seed who faced problems in the early stages of his match was [[Andy Roddick]], who eventually secured a 3–6, 7–5, 6–2, 7–5 win over [[Ernests Gulbis]]. [[Fernando González]] won in straight sets against [[Bobby Reynolds]], despite sustaining an ankle injury; [[Tommy Robredo]] ended [[2000 U.S. Open (tennis)|2000 champion]] [[Marat Safin]]'s participation in four; and [[Gilles Müller]] and [[Jarkko Nieminen]], two unseeded players, won their matches after each having been two sets down. Other seeds to make progress were [[Fernando Verdasco]], [[Nicolás Almagro]], [[Jo-Wilfried Tsonga]], [[Igor Andreev]], [[Dmitry Tursunov]], [[Radek Štěpánek]], [[Marin Čilić]], and [[Andreas Seppi]].<ref name="FedererDjoković">{{cite news|author=BBC Sport|title=Federer & Djoković cruise through| url =http://news.bbc.co.uk/sport1/hi/tennis/7589244.stm|date =2008-08-30| accessdate =2008-08-30}}</ref>
+
+[[File:Wozniacki US Open 08.jpg|thumb|right|175px|Caroline Wozniacki]]
+In the women's singles, [[Svetlana Kuznetsova]] became the second top five seed to be knocked out in the space of two days, as she succumbed to number twenty-eight seed [[Katarina Srebotnik]], 6–3, 6–7(1), 6–3. Kuznetsova praised Srebotnik in defeat, saying that she had no qualms over her own performance. [[Jelena Janković]], who was playing [[Jie Zheng]], found herself in a similar predicament to Kuznetsova, in that she was facing a second difficult match-up in three days. Jankovic, however, prevailed, 7–5, 7–5, after a steadfast Zheng saved four match points in a final game that witnessed 11 [[Tennis score|deuces]]. [[Marion Bartoli]] reached the fourth round, beating veteran [[Lindsay Davenport]], who would neither confirm nor deny whether she was on the brink of retirement. [[Elena Dementieva]], [[Patty Schnyder]], and [[Sybille Bammer]] all continued their progress through the early rounds, and [[Caroline Wozniacki]], the twenty-first seed and winner of titles in [[2008 Nordea Nordic Light Open|Stockholm]] and [[2008 Pilot Pen Tennis|New Haven]] in the month leading up to the Open,<ref name=Cilictitle>{{cite news|author=BBC Sport|title=Cilic secures maiden tour title| url =http://news.bbc.co.uk/sport1/hi/tennis/7580027.stm|date =2008-08-24| accessdate =2008-09-01}}</ref> upset fourteenth seeded [[Victoria Azarenka]].<ref name=Kuznetsovastunned>{{cite news|author=BBC Sport|title=Kuznetsova stunned by Srebotnik| url =http://news.bbc.co.uk/sport1/hi/tennis/7589236.stm|date =2008-08-30| accessdate =2008-08-30}}</ref><ref name=Day5Results>{{cite news|author=MSN|title=US Open Results on Day 5| url =http://sports.in.msn.com/tennis/stories/article.aspx?cp-documentid=1646229|date =2008-08-30| accessdate =2008-08-30}}</ref>
+*Seeded players out: Svetlana Kuznetsova, Victoria Azarenka, Lindsay Davenport
+
+*Seeded players out: [[Jonas Björkman]] / [[Kevin Ullyett]], [[Pablo Cuevas]] / [[Luis Horna]];<ref name=USATodayMDoubles/> [[Nuria Llagostera Vives]] / [[María José Martínez Sánchez]];<ref name=USATodayWDoubles/> [[Chuang Chia-jung|Chia-jung Chang]] / [[Daniel Nestor]], [[Ai Sugiyama]] / [[Kevin Ullyett]], [[Nathalie Dechy]] / [[Andy Ram]], [[Yan Zi (tennis)|Zi Yan]] / [[Mark Knowles]]<ref name=USATodayMixedDoubles/>
+
+===Day 6===
+[[File:Juan Martin del Potro at the 2008 US Open2.jpg|thumb|right|Juan Martín del Potro]]
+Day 6 featured several upsets and lengthy contests, as four of the eight men's matches went to five sets, and five seeded players were knocked out. The win that the ''[[New York Times]]'' lauded as the greatest upset of the men's competition thus far, was [[Kei Nishikori]]'s victory over [[2007 U.S. Open - Men's Singles#Finals|2007 semifinalist]] and fourth seed [[David Ferrer]]. Nishikori, ranked world number 126, won after Ferrer had staged a comeback from two sets down, and then saved five match points of his, 6–4, 6–4, 3–6, 2–6, 7–5. Aged 18, he was the youngest man to reach the fourth round at the US Open since [[Marat Safin]] in [[1998 U.S. Open (tennis)|1998]], and the first Japanese man since [[Shuzo Matsuoka]] at the [[1995 Wimbledon Championships]] to reach the fourth round of a Grand Slam.<ref name=DayofUpsets>{{cite news|author=Karen Crouse|publisher=''New York Times''|title=Victory by Japanese Teenager Highlights Day of Upsets | url =http://www.nytimes.com/2008/08/31/sports/tennis/31night.html?_r=1&ref=sports&oref=slogin|date =2008-08-30| accessdate =2008-08-31}}</ref> Nishikori set up a tie with [[Juan Martín del Potro]], who stretched his winning run to 22 matches with a 6–4, 6–7(4), 6–1, 3–6, 6–3 triumph over [[Gilles Simon]], who was seeded one place higher than him at sixteenth. [[Andy Murray]] and [[Stanislas Wawrinka]] both came through in five sets, and both had to forge comebacks after having been 2–0 down in sets. Murray, who at one point was two points away from losing the match,<ref name=Murrayscare>{{cite news|author=BBC Sport|title=Dogged Murray survives huge scare| url =http://news.bbc.co.uk/sport1/hi/tennis/7589292.stm|date =2008-08-30| accessdate =2008-08-31}}</ref> defeated [[Jürgen Melzer]] 6–7(5), 4–6, 7–6(5), 6–1, 6–3; whilst Wawrinka beat [[Tennis terminology#L|lucky loser]] [[Flavio Cipolla]] 5–7, 6–7(4), 6–4, 6–0, 6–4. Thirty-second seed [[Gaël Monfils]], who had reached the [[2008 French Open - Men's Singles|semi-finals]] of his last Grand Slam, the French Open, knocked out number seven [[David Nalbandian]]; unseeded [[Mardy Fish]] beat number nine seed and good friend [[James Blake]];<ref name=BlakeFish>{{cite news|author=Karen Crouse|publisher=''New York Times''|title=Fish Ousts Blake, but Isn’t Sure How to Celebrate| url =http://www.nytimes.com/2008/08/31/sports/tennis/31fish.html?ref=tennis| accessdate =2008-08-31}}</ref> and the also unseeded [[Sam Querrey]] beat number fourteen [[Ivo Karlović]] (all straight sets). [[Rafael Nadal]] also reached the fourth round.<ref name=Nadaltop>{{cite news|author=BBC Sport|title=Top seed Nadal overpowers Troicki| url =http://news.bbc.co.uk/sport1/hi/tennis/7590224.stm|date =2008-08-31| accessdate =2008-08-31}}</ref>
+
+[[File:Gael Monfils against Nalbandian.jpg|thumb|left|150px|Gaël Monfils]]
+Milestones were also being set in the women's competition, as [[Anna-Lena Grönefeld]] (who beat number seventeen seed [[Alizé Cornet]]) became the first qualifier to reach the fourth round of the US Open since [[Anna Kournikova]] in [[1996 U.S. Open - Women's Singles#Section 1|1996]]. The Williams sisters continued their progression untroubled, as each won on the scoreline of 6–2, 6–1 (Venus against number twenty-seven seed [[Alona Bondarenko]], Serena against number thirty [[Ai Sugiyama]]). [[Dinara Safina]] was again forced into a tough match, eventually beating teenager [[Timea Bacsinszky]] 3–6, 7–5, 6–2, after being two points away from losing the match in the second set.<ref name=Safinacool>{{cite news|author=Karen Crouse|publisher=''New York Times''|title=Safina Shows She Can Win Playing It Cool, Too| url =http://www.nytimes.com/2008/08/31/sports/tennis/31safina.html?ref=tennis| date=2008-08-31| accessdate =2008-08-31}}</ref> In the other matches, ninth seed [[Agnieszka Radwańska]] eased to victory over eighteenth seed and recent [[2008 Canada Masters|Rogers Cup]] finalist [[Dominika Cibulková]], 6–0, 6–3; sixteenth seed [[Flavia Pennetta]] beat [[Nadia Petrova]], seeded three places lower; [[Amélie Mauresmo]] ended the run of [[Julie Coin]]; and [[Tennis terminology#W|wild card]] [[Séverine Brémond]] knocked [[Tathiana Garbin]] out of the tournament.<ref name=Williamssisters>{{cite news|author=BBC Sport|title=Williams sisters continue march| url =http://news.bbc.co.uk/sport1/hi/tennis/7590089.stm|date =2008-08-30| accessdate =2008-08-31}}</ref>
+*Seeded players out: Dominika Cibulková, Alona Bondarenko, Ai Sugiyama, Nadia Petrova, Alizé Cornet; Ivo Karlović, David Nalbandian, Gilles Simon, David Ferrer, James Blake
+
+*Seeded players out: [[Jonathan Erlich]] / [[Andy Ram]], [[Julien Benneteau]] / [[Nicolas Mahut]], [[Simon Aspelin]] / [[Julian Knowle]];<ref name=USATodayMDoubles/> [[Elena Vesnina]] / [[Vera Zvonareva]];<ref name=USATodayWDoubles/> [[Květa Peschke]] / [[Pavel Vízner]]<ref name=USATodayMixedDoubles/>
+
+===Day 7===
+[[File:Patty Schnyder US Open 08.jpg|thumb|left|150px|Patty Schnyder]]
+On the day that marked the half-way point of the tournament, the men's third round matches were finished. [[Novak Djoković]], facing the number thirty seed and recent [[2008 Pilot Pen Tennis|Pilot Pen Tennis]] champion [[Marin Čilić]],<ref name=Cilictitle/> was severely tested by the 19-year-old, but won through 6–7(7), 7–5, 6–4, 7–6(0) in four hours. Cilic continued to claw his way back into the match, as early breaks of serve by Djoković in the final three sets were all nullified, and two match points were missed before he won. [[Roger Federer]]'s win was in contrast to this, as he completed a comprehensive victory over number twenty-eight seed [[Radek Štěpánek]], 6–3, 6–3, 6–2; and [[Andy Roddick]] also made easier passage to the fourth round, defeating number thirty [[Andreas Seppi]] 6–2, 7–5, 7–6(4). Both of these players were particularly successful on their serves. [[Nikolay Davydenko]] also put in a consummate performance to beat twenty-sixth seed [[Dmitry Tursunov]], 6–2, 7–6, 6–3. Fifteenth seed [[Tommy Robredo]] knocked out the nineteenth seed and [[2008 Australian Open|Australian Open]] finalist [[Jo-Wilfried Tsonga]] (who was playing his first tournament since having knee surgery in May);<ref name=Djokovicinjury/><ref name=Thailand>{{citeweb|url=http://sports.espn.go.com/sports/tennis/news/story?id=3606060|title=Recovering from knee surgery, Tsonga outlasts Dlouhy in Thailand|author=Reuters|publisher=ESPN|date=2008-09-24|accessdate=2009-11-14}}</ref> eleventh seed [[Fernando González]] defeated [[Jarkko Nieminen]] in four sets; and number twenty-three seed [[Igor Andreev]] defeated his higher-ranked opponent, number thirteen [[Fernando Verdasco]], 6–2, 6–4, 6–4. Finally, qualifier [[Gilles Müller]], who had not won three successive Tour level matches since July 2005 coming into the event, beat a second opponent after being two sets to love down (this time number eighteen [[Nicolás Almagro]]) in consecutive rounds, 6–7(3), 3–6, 7–6(5), 7–6,(6) 7–5.<ref name=Djokovictoils>{{cite news|author=BBC Sport|title=Djokovic toils as Federer cruises| url =http://news.bbc.co.uk/sport1/hi/tennis/7590985.stm|date =2008-09-01| accessdate =2008-09-01}}</ref>
+
+Number two seed [[Jelena Janković]] faced a third successive match in which she struggled to reach the next round, but came through against teenager [[Caroline Wozniacki]] 3–6, 6–2, 6–1. Jankovic, who faced a similarly stern test versus Wozniacki at [[2008 Wimbledon Championships|Wimbledon]],<ref name=JankovicWozniacki>{{cite news|author=Caroline Cheese|publisher=BBC Sport|title=Jankovic survives Wozniacki test| url =http://news.bbc.co.uk/sport1/hi/tennis/7479256.stm|date =2008-07-28| accessdate =2008-09-01}}</ref> was sluggish in the opening set, but proved dangerous on the rebound, as she took the next two losing only three games, and played in a more aggressive manner. [[Elena Dementieva]] cruised to victory against [[Li Na (tennis)|Na Li]], and fifteenth seed [[Patty Schnyder]] beat [[Katarina Srebotnik]] to reach her second US Open quarterfinal, her first having come [[1998 U.S. Open - Women's Singles|ten years earlier]]. Notably, the other fourth round match played, between twenty-ninth seed [[Sybille Bammer]] and number twelve [[Marion Bartoli]], matched the longest women's singles match on record at the Open, clocking in at three hours and three minutes—with Bammer prevailing, 7–6(3), 0–6, 6–4. Bartoli called the trainer twice during the match, and said afterwards that she had been ailed by a stomach bug and low blood pressure.<ref name=Jankovicbattles>{{cite news|author=BBC Sport|title=Jankovic battles into last eight| url =http://news.bbc.co.uk/sport1/hi/tennis/7590856.stm|date =2008-08-31| accessdate =2008-09-01}}</ref>
+*Seeded players out: Caroline Wozniacki, Marion Bartoli, Katarina Srebotnik; Dmitry Tursunov, Radek Štěpánek, Nicolás Almagro, Fernando Verdasco, Andreas Seppi, Jo-Wilfried Tsonga, Marin Čilić.
+
+*Seeded players out: [[Martin Damm]] / [[Pavel Vízner]];<ref name=USATodayMDoubles/> [[Alona Bondarenko]] / [[Kateryna Bondarenko]]<ref name=USATodayWDoubles/>
+
+===Day 8===
+[[File:Mardy Fish at US Open 08.jpg|thumb|Mardy Fish]]
+[[Rafael Nadal]] faced the first opponent, home favorite [[Sam Querrey]], to cause him a palpable threat, as he came through 6–2, 5–7, 7–6(2), 6–3. Nadal struggled in the latter stages of the second set (which was the first one he dropped in the tournament), and up until the tiebreak of the third, putting in a subdued performance in which the quality of his serve wavered.<ref name=Nadalanswer>{{citeweb|url=http://www.boston.com/sports/other_sports/tennis/articles/2008/09/02/nadal_has_answer_to_querrey/|title=Nadal has answer to Querrey|author=Cindy Shmerler|publisher=''[[The Boston Globe]]''|date=2008-09-02|accessdate=2008-11-16}}</ref> An American who did progress to the quarterfinals was [[Mardy Fish]], who beat number thirty-two seed [[Gaël Monfils]] 7–5, 6–2, 6–2. Fish played an attack-minded match, hitting 49 winners and regularly utilizing [[serve and volley]] tactics. Meanwhile, in the men's night match between number six seed [[Andy Murray]] and number ten [[Stanislas Wawrinka]], Murray secured an accomplished win (6–1, 6–3, 6–3), in what [[BBC]] journalist Piers Newbery called "one of the best performances of his career".<ref name=BrilliantMurray>{{cite news|author=Piers Newbery|publisher=BBC Sport|title=Brilliant Murray into last eight| url =http://news.bbc.co.uk/sport1/hi/tennis/7591051.stm|date =2008-09-02| accessdate =2008-09-02}}</ref> Murray set up a clash with [[Juan Martín del Potro]], who defeated [[Kei Nishikori]] in straight sets, 6–3, 6–4, 6–3.<ref name=Nadalquarters>{{cite news|author=BBC Sport|title=Nadal battles into quarter-finals| url =http://news.bbc.co.uk/sport1/hi/tennis/7592345.stm|date =2008-09-01| accessdate =2008-09-02}}</ref>
+
+[[File:Venus Williams playing to Agnieszka Radwanska.jpg|thumb|left|180px|Venus Williams]]
+In the women's singles, fourth seed [[Serena Williams]] continued to make serene progress, as she defeated [[Séverine Brémond]] 6–2, 6–2. Williams was highly successful on her [[Tennis terminology#F|first serve]], with a conversion rate of 69%, and a points-won rate of 90%. Sister [[Venus Williams|Venus]], the number seven seed, set up a quarter-final clash with her, as she also completed an easy victory, over ninth seed [[Agnieszka Radwańska]], 6–1, 6–3. Serena and Venus, who had recently played each other in the [[2008 Wimbledon Championships - Women's Singles|Wimbledon final]] (with Venus emerging the victor), expressed dismay at their seedings, which meant that they met at an earlier round than the final. The pair had previously faced each other in the Open final, with Venus winning in [[2001 U.S. Open - Women's Singles|2001]] and Serena the [[2002 U.S. Open - Women's Singles|following year]].<ref name=WilliamsTitle>{{cite news|author=Karen Crouse|publisher=''New York Times''|title=Williams Sisters Will Meet, but Not for the Title| url =http://www.nytimes.com/2008/09/02/sports/tennis/02women.html?_r=1&ref=tennis&oref=slogin|date =2008-09-01| accessdate =2008-09-02}}</ref> Also progressing was sixth seed [[Dinara Safina]], who faced a difficult first set against [[Anna-Lena Grönefeld]], 7–5, 6–0. Safina, who had encountered several difficult opponents before this round, revealed afterwards that she was in tears directly before the match, due to the physical exertion she had endured thus far. However, coach Zeljko Krajan had persuaded her to play, and she told reporters of her relief at having done so. [[Flavia Pennetta]] also navigated her way into the quarterfinals (the first time that she had reached this stage of a Grand Slam), defeating [[Amélie Mauresmo]] 6–3, 6–0. Mauresmo, a former world number one and two-time Grand Slam champion, played an error-strewn match, in which she served 14 double faults and hit 40 unforced errors.<ref name=Serenaclash>{{cite news|author=BBC Sport|title=Serena wins to set up Venus clash| url =http://news.bbc.co.uk/sport1/hi/tennis/7592335.stm|date =2008-09-02| accessdate =2008-09-02}}</ref>
+*Seeded players out: Gaël Monfils, Stanislas Wawrinka; Amélie Mauresmo, Agnieszka Radwańska
+
+*Seeded players out: [[Mahesh Bhupathi]] / [[Mark Knowles]], [[Daniel Nestor]] / [[Nenad Zimonjić]];<ref name=USATodayMDoubles/> [[Katarina Srebotnik]] / [[Nenad Zimonjić]]<ref name=USATodayMixedDoubles/>
+
+===Day 9===
+[[File:Gilles-muller.png|250px|thumb|Gilles Müller]]
+On Day 9, two of the top three seeds, and the two [[2007 U.S. Open - Men's Singles|finalists from the previous year]], [[Roger Federer]] and [[Novak Djoković]], were severely tested. Federer, aiming for his fifth consecutive Open title, was playing twenty-sixth seed [[Igor Andreev]] in one of the scheduled night matches on the [[Arthur Ashe Stadium]];<ref name=Federerstaves>{{cite news|author=Howard Fendrich|publisher=''[[Washington Times]]''|title=Federer staves off upset| url =http://www.washingtontimes.com/news/2008/sep/03/federer-staves-off-upset-by-andreev/|date =2008-09-03| accessdate =2008-09-03}}</ref> he was victorious in five sets, 6–7(5), 7–6(5), 6–3, 3–6, 6–3. Federer struggled to break Andreev's serve in the opening two sets, whereas Andreev broke Federer in the first game of the first, and had seven break points in the early games of the second (Andreev had a low success rate overall, only taking advantage of two out of fifteen break points in the whole match). In the final set Andreev, at 4–2 down, had five further break point opportunities, but failed to convert any as Federer served out the match. Djoković was also pushed to five sets, defeating fifteenth seed [[Tommy Robredo]] 4–6, 6–2, 6–3, 5–7, 6–3 in nearly four hours. Robredo broke Djoković's serve at 4–4 the first set, before Djoković won sets two and three with some ease. However, after having broken serve in the fourth, Robredo levelled the match at 3–3, prompting the number three seed to smash his racket, and be the subject of booing from sections of the crowd. Djoković failed to convert break points at 5–5, allowing Robredo to forge a break of his own and take it to a fifth set. Djoković was able to close out the match after breaking at 2–2 in the final set. Djoković was beset by problems related to both a hip injury (for which he required two time-outs) and exhaustion, having been unable to sleep until 4.30 am ([[UTC-5]]) on Day 8 after his match with [[Marin Čilić]]. Robredo responded by saying, "I think that if you're not fit enough, then don't play." Djoković set up a tie with sixth seed [[Andy Roddick]], who easily beat eleventh seed and [[Tennis at the 2008 Summer Olympics - Men's Singles|Olympic silver medalist]] [[Fernando González]] 6–2, 6–4, 6–1; [[2003 U.S. Open - Men's Singles|2003 champion]] Roddick acknowledged that he would have to complete an upset to defeat Djoković, despite Djoković's admission that whomever he faced in the next round would be a fitter opponent.<ref name=Twotopten>{{cite news|author=Katie Thomas|publisher=''New York Times''|title=Two Top Men Are Pushed to the Limit at U.S. Open| url =http://www.nytimes.com/2008/09/03/sports/tennis/03day.html?_r=1&ref=tennis&oref=slogin|date =2008-09-02| accessdate =2008-09-03}}</ref><ref name=Federeredges>{{cite news|author=Piers Newbery|publisher=BBC Sport|title=Federer edges through in thriller| url =http://news.bbc.co.uk/sport1/hi/tennis/7595039.stm|date =2008-09-03| accessdate =2008-09-03}}</ref><ref name=Djokovicfive>{{cite news|author=BBC Sport|title=Djokovic battles to five-set win| url =http://news.bbc.co.uk/sport1/hi/tennis/7594361.stm|date =2008-09-03| accessdate =2008-09-03}}</ref> [[Gilles Müller]] continued his unexpected run, as he defeated fifth seed [[Nikolay Davydenko]] in a demanding match that finished 6–4, 4–6, 6–3, 7–6(10). Muller, who served twenty aces, became the lowest-ranked player, at world number 130, to reach the quarterfinals of the Open since [[Nicolas Escude]] (rank 136) in [[1999 U.S. Open - Men's Singles|1999]], and the lowest-ranked at a Grand Slam tournament since [[Alexander Popp]] (rank 198) at [[2003 Wimbledon Championships - Men's Singles|Wimbledon 2003]]. He was also the first Luxembourgian to reach the quarterfinal stage of a Grand Slam.<ref name=Mullernation>{{cite news|author=Michael Weinreb|publisher=''New York Times''|title=Tiny Nation, Big Feat: Qualifier Keeps Going| url =http://www.nytimes.com/2008/09/03/sports/tennis/03open.html?ref=tennis|date =2008-09-02| accessdate =2008-09-03}}</ref>
+
+The latter stages of the women's tournament began, as the quarterfinal matches in the bottom half of the draw were played. Fifth seed and [[2004 U.S. Open - Women's Singles|2004 finalist]] [[Elena Dementieva]] progressed first, defeating the fifteenth seed [[Patty Schnyder]] with a competent display, 6–2, 6–3. Dementieva won the first set with two breaks, and although Schnyder broke back to level at 3–3 in the second, Dementieva won the next three games. [[Jelena Janković]], a [[2006 U.S. Open - Women's Singles|semifinalist in 2006]], joined her, completing an easy 6–1, 6–4 win over twenty-ninth seed [[Sybille Bammer]], who was playing in her first Grand Slam quarterfinal. Jankovic, whose match was relocated to the [[Louis Armstrong Stadium]] after the Federer-Andreev match overran, was one of four players, along with Dementieva, [[Serena Williams]],<ref name=Williamsmatchup>{{cite news|author=Michael Weinreb|author=[[Associated Press]]|publisher=ESPN|title=Williams sisters get set for quarterfinal matchup| url =http://sports.espn.go.com/sports/tennis/usopen08/news/story?id=3565745|date =2008-09-02| accessdate =2008-09-03}}</ref> and [[Dinara Safina]]<ref name=Williamssisters/> who stood a chance of claiming the [[List of WTA number 1 ranked players|World No. 1]] spot at the end of the tournament.<ref name=Jankovicsemis>{{cite news|author=BBC Sport|title=Jankovic & Dementieva into semis| url =http://news.bbc.co.uk/sport1/hi/tennis/7594362.stm|date =2008-09-03| accessdate =2008-09-03}}</ref>
+*Seeded players out: Tommy Robredo, Nikolay Davydenko, Igor Andreev, Fernando González; Patty Schnyder, Sybille Bammer
+
+===Day 10===
+[[File:Andy Murray US Open 08.jpg|thumb|right|200px|Andy Murray]]
+The first two quarterfinal matches of the men's singles were played; top seed [[Rafael Nadal]] and sixth seed [[Andy Murray]] advanced to set up a match versus each other. Murray, who played first, defeated seventeenth seed [[Juan Martín del Potro]], and ended del Potro's 23-match winning streak in the process. Murray endeavored to victory in nearly four hours,<ref name=Murraytops>{{cite news|author=Liz Clarke|publisher=''Washington Post''|title=Murray Tops Del Potro in Four-Hour Quarterfinal Match| url =http://www.washingtonpost.com/wp-dyn/content/article/2008/09/03/AR2008090303956.html|date =2008-09-04| accessdate =2008-09-04}}</ref> with the final scoreline at 7–6(2) 7–6(1), 4–6, 7–5. There was a history of antagonism between the pair, despite having only played once before, at the [[2008 Rome Masters]];<ref name=Murrayrecord>{{cite news|author=[[Association of Tennis Professionals]] (ATP)|title=Murray-Del Potro head-to-head| url =http://www.atptennis.com/3/en/players/headtohead/?player1=Murray%2C+Andy&player2=del+potro| accessdate =2008-09-04}}</ref> in this match, del Potro had allegedly hit a ball straight at Murray, and not apologized, and later insulted Murray's mother.<ref name=MurraydelPotrohistory>{{citeweb|url=http://news.bbc.co.uk/sport1/hi/tennis/7382098.stm|title=Murray leaps to defence of mother|author=BBC Sport|date=2008-05-06|accessdate=2008-11-12}}</ref> In the first set, Murray raced ahead, and led 4–1 before del Potro went on to win the next four games. Murray then broke back, and dominated the tiebreak that took place shortly afterwards. In the second set, it was Murray who broke late in the set, at 5–5, and he had an opportunity to serve for the set. Although del Potro broke back, Murray again eased through the tiebreak. Murray accelerated to a 3–1 lead in the third set, but del Potro fought back, and won the set, affording Murray only one more game. The players exchanged two breaks of serve in the final set, before Murray gained a decisive break at 6–5 to reach his first Grand Slam semifinal. Murray said the history of ill feeling between the pair did not transfer itself to the court, and that del Potro had apologized as the players shook hands at the end. The nineteen-year-old del Potro, who was playing in his first Grand Slam quarterfinal, hailed Murray as one of "best players in the world" in his press conference; however, he was unable to finish the round of questioning, and left mid-way through in tears.<ref name=Murraysemis>{{cite news|author=BBC Sport|title=Murray to meet Nadal in US semis| url =http://news.bbc.co.uk/sport1/hi/tennis/7594743.stm|date =2008-09-04| accessdate =2008-09-04}}</ref><ref name=InformMurray>{{cite news|author=BBC Sport|title=In-form Murray eyes US Open glory| url =http://news.bbc.co.uk/sport1/hi/tennis/7597320.stm|date =2008-09-04| accessdate =2008-09-04}}</ref><ref name=Day10quotes>{{cite news|author=BBC Sport|title=US Open day 10 quotes| url =http://news.bbc.co.uk/sport1/hi/tennis/7597203.stm|date =2008-09-04| accessdate =2008-09-04}}</ref> In the match between Nadal and the unseeded American [[Mardy Fish]], Fish continued to play the attacking brand of tennis that he had done in the previous round, and, in front of a partisan home crowd, won the first set 6–3. However, Nadal improved his performance in the following three sets, and produced a number of [[Tennis terminology#P|passing shots]] to counter Fish's aggressive play, eventually coming through 3–6, 6–1, 6–4, 6–2.<ref name=Murraysemis/> Due in part to the longevity of the Williams-Williams match,<ref name=Dazzlingdisplay>{{cite news|author=Lynn Zinser|publisher=''New York Times''|title=A Dazzling Display by Williams Sisters| url =http://www.nytimes.com/2008/09/04/sports/tennis/04night.html?_r=1&ref=tennis&oref=slogin|date =2008-09-03| accessdate =2008-09-04}}</ref> the players remained on court till after 2.11 am,<ref name=RejuvenatedFederer>{{cite news|author=Liz Robbins|publisher=''New York Times''|title=Rejuvenated Federer Overpowers Djokovic to Reach Final| url =http://www.nytimes.com/2008/09/07/sports/tennis/07men.html?ref=tennis|date =2008-09-06| accessdate =2008-09-06}}</ref> meaning that the match was sixteen minutes shy of the latest match ever played at the Open.<ref name=Day10quotes/>
+
+The late women's match was between the Williams sisters, [[Venus Williams|Venus]] and [[Serena Williams|Serena]], both of whom had won the Open title twice previously. Serena prevailed in two sets, 7–6(6), 7–6(7), but not without considerable difficulty. Venus took the initiative in the opening stages, breaking to lead 3–1, and had the advantage of serving for two sets points at 5–3, 40–15. However, Serena launched a comeback, and won the first set on a tiebreak score of 8–6. In a second set that mirrored the first in many ways, Venus broke at 3–2 up, and again served for the set at 5–3; Venus used an array of attacking shots, regularly approaching the net and playing a number of cross-court forehands. Venus then led Serena for a large portion of the second set tiebreak, but squandered eight sets points; Serena, meanwhile, won on her first match point to secure the tiebreak 9–7. Serena commented afterwards that the siblings were "definitely playing the best [tennis of the tournament] so far." Sixth seed [[Dinara Safina]] filled the other semifinal spot, defeating sixteenth seed [[Flavia Pennetta]] 6–2, 6–3. Safina, who had reached the final stage of six of her previous seven tournaments, said that she hoped to emulate her brother [[Marat Safin|Marat]], who won his [[2000 U.S. Open (tennis)|maiden Grand Slam tournament]] at Flushing Meadows in 2000.<ref name=SerenabeatsVenus>{{cite news|author=BBC Sport|title=Serena beats Venus to reach semis| url =http://news.bbc.co.uk/sport1/hi/tennis/7596505.stm|date =2008-09-03| accessdate =2008-09-04}}</ref>
+*Seeded players out: Juan Martín del Potro; Flavia Pennetta, Venus Williams
+*Seeded players out: [[Yan Zi (tennis)|Zi Yan]] / [[Zheng Jie|Jie Zheng]]<ref name=USATodayWDoubles/>
+
+===Day 11===
+[[File:U.S. Open 2008 Andy Roddick vs. Novak Djokovic.jpg|left|thumb|250px|Roddick vs. Djoković match in progress]]
+Day 11 featured a men's quarterfinal, between [[Novak Djoković]] and [[Andy Roddick]], that, like the match between Murray and del Potro, was preceded, and in this case, followed by, a controversial incident somewhat extraneous to the match played. Roddick said, in a press conference held on Day 10, that Djoković was "either quick to call a trainer or the most courageous guy of all time", insinuating that his opponent had a reputation for being injured (as he had been in his previous match) and, somewhat tongue-in-cheek, listed a series of esoteric conditions that Djoković may have been afflicted with ("Back and a hip? And a cramp? Bird flu? Anthrax? SARS? Common cough and cold?").<ref name=Day10quotes/> The American, renowned for his serve, struggled with this aspect of his game in the early stages of the match, and Djoković broke three times in the first set, winning in 27 minutes; he then took the second, needing only one break of serve in that set. However, Roddick, who had the support of the home crowd to his advantage, broke to lead 3–1 in the third, and he eventually won the set. In the fourth set, Roddick appeared to have gained momentum after breaking Djoković's serve to lead 4–3. Roddick was playing with increased exuberance at this point, and the crowd became more vocal, even making noise during Djoković's service motions.<ref name=DjokRod>{{cite news|author=David Ornstein|publisher=BBC Sport|title=Roddick v Djokovic as it happened| url =http://news.bbc.co.uk/sport1/hi/tennis/7599358.stm|date =2008-09-05| accessdate =2008-09-06|quote=The crowd are making this virtually impossible for Djoko by piping up every time he goes to serve.}}</ref> Roddick's serve failed him again though when, at 5–4, 30–0 up, he doubled-faulted twice and allowed Djoković to break back; the number three seed then went on to win the tiebreak and seal the win 6–2, 6–3, 3–6, 7–6(5). Djoković then vented his anger at Roddick's comments in a post-match, court-side interview, beginning by stating, sarcastically, "Andy was saying that I have 16 injuries in the last match; obviously I don't, right?" The crowd then began to boo Djoković, to which he said, "Like it or not, it's like that." The interviewer, wanting to diffuse the situation, told Djoković that, "This crowd loves you, but you could turn them against you real fast"; Djoković responded by saying "I know [the crowd] are already against me because they think I am faking everything." In a later interview, Roddick criticized Djoković for being able to mock other players with his impressions, but being unable to receive mockery of himself in a gracious manner; Djoković showed contrition, calling it a "mistake" and apologizing to Roddick. Djoković had set up a match with the player he lost to in the 2007 final, [[Roger Federer]], who had earlier beaten qualifier [[Gilles Müller]] 7–6(5), 6–4, 7–6(5). The former [[List of ATP number 1 ranked players|World No. 1]] produced a measured performance, attacking Muller in the latter stages of the three sets. Muller fended off five set points in the first, before being broken in the tiebreak at 4–4. Federer broke serve at 4–4 (games) in the second set, and then served that set out; Muller put up stronger resistance in the third set tiebreak, leading 4–1 and 5–3, but after this allowed Federer to win the next four points. With this victory, Federer maintained his sequence of consecutive Grand Slam semifinals, with this being the eighteenth time he had done so.<ref name=DjokovicRoddick>{{cite news|author=BBC Sport|title=Djokovic sets up Federer showdown| url =http://news.bbc.co.uk/sport1/hi/tennis/7599293.stm|date =2008-09-05| accessdate =2008-09-05}}</ref>
+*Seeded players out: Andy Roddick
+
+*Seeded players out: [[Katarina Srebotnik]] / [[Ai Sugiyama]]<ref name=USATodayWDoubles/>
+
+===Day 12===
+On women's semifinal day it was the two former [[List of WTA number 1 ranked players|World No. 1]]s, [[Jelena Janković]] and [[Serena Williams]], who came through in blustery conditions. For Jankovic, it was the first time she had reached the final of a Grand Slam, having made the semi-finals on four previous occasions. She was also the third Serb to reach a Grand Slam final in 2008 (men's and women's singles),<ref name=DjokovicTsonga>{{cite news|author=Piers Newbury|publisher=BBC Sport|title=Djokovic battles to Aussie title| url =http://news.bbc.co.uk/sport1/hi/tennis/7210361.stm|date =2008-01-27| accessdate =2008-09-08}}</ref><ref name=IvanovicSafina>{{cite news|author=BBC Sport|title=Ivanovic to face Safina in final| url =http://news.bbc.co.uk/sport1/hi/tennis/7438059.stm|date =2008-06-05| accessdate =2008-09-08}}</ref> making them the most successful nation in this regard. She progressed first, defeating [[Elena Dementieva]] 6–4, 6–4. Dementieva was in the ascendency in the early part of the match, as she broke serve to lead 4–2 and dictated the play from the [[Tennis terminology#B|baseline]]. However, Dementieva began to hit more [[Tennis terminology#U|unforced error]]s at this point, and Jankovic took advantage of this, winning the next four games to secure the first set. On set point, which was on Dementieva's serve, Jankovic caused a minor controversy when she asked the [[ball boy]] for a towel, thus exceeding the 25 second time limit between points; she received a [[Tennis terminology#C|code violation]] (warning) from the umpire as a result of this incident.<ref name=Jankovicedge>{{cite news|author=Bud Collins|publisher=''The Boston Globe''|title=Jankovic living on the edge| url =http://www.boston.com/sports/other_sports/tennis/articles/2008/09/06/jankovic_living_on_the_edge/|date =2008-09-06| accessdate =2008-09-06}}</ref> Both players struggled to hold serve in the early stages of the second set, and they traded two breaks apiece from 1–1 to 3–3. Both players then held serve to 4–4, before Jankovic broke at 5–4 to win the match.<ref name=DemJank>{{cite news|author=Piers Newbery|publisher=BBC Sport|title=Dementieva v Jankovic as it happened| url =http://news.bbc.co.uk/sport1/hi/tennis/7601098.stm|date =2008-09-05| accessdate =2008-09-06}}</ref> Dementieva had problems throughout the match; she was broken on serve five times,<ref name=Takingaim>{{cite news|author=Liz Robbins|publisher=''New York Times''|title=Taking Aim at Title and Top Spot | url =http://www.nytimes.com/2008/09/06/sports/tennis/06women.html?ref=tennis|date =2008-09-05| accessdate =2008-09-06}}</ref> and committed forty-two unforced errors in total. However, she said that her [[Tennis at the 2008 Summer Olympics - Women's Singles|recent Olympic triumph]] provided more than mere consolation, as she assigned a higher worth to the [[Tennis at the Summer Olympics|Olympic tennis event]]. Jankovic, who was in tears at the end of the match, had suffered a spate of injuries in 2008, and claimed that this was the first tournament of the year that she was injury free.<ref name=Jankovicedge/> Williams also won in two sets, defeating [[Dinara Safina]] 6–3, 6–2. Safina broke Williams in the first game of the match, but Williams soon asserted herself, and after having broken back, broke again to lead 5–3. Although Williams faced break points in this game, she eventually came through to win the first set. Safina, who was troubled by the wind for the whole match, was then broken after being 40–0 up in the first game of the second set. Williams eased to a 5–1 lead before closing out the match with a big serve. Williams told afterwards of her excitement of having an American player back in the final (the last women's singles final to feature an American woman was 2002, when, as previously mentioned, she and her sister played each other). Safina meanwhile, chastised her own behavior on the court, saying that she acted like a "spoilt girl" and would in the future try to contain her emotions.<ref name=SerenaJankovic>{{cite news|author=BBC Sport|title=Serena to face Jankovic in final| url =http://news.bbc.co.uk/sport1/hi/tennis/7601355.stm|date =2008-09-05| accessdate =2008-09-06}}</ref>
+*Seeded players out: Elena Dementieva, Dinara Safina.
+
+*Seeded players out: [[Lukáš Dlouhý]] / [[Leander Paes]]<ref name=USATodayMDoubles/>
+
+===Day 13===
+Fears had been raised on the days leading up to Day 13 that this would be the date on which the [[East Coast of the United States|north-east coast]] of the US would be affected by the remnants of [[Hurricane Hanna (2008)|Hurricane Hanna]], and they proved to be correct. A substantial part of "Super Saturday" as it often known (due to the fact that the men's semifinals and women's final are played on the same day, and this is unique amongst the Grand Slam events),<ref name=RainonMurray>{{cite news|author=BBC Sport|title=Rain threatens Murray semi-final| url =http://news.bbc.co.uk/sport1/hi/tennis/7599274.stm|date =2008-09-06| accessdate =2008-09-06}}</ref> was called off due to rain. The [[United States Tennis Association]]'s original contingency plan was to start the men's semifinals at the earlier time of 11 am (UTC-5), an hour earlier than tradition dictates.<ref name=RainonMurray/><ref name=Menssemis>{{cite news|author=Michael Brick|publisher=''New York Times''|title=Men’s Semifinals Moved Up an Hour| url =http://www.nytimes.com/2008/09/06/sports/tennis/06open.html?_r=1&ref=tennis&oref=slogin|date =2008-09-05| accessdate =2008-09-06}}</ref> If the men's matches were completed, but the women's final could not be, then both finals would be played on Day 14, the final Sunday. Were none of the matches to be completed, Day 13's schedule would be forwarded by one day, and an extra day would be allocated for the men's final.<ref name=Menssemis/> Minor rescheduling took place on the day; for example, the match between [[Rafael Nadal]] and [[Andy Murray]] began at a later start time than the [[Roger Federer]]-[[Novak Djoković]] match, 12.40 pm (it was relocated from the Arthur Ashe to Louis Armstrong Stadium), to allow people to see part of both matches. This created logistical problems for the organizers, as many fans left the semifinal between Federer and Djoković to get good seats at the other.<ref name=RejuvenatedFederer/> Ultimately, with one men's match finished, and another half-way completed, the organizers decided to designate a fifteenth day's play, with the women's final having been cancelled due ongoing rain. The final decision was that on Day 14, the conclusion of the men's semifinal between Nadal and Murray<ref name=Murrayleading>{{cite news|author=BBC Sport|title=Murray leading when rain arrives| url =http://news.bbc.co.uk/sport1/hi/tennis/7602257.stm|date =2008-09-06| accessdate =2008-09-06}}</ref> and the women's final would be played in separate sessions, and the men's final would be played on the following day. This was the first time since the [[1974 U.S. Open (tennis)|1974 Open]], when [[Billie Jean King]] beat [[Evonne Goolagong]], that the [[List of U.S. Open Women's Singles champions|women's final]] was not played on the Saturday, and the first time since [[1987 U.S. Open (tennis)|1987]] that an extra day was required.<ref name=Raindelay>{{cite news|author=Associated Press|publisher=ESPN|title=Rain delays Serena-Jankovic final until Sunday| url =http://sports.espn.go.com/sports/tennis/usopen08/news/story?id=3572675|date =2008-09-07| accessdate =2008-09-08}}</ref><ref name=USTAroof>{{cite news|author=BBC Sport|title=US Open set to approve roof plan| url =http://news.bbc.co.uk/sport1/hi/tennis/7602611.stm|date =2008-09-07| accessdate =2008-09-07}}</ref>
+
+In the one men's semifinal that was completed, Federer, who had endured a poor season by his standards,<ref name=RejuvenatedFederer/> defeated Djoković 6–3, 5–7, 7–5, 6–2 to reach his third Grand Slam final of the year, and seventeenth overall. The last time the pair had met on hardcourts was in January, in the [[2008 Australian Open|Australian Open]] semifinal,<ref name=Djokovicrecord>{{cite news|author=Association of Tennis Professionals (ATP)|title=Djokovic-Federer head-to-head| url =http://www.atptennis.com/3/en/players/headtohead/?player1=Djokovic%2C+Novak&player2=federer| accessdate =2008-09-06}}</ref> where Djoković had convincingly beaten Federer;<ref name=Djokoviccrushes>{{cite news|author=John Ashdown|publisher=''[[The Guardian]]''|title=Djokovic crushes Federer to seal final spot| url =http://www.guardian.co.uk/sport/2008/jan/25/tennis.australianopen20084|date =2008-01-25| accessdate =2008-09-06}}</ref> the time before this was in the aforementioned 2007 final, where Federer had won in straight sets. Both players made impressive starts to their encounter on this occasion, as they secured easy holds of serve the opening two games. However, in third game, Federer broke, and did not lose another service game in the first set. In the second set, it was Djoković who gained the early break, and he led 3–1 before Federer rallied back to draw level at 4–4. However, this proved to be in vain as Federer, who had already saved two set points from 0–40 down,<ref name=RejuvenatedFederer/> was broken at 5–6 to hand Djoković the second set. The score was deadlocked at 5–5 in the third when Federer fashioned a crucial break of serve, and went on to win the set. During the match, Djoković had felt the wrath of the US crowd, who were vociferous in their support for Federer, and who at times cheered when he hit unforced errors. After being broken at 5–5, Djoković turned and gave them a mock gesture of thanks, which only incited them further.<ref name=RejuvenatedFederer/> Federer added afterwards that he felt he had broken Djoković's will by winning this set. Federer broke again in the fifth game of the fourth set, and did not lose another game as he cruised to victory.<ref name=Federerstrong>{{cite news|author=BBC Sport|title=Federer too strong for Djoković| url =http://news.bbc.co.uk/sport1/hi/tennis/7602181.stm|date =2008-09-06| accessdate =2008-09-06}}</ref> The other men's semifinal, between Nadal and Murray, was suspended with the score at 6–2, 7–6(5), 2–3 in Murray's favor (although he was a break down in the third). Murray began the match in an aggressive manner, serving and volleying, and hitting several winners from the back of the court. He was rewarded with two breaks of serve in the first set, at 1–1 and 4–2. Murray continued to bother Nadal on serve in the second, but could not break, despite holding seven break points, and facing none against himself. In the tiebreak, he squandered an early lead before reeling off three points in a row at 4–5 down to gain a two set advantage. Nadal broke Murray early in the second set, before a short postponement in play was initiated when a light rain appeared, in order to give the referee time to assess whether the court was still suitable for play. Murray queried the initial decision to stop play, but the rain soon came on stronger, and the match was suspended overnight.<ref name=MurrayNadallive>{{citeweb|url=http://news.bbc.co.uk/sport1/hi/tennis/7601195.stm|title=Murray v Nadal as it happened|author=Piers Newbery|publisher=BBC Sport|date=2008-09-06|accessdate=2008-11-13}}</ref>
+
+*Seeded players out: Novak Djoković
+
+===Day 14===
+The first session of play on Day 14 saw Murray round off his victory against Nadal, 6–2, 7–6(5) 4–6, 6–4. Play resumed on Arthur Ashe Stadium, and Nadal won all three of his service games, fending off one break point from Murray in the process, to win the third set. Both players then had opportunities to break at the start of the fourth. Nadal had one in the first game, and Murray had seven in the second; this second game spanned a total of twenty-two points, and took 15 minutes to be concluded.<ref name=Murrayfinishes>{{cite news|author=Liz Robbins|publisher=''New York Times''|title=Murray Finishes Off Nadal to Reach His First Open Final| url =http://www.nytimes.com/2008/09/08/sports/tennis/08men.html?_r=1&ref=tennis&oref=slogin|date =2008-09-07| accessdate =2008-09-08}}</ref> The resolute Nadal held out though, and broke Murray to [[Tennis terminology#L|love]] in the next game. Murray came back into the match, levelling the scores at 3–3; and he broke again to win the match at 5–4. After a somewhat fortuitous [[Tennis terminology#N|net cord]] at deuce of that game, Murray hit a backhand pass at match point to confirm the win. Murray, who came into the match having failed to beat Nadal in five previous encounters, became the first Briton, male or female, since [[Greg Rusedski]] at the [[1997 U.S. Open (tennis)|1997 Open]] to reach the final of a Grand Slam singles tournament. Nadal, who was also playing in his first US Open semifinal, said that, with the number of matches he had played recently taken into consideration, he was pleased with his overall performance at the Open.<ref name=Murraystuns>{{cite news|author=Piers Newbury|publisher=BBC Sport|title=Murray stuns Nadal to reach final| url =http://news.bbc.co.uk/sport1/hi/tennis/7602257.stm|date =2008-09-07| accessdate =2008-09-08}}</ref><ref name= Federerrolls>{{cite news|author=Associated Press|publisher=Associated Press|title=Federer rolls past Murray to win 13th Grand Slam title| url =http://sports.espn.go.com/sports/tennis/usopen08/news/story?id=3576338 |date =2008-09-08| accessdate =2008-09-08}}</ref> Had the match gone to seeding, Nadal would have been facing his [[Federer–Nadal rivalry|rival]], Federer, for a third time in a Grand Slam final in 2008, after having already beaten him at the [[2008 French Open|French Open]]<ref name=Nadalstorms>{{cite news|author=Piers Newbery|publisher=BBC Sport|title=Nadal storms to fourth French win| url =http://news.bbc.co.uk/sport1/hi/tennis/7441733.stm|date =2008-06-08| accessdate =2008-09-08}}</ref> and [[2008 Wimbledon Championships|Wimbledon]].<ref name=NadalWimby>{{cite news|author=Piers Newbery|publisher=BBC Sport|title=Nadal wins epic Wimbledon final| url =http://news.bbc.co.uk/sport1/hi/tennis/7490443.stm|date =2008-07-06| accessdate =2008-09-08}}</ref>
+
+The women's singles final was also played, and Williams was victorious over Jankovic in two sets, 6–4, 7–5. Williams also reclaimed the number one berth for the first time since 2003, something that Jankovic would have done had she won the title.<ref name=Jankovicsemis/> The players came into the final with a win-loss record against each other of 3-3, although Jankovic said beforehand that, "Overall, she's, I think, the strongest player on the tour, together with her sister."<ref name=Williamsmeet>{{cite news|author=Howard Fendrich|publisher=''[[The Ledger]]''|title=Williams, Jankovic To Meet In Final| url =http://www.theledger.com/article/20080905/NEWS/809060249/1002/Sports&title=Williams__Jankovic_To_Meet_In_Final|date =2008-09-06| accessdate =2008-09-08}}</ref> The match was preceded by an opening ceremony that included [[Anita Baker]] singing the [[The Star-Spangled Banner|US national anthem]], a group of people moving a gigantic [[American flag]] over the court, and a coin toss performed by Billie Jean King.<ref name=Day12photos>{{cite news|author=Getty|publisher=BBC Sport|title=US Open day 12 photos| url =http://news.bbc.co.uk/sport1/hi/tennis/7603313.stm|date =2008-09-08| accessdate =2008-09-08}}</ref> The match, which the BBC called "one of the more memorable US Open finals", began in exciting fashion, with Serena being edged to deuce in the first game,<ref name=SerJan>{{cite news|author=Piers Newbery|publisher=BBC Sport|title=Serena v Jankovic as it happened| url =http://news.bbc.co.uk/sport1/hi/tennis/7601545.stm|date =2008-09-08| accessdate =2008-09-08}}</ref> as both players hit a number of winners and unforced errors in the opening stages. Jankovic appeared to be playing with greater confidence though, when she broke to love in the third game of the match. Any advantage that this break gave her was nullified in the next game, as Williams broke back from 40–0 down. Jankovic was broken again to go 4–2 down, but it was her turn to break back as Williams made several errors when serving for the set at 5–3. Her work was undone when she went 0–40 down in the subsequent game, and after saving one set point, ceded the first set to Williams on the following one.<ref name=SerJan/> 
+
+[[File:Jankovicusopen08afar.jpg|right|240px|thumb|Jelena Janković serving]]Williams began the second set ominously for Jankovic, as she held to love and then forced two break points on her serve. The next four games saw the players contest several exhausting rallies, but Williams was the only one to force any break points, gaining a lead of 15–40 at 2–1 and 3–2, with Jankovic holding both times. Before the seventh game of the third set, Williams went to use her towel, and Jankovic complained to the umpire about the violation; the same one she had committed in the previous round. With the score at 40–30 in Williams's favor, Jankovic hit a winner, and although the decision of the line judge incensed Williams, it was shown to be clearly in on the [[Hawk-Eye]] review; Jankovic then won the game, and her next one when back on serve. She had her first three set points in the next game, racing to a 0–40 lead, but failed to convert any as Williams held on. With Jankovic serving for the set (5–4), Williams hit three winners to take a 0–40 lead, the final point in this sequence being her eighth in a row. Jankovic won the next three points, and after Williams twice held advantage, she hit an ace to bring up her fourth set point. However, Jankovic double-faulted on this opportunity, and allowed Williams to win the game on her sixth break point. Williams won the next two games, and although Jankovic had a game point at 6–5, she double-faulted, and Williams took the match on her second championship point.<ref name=SerJan/>  
+
+This was the ninth Grand Slam tournament that Williams had won,<ref name=Serenaseals>{{cite news|author=Piers Newbery|publisher=BBC Sport|title=Serena seals third US Open title| url =http://news.bbc.co.uk/sport1/hi/tennis/7601548.stm|date =2008-09-08| accessdate =2008-09-08}}</ref> and she did not drop a set on her way to doing so. At the time, Williams joined an elite group of [[Tennis statistics#Women|six women]] who had won nine or more Grand Slam titles in the open era, equalling [[Monica Seles]]'s tally with this triumph.<ref name=Serenaplans>{{cite news|author=BBC Sport|title=Serena plans new era of dominance| url =http://news.bbc.co.uk/sport1/hi/tennis/7603479.stm|date =2008-09-08| accessdate =2008-09-08}}</ref> Williams, who had dominated the sport from 2002 to 2003, but been ranked outside the top 125 in 2006,<ref name=Serenaretakes>{{cite news|author=Karen Crouse|publisher=''New York Times''|title=Serena Williams Wins U.S. Open, Retaking No. 1| url =http://www.nytimes.com/2008/09/08/sports/tennis/08women.html?ref=tennis|date =2008-09-07| accessdate =2008-09-08}}</ref> put her renaissance, not only in this tournament but for the whole of 2008, down to an better approach towards fitness. Williams had won her first Grand Slam at the Open, in [[1999 U.S. Open (tennis)|1999]], and reflected on her future by saying that she wanted to win several more before her career was over.<ref name=Serenaplans/> Jankovic meanwhile, said she was contented with her first outing in a Grand Slam final, and joked that she probably deserved an [[Academy Award|Oscar]] for the dramatic nature of her matches in the two weeks that led up to the final.<ref name=Serenaretakes/>
+
+*Seeded players out: [[Rafael Nadal]]; [[Jelena Janković]]
+
+*Seeded players out: [[Lisa Raymond]] / [[Samantha Stosur]]<ref name=USATodayWDoubles/>
+
+===Day 15===
+[[File:Roger Federer wins the US Open 2008.jpg|thumb|300px|Roger Federer holding the US Open trophy]]
+[[Roger Federer]] defeated [[Andy Murray]] in straight sets 6–2, 7–5, 6–2, to claim his fifth consecutive title, thus cementing his place in history as the first man since [[Bill Tilden]] in [[1924 U.S. National Championships (tennis)|1924]] to have achieved this feat. The only other men to have done so were [[Richard Sears (tennis)|Richard Sears]], in [[1887 U.S. National Championships (tennis)|1887]], and [[Bill Larned]], in [[1911 U.S. National Championships (tennis)|1911]]<ref name=Federerbeats>{{cite news|author=Erik Matuszewski and Danielle Rossingh|publisher=Bloomberg|title=Federer Beats Murray to Win Fifth Straight U.S. Open (Update2)| url =http://www.bloomberg.com/apps/news?pid=20601079&sid=aQQdxOZaqwps |date =2008-09-08| accessdate =2008-09-08}}</ref> ([[Jimmy Connors]] and [[Pete Sampras]] had each won five times, but not consecutively).<ref name=SuperbFederer>{{cite news|author=Piers Newbery|publisher=BBC Sport|title=Superb Federer ends Murray dream |url =http://news.bbc.co.uk/sport1/hi/tennis/7603307.stm |date =2008-09-08| accessdate =2008-09-08}}</ref> Federer created a new record, becoming the first man to have won two different Grand Slam events five consecutive times<ref name=Federeremphatic>{{cite news|author=Greg Garber|publisher=ESPN|title=Federer's empathic statement at U.S. Open salvages deflated season| url =http://sports.espn.go.com/sports/tennis/usopen08/columns/story?columnist=garber_greg&id=3576771| date =2008-09-08| accessdate =2008-09-08}}</ref> (the other being Wimbledon),<ref name=RejuvenatedFederer/> and this win left him one short of [[Pete Sampras]]'s all-time men's record of 14 Grand Slam singles wins.<ref name=Federeremphatic/> In the context of Federer's career, this was the sixth straight year in which he had won a Grand Slam. Murray also came into the match aiming to break a pre-open era record, his being one of national importance—the last British man to have won a Grand Slam singles title was [[Fred Perry]] at the [[1936 U.S. National Championships (tennis)|1936 U.S. National Championships]], the last British woman to have done so was [[Virginia Wade]] at Wimbledon 1977.<ref name=Federeremphatic/>
+
+Coming into this tournament, both players had contrasting records at Grand Slams: the twenty-seven year old Federer had reached sixteen Grand Slam finals, and won twelve, whereas the twenty-one year old Murray had had yet to reach the final of one. Murray also had the task of becoming the first man since [[Sergi Bruguera]], at the [[1993 French Open]], to beat the top two players in the world at a Grand Slam.<ref name=MurrayBruguera>{{citeweb|url=http://www.news.com.au/adelaidenow/story/0,22606,24317441-5016711,00.html|title=Federer powers to US Open crown|publisher=News Corporation, ''Adelaide Now''|author=Jim Slater|date=2008-09-09|accessdate=2008-11-12}}</ref> He did however, hold a win-loss record of 2-1 against Federer, and had most recently beaten him at the [[2008 Dubai Tennis Championships]].<ref name=Murrayrecord2>{{cite news|author=Association of Tennis Professionals (ATP)|title=Murray-Federer head-to-head| url =http://www.atptennis.com/3/en/players/headtohead/?player1=Murray%2C+Andy&player2=federer| accessdate =2008-09-09}}</ref> Murray, who expressed confidence coming into the final, said that this small positive record stood for little, and he, along with a number of commentators, including former Wimbledon champions [[Pat Cash]] and [[Michael Stich]],<ref name=FedMurBBC>{{cite news|author=Caroline Cheese|publisher=BBC Sport|title=Murray v Federer as it happened |url =http://news.bbc.co.uk/sport1/hi/tennis/7604165.stm |date =2008-09-08| accessdate =2008-09-09}}</ref> acknowledged Federer to be the favorite, despite his disappointing year.<ref name=FedandMur>{{cite news|author=Staff and agencies|publisher=''The Guardian''|title=Past victories over Federer mean nothing, says Murray| url =http://www.guardian.co.uk/sport/2008/sep/08/usopentennis.tennis1| date=2008-09-08| accessdate =2008-09-09}}</ref><ref name=Dogged>{{cite news|author=Douglas Robson|publisher=''USA Today''|title=Dogged by doubts, Federer faces confident Murray in final| url =http://www.usatoday.com/sports/tennis/2008-09-07-mens-preview_N.htm?csp=34| date=2008-09-08| accessdate =2008-09-09}}</ref>
+
+The match, dubbed by famous American sports promoter [[Don King (boxing promoter)|Don King]] as the "Grapple in the [[Big Apple|Apple]]",<ref name=DonKing>{{cite news|author=BBC Sport|title='Grapple in the Apple' - King |url =http://news.bbc.co.uk/sport1/hi/tennis/7603645.stm |date =2008-09-08| accessdate =2008-09-09}}</ref> began at 5.00 pm (UTC-5). The pair easily held the opening three games, before Federer launched his first assault on Murray's serve at 2–1 up; he could not, however, convert his one break point opportunity. Federer eased through next service game, and broke Murray for the first time at 3–2 following a succession of errors from the Brit. Federer fired another series of big serves in the seventh game, and then broke Murray to win the first set, 6–2, in a time of twenty-seven minutes.<ref name=Federerbeats/><ref name=FedMurlive2>{{cite news|author=Scott Murray|publisher=''The Guardian''|title=US Open final: Andy Murray v Roger Federer - live! |url =http://www.guardian.co.uk/sport/2008/sep/08/usopentennis.andymurray4 |date =2008-09-08| accessdate =2008-09-09}}</ref> Murray lost the first two games of the second set, meaning that Federer had won a cumulative total of six straight games in a row. Murray immediately broke back though, and appeared to have steadied himself by winning the next game, allowing Federer only one point. Federer failed to hit any successful first serves in the next game, and Murray gained three consecutive break points at 0–40. Federer won the next three points, despite, on evidence of a replay, having clearly hit one of his shots long. Because Murray did not stop the point, he could not challenge the call; after the match, when Murray was asked about this, he said he was disappointed, but thought that the rules were correct in not allowing retrospective challenges.<ref name=Federeremphatic/> Both players comfortably held the next four games, although some minor threats presented themselves for Federer at 4–4, 0–15 and 30–30 (Murray hit backhands long both times). Murray was aided in the next game, when he was serving to stay in the set, as Federer hit four unforced errors, all going long. Federer won the next game, and then seized his final opportunity on a Murray service game, winning the final game of the second set to love.<ref name=FedMurlive2/>
+[[File:Roger Federer vs. Andy Murray.jpg|thumb|left|Federer hitting a forehand]]
+Federer began to overpower his opponent in the third set; Murray was broken to love twice as Federer raced ahead to a 5–0 lead, with Murray winning only four points up to that point. He did, however, win the next two games. Federer broke the game after though, winning on his second championship point in a point that required three smashes from the defending champion.<ref name=FedMurlive2/> The match lasted one hour and fifty-one minutes, thirteen minutes fewer than it took to complete the women's final.<ref name=Federeremphatic/> The only players that Federer had not surpassed, in terms of US Open wins, at this point in his career were the following players: Richard Sears, who had won seven straight, Bill Larned who won seven overall, and Bill Tilden with six straight and seven overall (all three of these players played before the open era). In the last on-court televised interview, Federer was adamant that he would not stop at thirteen, describing such a scenario as "terrible." Federer, who at the time had a total win-loss record of 45-4 at the Open and 34-match winning streak,<ref name=FedererplayingATP>{{cite news|author=Association of Tennis Professionals (ATP)|title=Roger Federer playing activity|url =http://www.atptennis.com/5/en/players/playerprofiles/playeractivity.asp?query=Singles&year=0&player=F324&selTournament=560&prevtrnnum=0| accessdate =2008-11-13}}</ref> said that the streak was of great importance to him, especially after having lost at Wimbledon.<ref name=Federerthrilled>{{cite news|author=BBC Sport|title=Federer thrilled with fifth title |url =http://news.bbc.co.uk/sport1/hi/tennis/7605489.stm |date =2008-09-09| accessdate =2008-09-09}}</ref> Reflecting on his year, he said, "I had a couple of tough Grand Slams this year. To take this one home is incredible."<ref name=Federerblasts>{{cite news|author=CBS Sports Wire|publisher=CBS Sports|title=Federer blasts Murray for fifth U.S. Open title, 13th major| url =http://www.sportsline.com/tennis/story/10967740 |date =2008-09-08| accessdate =2008-09-08}}</ref> Murray said of the competition with Federer in tournaments that "I got the better of him the past two times, but he definitely set the record straight," and said, on his future, "I know mentally now that I can get to a Slam final, and physically. The only thing it comes down to is the tennis."<ref name=Murraysvow>{{cite news|author=BBC Sport|title=Murray vows to learn from defeat |url =http://news.bbc.co.uk/sport1/hi/tennis/7605480.stm |date =2008-09-09| accessdate =2008-09-09}}</ref> Paying tribute to Federer, he said that, "I came up against, in my opinion, the best player ever to play the game."<ref name=Federerblasts/>
+*Seeded players out: Andy Murray
+
+==Summaries of other events==
+===Seniors Doubles===
+====Men's====
+[[File:Jonas Björkman US Open 08.jpg|thumb|[[Jonas Björkman]], a former doubles champion at the Open, was knocked out in the second round (partnering [[Kevin Ullyett]]).<ref name=MensDoublesdraw>{{citeweb|url=http://www.usopen.org/en_US/scores/draws/md/mddraw.pdf|title=US Open 2008 Men's Doubles Championship|author=usopen.org|accessdate=2008-11-12}}</ref> It was his final Grand Slam before he retired.<ref name=ITFplaces>{{citeweb|url=http://www.itftennis.com/olympics/news/newsarticle.asp?articleid=18874|title=ITF places announced for 2008 Olympic Tennis Event|author=International Tennis Federation|date=2008-07-30|accessdate=2008-10-28}}</ref>]]
+In the men's doubles, American twins [[Bob Bryan|Bob]] and [[Mike Bryan]] won the sixth Grand Slam title of their careers, and their second at the US Open, having last won in [[2005 U.S. Open (tennis)|2005]]. They beat the pairing of [[Lukáš Dlouhý]] and [[Leander Paes]], 7–6(5), 7–6(10). Dlouhy and Paes, who were the number seven seeds, were playing in only their sixth tournament as a team. Of the sixteen seeds, the Bryans and the Dlouhy-Paes combination were the only ones to make it to make it as far as the quarterfinal stage. In the final itself, the Bryans had to come back from being a break down in the first set, before winning it in the tiebreak. In the second set, the teams traded breaks, before the Bryans came through a longer tiebreak.<ref name=Bryans>{{citeweb|url=http://news.bbc.co.uk/sport1/hi/tennis/7601272.stm|title=Bryan brothers win doubles title|author=BBC Sport|date=2008-09-05|accessdate=2008-10-28}}</ref> The pair came into the event having won the [[Tennis at the 2008 Summer Olympics - Men's Doubles|bronze medal at the Olympics]], and they did not drop a set on their way to winning the tournament. This win allowed them to recover their number one spot in the rankings, dethroning [[Daniel Nestor]], who had lost in the third round partnering [[Nenad Zimonjić]].<ref name=MensDoublesdraw/><ref name=ATPDoublesAug25>{{citeweb|url=http://www.atptennis.com/5/en/rankings/EntrySystem/doubles.asp?showall=0&RankDate=8%2F25%2F2008&country=&rank=100&image.x=14&image.y=7|title=ATP Doubles Rankings (August 25, 2008)|author=Association of Tennis Professionals (ATP)|accessdate=2008-11-12}}</ref> After the match, the 30-year-old brothers played down their chances of catching [[The Woodies]], who won 11 Grand Slam titles in their career.<ref name=USATodaydoubles>{{citeweb|url=http://www.usatoday.com/sports/tennis/2008-09-05-mens-doubles_N.htm|title=Bryans team up, win men's doubles title at U.S. Open|author=Associated Press|publisher=''USA Today''|date=2008-09-05|accessdate=2008-10-28}}</ref>
+
+====Women's====
+[[Cara Black]] and [[Liezel Huber]] won the women's doubles, which was their fourth Grand Slam title together (Black's fifth overall), the first US Open win for either, and Huber's first as a US citizen (she was born in, and had previously represented, South Africa). Black and Huber were top seeds, but had last won a Grand Slam at [[Wimbledon 2007]]. In the final, they beat the tenth seeded team of [[Lisa Raymond]] and [[Samantha Stosur]], both of whom were former World No. 1s and Grand Slam champions, 6–3, 7–6(6). Black and Huber had been down two set points in the second set tiebreak, at 6–4, but went on to win the next four points to ensure that, like the Bryans, they did not lose a set in any of their matches. Black and Huber had faced each other three days earlier in the mixed doubles final. Speaking of this match, Black said that it was "one of the toughest matches I've ever played" and that, because of this, "I really wanted to win it for her."<ref name=HuberBlack/><ref name=Tennisdoubles>{{citeweb|url=http://www.tennis.com/news/news.aspx?id=144624|title=Black, Huber win US Open women's doubles title|publisher=''Tennis Magazine''|author=Associated Press|date=2008-09-07|accessdate=2008-10-28}}</ref>
+
+====Mixed====
+In the mixed doubles, Black and Paes, seeded fifth, teamed up to defeat the unseeded partnership of Huber and [[Jamie Murray (tennis)|Jamie Murray]] (brother of Andy), 7–6(6), 6–4. It was Paes's fourth mixed doubles title, Black's third, and their first together. Huber and Murray dominated the opening stages of the first set tiebreak, leading 5–2 and 6–4, before Black and Paes came back to take the set. Despite some pressure on Paes's serve in the early stages of the second set, Murray was broken early on, and Black and Paes took the title.<ref name=Mixeddoubles>{{citeweb|url=http://news.bbc.co.uk/sport1/hi/tennis/7595127.stm|title=Murray & Huber lose doubles final|publisher=BBC Sport|author=Oliver Brett|date=2008-09-04|accessdate=2008-10-28}}</ref>
+
+===Juniors===
+Due to the rain on Saturday, the boys' and girls' singles semi-finals were moved to an [[Tennis court#Indoor courts|indoor]] tennis centre at [[Port Chester, New York|Port Chester]], [[New York]].<ref name=Menssemis/><ref name=Vandeweghe>{{citeweb|url=http://www.itftennis.com/juniors/news/newsarticle.asp?articleid=19258|title=Vandeweghe and Britton keep up home run|author=Eleanor Preston|publisher=International Tennis Federation|date=2008-09-07|accessdate=2008-10-28}}</ref>
+====Boys'====
+[[File:Grigor Dimitrov.jpg|thumb|Grigor Dimitrov, seen here holding the Wimbledon boys' title that he won earlier in the year.]]
+The boys' singles final saw reigning Wimbledon champion [[Grigor Dimitrov]] pitted against home favorite [[Devin Britton]], a qualifier who had knocked out several seeds, including number two and reigning Australian Open champion [[Bernard Tomic]], on his way to the final. Dimitrov, playing in his final junior tournament, defeated Britton 6–4, 6–3.<ref name=Dimitrov>{{citeweb|url=http://www.itftennis.com/juniors/news/newsarticle.asp?articleid=19260|title=Vandeweghe and Dimitrov win US Open crowns|author=Eleanor Preston|publisher=International Tennis Federation|date=2008-09-07|accessdate=2008-10-28}}</ref> Three American boys made the semifinals, making this the most successful tournament for the home nation since [[2000 U.S. Open (tennis)|2000]], when [[Andy Roddick]], [[Ytai Abougzir]], and [[Robby Ginepri]] all reached that stage. Britton was surprised at his breakthrough, saying that he was "happy to be in the main draw" at the beginning of the event.<ref name=Menssemis/>
+
+[[File:Melanie-oudin.png|thumb|left|[[Melanie Oudin]], the number two seed, was knocked out in the semi-finals by Paz-Franco.]]
+
+====Girls'====
+In the girls' singles final, American wild card [[Coco Vandeweghe]] defeated [[Gabriela Paz-Franco]] 7–6(3), 6–1. Both players were inexperienced coming into the final: it was Vandeweghe's first tournament win on the ITF Tour, and Paz-Franco, who called the tournament an "amazing experience", was playing in her first junior Grand Slam. Vandeweghe, who is the niece of former basketball player [[Kiki Vandeweghe]], credited her improved performances to greater maturity. Their match, like the boys' final, was concluded relatively quickly.<ref name=Vandeweghe/><ref name=Dimitrov/>
+
+By reaching the finals, Britton and Vandeweghe became the first American boy/girl duo to make the singles finals since [[1992 U.S. Open (tennis)|1992]], when [[Brian Dunn]] and [[Lindsay Davenport]] did so.<ref name="Junior Semifinal Results">{{cite news|author=Steve Pratt|author=usopen.org|title=American Boy and Girl Make it to Juniors Final| url =http://www.usopen.org/en_US/news/articles/2008-09-06/200809061220735425977.html?_r=70&ref=tennis&oref=slogin|date =2008-09-06| accessdate =2008-09-07}}</ref>
+
+====Doubles====
+The junior doubles competitions were rescheduled for Friday evening before Super Saturday, to avoid the weather. In the boys' doubles, [[Niki Moser]] and [[Cedrik-Marcel Stebe]] defeated [[Henri Kontinen]] and [[Christopher Rungkat]] in a close final, 7–6(5), 3–6, 10–8. In the girls', [[Noppawan Lertcheewakarn]] and [[Sandra Roma]] defeated [[Mallory Burdette]] and [[Sloane Stephens]], 6–0, 6–2. Lertcheewakarn said she was glad to have won for Roma, who was playing in her final junior Grand Slam. Roma said that she would like to partner Lertcheewakarn again at some point in the future.<ref name=Juniordoubles>{{citeweb|url=http://www.itftennis.com/juniors/news/newsarticle.asp?articleid=19252|title=Final fours flourish at Flushing Meadows|author=Eleanor Preston|publisher=International Tennis Federation|date=2008-09-05|accessdate=2008-10-28}}</ref>
+
+==Seniors==
+===Men's Singles===
+{{main|2008 US Open - Men's Singles}}
+{{flagicon|SUI}} '''[[Roger Federer]]''' def. {{flagicon|GBR}} [[Andy Murray]], 6–2, 7–5, 6–2
+*It was Federer's 3rd title of the year, and his 56th overall. It was his 13th career Grand Slam title, and his 5th (consecutive) US Open title.
+
+===Women's Singles===
+{{main|2008 US Open - Women's Singles}}
+{{flagicon|USA}} '''[[Serena Williams]]''' def. {{flagicon|SRB}} [[Jelena Janković]], 6–4, 7–5
+*It was Williams's 4th title of the year, and her 32nd overall. It was her 9th career Grand Slam title, and her 3rd US Open title.
+
+===Men's Doubles===
+{{main|2008 US Open - Men's Doubles}}
+{{flagicon|USA}} '''[[Bob Bryan]]''' / {{flagicon|USA}} '''[[Mike Bryan]]''' def. {{flagicon|CZE}} [[Lukáš Dlouhý]] / {{flagicon|IND}} [[Leander Paes]], 7–6(5), 7–6(10)
+
+===Women's Doubles===
+{{main|2008 US Open - Women's Doubles}}
+{{flagicon|ZIM}} '''[[Cara Black]]''' / {{flagicon|USA}} '''[[Liezel Huber]]''' def. {{flagicon|USA}} [[Lisa Raymond]] / {{flagicon|AUS}} [[Samantha Stosur]], 6–3, 7–6(6)
+
+===Mixed Doubles===
+{{main|2008 US Open - Mixed Doubles}}
+{{flagicon|ZIM}} '''[[Cara Black]]''' / {{flagicon|IND}} '''[[Leander Paes]]''' def. {{flagicon|USA}} [[Liezel Huber]] / {{flagicon|GBR}} [[Jamie Murray]], 7–6(6), 6–4
+
+==Juniors==
+===Boys' Singles===
+{{main|2008 US Open - Boys' Singles}}
+{{flagicon|BUL}} '''[[Grigor Dimitrov]]''' def. {{flagicon|USA}} [[Devin Britton]], 6–4, 6–3
+
+===Girls' Singles===
+{{main|2008 US Open - Girls' Singles}}
+{{flagicon|USA}} '''[[Coco Vandeweghe]]''' def. {{flagicon|VEN}} [[Gabriela Paz-Franco]], 7–6(3), 6–1
+
+===Boys' Doubles===
+{{main|2008 US Open - Boys' Doubles}}
+{{flagicon|AUT}} '''[[Niki Moser]]''' / {{flagicon|GER}} '''[[Cedrik-Marcel Stebe]]''' def. {{flagicon|FIN}} [[Henri Kontinen]] / {{flagicon|INA}} [[Christopher Rungkat]], 7–6(5), 3–6, 10–8
+
+===Girls' Doubles===
+{{main|2008 US Open - Girls' Doubles}}
+{{flagicon|THA}} '''[[Noppawan Lertcheewakarn]]''' / {{flagicon|SWE}} '''[[Sandra Roma]]''' def. {{flagicon|USA}} [[Mallory Burdette]] / {{flagicon|USA}} [[Sloane Stephens]], 6–0, 6–2
+
+==Wheelchair==
+''The wheelchair events did not take place in 2008 due to a conflict with the [[2008 Summer Paralympics|Beijing Summer Paralympic Games]].''<ref name=NoWC>{{cite news|author=usopen.org|title=Wheelchair Competition |url =http://www.usopen.org/en_US/scores/draws/cs/index.html?promo=topnav |date =2008-11-27| accessdate =2008-11-27}}</ref>
+
+==Legends==
+===Men's Champions Invitational===
+{{main|2008 US Open - Men's Champions Invitational}}
+{{flagicon|AUS}} '''[[Pat Cash]]''' def. {{flagicon|SWE}} [[Mats Wilander]], 6–2, 6–2
+
+===Women's Champions Invitational===
+{{main|2008 US Open - Women's Champions Invitational}}
+{{flagicon|USA}} '''[[Martina Navrátilová]]''' def. {{flagicon|CZE}} [[Jana Novotná]], 6–3, 6–3
+
+===Mixed Champions Invitational===
+{{main|2008 US Open - Mixed Champions Invitational}}
+{{flagicon|USA}} '''[[Anne Smith]]''' / {{flagicon|USA}} '''[[Stan Smith]]''' def. {{flagicon|USA}} [[Ilana Kloss]] / {{flagicon|ARG}} [[Guillermo Vilas]], 6–4, 6–4
+
+==Seeds==
+Withdrawals: [[Maria Sharapova]],<ref name=SharapovaWithdrawal>{{cite news|author=sonyericssonwtatour.com|title=Sharapova Withdraws From Olympics, US Open| url =http://www.sonyericssonwtatour.com/newsroom/stories/?ContentID=2492|date =2008-08-02| accessdate =2008-08-07}}</ref> [[Mario Ančić]].<ref name=AncicWithdrawal>{{cite news|author=Associated Press|publisher=''Tennis Magazine''|title=Ancic pulls out of US Open with mononucleosis| url =http://tennis.com/news/news.aspx?id=141460|date =2008-08-05| accessdate =2008-08-07}}</ref><!-----------------------------------------------------This section is only for the withdrawals of seeded players - the withdrawals of ATP No. 46 Marcos Baghdatis, ATP No. 55 Lleyton Hewitt, and WTA No. 63 Sania Mirza do not belong here -->
+
+{{col-begin}}
+{{col-2}}
+===Men's Singles===
+#{{flagicon|ESP}} [[Rafael Nadal]] ''(Semifinals, lost to [[Andy Murray]])
+#{{flagicon|SUI}} '''[[Roger Federer]] (Champion)'''
+#{{flagicon|SRB}} [[Novak Djoković]] ''(Semifinals, lost to [[Roger Federer]])
+#{{flagicon|ESP}} [[David Ferrer]] ''(Third Round, lost to [[Kei Nishikori]])
+#{{flagicon|RUS}} [[Nikolay Davydenko]] ''(Fourth Round, lost to [[Gilles Müller]])
+#{{flagicon|GBR}} [[Andy Murray]] ''(Final, lost to [[Roger Federer]])
+#{{flagicon|ARG}} [[David Nalbandian]] ''(Third Round, lost to [[Gaël Monfils]])
+#{{flagicon|USA}} [[Andy Roddick]] ''(Quarterfinals, lost to [[Novak Djoković]])
+#{{flagicon|USA}} [[James Blake]] ''(Third Round, lost to [[Mardy Fish]])
+#{{flagicon|SUI}} [[Stanislas Wawrinka]] ''(Fourth Round, lost to [[Andy Murray]])
+#{{flagicon|CHI}} [[Fernando González]] ''(Fourth Round, lost to [[Andy Roddick]])
+#{{flagicon|FRA}} [[Richard Gasquet]] ''(First Round, lost to [[Tommy Haas]])
+#{{flagicon|ESP}} [[Fernando Verdasco]] ''(Third Round, lost to [[Igor Andreev]])
+#{{flagicon|CRO}} [[Ivo Karlović]] ''(Third Round, lost to [[Sam Querrey]])
+#{{flagicon|ESP}} [[Tommy Robredo]] ''(Fourth Round, lost to [[Novak Djoković]])
+#{{flagicon|FRA}} [[Gilles Simon]] ''(Third Round, lost to [[Juan Martín del Potro]])
+#{{flagicon|ARG}} [[Juan Martín del Potro]] ''(Quarterfinals, lost to [[Andy Murray]])
+#{{flagicon|ESP}} [[Nicolás Almagro]] ''(Third Round, lost to [[Gilles Müller]])
+#{{flagicon|FRA}} [[Jo-Wilfried Tsonga]] ''(Third Round, lost to [[Tommy Robredo]])
+#{{flagicon|GER}} [[Nicolas Kiefer]] ''(First Round, lost to [[Ivo Minář]])
+#{{flagicon|RUS}} [[Mikhail Youzhny]] ''(withdrew due to illness)
+#{{flagicon|CZE}} [[Tomáš Berdych]] ''(First Round, lost to [[Sam Querrey]])
+#{{flagicon|RUS}} [[Igor Andreev]] ''(Fourth Round, lost to [[Roger Federer]])
+#{{flagicon|FRA}} [[Paul-Henri Mathieu]] ''(Second Round, lost to [[Mardy Fish]])
+#{{flagicon|GER}} [[Philipp Kohlschreiber]] ''(Second Round, lost to [[Viktor Troicki]])
+#{{flagicon|RUS}} [[Dmitry Tursunov]] ''(Third Round, lost to [[Nikolay Davydenko]])
+#{{flagicon|ESP}} [[Feliciano López]] ''(First Round, lost to [[Jürgen Melzer]])
+#{{flagicon|CZE}} [[Radek Štěpánek]] ''(Third Round, lost to [[Roger Federer]])
+#{{flagicon|ARG}} [[Juan Mónaco]] ''(First Round, lost to [[Kei Nishikori]])
+#{{flagicon|CRO}} [[Marin Čilić]] '' (Third Round, lost to [[Novak Djoković]])
+#{{flagicon|ITA}} [[Andreas Seppi]] ''(Third Round, lost to [[Andy Roddick]])
+#{{flagicon|FRA}} [[Gaël Monfils]] ''(Fourth Round, lost to [[Mardy Fish]])
+
+{{col-2}}
+
+===Women's Singles===
+#{{flagicon|SRB}} [[Ana Ivanović]] ''(Second Round, lost to [[Julie Coin]])
+#{{flagicon|SRB}} [[Jelena Janković]] ''(Final, lost to [[Serena Williams]])
+#{{flagicon|RUS}} [[Svetlana Kuznetsova]] ''(Third Round, lost to [[Katarina Srebotnik]])
+#{{flagicon|USA}} '''[[Serena Williams]] (Champion)'''
+#{{flagicon|RUS}} [[Elena Dementieva]] ''(Semifinals, lost to [[Jelena Janković]])
+#{{flagicon|RUS}} [[Dinara Safina]] ''(Semifinals, lost to [[Serena Williams]])
+#{{flagicon|USA}} [[Venus Williams]] ''(Quarterfinals, lost to [[Serena Williams]])
+#{{flagicon|RUS}} [[Vera Zvonareva]] ''(Second Round, lost to [[Tatiana Perebiynis]])
+#{{flagicon|POL}} [[Agnieszka Radwańska]] ''(Fourth Round, lost to [[Venus Williams]])
+#{{flagicon|RUS}} [[Anna Chakvetadze]] ''(First Round, lost to [[Ekaterina Makarova]])
+#{{flagicon|SVK}} [[Daniela Hantuchová]] ''(First Round, lost to [[Anna-Lena Grönefeld]])
+#{{flagicon|FRA}} [[Marion Bartoli]] ''(Fourth Round, lost to [[Sybille Bammer]])
+#{{flagicon|HUN}} [[Ágnes Szávay]] ''(Second Round, lost to [[Tathiana Garbin]])
+#{{flagicon|BLR}} [[Victoria Azarenka]] ''(Third Round, lost to [[Caroline Wozniacki]])
+#{{flagicon|SUI}} [[Patty Schnyder]] ''(Quarterfinals, lost to [[Elena Dementieva]])
+#{{flagicon|ITA}} [[Flavia Pennetta]] ''(Quarterfinals, lost to [[Dinara Safina]])
+#{{flagicon|FRA}} [[Alizé Cornet]] ''(Third Round, lost to [[Anna-Lena Grönefeld]])
+#{{flagicon|SVK}} [[Dominika Cibulková]] ''(Third Round, lost to [[Agnieszka Radwańska]])
+#{{flagicon|RUS}} [[Nadia Petrova]] ''(Third Round, lost to [[Flavia Pennetta]])
+#{{flagicon|CZE}} [[Nicole Vaidišová]] ''(Second Round, lost to [[Séverine Brémond]])
+#{{flagicon|DEN}} [[Caroline Wozniacki]] ''(Fourth Round, lost to [[Jelena Janković]])
+#{{flagicon|RUS}} [[Maria Kirilenko]] ''(First Round, lost to [[Tamira Paszek]])
+#{{flagicon|USA}} [[Lindsay Davenport]] ''(Third Round, lost to [[Marion Bartoli]])
+#{{flagicon|ISR}} [[Shahar Peer]] ''(First Round, lost to [[Li Na (tennis)|Na Li]])
+#{{flagicon|ITA}} [[Francesca Schiavone]] ''(Second Round, lost to [[Anne Keothavong]])
+#{{flagicon|ESP}} [[Anabel Medina Garrigues]] ''(Second Round, lost to [[Jie Zheng]])
+#{{flagicon|UKR}} [[Alona Bondarenko]] ''(Third Round, lost to [[Venus Williams]])
+#{{flagicon|SLO}} [[Katarina Srebotnik]] ''(Fourth Round, lost to [[Patty Schnyder]])
+#{{flagicon|AUT}} [[Sybille Bammer]] '' (Quarterfinals, lost to [[Jelena Janković]])
+#{{flagicon|JPN}} [[Ai Sugiyama]] ''(Third Round, lost to [[Serena Williams]])
+#{{flagicon|FRA}} [[Virginie Razzano]] ''(First Round, lost to [[Timea Bacsinszky]])
+#{{flagicon|FRA}} [[Amélie Mauresmo]] ''(Fourth Round, lost to [[Flavia Pennetta]])
+{{col-end}}
+
+==Wildcard entries==
+Below are the lists of the [[Tennis terminology#W|wildcard]] awardees entering in the main draws and in the [[Tennis terminology#Q|qualifying draws]].<ref name=USOMenWildcards>{{cite news|author=usopen.org|title=Rising star Jesse Levine and USTA Boys' 18s national champion Austin Krajicek headline US Open wild cards| url =http://www.usta.com/sitecore/content/USTA/Global/Pro_Tennis/Grand_Slams/US_Open/PressRelease/2008_US_Open_Mens_Singles_Wild_Cards_Announced.aspx|date =2008-08-14| accessdate =2008-08-15}}</ref><ref name=USOWomenWildcards>{{cite news|author=usopen.org|title=US Open Women's Wild Cards Announced| url =http://www.usta.com/sitecore/content/USTA/Global/Pro_Tennis/Grand_Slams/US_Open/PressRelease/US_Open_womens_wild_cards.aspx|date =2008-08-14| accessdate =2008-08-15}}</ref>
+
+{{col-begin}}
+{{col-2}}
+===Men's Singles Wildcard entries===
+# {{flagicon|USA}} [[Amer Delic]]
+# {{flagicon|USA}} [[Brendan Evans]]
+# {{flagicon|USA}} [[Scoville Jenkins]]
+# {{flagicon|USA}} [[Austin Krajicek]]
+# {{flagicon|USA}} [[Jesse Levine]]
+# {{flagicon|USA}} [[Sam Warburg]]
+# {{flagicon|AUS}} [[Carsten Ball]]
+# {{flagicon|FRA}} [[Laurent Recouderc]]
+
+{{col-2}}
+===Women's Singles Wildcard entries===
+# {{flagicon|USA}} [[Gail Brodsky]]
+# {{flagicon|USA}} [[Jamea Jackson]]
+# {{flagicon|USA}} [[Asia Muhammad]]
+# {{flagicon|USA}} [[Melanie Oudin]]
+# {{flagicon|USA}} [[Ahsha Rolle]]
+# {{flagicon|USA}} [[Coco Vandeweghe]]
+# {{flagicon|FRA}} [[Séverine Brémond]]
+# {{flagicon|AUS}} [[Jessica Moore (tennis)|Jessica Moore]]
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+
+===Qualifying Men's Wildcard entries===
+# {{flagicon|USA}} [[Jean Yves Aubone]]
+# {{flagicon|LTU}} [[Ričardas Berankis]]
+# {{flagicon|USA}} [[Chase Buchanan]]
+# {{flagicon|USA}} [[Alex Clayton]]
+# {{flagicon|USA}} [[Ryan Harrison]]
+# {{flagicon|USA}} [[Travis Helgeson]]
+# {{flagicon|USA}} [[Brian Koniecko]]
+# {{flagicon|USA}} [[Michael McClune]]
+# {{flagicon|USA}} [[Tim Smyczek]]
+
+{{col-2}}
+===Qualifying Women's Wildcard entries===
+# {{flagicon|USA}} [[Kristie Ahn]]
+# {{flagicon|USA}} [[Julia Boserup]]
+# {{flagicon|USA}} [[Madison Brengle]]
+# {{flagicon|USA}} [[Kimberly Couts]]
+# {{flagicon|SVK}} [[Kristina Kucova]]
+# {{flagicon|USA}} [[Amanda McDowell]]
+# {{flagicon|USA}} [[Christina McHale]]
+# {{flagicon|USA}} [[Shenay Perry]]
+# {{flagicon|USA}} [[Sloane Stephens]]
+{{col-end}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{commonscat|2008 US Open}}
+{{Tennis portal}}
+* [http://sportsillustrated.cnn.com/tennis/specials/us_open/2008/ Archived results] at [[SI.com]]
+<br />
+{{start box}}
+{{succession box | before=[[2007 US Open (tennis)|2007 US Open]]| title=[[US Open (tennis)|US Open]] | years= | after=[[2009 US Open (tennis)|2009 US Open]]}}
+{{succession box | before=[[2008 Wimbledon Championships|2008 Wimbledon]]| title=[[Grand Slam (tennis)|Grand Slam events]] | years= | after=[[2009 Australian Open]]}}
+{{end box}}
+<br />
+{{US Open tournaments}}
+<br />
+{{2008 ATP Tour}}
+{{2008 WTA Tour}}
+{{2008 US Open Series}}
+{{2008 in tennis}}
+
+[[Category:2008 US Open (tennis)| ]]
+[[Category:2008 US Open Series|US Open]]
+
+[[ar:أمريكا المفتوحة 2008 (كرة مضرب)]]
+[[ca:US Open 2008]]
+[[cs:US Open 2008]]
+[[da:US Open 2008]]
+[[de:US Open 2008]]
+[[es:Anexo:Abierto de los Estados Unidos 2008]]
+[[fa:آزاد آمریکای ۲۰۰۸ (تنیس)]]
+[[fr:US Open de tennis 2008]]
+[[hi:2008 अमरीकी ओपन टेनिस प्रतियोगिता]]
+[[lv:2008. gada ASV Atklātais čempionāts tenisā]]
+[[hu:2008-as US Open (tenisz)]]
+[[nl:US Open 2008 (tennis)]]
+[[ja:2008年全米オープンテニス]]
+[[no:US Open 2008 (tennis)]]
+[[pl:US Open 2008]]
+[[pt:US Open de 2008]]
+[[sk:US Open 2008]]
+[[sl:Odprto prvenstvo ZDA 2008]]
+[[fi:Yhdysvaltain avoin tennisturnaus 2008]]
+[[sv:US Open i tennis 2008]]
+[[vi:Giải quần vợt Mỹ Mở rộng 2008]]
+[[zh:2008年美國網球公開賽]]

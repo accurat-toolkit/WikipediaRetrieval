@@ -1,0 +1,44 @@
+[[Image:Delinkalns.jpg|300px|right|thumb|Ainavu veido Zemes virsmas elementi, flora un fauna, cilvēka radītie elementi, redzamie klimatiskie apstākļi un apgaismojuma apstākļi. Ainava pie Dēliņkalna Alūksnes rajonā]]
+'''Ainava''' - redzeslokā esošo Zemes virsmas (vai cita debes ķermeņa virsmas) elementu kopums. Ainava iekļauj redzeslokā esošos un saredzamos Zemes virsmas [[ģeomorfoloģija|ģeomorfoloģiskos]] elementus, [[flora]]s un [[fauna]]s elementus, [[antropomorfija|antropomorfos]] elementus, kurus radījis [[cilvēks]]. Ainava ietver arī redzamos [[klimats|klimatiskos]] apstākļus un apgaismojuma apstākļus.
+
+===Termina lietojums===
+Terminu lieto daudzos dzīves gadījumos, ieskaitot:
+* [[Ainavu arhitektūra]] - sabiedriskas un privātas telpas - tai skaitā dārzu un parku - plānošanas, dizaina, izveides un uzturēšanas prasme;
+* [[Ainavu ekoloģija]] - [[ekoloģija]]s novirziens, kas pēta telpas rakstura, procesu un izmaiņu ekoloģiskos cēloņus un sekas;
+* [[Ainavu glezniecība]] - ainavas māksliniecisks atainojums gleznās - arī ainavu māksla - orientāciju, pie kuras tās garākā ass ir horizontāli novietota - piemēram, datorizdrukās;
+
+===Papildu definīcijas===
+* Dabiska ainava - cilvēka neietekmēta vai maz ietekmēta ainava.
+* [[Kultūrainava]] - cilvēka un dabas kopēji veidota ainava. Kultūrainava ataino sabiedrības attīstības [[evolūcija|evolūciju]] laika gaitā, ainavas radīto fizisko šķēršļu un/vai iespēju ietekmē un iekšējo un ārējo sociālo, ekonomikas un kultūras spēku ietekmē.
+
+[[Kategorija:Ainavas]]
+
+[[ar:منظر طبيعى]]
+[[bg:Пейзаж]]
+[[ca:Paisatge (geografia)]]
+[[cs:Krajina]]
+[[da:Landskab]]
+[[de:Landschaft]]
+[[en:Landscape]]
+[[eo:Pejzaĝo]]
+[[es:Paisaje]]
+[[et:Maastik]]
+[[fr:Paysage]]
+[[id:Lanskap]]
+[[it:Paesaggio]]
+[[ja:ランドスケープ]]
+[[lt:Kraštovaizdis]]
+[[mwl:Paisage]]
+[[nds:Landschap]]
+[[nl:Landschap]]
+[[nn:Landskap]]
+[[pl:Kraina geograficzna]]
+[[pt:Paisagem]]
+[[ro:Peisaj]]
+[[ru:Ландшафт]]
+[[sk:Geografická krajina]]
+[[sr:Пејзаж]]
+[[sv:Landskap (terräng)]]
+[[uk:Ландшафт]]
+[[yi:לאנדשאפט]]
+[[zh:风景]]

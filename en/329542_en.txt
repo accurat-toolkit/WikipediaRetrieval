@@ -1,0 +1,71 @@
+{{Otheruses2|Disk}}
+[[Image:CIRCLE 1.svg|thumb|left|A disk is the region bounded by a circle. An '''open disk''' is the [[interior (topology)|interior]] of the disk excluding the bounding circle, while a '''closed disk''' (see [[closed|closed set]]) is the open disk together with the bounding circle.]]
+In [[geometry]], a '''disk''' (also [[Spelling of disc|spelled]] '''disc''') is the region in a [[plane (geometry)|plane]] bounded by a [[circle]]. 
+
+A disk is said to be ''closed'' or ''open'' according to whether or not it contains the circle that constitutes its boundary. In [[Cartesian coordinates]], the open disk of center <math>(a, b)</math> and radius ''R'' is given by the formula
+:<math>D={(x, y)in {mathbb R^2}: (x-a)^2+(y-b)^2 < R^2}</math>
+while the closed disk of the same center and radius is given by 
+:<math>overline{ D }={(x, y)in {mathbb R^2}: (x-a)^2+(y-b)^2 le R^2}.</math>
+
+The [[area (geometry)|area]] of a closed or open disk of radius ''R'' is π''R''<sup>2</sup> (see [[pi|π]]). 
+
+The ''[[Ball (mathematics)|ball]]'' is the disk generalised to [[metric spaces]]. However, sometimes "disk" is used to mean "ball".
+
+In theoretical physics a disk is a rigid body which is capable of participating in collisions in a [[two-dimensional gas]].  Usually the disk is considered rigid so that collisions are deemed [[elastic collision|elastic]].
+
+== Geometry ==
+[[Image:Unit_disk_rot.svg|thumb|right]]
+The Euclidean disk is [[Circular symmetry|circular symmetrical]].
+
+== Topological notions ==
+
+The open disk and the closed disk are not homeomorphic, since the latter is [[compact space|compact]] and the former is not. However from the viewpoint of [[algebraic topology]] they share many properties: both of them are [[contractible space|contractible]] and so are [[homotopy equivalent]] to a single point. This implies that their [[fundamental group]]s are trivial, and all [[homology group]]s are trivial except the 0th one, which is isomorphic to '''Z'''. The [[Euler characteristic]] of a point (and therefore also that of a closed or open disk) is 1.
+
+Every [[continuous map]] from the closed disk to itself has at least one [[fixed point (mathematics)|fixed point]] (we don't require the map to be [[bijective]] or even [[surjective]]); this is the case ''n''=2 of the [[Brouwer fixed point theorem]]. The statement is false for the open disk: consider for example 
+
+:<math>f(x,y)=left(frac{x+sqrt{1-y^2}}{2},y
+ight)</math>
+
+which maps every point of the open unit disk to another point of the open unit disk slightly to the right of the given one.
+
+==See also==
+
+*[[Unit disk]], a disk with radius one
+*[[Annulus (mathematics)]]
+*[[Disk algebra]]
+*[[Lentoid]]
+*[[Moment of inertia of a uniform disc]]
+
+[[Category:Euclidean geometry]]
+[[Category:Rigid bodies]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[ar:قرص (رياضيات)]]
+[[bs:Krug]]
+[[ca:Cercle]]
+[[cv:Çавра (геометри)]]
+[[de:Scheibe]]
+[[et:Ring]]
+[[es:Disco (topología)]]
+[[eo:Disko (matematiko)]]
+[[fr:Disque (géométrie)]]
+[[gl:Círculo]]
+[[it:Cerchio]]
+[[ko:원판]]
+[[hr:Krug]]
+[[ka:წრეწირი]]
+[[lv:Riņķis]]
+[[lt:Skritulys]]
+[[nl:Schijf (wiskunde)]]
+[[pl:Koło]]
+[[pt:Círculo]]
+[[ru:Круг]]
+[[sk:Kruh]]
+[[sl:Krog]]
+[[sr:Круг]]
+[[fi:Kiekko (matematiikka)]]
+[[sv:Cirkelskiva]]
+[[tr:Daire (matematik)]]
+[[uk:Круг]]
+[[vi:Hình tròn]]
+[[zh:圆盘]]

@@ -1,0 +1,175 @@
+{{Dablink|For [[Wikipedia:Naming conventions (technical restrictions)#Forbidden characters|technical reasons]], E# redirects here. For the musical note, see [[E (musical note)]].}}
+{{Dablink|For the mathematical constant, see [[e (mathematical constant)]].}}
+{{pp-move-indef|small=yes}}{{otherusesof}}
+{{Copyedit|date=August 2009}} 
+{{Wiktionary|E|e}}
+{{Latin alphabet navbox|uc=E|lc=e}}
+'''E''' is the [[fifth]] [[Letter (alphabet)|letter]] in the [[Latin alphabet]]. It is also the second [[vowel]] in the [[Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈiː}}) is spelled '''e''';<!--Yes, it is spelled "e". That's its name, and that's how it's spelled.--> the plural is ''ees,'' though this is rare.<ref>"E" ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993). ''Ees'' is the plural of the name of the letter; the plural of the letter itself is E's, ''E''s, e's, or ''e''s.</ref> The letter ''E'' is the most commonly used letter in the [[Czech language|Czech]],<ref name="Brian Keck UKFSN">{{cite web|url=http://www.bckelk.ukfsn.org/words/etaoin.html|title=Letter frequencies|last=Kelk|first=Brian|publisher=UK Free Software Network|accessdate=2008-06-25}}</ref> [[Danish language|Danish]],<ref name="Brian Keck UKFSN" /> [[Dutch language|Dutch]],<ref name="Brian Keck UKFSN" /> [[English language|English]],<ref>{{cite web|url=http://pages.central.edu/emp/LintonT/classes/spring01/cryptography/letterfreq.html|title=Relative Frequencies of Letters in General English Plain text|last=Lewand|first=Robert|work=Cryptographical Mathematics|publisher=[[Central College]]|accessdate=2008-06-25}}</ref> [[French language|French]],<ref>{{cite web|url=http://www.santacruzpl.org/readyref/files/g-l/ltfrqfr.shtml|title=Frequency of Occurrence of Letters in French|publisher=Santa Cruz Public Libraries|accessdate=2008-06-25}}</ref> [[German language|German]],<ref>{{cite web|url=http://scplweb.santacruzpl.org/readyref/files/g-l/ltfrqger.shtml|title=Frequency of Occurrence of Letters in German|publisher=Santa Cruz Public Libraries|accessdate=2008-06-25}}</ref> [[Hungarian language|Hungarian]],<ref name="Brian Keck UKFSN" /> [[Latin language|Latin]],<ref name="Brian Keck UKFSN" /> [[Norwegian language|Norwegian]],<ref name="Brian Keck UKFSN" /> [[Spanish language|Spanish]],<ref>{{cite web|url=http://www.santacruzpl.org/readyref/files/g-l/ltfrqsp.shtml|title=Frequency of Occurrence of Letters in Spanish|publisher=Santa Cruz Public Libraries|accessdate=2008-06-25}}</ref> and [[Swedish language|Swedish]] languages.<ref name="Brian Keck UKFSN" />
+
+==History==
+{| border=1 cellpadding="5" cellspacing="0" style="border-collapse:collapse; cell-border:1px; text-align:center;"
+|- style="background-color:#EEEEEE; text-align:center;"
+! Egyptian hieroglyph <br>''q’''
+! Proto-Semitic <br/>H
+! Phoenician <br/> ''[[he (letter)|he]]''
+! Etruscan <br/>E
+! Greek <br/> ''[[Epsilon]]''
+! Roman/Cyrillic <br/>E
+|- style="background-color:white; text-align:center;"
+| <hiero>A28</hiero>
+|[[File:Proto-semiticE-01.png]]
+|[[File:PhoenicianE-01.svg|64x64px]]
+|[[File:Alfabeto camuno-e.svg]]
+|[[File:Epsilon uc lc.svg|64px]]
+|[[File:RomanE-01.png|Roman E]]
+|}
+
+'''E''' is derived from the [[Greek alphabet|Greek letter]] [[epsilon]] which is much the same in appearance (Ε, ε) and function. In [[etymology]], the [[Semitic]] ''[[He (letter)|hê]]'' probably first represented a praying or calling human figure (''[[hillul]]'' jubilation), and was probably based on a similar [[Egyptian hieroglyph]] that was pronounced and used quite differently. In Semitic, the letter represented {{IPA|/h/}} (and {{IPA|/e/}} in foreign words), in Greek ''hê'' became  Εψιλον (Epsilon) with the value {{IPA|/e/}}.  [[Etruria|Etruscan]]s and [[Ancient Rome|Romans]] followed this usage. Arising from the [[Great Vowel Shift]], [[English language|English]] usage is rather different, namely {{IPA|/iː/}} (derived from {{IPA|/eː/}} in "me" or "bee") whereas other words like "bed" are closer to Latin and other languages in usage.
+
+==Usage==
+Like other [[Latin spelling and pronunciation#Vowels|Latin vowel]]s, E came in a long and a short variety.  Originally, the only difference was in length but later on, short e represented {{IPA|/ɛ/}}.  In other languages that use the [[Letter (alphabet)|letter]] E or e, it represents various other phonetic values, sometimes with accents to indicate contrasts (e ê é è ë ē ĕ ě ẽ ė ẹ ę ẻ).
+
+[[Digraphs]] starting with E are common in many languages to indicate [[diphthong]]s and [[monophthong]]s, such as EA or EE for {{IPA|/iː/}} or {{IPA|/eɪ/}} in English, EI for {{IPA|/aɪ/}} in [[German language|German]], or EU for {{IPA|/ø/}} in [[French language|French]] or {{IPA|/ɔɪ/}} in German.
+
+At the end of a word, E is very often silent in English ([[silent e]]), where old noun [[inflections]] have been dropped, although even when silent at the end of a word, it often causes vowels in the word to be pronounced as [[diphthongs]], conventionally called [[Long vowel#Long vowels in English|long vowels]] (compare as a noun ''rat'' and as a verb ''rate'').
+
+The letter 'E' is the most common (or highest [[Frequency (statistics)|frequency]]) letter in the [[English language]] (starting off the typographer's phrase [[ETAOIN SHRDLU]]) and many other related [[languages]], which has implications in both [[cryptography]] and [[data compression]]. This makes it a difficult and popular letter to use when writing [[lipogram]]s. [[Ernest Vincent Wright]]'s ''[[Gadsby: Champion of Youth|Gadsby]]'' (1939), is considered a "dreadful" novel, and that "at least part of Wright's narrative difficulties were caused by language restrictions imposed by the lack of ''E''."<ref>Ross Eckler, ''Making the Alphabet Dance: Recreational Word Play''. New York: St. Martin's Press (1996): 3</ref> Both [[Georges Perec]]'s novel ''[[A Void (novel)|A Void]]'' (''La Disparition'') (1969) and its English translation by Gilbert Adair omit the letter E and are considered better works.<ref>Eckler (1996): 3. Perec's novel "was so well written that at least some reviewers never realized the existence of a letter constraint."</ref>
+
+== Codes for computing ==
+{{Letter
+|NATO=Echo
+|Morse=·
+|Character=E5
+|Braille=⠑
+}}
+In [[Unicode]] the [[majuscule|capital]] E is codepoint U+0045 and the [[lower case]] e is U+0065.
+
+The [[ASCII]] code for capital E is 69 (01000101 in [[Binary numeral system|binary]]), and the code for lowercase e is 101 (01100101 in [[Binary numeral system|binary]]). 
+The [[EBCDIC]] code for capital E is 197,  and the code for lowercase e is 133.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#69;</tt>" and "<tt>&amp;#101;</tt>" for upper and lower case, respectively.
+
+In [[British Sign Language]] (BSL), the letter 'e' is represented as extended index of right hand touching the tip of index on the left hand. All fingers of left hand should be open.
+
+==See also==
+''See [[E (disambiguation)]] for uses of the letter E''
+
+{{col-begin}}
+{{col-3}}
+
+Similar Latin letters:
+*Ɛɛ : [[Ɛ|Latin epsilon]]
+
+Similar non-Latin letters:
+*Εε : [[Epsilon|Greek epsilon]]
+*Ее : [[Ye (Cyrillic)|Cyrillic Ye/E]]
+*Ёё : [[Yo (Cyrillic)|Cyrillic Yo]]
+*Єє : [[Ukrainian Ye]]
+*Ээ : [[E (Cyrillic)|Cyrillic backwards E]]
+{{col-3}}
+Similar phonetic symbols:
+
+*{{IPA|e}} : [[Close-mid front unrounded vowel]]
+*{{IPA|ɛ}} : [[Open-mid front unrounded vowel]]
+
+Special symbols similar to the letter E:
+
+*℮ : [[Estimated sign]] (used on prepackaged goods for sale within the European Union).
+*€ : [[Euro sign]]
+{{col-3}}
+{{Commons|E}}
+{{col-end}}
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|E|}}
+
+</s>
+
+[[Category:Latin letters]]
+[[Category:Vowel letters]]
+
+[[af:E]]
+[[als:E]]
+[[ar:E]]
+[[an:E]]
+[[arc:E]]
+[[ast:E]]
+[[az:E]]
+[[zh-min-nan:E]]
+[[bs:E]]
+[[br:E (lizherenn)]]
+[[bg:E]]
+[[ca:E]]
+[[cs:E]]
+[[co:E]]
+[[cy:E]]
+[[da:E]]
+[[de:E]]
+[[et:E]]
+[[el:E]]
+[[es:E]]
+[[eo:E]]
+[[eu:E]]
+[[fa:E]]
+[[fr:E (lettre)]]
+[[fy:E]]
+[[fur:E]]
+[[gv:Eboin]]
+[[gd:E]]
+[[gl:E]]
+[[gan:E]]
+[[ko:E]]
+[[hr:E]]
+[[io:E]]
+[[ilo:E]]
+[[is:E]]
+[[it:E]]
+[[he:E]]
+[[ka:E]]
+[[kw:E]]
+[[sw:E]]
+[[ht:E]]
+[[la:E]]
+[[lv:E]]
+[[lb:E]]
+[[lt:E]]
+[[hu:E]]
+[[mk:E (Латиница)]]
+[[mg:E]]
+[[mzn:E]]
+[[ms:E]]
+[[nah:E]]
+[[nl:E (letter)]]
+[[ja:E]]
+[[no:E]]
+[[nn:E]]
+[[nrm:E]]
+[[uz:E (harf)]]
+[[nds:E]]
+[[pl:E]]
+[[pt:E]]
+[[crh:E]]
+[[ro:E]]
+[[qu:E]]
+[[ru:E (латиница)]]
+[[se:E]]
+[[stq:E]]
+[[simple:E]]
+[[sk:E]]
+[[sl:E]]
+[[sr:E (слово латинице)]]
+[[fi:E]]
+[[sv:E]]
+[[tl:E]]
+[[th:E]]
+[[tr:E (harf)]]
+[[uk:E (латиниця)]]
+[[vi:E]]
+[[vo:E]]
+[[yi:E]]
+[[yo:E]]
+[[zh-yue:E]]
+[[bat-smg:E]]
+[[zh:E]]

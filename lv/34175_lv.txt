@@ -1,0 +1,67 @@
+{{otheruses4|upi|Iecava (nozīmju atdalīšana)|Iecava}}
+{{Infobox upe 
+| nosaukums         = Iecava
+| attēls            = Iecava pie Ozolniekiem.jpg
+| attēla_izmērs     = 
+| paraksts          = Iecava pie [[Ozolnieki]]em
+| karte             = 
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = pie [[Daudzese]]s, [[Jaunjelgavas novads]]
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Lielupe]]
+| sāk_plat_d=56 | sāk_plat_m=29 | sāk_plat_s=12 | sāk_plat_NS=N 
+| sāk_gar_d=25 | sāk_gar_m=15 | sāk_gar_s=12 | sāk_gar_EW=E 
+| iet_plat_d=56 | iet_plat_m=41 | iet_plat_s=13 | iet_plat_NS=N 
+| iet_gar_d=23 | iet_gar_m=41 | iet_gar_s=58 | iet_gar_EW=E 
+| baseina_valstis   = 
+| tek_caur          = {{LAT}}
+| garums            = 155<ref>[http://www.jrpic.lv/picdown/projekti/hidro/3.1.2.pdf Lielāko upju un to baseinu izvietojums]</ref> 
+| iztekas_augstums  = 
+| ietekas_augstums  = 
+| kritums           = 69,2
+| caurtece          = 
+| gada_notece       = 
+| baseins           = 2072<ref>[http://www.jrpic.lv/picdown/projekti/hidro/3.1.2.pdf Lielāko upju un to baseinu izvietojums]</ref>
+| baseins_latvijā   = 
+| pietekas          = [[Misa]]
+}}
+'''Iecava''' ir [[upe]] [[Latvija|Latvijā]]. Tā tek caur [[Jaunjelgavas novads|Jaunjelgavas]], [[Vecumnieku novads|Vecumnieku]], [[Bauskas novads|Bauskas]], [[Iecavas novads|Iecavas]], [[Ozolnieku novads|Ozolnieku]] un [[Jelgavas novads|Jelgavas novadam]]. Upes lielākā pieteka ir [[Misa]].
+
+== Pietekas ==
+
+=== Kreisā krasta pietekas ===
+* [[Sudmalupīte]];
+* [[Svētupe]];
+* [[Dzērvīte]] (11 km);
+* [[Briede (Iecavas pieteka)|Briede]] (10 km);
+* [[Vērģupe]] (15 km);
+* [[Smakupe]] (19 km);
+* [[Biržiņa]] (15 km);
+* [[Misa]] (108 km).
+
+=== Labā krasta pietekas ===
+* [[Jorģelēnupīte]];
+* [[Ģirupe]] (12 km);
+* [[Rūdupīte]];
+* [[Smārde]] (12 km);
+* [[Lambāre]];
+* [[Ģedulis]] (11 km);
+* [[Īkstrums]] (28 km).
+
+== Atsauces ==
+{{atsauces}}
+{{commonscat|Iecava river|Iecava}}
+
+{{Lģeo-aizmetnis}}
+
+
+{{Lielupes pietekas}}
+
+[[Kategorija:Latvijas upes]]
+[[Kategorija:Lielupes baseina upes]]
+
+[[en:Iecava River]]
+[[lt:Iecava]]
+[[ru:Иецава (река)]]

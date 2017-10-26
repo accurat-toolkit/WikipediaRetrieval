@@ -1,0 +1,48 @@
+{{unreferencedBLP|date=July 2009}}
+{{Infobox Ice Hockey Player
+| image           =
+| image_caption   =
+| image_size      = 250px
+| position        = [[Winger (ice hockey)|RW]]
+| shoots          = Left
+| shot            = 
+| catches         = 
+| caught          = 
+| height_ft       = 6
+| height_in       = 1
+| weight_lb       = 185
+| team            = [[Dinamo Riga (current)|Dinamo Rīga]]
+| league          = [[KHL]]
+| prospect_team   = 
+| prospect_league =
+| former_teams    = [[HK Riga 2000]]<br>[[Stocksund J18]]<br>[[Lukko U20]]<br>[[Kingston Frontenacs]]<br>
+| played_for      = 
+| nationality     = LAT
+| nationality_2   = 
+| birth_date      = {{birth date and age|1988|02|14}}
+| birth_place     = [[Riga]], [[Latvia]] {{flagicon|LAT}}
+| death_date      = 
+| death_place     = 
+| draft           = 
+| draft_year      = 
+| draft_team      = 
+| wha_draft       =  
+| wha_draft_year  = 
+| wha_draft_team  = 
+| career_start    = 2004
+| career_end      = 
+| halloffame      = 
+| website         = 
+}}
+
+'''Andris Džeriņš''' (born 14 February 1988) is Latvian professional ice-hockey player, who currently plays for [[Dinamo Riga]].
+
+{{DEFAULTSORT:Dzerins, Andris}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:Latvian ice hockey players]]
+[[Category:HK Riga 2000 players]]
+[[Category:Dinamo Riga players]]
+[[Category:People from Riga]]
+
+[[lv:Andris Džeriņš]]

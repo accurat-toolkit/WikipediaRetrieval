@@ -1,0 +1,64 @@
+{{Infokaste motorsporta komanda
+| Ī_vārds       = Stewart
+| Logo          = [[Attēls:Stewart_logo.gif]]
+| P_vārds       = Stewart Grand Prix F1 Team
+| Vlt           = {{GBR}}
+| Bāz           = {{flaga|Lielbritānija}} [[Miltonkīna]], [[Apvienotā Karaliste]]| Dib           = {{flaga|Lielbritānija}} [[Džekijs Stjuarts]]
+| Pil           = {{flaga|Brazīlija}} [[Rubenšs Barikello]]<br />{{flaga|Nīderlande}} [[Joss Verstapens]]<br />{{flaga|Lielbritānija}} [[Džonijs Herberts]]<br />{{flaga|Dānija}} [[Jans Magnusens]]
+| Deb           = [[1997. gada F1 sezona|1997. gada]] [[Austrālijas GP]]
+| Pēd           = [[1999. gada F1 sezona|1999. gada]] [[Japānas GP]]
+| Sac           = 49
+| Kon           = 0
+| Čem           = 0
+| Uzv           = 1
+| Pol           = 1
+| Apl           = 0
+| Pēdsez        = 1999
+| Pēdpoz        = 4. (36 punkti)
+}}'''Stewart Grand Prix''' bija [[Formula 1]] autosacīkšu komanda, kuru dibināja trīskārtējais [[Formula 1]] čempions [[Džekijs Stjuarts]]. To atbalstīja [[Ford Motor Company|Ford]] koncerns, kurš [[1999]]. gadā iegādājās visu komandu un pārsauca to par [[Jaguar Racing]]. 
+
+==Vēsture==
+===Komandas dibināšana un sagatavošanās pirmajai sezonai===
+Trīskārtējais [[F1 čempionu saraksts|F1 čempions]] [[Džekijs Stjuarts]] kopā ar savu dēlu [[Pols Stjuarts|Polu]] un [[Ford Motor Company|Ford]] kompāniju (ar kuru viņam bija labi sakari) [[1995]]. gadā nolēma izveidot Formula 1 komandu.<ref name="geocities">[http://www.geocities.com/~no-quarter/stewart/team.htm Stewart Grand Prix vēsture] {{en ikona}}</ref> Tolaik Polam piederēja [[Formula 3000]] komanda [[Paul Stewart Racing]]. Par komandas izveidi tika paziņots {{dat|1995|12|6}}.
+
+{{dat|1996|1|11}} komanda žurnālā "[[Autosport]]" ielika sludinājumu par to, ka tā meklē pilotus. Četru dienu laikā atsaucība bija iespaidīga.<ref name="geocities" /> {{dat||5|13}} komanda sāka pārrunas ar dāņu pilotu [[Jans Magnusens|Janu Magnusenu]], kurš pērn nobrauca dažas sacīkstes [[McLaren]]. Tā gada {{f1gp|Beļģijas}} komanda uzsāka pārrunas ar [[Rubenšs Barikello|Rubenšu Barikello]]. Pirmais lielais sponsors bija [[HSBC]], kas {{dat||9|17}} parakstīja piecu gadu sponsorēšanas līgumu 25 miljonu [[sterliņa mārciņa|GBP]] apmērā. Dienu vēlāk komanda mēģināja sarunāt līgumu ar [[Deimons Hils|Deimonu Hilu]], tomēr tas viņiem neizdevās. {{dat||10|3}} Jans Magnusens piekrita četru gadu līgumam, bet {{dat||10|22}} komanda parakstīja trīs gadu līgumu ar Barikello. Abi līgumi stājās spēkā [[1997]]. gadā.
+
+===Stewart Grand Prix===
+[[Attēls:Stewart gp barrichello 1998.jpg|200px|thumb||left|[[Rubenšs Barikello]] {{f1|1997}}. gada {{f1gp|Kanādas}}]]
+[[Attēls:Johnny Herbert 1999 Canada.jpg|200px|thumb|[[Džonijs Herberts]] {{f1|1999}}. gada {{f1gp|Kanādas}}]]
+
+Komandas pirmais modelis, SF01, bija pirmā pilnībā ar datoru modelētā mašīna.<ref>[http://www.geocities.com/~no-quarter/stewart/sf1.htm Stewart SF-1] {{en ikona}}</ref> Vienīgos sezonas punktus izcīnīja Barikello, kurš {{f1gp|Monako}}, lietū, finišēja otrais (vienīgi aiz [[Mihaels Šumahers|Mihaela Šumahera]]). Komanda kopvērtējumā palika 9. vietā, apsteidzot [[Tyrrell]], [[Minardi]] un vienu sacīksti nobraukušo [[MasterCard Lola|Lola]]. Tā bija 3. vietā no [[Bridgestone]] riepas lietojošajām komandām.
+
+{{f1|1998}}. gada vidū komanda atlaida Magnusenu un viņa vietā pieņēma [[Joss Verstapens|Josu Verstapenu]]. Ironiskā kārtā, savā pēdējā sacīkstē Magnusens izcīnīja savus pirmos punktus. Kopvērtējumā komanda bija 8. vietā ar 5 punktiem. {{f1|1999}}. gadā Verstapena vietu ieņēma [[Džonijs Herberts]], kurš kļuva par Rubenša Barikello komandas biedru. Tā bija komandas veiksmīgākā sezona. Tās gaitā Barikello trīsreiz kāpa uz pjedestāla un vienreiz kvalificējās pirmajā vietā. Herberts, savukārt, uzvarēja {{f1gp|Eiropas}}, kas bija komandas vienīgā uzvara. Rezultātā komanda bija 4. vietā konstruktoru kausā ar 36 punktiem. Viens no komandas panākumu avotiem bija jaunais Ford dzinējs, kurš tika uztaisīts sadarbībā ar [[Cosworth]].
+
+===Komandas pārdošana===
+[[Attēls:Eddie Irvine 2002.jpg|200px|thumb|[[Edijs Irvains]] ar Jaguar formulu {{f1|2002}}. gada {{f1gp|ASV}}]]
+{{main|Jaguar Racing}}
+Sakarā ar to, ka Polam Stjuartam tika atklāts vēzis, [[Džekijs Stjuarts]] nolēma pārdot savu komandu [[Ford Motor Company|Ford ]]koncernam. Tā tika nosaukta par [[Jaguar Racing]], lai reklamētu [[Jaguar (auto)|Jaguar]] automašīnas. Komandas plāni kļūt par "britu Ferrari" nepiepildījās un tās labākais rezultāts konstruktoru kausā bija 7. vieta {{f1|2002}}., {{f1|2003}}. un {{f1|2004}}. gadā. Komandu [[2004]]. gada beigās iegādājās [[Red Bull]] un pārsauca par [[Red Bull Racing]].
+ 
+==Atsauces==
+{{atsauces}}
+
+{{Stewart Grand Prix}}
+{{Formula 1 autosacīkšu komandas}}
+
+[[Kategorija:Formula 1 komandas]]
+
+[[bg:Стюарт Гран При]]
+[[cs:Stewart Grand Prix]]
+[[de:Stewart Grand Prix]]
+[[en:Stewart Grand Prix]]
+[[es:Stewart Grand Prix]]
+[[fi:Stewart Grand Prix]]
+[[fr:Stewart Grand Prix]]
+[[hu:Stewart Grand Prix]]
+[[it:Stewart Grand Prix]]
+[[ja:スチュワート・グランプリ]]
+[[nl:Stewart Grand Prix]]
+[[pl:Stewart Grand Prix]]
+[[pt:Stewart Grand Prix]]
+[[ro:Stewart Grand Prix]]
+[[ru:Stewart Grand Prix]]
+[[sl:Stewart Grand Prix]]
+[[sq:Stewart Grand Prix]]
+[[sv:Stewart Grand Prix]]

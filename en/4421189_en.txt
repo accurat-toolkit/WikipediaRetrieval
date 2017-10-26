@@ -1,0 +1,243 @@
+{{Infobox Hockey League
+| name       = Major League
+| logo       = hockeyrussia.PNG
+| pixels     = 180
+| caption    =
+| country    = {{RUS}}<br />{{KAZ}}
+| confed     = 
+| founded    = 1992
+| first      =
+| folded     = 
+| divisions  = 3
+| conferences=
+| teams      = 33
+| feeds      =
+| feeder     = [[Pervaya Liga|1st League]]
+| promotion  = -
+| relegation = 
+| champ      = Bratina Cup
+| assc_champ =
+| champions  = Yugra Khanty-Mansiysk
+| season     = 2008–09
+| most successful club = 
+| website    = http://www.fhr.ru
+}}
+The '''Russian Major League''' (also "'''Highleague'''") ({{lang-ru|Высшая Лига}}, ''Vysshaya Liga'') is a professional [[ice hockey]] league in [[Eurasia]], and the second highest level of [[Ice Hockey Federation of Russia|Russian hockey]]. Though currently acting independently, plans are in place to convert it to a [[farm system]] for the [[Kontinental Hockey League]]'s [[2009–10 KHL season|2009–10 season]]. Prior to the [[KHL]]'s creation, it held a [[relegation]] role for the [[Russian Superleague]] and [[Soviet Hockey League|Soviet League]] (where it was classified '''Class-A 2nd''' division).
+
+==Transition to KHL==
+Many changes will occur in the upcoming 2008–09 ''Vysshaya Liga'' season.  The league will be divided into three separate divisions; East, Central, and West, rather than the usual East and West. Twenty four teams will qualify for the playoffs culminating in a final for the Bratina Cup.
+
+It is believed that the league will become more of a developmental league.  Only seven players over the age of 29 will be allowed onto each team's roster.  With no promotion/relegation system set in place with the new [[Kontinental Hockey League]], it has been speculated that most teams in the league will eventually become farm teams of the KHL teams.
+
+==Teams for 2009–10 season<ref>http://www.fhr.ru/news/utverzden_okonchatelnyi_kalendar_vyshki_2009-10</ref>== 
+{| class="navbox wikitable" style="width:100%; text-align:left"
+! style="width:12%" | Division
+! style="width:23%" | Team
+! style="width:19%" | City/Area
+! style="width:26%" | Arena
+! style="width:10%" | Founded
+! style="width:10%" | Joined
+|-
+! style="background-color:#FFDDFF" rowspan=10 | Western<br /> Division
+| '''{{flagicon|RUS}} [[HC Rys Podolsk]]'''
+| {{flagicon|Moscow Oblast}} [[Podolsk]]
+| [[Vityaz Ice Palace]]
+| colspan=2 align=center | 2008
+|-
+| '''{{flagicon|RUS}} [[HC Lipetsk]]'''
+| [[Image:Flag of Lipetsk Oblast.png|22px|border]] [[Lipetsk]] 
+| [[Lipetsk Palace of Sport]]
+| align=center | 1966
+| align=center | 2000
+|-
+| '''{{flagicon|RUS}} [[HC Ryazan]]'''
+| [[Image:Flag of Ryazan Oblast.png|22px|border]] [[Ryazan]] 
+| [[Ryazan Olympic Sports Palace]]
+| align=center | 1955
+| align=center | 2007
+|-
+| '''{{flagicon|RUS}} [[Krylya Sovetov Moscow]]'''
+| {{flagicon|Moscow}} [[Moscow]]
+| 
+| align=center | 1947
+| align=center | 2008
+|-
+| '''{{flagicon|RUS}} [[HC VMF St. Petersburg]]'''
+| {{flagicon|Saint Petersburg}} [[Saint Petersburg]]
+| 
+| colspan=2 align=center | 2008
+|-
+| '''{{flagicon|RUS}} [[Titan Klin]]'''
+| {{flagicon|Moscow Oblast}} [[Klin]]
+| [[Ice Palace Valery]]
+| align=center | 1991
+| align=center | 2005
+|-
+| '''{{flagicon|RUS}} [[Dizel Penza]]'''
+| [[Image:Flag of Penza Oblast.png|22px|border]] [[Penza]] 
+| [[Ice Sports Palace Penza]]
+| align=center | 1955
+| align=center | 2004
+|-
+| '''{{flagicon|RUS}} [[Khimik Voskresensk (2005–)|Khimik Voskresensk]]'''
+| {{flagicon|Moscow Oblast}} [[Voskresensk]] 
+| [[Podmoskovie Stadium]]
+| align=center | 2005
+| align=center | 2005
+|-
+| '''{{flagicon|RUS}} [[THC Tver]]'''
+| [[Image:Flag of Tver Oblast.png|22px|border]] [[Tver]] 
+| 
+| align=center | 
+| align=center | 2009
+|-
+| '''{{flagicon|RUS}} [[HC Sarov]]'''
+| [[File:Flag of Nizhny Novgorod Region.svg|22px|border]] [[Sarov]] 
+| 
+| align=center | 
+| align=center | 2009
+|-
+! style="background-color:#DDFFDD" rowspan=9 | Central<br /> Division
+| '''{{flagicon|RUS}} [[Ariada-Akpars Volzhsk]]'''
+| {{flagicon|Mari El}} [[Volzhsk]]
+| [[Ariada Ice Palace]]
+| colspan=2 align=center | 2003
+|-
+| '''{{flagicon|RUS}} [[Neftyanik Almetyevsk]]'''
+| {{flagicon|Tatarstan}} [[Almetyevsk]]
+| [[Yubileinyi Sports Palace]]
+| align=center | 1965
+| align=center | 2001
+|-
+| '''{{flagicon|RUS}} [[Kristall Saratov]]'''
+| [[Image:Flag of Saratov Oblast.png|22px|border]] [[Saratov]] 
+| [[Ice Sports Palace Saratov]]
+| align=center | 1948
+| align=center | 1998
+|-
+| '''{{flagicon|RUS}} [[Progress Glazov]]'''
+| {{flagicon|Udmurtia}} [[Glazov]]
+| 
+| align=center | 
+| align=center | 
+|-
+| '''{{flagicon|RUS}} [[Izhstal Izhevsk]]'''
+| {{flagicon|Udmurtia}} [[Izhevsk]]
+| [[Sports Palace Izhstal]]
+| align=center | 1949
+| align=center | 2006
+|-
+| '''{{flagicon|RUS}} [[Toros Neftekamsk]]'''
+| {{flagicon|Bashkortostan}} [[Neftekamsk]]
+| [[Ice Palace Neftekamsk]]
+| align=center | 1998
+| align=center | 2006
+|-
+| '''{{flagicon|RUS}} [[Molot-Prikamye Perm]]'''
+| [[Image:Perm Oblast Flag.gif|22px|border]] [[Perm]] 
+| [[Universal Sports Palace Molot|Universal Sports Palace]]
+| align=center | 1948
+| align=center | 2006
+|-
+| '''{{flagicon|RUS}} [[Gazprom-OGU Orenburg]]'''
+| [[Image:Flag of Orenburg Oblast.png|22px|border]] [[Orenburg]]
+| [[Universal Sport Palace]]
+| align=center | 1998
+| align=center | 2007
+|-
+| '''{{flagicon|RUS}} [[CSK VVS Samara (ice hockey)|CSK VVS Samara]]'''
+| [[Image:Flag of Samara Oblast.svg|22px|border]] [[Samara, Russia|Samara]] 
+| [[CSK VVS Sport Palace]]
+| align=center | 1950
+| align=center | 2000
+|-
+! style="background-color:#FFEECC" rowspan=8 | Eastern<br /> Division
+| '''{{flagicon|RUS}} [[Mechel Chelyabinsk]]'''
+| [[Image:Flag of Chelyabinsk Oblast.svg|22px|border]] [[Chelyabinsk]] 
+| [[Mechel Sport Palace]]
+| align=center | 1948
+| align=center | 2003
+|-
+| '''{{flagicon|RUS}} [[Yugra Khanty-Mansiysk]]'''
+| [[Image:Bandera Khanti mansi.svg|22px|border]] [[Khanty-Mansiysk]] 
+| 
+| colspan=2 align=center | 2008
+|-
+| '''{{flagicon|RUS}} [[Sputnik Nizhny Tagil]]'''
+| [[Image:Flag of Sverdlovsk Oblast.svg|22px|border]] [[Nizhny Tagil]] 
+| [[V.K. of Sotnikova Vmest]]
+| align=center | 1948
+| align=center | 2002
+|-
+| '''{{flagicon|RUS}} [[Gazovik Tyumen]]'''
+| [[Image:Flag of Tyumen Oblast.svg|22px|border]] [[Tyumen]] 
+| [[Sports Palace Tyumen]]
+| align=center | 1995
+| align=center | 2000
+|-
+| '''{{flagicon|KAZ}} [[HC Kazzinc-Torpedo|Kazzinc-Torpedo]]'''
+| [[Oskemen]], [[East Kazakhstan Province|East Kaz.]]
+| [[Commercial Center of Sport]]
+| align=center | 1955
+| align=center | 2001
+|-
+| '''{{flagicon|RUS}} [[Ermak Angarsk]]'''
+| [[Image:Flag of Irkutsk Oblast.png|22px|border]] [[Angarsk]]
+| [[Ermak Stadium]]
+| align=center | 1958
+| align=center | 2007
+|-
+| '''{{flagicon|RUS}} [[Zauralie Kurgan]]'''
+| [[Image:Flag of Kurgan Oblast.svg|22px|border]] [[Kurgan, Kurgan Oblast|Kurgan]] 
+| [[Mostovik]]
+| align=center | 1994
+| align=center | 2003
+|-
+| '''{{flagicon|RUS}} [[Yuzhny Ural Orsk]]'''
+| [[Image:Flag of Orenburg Oblast.png|22px|border]] [[Orsk]] 
+| [[Ice Palace Rostoshi]]
+| align=center | 1996
+| align=center | 2006
+|-
+|}
+
+==Vysshaya Liga Champions==
+* 1992-1993 - [[CSK VVS Samara (ice hockey)|CSK VVS Samara]]
+* 1993-1994 - [[CSK VVS Samara (ice hockey)|CSK VVS Samara]]
+* 1994-1995 - Neftekhimik Nijnekamsk
+* 1995-1996 - [[Amur Khabarovsk]]
+* 1996-1997 - ''(West)'' [[HC CSKA Moscow]] / ''(East)'' [[HC Mechel]]
+* 1997-1998 - ''(West)'' HK Lipetsk / ''(East)'' Neftyanik Almetievsk
+* 1998-1999 - [[Torpedo Nizhny Novgorod]]
+* 1999-2000 - Neftyanik Almetievsk
+* 2000-2001 - [[HC Spartak Moscow]]
+* 2001-2002 - [[HC Sibir Novosibirsk]]
+* 2002-2003 - [[Torpedo Nizhny Novgorod]]
+* 2003-2004 - [[Molot-Prikamye Perm]]
+* 2004-2005 - [[HC MVD]]
+* 2005-2006 - [[Traktor Chelyabinsk]]
+* 2006-2007 - [[Torpedo Nizhny Novgorod]]
+* 2007-2008 - [[Khimik Voskresensk (2005–)|Khimik Voskresensk]]
+* 2008-2009 - Yugra Khanty-Mansiysk
+
+==See also==
+* [[Kontinental Hockey League]]
+
+==References==
+{{Reflist}}
+*[http://www.fhr.ru/division/2 Vysshaya Liga Official Page] {{ru icon}}
+*[http://www.allhockey.ru/ AllHockey.Ru] {{ru icon}}
+*[http://online.fhr.ru/ Vysshaya Liga schedule and standings]
+*[http://www.eurohockey.net/leagues/ Euro Hockey]
+
+{{Ice hockey in Russia}}
+
+[[Category:Ice hockey in Russia]]
+[[Category:Ice hockey leagues]]
+
+[[cs:Ruská vyšší liga ledního hokeje]]
+[[de:Wysschaja Liga]]
+[[fr:Championnat de Russie de hockey sur glace D2]]
+[[lv:Krievijas Augstākā līga hokejā]]
+[[ru:Высшая Лига Чемпионата России по хоккею с шайбой]]
+[[fi:Vysšaja Liga]]

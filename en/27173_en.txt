@@ -1,0 +1,129 @@
+{{dablink|Due to [[Wikipedia:Naming conventions (technical restrictions)|technical restrictions]], '''ſ''' ([[long s]]), '''S#''' ([[Script.NET]]), and '''S#arp''' ([[S♯arp]]) redirect here.}}
+{{otherusesof}}
+
+{{wiktionarypar2|S|s}}
+{{Latin alphabet navbox|uc=S|lc=s}}
+'''S''' is the nineteenth letter in the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈɛs}}) is spelled '''ess''', or usually '''es-''' when part of a compound word; the plural is '''esses'''.<ref>"S" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "ess," op. cit.</ref>
+
+
+== Usage ==
+
+S represents the [[voiceless alveolar fricative]] {{IPA|/s/}} in most languages; it also commonly represents the [[voiced alveolar fricative]] {{IPA|/z/}}, as in the Portuguese ''mesa'', the English ''does'', or the German ''sein''. It may also represent the [[voiceless postalveolar fricative]] {{IPA|[ʃ]}}, as in [[Hungarian language|Hungarian]] and [[German language|German]] (before p, t).
+
+== Codes for computing ==
+{{Letter
+|NATO=Sierra
+|Morse=···
+|Character=S
+|Braille=⠎
+}}
+In [[Unicode]], the [[capital letter|capital]] S is U+0053 and the [[lower case]] s is U+0073.
+
+The [[ASCII]] code for capital S is 83 and for lowercase s is 115; or in [[Binary numeral system|binary]] 01010011 and 01110011, correspondingly.
+
+The [[EBCDIC]] code for capital S is 226 and the code for lowercase s is 162.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#83;</tt>" and "<tt>&amp;#115;</tt>" for upper and lower case respectively.
+
+== See also ==
+{{col-begin}}
+{{col-3}}
+* [[Es (Cyrillic)|С, с - Es (Cyrillic)]]
+* [[Tse (Cyrillic)|Ц, ц - Tse (Cyrillic)]]
+* [[Sigma|Σ, σ - Sigma (Greek)]]
+* {{Unicode|[[Ƨ]], ƨ}} — reversed S (used in [[Zhuang language|Zhuang]] transliteration)
+* ſ — [[long s]]
+* $ — the [[dollar sign]]
+* ∫, ∫ — the [[integral]] sign
+{{col-3}}
+* ß — the [[German language|German]] ''[[Eszett]]'' or "sharp s"
+* {{IPA|ʃ}} — [[Esh (letter)|Esh]] (used in the [[help:IPA|International Phonetic Alphabet]] for the [[voiceless postalveolar fricative]])
+* Ѕ, ѕ — [[Cyrillic alphabet|Cyrillic]] letter [[Dze]]
+* -dd — Is treated with an "S" sound in Gaelic, especially at the end of words
+* [[§]] the Section Sign
+{{col-3}}
+{{Commons|S}}
+{{col-end}}
+
+== References ==
+{{nofootnotes|date=December 2008}}
+{{reflist}}
+
+{{Latin alphabet|S|}}
+
+[[Category:Latin letters]]
+
+[[af:S]]
+[[als:S]]
+[[ar:S]]
+[[arc:S]]
+[[ast:S]]
+[[az:S]]
+[[zh-min-nan:S]]
+[[bs:S]]
+[[ca:S]]
+[[cs:S]]
+[[co:S]]
+[[cy:S]]
+[[da:S]]
+[[de:S]]
+[[el:S (γράμμα)]]
+[[es:S]]
+[[eo:S]]
+[[eu:S]]
+[[fa:S]]
+[[fr:S (lettre)]]
+[[fy:S]]
+[[fur:S]]
+[[gv:Shellagh (lettyr)]]
+[[gd:S]]
+[[gl:S]]
+[[gan:S]]
+[[ko:S]]
+[[hr:S]]
+[[ilo:S]]
+[[is:S]]
+[[it:S]]
+[[he:S]]
+[[ka:S]]
+[[kw:S]]
+[[sw:S]]
+[[ht:S]]
+[[la:S]]
+[[lv:S]]
+[[lt:S]]
+[[hu:S]]
+[[mk:S (Латиница)]]
+[[mzn:S]]
+[[ms:S]]
+[[nah:S]]
+[[nl:S (letter)]]
+[[ja:S]]
+[[no:S]]
+[[nn:S]]
+[[nrm:S]]
+[[uz:S (harf)]]
+[[pl:S]]
+[[pt:S]]
+[[ro:S]]
+[[qu:S]]
+[[ru:S (латиница)]]
+[[se:S]]
+[[stq:S]]
+[[scn:S]]
+[[simple:S]]
+[[sk:S]]
+[[sl:S]]
+[[sr:S (слово латинице)]]
+[[fi:S]]
+[[sv:S]]
+[[tl:S]]
+[[th:S]]
+[[tr:S (harf)]]
+[[uk:S (латиниця)]]
+[[vi:S]]
+[[vo:S]]
+[[yo:S]]
+[[zh-yue:S]]
+[[bat-smg:S]]
+[[zh:S]]

@@ -1,0 +1,53 @@
+{{Otherplaces}}
+{{Infobox Settlement
+| name = Prusice
+| image_flag =
+| image_shield = Herb_prusice_prawidlowy.jpg
+| pushpin_map = Poland
+| subdivision_type = Country
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Lower Silesian Voivodeship|Lower Silesian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Trzebnica County|Trzebnica]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Prusice|Prusice]]
+| area_total_km2 = 10.94
+| population_as_of = 2006
+| population_total = 2203
+| population_density_km2 = auto
+| latd = 51 | latm = 22 | lats = 16 | latNS = N | longd = 16 | longm = 57 | longs = 43 | longEW = E
+| elevation_m =
+| website = }}
+
+[[File:Poland Prusice - St. James church.jpg|thumb|left|250px|Church in Prusice]]
+
+'''Prusice''' {{IPAr|pl|p|r|u|'|ś|i|c|e}} ({{lang-de|Prausnitz}}) is a town in [[Trzebnica County]], [[Lower Silesian Voivodeship]], in south-western [[Poland]]. It is the seat of the administrative district ([[gmina]]) called [[Gmina Prusice]]. Prior to 1945 it was in [[Germany]]. (For more information about the history of the region, see [[Silesia]].)
+
+The town lies approximately {{convert|11|km|mi|0}} north-west of [[Trzebnica]], and {{convert|28|km|mi|0}} north of the regional capital [[Wrocław]].
+
+As at 2006, the town has a population of 2,203.
+<br>
+{{Gmina Prusice}}
+
+{{coord|51|22|16|N|16|57|43|E|region:PL_type:city|display=title}}
+
+[[Category:Cities and towns in Lower Silesian Voivodeship]]
+[[Category:Trzebnica County]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+
+{{Trzebnica-geo-stub}}
+
+[[cs:Prusice (Polsko)]]
+[[de:Prusice]]
+[[eo:Prusice (Malsupra Silezio)]]
+[[it:Prusice]]
+[[jv:Prusice]]
+[[lv:Prusice]]
+[[nl:Prusice (Polen)]]
+[[pl:Prusice]]
+[[pt:Prusice]]
+[[ro:Prusice]]
+[[ru:Прусице]]
+[[uk:Прусіце]]

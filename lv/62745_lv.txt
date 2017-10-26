@@ -1,0 +1,50 @@
+'''2008. gada ASV Atklātais čempionāts tenisā''' bija [[2008]]. gada noslēdzošais [[Grand Slam]] turnīrs. Tas norisinājās uz cietā seguma kortiem, ārpus telpām. Šis bija jau 127. [[ASV Atklātais čempionāts tenisā|ASV Atklātā čempionāta]] turnīrs. Tas sākās [[2008]]. gada [[25. augusts|25. augustā]] un ilga līdz [[7. septembris|7. septembrim]]. 
+
+==Uzvarētāji==
+{| class="wikitable"
+|-
+|Vīriešu vienspēles<br/>{{DetailsLink|2008. gada ASV Atklātais čempionāts tenisā - Vīriešu vienspēles}}
+| {{flaga|Šveice}} [[Rodžers Federers]]
+|-
+|Sieviešu vienspēles<br/>{{DetailsLink|2008. gada ASV Atklātais čempionāts tenisā - Sieviešu vienspēles}}
+| {{flaga|ASV}} [[Serena Viljamsa]]
+|-
+|Vīriešu dubultspēles<br/>{{DetailsLink|2008. gada ASV Atklātais čempionāts tenisā - Vīriešu dubultspēles}}
+| {{flaga|ASV}} [[Bobs Braiens]] un {{flaga|ASV}} [[Maiks Braiens]]
+|-
+|Sieviešu dubultspēles<br/>{{DetailsLink|2008. gada ASV Atklātais čempionāts tenisā - Sieviešu dubultspēles}}
+| {{flaga|Zimbabve}} [[Kāra Bleka]] un {{flaga|Dienvidāfrika}} [[Lizele Hūbere]]
+|-
+|Jauktās dubultspēles<br/>{{DetailsLink|2008. gada ASV Atklātais čempionāts tenisā - Jauktās dubultspēles}}
+| {{flaga|Zimbabve}} [[Kāra Bleka]] un {{flaga|Indija}} [[Lenders Pēss]]
+|}
+
+{{Commons|Category:2008 US Open|2008. gada ASV Atklātais čempionāts tenisā}}
+
+{{teniss-stub}}
+
+[[Kategorija:2008. gada tenisa turnīri]]
+
+[[ar:أمريكا المفتوحة 2008 (كرة مضرب)]]
+[[ca:US Open 2008]]
+[[cs:US Open 2008]]
+[[da:US Open 2008]]
+[[de:US Open 2008]]
+[[en:2008 US Open (tennis)]]
+[[es:Anexo:Abierto de los Estados Unidos 2008]]
+[[fa:آزاد آمریکای ۲۰۰۸ (تنیس)]]
+[[fi:Yhdysvaltain avoin tennisturnaus 2008]]
+[[fr:US Open de tennis 2008]]
+[[hi:2008 अमरीकी ओपन टेनिस प्रतियोगिता]]
+[[hu:2008-as US Open (tenisz)]]
+[[it:US Open 2008]]
+[[ja:2008年全米オープンテニス]]
+[[nl:US Open 2008 (tennis)]]
+[[no:US Open 2008 (tennis)]]
+[[pl:US Open 2008]]
+[[pt:US Open de 2008]]
+[[sk:US Open 2008]]
+[[sl:Odprto prvenstvo ZDA 2008]]
+[[sv:US Open i tennis 2008]]
+[[vi:Giải quần vợt Mỹ Mở rộng 2008]]
+[[zh:2008年美國網球公開賽]]

@@ -1,0 +1,74 @@
+[[File:MarchantiophytaSp.NonDéterminéeFL3.jpg|thumb|''[[Marchantia]]'', a liverwort]]
+'''Bryophytes''' have tissues and enclosed reproductive systems, but they lack [[vascular tissue]] that circulates liquids.<ref name="urlWhat are Bryophytes">{{cite web |url=http://bryophytes.plant.siu.edu/bryojustified.html |title=What are Bryophytes |format= |work= |accessdate=2009-05-31}}</ref>  They neither have [[flowers]] nor produce [[seed]]s, reproducing via [[spore]]s.  The term ''bryophyte'' comes from [[Ancient Greek|Greek]] ''βρύον'' - ''bryon'', "tree-moss, oyster-green"  + ''φυτόν'' - ''fyton'' "plant".
+{{wiktionary}}
+
+== Bryophyte classification ==
+[[Image:Bryophyte_sp_Moss_3.jpg|thumb|Mosses are one group of bryophytes.]]
+The bryophytes (or non-tracheophytes) do not form a [[monophyletic group]]<ref name="pmid18205621">{{cite journal |author=Troitsky AV, Ignatov MS, Bobrova VK, Milyutina IA |title=Contribution of genosystematics to current concepts of phylogeny and classification of bryophytes |journal=Biochemistry Mosc. |volume=72 |issue=12 |pages=1368–76 |year=2007 |month=December |pmid=18205621 |doi= |url=http://protein.bio.msu.ru/biokhimiya/contents/v72/full/72121675.html}}</ref> but consist of three groups, the [[Marchantiophyta]] (liverworts), [[Anthocerotophyta]] (hornworts), and [[moss|Bryophyta]] (mosses).<ref name="urlGLOSSARY B">{{cite web |url=http://www.emc.maricopa.edu/faculty/farabee/BIOBK/BioBookglossB.html |title=GLOSSARY B |format= |work= |accessdate=2009-03-26}}</ref> Originally the three groups were brought together as the three classes of division '''Bryophyta'''.  However, since the three groups of bryophytes form a  [[paraphyletic]] group, they now are placed in three separate divisions.
+
+[[Image:Bryo_cladogram.jpg|thumb|556px|center|Two hypotheses on the phylogeny of land plants (embryophyta).]]
+Modern studies of the land plants generally show one of two patterns. 
+* In one of these patterns, the liverworts were the first to diverge, followed by the hornworts, while the mosses are the closest living relatives of the [[Polysporangiophyte|polysporangiates]] (which include the [[vascular plant]]s).<ref name="pmid17030812">{{cite journal |author=Qiu YL, Li L, Wang B, ''et al.'' |title=The deepest divergences in land plants inferred from phylogenomic evidence |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=103 |issue=42 |pages=15511–6 |year=2006 |month=October |pmid=17030812 |pmc=1622854 |doi=10.1073/pnas.0603335103 |url=http://www.pnas.org/cgi/pmidlookup?view=long&pmid=17030812}}</ref>
+* In the other pattern, the hornworts were the first to diverge, followed by the vascular plants, while the mosses are the closest living relatives of the liverworts.{{Fact|date=May 2009}}
+
+== Bryophyte sexuality ==
+
+These plants are generally [[gametophyte]]-oriented; that is, the normal plant is the [[haploid]] gametophyte,<ref name="urlBryophytes - introduction">{{cite web |url=http://www.cavehill.uwi.edu/FPAS/bcs/bl14apl/bryo1.htm |title=Bryophytes - introduction |format= |work= |accessdate=2009-05-31}}</ref> with the only [[diploid]] structure being the [[sporangium]] in season. As a result, bryophyte sexuality is very different from that of other plants.  There are two basic categories of sexuality in bryophytes:
+
+* [[Dioicous]] bryophytes produce only [[antheridium|antheridia]] (male organs) or [[archegonium|archegonia]] (female organs) on a single plant body.
+* [[Monoicous]] bryophytes produce both [[antheridium|antheridia]] and [[archegonium|archegonia]] on the same plant body.
+
+Some bryophyte species may be either monoicous or dioicous depending on environmental conditions.  Other species grow exclusively with one type of sexuality.
+
+Notice that  these terms are ''not'' the same as '''monoecious''' and '''dioecious''', which refer to whether or not a [[sporophyte]] plant bears one or both kinds of gametophyte.  Those terms apply only to [[Spermatophyte|seed plants]].
+
+==Bryophyte life cycle==
+Dispersal in bryophytes is via [[spore]]s; they neither have [[flowers]] nor produce [[seed]]s. Bryophytes do produce gametes that fuse to form a zygote, which in turn develops into an embryo, but this is not contained in a seed as in gymnosperms and angiosperms.
+
+== See also ==
+* [[Embryophyte]]
+* [[Marchantiophyta]] (liverworts)
+* [[hornwort |Anthocerotophyta]] (hornworts)
+* [[moss |Bryophyta]] (mosses)
+* [[Plant sexuality]]
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+{{Wikisource1911Enc|Bryophyta}}
+* Glime, Janice M., 2007. ''[http://www.bryoecol.mtu.edu/ Bryophyte Ecology]'', Volume 1.  ''Physiological Ecology''. Ebook sponsored by Michigan Technological University and the International Association of Bryologists.
+* [http://www.andrewspink.nl/mosses/ Andrew's Moss Site] Photos of bryophytes
+{{-}}
+{{Botany}}
+{{Plant classification}}
+[[Category:Bryophyte
+
+[[az:Şibyələr]]
+[[cs:Mechorosty]]
+[[de:Moose]]
+[[et:Sammaltaimed]]
+[[es:Briofita]]
+[[eo:Briofito]]
+[[fr:Bryophyte]]
+[[ga:Bryophyta]]
+[[gl:Briófita]]
+[[it:Bryophyta]]
+[[he:טחבים]]
+[[lv:Pirmsvasas augi]]
+[[lb:Moosplanzen]]
+[[lt:Samanūnai]]
+[[hu:Mohák]]
+[[ja:コケ植物]]
+[[no:Moser]]
+[[nn:Mose]]
+[[pl:Mszaki]]
+[[pt:Bryophyta]]
+[[ru:Мохообразные]]
+[[simple:Bryophyte]]
+[[sk:Machorasty]]
+[[fi:Sammalet]]
+[[sv:Mossor]]
+[[th:พืชไม่มีท่อลำเลียง]]
+[[uk:Мохоподібні]]
+[[zh:苔藓植物]]

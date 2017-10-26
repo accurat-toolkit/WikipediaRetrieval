@@ -1,0 +1,174 @@
+:''For technical reasons, B# redirects here. For the musical note, see [[B♯ (musical note)]]''
+{{Two other uses|the letter}}
+{{wiktionarypar2|B|b}}
+{{Latin alphabet navbox|uc=B|lc=b}}
+'''B (b)''' is the second letter in the [[Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈbiː}}) is spelled '''bee''', plural '''bees'''.<ref>"B" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "bee", ''op. cit.''</ref>
+==History==
+The letter B might have started as a [[pictogram]] of the floorplan of a house in [[Egyptian hieroglyph]]s or the [[Proto-Sinaitic alphabet]]. By [[1050 BC]], the [[Phoenician alphabet]]'s letter had a linear form that served as the beth.
+{| class="wikitable"
+|-
+! Egyptian hieroglyph <br>cottage
+! [[Proto-Canaanite alphabet|Proto-Canaanite]] <br>house
+! [[Phoenician alphabet|Phoenician]] <br>''[[Bet (letter)|beth]]''
+! [[Greek alphabet|Greek]] <br>''[[Beta (letter)|Beta]]''
+! [[Etruscan alphabet|Etruscan]] <br>B
+! Roman <br>B
+|- style="background-color:white; text-align:center;"
+|[[Image:EgyptianB-01.svg|64px|Egyptian hieroglyphic house]]
+|[[Image:Proto-semiticB-01.svg|64px|Proto-semitic house]]
+|[[Image:PhoenicianB-01.svg|64px|Phoenician beth]]
+|[[Image:Beta uc lc.svg|95px|Greek beta]]
+|[[Image:EtruscanB-01.svg|46px|Etruscan B]]
+|[[Image:RomanB-01.svg|37px|Roman B]]
+|}
+
+==Typography==
+The modern lowercase letter ''b'' derives from later [[Roman cursive#New Roman cursive|Roman]] times, when scribes began omitting the upper loop of the capital.
+{|
+|align="center"|[[Image:BlackletterB-01.png|Blackletter B]]
+|align="center"|[[Image:UncialB-01.png|Uncial B]]
+|-
+|align="center"|[[Blackletter]] B
+|align="center"|[[Uncial script|Uncial]] B
+|-
+|align="center"|[[Image:ModernRomanB-01.png|Modern Roman B]]
+|align="center"|[[Image:ModernItalicB-01.png|Modern Italic B]]
+|align="center"|[[Image:ModernScriptB-01.png|Modern Script B]]
+|-
+|align="center"|Modern Roman B
+|align="center"|Modern Italic B
+|align="center"|Modern Script B
+|}
+
+The letter B is often confused with the visually similar [[German language|German]] [[ß]] which stands for ''ss''.
+
+==Usage==
+
+In [[English language|English]] and most other languages that use the Latin alphabet, the letter b denotes the [[voiced bilabial plosive]] ({{IPA-en|b|}}), as in ''bib''. In English it is sometimes silent, as in ''debt'' or ''comb'' (however the 'b' in 'comb' was actually pronounced at one time).  In [[Estonian language|Estonian]], [[Icelandic language|Icelandic]], and in [[Chinese language|Chinese]] transcription, B is not voiced, but is still contrasted to P, which is [[geminate]]d {{IPA|/pp/}} in [[Estonian language|Estonian]] and  [[aspiration (linguistics)|aspirated]] {{IPA|/pʰ/}} in Chinese and Icelandic. In [[Fijian language|Fijian]] B is [[prenasalized consonant|prenasalized]] {{IPA2|mb}}, whereas in [[Zulu language|Zulu]] and [[Xhosa language|Xhosa]] it is [[implosive consonant|implosive]] {{IPA2|ɓ}}, in contrast to the [[digraph]] Bh which represents {{IPA2|b}}. 
+Examples can be: Blue; Bubble; Block; Ball; Building
+
+[[Finnish language|Finnish]] uses the letter ''b'' only for loanwords.
+
+In the [[help:IPA|International Phonetic Alphabet]] and [[X-SAMPA]], letter {{IPA|/b/}} denotes the [[voiced bilabial plosive]]. Variants of the letter b denote related [[bilabial consonant]]s, like the [[voiced bilabial implosive]] and the [[bilabial trill]]. In [[X-SAMPA]], capital B denotes the [[voiced bilabial fricative]].
+
+B is also a [[musical note]]. Its value varies depending on the region; a B in Anglophone countries represents a note that is a semitone higher than the B in Northern Continental Europe. (Anglophone B is represented in Northern Europe with the letter H.) Archaic forms of the letter b, the ''b quadratum'' (square b, {{music|natural}}) and ''b rotundum'' (round b, {{music|b}}) remain in use for musical notation as the symbols for ''[[flat (music)|flat]]'' and ''[[natural (music)|natural]]'', respectively.
+
+In Contracted (grade 2) English braille, b stands for "but" when in isolation.
+
+== Codes for computing ==
+{{Letter
+|NATO=Bravo
+|Morse=–···
+|Character=B2
+|Braille=⠃
+}}
+In [[Unicode]] the [[majuscule|capital]] B is codepoint U+0042 and the [[lower case]] b is U+0062.
+
+The [[ASCII]] code for capital B is 66 and for lower case b is 98; or in [[Binary numeral system|binary]] 01000010 and 01100010, respectively.
+
+The [[EBCDIC]] code for capital B is 194 and for lowercase b is 130.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#66;</tt>" and "<tt>&amp;#98;</tt>" for upper and lower case, respectively.
+
+== See also ==
+{{Commons|B}}
+*В, в : [[Ve (Cyrillic)]]
+*Б, б: [[Be (Cyrillic)]]
+*The Semitic letter [[Bet (letter)|Bet]]
+*{{Unicode|[[Ɓ]]}}
+*[[B postcode area]] (United Kingdom)
+
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|B|}}
+
+[[Category:Latin letters]]
+
+[[af:B]]
+[[als:B]]
+[[ar:B]]
+[[arc:B]]
+[[ast:B]]
+[[az:B]]
+[[zh-min-nan:B]]
+[[bs:B]]
+[[br:B (lizherenn)]]
+[[ca:B]]
+[[cs:B]]
+[[co:B]]
+[[cy:B]]
+[[da:B]]
+[[de:B]]
+[[dv:B]]
+[[et:B]]
+[[el:B]]
+[[es:B]]
+[[eo:B]]
+[[eu:B]]
+[[fa:B]]
+[[fr:B (lettre)]]
+[[fy:B]]
+[[fur:B]]
+[[gv:Beih (lettyr)]]
+[[gd:B]]
+[[gl:B]]
+[[gan:B]]
+[[ko:B]]
+[[hr:B]]
+[[io:B]]
+[[ilo:B]]
+[[is:B]]
+[[it:B]]
+[[he:B]]
+[[ka:B]]
+[[kw:B]]
+[[sw:B]]
+[[ht:B]]
+[[la:B]]
+[[lv:B]]
+[[lb:B]]
+[[lt:B]]
+[[hu:B]]
+[[mk:B (Латиница)]]
+[[mg:B]]
+[[ml:B]]
+[[mzn:B]]
+[[ms:B]]
+[[nah:B]]
+[[nl:B (letter)]]
+[[ja:B]]
+[[no:B]]
+[[nn:B]]
+[[nrm:B]]
+[[uz:B (harf)]]
+[[pl:B]]
+[[pt:B]]
+[[crh:B]]
+[[ro:B]]
+[[qu:B]]
+[[ru:B (латиница)]]
+[[se:B]]
+[[stq:B]]
+[[scn:B]]
+[[simple:B]]
+[[sk:B]]
+[[sl:B]]
+[[szl:B]]
+[[sr:B (слово латинице)]]
+[[fi:B]]
+[[sv:B]]
+[[tl:B]]
+[[th:B]]
+[[tr:B (harf)]]
+[[tk:B]]
+[[uk:B (латиниця)]]
+[[vi:B]]
+[[vo:B]]
+[[yi:B]]
+[[yo:B]]
+[[zh-yue:B]]
+[[diq:B]]
+[[bat-smg:B]]
+[[zh:B]]

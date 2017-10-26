@@ -1,0 +1,73 @@
+{{about|protected regions of environmental or cultural value|protected area of a cricket pitch|Cricket pitch}}
+[[Image:milford sound.jpg|thumb|right|[[Milford Sound]], [[New Zealand]]: [[Mitre Peak, New Zealand|Mitre Peak]], the mountain at left, rises {{convert|1692|m|abbr=on}} above the Sound.]]
+[[File:Elephant safari.jpg|thumb|An elephant safari through the [[Jaldapara Wildlife Sanctuary]] in [[West Bengal]], [[India]]]]
+[[Image:Arribes-Duero-2.jpg|thumb|right|[[Arribes del Duero Natural Park]] ([[Salamanca]] and [[Zamora, Spain|Zamora]], [[Spain]]).]]
+[[Image:Swiss National Park 188.JPG|thumb|right|[[Swiss National Park|National Park]], [[Swiss Alps]]]]
+
+'''Protected areas''' are locations which receive protection because of their environmental value, or environmental plus cultural values.  Examples include parks, nature reserves, and wildlife sanctuaries.  Not included in the term are historic sites such as buildings that do not include natural environmental aspects, but some are "cultural landscapes" which reflect interaction of humankind and nature.  The term protected area includes [[Marine Protected Area]]s, which refers to protected areas whose boundaries include some area of ocean. A large number of kinds of protected area exist, which vary by level of protection and by the enabling laws of each country or rules of international organization. There are over 108,000 protected areas in the world with more added daily, representing a total area of {{convert|30430000|km2|abbr=on}}, or over 12 percent of the world's land surface area, greater than the entire land mass of Africa.<ref>"Conservation Refugees" by Mark Dowie. First published in ''[[Orion (magazine)|Orion]]'', November/December 2005. Re-published in ''[[The Best American Science and Nature Writing|The Best American Science and Nature Writing 2006]]''</ref> By contrast, as of 2 February 2009, only 0.8 of one percent of the world's oceans are included in the world's ~5000 [[Marine Protected Area]]s.<ref>Wood et al. 2008. Assessing progress towards global marine protection targets: shortfalls in information and action. Oryx 42:340-351</ref><ref> Protect Planet Ocean http://www.protectplanetocean.org</ref>
+
+== Definition ==
+A protected area, as defined by the [[International Union for Conservation of Nature]] (IUCN), is:
+<blockquote>
+''"A clearly defined geographical space, recognised, dedicated and managed, through legal or other effective means, to achieve the long-term conservation of nature with associated ecosystem services and cultural values”.''
+</blockquote>
+
+== Types ==
+There are six [[World Commission on Protected Areas#IUCN Categories of Protected Area|IUCN Protected Area categories]]:
+*I. Strict [[nature reserve]]/[[wilderness|wilderness area]]: protected area managed mainly for science or wilderness protection
+*II. [[National park]]: protected area managed mainly for ecosystem protection and recreation
+*III. [[Natural monument]]: protected area managed mainly for conservation of specific natural features
+*IV. [[Habitat]]/[[Species]] Management Area: protected area managed mainly for conservation through management intervention
+*V. Protected [[Landscape]]/[[Seascape]]: protected area managed mainly for landscape/seascape protection and recreation
+*VI. Managed Resource Protected Area: protected area managed mainly for the sustainable use of natural [[ecosystem]]s
+
+== History ==
+International commitments to the development of networks of protected areas date from 1972, when the Stockholm Declaration from the [[United Nations Conference on the Human Environment]] endorsed the protection of representative examples of all major ecosystem types as a fundamental requirement of national conservation programs. Since then, the protection of representative ecosystems has become a core principle of conservation biology, supported by key United Nations resolutions - including the [[World Charter for Nature]] 1982, the Rio Declaration at the [[Earth Summit (1992)]], and the [[Johannesburg Declaration]] 2002. 
+
+Globally, national programs for the protection of representative [[ecosystem]]s have progressed with respect to terrestrial environments, with less progress in marine and freshwater [[biome]]s.
+
+== Criticism ==
+Some countries such as China, Madagasgar, Namibia and Venezuela place a protection category over lands, but provide little enforcement, such that the areas are not substantively protected from development or misuse.
+
+Protected areas often involve the exclusion of resources users from the protected area. As such they have been criticized for the displacement of local population.<ref name="Brockington">Brockington 2002. Fortress Conservation: The Preservation of the Mkomazi Game Reserve, Tanzania</ref> Much of the new protected areas are in [[developing countries]] which makes the local population vulnerable.
+
+In some places, wildlife is protected by armed guards, killing 'poachers' looking for subsistence.<ref name="CongoPark">http://news.bbc.co.uk/1/hi/world/africa/3667560.stm</ref>
+
+== See also ==
+*[[Applied ecology]]
+*[[Community Conservation Areas]]
+*[[Indigenous Protected Areas]]
+*[[World Commission on Protected Areas]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.iucn.org/about/union/commissions/wcpa/index.cfm IUCN World Commission on Protected Areas]
+* [http://www.wdpa.org/ World Database on Protected Areas]
+* [http://impas.protectplanetocean.org Protect Planet Ocean]: The only place on the web dedicated to bringing all aspects of [[Marine Protected Area]]s to your desktop
+
+{{-}}
+{{Protected areas by country}}
+
+[[Category:Protected areas| ]]
+
+<!-- Please respect alphabetical order -->
+
+[[cs:Chráněné území]]
+[[de:Schutzgebiete in Natur- und Landschaftsschutz]]
+[[et:Kaitseala]]
+[[es:Área protegida]]
+[[fr:Aire protégée]]
+[[lv:Dabas liegums]]
+[[hu:Tájvédelmi körzet]]
+[[nl:Beschermd gebied]]
+[[pl:Obszar chroniony]]
+[[pt:Área protegida]]
+[[ro:Arie protejată]]
+[[ru:Особо охраняемая природная территория]]
+[[sk:Chránené územie]]
+[[sr:Заштита природе]]
+[[th:พื้นที่คุ้มครอง]]
+[[uk:Природоохоронна територія]]
+[[zh:保护区]]

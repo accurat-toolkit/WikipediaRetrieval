@@ -1,0 +1,41 @@
+{{Pilsēta
+|nosaukums      = Żarów
+|valsts         = Polija
+|valsts_en      = Poland
+|ģerbonis       = POL Żarów COA.svg
+|karte          = PL Zarow map.svg
+|vojevodiste    = Lejassilēzijas vojevodiste
+|iedzīvotāji    = 6 888
+|iedz_stat_gads = 2007
+|iedz_blīvums   =
+|platība        = 6,16
+|pilsētas tiesības = 1954. gads
+|mājaslapa      = http://www.um.zarow.pl/
+|citi nosaukumi = ''Saarau'' (vācu)
+|apriņķis       = Svidņicas apriņķis
+|koordinātes    = {{Coord|50|56||N|16|29||E|scale=100000}}
+}}
+
+'''Žaruva''' ({{val|pl|Żarów}}) - pilsēta [[Polija]]s dienvidrietumos, [[Lejassilēzijas vojevodiste|Lejassilēzijas vojevodistē]] uz ziemeļiem no [[Svidņica]]s.  
+
+Līdz 1945. gadam pilsēta ietilpa [[Vācija|Vācijā]], kad, pamatojoties uz [[Potsdamas konference]]s lēmumiem, pilsēta tika piešķirta Polijai, bet pilsētas vācu iedzīvotāji padzīti.
+
+{{Polija-aizmetnis}}
+
+{{commons|Category:Żarów|Žaruva}}
+
+{{DEFAULTSORT:Zzaruva}}
+
+[[Kategorija:Lejassilēzijas vojevodistes pilsētas]]
+
+[[de:Żarów]]
+[[en:Żarów]]
+[[eo:Żarów (regiono Dolnośląskie)]]
+[[jv:Żarów]]
+[[nl:Żarów]]
+[[pl:Żarów]]
+[[pt:Żarów]]
+[[ro:Żarów]]
+[[ru:Жарув]]
+[[sk:Żarów]]
+[[uk:Жарув]]

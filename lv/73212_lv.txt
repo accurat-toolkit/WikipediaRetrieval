@@ -1,0 +1,201 @@
+{{Infobox Settlement
+<!-- Basic info  ---------------->
+|name                   = Vaduca <!-- at least one of the first two fields must be filled in -->
+|official_name          = 
+|other_name             =
+|native_name            = Vaduz <!-- if different from the English name -->
+|nickname               = 
+|settlement_type        = Pilsēta <!-- e.g. Town, Village, City, etc.-->
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Kunstmuseum Liechtenstein, Vaduz.jpg
+|imagesize              = 200px
+|image_caption          =
+|image_flag             = Flag_of_Vaduz_Liechtenstein-1.svg
+|flag_size              = 30px
+|image_seal             =
+|seal_size              =
+|image_shield           = Vaduz.png
+|shield_size            = 100px
+|image_blank_emblem     = 
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Liechtenstein-Vaduz.svg
+|mapsize                = 150px
+|map_caption            = Vaduca un tās apkārtne
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        = 
+<!-- Location ------------------>
+|subdivision_type       = 
+|subdivision_name       = 
+|subdivision_type1      = 
+|subdivision_name1      = 
+|subdivision_type2      = 
+|subdivision_name2      = 
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =
+|seat                   =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        = Monarhija
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       =
+<!-- Area    --------------------->
+|area_magnitude           = 
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           = 17.3 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           = 
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+|elevation_ft           =
+|elevation_max_m            =
+|elevation_max_ft           =
+|elevation_min_m            =
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               = 31.12.2005
+|population_footnotes           =
+|population_note                =
+|population_total               = 5109
+|population_density_km2         = 295 <!--For automatic calculation, any density field may contain: auto -->
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|timezone               = CET
+|utc_offset             = +1
+|timezone_DST           = CEST
+|utc_offset_DST         = 
+|coor_type              = <!-- can be used to specify what the coordinates refer to -->
+|latd=47 |latm=08 |lats= |latNS=N
+|longd=9 |longm=31 |longs= |longEW=E
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Pasta indekss
+|postal_code            = 9490
+|area_code              = 7001
+|website                = [http://www.vaduz.li www.vaduz.li]
+|footnotes              = 
+}} 
+
+'''Vaduca''' ir [[Lihtenšteina]]s, valsts [[Centrāleiropa|Centrāleiropā]], [[galvaspilsēta]]. Vaduca atrodas [[Reina]]s krastos, un tajā ir 5248 iedzīvotāji.
+
+Lai gan Vaduca ir Lihtenšteinas atpazīstamākā pilsēta, valsts lielākā pilsēta ir [[Šāna]].
+
+== Vēsture ==
+Vaduca rakstos pirmo reizi minēta [[1150]]. gadā.
+
+
+{{Eiropa-aizmetnis}}
+{{Eiropas galvaspilsētas}}
+
+[[Kategorija:Eiropas galvaspilsētas]]
+[[Kategorija:Lihtenšteinas pilsētas]]
+
+{{Link FA|da}}
+
+[[af:Vaduz]]
+[[als:Vaduz]]
+[[am:ፋዱጽ]]
+[[ar:فادوز]]
+[[az:Vaduts]]
+[[be:Горад Вадуц]]
+[[be-x-old:Вадуц]]
+[[bg:Вадуц]]
+[[bn:ফাডুৎস]]
+[[bo:བ་དུ་ཛི།]]
+[[bs:Vaduz]]
+[[ca:Vaduz]]
+[[cs:Vaduz]]
+[[cv:Вадуц]]
+[[cy:Vaduz]]
+[[da:Vaduz]]
+[[de:Vaduz]]
+[[el:Βαντούζ]]
+[[en:Vaduz]]
+[[eo:Vaduzo]]
+[[es:Vaduz]]
+[[et:Vaduz]]
+[[eu:Vaduz]]
+[[fa:فادوتس]]
+[[fi:Vaduz]]
+[[fr:Vaduz]]
+[[frp:Vaduz]]
+[[gd:Vaduz]]
+[[gl:Vaduz]]
+[[gv:Vaduz]]
+[[he:ואדוץ]]
+[[hr:Vaduz]]
+[[ht:Vadouz]]
+[[hu:Vaduz]]
+[[hy:Վադուց]]
+[[id:Vaduz]]
+[[ie:Vaduz]]
+[[io:Vaduz]]
+[[is:Vaduz]]
+[[it:Vaduz]]
+[[ja:ファドゥーツ]]
+[[ka:ვადუცი]]
+[[ko:파두츠]]
+[[la:Dulcis Vallis]]
+[[lb:Vaduz]]
+[[lij:Vadus]]
+[[lmo:Vaduz]]
+[[ln:Vaduz]]
+[[lt:Vaducas]]
+[[mk:Вадуц]]
+[[mr:फाडुट्स]]
+[[ms:Vaduz]]
+[[na:Vaduz]]
+[[nl:Vaduz]]
+[[nn:Vaduz]]
+[[no:Vaduz]]
+[[nov:Vaduz]]
+[[oc:Vaduz]]
+[[os:Вадуц]]
+[[pl:Vaduz]]
+[[pms:Vaduz]]
+[[pt:Vaduz]]
+[[qu:Vaduz]]
+[[rm:Vaduz]]
+[[ro:Vaduz]]
+[[ru:Вадуц]]
+[[sah:Вадуц]]
+[[scn:Vaduz]]
+[[sh:Vaduz]]
+[[simple:Vaduz]]
+[[sk:Vaduz]]
+[[sl:Vaduz]]
+[[sq:Vaduz]]
+[[sr:Вадуц]]
+[[sv:Vaduz]]
+[[sw:Vaduz]]
+[[tg:Вадутс]]
+[[th:วาดุซ]]
+[[tl:Vaduz]]
+[[tr:Vaduz]]
+[[ug:ۋادۇز]]
+[[uk:Вадуц]]
+[[vec:Vaduz]]
+[[vi:Vaduz]]
+[[vo:Vaduz]]
+[[war:Vaduz]]
+[[wo:Wadus]]
+[[yo:Vaduz]]
+[[zh:瓦都茲]]

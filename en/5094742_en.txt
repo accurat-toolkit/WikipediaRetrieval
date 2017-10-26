@@ -1,0 +1,54 @@
+{{Infobox_lake
+ |lake_name = Lake Baskunchak <br> Баскунчак
+ |image_lake = Baskunchak.JPG 
+ |caption_lake = 
+ |image_bathymetry = 
+ |caption_bathymetry = 
+ |location = [[Astrakhan Oblast]], Russia
+ |coords = {{coord|48|10|N|46|53|E|type:waterbody_region:RU|display=inline,title}}
+ |type = [[salt lake (geography)|salt lake]]
+ |inflow = 
+ |outflow = 
+ |catchment = 11,000 km²
+ |basin_countries = Russia
+ |length = 
+ |width = 
+ |area = [[1 E8 m²|115 km²]]
+ |depth = 
+ |max-depth = 
+ |volume = 
+ |residence_time = 
+ |shore = 
+ |elevation = -21 m
+ |islands = 
+ |cities = 
+}}
+'''Lake Baskunchak''' ({{lang-ru|Баскунчак}}) is a [[salt lake (geography)|salt lake]] of 115 km² in [[Astrakhan Oblast]], [[Russia]], located at {{coord|48|10|N|46|53|E}}, about 270 km north of the [[Caspian Sea]], and 53 km east of the [[Volga]]. Since 1997 the area is strictly protected as [[nature reserve]].
+
+The surface elevation of the lake is 21 m below [[sea level]]. It is fed by a river that draws from an area of 11,000 km². The [[salinity]] of the lake is about 300 g/l. Since the 8th century its salt was mined and distributed via the [[Silk Road]]. Nowadays the lake's salt of distinct purity (99.8 % [[Sodium chloride|NaCl]]) covers 80 % of [[Russia]]'s salt production. Depending on need, about 1.5 million to 5 million tons of salt are mined per year.
+
+To the south of the lake ''Mount Bolshoye Bogdo'' rises to 150 m above [[sea level]], forming the highest elevation in the [[Caspian Depression]]. The hill is pushed up about 1 mm per year by a [[salt dome]]. [[Sinkhole]]s, and [[Karst topography|Karst caves]] of up to 1.5 km length lead through the hill. It also is the only area in [[Europe]] where [[Triassic]] [[lagerstätte]]n surface. To the local [[Kalmyk people]], it is a holy hill.
+
+== See also ==
+*[[Lake Elton]]
+
+==External links==
+* [http://www.wild-russia.org/bioregion3/Bogdinsko-Baskunchaksky/3_bogdinsko.htm Bogdinsko-Baskunchaksky Nature Reserve]
+
+[[Category:Lakes of Russia|Baskunchak]]
+[[Category:Endorheic lakes|Baskunchak]]
+[[Category:Astrakhan Oblast]]
+
+[[cs:Baskunčak]]
+[[de:Baskuntschak]]
+[[et:Baskuntšak]]
+[[eo:Baskunĉak]]
+[[fr:Baskountchak]]
+[[os:Баскунчак (цад)]]
+[[lv:Baskunčaks]]
+[[lt:Baskunčakas]]
+[[nl:Baskoentsjakmeer]]
+[[nn:Baskuntsjak]]
+[[pl:Baskunczak]]
+[[ru:Баскунчак (озеро)]]
+[[uk:Баскунчак]]

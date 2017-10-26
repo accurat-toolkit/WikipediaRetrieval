@@ -1,0 +1,1470 @@
+No [[2009|2009. gada]] [[1. jūlijs|1. jūlija]] [[Latvija]] ir iedalīta 109 novados un 9 republikas pilsētās.
+
+== Administratīvi teritoriālā reforma (1999-2009) ==
+[[Attēls:Latvijas novadi un pagasti.png|thumb|350px|Administratīvais un teritoriālais iedalījums]]
+Diskusijas par administratīvi teritoriālās reformas nepieciešamību sākās jau tūlīt pēc [[Latvijas vēsture#Neatkarības atjaunošana|neatkarības atjaunošanas]].<ref>Latvijas Vēstnesis. ''Latvijas pašvaldību attīstības vadlīnijas'', publicēts: 14.12.1995.</ref><ref>Latvijas Vēstnesis. ''Nopietna saruna “ar” un “par” pašvaldībām'', publicēts: 23.04.1996.</ref><ref>Latvijas Vēstnesis. ''Noteikumi par kārtību, kādā sagatavojami un iesniedzami dokumenti administratīvi teritoriālā iedalījuma jautājumu izlemšanai un apdzīvoto vietu statusa noteikšanai'', publicēts: 15.02.1995 </ref><ref>Latvijas Vēstnesis. ''Mēs šodien un rīt'', publicēts: 25.10.1995.</ref>  Reformu mērķis ir izveidot ekonomiski attīstīties spējīgas [[pašvaldība|pašvaldības]], kas nodrošinātu kvalitatīvu pakalpojumu sniegšanu iedzīvotājiem.<ref name="atrl">[http://www.likumi.lv/doc.php?id=51528 Administratīvi teritoriālās reformas likums]</ref> Administratīvi teritoriālās reformas rezultātā notika pāreja no divu līmeņu uz viena līmeņa pašvaldībām: tika likvidētas 26 [[Latvijas rajoni|rajonu]] padomes, bet [[pilsēta]]s, to lauku teritorijas un [[pagasts|pagastus]] apvienoja novados, kā arī 9 [[lielpilsēta]]s ieguva republikas pilsētu statusu. Papildus tam tika nolemts pārdēvēt visas pilsētu lauku teritorijas par pagastiem, atjaunot to vēsturiskos nosaukumus vai pievienot jau esošajiem pagastiem.<ref>[http://www.diena.lv/lat/politics/regions/novados-veido-jaunus-pagastus Diena, ceturtdiena, 13. augusts (2009)]</ref> Novados apvienotās bijušās pašvaldības ieguva novadu administratīvās teritorijas statusu.<ref name="atrl" />
+
+[[1996|1996. gadā]], apvienojoties [[Kandava]]s pilsētai, [[Kandavas pagasts|Kandavas pagastam]] un [[Cēres pagasts|Cēres pagastam]], tika radīta administratīvā vienība "Kandavas pilsēta ar lauku teritoriju". Nākamajā gadā tai pievienojās arī [[Zemītes pagasts|Zemītes]] un [[Matkules pagasts]], bet [[1999|1999. gadā]] tā kļuva par [[Kandavas novads|Kandavas novadu]] - pirmo novadu [[Latvija|Latvijā]].<ref name="LatV2000">Latvijas Vēstnesis.''Par pašvaldību reformu'', publicēts: 24.11.2000.</ref> 1999. gadā tika izveidots arī [[Līvānu novads]], bet [[2000|2000. gadā]] - vēl pieci novadi: [[Amatas novads|Amatas]], [[Ciblas novads|Ciblas]], [[Durbes novads|Durbes]], [[Preiļu novads|Preiļu]] un [[Sabiles novads]] (vēlāk iekļauts [[Talsu novads|Talsu novadā]]).<ref name="LatV2000" /> Vairākkārt pārceļot reformas beigu termiņus, par reformas galīgo beigu termiņu tika noteiktas [[2009. gada Latvijas pašvaldību vēlēšanas]].<ref name="atrl" /> Līdz tam laikam jau bija izveidots 41 novads, bet vēl joprojām pastāvēja 424 pagastu pašvaldības, 50 rajona pilsētas un 7 republikas pilsētas.<ref name="rauplm">[http://www.raplm.gov.lv/pub/index.php?id=1733 Reģionālās attīstības un pašvaldību lietu ministrija]</ref> No 2009. gada 1. jūlija darbu uzsāka 109 novadu un 9 republikas pilsētu domes, izbeidzot visu pirms tam novada teritorijā bijušo vietējo pašvaldību padomju pilnvaras. <ref name="rauplm" /> Arī rajonu padomju pilnvaras beidzās 2009. gada 1. jūlijā, tomēr, lai nodrošinātu pakāpenisku rajona pašvaldības institūciju, mantas, finanšu līdzekļu, tiesību un saistību nodošanu, rajona pašvaldības turpina pastāvēt kā [[Publiskās tiesības|publisko tiesību]] juridiskā persona līdz visu tās saistību nodošanai vai izbeigšanai, bet ne ilgāk kā līdz 2009. gada [[31. decembris|31.decembrim]].<ref>[http://www.likumi.lv/doc.php?id=177909 Rajonu pašvaldību reorganizācijas likums]</ref>
+
+== Republikas pilsētas ==
+[[Attēls:Latvijas novadi (krāsās).png|thumb|350px|Novadi un republikas pilsētas]]
+
+{| class="wikitable"
+|-
+! Nr.p.k.
+! Pilsētas nosaukums
+|-
+| 1.
+| [[Daugavpils]]
+|-
+| 2.
+| [[Jēkabpils]]
+|-
+| 3.
+| [[Jelgava]]
+|-
+| 4.
+| [[Jūrmala]]
+|-
+| 5.
+| [[Liepāja]]
+|-
+| 6.
+| [[Rēzekne]]
+|-
+| 7.
+| [[Rīga]]
+|-
+| 8.
+| [[Valmiera]]
+|-
+| 9.
+| [[Ventspils]]
+|}
+
+== Novadi un to teritoriālā iedalījuma vienības ==
+{|
+|valign=top|
+{| class="wikitable" style="font-size:90%"
+|-
+! Nr.p.k.
+! Novads
+! Novada pilsētas un pagasti
+|-
+| rowspan="4" | 1.
+| rowspan="4" | [[Aglonas novads]]
+| [[Aglonas pagasts]]
+|-
+| [[Grāveru pagasts]]
+|-
+| [[Kastuļinas pagasts]]
+|-
+| [[Šķeltovas pagasts]]
+|-
+| rowspan="2" | 2.
+| rowspan="2" | [[Aizkraukles novads]]
+| [[Aizkraukles pagasts]]
+|-
+| [[Aizkraukle]]s pilsēta
+|-
+| rowspan="6" | 3.
+| rowspan="6" | [[Aizputes novads]]
+| [[Aizputes pagasts]]
+|-
+| [[Aizpute]]s pilsēta
+|-
+| [[Cīravas pagasts]]
+|-
+| [[Kalvenes pagasts]]
+|-
+| [[Kazdangas pagasts]]
+|-
+| [[Lažas pagasts]]
+|-
+| rowspan="4" | 4.
+| rowspan="4" | [[Aknīstes novads]]
+| [[Aknīste]]s pilsēta
+|-
+| [[Aknīstes pagasts]]
+|-
+| [[Asares pagasts]]
+|-
+| [[Gārsenes pagasts]]
+|-
+| rowspan="6" | 5.
+| rowspan="6" | [[Alojas novads]]
+| [[Aloja]]s pilsēta
+|-
+| [[Alojas pagasts]]
+|-
+| [[Braslavas pagasts]]
+|-
+| [[Brīvzemnieku pagasts]]
+|-
+| [[Staicele]]s pilsēta
+|-
+| [[Staiceles pagasts]]
+|-
+| 6.
+| [[Alsungas novads]]
+|
+|-
+| rowspan="16" | 7.
+| rowspan="16" | [[Alūksnes novads]]
+| nowrap="nowrap" | [[Alsviķu pagasts]]
+|-
+| nowrap="nowrap" | [[Alūksne]]s pilsēta
+|-
+| nowrap="nowrap" | [[Annas pagasts]]
+|-
+| nowrap="nowrap" | [[Ilzenes pagasts]]
+|-
+| nowrap="nowrap" | [[Jaunalūksnes pagasts]]
+|-
+| nowrap="nowrap" | [[Jaunannas pagasts]]
+|-
+| nowrap="nowrap" | [[Jaunlaicenes pagasts]]
+|-
+| nowrap="nowrap" | [[Kalncempju pagasts]]
+|-
+| nowrap="nowrap" | [[Liepnas pagasts]]
+|-
+| nowrap="nowrap" | [[Malienas pagasts]]
+|-
+| nowrap="nowrap" | [[Mālupes pagasts]]
+|-
+| nowrap="nowrap" | [[Mārkalnes pagasts]]
+|-
+| nowrap="nowrap" | [[Pededzes pagasts]]
+|-
+| nowrap="nowrap" | [[Veclaicenes pagasts]]
+|-
+| nowrap="nowrap" | [[Zeltiņu pagasts]]
+|-
+| nowrap="nowrap" | [[Ziemera pagasts]]
+|-
+| rowspan="5" | 8.
+| rowspan="5" | [[Amatas novads]]
+| nowrap="nowrap" | [[Amatas pagasts]]
+|-
+| nowrap="nowrap" | [[Drabešu pagasts]]
+|-
+| nowrap="nowrap" | [[Nītaures pagasts]]
+|-
+| nowrap="nowrap" | [[Skujenes pagasts]]
+|-
+| nowrap="nowrap" | [[Zaubes pagasts]]
+|-
+| rowspan="5" | 9.
+| rowspan="5" | [[Apes novads]]
+| nowrap="nowrap" | [[Ape]]s pilsēta
+|-
+| nowrap="nowrap" | [[Apes pagasts]]
+|-
+| nowrap="nowrap" | [[Gaujienas pagasts]]
+|-
+| nowrap="nowrap" | [[Trapenes pagasts]]
+|-
+| nowrap="nowrap" | [[Virešu pagasts]]
+|-
+| rowspan="7" | 10.
+| rowspan="7" | [[Auces novads]]
+| [[Auce]]s pilsēta
+|-
+| [[Auces pagasts]]
+|-
+| [[Bēnes pagasts]]
+|-
+| [[Īles pagasts]]
+|-
+| [[Lielauces pagasts]]
+|-
+| [[Ukru pagasts]]
+|-
+| [[Vītiņu pagasts]]
+|-
+| 11.
+| [[Ādažu novads]]
+|
+|-
+| rowspan="2" | 12.
+| rowspan="2" | [[Babītes novads]]
+| [[Salas pagasts]]
+|-
+| [[Babītes pagasts]]
+|-
+| rowspan="2" | 13.
+| rowspan="2" | [[Baldones novads]]
+| [[Baldone]]s pilsēta
+|-
+| [[Baldones pagasts]]
+|-
+| 14.
+| [[Baltinavas novads]]
+|
+|-
+| rowspan="11" | 15.
+| rowspan="11" | [[Balvu novads]]
+| [[Balvu pagasts]]
+|-
+| [[Balvi|Balvu pilsēta]]
+|-
+| [[Bērzkalnes pagasts]]
+|-
+| [[Bērzpils pagasts]]
+|-
+| [[Briežuciema pagasts]]
+|-
+| [[Krišjāņu pagasts]]
+|-
+| [[Kubuļu pagasts]]
+|-
+| [[Lazdulejas pagasts]]
+|-
+| [[Tilžas pagasts]]
+|-
+| [[Vectilžas pagasts]]
+|-
+| [[Vīksnas pagasts]]
+|-
+| rowspan="9" | 16.
+| rowspan="9" | [[Bauskas novads]]
+| [[Bauska]]s pilsēta
+|-
+| [[Brunavas pagasts]]
+|-
+| [[Ceraukstes pagasts]]
+|-
+| [[Codes pagasts]]
+|-
+| [[Dāviņu pagasts]]
+|-
+| [[Gailīšu pagasts]]
+|-
+| [[Īslīces pagasts]]
+|-
+| [[Mežotnes pagasts]]
+|-
+| [[Vecsaules pagasts]]
+|-
+| rowspan="3" | 17.
+| rowspan="3" | [[Beverīnas novads]]
+| [[Brenguļu pagasts]]
+|-
+| [[Kauguru pagasts]]
+|-
+| [[Trikātas pagasts]]
+|-
+| rowspan="5" | 18.
+| rowspan="5" | [[Brocēnu novads]]
+| [[Brocēni|Brocēnu]] pilsēta
+|-
+| [[Blīdenes pagasts]]
+|-
+| [[Cieceres pagasts]]
+|-
+| [[Gaiķu pagasts]]
+|-
+| [[Remtes pagasts]]
+|-
+| rowspan="6" | 19.
+| rowspan="6" | [[Burtnieku novads]]
+| [[Burtnieku pagasts]]
+|-
+| [[Ēveles pagasts]]
+|-
+| [[Matīšu pagasts]]
+|-
+| [[Rencēnu pagasts]]
+|-
+| [[Valmieras pagasts]]
+|-
+| [[Vecates pagasts]]
+|-
+| 20.
+| [[Carnikavas novads]]
+|
+|-
+| rowspan="2" | 21.
+| rowspan="2" | [[Cēsu novads]]
+| [[Cēsis|Cēsu pilsēta]]
+|-
+| [[Vaives pagasts]]
+|-
+| rowspan="2" | 22.
+| rowspan="2" | [[Cesvaines novads]]
+| [[Cesvaine]]s pilsēta
+|-
+| [[Cesvaines pagasts]]
+|-
+| rowspan="5" | 23.
+| rowspan="5" | [[Ciblas novads]]
+| [[Blontu pagasts]]
+|-
+| [[Ciblas pagasts]]
+|-
+| [[Līdumnieku pagasts]]
+|-
+| [[Pušmucovas pagasts]]
+|-
+| [[Zvirgzdenes pagasts]]
+|-
+| rowspan="11" | 24.
+| rowspan="11" | [[Dagdas novads]]
+| [[Andrupenes pagasts]]
+|-
+| [[Andzeļu pagasts]]
+|-
+| [[Asūnes pagasts]]
+|-
+| [[Bērziņu pagasts]]
+|-
+| [[Dagda]]s pilsēta
+|-
+| [[Dagdas pagasts]]
+|-
+| [[Ezernieku pagasts]]
+|-
+| [[Konstantinovas pagasts]]
+|-
+| [[Ķepovas pagasts]]
+|-
+| [[Svariņu pagasts]]
+|-
+| [[Šķaunes pagasts]]
+|-
+| rowspan="19" | 25.
+| rowspan="19" | [[Daugavpils novads]]
+| [[Ambeļu pagasts]]
+|-
+| [[Biķernieku pagasts]]
+|-
+| [[Demenes pagasts]]
+|-
+| [[Dubnas pagasts]]
+|-
+| [[Kalkūnes pagasts]]
+|-
+| [[Kalupes pagasts]]
+|-
+| [[Laucesas pagasts]]
+|-
+| [[Līksnas pagasts]]
+|-
+| [[Maļinovas pagasts]]
+|-
+| [[Medumu pagasts]]
+|-
+| [[Naujenes pagasts]]
+|-
+| [[Nīcgales pagasts]]
+|-
+| [[Salienas pagasts]]
+|-
+| [[Skrudalienas pagasts]]
+|-
+| [[Sventes pagasts]]
+|-
+| [[Tabores pagasts]]
+|-
+| [[Vaboles pagasts]]
+|-
+| [[Vecsalienas pagasts]]
+|-
+| [[Višķu pagasts]]
+|-
+| rowspan="11" | 26.
+| rowspan="11" | [[Dobeles novads]]
+| [[Annenieku pagasts]]
+|-
+| [[Auru pagasts]]
+|-
+| [[Bērzes pagasts]]
+|-
+| [[Bikstu pagasts]]
+|-
+| [[Dobeles pagasts]]
+|-
+| [[Dobele]]s pilsēta
+|-
+| [[Jaunbērzes pagasts]]
+|-
+| [[Krimūnu pagasts]]
+|-
+| [[Naudītes pagasts]]
+|-
+| [[Penkules pagasts]]
+|-
+| [[Zebrenes pagasts]]
+|-
+| rowspan="2" | 27.
+| rowspan="2" | [[Dundagas novads]]
+| [[Kolkas pagasts]]
+|-
+| [[Dundagas pagasts]]
+|-
+| rowspan="5" | 28.
+| rowspan="5" | [[Durbes novads]]
+| [[Dunalkas pagasts]]
+|-
+| [[Durbe]]s pilsēta
+|-
+| [[Durbes pagasts]]
+|-
+| [[Tadaiķu pagasts]]
+|-
+| [[Vecpils pagasts]]
+|-
+| rowspan="3" | 29.
+| rowspan="3" | [[Engures novads]]
+| [[Engures pagasts]]
+|-
+| [[Lapmežciema pagasts]]
+|-
+| [[Smārdes pagasts]]
+|-
+| rowspan="3" | 30.
+| rowspan="3" | [[Ērgļu novads]]
+| [[Ērgļu pagasts]]
+|-
+| [[Jumurdas pagasts]]
+|-
+| [[Sausnējas pagasts]]
+|-
+| 31.
+| [[Garkalnes novads]]
+|
+|-
+| rowspan="5" | 32.
+| rowspan="5" | [[Grobiņas novads]]
+| [[Bārtas pagasts]]
+|-
+| [[Gaviezes pagasts]]
+|-
+| [[Grobiņas pagasts]]
+|-
+| [[Grobiņa]]s pilsēta
+|-
+| [[Medzes pagasts]]
+|-
+| rowspan="14" | 33.
+| rowspan="14" | [[Gulbenes novads]]
+| [[Beļavas pagasts]]
+|-
+| [[Daukstu pagasts]]
+|-
+| [[Druvienas pagasts]]
+|-
+| [[Galgauskas pagasts]]
+|-
+| [[Gulbene]]s pilsēta
+|-
+| [[Jaungulbenes pagasts]]
+|-
+| [[Lejasciema pagasts]]
+|-
+| [[Litenes pagasts]]
+|-
+| [[Lizuma pagasts]]
+|-
+| [[Līgo pagasts]]
+|-
+| [[Rankas pagasts]]
+|-
+| [[Stāmerienas pagasts]]
+|-
+| [[Stradu pagasts]]
+|-
+| [[Tirzas pagasts]]
+|-
+| 34.
+| [[Iecavas novads]]
+| nowrap="nowrap" |
+|-
+| rowspan="2" | 35.
+| rowspan="2" | [[Ikšķiles novads]]
+| [[IIkšķile]]s pilsēta
+|-
+| [[Tīnūžu pagasts]]
+|-
+| rowspan="2" | 36.
+| rowspan="2" | [[Inčukalna novads]]
+| [[Inčukalna pagasts]]
+|-
+| [[Vangaži|Vangažu pilsēta]]
+|-
+| rowspan="8" | 37.
+| rowspan="8" | [[Ilūkstes novads]]
+| [[Bebrenes pagasts]]
+|-
+| [[Dvietes pagasts]]
+|-
+| [[Eglaines pagasts]]
+|-
+| [[Ilūkste]]s pilsēta
+|-
+| [[Pilskalnes pagasts]]
+|-
+| [[Prodes pagasts]]
+|-
+| [[Subate]]s pilsēta
+|-
+| [[Šēderes pagasts]]
+|}
+|valign=top|
+{| class="wikitable" style="font-size:90%"
+|-
+! Nr.p.k.
+! Novads
+! Novada pilsētas un pagasti
+|-
+| rowspan="7" | 38.
+| rowspan="7" | [[Jaunjelgavas novads]]
+| [[Daudzeses pagasts]]
+|-
+| [[Jaunjelgava]]s pilsēta
+|-
+| [[Jaunjelgavas pagasts]]
+|-
+| [[Seces pagasts]]
+|-
+| [[Sērenes pagasts]]
+|-
+| [[Staburaga pagasts]]
+|-
+| [[Sunākstes pagasts]]
+|-
+| rowspan="2" | 39.
+| rowspan="2" | [[Jaunpiebalgas novads]]
+| [[Jaunpiebalgas pagasts]]
+|-
+| [[Zosēnu pagasts]]
+|-
+| rowspan="2" | 40.
+| rowspan="2" | [[Jaunpils novads]]
+| [[Jaunpils pagasts]]
+|-
+| [[Viesatu pagasts]]
+|-
+| rowspan="7" | 41.
+| rowspan="7" | [[Jēkabpils novads]]
+| [[Ābeļu pagasts]]
+|-
+| [[Dignājas pagasts]]
+|-
+| [[Dunavas pagasts]]
+|-
+| [[Kalna pagasts]]
+|-
+| [[Leimaņu pagasts]]
+|-
+| [[Rubenes pagasts]]
+|-
+| [[Zasas pagasts]]
+|-
+| rowspan="13" | 42.
+| rowspan="13" | [[Jelgavas novads]]
+| [[Elejas pagasts]]
+|-
+| [[Glūdas pagasts]]
+|-
+| [[Jaunsvirlaukas pagasts]]
+|-
+| [[Kalnciema pagasts]]
+|-
+| [[Lielplatones pagasts]]
+|-
+| [[Līvbērzes pagasts]]
+|-
+| [[Platones pagasts]]
+|-
+| [[Sesavas pagasts]]
+|-
+| [[Svētes pagasts]]
+|-
+| [[Valgundes pagasts]]
+|-
+| [[Vilces pagasts]]
+|-
+| [[Vircavas pagasts]]
+|-
+| [[Zaļenieku pagasts]]
+|-
+| rowspan="7" | 43.
+| rowspan="7" | [[Kandavas novads]]
+| [[Cēres pagasts]]
+|-
+| [[Kandavas pagasts]]
+|-
+| [[Kandava]]s pilsēta
+|-
+| [[Matkules pagasts]]
+|-
+| [[Vānes pagasts]]
+|-
+| [[Zantes pagasts]]
+|-
+| [[Zemītes pagasts]]
+|-
+| rowspan="6" | 44.
+| rowspan="6" | [[Kārsavas novads]]
+| [[Goliševas pagasts]]
+|-
+| [[Kārsava]]s pilsēta
+|-
+| [[Malnavas pagasts]]
+|-
+| [[Mērdzenes pagasts]]
+|-
+| [[Mežvidu pagasts]]
+|-
+| [[Salnavas pagasts]]
+|-
+| rowspan="5" | 45.
+| rowspan="5" | [[Kocēnu novads]]
+| [[Bērzaines pagasts]]
+|-
+| [[Dikļu pagasts]]
+|-
+| [[Kocēnu pagasts]]
+|-
+| [[Vaidavas pagasts]]
+|-
+| [[Zilākalna pagasts]]
+|-
+| rowspan="3" | 46.
+| rowspan="3" | [[Kokneses novads]]
+| [[Bebru pagasts]]
+|-
+| [[Iršu pagasts]]
+|-
+| [[Kokneses pagasts]]
+|-
+| rowspan="12" | 47.
+| rowspan="12" | [[Krāslavas novads]]
+| [[Aulejas pagasts]]
+|-
+| [[Indras pagasts]]
+|-
+| [[Izvaltas pagasts]]
+|-
+| [[Kalniešu pagasts]]
+|-
+| [[Kaplavas pagasts]]
+|-
+| [[Krāslavas pagasts]]
+|-
+| [[Kombuļu pagasts]]
+|-
+| [[Krāslava]]s pilsēta
+|-
+| [[Piedrujas pagasts]]
+|-
+| [[Robežnieku pagasts]]
+|-
+| [[Skaistas pagasts]]
+|-
+| [[Ūdrīšu pagasts]]
+|-
+| rowspan="2" | 48.
+| rowspan="2" | [[Krimuldas novads]]
+| [[Krimuldas pagasts]]
+|-
+| [[Lēdurgas pagasts]]
+|-
+| rowspan="6" | 49.
+| rowspan="6" | [[Krustpils novads]]
+| [[Atašienes pagasts]]
+|-
+| [[Krustpils pagasts]]
+|-
+| [[Kūku pagasts]]
+|-
+| [[Mežāres pagasts]]
+|-
+| [[Variešu pagasts]]
+|-
+| [[Vīpes pagasts]]
+|-
+| rowspan="14" | 50.
+| rowspan="14" | [[Kuldīgas novads]]
+| [[Ēdoles pagasts]]
+|-
+| [[Gudenieku pagasts]]
+|-
+| [[Īvandes pagasts]]
+|-
+| [[Kabiles pagasts]]
+|-
+| [[Kuldīga]]s pilsēta
+|-
+| [[Kurmāles pagasts]]
+|-
+| [[Laidu pagasts]]
+|-
+| [[Padures pagasts]]
+|-
+| [[Pelču pagasts]]
+|-
+| [[Rendas pagasts]]
+|-
+| [[Rumbas pagasts]]
+|-
+| [[Snēpeles pagasts]]
+|-
+| [[Turlavas pagasts]]
+|-
+| [[Vārmes pagasts]]
+|-
+| rowspan="4" | 51.
+| rowspan="4" | [[Ķeguma novads]]
+| [[Ķegums|Ķeguma]] pilsēta
+|-
+| [[Rembates pagasts]]
+|-
+| [[Birzgales pagasts]]
+|-
+| [[Tomes pagasts]]
+|-
+| rowspan="3" | 52.
+| rowspan="3" | [[Ķekavas novads]]
+| [[Baloži|Baložu pilsēta]]
+|-
+| [[Daugmales pagasts]]
+|-
+| [[Ķekavas pagasts]]
+|-
+| rowspan="4" | 53.
+| rowspan="4" | [[Lielvārdes novads]]
+| [[Jumpravas pagasts]]
+|-
+| [[Lēdmanes pagasts]]
+|-
+| [[Lielvārde]]s pilsēta
+|-
+| [[Lielvārdes pagasts]]
+|-
+| rowspan="2" | 54.
+| rowspan="2" | [[Līgatnes novads]]
+| [[Līgatnes pagasts]]
+|-
+| [[Līgatne]]s pilsēta
+|-
+| rowspan="8" | 55.
+| rowspan="8" | [[Limbažu novads]]
+| [[Katvaru pagasts]]
+|-
+| [[Limbažu pagasts]]
+|-
+| [[Limbaži|Limbažu pilsēta]]
+|-
+| [[Pāles pagasts]]
+|-
+| [[Skultes pagasts]]
+|-
+| [[Umurgas pagasts]]
+|-
+| [[Vidrižu pagasts]]
+|-
+| [[Viļķenes pagasts]]
+|-
+| rowspan="6" | 56.
+| rowspan="6" | [[Līvānu novads]]
+| [[Jersikas pagasts]]
+|-
+| [[Līvāni|Līvānu pilsēta]]
+|-
+| [[Rožupes pagasts]]
+|-
+| [[Rudzātu pagasts]]
+|-
+| [[Sutru pagasts]]
+|-
+| [[Turku pagasts]]
+|-
+| rowspan="2" | 57.
+| rowspan="2" | [[Lubānas novads]]
+| [[Indrānu pagasts]]
+|-
+| [[Lubāna]]s pilsēta
+|-
+| rowspan="10" | 58.
+| rowspan="10" | [[Ludzas novads]]
+| [[Briģu pagasts]]
+|-
+| [[Cirmas pagasts]]
+|-
+| [[Isnaudas pagasts]]
+|-
+| [[Istras pagasts]]
+|-
+| [[Ludza]]s pilsēta
+|-
+| [[Nirzas pagasts]]
+|-
+| [[Ņukšu pagasts]]
+|-
+| [[Pildas pagasts]]
+|-
+| [[Pureņu pagasts]]
+|-
+| [[Rundēnu pagasts]]
+|-
+| rowspan="15" | 59.
+| rowspan="15" | [[Madonas novads]]
+| [[Aronas pagasts]]
+|-
+| [[Barkavas pagasts]]
+|-
+| [[Bērzaunes pagasts]]
+|-
+| [[Dzelzavas pagasts]]
+|-
+| [[Kalsnavas pagasts]]
+|-
+| [[Lazdonas pagasts]]
+|-
+| [[Liezēres pagasts]]
+|-
+| [[Ļaudonas pagasts]]
+|-
+| [[Madona]]s pilsēta
+|-
+| [[Mārcienas pagasts]]
+|-
+| [[Mētrienas pagasts]]
+|-
+| [[Ošupes pagasts]]
+|-
+| [[Praulienas pagasts]]
+|-
+| [[Sarkaņu pagasts]]
+|-
+| [[Vestienas pagasts]]
+|-
+| 60.
+| [[Mālpils novads]]
+|
+|-
+| 61.
+| [[Mārupes novads]]
+|
+|-
+| rowspan="5" | 62.
+| rowspan="5" | [[Mazsalacas novads]]
+| [[Mazsalaca]]s pilsēta
+|-
+| [[Mazsalacas pagasts]]
+|-
+| [[Ramatas pagasts]]
+|-
+| [[Sēļu pagasts]]
+|-
+| [[Skaņkalnes pagasts]]
+|-
+| rowspan="2" | 63.
+| rowspan="2" | [[Naukšēnu novads]]
+| [[Ķoņu pagasts]]
+|-
+| [[Naukšēnu pagasts]]
+|-
+| rowspan="4" | 64.
+| rowspan="4" | [[Neretas novads]]
+| [[Mazzalves pagasts]]
+|-
+| [[Neretas pagasts]]
+|-
+| [[Pilskalnes pagasts]]
+|-
+| [[Zalves pagasts]]
+|-
+| rowspan="2" | 65.
+| rowspan="2" | [[Nīcas novads]]
+| [[Nīcas pagasts]]
+|-
+| [[Otaņķu pagasts]]
+|-
+| rowspan="10" | 66.
+| rowspan="10" | [[Ogres novads]]
+| [[Krapes pagasts]]
+|-
+| [[Ķeipenes pagasts]]
+|-
+| [[Lauberes pagasts]]
+|-
+| [[Madlienas pagasts]]
+|-
+| [[Mazozolu pagasts]]
+|-
+| [[Meņģeles pagasts]]
+|-
+| [[Ogre]]s pilsēta
+|-
+| [[Ogresgala pagasts]]
+|-
+| [[Suntažu pagasts]]
+|-
+| [[Taurupes pagasts]]
+|-
+| rowspan="2" | 67.
+| rowspan="2" | [[Olaines novads]]
+| [[Olaines pagasts]]
+|-
+| [[Olaine]]s pilsēta
+|-
+| rowspan="3" | 68.
+| rowspan="3" | [[Ozolnieku novads]]
+| [[Ozolnieku pagasts]]
+|-
+| [[Cenu pagasts]]
+|-
+| [[Sidrabenes pagasts]]
+|-
+| rowspan="3" | 69.
+| rowspan="3" | [[Pārgaujas novads]]
+| [[Raiskuma pagasts]]
+|-
+| [[Stalbes pagasts]]
+|-
+| [[Straupes pagasts]]
+|-
+| rowspan="3" | 70.
+| rowspan="3" | [[Pāvilostas novads]]
+| [[Vērgales pagasts]]
+|-
+| [[Pāvilosta]]s pilsēta
+|-
+| [[Sakas pagasts]]
+|-
+| rowspan="4" | 71.
+| rowspan="4" | [[Pļaviņu novads]]
+| [[Aiviekstes pagasts]]
+|-
+| [[Klintaines pagasts]]
+|-
+| [[Pļaviņas|Pļaviņu pilsēta]]
+|-
+| [[Vietalvas pagasts]]
+|-
+| rowspan="5" | 72.
+| rowspan="5" | [[Preiļu novads]]
+| [[Aizkalnes pagasts]]
+|-
+| [[Pelēču pagasts]]
+|-
+| [[Preiļu pagasts]]
+|-
+| [[Preiļi|Preiļu pilsēta]]
+|-
+| [[Saunas pagasts]]
+|-
+| rowspan="6" | 73.
+| rowspan="6" | [[Priekules novads]]
+| [[Bunkas pagasts]]
+|-
+| [[Virgas pagasts]]
+|-
+| [[Gramzdas pagasts]]
+|-
+| [[Kalētu pagasts]]
+|-
+| [[Priekule]]s pilsēta
+|-
+| [[Priekules pagasts]]
+|}
+|valign=top|
+{| class="wikitable" style="font-size:90%"
+|-
+! Nr.p.k.
+! Novads
+! Novada pilsētas un pagasti
+|-
+| rowspan="4" | 74.
+| rowspan="4" | [[Priekuļu novads]]
+| [[Liepas pagasts]]
+|-
+| [[Mārsnēnu pagasts]]
+|-
+| [[Priekuļu pagasts]]
+|-
+| [[Veselavas pagasts]]
+|-
+| rowspan="2" | 75.
+| rowspan="2" | [[Raunas novads]]
+| [[Drustu pagasts]]
+|-
+| [[Raunas pagasts]]
+|-
+| rowspan="25" | 76.
+| rowspan="25" | [[Rēzeknes novads]]
+| [[Audriņu pagasts]]
+|-
+| [[Bērzgales pagasts]]
+|-
+| [[Čornajas pagasts]]
+|-
+| [[Dricānu  pagasts]]
+|-
+| [[Feimaņu pagasts]]
+|-
+| [[Gaigalavas pagasts]]
+|-
+| [[Griškānu pagasts]]
+|-
+| [[Ilzeskalna pagasts]]
+|-
+| [[Kantinieku pagasts]]
+|-
+| [[Kaunatas pagasts]]
+|-
+| [[Lendžu pagasts]]
+|-
+| [[Lūznavas pagasts]]
+|-
+| [[Mākoņkalna pagasts]]
+|-
+| [[Maltas pagasts]]
+|-
+| [[Nagļu pagasts]]
+|-
+| [[Nautrēnu pagasts]]
+|-
+| [[Ozolaines pagasts]]
+|-
+| [[Ozolmuižas pagasts]]
+|-
+| [[Pušas pagasts]]
+|-
+| [[Rikavas pagasts]]
+|-
+| [[Sakstagala pagasts]]
+|-
+| [[Silmalas pagasts]]
+|-
+| [[Stoļerovas pagasts]]
+|-
+| [[Stružānu pagasts]]
+|-
+| [[Vērēmu pagasts]]
+|-
+| rowspan="6" | 77.
+| rowspan="6" | [[Riebiņu novads]]
+| [[Galēnu pagasts]]
+|-
+| [[Riebiņu pagasts]]
+|-
+| [[Rušonas pagasts]]
+|-
+| [[Silajāņu pagasts]]
+|-
+| [[Sīļukalna pagasts]]
+|-
+| [[Stabulnieku pagasts]]
+|-
+| rowspan="2" | 78.
+| rowspan="2" | [[Rojas novads]]
+| [[Mērsraga pagasts]]
+|-
+| [[Rojas pagasts]]
+|-
+| 79.
+| [[Ropažu novads]]
+|
+|-
+| rowspan="2" | 80.
+| rowspan="2" | [[Rucavas novads]]
+| [[Dunikas pagasts]]
+|-
+| [[Rucavas pagasts]]
+|-
+| rowspan="2" | 81.
+| rowspan="2" | [[Rugāju novads]]
+| [[Lazdukalna pagasts]]
+|-
+| [[Rugāju pagasts]]
+|-
+| rowspan="3" | 82.
+| rowspan="3" | [[Rundāles novads]]
+| [[Rundāles pagasts]]
+|-
+| [[Svitenes pagasts]]
+|-
+| [[Viesturu pagasts]]
+|-
+| rowspan="5" | 83.
+| rowspan="5" | [[Rūjienas novads]]
+| [[Ipiķu pagasts]]
+|-
+| [[Jeru pagasts]]
+|-
+| [[Lodes pagasts]]
+|-
+| [[Rūjiena]]s pilsēta
+|-
+| [[Vilpulkas pagasts]]
+|-
+| rowspan="5" | 84.
+| rowspan="5" | [[Salacgrīvas novads]]
+| [[Ainaži|Ainažu]] pilsēta
+|-
+| [[Ainažu pagasts]]
+|-
+| [[Liepupes pagasts]]
+|-
+| [[Salacgrīva]]s pilsēta
+|-
+| [[Salacgrīvas pagasts]]
+|-
+| rowspan="2" | 85.
+| rowspan="2" | [[Salas novads]]
+| [[Sēlpils pagasts]]
+|-
+| [[Salas pagasts]]
+|-
+| rowspan="2" | 86.
+| rowspan="2" | [[Salaspils novads]]
+| [[Salaspils]] pilsēta
+|-
+| [[Salaspils pagasts]]
+|-
+| rowspan="16" | 87.
+| rowspan="16" | [[Saldus novads]]
+| [[Ezeres pagasts]]
+|-
+| [[Jaunauces pagasts]]
+|-
+| [[Jaunlutriņu pagasts]]
+|-
+| [[Kursīšu pagasts]]
+|-
+| [[Lutriņu pagasts]]
+|-
+| [[Nīgrandes pagasts]]
+|-
+| [[Novadnieku pagasts]]
+|-
+| [[Pampāļu pagasts]]
+|-
+| [[Rubas pagasts]]
+|-
+| [[Saldus pagasts]]
+|-
+| [[Saldus]] pilsēta
+|-
+| [[Šķēdes pagasts]]
+|-
+| [[Vadakstes pagasts]]
+|-
+| [[Zaņas pagasts]]
+|-
+| [[Zirņu pagasts]]
+|-
+| [[Zvārdes pagasts]]
+|-
+| rowspan="2" | 88.
+| rowspan="2" | [[Saulkrastu novads]]
+| [[Saulkrasti|Saulkrastu]] pilsēta
+|-
+| [[Saulkrastu pagasts]]
+|-
+| 89.
+| [[Sējas novads]]
+|
+|-
+| rowspan="4" | 90.
+| rowspan="4" | [[Siguldas novads]]
+| [[Allažu pagasts]]
+|-
+| [[Mores pagasts]]
+|-
+| [[Siguldas pagasts]]
+|-
+| [[Sigulda]]s pilsēta
+|-
+| 91.
+| [[Skrīveru novads]]
+|
+|-
+| rowspan="5" | 92.
+| rowspan="5" | [[Skrundas novads]]
+| [[Nīkrāces pagasts]]
+|-
+| [[Raņķu pagasts]]
+|-
+| [[Rudbāržu pagasts]]
+|-
+| [[Skrunda]]s pilsēta
+|-
+| [[Skrundas pagasts]]
+|-
+| rowspan="9" | 93.
+| rowspan="9" | [[Smiltenes novads]]
+| [[Bilskas pagasts]]
+|-
+| [[Blomes pagasts]]
+|-
+| [[Brantu pagasts]]
+|-
+| [[Grundzāles pagasts]]
+|-
+| [[Launkalnes pagasts]]
+|-
+| [[Palsmanes pagasts]]
+|-
+| [[Smiltenes pagasts]]
+|-
+| [[Smiltene]]s pilsēta
+|-
+| [[Variņu pagasts]]
+|-
+| 94.
+| [[Stopiņu novads]]
+|
+|-
+| rowspan="4" | 95.
+| rowspan="4" | [[Strenču novads]]
+| [[Jērcēnu pagasts]]
+|-
+| [[Plāņu pagasts]]
+|-
+| [[Seda]]s pilsēta
+|-
+| [[Strenči|Strenču]] pilsēta
+|-
+| rowspan="18" | 96.
+| rowspan="18" | [[Talsu novads]]
+| [[Abavas pagasts]]
+|-
+| [[Ārlavas pagasts]]
+|-
+| [[Balgales pagasts]]
+|-
+| [[Ģibuļu pagasts]]
+|-
+| [[Īves pagasts]]
+|-
+| [[Ķūļciema pagasts]]
+|-
+| [[Laidzes pagasts]]
+|-
+| [[Laucienes pagasts]]
+|-
+| [[Lībagu pagasts]]
+|-
+| [[Lubes pagasts]]
+|-
+| [[Sabile]]s pilsēta
+|-
+| [[Stende]]s pilsēta
+|-
+| [[Strazdes pagasts]]
+|-
+| [[Talsi|Talsu]] pilsēta
+|-
+| [[Valdemārpils]] pilsēta
+|-
+| [[Valdgales pagasts]]
+|-
+| [[Vandzenes pagasts]]
+|-
+| [[Virbu pagasts]]
+|-
+| rowspan="3" | 97.
+| rowspan="3" | [[Tērvetes novads]]
+| [[Augstkalnes pagasts]]
+|-
+| [[Bukaišu pagasts]]
+|-
+| [[Tērvetes pagasts]]
+|-
+| rowspan="11" | 98.
+| rowspan="11" | [[Tukuma novads]]
+| [[Degoles pagasts]]
+|-
+| [[Džūkstes pagasts]]
+|-
+| [[Irlavas pagasts]]
+|-
+| [[Jaunsātu pagasts]]
+|-
+| [[Lestenes pagasts]]
+|-
+| [[Pūres pagasts]]
+|-
+| [[Sēmes pagasts]]
+|-
+| [[Slampes pagasts]]
+|-
+| [[Tukums|Tukuma]] pilsēta
+|-
+| [[Tumes pagasts]]
+|-
+| [[Zentenes pagasts]]
+|-
+| nowrap="nowrap" rowspan="2" | 99.
+| rowspan="2" | [[Vaiņodes novads]]
+| [[Embūtes pagasts]]
+|-
+| [[Vaiņodes pagasts]]
+|-
+| rowspan="6" | 99.
+| rowspan="6" | [[Valkas novads]]
+| [[Ērģemes pagasts]]
+|-
+| [[Kārķu pagasts]]
+|-
+| [[Valkas pagasts]]
+|-
+| [[Valka]]s pilsēta
+|-
+| [[Vijciema pagasts]]
+|-
+| [[Zvārtavas pagasts]]
+|-
+| rowspan="3" | 101.
+| rowspan="3" | [[Varakļānu novads]]
+| [[Murmastienes pagasts]]
+|-
+| [[Varakļānu  pagasts]]
+|-
+| [[Varakļāni|Varakļānu]] pilsēta
+|-
+| rowspan="3" | 102.
+| rowspan="3" | [[Vārkavas novads]]
+| [[Rožkalnu pagasts]]
+|-
+| [[Upmalas pagasts]]
+|-
+| [[Vārkavas pagasts]]
+|-
+| rowspan="5" | 103.
+| rowspan="5" | [[Vecpiebalgas novads]]
+| [[Dzērbenes pagasts]]
+|-
+| [[Inešu pagasts]]
+|-
+| [[Kaives pagasts]]
+|-
+| [[Taurenes pagasts]]
+|-
+| [[Vecpiebalgas pagasts]]
+|-
+| rowspan="6" | 104.
+| rowspan="6" | [[Vecumnieku novads]]
+| [[Bārbeles pagasts]]
+|-
+| [[Kurmenes pagasts]]
+|-
+| [[Skaistkalnes pagasts]]
+|-
+| [[Stelpes pagasts]]
+|-
+| [[Valles pagasts]]
+|-
+| [[Vecumnieku pagasts]]
+|-
+| rowspan="13" | 105.
+| rowspan="13" | [[Ventspils novads]]
+| [[Ances pagasts]]
+|-
+| [[Jūrkalnes pagasts]]
+|-
+| [[Piltene]]s pilsēta
+|-
+| [[Piltenes pagasts]]
+|-
+| [[Popes pagasts]]
+|-
+| [[Puzes pagasts]]
+|-
+| [[Tārgales pagasts]]
+|-
+| [[Ugāles pagasts]]
+|-
+| [[Usmas pagasts]]
+|-
+| [[Užavas pagasts]]
+|-
+| [[Vārves pagasts]]
+|-
+| [[Ziru pagasts]]
+|-
+| [[Zlēku pagasts]]
+|-
+| rowspan="5" | 106.
+| rowspan="5" | [[Viesītes novads]]
+| [[Elkšņu pagasts]]
+|-
+| [[Rites pagasts]]
+|-
+| [[Saukas pagasts]]
+|-
+| [[Viesīte]]s pilsēta
+|-
+| [[Viesītes pagasts]]
+|-
+| rowspan="7" | 107.
+| rowspan="7" | [[Viļakas novads]]
+| [[Kupravas pagasts]]
+|-
+| [[Medņevas pagasts]]
+|-
+| [[Susāju pagasts]]
+|-
+| [[Šķilbēnu pagasts]]
+|-
+| [[Vecumu pagasts]]
+|-
+| [[Viļaka]]s pilsēta
+|-
+| [[Žīguru pagasts]]
+|-
+| rowspan="4" | 108.
+| rowspan="4" | [[Viļānu novads]]
+| [[Dekšāres pagasts]]
+|-
+| [[Sokolku pagasts]]
+|-
+| [[Viļānu pagasts]]
+|-
+| [[Viļāni|Viļānu pilsēta]]
+|-
+| rowspan="4" | 109.
+| rowspan="4" | [[Zilupes novads]]
+| [[Lauderu pagasts]]
+|-
+| [[Pasienes pagasts]]
+|-
+| [[Zaļesjes pagasts]]
+|-
+| [[Zilupe]]s pilsēta
+|}
+|}
+
+==Skatīt arī==
+* [[Vikipēdija:Projekts:Pagasti|Projekts:Pagasti]]
+* [[Latvijas plānošanas reģioni]]
+
+== Atsauces ==
+{{atsauces}}
+* [http://www.likumi.lv/doc.php?id=185993 Administratīvo teritoriju un apdzīvoto vietu likums (Likumi.lv)]
+
+== Ārējās saites ==
+* [http://www.likumi.lv/doc.php?id=185993 Likumi.lv] Administratīvo teritoriju un apdzīvoto vietu likums
+* [http://web.cvk.lv/pub/public/29275.html Iedzīvotāju skaits novados]
+* [http://www.raplm.gov.lv/pub/index.php?id=38 Reģionālās attīstības un pašvaldību lietu ministrija]
+* [http://www.raplm.gov.lv/uploads/filedir/pasvaldibas/Metodiskie%20materiali/novaduRG_03.07.2009.doc Novadu veidošanas rokasgrāmata]
+
+{{Eiropas valstu administratīvie iedalījumi}}
+
+[[Kategorija:Latvijas administratīvais iedalījums| ]]
+[[Kategorija:Latvija|Administratīvais iedalījums]]
+
+[[da:Administrativ inddeling af Letland]]
+[[en:Administrative divisions of Latvia]]
+[[es:Organización territorial de Letonia]]
+[[hu:Lettország közigazgatása]]
+[[it:Suddivisioni della Lettonia]]
+[[lt:Latvijos administracinis suskirstymas]]
+[[nl:Bestuurlijke indeling van Letland (2009)]]
+[[ru:Административное деление Латвии]]

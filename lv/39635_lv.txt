@@ -1,0 +1,53 @@
+{{Infobox Settlement
+| name = Janova Lubelska
+| image_skyline = Sanktuarium Matki Bożej Różańcowej Łaskawej.jpg
+| imagesize = 300px
+| image_caption = Baznīca Janovā Lubelskā
+| image_flag = 
+| image_shield = POL Janów Lubelski COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Ļubļinas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Janovas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1640
+| area_total_km2 = 14.84
+| population_as_of = 2006
+| population_total = 11938
+| population_density_km2 = auto
+| timezone = [[Central European Time|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 50 
+| latm = 43 
+| lats = 0 
+| latNS = N 
+| longd = 22 
+| longm = 25 
+| longs = 0
+| longEW = E
+| elevation_m = 
+| website = http://www.janowlubelski.pl/ }}
+
+'''Janova Lubelska''' ({{val-pl|Janów Lubelski}}) - pilsēta [[Polija]]s austrumos, [[Ļubļinas vojevodiste|Ļubļinas vojevodistē]], uz dienvidaustrumiem no [[Krasņika]]s. Pilsētā atrodas liela slimnīca (''Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej'').
+
+{{commonscat|Janów Lubelski|Janova Lubelska}}
+
+[[Category:Ļubļinas vojevodistes pilsētas|Janova Lubelska]]
+
+[[de:Janów Lubelski]]
+[[en:Janów Lubelski]]
+[[eo:Janów Lubelski]]
+[[jv:Janów Lubelski]]
+[[nl:Janów Lubelski]]
+[[pl:Janów Lubelski]]
+[[pt:Janów Lubelski]]
+[[ro:Janów Lubelski]]
+[[ru:Янув-Любельски]]
+[[sk:Janów Lubelski]]
+[[uk:Янів-Любельський]]

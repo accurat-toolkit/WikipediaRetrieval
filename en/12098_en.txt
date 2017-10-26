@@ -1,0 +1,134 @@
+[[Image:Baltic Sea map.png|right|thumb|250px|Location of the Gulf of Finland with respect to the [[Baltic region]].]]
+The '''Gulf of Finland''' ({{lang-fi|Suomenlahti}}; {{lang-ru|Финский залив, ''Finskiy zaliv''}}; {{lang-sv|Finska viken}}; {{lang-et|Soome laht}}) is the easternmost arm of the [[Baltic Sea]] that extends between [[Finland]] (to the north) and [[Estonia]] (to the south) all the way to [[Saint Petersburg]] in [[Russia]], where the river [[Neva]] drains into it. Other major cities around the gulf include [[Helsinki]] and [[Tallinn]]. The eastern parts of the Gulf of Finland belong to Russia and some of Russia's most important oil harbours are located farthest in, near Saint Petersburg (including [[Primorsk, Leningrad Oblast|Primorsk]]). As the seaway to Saint Petersburg, the Gulf of Finland has been and continues to be of considerable strategic importance to Russia. Some of the environmental problems affecting the Baltic Sea are at their most pronounced in the shallow, [[cul-de-sac]] gulf.
+
+== Geography ==
+
+The Gulf of Finland has an area of {{convert|29500|km2|sqmi|abbr=on}}, its length is {{convert|428|km|mi|abbr=on}} and it is up to {{convert|120|km|mi|abbr=on}} wide. The width at the mouth of the gulf is {{convert|75|km|mi|abbr=on}} and the distance from [[Porkkala]] to [[Rohuneeme]], outside [[Tallinn]], is {{convert|52|km|mi|abbr=on}}. The gulf narrows in the east, eventually becoming the {{convert|10|–|28|km|mi|sing=on}} wide [[Gulf of Kronstadt]]. The largest bay on the northern coast is the [[Gulf of Vyborg]], and the [[Narva Bay]] is the largest on the south coast. [[File:Map Gulf of Finland-en.svg|thumb|300px|The south coast of the Gulf of Finland has three major bays: [[Narva Bay]], [[Luga Bay]], and [[Koporye Bay]], separated by [[Kurgalsky Peninsula|Kurgalsky]] and [[Soikinsky Peninsula]]s.]]
+
+There are several islands in the Gulf of Finland. [[Hogland]], [[Tyters]], [[Lavansaari]] and [[Seiskari]] are the largest of these, and there are countless islands along the very splintered northern shoreline all the way from the west to the Gulf of Vyborg in the east. The deepest parts of the gulf can be found at the mouth of the gulf, where there is a deep with a depth of {{convert|80|–|100|m}}. There are even depths of over {{convert|100|m|ft|spell=us}} at the southern coast, while the depth at the northern coast never exceeds {{convert|60|m|ft|spell=us}}. Much of the northern shoreline is quite shallow and rocky, making it difficult, even dangerous to navigate coastal waters there without accurate charts. The deepest point, {{convert|121|m|ft|abbr=on}}, is at the Estonian coast, just northeast of Tallinn. About 5% of the water mass in the Baltic Sea is located in the Gulf of Finland.
+
+The [[ocean current]]s tend to move clockwise on the northern hemisphere (due to the [[Coriolis effect]]), and therefore the currents are moving eastwards in near the Finnish coast, and westwards near the Estonian coast. The already low [[salinity]] (4‰) of the gulf's waters is even lower in the eastern end, since the large river [[Neva]] has its outlet there.
+
+== Environmental issues ==
+The severe [[eutrophication]] of the Gulf of Finland is the biggest problem for the sea &ndash; [[algal bloom]]s, which occur during summers, can cover large areas.
+
+==Cities and Towns==
+{|
+| width=150 |
+* [[Espoo]]
+* [[Hamina]]
+* [[Hanko]]
+* '''[[Helsinki]]'''
+| width=150 |
+* [[Kirkkonummi]]
+* [[Kotka]]
+* [[Kronstadt]]
+* [[Kunda, Estonia|Kunda]]
+* [[Loksa]]
+| width=150 |
+* [[Lomonosov, Russia|Lomonosov]]
+* [[Loviisa]]
+* [[Maardu]]
+* [[Narva-Jõesuu]]
+| width=150 |
+* [[Paldiski]]
+* [[Peterhof]]
+* [[Porvoo]]
+* [[Primorsk, Leningrad Oblast|Primorsk]]
+| width=150 |
+* '''[[Saint Petersburg]]'''
+* [[Sestroretsk]]
+* [[Sillamäe]]
+* [[Sosnovy Bor, Leningrad Oblast|Sosnovy Bor]]
+| width=150 |
+* '''[[Tallinn]]'''
+* [[Vantaa]]
+* [[Vyborg]]
+* [[Zelenogorsk, Saint Petersburg|Zelenogorsk]]
+|}
+
+== Major Islands ==
+[[Image:la2-demis-gulf-of-finland.png|thumb|right|300px|Gulf of Finland]]
+* [[Bolshoy Tyuters]] (''Tytärsaari'')
+* [[Hogland]] (''Suursaari'')
+* [[Kotlin Island]]
+* [[Lavansari]] (Lavansaari)
+* [[Naissaar]]
+* [[Grachevo]] (Seiskari)
+* [[Pakri Islands]]
+
+== See also ==
+* [[Peter the Great's Naval Fortress]]
+* [[Kven Sea]]
+
+==External links==
+* [http://earth.esa.int/showcase/env/Finland/Gulf_of_Finland_MER_FR_Orbit_07204_20030717.htm ESA satellite photograph of the Gulf of Finland]
+
+
+{{Landing stages Sestroretsk - St.-Petersburg}}
+{{List of seas}}
+
+{{coord|59|53|N|26|06|E|type:waterbody|display=title}}
+
+[[Category:Baltic Sea|Finland, Gulf of]]
+[[Category:Landforms of Finland]]
+[[Category:Landforms of Estonia]]
+[[Category:Gulfs of Russia]]
+[[Category:Karelian Isthmus]]
+[[Category:Gulfs of the Atlantic Ocean]]
+[[Category:Gulf of Finland]]
+[[Category:Landforms of Russia]]
+
+[[af:Finse Golf]]
+[[ar:خليج فنلندا]]
+[[be:Фінскі заліў]]
+[[bs:Finski zaliv]]
+[[br:Pleg-mor Finland]]
+[[bg:Фински залив]]
+[[ca:Golf de Finlàndia]]
+[[cs:Finský záliv]]
+[[cy:Gwlff y Ffindir]]
+[[da:Den Finske Bugt]]
+[[de:Finnischer Meerbusen]]
+[[et:Soome laht]]
+[[el:Φινλανδικός κόλπος]]
+[[es:Golfo de Finlandia]]
+[[eo:Finna golfo]]
+[[eu:Finlandiako Golkoa]]
+[[fa:خلیج فنلاند]]
+[[fr:Golfe de Finlande]]
+[[ga:Murascaill na Fionlainne]]
+[[gv:Lhoob Finnlynn]]
+[[gl:Golfo de Finlandia]]
+[[ko:핀란드 만]]
+[[id:Teluk Finlandia]]
+[[is:Kirjálabotn]]
+[[it:Golfo di Finlandia]]
+[[he:המפרץ הפיני]]
+[[ka:ფინეთის ყურე]]
+[[lv:Somu līcis]]
+[[lt:Suomijos įlanka]]
+[[li:Finse Golf]]
+[[hu:Finn-öböl]]
+[[ms:Teluk Finland]]
+[[mn:Финийн булан]]
+[[nl:Finse Golf]]
+[[ja:フィンランド湾]]
+[[no:Finskebukta]]
+[[nn:Finskebukta]]
+[[pl:Zatoka Fińska]]
+[[pt:Golfo da Finlândia]]
+[[ro:Golful Finlandei]]
+[[ru:Финский залив]]
+[[simple:Gulf of Finland]]
+[[sk:Fínsky záliv]]
+[[sr:Фински залив]]
+[[fi:Suomenlahti]]
+[[sv:Finska viken]]
+[[tl:Golpo ng Finland]]
+[[th:อ่าวฟินแลนด์]]
+[[tr:Finlandiya Körfezi]]
+[[uk:Фінська затока]]
+[[vi:Vịnh Phần Lan]]
+[[fiu-vro:Soomõ laht]]
+[[zh:芬蘭灣]]

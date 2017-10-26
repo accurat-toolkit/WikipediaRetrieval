@@ -1,0 +1,994 @@
+{{Otheruses}}
+{{pp-semi-vandalism|small=yes}}{{pp-move-indef}}
+{{Infobox Continent
+|image               = [[File:Europe (orthographic projection).svg|200px]]
+|area                = 10,180,000 km<sup>2</sup> (3,930,000 sq mi){{cref|o}} 
+|population          = 731,000,000{{cref|o}}
+|density             = 70/km<sup>2</sup> (181/sq mi)
+|demonym             = [[Ethnic groups in Europe|European]]
+|countries           = 50
+|list_countries      = List of European countries
+|languages           = [[Languages of Europe|List of languages]]
+|time                = [[UTC]] to [[UTC+5]]
+|internet            = [[.eu]] ([[European Union]])
+|cities              = [[List of metropolitan areas in Europe by population|List of cities]]
+}}
+
+</div><!-- --> </div>
+'''Europe''' ({{IPA-en|ˈjʊərəp|}}) is, by convention, one of the world's seven [[continent]]s. Comprising the westernmost [[peninsula]] of [[Eurasia]], Europe is generally divided from [[Asia]] to its east by the [[water divide]] of the [[Ural Mountains]], the [[Ural (river)|Ural River]], the [[Caspian Sea]], the [[Caucasus Mountains]] (or the [[Kuma-Manych Depression]]),<ref name="Encyclopedia Britannica">{{cite web|last=Encyclopedia Britannica Online Encyclopedia 2009|title="Europe"|url=http://www.britannica.com/EBchecked/topic/195686/Europe|accessdate=2009-08-21}}</ref> and the [[Black Sea]] to the southeast.<ref name="NatlGeoAtlas">{{cite book|title=National Geographic Atlas of the World|edition=7th|year=1999|location=Washington, DC|publisher=[[National Geographic Society|National Geographic]]|isbn=0-7922-7528-4}}  "Europe" (pp. 68-9); "Asia" (pp. 90-1): "A commonly accepted division between Asia and Europe ... is formed by the Ural Mountains, Ural River, Caspian Sea, Caucasus Mountains, and the Black Sea with its outlets, the Bosporus and Dardanelles."</ref>  Europe is bordered by the [[Arctic Ocean]] and other bodies of water to the north, the [[Atlantic Ocean]] to the west, the [[Mediterranean Sea]] to the south, and the [[Black Sea]] and connected waterways to the southeast. Yet the borders for Europe—a concept dating back to [[classical antiquity]]—are somewhat arbitrary, as the term ''continent'' can refer to a [[human geography|cultural and political]] distinction or a [[physical geography|physiographic]] one.
+
+Europe is the world's [[Continent#Area and population|second-smallest]] continent by surface [[area]], covering about 10,180,000&nbsp;square kilometres (3,930,000 sq mi) or 2% of the Earth's surface and about 6.8% of its land area. Of Europe's approximately 50 states, [[Russia]] is the largest by both area and population, while the [[Vatican City]] is the smallest. Europe is the third most populous continent after Asia and [[Africa]], with a [[Demographics of Europe|population]] of 731 million or about 11% of the [[World population|world's population]]; however, according to the [[United Nations]] (medium estimate), Europe's share may fall to about 7% by 2050.<ref name="UNPP 2006"/> In 1900, Europe's share of the world's population was 25%.<ref>[http://www.prb.org/Educators/TeachersGuides/HumanPopulation/PopulationGrowth.aspx?p=1 World Population Growth, 1950–2050]. Population Reference Bureau.</ref>
+
+Europe, in particular [[Ancient Greece]], is the birthplace of [[Western culture]].<ref>{{harvnb|Lewis|Wigen|1997|page=226}}</ref> It played a predominant role in global affairs from the 16th century onwards, especially after the beginning of [[colonialism]]. Between the 16th and 20th centuries, European nations controlled at various times [[European colonisation of the Americas|the Americas]], [[Colonisation of Africa|most of Africa]], [[Oceania]], and large portions of [[Asia]]. Both [[World War]]s were ignited in [[Central Europe]], greatly contributing to a decline in European dominance in world affairs by the mid-20th century as the [[United States]] and [[Soviet Union]] took prominence. During the [[Cold War]] Europe was divided along the [[Iron Curtain]] between [[NATO]] in the West and the [[Warsaw Pact]] in the East. [[European integration]] led to the formation of the [[Council of Europe]] and the [[European Union]] in [[Western Europe]], both of which have been expanding eastward since the [[History of the Soviet Union (1985–1991)|fall of the Soviet Union]] in 1991.
+
+==Definition==
+[[File:T and O map Guntherus Ziner 1472.jpg|thumb|right|A medieval [[T and O map]] from 1472 showing the division of the world into 3 continents, allocated to the three sons of [[Noah]]]]
+The use of the term "Europe" has developed gradually throughout history.<ref>{{Cite journal|title=The myth of continents: a critique of metageography|
+first=Martin W.|last= Lewis|first2= Kären|last2= Wigen|year= 1997|id=ISBN 0520207432|unused_data=|University of California Press}}</ref><ref>{{Cite book|title=The European culture area: a systematic geography|first=Terry G.|last= Jordan-Bychkov| first2=Bella Bychkova|last2= Jordan|
+publisher=Rowman & Littlefield|year= 2001|isbn=0742516288}}</ref> In antiquity, the Greek historian [[Herodotus]] mentioned that the world had been divided by unknown persons into the three [[continent]]s of Europe, Asia, and Libya (Africa), with the [[Nile]] and the [[Phasis (river)|river Phasis]] forming their boundaries &mdash; though he also states that some considered the [[Don River (Russia)|River Don]], rather than the Phasis, as the boundary between Europe and Asia.<ref>Herodotus, 4:45</ref>  [[Flavius Josephus]] and the ''[[Book of Jubilees]]'' described the continents as the lands given by [[Noah]] to his three sons; Europe was defined as between the [[Pillars of Hercules]] at [[Cadiz]], separating it from Africa, and the Don, separating it from Asia.<ref>{{Cite book|title=Genesis and the Jewish antiquities of Flavius Josephus|first= Thomas W.|last= Franxman|publisher=Pontificium Institutum Biblicum|year= 1979|isbn=8876533354|pages=101–102}}</ref> This division – as much cultural as geographical – was used until the [[Late Middle Ages]], when it was challenged by the [[Age of Discovery]].<ref>{{harvnb|Lewis|Wigen|1997|p=23–25}}</ref><ref>[http://books.google.com/books?id=jrVW9W9eiYMC&pg=PA8&dq=%22suggested+that+Europe%27s+boundary%22 Europe: A History, by Nirman Davies, p. 8]</ref> The problem of redefining Europe was finally resolved in 1730 when, instead of waterways, the [[Sweden|Swedish]] [[geographer]] and [[cartographer]] [[Philip Johan von Strahlenberg|von Strahlenberg]] proposed the [[Ural Mountains]] as the most significant eastern boundary, a suggestion that found favour in [[Tsardom of Russia|Russia]] and throughout Europe.<ref>{{harvnb|Lewis|Wigen|1997|p=27–28}}</ref>
+
+Europe is now generally defined by geographers as the westernmost [[peninsula]] of Eurasia, with its boundaries marked by large bodies of water to the north, west and south; Europe's limits to the far east are usually taken to be the Urals, the [[Ural (river)|Ural River]], and the [[Caspian Sea]]; to the southeast, the [[Caucasus Mountains]], the [[Black Sea]] and the waterways connecting the Black Sea to the Mediterranean Sea.<ref name="Encarta">{{cite web|last=Microsoft Encarta Online Encyclopedia 2007|title="Europe"|url=http://encarta.msn.com/encyclopedia_761570768/Europe.html|accessdate=2007-12-27|archiveurl=http://www.webcitation.org/5kwbxqnne|archivedate=2009-10-31|deadurl=yes}}</ref> Sometimes, the word 'Europe' is used in a geopolitically-limiting way<ref>See, e.g., Merje Kuus, [http://phg.sagepub.com/cgi/content/abstract/28/4/472 'Europe's eastern expansion and the reinscription of otherness in East-Central Europe'] ''Progress in Human Geography'', Vol. 28, No. 4, 472–489 (2004), József Böröcz, [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1082435 'Goodness Is Elsewhere: The Rule of European Difference'], ''Comparative Studies in Society and History'', 110–36, 2006, or [http://www.ceupress.com/books/html/OnTheEast-WestSlope.htm Attila Melegh, ''On the East-West Slope: Globalization, nationalism, racism and discourses on Central and Eastern Europe''], Budapest: Central European University Press, 2006.</ref> to refer only to the European Union or, even more exclusively, a culturally-defined core.  On the other hand, the [[Council of Europe]] has 47 member countries, and only 27 member states are in the EU.<ref>{{cite web|url=http://www.coe.int/T/e/Com/about_coe/|title=About the Council of Europe|publisher=Council of Europe|accessdate=2008-06-09}}</ref>  In addition, people living in insular areas such as [[Republic of Ireland|Ireland]], the [[United Kingdom]], the [[North Atlantic]] and [[Mediterranean]] islands and also in [[Scandinavia]] may routinely refer to [[Continental Europe|"continental" or "mainland" Europe]] simply as Europe or "the Continent".<ref>{{cite web|url=http://wordnet.princeton.edu/perl/webwn?s=europe|title=Europe&nbsp;— Noun|publisher=Princeton University|accessdate=2008-06-09}}</ref>
+
+<small>Clickable map of Europe, showing one of the most commonly used geographical boundaries<ref> The map shows one of the most commonly accepted delineations of the geographical boundaries of Europe, as used by [[National Geographic]] and [[Encyclopedia Britannica]]. Whether countries are considered in Europe or Asia can vary in sources, for example in the classification of the [[CIA World Factbook]] or that of the [[BBC]].</ref> (legend:
+<font color="blue">'''blue'''</font> = [[transcontinental country#Asia and Europe|states in both Europe and Asia]]; <font color="green">'''green'''</font> = sometimes included within Europe but geographically outside Europe's boundaries)</small>
+{{Europe and Sea}}
+
+==Etymology==
+{{wiktionary|Europe}}
+In ancient [[Greek mythology]], [[Europa (mythology)|Europa]] was a [[Phoenicia]]n princess whom [[Zeus]] abducted after assuming the form of a dazzling white bull. He took her to the island of [[Crete]] where she gave birth to [[Minos]], [[Rhadamanthus]] and [[Sarpedon]]. For [[Homer]], Europe ([[Greek language|Greek]]: {{polytonic|Εὐρώπη}}, ''{{Unicode|Eurṓpē}}''; see also [[List of traditional Greek place names]]) was a mythological queen of Crete, not a geographical designation. Later, ''Europa'' stood for [[Geography of Greece|central-north Greece]], and by 500 BC its meaning had been extended to the lands to the north.
+
+The name of ''Europa'' is of uncertain etymology.<ref>Minor theories, such as the (probably folk-etymological) one deriving Europa from ''ευρως'' "mould" aren't discussed in the section</ref> One theory suggests that it is derived from the [[Greek language|Greek roots]] meaning broad (''eur-'') and eye (''op-'', ''opt-''), hence ''{{Unicode|Eurṓpē}}'', "wide-gazing", "broad of aspect" (compare with [[Athena#Cult and attributes|''glauk'''ōp'''is'' (grey-eyed) Athena]] or [[Hera|''bo'''ōp'''is'' (ox-eyed) Hera]]). ''Broad'' has been an [[epithet]] of [[Earth]] itself in the reconstructed [[Proto-Indo-European religion]].<ref>{{cite book |author=M. L. West |title=Indo-European poetry and myth |publisher=Oxford University Press |location=Oxford [Oxfordshire] |year=2007 |pages=178–179 |isbn=0-19-928075-4 |oclc= |doi= |accessdate=}}</ref> Another theory suggests that it is actually based on a [[Semitic]] word such as the [[Akkadian language|Akkadian]] ''erebu'' meaning "to go down, set" (cf. [[Occident]]),<ref name="Etymonline: European">{{cite web| url=http://www.etymonline.com/index.php?term=European| title=Etymonline: European| accessdate=2006-09-10}}</ref> [[cognate]] to Phoenician '' 'ereb'' "evening; west" and Arabic [[Maghreb]], Hebrew ''ma'ariv'' (see also ''[[Erebus]]'', [[Proto-Indo-European language|PIE]] ''*h<sub>1</sub>regʷos'', "darkness"). However, M. L. West states that "phonologically, the match between Europa's name and any form of the Semitic word is very poor".<ref>{{cite book |author=M. L. West |title=The east face of Helicon: west Asiatic elements in Greek poetry and myth |publisher=Clarendon Press |location=Oxford |year=1997 |pages=451 |isbn=0-19-815221-3 |oclc= |doi= |accessdate=}}</ref>
+
+Most major world languages use words derived from "Europa" to refer to the continent. Chinese, for example, uses the word ''{{Unicode|Ōuzhōu}}'' (歐洲), which is an abbreviation of the transliterated name ''{{Unicode|Ōuluóbā zhōu}}'' (歐羅巴洲); however, in some [[Turkic languages]] the name ''Frengistan'' (land of the [[Franks]]) is used casually in referring to much of Europe, besides official names such as ''Avrupa'' or ''Evropa''.<ref name="davison">{{cite journal |author=Davidson, Roderic H. |title=Where is the Middle East? |journal=Foreign Affairs |volume=38 |pages=665–675 |year=1960}}</ref>
+
+==History==
+{{Main|History of Europe}}
+
+===Prehistory===
+{{Main|Prehistoric Europe}}
+[[Image:Stonehenge back wide.jpg|thumb|180px|left|[[Stonehenge]]]]
+[[File:Ggantija Temples (1).jpg|thumb|180px|right|[[Ġgantija]], [[Malta Island|Malta]]]]
+''[[Homo georgicus]]'', which lived roughly 1.8 million years ago in [[Georgia (country)|Georgia]], is the earliest [[hominid]] to have been discovered in Europe.<ref>{{cite journal | author = A. Vekua, D. Lordkipanidze, G. P. Rightmire, J. Agusti, R. Ferring, G. Maisuradze, et al. | year = 2002 | title = A new skull of early ''Homo'' from Dmanisi, Georgia | journal = Science | volume = 297 | pages = 85–9 | doi = 10.1126/science.1072953 | pmid = 12098694}}</ref> Other hominid remains, dating back roughly 1 million years, have been discovered in [[Atapuerca]], [[Spain]].<ref>[http://news.bbc.co.uk/1/hi/sci/tech/6256356.stm The million year old tooth from [[Atapuerca Mountains|Atapuerca]], [[Spain]], found in June 2007]</ref> [[Neanderthal man]] (named for the [[Neander Valley]] in [[Germany]]) first migrated to Europe 150,000 years ago and disappeared from the fossil record about 30,000 years ago. The Neanderthals were supplanted by modern humans ([[Cro-Magnons]]), who appeared around 40,000 years ago.<ref name="natgeo 21">National Geographic, 21.</ref>
+
+During the [[European Neolithic]], a period of [[megalith]] construction took place, with many megalithic monuments such as [[Stonehenge]]<ref>[[Richard J. C. Atkinson|Atkinson]], R J C, ''Stonehenge'' (Penguin Books, 1956)</ref> and the [[Megalithic Temples of Malta|Megalithic Temples]] being constructed throughout Western and Southern Europe.<ref>{{Cite book|title=Encyclopedia of Prehistory|first=Peter Neal|last= Peregrine|fisrt2= Melvin|last2= Ember|publisher=Springer|year= 2001
+|isbn=0306462583|pages=157–184}}, European Megalithic</ref> The [[Corded ware]] cultural horizon flourished at the transition from the Neolithic to the [[Chalcolithic]]. The [[European Bronze Age]] began in the late 3rd millennium BC with the [[Beaker culture]].
+
+The [[European Iron Age]] began around 800 BC, with the [[Hallstatt culture]]. Iron Age colonisation by the [[Phoenicians]] gave rise to early [[mediterranean basin|Mediterranean]] cities. Early Iron Age [[Iron Age Italy|Italy]] and [[Archaic Greece|Greece]] from around the 8th century BC gradually gave rise to historical [[Classical Antiquity]].
+
+===Classical antiquity===
+{{Main|Classical Antiquity}}
+{{Seealso|Ancient Greece|Ancient Rome}}
+[[File:Temple of Apollo (2c).jpg|thumb|left|The Greek Temple of Apollo, [[Paestum]], [[Italy]]]]
+[[Ancient Greece]] had a profound impact on Western civilisation. Western [[democracy|democratic]] and [[individualism|individualistic]] [[culture]] are often attributed to Ancient Greece.<ref name="natgeo 76">National Geographic, 76.</ref> The Greeks invented the [[polis]], or city-state, which played a fundamental role in their concept of identity.<ref name="natgeo 82">National Geographic, 82.</ref> These Greek political ideals were rediscovered in the late 18th century by European philosophers and idealists. Greece also generated many cultural contributions: in [[philosophy]], [[humanism]] and [[rationalism]] under [[Aristotle]], [[Socrates]], and [[Plato]]; in [[historiography|history]] with [[Herodotus]] and [[Thucydides]]; in dramatic and narrative verse, starting with the epic poems of [[Homer]];<ref name="natgeo 76"/> and in [[science]] with [[Pythagoras]], [[Euclid]], and [[Archimedes]].<ref>{{Harvard reference| first=Thomas Little | last=Heath| authorlink= T. L. Heath| title=A History of Greek Mathematics, Volume I| publisher=Dover publications| year=1981| isbn=0486240738}}</ref><ref>{{Harvard reference| first=Thomas Little| last=Heath| authorlink= T. L. Heath| title=A History of Greek Mathematics, Volume II| publisher=Dover publications| year=1981| isbn=0486240746}}</ref><ref>Pedersen, Olaf. ''Early Physics and Astronomy: A Historical Introduction''. 2nd edition. Cambridge: Cambridge University Press, 1993. </ref>
+[[File:Roman Empire map.svg|thumb|right|The [[Roman Empire]] at its greatest extent]]
+Another major influence on Europe came from the [[Roman Empire]] which left its mark on [[Roman law|law]], [[Latin|language]], [[Roman engineering|engineering]], [[Roman architecture|architecture]], and [[centralised government|government]].<ref name="natgeo 77">National Geographic, 76–77.</ref> During the ''[[pax romana]]'', the Roman Empire expanded to encompass the entire [[Mediterranean Basin]] and much of Europe.<ref name = "mieawl">{{Cite book|last=McEvedy|first=Colin|title=The Penguin Atlas of Medieval History|publisher=Penguin Books|year=1961}}</ref> [[Stoicism]] influenced emperors such as [[Hadrian]], [[Antoninus Pius]], and [[Marcus Aurelius]], who all spent time on the Empire's northern border fighting [[Germanic peoples|Germanic]], [[Picts|Pictish]] and [[Scottish people|Scottish]] tribes.<ref name="natgeo 123">National Geographic, 123.</ref><ref> Foster, Sally M., ''Picts, Gaels, and Scots: Early Historic Scotland.'' Batsford, London, 2004. ISBN 0-7134-8874-3</ref> [[Christianity]] was eventually [[Constantine I and Christianity|legitimised]] by [[Constantine I]] after three centuries of [[Persecution of early Christians in the Roman Empire|imperial persecution]].
+
+===Early Middle Ages===
+{{Main|Late Antiquity|Early Middle Ages}}
+{{Seealso|Dark Ages|Age of Migrations}}
+[[File:Rolandfealty.jpg|thumb|right|[[Roland]] pledges [[fealty]] to [[Charlemagne]], [[Holy Roman Emperor]].]]
+During the [[decline of the Roman Empire]], Europe entered a long period of change arising from what historians call the "[[Age of Migrations]]". There were numerous invasions and migrations amongst the [[Ostrogoths]], [[Visigoths]], [[Goths]], [[Vandals]], [[Huns]], [[Franks]], [[Angles]], [[Saxons]], and, later still, the [[Vikings]] and [[Normans]].<ref name = "mieawl"/> Renaissance thinkers such as [[Petrarch]] would later refer to this as the "[[Dark Ages]]".<ref>, ''Journal of the History of Ideas'', Vol. 4, No. 1. (Jan., 1943), pp. 69–74. </ref> Isolated monastic communities were the only places to safeguard and compile written knowledge accumulated previously; apart from this very few written records survive and much literature, philosophy, mathematics, and other thinking from the classical period disappeared from Europe.<ref>[[Norman Cantor|Norman F. Cantor]], ''The Medieval World 300 to 1300''.</ref>
+
+During the Dark Ages, the [[Western Roman Empire]] fell under the control of Celtic, Slavic and Germanic tribes. The Celtic tribes established their kingdoms in [[Gaul]], the predecessor to the Frankish kingdoms that eventually became [[France]].<ref name="natgeo 140">National Geographic, 140</ref> The Germanic and Slav tribes established their domains over Central and Eastern Europe respectively.<ref name="natgeo 143">National Geographic, 143–145.</ref> Eventually the [[Franks|Frankish tribes]] were united under [[Clovis&nbsp;I]].<ref name="natgeo 162">National Geographic, 162.</ref> [[Charlemagne]], a Frankish king of the [[Carolingian]] dynasty who had conquered most of Western Europe, was anointed "Holy Roman Emperor" by the Pope in 800. This led to the founding of the [[Holy Roman Empire]], which eventually became centred in the German principalities of central Europe.<ref name="natgeo 166">National Geographic, 166.</ref>
+
+The [[Eastern Roman Empire]] became known in the west as the [[Byzantine Empire]]. Its capital was [[Constantinople]]. Emperor [[Justinian I]] presided over Constantinople's first golden age: he established a [[Code of Justinian|legal code]], funded the construction of the [[Hagia Sophia]] and brought the Christian church under state control.<ref name="natgeo 135">National Geographic, 135.</ref> Fatally weakened by the sack of Constantinople during the [[Fourth Crusade]], the Byzantines fell in 1453 when they were conquered by the [[Ottoman Empire]].<ref name="natgeo 211">National Geographic, 211.</ref>
+
+===Middle Ages===
+{{Main|High Middle Ages|Late Middle Ages|Middle Ages}}
+{{See also|Medieval demography}}
+[[File:Richard3.jpg|thumbnail|left| [[Richard I]] and [[Philip II of France|Philip II]], during the [[Third Crusade]]]]
+The Middle Ages were dominated by the two upper echelons of the social structure: the nobility and the clergy. Feudalism developed in [[France]] in the [[Early Middle Ages]] and soon spread throughout Europe.<ref name="natgeo 158">National Geographic, 158.</ref> The struggle between the nobility and the monarchy in England led to the writing of the [[Magna Carta]] and the establishment of a [[parliament]].<ref name="natgeo 186">National Geographic, 186.</ref> The primary source of culture in this period came from the [[Roman Catholic Church]]. Through monasteries and cathedral schools, the Church was responsible for education in much of Europe.<ref name="natgeo 158"/>
+
+The [[Papacy]] reached the height of its power during the High Middle Ages. The [[East-West Schism]] in 1054 split the former Roman Empire religiously, with the [[Eastern Orthodox Church]] in the [[Byzantine Empire]] and the [[Roman Catholic Church]] in the former Western Roman Empire. In 1095 [[Pope Urban II]] called for a [[Crusades|crusade]] against [[Muslims]] occupying [[Jerusalem]] and the [[Holy Land]].<ref name="natgeo 192">National Geographic, 192.</ref> In Europe itself, the Church organised the [[Inquisition]] against heretics. In [[Spain]], the [[Reconquista]] concluded with the fall of [[Granada]] in 1492, ending over seven centuries of Muslim rule in the [[Iberian Peninsula]].<ref name="natgeo 199">National Geographic, 199.</ref>
+[[File:Battle of crecy froissart.jpg|thumb|The [[Battle of Crécy]] in 1346, from a manuscript of [[Jean Froissart]]'s [[Froissart's Chronicles|''Chronicles'']]; the battle established England as a military power.]]
+In the 11th and 12th centuries, constant incursions by nomadic [[Turkic peoples|Turkic]] tribes, such as the [[Pechenegs]] and the [[Kipchaks]], caused a massive migration of [[Slavic peoples|Slavic]] populations to the safer, heavily forested regions of the north.<ref name="Klyuch1">{{cite book|last=Klyuchevsky|first=Vasily|title=The course of the Russian history|location=v.1|url=http://www.kulichki.com/inkwell/text/special/history/kluch/kluch16.htm|isbn=5-244-00072-1|year=1987|publisher="Myslʹ}}</ref> Like many other parts of [[Eurasia]], these territories were [[Mongol invasion of Rus|overrun by the Mongols]].<ref>{{citeweb|url=https://tspace.library.utoronto.ca/citd/RussianHeritage/4.PEAS/4.L/12.III.5.html |title=The Destruction of Kiev|publisher=University of Toronto|accessdate=2008-06-10}}</ref> The invaders, later known as [[Tatars]], formed the state of the [[Golden Horde]], which ruled the southern and central expanses of [[Russia]] for over three centuries.<ref>{{cite web|url=http://www.accd.edu/sac/history/keller/Mongols/states3.html|title=Khanate of the Golden Horde (Kipchak)|publisher=Alamo Community Colleges|accessdate=2008-06-10}}</ref>
+
+The [[Great Famine of 1315–1317]] was the first [[Crisis of the Late Middle Ages|crisis]] that would strike Europe in the late Middle Ages.<ref>[http://www.oglethorpe.edu/faculty/%7Eb_smith/ou/bs_foundations_chapter9.htm The Late Middle Ages]. Oglethorpe University.</ref> The period between 1348 and 1420 witnessed the heaviest loss. The population of [[France in the Middle Ages|France]] was reduced by half.<ref>Baumgartner, Frederic J. ''France in the Sixteenth Century.'' London: Macmillan, 1995. ISBN 0333620887.</ref><ref>Don O'Reilly. "[http://www.historynet.com/magazines/military_history/3031536.html Hundred Years' War: Joan of Arc and the Siege of Orléans]". ''TheHistoryNet.com''.</ref> Medieval Britain was afflicted by 95 famines,<ref>[http://www.telegraph.co.uk/opinion/main.jhtml?xml=/opinion/2004/08/08/do0809.xml&sSheet=/opinion/2004/08/08/ixop.html Poor studies will always be with us]. By James Bartholomew. Telegraph. August 7. 2004.</ref> and France suffered the effects of 75 or more in the same period.<ref>[http://www.britannica.com/EBchecked/topic/201392/famine Famine]. Encyclopædia Britannica.</ref> Europe was devastated in the mid-14th century by the [[Black Death]], one of the most deadly [[pandemic]]s in human history which killed an estimated 25 million people in Europe alone&nbsp;— a third of the [[Medieval demography|European population]] at the time.<ref>{{cite web |url=http://science.nationalgeographic.com/science/health-and-human-body/human-diseases/plague-article.html |title=Plague, Plague Information, Black Death Facts, News, Photos{{–}} National Geographic |publisher=Science.nationalgeographic.com |date= |accessdate=2008-11-03}}</ref> This had a devastating effect on Europe's social structure; it induced people to live for the moment as illustrated by [[Giovanni Boccaccio]] in ''[[The Decameron]]'' (1353). It was a serious blow to the [[Roman Catholic Church]] and led to increased [[persecution of Jews]], foreigners, [[beggars]] and [[leper]]s.<ref name="natgeo 223">National Geographic, 223.</ref> The plague is thought to have returned every generation with varying [[virulence]] and mortalities until the 1700s.<ref>{{cite web |url=http://www.infoplease.com/cig/dangerous-diseases-epidemics/bubonic-plague.html |title=Epidemics of the Past: Bubonic Plague&nbsp;— Infoplease.com |publisher=Infoplease.com |date= |accessdate=2008-11-03}}</ref> During this period, more than 100 plague [[List of epidemics|epidemics]] swept across Europe.<ref name="Revill">{{cite web |url=http://www.guardian.co.uk/uk/2004/may/16/health.books |title=Black Death blamed on man, not rats &#124; UK news &#124; The Observer |publisher=The Observer |author=Jo Revill |date= |accessdate=2008-11-03}}</ref>
+
+===Early modern period===
+{{Main|Early modern period}}
+{{Seealso|Renaissance|Protestant Reformation|Scientific Revolution|Age of Discovery}}
+[[File:Raffael 058.jpg|thumb|[[School of Athens|The School of Athens]] by [[Raphael]]: Contemporaries such as [[Michelangelo]] and [[Leonardo da Vinci]] (centre) are portrayed as classical scholars]]
+The [[Renaissance]] was a period of cultural change originating in Italy in the fourteenth century. The rise of a [[Renaissance humanism|new humanism]] was accompanied by the recovery of forgotten [[Renaissance#Assimilation of Greek and Arabic knowledge|classical and Arabic knowledge]] from monastic libraries and the Islamic world.<ref name="natgeo 159">National Geographic, 159.</ref><ref>[[Roberto Weiss|Weiss, Roberto]] (1969) ''The Renaissance Discovery of Classical Antiquity'', ISBN 1-597-40150-1</ref><ref>{{cite book|author=[[Jacob Burckhardt]]|origyear=1878|url=http://www.boisestate.edu/courses/hy309/docs/burckhardt/burckhardt.html|title=The Civilization of the Renaissance in Italy|edition=translation by S.G.C Middlemore|year=1990|isbn=0-14-044534-X|publisher=Penguin Books|location=London, England}}</ref> The Renaissance spread across Europe between the 14th and 16th centuries: it saw the flowering of art, philosophy, music, and the sciences, under the joint patronage of royalty, the nobility, the Roman Catholic Church, and an emerging merchant class.<ref name="natgeo 254">National Geographic, 254.</ref><ref>Jensen, De Lamar (1992), ''Renaissance Europe'', ISBN 0-395-88947-2</ref><ref>{{Cite book|last=Levey|first=Michael|title=Early Renaissance|publisher=Penguin Books|year=1967}}</ref> Patrons in Italy, including the [[Medici]] family of [[Florence|Florentine]] bankers and the [[Pope]]s in [[Rome]], funded prolific [[quattrocento]] and [[cinquecento]] artists such as [[Raphael]], [[Michelangelo]], and [[Leonardo da Vinci]].<ref name="natgeo 292">National Geographic, 292.</ref><ref>{{Cite book|last=Levey|first=Michael|title=High Renaissance|publisher=Penguin Books|year=1971}}</ref>
+
+Political intrigue within the Church in the mid-14th century caused the [[Western Schism|Great Schism]]. During this forty-year period, two popes—one in [[Avignon]] and one in [[Rome]]—claimed rulership over the Church. Although the schism was eventually healed in 1417, the papacy's spiritual authority had suffered greatly.<ref name="natgeo 193">National Geographic, 193.</ref> The Church's power was further weakened by the [[Protestant Reformation]] of [[Martin Luther]], a result of the lack of reform within the Church. The Reformation also damaged the Holy Roman Empire's power, as German princes became divided between Protestant and Roman Catholic faiths.<ref name="natgeo 256">National Geographic, 256–257.</ref> This eventually led to the [[Thirty Years War]] (1618–1648), which crippled the Holy Roman Empire and devastated much of [[Early Modern history of Germany|Germany]], killing between 25 and 40% of its population.<ref>[http://www.britannica.com/EBchecked/topic/195896/history-of-Europe/58335/Demographics#ref=ref310375 History of Europe – Demographics]. Encyclopædia Britannica.</ref> In the aftermath of the [[Peace of Westphalia]], [[France]] rose to predominance within Europe.<ref name="natgeo 269">National Geographic, 269.</ref> The 17th century in southern and eastern Europe was a period of general decline.<ref>{{cite web|url=http://libro.uca.edu/payne1/payne15.htm|title=The Seventeenth-Century Decline|accessdate=2008-08-13|publisher=The Library of Iberian resources online}}</ref>
+[[File:Vienna Battle 1683.jpg|thumb|left|[[Battle of Vienna]] in 1683 broke the advance of the [[Ottoman Empire]] into Europe]]
+
+The Renaissance and the [[New Monarchs]] marked the start of an [[Age of Discovery]], a period of exploration, invention, and scientific development. In the 15th century, [[Portugal]] and [[Spain]], two of the greatest naval powers of the time, took the lead in exploring the world.<ref>{{Cite book|last=John Morris Roberts|title=Penguin History of Europe|year=1997|publisher=Penguin Books|isbn=0140265619}}</ref><ref name="natgeo 296">National Geographic, 296.</ref> [[Christopher Columbus]] reached the [[New World]] in 1492, and soon after the Spanish and Portuguese began establishing colonial empires in the Americas.<ref name="natgeo 338">National Geographic, 338.</ref> [[France]], the [[Netherlands]] and [[England]] soon followed in building large colonial empires with vast holdings in [[Africa]], [[the Americas]], and [[Asia]].
+
+===18th and 19th centuries===
+{{Main|Modern history}}
+{{Seealso|Industrial Revolution|French Revolution|Age of Enlightenment}}
+The [[Age of Enlightenment]] was a powerful intellectual movement of the eighteenth century in which scientific and reason-based thought predominated.<ref>{{Cite book|last=Goldie|first=Mark|last2= Wokler|first2=Robert |title=The Cambridge History of Eighteenth-Century Political Thought|publisher=Cambridge University Press|year=2006|isbn=0521374227}}</ref><ref>{{Cite book|last=Cassirer|first=Ernst |title=The Philosophy of the Enlightenment|publisher=Princeton University Press|year=1979|isbn=0691019630}}</ref><ref name="natgeo 255">National Geographic, 255.</ref> Discontent with the aristocracy and clergy's monopoly on political power in France resulted in the [[French Revolution]] and the establishment of the [[French First Republic|First Republic]]: the monarchy and many of the nobility perished during the initial [[reign of terror]].<ref>{{Cite book|last=Schama|first=Simon|publisher=Knopf|title=Citizens: a chronicle of the French revolution|year=1989|isbn=0394559487}}</ref> [[Napoleon I of France|Napoleon Bonaparte]] rose to power in the aftermath of the French Revolution and established the [[First French Empire]] that, during the [[Napoleonic Wars]], grew to encompass large parts of Europe before collapsing in 1815 with the [[Battle of Waterloo]].<ref name="natgeo 360">National Geographic, 360.</ref><ref>{{Cite book|last=McEvedy|first=Colin|title=The Penguin Atlas of Modern History|publisher=Penguin Books|year=1972|isbn=0140511539}}</ref>
+
+[[File:Marshall's flax-mill, Holbeck, Leeds - interior - c.1800.jpg|thumb|right|The [[Industrial Revolution]] started in [[Kingdom of Great Britain|Great Britain]]]]
+[[Napoleonic Empire|Napoleonic rule]] resulted in the further dissemination of the ideals of the French Revolution, including that of [[nation-state]], as well as the widespread adoption of the French model for [[centralised government|administration]], [[Napoleonic code|law]] and [[Education in France|education]].<ref>{{Cite book|last=Lyons|first=Martyn|publisher= St. Martin's Press|year= 1994|isbn=0312121237|title=Napoleon Bonaparte and the legacy of the French Revolution}} </ref><ref>{{Cite book|last=Grab|first=Alexander|title=Napoleon and the Transformation of Europe (European History in Perspective) |publisher=Palgrave MacMillan|year=2003|id=ISBN-0-33-68275-0}}</ref><ref name="natgeo 350">National Geographic, 350.</ref> The [[Congress of Vienna]] was convened after Napoleon's downfall. It established a new balance of power in Europe centred on the five "[[great power]]s": the [[United Kingdom]], [[France]], [[Prussia]], [[Austrian Empire|Habsburg Austria]] and [[Russia]].<ref name="natgeo 367">National Geographic, 367.</ref> This balance would remain in place until the [[Revolutions of 1848]], during which liberal uprisings affected all of Europe except for Russia and Great Britain. The revolutions were eventually put down by more conservative elements and few reforms resulted.<ref name="natgeo 371">National Geographic, 371–373.</ref> In 1867 the [[Austro-Hungarian empire]] was [[Ausgleich|formed]]; and 1871 saw the unifications of both [[Italian unification|Italy]] and [[Unification of Germany|Germany]] as [[nation-states]] from smaller principalities.<ref>{{Cite book|last=Davies|first=Norman|title=Europe: A History|publisher=Oxford University Press| year=1996|isbn=0198201710}}
+</ref>
+
+The [[Industrial Revolution]] started in [[Kingdom of Great Britain|Great Britain]] in the last part of the 18th century and spread throughout Europe. The invention and implementation of new technology resulted in rapid urban growth, mass employment and the rise of a new working class.<ref>{{Cite book|first=George Macaulay|last=Trevelyan|title=A shortened history of England|publisher=Penguin Books|year=1988|isbn=0-14-010241-8}}</ref> Reforms in social and economic spheres followed, including the [[Factory Acts|first laws]] on [[child labor|child labour]], the legalisation of [[Trade Union]]s<ref>{{Cite book|last= Beatrice|first= Webb | title=History of Trade Unionism | publisher= AMS Press | year=1976 | isbn=0404068855}}</ref> and the [[abolition of slavery]].<ref>[http://www.britannica.com/blackhistory/article-24160 Slavery], ''Historical survey > Ways of ending slavery'', Encyclopædia Britannica</ref> In [[United Kingdom|Britain]] the [[Public Health Act 1875]] was passed, which significantly improved living conditions in many British cities.<ref>{{Cite book|first=George Macaulay|last=Trevelyan|title=English Social History|publisher=Longmans, Green|year=1942}}</ref> [[Demographics of Europe|Europe’s population]] doubled during the 18th century, from roughly 100 million to almost 200 million, and doubled again during the 19th century.<ref>[http://www.britannica.com/EBchecked/topic/387301/modernization/12022/Population-change Modernization - Population Change]. ''Encyclopædia Britannica''.</ref> In the 19th century 70 million people left Europe.<ref>[http://migration.ucdavis.edu/mn/more.php?id=1118_0_5_0 The Atlantic: Can the US afford immigration?]. ''Migration News''. December 1996.</ref>
+
+===20th century to present===
+{{Main|Modern era|History of Europe}}
+{{Seealso|World War I|Great Depression|World War II|Cold War|History of the European Union}}
+[[File:WWI end.jpg|thumb|right|European military alliances during WWI: [[Central Powers]] purplish-red, [[Allies of World War I|Entente powers]] grey and neutral countries yellow]]
+Two World Wars and an economic depression dominated the first half of the 20th century. [[World War I]] was fought between 1914 and 1918. It started when [[Archduke Franz Ferdinand of Austria]] was assassinated by the [[Serbs of Bosnia and Herzegovina|Bosnian Serb]] [[Gavrilo Princip]].<ref name="natgeo 407">National Geographic, 407.</ref> Most European nations were drawn into the war, which was fought between the [[Entente Powers]] ([[French Third Republic|France]], [[Belgium]], [[Serbia]], [[Portugal]], [[Russian Empire|Russia]], the [[United Kingdom]], and later [[Italy]], [[Greece]], [[Romania]], and the [[United States]]) and the [[Central Powers]] ([[Austria-Hungary]], [[German Empire|Germany]], [[Bulgaria]], and the [[Ottoman Empire]]). The War left around 40 million civilians and military dead.<ref name="natgeo 440">National Geographic, 440.</ref> Over 60 million European soldiers were mobilised from 1914–1918.<ref>{{cite web|url=http://www.jimmyatkinson.com/papers/versaillestreaty.html|title=The Treaty of Versailles and its Consequences|accessdate=2008-06-10|publisher=James Atkinson}}</ref> Partly as a result of its defeat Russia was plunged into the [[Russian Revolution (1917)|Russian Revolution]], which threw down the [[Russian Empire|Tsarist monarchy]] and replaced it with the [[communist]] [[Soviet Union]].<ref name="natgeo 480">National Geographic, 480.</ref> [[Austria-Hungary]] and the [[Ottoman Empire]] collapsed and broke up into separate nations, and many other nations had their borders redrawn. The [[Treaty of Versailles]], which officially ended [[World War I]] in 1919, was harsh towards [[Germany]], upon whom it placed full responsibility for the war and imposed heavy sanctions.<ref name="natgeo 443">National Geographic, 443.</ref>
+
+Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s. This and the [[Wall Street Crash of 1929]] brought about the worldwide [[Great Depression]]. Helped by the economic crisis, social instability and the threat of communism, [[Fascism|fascist movements]] developed throughout Europe placing [[Adolf Hitler]] of [[Nazi Germany]], [[Francisco Franco]] of [[Spain]] and [[Benito Mussolini]] of [[Italy]] in power.<ref> {{Cite book|last=Hobsbawm|first=Eric|publisher=Vintage|year=1995|id=ISBN-978--0-73005-7|unused_data=|The Age of Extremes: A history of the world, 1914–1991}}</ref><ref name="natgeo 438">National Geographic, 438.</ref>
+
+[[File:Yalta summit 1945 with Churchill, Roosevelt, Stalin.jpg|thumb|left|The "[[Allies of World War II|Big Three]]" at the [[Yalta Conference]] in 1945; seated (from the left): [[Winston Churchill]], [[Franklin D. Roosevelt]], and [[Joseph Stalin]]]]
+In 1933, Hitler became the leader of Germany and began to work towards his goal of building Greater Germany. Germany re-expanded and took back the [[Saarland]] and [[Rhineland]] in 1935 and 1936. In 1938, [[Austria]] became a part of Germany too, following the [[Anschluss]]. Later that year, Germany annexed the German [[Sudetenland]], which had become a part of [[Czechoslovakia]] after the war. This move was highly contested by the other powers, but ultimately permitted in the hopes of avoiding war and [[appeasement|appeasing]] Hitler. Shortly afterwards, Poland and Hungary started to press for the annexation of parts of Czechoslovakia with Polish and Hungarian majorities. Hitler encouraged the Slovaks to do the same and in early 1939, the remainder of Czechoslovakia was split into the [[Protectorate of Bohemia and Moravia]], controlled by Germany, and the [[Slovak Republic (1939–1945)|Slovak Republic]], while other smaller regions went to Poland and Hungary. With tensions mounting between Germany and Poland over the future of [[Danzig]], the Germans turned to the Soviets, and signed an important [[Molotov-Ribbentrop Pact|pact]]. Germany [[Invasion of Poland (1939)|invaded Poland]] on 1 September 1939, prompting France and the United Kingdom to declare war on Germany on 3 September.<ref name="natgeo 465">National Geographic, 465.</ref><ref>{{Cite book|last=Taylor|first=A.J.P.|title= The Origins of the Second World War|date=1996|publisher=Simon & Schuster| isbn=0684829479}}</ref> The [[Soviet invasion of Poland]] started on 17 September and Poland fell soon thereafter.
+[[Image:Soviet soldiers moving at Stalingrad2.jpg|thumb|[[Red Army|Soviet soldiers]] in the [[Battle of Stalingrad]]. The battle was the bloodiest in the history of warfare, with combined casualties estimated at nearly two million.]]
+On 24 September, the Soviet Union attacked the [[Occupation of the Baltic states|Baltic countries]] and later, Finland. The British hoped to land at Narvik and send troops to aid Finland, but their primary objective in the landing was to encircle Germany and cut the Germans off from Scandinavian resources. Nevertheless, the Germans knew of Britain's plans and got to Narvik first, repulsing the attack. Around the same time, Germany moved troops into Denmark, which left no room for a front except for where the last war had been fought or by landing at sea. The [[Phoney War]] continued.
+
+In May 1940, Germany attacked France through the Low Countries. France capitulated in June 1940. However, the British refused to negotiate peace terms with the Germans and the war continued. By August, Germany began a [[Battle of Britain|bombing offensive on Britain]], but failed to convince the Britons to give up.<ref name="natgeo 510">National Geographic, 510.</ref> In 1941, Germany invaded the Soviet Union in the ultimately unsuccessful [[Operation Barbarossa]].<ref name="natgeo 532">National Geographic, 532.</ref> On 7 December 1941 [[Empire of Japan|Japan's]] [[attack on Pearl Harbor]] drew the United States into the conflict as allies of the [[British Empire]] and other [[Allies of World War II|allied]] forces.<ref name="natgeo 511">National Geographic, 511.</ref><ref name="natgeo 519">National Geographic, 519.</ref> After the staggering [[Battle of Stalingrad]] in 1943, the German offensive in the Soviet Union turned into a continual fallback. In 1944, British and American forces invaded France in the [[Normandy Landings|D-Day]] landings, opening a new front against Germany. [[Berlin]] finally fell in 1945, ending World War II in Europe. The war was the largest and most destructive in human history, with [[World War II casualties|60 million dead across the world]],<ref name="natgeo 439">National Geographic, 439.</ref> including between 9 and 11 million people who perished during [[the Holocaust]].<ref name="natgeo 520">National Geographic, 520.</ref> The [[Soviet Union]] lost around 27 million people during the war, about half of all World War II casualties.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/europe/4530565.stm|title=Leaders mourn Soviet wartime dead}}</ref> By the end of World War II, Europe had more than 40 million [[refugee]]s.<ref>"[http://www.time.com/time/magazine/article/0,9171,920455-2,00.html REFUGEES: Save Us! Save Us!]". Time. July 9, 1979.</ref> Several [[World War II evacuation and expulsion|post-war expulsions]] in Central and Eastern Europe displaced a total of about 20 million people.<ref>[http://www.jstor.org/pss/1405220 Postwar Population Transfers in Europe: A Survey, by Joseph B. Schechtman]</ref>
+[[Image:Evstafiev-travnik-refugees.jpg|thumb|left|Refugees arrive in [[Travnik]], central [[Bosnia and Herzegovina|Bosnia]], during the [[Yugoslav wars]], 1993.]]
+World War I and especially World War II diminished the eminence of Western Europe in world affairs. After World War II the map of Europe was redrawn at the [[Yalta Conference]] and divided into two blocs, the Western countries and the [[communist]] Eastern bloc, separated by what was later called by [[Winston Churchill]] an "[[iron curtain]]". The United States and Western Europe
+established the [[NATO]] alliance and later the Soviet Union and Eastern Europe established the [[Warsaw Pact]].<ref name="natgeo 530">National Geographic, 530.</ref> The two new [[superpower]]s, the [[United States]] and the [[Soviet Union]], became locked in a fifty-year long [[Cold War]], centred on [[nuclear proliferation]]. At the same time [[decolonisation]], which had already started after World War I, gradually resulted in the independence of most of the European colonies in [[Asia]] and [[Africa]].<ref name="natgeo 534">National Geographic, 534.</ref>
+In the 1980s the [[glasnost|reforms]] of [[Mikhail Gorbachev]] and the [[Solidarity]] movement in Poland accelerated the collapse of the Eastern bloc and the end of the Cold War. Germany was reunited, after the symbolic [[fall of the Berlin Wall]] in 1989, and the maps of Eastern Europe were redrawn once more.<ref> {{Cite book|last=Hobsbawm|first=Eric|publisher=Vintage|year=1995| isbn=9780730057|unused_data=|The Age of Extremes: A history of the world, 1914–1991}}</ref>
+[[File:European flag in the wind.jpg|thumb|The [[flag of Europe]] used by the [[Council of Europe]] and [[European Union]]]]
+[[European integration]] also grew in the post-World War II years. The [[Treaty of Rome]] in 1957 established the [[European Economic Community]] between six Western European states with the goal of a unified economic policy and common market.<ref name="natgeo 536">National Geographic, 536.</ref> In 1967 the EEC, [[European Coal and Steel Community]] and [[Euratom]] formed the [[European Community]], which in 1993 became the [[European Union]]. The EU established a [[European Parliament|parliament]], [[European Court of Justice|court]] and [[European Central Bank|central bank]] and introduced the [[euro]] as a unified currency.<ref name="natgeo 537">National Geographic, 537.</ref> Beginning in the 1990s after the end of the Cold War, Eastern European countries began joining, expanding the EU to its current size of 27 European nations, and once more making Europe a major economical and political centre of power.<ref name="natgeo 535">National Geographic, 535.</ref>
+
+==Geography and extent==
+{{Main|Geography of Europe}}
+{{See|List of countries spanning more than one continent}}
+[[File:Kaukasus.jpg|thumb|left|Satellite image of [[Caucasus Mountains]], [[Black Sea]] (l.) and [[Caspian Sea]] (r.)]]
+[[Physical geography|Physiographically]], Europe is the northwestern constituent of the larger landmass known as [[Eurasia]], or [[Afro-Eurasia]]: [[Asia]] occupies the eastern bulk of this continuous landmass and all share a common [[continental shelf]]. Europe's eastern frontier is now commonly delineated by the [[Ural Mountains]] in [[Russia]].<ref name="Encarta"/> The first century AD geographer [[Strabo]], took the [[Don River (Russia)|River Don]] "''Tanais''" to be the boundary to the [[Black Sea]]<ref>Strabo ''Geography 11.1''</ref>, as did early [[Judea|Judaic]] sources. The southeast boundary with Asia is not universally defined. Most commonly the [[Ural River|Ural]] or, alternatively, the [[Emba River]] serve as possible boundaries. The boundary continues to the [[Caspian Sea]], the crest of the [[Caucasus Mountains]] or, alternatively, the [[Kura River]] in the [[Caucasus]], and on to the [[Black Sea]]; the [[Bosporus]], the [[Sea of Marmara]], the [[Dardanelles]], and the [[Aegean Sea]] conclude the Asian boundary. The [[Mediterranean Sea]] to the south separates Europe from [[Africa]]. The western boundary is the [[Atlantic Ocean]]; [[Iceland]], though nearer to [[Greenland]] ([[North America]]) than mainland Europe, is generally included in Europe.
+
+Because of sociopolitical and cultural differences, there are various descriptions of Europe's boundary; in some sources, some territories are not included in Europe, while other sources include them. For instance, geographers from [[Post-Soviet states|Russia and other post-Soviet states]] generally include the Urals in Europe while including Caucasia in Asia. Similarly, numerous geographers{{Who|date=December 2008}} consider [[Azerbaijan]]'s and [[Armenia]]'s southern borders with [[Iran]] and [[Turkey]]'s southern and eastern borders with [[Syria]], [[Iraq]] and Iran as the boundary between Asia and Europe because of political and cultural reasons.{{Citation needed|date=December 2008}} Similarly, [[Cyprus]] is approximate to [[Anatolia|Anatolia (or Asia Minor)]], but is often considered part of Europe and currently is a member state of the [[European Union|EU]].  In addition, Malta was considered an island of [[Africa]] for centuries.<ref>Falconer, William; Falconer, Thomas. [http://books.google.com/books?id=B3Q29kWRdtgC&pg=PA50&dq=Strabo+Theophrastus+Melita#v=onepage&f=false ''Dissertation on St. Paul's Voyage''], BiblioLife (BiblioBazaar), 1872. (1817.), p 50, ISBN 1113688092 {{cquote|These islands Pliny, as well as Strabo and Ptolemy, included in the African sea:}}</ref>
+
+===Physical geography===
+[[File:Europe topography map en.png|thumb|right|Relief map of Europe and surrounding regions]]
+Land relief in Europe shows great variation within relatively small areas. The southern regions, however, are more mountainous, while moving north the terrain descends from the high [[Alps]], [[Pyrenees]] and [[Carpathian Mountains|Carpathians]], through hilly uplands, into broad, low northern plains, which are vast in the east. This extended lowland is known as the [[Great European Plain]], and at its heart lies the [[North German Plain]]. An arc of uplands also exists along the north-western seaboard, which begins in the western parts of the islands of [[Great Britain|Britain]] and [[Ireland]], and then continues along the mountainous, [[fjord]]-cut, spine of [[Norway]].
+
+This description is simplified. Sub-regions such as the [[Iberian Peninsula]] and the [[Italian Peninsula]] contain their own complex features, as does mainland Central Europe itself, where the relief contains many plateaus, river valleys and basins that complicate the general trend. Sub-regions like [[Iceland]], Britain and Ireland are special cases. The former is a land unto itself in the northern ocean which is counted as part of Europe, while the latter are upland areas that were once joined to the mainland until rising sea levels cut them off.
+
+==Climate==
+[[File:Vegetation Europe.png|frame|[[Biome]]s of Europe and surrounding regions:
+<br />
+{{legend0|#9fd6c9|[[tundra]]}}
+{{legend0|#a7bddb|[[alpine tundra]]}}
+{{legend0|#006d64|[[taiga]]}}
+{{legend0|#3c9798|[[montane forest]]}} <br />
+{{legend0|#a4e05d|[[temperate broadleaf forest]]}}
+{{legend0|#907699|[[mediterranean forest]]}}
+{{legend0|#f7ec6f|[[temperate steppe]]}}
+{{legend0|#9b8447|[[dry steppe]]}}
+]]
+
+Europe lies mainly in the [[temperate]] climate zones, being subjected to [[prevailing westerlies]].
+
+The climate is milder in comparison to other areas of the same latitude around the globe due to the influence of the [[Gulf Stream]].<ref name=climate>{{cite web|url=http://www.worldbook.com/wb/Students?content_spotlight/climates/european_climate|title=European Climate|work=World Book|accessdate=2008-06-16|publisher=World Book, Inc}}</ref> The Gulf Stream is nicknamed "Europe's central heating", because it makes Europe's climate warmer and wetter than it would otherwise be. The Gulf Stream not only carries warm water to Europe's coast but also warms up the prevailing westerly winds that blow across the continent from the Atlantic Ocean.
+
+Therefore the average temperature throughout the year of Naples is 16&nbsp;°C (60.8&nbsp;°F), while it is only 12&nbsp;°C (53.6&nbsp;°F) in New York City which is almost on the same latitude. Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8&nbsp;°C (15&nbsp;°F) higher than those in Calgary, and they are almost 22&nbsp;°C (40&nbsp;°F) higher than average temperatures in Irkutsk.<ref name=climate/>
+
+==Geology==
+{{Main|Geology of Europe}}
+The Geology of Europe is hugely varied and complex, and gives rise to the wide variety of landscapes found across the continent, from the [[Scottish Highlands]] to the rolling [[plain]]s of [[Hungary]].<ref>{{cite web|url=http://www.soton.ac.uk/~imw/jpg/eurogy.jpg|title=Geology map of Europe|year=1967|publisher=University of Southampton|accessdate=2008-06-09}}</ref>
+
+Europe's most significant feature is the dichotomy between highland and mountainous [[Southern Europe]] and a vast, partially underwater, northern plain ranging from the [[British Isles]] in the west to the [[Ural Mountains]] in the east. These two halves are separated by the mountain chains of the [[Pyrenees]] and [[Alps]]/[[Carpathian Mountains|Carpathians]]. The northern plains are delimited in the west by the [[Scandinavian Mountains]] and the mountainous parts of the [[British Isles]]. Major shallow water bodies submerging parts of the northern plains are the [[Celtic Sea]], the [[North Sea]], the [[Baltic Sea]] complex and [[Barents Sea]].
+
+The northern plain contains the old geological continent of [[Baltica]], and so may be regarded geologically as the "main continent", while peripheral highlands and mountainous regions in the south and west constitute fragments from various other geological continents. Most of the older geology of [[Western Europe]] existed as part of the ancient [[microcontinent]] [[Avalonia]].
+
+===Geological history===
+{{Main|geological history of Europe}}
+The geological history of Europe traces back to the formation of the [[Baltic Shield]] (Fennoscandia) and the [[Sarmatian craton]], both around 2.25 billion years ago, followed by the [[Volgo-Uralia]] shield, the three together leading to the [[East European craton]] (≈ [[Baltica]]) which became a part of the [[supercontinent]] [[Columbia (supercontinent)|Columbia]]. Around 1.1 billion years ago, Baltica and Arctica (as part of the [[Laurentia]] block) became joined to [[Rodinia]], later resplitting around 550 million years ago to reform as Baltica. Around 440 million years ago [[Euramerica]] was formed from Baltica and Laurentia; a further joining with [[Gondwana]] then leading to the formation of [[Pangea]]. Around 190 million years ago, Gondwana and [[Laurasia]] split apart due to the widening of the [[Atlantic Ocean]]. Finally, and very soon afterwards, Laurasia itself split up again, into Laurentia ([[North America]]) and the Eurasian continent. The land connection between the two persisted for a considerable time, via [[Greenland]], leading to interchange of animal species. From around 50 million years ago, rising and falling sea levels have determined the actual shape of Europe, and its connections with continents such as [[Asia]]. Europe's present shape dates to the late [[Tertiary period]] about five million years ago.<ref name="encyclopedia britannica">{{cite web|url=http://www.britannica.com/eb/article-9106055|title=Europe|publisher=[[Encyclopædia Britannica]]|year=2007|accessdate=2008-06-10}}</ref>
+
+==Biodiversity==
+{{Seealso|Fauna of Europe}}
+[[File:Europe biogeography countries.svg|right|thumb|300px|[[Biogeography|Biogeographic regions]] of Europe and bordering regions]]
+[[File:Floristic regions in Europe (english).png|thumb|right|300px|Floristic regions of Europe and neighboring areas, according to Wolfgang Frey and Rainer Lösch]]
+
+Having lived side-by-side with agricultural peoples for millennia, Europe's animals and plants have been profoundly affected by the presence and activities of man. With the exception of [[Fennoscandia]] and northern [[Russia]], few areas of untouched wilderness are currently found in Europe, except for various [[national park]]s.
+
+The main natural vegetation cover in Europe is mixed [[forest]]. The conditions for growth are very favourable. In the north, the [[Gulf Stream]] and [[North Atlantic Current|North Atlantic Drift]] warm the continent. Southern Europe could be described as having a warm, but mild climate. There are frequent summer droughts in this region. Mountain ridges also affect the conditions. Some of these ([[Alps]], [[Pyrenees]]) are oriented east-west and allow the wind to carry large masses of water from the ocean in the interior. Others are oriented south-north ([[Scandinavian Mountains]], [[Dinaric Alps|Dinarides]], [[Carpathian Mountains|Carpathians]], [[Apennine Mountains|Apennines]]) and because the rain falls primarily on the side of mountains that is oriented towards sea, forests grow well on this side, while on the other side, the conditions are much less favourable. Few corners of mainland Europe have not been grazed by [[livestock]] at some point in time, and the cutting down of the pre-agricultural forest habitat caused disruption to the original plant and animal ecosystems.
+
+Probably eighty to ninety per cent of Europe was once covered by forest.<ref>{{cite web|url=http://www.saveamericasforests.org/europages/history&geography.htm|title=History and geography|publisher=Save America's Forest Funds|accessdate=2008-06-09}}</ref> It stretched from the Mediterranean Sea to the [[Arctic Ocean]]. Though over half of Europe's original forests disappeared through the centuries of [[deforestation]], Europe still has over one quarter of its land area as forest, such as the [[taiga]] of Scandinavia and Russia, mixed [[rainforest]]s of the Caucasus and the [[Cork oak]] forests in the western Mediterranean. During recent times, deforestation has been slowed and many trees have been planted. However, in many cases monoculture [[plantation]]s of [[Pinophyta|conifers]] have replaced the original mixed natural forest, because these grow quicker. The plantations now cover vast areas of land, but offer poorer habitats for many European forest dwelling species which require a mixture of tree species and diverse forest structure. The amount of natural forest in Western Europe is just 2–3% or less, in European Russia 5–10%. The country with the smallest percentage of forested area (excluding the [[micronations]]) is [[Iceland]] (1%), while the most forested country is [[Finland]] (77%).<ref>{{cite web|url=http://www.mcpfe.net/system/files/u1/publications/pdf/state_of_europes_forests_2007.pdf|title=State of Europe's Forests 2007: The MCPFE report on sustainable forest management in Europe|publisher=EFI Euroforest Portal|pages=182|accessdate=2008-06-09|format=PDF}}</ref>
+
+In temperate Europe, mixed forest with both [[flowering plant|broadleaf]] and [[pinophyta|coniferous]] trees dominate. The most important species in central and western Europe are [[beech]] and [[oak]]. In the north, the [[taiga]] is a mixed [[spruce]]–[[pine]]–[[birch]] forest; further north within [[Russia]] and extreme northern [[Scandinavia]], the [[taiga]] gives way to [[tundra]] as the Arctic is approached. In the Mediterranean, many [[olive]] trees have been planted, which are very well adapted to its arid climate; [[Cupressus sempervirens|Mediterranean Cypress]] is also widely planted in southern Europe. The semi-arid Mediterranean region hosts much scrub forest. A narrow east-west tongue of Eurasian [[grassland]] (the [[steppe]]) extends eastwards from [[Ukraine]] and southern [[Russia]] and ends in [[Hungary]] and traverses into [[taiga]] to the north.
+
+[[Image:Hoehlenloewe CaveLion hharder.jpg|thumb|[[Cave lion]] became extinct in southeastern Europe about 2,000 years ago]]
+
+Glaciation during the most recent [[ice age]] and the presence of man affected the distribution of [[Fauna of Europe|European fauna]]. As for the animals, in many parts of Europe most large animals and top [[predator]] species have been hunted to extinction. The [[woolly mammoth]] was extinct before the end of the [[Neolithic]] period. Today [[wolf|wolves]] ([[carnivore]]s) and [[bears]] ([[omnivore]]s) are endangered. Once they were found in most parts of Europe. However, deforestation and hunting caused these animals to withdraw further and further. By the [[Middle Ages]] the bears' habitats were limited to more or less inaccessible mountains with sufficient forest cover. Today, the [[European brown bear|brown bear]] lives primarily in the [[Balkan|Balkan peninsula]], [[Scandinavia]], and [[Russia]]; a small number also persist in other countries across Europe (Austria, Pyrenees etc.), but in these areas brown bear populations are fragmented and marginalised because of the destruction of their habitat. In addition, [[polar bear]]s may be found on [[Svalbard]], a [[Norway|Norwegian]] archipelago far north of Scandinavia. The [[Eurasian wolf|wolf]], the second largest predator in Europe after the brown bear, can be found primarily in [[Eastern Europe]] and in the Balkans, with a handful of packs in pockets of [[Western Europe]] ([[Scandinavia]], [[Spain]], etc.).
+
+[[Image:Wisent.jpg|thumb|Once roaming the great temperate forests of Eurasia, [[European bison]] now lives in nature preserves in Poland, Russia, and other parts of Eastern Europe]]
+
+Other important European carnivores are [[Eurasian lynx]], European [[wild cat]], [[fox]]es (especially the [[red fox]]), [[jackal]] and different species of [[marten]]s, [[hedgehog]]s, different species of [[List of European reptiles|reptiles]] (like [[snakes]] such as [[Viperinae|vipers]] and [[grass snake]]s) and [[List of European amphibians|amphibians]], different [[List of European birds|birds]] ([[owl]]s, [[hawk]]s and other [[birds of prey]]).
+
+Important European [[herbivore]]s are [[snail]]s, [[larva]]e, [[fish]], different birds, and [[List of European mammals|mammals]], like [[rodent]]s, [[deer]] and [[roe deer]], [[boar]]s, and living in the mountains, [[marmot]]s, [[Alpine Ibex|steinbocks]], [[chamois]] among others.
+
+The extinction of the [[Cretan Dwarf Hippopotamus|dwarf hippos]] and [[dwarf elephant]]s has been linked to the earliest arrival of humans on the islands of the [[Mediterranean]].
+
+Sea creatures are also an important part of European flora and fauna. The sea flora is mainly [[phytoplankton]]. Important animals that live in European seas are [[zooplankton]], [[mollusc]]s, [[echinoderm]]s, different [[crustacean]]s, [[squid]]s and [[octopuses]], fish, [[dolphin]]s, and [[whales]].
+
+Biodiversity is protected in Europe through the [[Council of Europe]]'s [[Convention on the Conservation of European Wildlife and Natural Habitats|Bern Convention]], which has also been signed by the [[European Community]] as well as non-European states.
+
+==Demographics==
+{{Main|Demographics of Europe|Ethnic groups in Europe|Immigration to Europe|Emigration from Europe|Aging of Europe}}
+[[File:Demographics of Europe.svg|thumb|260px|left|[[Population growth]] and decline in and around Europe<ref>[https://www.cia.gov/library/publications/the-world-factbook/rankorder/2002rank.html] CIA population growth rankings, CIA World Factbook</ref>]]
+
+Since the [[Renaissance]], Europe has had a major influence in culture, economics and social movements in the world. The most significant [[invention]]s had their origins in
+the Western world, primarily Europe and the United States.<ref>[http://corporate.britannica.com/press/inventions.html Encyclopædia Britannica's Great Inventions], Encyclopædia Britannica</ref> Some current and past issues in European demographics have included [[Emigration|religious emigration]], [[race relations]], [[Immigration#Why do people immigrate?|economic immigration]], a declining [[birth rate]] and an [[aging population]]. In some countries, such as [[Republic of Ireland|Ireland]] and [[Poland]], access to [[abortion]] is currently limited; in the past, such restrictions and also restrictions on artificial birth control were commonplace throughout Europe. Abortion remains illegal on the island of [[Malta]] where [[Catholicism]] is the state religion. Furthermore, three European countries ([[The Netherlands]], [[Belgium]] and [[Switzerland]]) and the [[Autonomous Community]] of [[Andalusia]] (Spain)<ref>[http://www.20minutos.es/noticia/384485/ "Andalucía permitirá por ley la eutanasia pasiva para enfermos incurables"], ''20 Minutos''. 31 May 2008</ref><ref>[http://www.catholicnewsagency.com/new.php?n=13065 "Andalusia euthanasia law unnecessary, expert warns"], Catholic News Agency. 26 Jun 2008</ref> have allowed a limited form of [[voluntary euthanasia]] for some terminally ill people.
+
+In 2005 the population of Europe was estimated to be 731 million according to the [[United Nations]],<ref name="UNPP 2006"/> which is slightly more than one-ninth of the [[world]]'s population. A century ago Europe had nearly a quarter of the [[world population|world's population]]. The population of Europe has grown in the past century, but in other areas of the world (in particular [[Africa]] and [[Asia]]) the population has grown far more quickly.<ref name="UNPP 2006">{{cite web|url=http://esa.un.org/unpp|title=World Population Prospects: The 2006 Revision Population Database|publisher=UN&nbsp;— Department of Economic and Social Affairs|accessdate=2008-06-10}}</ref> According to UN population projection, Europe's population may fall to about 7% of world population by 2050, or 653 million people (medium variant, 556 to 777 million in low and high variants, respectively).<ref name="UNPP 2006"/> Within this context, significant disparities exist between regions in relation to [[overpopulation|fertility rates]]. The average number of [[List of countries and territories by fertility rate|children per female]] of child bearing age is 1.52.<ref>{{cite web|url=http://www.yaledailynews.com/articles/view/23784|title=White Europeans: An endangered species?|publisher=Yale Daily News|accessdate=2008-06-10}}</ref> According to some sources,<ref>{{cite web|url=http://www.brookings.edu/views/op-ed/fellows/taspinar20030301.htm|title=Brookings Institute Report}} See also: {{cite web|url=http://news.bbc.co.uk/1/hi/world/europe/4385768.stm|title=Muslims in Europe: Country guide|publisher=BBC news}}</ref> this rate is higher among [[Islam in Europe|Muslims]]. The UN predicts the steady [[population decline]] of vast areas of Eastern Europe.<ref>[http://www.telegraph.co.uk/news/worldnews/1545634/UN-predicts-huge-migration-to-rich-countries.html UN predicts huge migration to rich countries]. Telegraph. March 15, 2007.</ref> The Russia's population is declining by at least 700,000 people each year.<ref>[http://news.bbc.co.uk/2/hi/europe/5056672.stm Russia faces demographic disaster]. BBC News. June 7, 2006.</ref> The country now has 13,000 uninhabited villages.<ref>[http://www.guardian.co.uk/world/2008/feb/11/russia No country for old men]. The Guardian. February 11, 2008.</ref>
+[[File:Languages en3.PNG|thumb|right|Simplified map of the languages of Europe]]
+
+Europe is home to the highest number of migrants of all global regions at 70.6 million people, the [[International Organisation for Migration|IOM]]'s report said.<ref>"[http://www.foxnews.com/wires/2008Dec02/0,4670,EUWorldMigrationReport,00.html Rich world needs more foreign workers: report]", FOXNews.com. December 2, 2008.</ref> In 2005 the [[EU]] had an overall net gain from [[immigration]] of 1.8 million people, despite having one of the highest [[population density|population densities]] in the world. This accounted for almost 85% of Europe's total [[population growth]].<ref>{{cite web|url=http://www.migrationinformation.org/Feature/display.cfm?ID=402|title=Europe: Population and Migration in 2005|publisher=Migration Information Source|accessdate=2008-06-10}}</ref> Beyond Europe, [[England]] ranks third in population density for major countries after Bangladesh and South Korea.<ref>{{cite web |title=England is most crowded country in Europe |url=http://www.telegraph.co.uk/news/newstopics/politics/2967374/England-is-most-crowded-country-in-Europe.html|publisher=Telegraph.co.uk|accessdate=2009-09-05}}</ref> In 2006, an estimated 591,000 migrants arrived to live in the [[UK]] for at least a year,<ref>"[http://www.bloomberg.com/apps/news?pid=20601102&sid=aN2yBk2HxykY&refer=uk U.K. Receives Record 591,000 Immigrants; Most Aren't European]". Bloomberg.com. November 15, 2007.</ref><ref>"[http://www.telegraph.co.uk/news/uknews/3472816/Net-number-of-migrants-into-the-UK-set-to-hit-200000.html Net number of migrants coming into the UK is rising - and is set to hit 200,000 a year]". Telegraph. November 17, 2008.</ref> while 400,000 people emigrated from the UK for a year or more.<ref>"[http://www.telegraph.co.uk/news/uknews/1569400/Emigration-soars-as-Britons-desert-the-UK.html Emigration soars as Britons desert the UK]". Telegraph. November 15, 2007.</ref> The [[European Union]] plans to open the job centres for legal migrant workers from [[Africa]].<ref>"[http://news.bbc.co.uk/2/hi/africa/6341487.stm EU job centres to target Africans]". BBC News, February 8, 2007.</ref><ref>"[http://www.express.co.uk/posts/view/78180/50million-invited-to-Europe 50 million invited to Europe]". Daily Express, January 3, 2009.</ref>
+
+Emigration from Europe began with [[Spanish people|Spanish]] settlers in the 16th century, and [[French people|French]] and [[English people|English]] settlers in the 17th century.<ref>{{citation|url= http://www.millersville.edu/~columbus/data/art/AXTELL01.ART |title= The Columbian Mosaic in Colonial America |first= James |last= Axtell |journal= Humanities |date= September/October 1991 |volume= 12 |issue= 5 |pages= 12-18 |accessdate= 2008-10-08 }}</ref> But numbers remained relatively small until waves of mass emigration in the 19th century, when millions of poor families left Europe.<ref>"[http://www.jmr.nmm.ac.uk/server/show/conJmrArticle.28/setPaginate/No Indirect passage from Europe]". ''Journal for Maritime Research.''</ref> Today, large populations of European descent are found on every continent. European ancestry predominates in [[North America]], and to a lesser degree in [[South America]] (particularly in [[Argentinia]], [[Chile]], [[Uruguay]] and southern [[Brazil]]). Also, [[Australia]] and [[New Zealand]]  have large European derived populations. [[Africa]] has no countries with European-derived majorities, but there are significant minorities, such as the [[White South African]]s. In [[Asia]], European-derived populations (specifically [[Russians]])  predominate in [[Northern Asia]].
+
+==Political geography==
+{{Main|Politics of Europe}}
+{{Seealso|Demographics of Europe|List of European countries|List of European countries by population}}
+[[File:Map of Europe (political).png|thumb|right|250px| Europe according to a widely accepted definition is shown in green (countries sometimes associated with European culture in dark blue, Asian parts of European states in light blue).]]
+[[File:Europe countries map en 2.png|thumb|right|250px|Modern [[political map]]]]
+[[File:Europe subregion map UN geoschme.svg|right|thumb|250px|Regional grouping according to the [[United Nations|UN]]]]
+[[File:Europe subregion map world factbook.svg|right|thumb|250px|Regional grouping according to [[The World Factbook]]]]
+[[File:EU27-candidate countries map.svg|thumb|right|250px|[[European Union]] and its candidate countries]]
+[[File:Map-Coeurope.jpg|thumb|right|250px|[[Council of Europe]] nations]]
+[[Image:EU and NATO.svg|thumb|250px|Map showing European membership of the EU and NATO]]
+
+According to different definitions, the territories may be subject to [[Geopolitical divisions of Europe|various categorisations]].
+The 27 [[European Union member state]]s are highly integrated economically and politically; the [[European Union]] itself forms part of the political geography of Europe. The table below shows the [[UN geoscheme|scheme for geographic subregions]] used by the [[United Nations]],<ref>{{cite web|url=http://millenniumindicators.un.org/unsd/methods/m49/m49regin.htm#europe|title=United Nations Statistics Division&nbsp;— Countries of Europe|accessdate=2008-06-10}}</ref> alongside the regional grouping published in the [[CIA factbook]]. The socio-geographical data included are per sources in cross-referenced articles.
+
+{| border="1" cellpadding="4" cellspacing="0" class="references-small sortable" style="border:1px solid #aaa; border-collapse:collapse;"
+|- bgcolor="#ECECEC"
+! Name of country, with [[flag]]
+! [[List of countries by area|Area]]<br />(km²)
+! [[List of countries by population|Population]]<br />(1 July 2002 est.)
+! [[List of countries by population density|Population density]]<br />(per km²)
+! [[Capital (political)|Capital]]
+|-
+| {{flagicon|Albania}} [[Albania]]
+| align="right" | 28,748
+| align="right" | 3,600,523
+| align="right" | 125.2
+| [[Tirana]]
+|-|
+| {{flagicon|Andorra}} [[Andorra]]
+| align="right" | 468
+| align="right" | 68,403
+| align="right" | 146.2
+| [[Andorra la Vella]]
+|-|
+|{{flagicon|Armenia}} [[Armenia]]{{Cref|k}}
+| align="right" | 29,800
+| align="right" | 3,229,900
+| align="right" | 101
+| [[Yerevan]]
+|-|
+|{{flagicon|Austria}} [[Austria]]
+| align="right" | 83,858
+| align="right" | 8,169,929
+| align="right" | 97.4
+| [[Vienna]]
+|-
+|{{flagicon|Azerbaijan}} [[Azerbaijan]]{{Cref|l}}
+| align="right" | 86,600
+| align="right" | 8,621,000
+| align="right" | 97
+| [[Baku]]
+|-
+| {{flagicon|Belarus}} [[Belarus]]
+| align="right" | 207,600
+| align="right" | 10,335,382
+| align="right" | 49.8
+| [[Minsk]]
+|-
+| {{flagicon|Belgium}} [[Belgium]]
+| align="right" | 30,510
+| align="right" | 10,274,595
+| align="right" | 336.8
+| [[Brussels]]
+|-
+| {{flagicon|Bosnia and Herzegovina}} [[Bosnia and Herzegovina]]
+| align="right" | 51,129
+| align="right" | 4,448,500
+| align="right" | 77.5
+| [[Sarajevo]]
+|-
+| {{flagicon|Bulgaria}} [[Bulgaria]]
+| align="right" | 110,910
+| align="right" | 7,621,337
+| align="right" | 68.7
+| [[Sofia]]
+|-
+| {{flagicon|CRO}} [[Croatia]]
+| align="right" | 56,542
+| align="right" | 4,437,460
+| align="right" | 77.7
+| [[Zagreb]]
+|-
+| {{flagicon|Cyprus}} [[Cyprus]]{{Cref|e}}
+| align="right" | 9,251
+| align="right" | 788,457
+| align="right" | 85
+| [[Nicosia]]
+|-
+| {{flagicon|Czech Republic}} [[Czech Republic]]
+| align="right" | 78,866
+| align="right" | 10,256,760
+| align="right" | 130.1
+| [[Prague]]
+|-
+| {{flagicon|Denmark}} [[Denmark]]
+| align="right" | 43,094
+| align="right" | 5,368,854
+| align="right" | 124.6
+| [[Copenhagen]]
+|-
+| {{flagicon|Estonia}} [[Estonia]]
+| align="right" | 45,226
+| align="right" | 1,415,681
+| align="right" | 31.3
+| [[Tallinn]]
+|-
+| {{flagicon|Finland}} [[Finland]]
+| align="right" | 336,593
+| align="right" | 5,157,537
+| align="right" | 15.3
+| [[Helsinki]]
+|-
+| {{flagicon|France}} [[France]]{{Cref|h}}
+| align="right" | 547,030
+| align="right" | 59,765,983
+| align="right" | 109.3
+| [[Paris]]
+|-
+| {{flagicon|Georgia}} [[Georgia (country)|Georgia]] {{Cref|m}}
+| align="right" | 69,700
+| align="right" | 4,661,473
+| align="right" | 64
+| [[Tbilisi]]
+|-
+| {{flagicon|Germany}} [[Germany]]
+| align="right" | 357,021
+| align="right" | 83,251,851
+| align="right" | 233.2
+| [[Berlin]]
+|-
+| {{flagicon|Greece}} [[Greece]]
+| align="right" | 131,940
+| align="right" | 10,645,343
+| align="right" | 80.7
+| [[Athens]]
+|-
+| {{flagicon|Hungary}} [[Hungary]]
+| align="right" | 93,030
+| align="right" | 10,075,034
+| align="right" | 108.3
+| [[Budapest]]
+|-
+| {{flagicon|Iceland}} [[Iceland]]
+| align="right" | 103,000
+| align="right" | 307,261
+| align="right" | 2.7
+| [[Reykjavík]]
+|-
+| {{flagicon|Ireland}} [[Republic of Ireland|Ireland]]
+| align="right" | 70,280
+| align="right" | 4,234,925
+| align="right" | 60.3
+| [[Dublin]]
+|-
+| {{flagicon|Italy}} [[Italy]]
+| align="right" | 301,230
+| align="right" | 58,751,711
+| align="right" | 191.6
+| [[Rome]]
+|-
+| {{flagicon|Kazakhstan}} [[Kazakhstan]]{{Cref|j}}
+| align="right" | 2,724,900
+| align="right" | 15,217,711
+| align="right" | 5.6
+| [[Astana]]
+|-
+| {{flagicon|Latvia}} [[Latvia]]
+| align="right" | 64,589
+| align="right" | 2,366,515
+| align="right" | 36.6
+| [[Riga]]
+|-
+| {{flagicon|Liechtenstein}} [[Liechtenstein]]
+| align="right" | 160
+| align="right" | 32,842
+| align="right" | 205.3
+| [[Vaduz]]
+|-
+| {{flagicon|Lithuania}} [[Lithuania]]
+| align="right" | 65,200
+| align="right" | 3,601,138
+| align="right" | 55.2
+| [[Vilnius]]
+|-
+| {{flagicon|Luxembourg}} [[Luxembourg]]
+| align="right" | 2,586
+| align="right" | 448,569
+| align="right" | 173.5
+| [[Luxembourg (city)|Luxembourg]]
+|-
+| {{flagicon|Republic of Macedonia}} [[Republic of Macedonia|Macedonia]]
+| align="right" | 25,333
+| align="right" | 2,054,800
+| align="right" | 81.1
+| [[Skopje]]
+|-
+| {{flagicon|Malta}} [[Malta]]
+| align="right" | 316
+| align="right" | 397,499
+| align="right" | 1,257.9
+| [[Valletta]]
+|-
+| {{flagicon|Moldova}} [[Moldova]]{{Cref|b}}
+| align="right" | 33,843
+| align="right" | 4,434,547
+| align="right" | 131.0
+| [[Chişinău]]
+|-
+| {{flagicon|Monaco}} [[Monaco]]
+| align="right" | 1.95
+| align="right" | 31,987
+| align="right" | 16,403.6
+| [[Monaco]]
+|-
+| {{flagicon|Montenegro}} [[Montenegro]]
+| align="right" | 13,812
+| align="right" | 616,258
+| align="right" | 44.6
+| [[Podgorica]]
+|-
+| {{flagicon|Netherlands}} [[Netherlands]]{{Cref|i}}
+| align="right" | 41,526
+| align="right" | 16,318,199
+| align="right" | 393.0
+| [[Amsterdam]]
+|-
+|{{flagicon|Norway}} [[Norway]]
+| align="right" | 324,220
+| align="right" | 4,525,116
+| align="right" | 14.0
+| [[Oslo]]
+|-
+| {{flagicon|Poland}} [[Poland]]
+| align="right" | 312,685
+| align="right" | 38,625,478
+| align="right" | 123.5
+| [[Warsaw]]
+|-
+| {{flagicon|Portugal}} [[Portugal]]{{Cref|f}}
+| align="right" | 91,568
+| align="right" | 10,409,995
+| align="right" | 110.1
+| [[Lisbon]]
+|-
+| {{flagicon|Romania}} [[Romania]]
+| align="right" | 238,391
+| align="right" | 21,698,181
+| align="right" | 91.0
+| [[Bucharest]]
+|-
+| {{flagicon|Russia}} [[Russia]]{{Cref|c}}
+| align="right" | 17,075,400
+| align="right" | 142,200,000
+| align="right" | 26.8
+| [[Moscow]]
+|-
+| {{flagicon|San Marino}} [[San Marino]]
+| align="right" | 61
+| align="right" | 27,730
+| align="right" | 454.6
+| [[San Marino, San Marino|San Marino]]
+|-
+| {{flagicon|Serbia}} [[Serbia]]<ref>http://webrzs.statserb.sr.gov.yu/axd/en/popis.htm 2002 Census</ref>
+| align="right" | 88,361
+| align="right" | 7,495,742
+| align="right" | 89.4
+| [[Belgrade]]
+|-
+| {{flagicon|Slovakia}} [[Slovakia]]
+| align="right" | 48,845
+| align="right" | 5,422,366
+| align="right" | 111.0
+| [[Bratislava]]
+|-
+| {{flagicon|Slovenia}} [[Slovenia]]
+| align="right" | 20,273
+| align="right" | 1,932,917
+| align="right" | 95.3
+| [[Ljubljana]]
+|-
+| {{flagicon|Spain}} [[Spain]]
+| align="right" | 504,851
+| align="right" | 45,061,274
+| align="right" | 89.3
+| [[Madrid]]
+|-
+| {{flagicon|Sweden}} [[Sweden]]
+| align="right" | 449,964
+| align="right" | 9,090,113
+| align="right" | 19.7
+| [[Stockholm]]
+|-
+| {{flagicon|Switzerland}} [[Switzerland]]
+| align="right" | 41,290
+| align="right" | 7,507,000
+| align="right" | 176.8
+| [[Bern]]
+|-
+| {{flagicon|Turkey}} [[Turkey]]{{Cref|n}}
+| align="right" | 783,562
+| align="right" | 71,517,100
+| align="right" | 93
+| [[Ankara]]
+|-
+| {{flagicon|Ukraine}} [[Ukraine]]
+| align="right" | 603,700
+| align="right" | 48,396,470
+| align="right" | 80.2
+| [[Kiev]]
+|-
+| {{flagicon|United Kingdom}} [[United Kingdom]]
+| align="right" | 244,820
+| align="right" | 61,100,835
+| align="right" | 244.2
+| [[London]]
+|-
+| {{flagicon|Vatican City}} [[Vatican City]]
+| align="right" | 0.44
+| align="right" | 900
+| align="right" | 2,045.5
+| [[Vatican City]]
+|- style="font-weight:bold;"
+| Total
+| align="right" | 10,180,000{{Cref|o}}
+| align="right" | 731,000,000{{Cref|o}}
+| align="right" | 70
+|}
+
+Within the above-mentioned states are several regions, enjoying broad autonomy, as well as several [[de facto]] independent countries with limited international recognition or unrecognised. None of them are [[UN]] members:
+
+{| border="1" cellpadding="4" cellspacing="0" class="references-small sortable" style="border:1px solid #aaa; border-collapse:collapse;"
+|- bgcolor="#ECECEC"
+! Name of territory, with [[flag]]
+! [[List of countries by area|Area]]<br />(km²)
+! [[List of countries by population|Population]]<br />(1 July 2002 est.)
+! [[List of countries by population density|Population density]]<br />(per km²)
+! [[Capital (political)|Capital]]
+|-
+| {{flagicon|Abkhazia}} [[Abkhazia]]{{Cref|r}}
+| align="right" | 8,432
+| align="right" | 216,000
+| align="right" | 29
+| [[Sukhumi]]
+|-
+| {{flagicon|Åland}} [[Åland Islands]] ([[Finland]])
+| align="right" | 1,552
+| align="right" | 26,008
+| align="right" | 16.8
+| [[Mariehamn]]
+|-
+| {{flagicon|Faroe Islands}} [[Faroe Islands]] ([[Denmark]])
+| align="right" | 1,399
+| align="right" | 46,011
+| align="right" | 32.9
+| [[Tórshavn]]
+|-
+| {{flagicon|Gibraltar}} [[Gibraltar]] ([[United Kingdom|UK]])
+| align="right" | 5.9
+| align="right" | 27,714
+| align="right" | 4,697.3
+| [[Gibraltar]]
+|-
+| {{flagicon|Guernsey}} [[Guernsey]]{{Cref|d}} (UK)
+| align="right" | 78
+| align="right" | 64,587
+| align="right" | 828.0
+| [[St. Peter Port]]
+|-
+| {{flagicon|Isle of Man}} [[Isle of Man]]{{Cref|d}} (UK)
+| align="right" | 572
+| align="right" | 73,873
+| align="right" | 129.1
+| [[Douglas, Isle of Man|Douglas]]
+|-
+| {{flagicon|Jersey}} [[Jersey]]{{Cref|d}} (UK)
+| align="right" | 116
+| align="right" | 89,775
+| align="right" | 773.9
+| [[Saint Helier]]
+|-
+| {{flagicon|Kosovo}} [[Kosovo]]{{Cref|p}}
+| align="right" | 10,887
+| align="right" | 2,126,708
+| align="right" | 220
+| [[Pristina]]
+|-
+| {{flagicon|Nagorno-Karabakh}} [[Nagorno-Karabakh]]
+| align="right" | 11,458
+| align="right" | 138,800
+| align="right" | 12
+| [[Stepanakert]]
+|-
+| {{flagicon|Northern Cyprus}} [[Northern Cyprus]]
+| align="right" | 3,355
+| align="right" | 265,100
+| align="right" | 78
+| [[Nicosia]]
+|-
+| {{flagicon|South Ossetia}} [[South Ossetia]]{{Cref|r}}
+| align="right" | 3,900
+| align="right" | 70,000
+| align="right" | 18
+| [[Tskhinvali]]
+|-
+| {{flagicon|Norway}} [[Svalbard and Jan Mayen|Svalbard and Jan<br />Mayen Islands]] ([[Norway]])
+| align="right" | 62,049
+| align="right" | 2,868
+| align="right" | 0.046
+| [[Longyearbyen]]
+|-
+| {{flagicon|Transnistria}} [[Transnistria]] {{Cref|b}}
+| align="right" | 4,163
+| align="right" | 537,000
+| align="right" | 133
+| [[Tiraspol]]
+|}
+
+==Economy==
+[[File:Europe gdp map-1-.png|thumb|European and bordering nations by [[GDP]] (nominal) per capita in 2006]]
+[[File:Europe gdp real growth rate - 2007.PNG|thumb|GDP real growth rate in 2007]]
+{{Main|Economy of Europe}}
+
+As a continent, the economy of Europe is currently the largest on Earth and it is the richest region as measured by assets under management with over $32.7 trillion compared to  North America's $27.1 trillion<ref>http://www.bloomberg.com/apps/news?pid=20601085&sid=aL5a46f2RjVA</ref>. As with other continents, Europe has a large variation of wealth among its countries. The richer states tend to be in the [[Western Europe|West]], some of the [[Eastern Europe|Eastern]] economies are still emerging from the collapse of the [[Soviet Union]] and [[Yugoslavia]]. The [[European Union]], an intergovernmental body composed of 27 European states, comprises the [[List of countries by GDP|largest single economic area]] in the world. Currently, 15 EU [[Eurozone|countries]] share the [[euro]] as a common currency.
+Five European countries rank in the top ten of the worlds largest [[List of countries by GDP (PPP)|national economies in GDP (PPP)]]. This includes (ranks according to the [[The CIA World Factbook|CIA]]): Germany (5), the UK (6), Russia (7), France (8), and Italy (10).<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2001rank.html|title=[[The CIA World Factbook]] – GDP (PPP)|date=2008-07-15|accessdate=2008-07-19|publisher=[[CIA]]}}</ref>
+
+===Pre–1945: Industrial growth===
+[[Capitalism]] has been dominant in the Western world since the end of feudalism.<ref>[http://www.britannica.com/EBchecked/topic/93927/capitalism Capitalism]. ''Encyclopædia Britannica.''</ref> From Britain, it gradually spread throughout Europe.<ref>{{cite book|title=Industrialism: A Dictionary of Sociology|author=Scott, John|publisher=Oxford University Press|year=2005}}</ref> The [[Industrial Revolution]] started in Europe, specifically the [[United Kingdom]] in the late 18th century,<ref>{{citeweb|url=http://www.historyguide.org/intellect/lecture17a.html|title=The Origins of the Industrial Revolution in England|publisher=The History Guide|author=Steven Kreis|date=11 October 2006|accessdate=2007-01-01}}</ref> and the 19th century saw Western Europe industrialise. Economies were disrupted by [[World War I]] but by the beginning of [[World War II]] they had recovered and were having to compete with the growing economic strength of the [[United States]]. [[World War II]], again, damaged much of Europe's industries.
+
+===1945–1990: The Cold War===
+After World War II the economy of the UK was in a state of ruin,<ref>Dornbusch, Rudiger; Nölling, Wilhelm P.; Layard, Richard G. ''Postwar Economic Reconstruction and Lessons for the East Today'', pg. 117</ref> and continued to suffer relative economic decline in the following decades.<ref>{{cite book |title=Rethinking International Organization: Deregulation and Global Governance|last=Emadi-Coffin|first=Barbara|year=2002|publisher=Routledge|isbn=0415195403|pages=64}}</ref> [[Italy]] was also in a poor economic condition but regained a high level of growth by the 1950s. [[West Germany]] [[Wirtschaftswunder|recovered quickly]] and had doubled production from pre-war levels by the 1950s.<ref>Dornbusch, Rudiger; Nölling, Wilhelm P.; Layard, Richard G. ''Postwar Economic Reconstruction and Lessons for the East Today'', pg. 29</ref> [[France]] also staged a remarkable comeback enjoying rapid growth and modernisation; later on [[Spain]], under the leadership of [[Francisco Franco|Franco]], also recovered, and the nation recorded huge unprecedented economic growth beginning in the 1960s in what is called the [[Spanish miracle]].<ref>Harrop, Martin. ''Power and Policy in Liberal Democracies'', pg. 23</ref> The majority of [[Eastern Europe]]an states came under the control of the [[USSR]] and thus were members of the [[Council for Mutual Economic Assistance]] (COMECON).<ref name=loc-cs>"Germany (East)", Library of Congress Country Study, [http://memory.loc.gov/frd/cs/germany_east/gx_appnb.html Appendix B: The Council for Mutual Economic Assistance]</ref>
+The states which retained a [[free-market]] system were given a large amount of aid by the [[United States]] under the [[Marshall Plan]].<ref>{{citeweb|url=http://usinfo.state.gov/products/pubs/marshallplan|title=Marshall Plan|publisher=US Department of State|accessdate=2008-06-10}}</ref> The western states moved to link their economies together, providing the basis for the [[EU]] and increasing cross border trade. This helped them to enjoy rapidly improving economies, while those states in COMECON were struggling in a large part due to the cost of the [[Cold War]]. Until 1990, the [[European Community]] was expanded from 6 founding members to 12. The emphasis placed on resurrecting the West German economy led to it overtaking the [[UK]] as Europe's largest economy.
+[[File:RF NG pipestoEU.gif|thumb|upright|160px|[[Russia]] is Europe's key [[Petroleum|oil]] and [[Natural gas|gas]] supplier.<ref>[http://www.spiegel.de/international/world/0,1518,562248,00.html The City Built on Oil: EU-Russia Summit Visits Siberia's Boomtown], Spiegel</ref>]]
+
+===1991–2007: The rise of the EU===
+With the fall of communism in Eastern Europe in 1991 the Eastern states had to adapt to a free market system. There were varying degrees of success with [[Central Europe]]an countries such as [[Poland]], [[Hungary]], and [[Slovenia]] adapting reasonably quickly, while eastern states like [[Ukraine]] and [[Russia]] taking far longer. Western Europe helped Eastern Europe by forming economic ties with it. After [[East Germany|East]] and [[West Germany]] were reunited in 1990, the economy of West Germany struggled as it had to support and largely rebuild the infrastructure of East Germany. [[Yugoslavia]] lagged farthest behind as it was ravaged by war and in 2003 there were still many [[EU]] and [[NATO]] peacekeeping troops in [[Kosovo]], the [[Republic of Macedonia]], and [[Bosnia and Herzegovina]], with only [[Slovenia]] making any real progress.
+By the millennium change, the [[EU]] dominated the economy of Europe comprising the five largest European economies of the time namely [[Germany]], the [[United Kingdom]], [[France]], [[Italy]], and [[Spain]]. In 1999 12 of the 15 members of the EU joined the [[Eurozone]] replacing their former national currencies by the common [[euro]]. The three who chose to remain outside the Eurozone were: the [[United Kingdom]], [[Denmark]], and [[Sweden]].
+
+===2008–2009: Recession===
+{{Main|Late 2000s recession in Europe}}
+The [[eurozone]] entered its first official [[recession]] in the third quarter of 2008, official figures confirmed in January 2009.<ref>[http://www.eubusiness.com/news-eu/1231409822.27/ EU data confirms eurozone's first recession]. EUbusiness.com. January 8, 2009.</ref> While beginning in the United States the [[late-2000s recession]] spread to Europe rapidly and has affected much of the region.<ref>[http://www.telegraph.co.uk/finance/comment/ambroseevans_pritchard/4958395/Thanks-to-the-Bank-its-a-crisis-in-the-eurozone-its-a-total-catastrophe.html Thanks to the Bank it's a crisis; in the eurozone it's a total catastrophe]. Telegraph. March 8, 2009.</ref> The official [[unemployment]] rate in the 16 countries that use the euro rose to 9.5% in May 2009.<ref>[http://www.cbc.ca/money/story/2009/07/02/euro-zone-unemployment-may.html Euro zone unemployment reaches 15 million]. CBCNews.ca. July 2, 2009.</ref> Europe's young workers have been especially hard hit.<ref>[http://www.foreignpolicy.com/articles/2009/07/13/europes_new_lost_generation Europe's New Lost Generation]. Foreign Policy. July 13, 2009.</ref> In the first quarter of 2009, the unemployment rate in the [[EU27]] for those aged 15–24 was 18.3%.<ref>[http://europa.eu/rapid/pressReleasesAction.do?reference=STAT/09/109&type=HTML&aged=0&language=EN&guiLanguage=en Youth unemployment]. [[Eurostat]]. July 23, 2009.</ref>
+
+==Language==
+[[File:Simplified Languages of Europe map.svg|thumb|250px|right|Simplified linguistic map within the Council of Europe nations]]
+{{Main|Languages of Europe}}
+European languages mostly fall within three [[Indo-European languages|Indo-European]] language groups: the [[Romance languages]], derived from the [[Latin language]] of the [[Roman Empire]]; the [[Germanic languages]], whose ancestor language came from southern [[Scandinavia]]; and the [[Slavic languages]].<ref name="encyclopedia britannica"/> While having much of its vocabulary descended from Romance languages, the [[English language]] is a Germanic language.
+
+Romance languages are spoken primarily in south-western Europe as well as in [[Romania]] and [[Moldova]]. Germanic languages are spoken in north-western Europe and some parts of [[Central Europe]]. Slavic languages are spoken in Central, Eastern, and Southeastern Europe.<ref name="encyclopedia britannica"/>
+
+Many other languages outside the three main groups exist in Europe. Other Indo-European languages include the [[Baltic languages|Baltic]] group (i.e., [[Latvian language|Latvian]] and [[Lithuanian language|Lithuanian]]), the [[Celtic language|Celtic]] group (i.e., [[Irish language|Irish]], [[Scots Gaelic language|Scottish Gaelic]], [[Manx language|Manx]], [[Welsh language|Welsh]], [[Cornish language|Cornish]], and [[Breton language|Breton]]<ref name="encyclopedia britannica"/>), [[Greek language|Greek]], [[Albanian language|Albanian]], and [[Armenian language|Armenian]]{{Dubious|date=December 2008}}. A distinct group of [[Uralic languages]] are [[Estonian language|Estonian]], [[Finnish language|Finnish]], and [[Hungarian language|Hungarian]], spoken in the respective countries as well as in parts of Romania, Russia, Serbia, and Slovakia. Other Non-Indo-European languages are [[Maltese language|Maltese]] (the only [[Semitic language]] official to the EU), [[Basque language|Basque]], [[Georgian language|Georgian]], [[Azerbaijani language|Azerbaijani]], and languages of minority nations in Russia.
+
+Multilingualism and the protection of regional and minority languages are recognised political goals in Europe today. The [[Council of Europe]] [[Framework Convention for the Protection of National Minorities]] and the [[Council of Europe]]'s [[European Charter for Regional or Minority Languages]] set up a legal framework for language rights in Europe.
+
+==Religion==
+[[File:Europe religion map en.png|thumb|250px|Predominant religions in Europe and neighboring regions:
+{{legend|#496EB8|[[Roman Catholic Church|Roman Catholic Christianity]]}}
+{{legend|#C44F4F|[[Eastern Orthodox Church|Eastern Orthodox Christianity]]}}
+{{legend|#855C99|[[Protestant Christianity]]}}
+{{legend|#3D9956|[[Sunni Islam]]}}
+{{legend|#2E7340|[[Shia Islam]]}}
+{{legend|#e7984d|[[Buddhism]]}}
+{{legend|#F6CC00|[[Judaism]]}}
+]]
+{{Main|Religion in Europe}}
+
+[[history of religion|Historically]], [[religion]] in Europe has been a major influence on [[Western art history|European art]], [[culture of Europe|culture]], [[Western philosophy|philosophy]] and [[European Union law|law]]. The majority religion in Europe is [[Christianity]] as practiced by [[Roman Catholic Church|Catholic]], [[Eastern Orthodox Church|Eastern Orthodox]] and [[Protestantism|Protestant]] Churches. Following these is [[Islam]] concentrated mainly in the south east ([[Bosnia and Herzegovina]], [[Albania]], [[Kosovo]], [[Kazakhstan]], [[TRNC|North Cyprus]], [[Turkey]] and [[Azerbaijan]]). Other religions including [[Judaism]], [[Hinduism]] and [[Buddhism]] are minority religions. Europe is a relatively secular continent and has the largest number and proportion of [[irreligion|irreligious]], [[agnosticism|agnostic]] and [[atheism|atheistic]] people in the [[Western religion|Western world]], with a particularly high number of self-described non-religious people in the [[Czech Republic]], [[Estonia]], [[Sweden]], [[Germany]] (East), and [[France]].<ref>{{cite journal|last=Dogan|first=Mattei|year=1998|title=The Decline of Traditional Values in Western Europe|journal=International Journal of Comparative Sociology|publisher=Sage|volume=39|pages=77–90|doi=10.1177/002071529803900106}}</ref>
+
+==Culture==
+{{Main|Culture of Europe}}
+The culture of Europe can be described as a series of overlapping cultures; cultural mixes exist across the continent. There are cultural [[innovation]]s and movements, sometimes at odds with each other. Thus the question of "common culture" or "common values" is complex.
+
+==See also==
+{{Main|Outline of Europe|Index of Europe-related articles}}
+{{Columns-start|num=3}}
+* [[Communications in Europe]]
+* [[Continental Europe]]
+* [[Potential superpowers#The European Union|Europe as a potential superpower]]
+* [[List of European countries in order of geographical area|List of European countries by geographical area]]
+;Politics
+* [[Names of European cities in different languages|Alternative names of European cities]]
+* [[Council of Europe]]
+* [[Date of independence of European countries]]
+* [[Eurodistrict]]
+* [[European Union]]
+* [[Euroregion]]
+* [[Euroscepticism]]
+* [[Flags of Europe]]
+* [[International Organisations in Europe]]
+* [[OSCE]]
+* [[Organization for Security and Co-operation in Europe statistics|OSCE countries statistics]]
+{{Column}}
+;Demographics
+* [[Area and population of European countries]]
+* [[Demography of Europe]]
+* [[European American]]
+* [[European ethnic groups]]
+* [[European Union Statistics]]
+* [[Largest cities of the European Union by population within city limits|Largest cities of the EU]]
+* [[List of cities in Europe by country]]
+* [[List of villages in Europe by country]]
+* [[Largest European metropolitan areas]]
+* [[Largest urban areas of the European Union|Largest urban areas of the EU]]
+* [[List of European countries by population]]
+;Economics
+* [[Economy of the European Union]]
+* [[Financial and social rankings of European countries]]
+* [[List of European countries by GDP (nominal)]]
+* [[The European miracle]]
+{{Column}}
+{{portalpar|Europe|Flag of Europe.svg}}
+{{sisterlinks|Europe}}
+{{Columns-end}}
+
+==Notes==
+{{Cnote|a|Continental regions as per [[:Image:United Nations geographical subregions.png|UN categorisations/map]]. Depending on definitions, various territories cited below may be in [[Transcontinental nation|one or both of]] Europe and [[Asia]], or [[Africa]].}}
+{{Cnote|b|[[Transnistria]], internationally recognised as being a legal part of the [[Republic of Moldova]], although ''de facto'' control is exercised by its internationally unrecognised government which declared independence from Moldova in 1990.}}
+{{Cnote|c|[[Russia]] is considered a transcontinental country in Eastern Europe and Northern Asia. However the population and area figures include the entire state.}}
+{{Cnote|d|[[Guernsey]], the [[Isle of Man]] and [[Jersey]] are [[Crown dependencies]] of the [[United Kingdom]]. Other [[Channel Islands]] legislated by the [[Bailiwick of Guernsey]] include [[Alderney]] and [[Sark]].}}
+{{Cnote|e|[[Cyprus]] is sometimes considered transcontinental country. Physiographically entirely in [[Western Asia]] it has strong historical and sociopolitical connections with Europe. The population and area figures refer to the entire state, including the ''de facto'' independent part [[Northern Cyprus]].}}{{Cnote|f|Figures for [[Portugal]] include the [[Azores]] and [[Madeira]] archipelagos, both in [[Northern Atlantic]].}}
+{{Cnote|g|Figures for [[Serbia]] include [[Kosovo]], a province that unilaterally declared its independence from [[Serbia]] on 17 February 2008, and whose sovereign status is unclear.}}{{Cnote|h|Figures for [[France]] include only [[metropolitan France]]: some [[Administrative divisions of France|politically integral parts of France]] are geographically located outside Europe.}}
+{{Cnote|i|[[Netherlands]] population for July 2004. Population and area details include European portion only: Netherlands and two entities outside Europe ([[Aruba]] and the [[Netherlands Antilles]], in the [[Caribbean]]) constitute the [[Kingdom of the Netherlands]]. [[Amsterdam]] is the official capital, while [[The Hague]] is the administrative seat.}}
+{{Cnote|j|[[Kazakhstan]] is physiographically considered a transcontinental country in Central Asia (UN region) and Eastern Europe, with European territory west of the Ural Mountains and both the [[Ural River|Ural]] and [[Emba]] rivers. However, area and population figures refer to the entire country.}}
+{{Cnote|k|[[Armenia]] is physiographically entirely in [[Western Asia]], but it has strong historical and sociopolitical connections with Europe. The population and area figures include the entire state respectively.}}
+{{Cnote|l|[[Azerbaijan]] is often considered a transcontinental country in Eastern Europe and Western Asia. However the population and area figures are for the entire state. This includes the [[exclave]] of [[Nakhchivan]] and the region [[Nagorno-Karabakh]] that has declared, and ''[[de facto]]'' [[list of unrecognised countries|achieved]], independence. Nevertheless, it is not recognised ''[[de jure]]'' by [[sovereign state]]s.}}
+{{Cnote|m|[[Georgia (country)|Georgia]] is often considered a transcontinental country in Western Asia and Eastern Europe. However, the population and area figures include the entire state. This also includes Georgian estimates for [[Abkhazia]] and [[South Ossetia]], two regions that have declared and ''[[de facto]]'' [[list of unrecognised countries|achieved]] independence. The [[International recognition of Abkhazia and South Ossetia#Reaction to independence declaration of Abkhazia and South Ossetia|International recognition]], however, is limited.}}
+{{Cnote|n|[[Turkey]] is physiographically considered a transcontinental country in Western Asia and Eastern Europe. However the population and area figures include the entire state, both the European and Asian portions.}}
+{{Cnote|o|The total figures for area and population include only European portions of transcontinental countries. The precision of these figures is compromised by the ambiguous geographical extent of Europe and the lack of references for European portions of transcontinental countries.}}
+{{Cnote|p|[[Kosovo]] unilaterally declared its independence from [[Serbia]] on 17 February 2008. Its sovereign status is [[International reaction to the 2008 Kosovo declaration of independence|unclear]]. Its population is a 2007 estimate.}}
+{{Cnote|r|[[Abkhazia]] and [[South Ossetia]] unilaterally declared their independence from [[Georgia (country)|Georgia]] on 25 August 1990 and 28 November 1991 respectively. Their sovereign status is [[International recognition of Abkhazia and South Ossetia|unclear]]. Population figures stated as of 2003 census and 2000 estimates respectively.}}
+
+==References==
+{{reflist|colwidth=30em}}
+{{refbegin}}
+* [[National Geographic]] (2005). ''National Geographic Visual History of the World''. Washington, D.C.: National Geographic Society. ISBN 0-7922-3695-5.
+{{refend}}
+
+==Further reading==
+* Williams, Glyndwr (1968) "''The Expansion of Europe in the Eighteenth Century''". London, Blandford Press, SRN 7-137-32723-5.
+
+==External links==
+* [http://www.coe.int/ Council of Europe]
+* [[wikitravel:Europe|Europe travel guide]] from [[Wikitravel]]
+* [http://europa.eu/ European Union]
+* [https://www.cia.gov/library/publications/the-world-factbook/region/region_eur.html Europe] entry at ''[[The World Factbook]]''
+* [http://www.columbiagazetteer.org/ The Columbia Gazetteer of the World Online] [[Columbia University Press]]
+
+{{Template group
+|title = Articles related to Europe
+|list = 
+{{Europefooter}}
+{{Countries of Europe}}
+{{Continents of the world}}
+{{Regions of the world}}
+}}
+
+[[Category:Europe| ]]
+[[Category:Continents]]
+
+[[ace:Èropah]]
+[[af:Europa]]
+[[als:Europa]]
+[[am:አውሮፓ]]
+[[ang:Europe]]
+[[ab:Европа]]
+[[ar:أوربَّا]]
+[[an:Europa]]
+[[arc:ܐܘܪܘܦܐ (ܝܒܫܬܐ)]]
+[[roa-rup:Europa]]
+[[frp:Eropa]]
+[[as:ইউৰূপ্]]
+[[ast:Europa]]
+[[gn:Europa]]
+[[ay:Iwrupa]]
+[[az:Avropa]]
+[[bm:Eropa]]
+[[bn:ইউরোপ]]
+[[zh-min-nan:Europa]]
+[[ba:Европа]]
+[[be:Еўропа]]
+[[be-x-old:Эўропа]]
+[[bcl:Europa]]
+[[bi:Europe]]
+[[bar:Eiropa]]
+[[bo:ཡོ་རོབ་གླིང་།]]
+[[bs:Evropa]]
+[[br:Europa (kevandir)]]
+[[bg:Европа]]
+[[ca:Europa]]
+[[cv:Европа]]
+[[ceb:Uropa]]
+[[cs:Evropa]]
+[[cbk-zam:Europa]]
+[[tum:Europe]]
+[[co:Europa]]
+[[cy:Ewrop]]
+[[da:Europa]]
+[[pdc:Eiropaa]]
+[[de:Europa]]
+[[nv:Béésh Bichʼahníí Bikéyah]]
+[[dsb:Europa]]
+[[et:Euroopa]]
+[[el:Ευρώπη]]
+[[es:Europa]]
+[[eo:Eŭropo]]
+[[ext:Uropa]]
+[[eu:Europa]]
+[[ee:Europa]]
+[[fa:اروپا]]
+[[hif:Europe]]
+[[fo:Evropa]]
+[[fr:Europe]]
+[[fy:Jeropa]]
+[[ff:Yuroopu]]
+[[fur:Europe]]
+[[ga:An Eoraip]]
+[[gv:Yn Oarpey]]
+[[gd:An Roinn-Eòrpa]]
+[[gl:Europa]]
+[[glk:اوروپپا]]
+[[gu:યુરોપ]]
+[[hak:Êu-chû]]
+[[xal:Европ]]
+[[ko:유럽]]
+[[ha:Tūrai]]
+[[haw:‘Eulopa]]
+[[hy:Եվրոպա]]
+[[hi:यूरोप]]
+[[hsb:Europa]]
+[[hr:Europa]]
+[[io:Europa]]
+[[ig:Obodo bekee]]
+[[ilo:Europa]]
+[[id:Eropa]]
+[[ia:Europa]]
+[[ie:Europa]]
+[[iu:ᐃᐆᕌᑉ/iuuraap]]
+[[os:Европæ]]
+[[zu:IYurophu]]
+[[is:Evrópa]]
+[[it:Europa]]
+[[he:אירופה]]
+[[jv:Eropah]]
+[[kl:Europa]]
+[[kn:ಯುರೋಪ್]]
+[[pam:Europa]]
+[[ka:ევროპა]]
+[[csb:Eùropa]]
+[[kk:Еуропа]]
+[[kw:Europa]]
+[[rw:Uburayi]]
+[[ky:Европа]]
+[[sw:Ulaya]]
+[[kv:Европа]]
+[[kg:Mputu]]
+[[ht:Ewòp]]
+[[ku:Ewropa]]
+[[lad:Evropa]]
+[[lo:ເອີລົບ]]
+[[la:Europa]]
+[[lv:Eiropa]]
+[[lb:Europa (Kontinent)]]
+[[lt:Europa]]
+[[lij:Euròpa]]
+[[li:Europa]]
+[[ln:Erópa]]
+[[jbo:rontu'a]]
+[[lg:Bulaaya]]
+[[lmo:Europa]]
+[[hu:Európa]]
+[[mk:Европа]]
+[[mg:Eoropa]]
+[[ml:യൂറോപ്പ്‌]]
+[[mt:Ewropa]]
+[[mi:Ūropi]]
+[[mr:युरोप]]
+[[arz:اوروبا]]
+[[mzn:Orüpa]]
+[[ms:Eropah]]
+[[cdo:Ĕu-ciŭ]]
+[[mwl:Ouropa]]
+[[mn:Европ]]
+[[my:ဥရောပ]]
+[[nah:Europan]]
+[[na:Iurop]]
+[[nl:Europa (werelddeel)]]
+[[nds-nl:Europa (continent)]]
+[[ne:युरोप]]
+[[new:युरोप]]
+[[ja:ヨーロッパ]]
+[[nap:Europa]]
+[[pih:Urup]]
+[[no:Europa]]
+[[nn:Europa]]
+[[nrm:Ûrope]]
+[[nov:Europa]]
+[[oc:Euròpa]]
+[[mhr:Европо]]
+[[om:Europe]]
+[[uz:Yevropa]]
+[[pa:ਯੂਰੋਪ]]
+[[pnb:یوروپ]]
+[[pap:Oropa]]
+[[ps:اروپا]]
+[[km:អឺរ៉ុប]]
+[[pms:Euròpa]]
+[[tpi:Yurop]]
+[[nds:Europa]]
+[[pl:Europa]]
+[[pnt:Ευρώπην]]
+[[pt:Europa]]
+[[kaa:Evropa]]
+[[crh:Avropa]]
+[[ksh:Europa (Kontinänt)]]
+[[ro:Europa]]
+[[rmy:Europa]]
+[[rm:Europa]]
+[[qu:Iwrupa]]
+[[ru:Европа]]
+[[sah:Эуропа]]
+[[se:Eurohpá]]
+[[sm:Europa]]
+[[sa:यूरोप]]
+[[sc:Europa]]
+[[sco:Europe]]
+[[stq:Europa]]
+[[st:Uropa]]
+[[sq:Evropa]]
+[[scn:Europa]]
+[[simple:Europe]]
+[[sd:يورپ]]
+[[sk:Európa]]
+[[cu:Єѵрѡ́па]]
+[[sl:Evropa]]
+[[szl:Ojropa]]
+[[so:Yurub]]
+[[ckb:ئەوروپا]]
+[[srn:Ropa]]
+[[sr:Европа]]
+[[sh:Evropa]]
+[[su:Éropa]]
+[[fi:Eurooppa]]
+[[sv:Europa]]
+[[tl:Europa]]
+[[ta:ஐரோப்பா]]
+[[kab:Turuft]]
+[[tt:Аурупа]]
+[[te:ఐరోపా]]
+[[tet:Europa]]
+[[th:ทวีปยุโรป]]
+[[ti:ኣውሮጳ]]
+[[tg:Аврупо]]
+[[to:ʻEulope]]
+[[chr:ᎡᎶᏆ]]
+[[chy:Eropuy]]
+[[tr:Avrupa]]
+[[tk:Ýewropa]]
+[[udm:Европа]]
+[[uk:Європа]]
+[[ur:یورپ]]
+[[ug:ياۋرۇپا]]
+[[vec:Eoropa]]
+[[vi:Châu Âu]]
+[[vo:Yurop]]
+[[fiu-vro:Õuruupa]]
+[[wa:Urope]]
+[[zh-classical:歐羅巴洲]]
+[[vls:Europa]]
+[[war:Europa]]
+[[wo:Tugal]]
+[[wuu:欧洲]]
+[[ts:Yuropa]]
+[[yi:אייראפע]]
+[[yo:Europe]]
+[[zh-yue:歐洲]]
+[[diq:Ewropa]]
+[[bat-smg:Euruopa]]
+[[zh:欧洲]]

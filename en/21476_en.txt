@@ -1,0 +1,289 @@
+[[Image:Log.svg|frame|Graph of the natural logarithm function. The function slowly grows to positive infinity as ''x'' increases and rapidly goes to negative infinity as ''x'' approaches 0 ("slowly" and "rapidly" as compared to any [[power law]] of ''x''); the y-axis is an [[asymptote]].]]
+
+The '''natural logarithm''' is the [[logarithm]] to the [[base (mathematics)|base]] ''[[e (mathematical constant)|e]]'', where ''e'' is an [[irrational number|irrational]] constant approximately equal to 2.718<span style="margin-left:0.25em">281</span><span style="margin-left:0.2em">828</span>.  The natural logarithm is generally written ln(''x''), log<sub>''e''</sub>(''x'') or sometimes, where the base of ''e'' is implicit, just log(''x'').
+
+The natural logarithm of a number ''x'' is the power to which ''e'' would have to be raised to equal ''x''. For example, the natural log of ''e''<sup>2</sup> (approximately 7.389) is 2, the natural log of ''e'' itself is 1 because ''e''<sup>1</sup> = ''e'', while the natural logarithm of 1 would be 0, since ''e''<sup>0</sup> = 1. 
+
+The natural logarithm can be defined for all positive [[real number]]s ''x'' as the [[Integral|area under the curve]] ''y'' = 1/''t''  from 1 to ''x''. The simplicity of this definition, which is matched in many other formulas involving the natural logarithm, leads to the term "natural." The definition can be extended to non-zero [[complex number]]s, as explained below. 
+
+The natural logarithm function, if considered as a real-valued function of a real variable, is the [[inverse function]] of the [[exponential function]], leading to the identities:
+:<math>e^{ln(x)} = x qquad mbox{if }x > 0,!</math>
+
+:<math>ln(e^x) = x.,! </math>
+
+Like all logarithms, the natural logarithm maps multiplication into addition:
+
+:<math> ln(xy) = ln(x) + ln(y) !, </math>
+
+Thus, the logarithm function is an [[isomorphism]] from the [[group (mathematics)|group]] of positive real numbers under multiplication to the group of real numbers under addition, represented as a [[function (mathematics)|function]]:
+:<math>ln : mathbb{R}^+ 	o mathbb{R}.</math>
+
+Logarithms can be defined to any positive base other than 1, not just ''e''; however logarithms in other bases differ only by a constant multiplier from the natural logarithm, and are usually defined in terms of the latter. Logarithms are useful for solving equations in which the unknown appears as the exponent of some other quantity.  For example, logarithms are used to solve for the half-life, decay constant, or unknown time in [[exponential decay]] problems.  They are important in many branches of mathematics and the sciences and are used in finance to solve problems involving [[compound interest]].
+
+{{E (mathematical constant)}}
+
+==History==
+
+The first mention of the natural logarithm was by [[Nicholas Mercator]] in his work ''Logarithmotechnia'' published in 1668,<ref>{{cite web |author=J J O'Connor and E F Robertson |url=http://www-history.mcs.st-and.ac.uk/HistTopics/e.html |title=The number e |publisher=The MacTutor History of Mathematics archive |date=2001-09 |accessdate=2009-02-02}}</ref> although the mathematics teacher John Speidell had already in 1619 compiled a table on the natural logarithm<ref>{{cite book |last=Cajori |first=Florian |authorlink=Florian Cajori |title=A History of Mathematics, 5th ed |pages=152 |publisher=AMS Bookstore |date=1991 |isbn=0821821024 |url=http://books.google.com/books?id=mGJRjIC9fZgC&dq=%22Cajori%22+%22A+History+of+Mathematics%22+&lr=&source=gbs_summary_s&cad=0}}</ref>. It was formerly also called [[hyperbolic]] logarithm<ref>{{cite web |author=Flashman, Martin |url=http://www.humboldt.edu/~mef2/Presentations/Estimations.html |title=Estimating Integrals using Polynomials |accessdate=2008-03-23}}</ref>.  It is also sometimes referred to as the [[Napierian logarithm]], although the original meaning of this term is slightly different.
+
+==Notational conventions==
+
+Mathematicians, statisticians, and some engineers generally understand either "log(''x'')" or "ln(''x'')" to mean log<sub>e</sub>(''x''), i.e., the natural logarithm of ''x'', and write "log<sub>10</sub>(''x'')" if the [[common logarithm|base 10 logarithm]] of ''x'' is intended.
+
+Some engineers, biologists, and some others generally write "ln(''x'')" (or occasionally "log<sub>e</sub>(''x'')") when they mean the natural logarithm of ''x'', and take "log(''x'')" to mean log<sub>10</sub>(''x'').
+
+In most commonly-used [[programming language]]s, including [[C (programming language)|C]], [[C++]], [[SAS System|SAS]], [[MATLAB]], <!--[[Pascal programming language|Pascal]], -->[[Fortran]], and [[BASIC programming language|BASIC]], "log" or "LOG" refers to the natural logarithm.
+
+In hand-held [[calculator]]s, the natural logarithm is denoted '''ln''', whereas '''log''' is the base 10 logarithm.
+
+In theoretical computer science, information theory and cryptography "log(''x'')" generally means "[[binary logarithm|log<sub>2</sub>]](''x'')" (although this is often written as lg(''x'') instead).
+
+==Origin of the term ''natural logarithm''==
+
+Initially, it might seem that since our numbering system is [[base 10]], this base would be more "natural" than base ''e''. But mathematically, the number 10 is not particularly significant.  Its use culturally—as the basis for many societies’ numbering systems—likely arises from humans’ typical number of fingers.<ref>{{cite book | last=Boyers | first=Carl | title=A History of Mathematics | publisher=[[John Wiley & Sons|Wiley]] | date=1968}}</ref> Other cultures have based their [[counting systems]] on such choices as 5, 8, 12, 20, and 60.<ref>{{cite journal | last=Harris | first=John | title=Australian Aboriginal and Islander mathematics | journal=Australian Aboriginal Studies | volume=2 |pages=29–37 | date=1987 | url=http://www1.aiatsis.gov.au/exhibitions/e_access/serial/m0005975_v_a.pdf| access-date=2008-02-12  | format=PDF  | accessdate=2008-12-28}}</ref><ref>{{cite journal | last=Large| first=J.J. | title=The vigesimal system of enumeration  | journal=Journal of the Polynesian Society| volume=11 |pages=260–261 | date=1902}}</ref><ref>{{cite journal | last=Cajori| first=Florian| authorlink = Florian Cajori | title=''Sexagesimal fractions among the Babylonians''  | journal=American Mathematical Monthly| volume=29 |pages=8–10 | date=1922| doi=10.2307/2972914}}</ref>
+
+log<sub>''e''</sub> is a "natural" log because it automatically springs from, and appears so often in, mathematics. For example, consider the problem of [[derivative|differentiating]] a logarithmic function:
+:<math>frac{d}{dx}log_b(x) = frac{log_b(e)}{x} =frac{1}{xln(b)} </math>
+If the [[base (mathematics)|base]] ''b'' equals ''e'', then the derivative is simply 1/''x'', and at ''x''&nbsp;=&nbsp;1 this derivative equals 1. Another sense in which the base ''e'' logarithm is the most natural is that it can be defined quite easily in terms of a simple integral or [[Taylor series]] and this is not true of other logarithms. 
+
+Further senses of this naturalness make no use of [[calculus]].  As an example, there are a number of simple series involving the natural logarithm.  [[Pietro Mengoli]] and [[Nicholas Mercator]] called it ''logarithmus naturalis'' a few decades before [[Sir Isaac Newton|Newton]] and [[Leibniz]] developed calculus.<ref>{{cite web | last=Ballew | first=Pat | title=Math Words, and Some Other Words, of Interest | url=http://www.pballew.net/arithme1.html#ln | access-date=2007-09-16}}</ref>
+
+== Definitions ==
+[[Image:Log-pole-x.svg|thumb|ln(x) defined as the area under the curve f(''x'') = 1/''x'']]
+Formally, ln(''a'') may be defined as the area under the graph of 1/''x'' from 1 to ''a'', that is as the [[integral]],
+:<math>ln(a)=int_1^a frac{1}{x},dx.</math>
+
+This defines a logarithm because it satisfies the fundamental property of a logarithm:
+:<math>ln(ab)=ln(a)+ln(b) ,!</math>
+
+This can be demonstrated by letting <math>t=	frac xa</math> as follows:
+
+:<math>
+ln (ab) 
+= int_1^{ab} frac{1}{x} ; dx 
+= int_1^a frac{1}{x} ; dx ; + int_a^{ab} frac{1}{x} ; dx 
+=int_1^{a} frac{1}{x} ; dx ; + int_1^{b} frac{1}{t} ; dt 
+= ln (a) + ln (b)
+</math>
+
+The number ''[[E (mathematical constant)|e]]'' can then be defined as the unique real number ''a'' such that ln(''a'')&nbsp;=&nbsp;1.
+
+Alternatively, if the [[exponential function]] has been defined first using an [[infinite series]], the natural logarithm may be defined as its [[inverse function]], i.e., ln is that function such that <math>e^{ln(x)} = x!</math>.  Since the range of the exponential function on real arguments is all positive real numbers and since the exponential function is strictly increasing, this is well-defined for all positive ''x''.
+
+== Properties ==
+
+* <math>ln(1) = 0,</math>
+
+* <math>ln(-1) = i pi quad ,</math>
+::(see [[complex logarithm]])
+
+* <math>ln(x) < ln(y) quad{
+m for}quad 0 < x < y;</math>
+
+* <math>frac{h}{1+h} leq ln(1+h) leq h quad{
+m for}quad h > -1;</math>
+
+* <math>lim_{x 	o 0} frac{ln(1+x)}{x} = 1.,</math>
+
+== Derivative, Taylor series ==
+[[Image:LogTay.svg|300px|thumb|right|The Taylor polynomials for <math>ln (1+x),</math> only provide accurate approximations in the range -1 < ''x'' ≤ 1. Note that, for ''x'' > 1, the Taylor polynomials of higher degree are ''worse'' approximations.]]
+
+The [[derivative]] of the natural logarithm is given by
+:<math>frac{d}{dx} ln(x) = frac{1}{x}.,</math>
+
+This leads to the [[Taylor series]] for <math>ln(1+x),</math> around 0; also known as the [[Mercator series]]
+:<math>ln(1+x)=sum_{n=1}^infty frac{(-1)^{n+1}}{n} x^n = x - frac{x^2}{2} + frac{x^3}{3} - cdots quad{
+m for}quad left|x
+ight| leq 1quad</math>
+::<math>{
+m unless}quad x = -1</math>
+
+At right is a picture of <math>ln (1+x),</math> and some of its [[Taylor polynomial]]s around 0. These approximations converge to the function only in the region -1&nbsp;<&nbsp;''x''&nbsp;≤&nbsp;1; outside of this region the higher-degree Taylor polynomials are ''worse'' approximations for the function.
+
+Substituting ''x''-1 for ''x'', we obtain an alternative form for ln(x) itself, namely
+:<math>ln(x)=sum_{n=1}^infty frac{(-1)^{n+1}}{n} (x-1) ^ n</math>
+
+:<math>ln(x)= (x - 1) - frac{(x-1) ^ 2}{2} + frac{(x-1)^3}{3} - frac{(x-1)^4}{4} cdots</math>
+
+:<math>{
+m for}quad left|x-1
+ight| leq 1quad {
+m unless}quad x = 0.</math><ref>[http://www.math2.org/math/expansion/log.htm "Logarithmic Expansions" at Math2.org]</ref>
+
+By using the [[binomial transform#Euler transform|Euler transform]] on the Mercator series, one obtains the following, which is valid for any x with absolute value greater than 1:
+
+:<math>ln{x over {x-1}} = sum_{n=1}^infty {1 over {n x^n}} = {1 over x}+ {1 over {2x^2}} + {1 over {3x^3}} + cdots</math>
+
+This series is similar to a [[BBP-type formula]].
+
+Also note that <math> x over {x-1} </math> is its own inverse function, so to yield the natural logarithm of a certain number ''y'', simply put in <math> y over {y-1} </math> for ''x''.
+
+== The natural logarithm in integration ==
+
+The natural logarithm allows simple [[integral|integration]] of functions of the form ''g''(''x'') = ''f''&nbsp;'(''x'')/''f''(''x''): an [[antiderivative]] of ''g''(''x'') is given by ln(|''f''(''x'')|).  This is the case because of the [[chain rule]] and the following fact:
+
+:<math> {d over dx}left( ln left| x 
+ight| 
+ight) = {1 over x}.</math>
+
+In other words,
+
+:<math>int { 1 over x} dx = ln|x| + C</math>
+
+and
+
+:<math>int { frac{f'(x)}{f(x)}, dx} = ln |f(x)| + C.</math>
+
+Here is an example in the case of ''g''(''x'') = tan(''x''):
+
+:<math>int 	an (x) ,dx = int {sin (x) over cos (x)} ,dx</math>
+:<math>int 	an (x) ,dx = int {-{d over dx} cos (x) over {cos (x)}} ,dx.</math>
+Letting ''f''(''x'') = cos(''x'') and ''f'''(''x'')= - sin(''x''):
+:<math>int 	an (x) ,dx = -ln{left| cos (x) 
+ight|} + C</math>
+:<math>int 	an (x) ,dx = ln{left| sec (x) 
+ight|} + C</math>
+
+where ''C'' is an [[arbitrary constant of integration]].
+
+The natural logarithm can be integrated using [[integration by parts]]:
+
+:<math>int ln (x) ,dx = x ln (x)  - x + C.</math>
+
+== Numerical value ==<!-- This section is linked from [[Common logarithm]] -->
+
+To calculate the numerical value of the natural logarithm of a number, the Taylor series expansion can be rewritten as:
+
+:<math>ln(1+x)= x ,left( frac{1}{1} - x,left(frac{1}{2} - x ,left(frac{1}{3} - x ,left(frac{1}{4} - x ,left(frac{1}{5}- ldots 
+ight)
+ight)
+ight)
+ight)
+ight) quad{
+m for}quad left|x
+ight|<1.,!</math>
+
+To obtain a better rate of convergence, the following identity can be used.
+
+:{|
+|-
+|<math>ln(x) = lnleft(frac{1+y}{1-y}
+ight)</math>
+|<math>= 2,y, left( frac{1}{1} + frac{1}{3} y^{2} + frac{1}{5} y^{4} + frac{1}{7} y^{6} + frac{1}{9} y^{8} + ldots 
+ight) </math>
+|-
+|
+|<math>= 2,y, left( frac{1}{1} + y^{2} , left( frac{1}{3} +  y^{2} , left( frac{1}{5} + y^{2} , left( frac{1}{7} + y^{2} , left( frac{1}{9} + ldots 
+ight) 
+ight) 
+ight)
+ight) 
+ight) </math>
+|}
+
+:provided that ''y'' = (''x''&minus;1)/(''x''+1) and ''x'' &gt; 0.
+
+For ln(''x'') where ''x'' &gt; 1, the closer the value of ''x'' is to 1, the faster the rate of convergence. The identities associated with the logarithm can be leveraged to exploit this:
+
+:{|
+|-
+|<math>ln(123.456)!</math>
+|<math>= ln(1.23456 	imes 10^2) ,!</math>
+|-
+|
+|<math>= ln(1.23456) + ln(10^2) ,!</math>
+|-
+|
+|<math>= ln(1.23456) + 2 	imes ln(10) ,!</math>
+|-
+|
+|<math>approx ln(1.23456) + 2 	imes 2.3025851 ,!</math>
+|}
+
+Such techniques were used before calculators, by referring to numerical tables and performing manipulations such as those above.
+
+===High precision===
+To compute the natural logarithm with many digits of precision, the Taylor series approach is not efficient since the convergence is slow. An alternative is to use [[Newton's method]] to invert the exponential function, whose series converges more quickly.
+
+An alternative for extremely high precision calculation is the formula {{Fact|date=February 2007}}
+
+:<math>ln x approx frac{pi}{2 M(1,4/s)} - m ln 2</math>
+
+where ''M'' denotes the [[arithmetic-geometric mean]] and
+
+:<math>s = x ,2^m > 2^{p/2},</math>
+
+with ''m'' chosen so that ''p'' bits of precision is attained. (For most purposes, the value of 8 for m is sufficient.) In fact, if this method is used, Newton inversion of the natural logarithm may conversely be used to calculate the exponential function efficiently. (The constants ln 2 and [[pi|&pi;]] can be pre-computed to the desired precision using any of several known quickly converging series.)
+
+===Computational complexity===
+{{see main|Computational complexity of mathematical operations}}
+The [[computational complexity]] of computing the natural logarithm (using the arithmetic-geometric mean) is O(''M''(''n'') ln ''n''). Here ''n'' is the number of digits of precision at which the natural logarithm is to be evaluated and ''M''(''n'') is the computational complexity of multiplying two ''n''-digit numbers.
+
+==Continued fractions==
+
+While no simple [[continued fraction]]s are available, several [[generalized continued fraction]]s are, including:
+
+:<math>
+log(1+x)=frac{x^1}{1}-frac{x^2}{2}+frac{x^3}{3}-frac{x^4}{4}+frac{x^5}{5}-cdots=
+cfrac{x}{1-0x+cfrac{1^2x}{2-1x+cfrac{2^2x}{3-2x+cfrac{3^2x}{4-3x+cfrac{4^2x}{5-4x+ddots}}}}}
+</math>
+
+:<math>
+log(1+frac{2x}{y})=cfrac{2x}{y+cfrac{x}{1+cfrac{x}{3y+cfrac{2x}{1+cfrac{2x}{5y+cfrac{3x}{1+ddots}}}}}}=
+cfrac{2x}{(y+x)-cfrac{(x)^2}{3(y+x)-cfrac{(2x)^2}{5(y+x)-cfrac{(3x)^2}{7(y+x)-ddots}}}}
+</math>
+
+==Complex logarithms==
+{{Main|Complex logarithm}}
+The exponential function can be extended to a function which gives a [[complex number]] as ''e''<sup>''x''</sup> for any arbitrary complex number ''x''; simply use the infinite series with ''x'' complex. This exponential function can be inverted to form a complex logarithm that exhibits most of the properties of the ordinary logarithm. There are two difficulties involved: no ''x'' has ''e''<sup>''x''</sup> = 0; and it turns out that ''e''<sup>2''πi''</sup> = 1 = ''e''<sup>0</sup>. Since the multiplicative property still works for the complex exponential function, ''e''<sup>''z''</sup> = ''e''<sup>''z''+2''nπi''</sup>, for all complex ''z'' and integers ''n''. 
+
+So the logarithm cannot be defined for the whole [[complex plane]], and even then it is multi-valued &ndash; any complex logarithm can be changed into an "equivalent" logarithm by adding any integer multiple of 2''πi'' at will. The complex logarithm can only be single-valued on the [[complex plane#Cutting the plane|cut plane]].  For example, ln ''i'' = 1/2 ''πi'' or 5/2 ''πi'' or &minus;3/2 ''πi'', etc.; and although ''i''<sup>4</sup> = 1, 4 log ''i'' can be defined as  2''πi'', or 10''πi'' or &minus;6 ''πi'', and so on.
+
+<gallery caption="Plots of the natural logarithm function on the complex plane ([[principal branch]])">
+Image:NaturalLogarithmRe.png| ''z'' = Re(ln(x+iy))
+Image:NaturalLogarithmIm.png| ''z'' = |Im(ln(x+iy))|
+Image:NaturalLogarithmAbs.png| ''z'' = |ln(x+iy)|
+Image:NaturalLogarithmAll.png| Superposition of the previous 3 graphs
+</gallery>
+
+==See also== 
+*[[John Napier]] - inventor of logarithms
+*[[Logarithmic integral function]]
+*[[Nicholas Mercator]] - first to use the term natural log
+*[[Polylogarithm]]
+*[[Von Mangoldt function]]
+*[[e (mathematical constant)|The number ''e'']]
+
+==References==
+{{reflist}}
+
+==External links ==
+* [http://betterexplained.com/articles/demystifying-the-natural-logarithm-ln/ Demystifying the Natural Logarithm (ln) | BetterExplained]
+
+[[Category:Logarithms]]
+[[Category:Elementary special functions]]
+
+[[ar:لوغاريتم طبيعي]]
+[[bs:Prirodni logaritam]]
+[[bg:Естествен логаритъм]]
+[[ca:Logaritme natural]]
+[[da:Naturlig logaritme]]
+[[de:Logarithmus#Natürlicher Logarithmus und andere spezielle Logarithmen]]
+[[es:Logaritmo neperiano]]
+[[fr:Logarithme naturel]]
+[[ko:자연로그]]
+[[id:Logaritma natural]]
+[[it:Logaritmo naturale]]
+[[he:לוגריתם טבעי]]
+[[lv:Naturālais logaritms]]
+[[lt:Natūrinis logaritmas]]
+[[mk:Природен логаритам]]
+[[nl:Natuurlijke logaritme]]
+[[ja:自然対数]]
+[[no:Naturlig logaritme]]
+[[pms:Logaritm ëd Napier]]
+[[pl:Logarytm naturalny]]
+[[pt:Logaritmo natural]]
+[[sr:Природни логаритам]]
+[[th:ลอการิทึมธรรมชาติ]]
+[[zh:自然對數]]

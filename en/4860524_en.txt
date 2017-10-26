@@ -1,0 +1,140 @@
+{{otherusesof}}
+{{wiktionarypar2|L|l}}
+{{Latin alphabet navbox|uc=L|lc=l}}
+'''L''' is the twelfth letter  of the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈɛl}}) is spelled '''el''' or occasionally '''ell'''.<ref>"L" ''Oxford English Dictionary,'' 2nd edition (1989) ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged.'' (1993); "el", "ell", ''op. cit.''</ref>
+ghia
+
+==History==
+The letter '''L''' is derived from the [[Phoenician alphabet|Phoenician]] [[crook]] or [[goad]] which stood for {{IPA|/l/}}. This originally may have been based on an [[Egyptian language|Egyptian]] [[hieroglyph]] that was adapted by Semites for [[alphabetic]] purposes. The Greek letter [[Lambda]] Λ (upper case) or λ (lower case), as well as the equivalent [[Etruscan language|Etruscan]] and Latin letters, represent the same sound as the [[Semitic]] letter.
+{| border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;text-align:center;"
+|- bgcolor="#EEEEEE"
+! Egyptian hieroglyph                                          poep
+! Proto-Semitic Lpoiop
+! Phoenician <br/>''[[lamedh]]''
+! Etruscan L
+! Greek <br/>''[[Lambda]]''
+|-----
+|<hiero>S39</hiero>
+|[[Image:Proto-semiticL-01.png]]
+|[[Image:PhoenicianL-01.png]]
+|[[Image:EtruscanL-01.png]]
+|[[Image:Lambda uc lc.svg|100px]]
+|}
+
+==Pronunciation==
+In [[English language|English]], ''L'' can have several values, depending on whether it occurs before or after a vowel. The [[alveolar lateral approximant]] (the sound which the [[International Phonetic Alphabet|IPA]] uses the lowercase {{IPA|[l]}} to represent) occurs before a vowel, as in ''lip'' or ''please'', while the [[velarized alveolar lateral approximant]] (IPA {{IPA|[ɫ]}}) occurs in ''bell'' and ''milk'' (see '''[[Dark L]]'''). This velarization does not occur in many European languages that use ''L''; it is also a factor making the pronunciation of ''L'' difficult for users of languages that either lack, or have different values, for ''L'', such as [[Japanese language|Japanese]] or some southern dialects of [[Chinese language|Chinese]].
+
+''L'' can occur before almost any [[plosive]], [[fricative]], or [[affricate]] in English. Common digraphs include ''LL'', which has a value identical to ''L'' in English, but has the separate value [[voiceless alveolar lateral fricative]] (IPA {{IPA|/ɬ/}}) in [[Welsh language|Welsh]], where it can appear in an initial position.
+
+A [[palatal lateral approximant]] or palatal ''L'' (IPA {{IPA|/ʎ/}}) occurs in many languages, and is represented by ''GL'' in [[Italian language|Italian]], ''LL'' in [[Spanish language|Spanish]] and [[Catalan language|Catalan]], ''LH'' in [[Portuguese language|Portuguese]], and ''Ļ'' in [[Latvian language|Latvian]].
+
+In English writing, ''L'' is often silent in such words as ''walk'' or ''could'' (its presence modifies other letters' sounds, i.e. 'wak' might be more likely to be pronounced such that it would rhyme with 'back').
+
+==Codes for computing==
+{{Letter
+|NATO=Lima
+|Morse=·–··
+|Character=L
+|Braille=⠇
+}}
+In [[Unicode]] the [[majuscule|capital]] L is codepoint U+004C and the [[lowercase]] l is U+006C. In some fonts, a lowercase l may be difficult to distinguish from a 1(one) or an uppercase letter I([[i]]). A more stylized version based on the handwritten ℓ is sometimes used - this is often used as a suffix on a number to represent [[litres]]. Its codepoint is U+2113 and its numeric character reference is "<tt>&amp;#8467;</tt>". Capital I(i) can also be hard to distinguish from a lowercase l(L), as many fonts use a vertical bar for both of these characters. In recent times, many new fonts have curved the lowercase form to the right and is increasingly common, especially on European road signs and advertisements.
+
+The [[ASCII]] code for capital L is 76 and for lowercase l is 108; or in [[Binary numeral system|binary]] 01001100 and 01101100, correspondingly.
+
+The [[EBCDIC]] code for capital L is 211 and for lowercase l is 147.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#76;</tt>" and "<tt>&amp;#108;</tt>" for upper and lower case respectively.
+
+==See also==
+{{Commons|L}}
+*[[L with stroke|Ł]]
+*[[Ll]]
+*[[Pound sign|£]]
+*[[El (Cyrillic)|Л, л - El (Cyrillic)]]
+*[[Lambda|Λ, λ - Lambda (Greek)]]
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|L|}}
+
+[[Category:Latin letters]]
+
+[[af:L]]
+[[als:L]]
+[[ar:L]]
+[[arc:L]]
+[[ast:L]]
+[[az:L]]
+[[zh-min-nan:L]]
+[[bs:L]]
+[[br:L (lizherenn)]]
+[[ca:L]]
+[[cs:L]]
+[[co:L]]
+[[cy:L]]
+[[de:L]]
+[[et:L]]
+[[el:L]]
+[[es:L]]
+[[eo:L]]
+[[eu:L]]
+[[fa:L]]
+[[fr:L (lettre)]]
+[[fy:L]]
+[[fur:L]]
+[[gv:Lhouan]]
+[[gd:L]]
+[[gl:L]]
+[[gan:L]]
+[[ko:L]]
+[[hr:L]]
+[[ilo:L]]
+[[is:L]]
+[[it:L]]
+[[he:L]]
+[[ka:L]]
+[[kw:L]]
+[[sw:L]]
+[[ht:L]]
+[[la:L]]
+[[lv:L]]
+[[lb:L]]
+[[lt:L]]
+[[hu:L]]
+[[mk:L (Латиница)]]
+[[mzn:L]]
+[[ms:L]]
+[[nah:L]]
+[[nl:L (letter)]]
+[[ja:L]]
+[[no:L]]
+[[nn:L]]
+[[nrm:L]]
+[[uz:L (harf)]]
+[[pl:L]]
+[[pt:L]]
+[[ro:L]]
+[[qu:L]]
+[[ru:L (латиница)]]
+[[se:L]]
+[[stq:L]]
+[[scn:L]]
+[[simple:L]]
+[[sk:L]]
+[[sl:L]]
+[[sr:L (слово латинице)]]
+[[fi:L]]
+[[sv:L]]
+[[tl:L]]
+[[th:L]]
+[[tr:L (harf)]]
+[[uk:L (латиниця)]]
+[[vec:L]]
+[[vi:L]]
+[[vo:L]]
+[[yi:L]]
+[[yo:L]]
+[[zh-yue:L]]
+[[bat-smg:L]]
+[[zh:L]]

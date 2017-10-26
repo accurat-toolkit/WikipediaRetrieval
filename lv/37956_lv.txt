@@ -1,0 +1,63 @@
+'''Naturālais logaritms''' ir logaritms, kura bāze ir skaitlis <math> e</math>, <math>e=2,7182818...,</math>. Naturālo logaritmu no skaitļa <math> x</math> apzīmē ar <math> ln x</math>. Līdz ar to <math> log_e x = ln x,</math>. Vienkārši runājot, <math> ln x</math> ir kāpinātājs, kurā kāpinot skaitli ''e'', iegūtu skaitli ''x''.<br />
+Ir pareizas šādas vienādības:<br />
+
+Visiem reāliem ''x''
+:<math>ln e^x = x.,! </math>
+
+un visiem pozitīviem x
+:<math>e^{ln x} = x.,</math>
+
+== Definīcija izmantojot integrāli ==
+
+<math> ln x</math> var tikt definēts kā laukums zem funkcijas <math>y = frac{1}{x}</math> grafika robežās no 1 līdz <math>a</math>, tāpēc to var izteikt ar integrāli
+:<math>ln a =int_1^a frac{1}{x},dx.</math>
+
+== Īpašības ==
+
+* ln <math>x</math> ir definēts visiem x > 0
+* ln <math>x</math> ir augoša funkcija
+* <math> ln(xy) = ln x + ln y !, </math>
+* Visiem <math>x > 0</math> <math> ln x leq x - 1</math>.
+* <math>ln'x = frac{1}{x} </math>
+
+== Robežas ==
+
+* <math>lim_{x 	o 0} frac{ln(1+x)}{x} = 1.,</math>
+* Ja <math>a > 0</math>, tad <math>lim_{x 	o infty} frac{ln x}{x^a} = 0.,</math>
+
+== Atvasināšana ==
+
+Dažreiz naturālie logaritmi tiek izmantoti lai atvasinātu kādu funkciju. Piemēram, <math>(x^x)' = (e^{x ln x})' = e^{x ln x} cdot (x ln x)' = x^x cdot (1+ ln x)</math>.
+
+== Skatīt arī ==
+
+* [[Logaritms]]
+
+[[Kategorija:Matemātika]]
+
+[[ar:لوغاريتم طبيعي]]
+[[bg:Естествен логаритъм]]
+[[br:Logaritm neperian]]
+[[bs:Prirodni logaritam]]
+[[ca:Logaritme natural]]
+[[da:Naturlig logaritme]]
+[[de:Logarithmus#Natürlicher Logarithmus und andere spezielle Logarithmen]]
+[[en:Natural logarithm]]
+[[es:Logaritmo neperiano]]
+[[et:Naturaallogaritm]]
+[[fr:Logarithme naturel]]
+[[he:לוגריתם טבעי]]
+[[id:Logaritma natural]]
+[[it:Logaritmo naturale]]
+[[ja:自然対数]]
+[[ko:자연로그]]
+[[lt:Natūrinis logaritmas]]
+[[mk:Природен логаритам]]
+[[nl:Natuurlijke logaritme]]
+[[no:Naturlig logaritme]]
+[[pl:Logarytm naturalny]]
+[[pms:Logaritm ëd Napier]]
+[[pt:Logaritmo natural]]
+[[sr:Природни логаритам]]
+[[th:ลอการิทึมธรรมชาติ]]
+[[zh:自然對數]]

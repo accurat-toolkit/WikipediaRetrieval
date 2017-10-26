@@ -1,0 +1,135 @@
+{{Info BioTakso
+| platums       = 235px
+| attēls        = Bright red tomato and cross section02.jpg
+| att_nosaukums = 
+| valsts        = Plantae
+| valsts_lv     = Augi
+| tips          = Magnoliophyta
+| tips_lv       = Segsēkļi
+| klase         = Magnoliopsida
+| klase_lv      = Divdīgļlapji
+| kārta         = Solanales
+| kārta_lv      = Nakteņu rinda
+| dzimta        = Solanaceae
+| dzimta_lv     = Nakteņu dzimta
+| ģints         = Solanum
+| ģints_lv      = Naktenes
+| suga          = S. lycopersicum
+| suga_lv       = Tomāts
+| binomial      = Solanum lycopersicum
+| sinonīmi      = Lycopersicon lycopersicum</br>Lycopersicon esculentum
+| kategorijas   = nē
+}}
+
+'''Tomāts''' (''Solanum lycopersicum'') ir [[nakteņu dzimta]]s viengadīgs vai daudzgadīgs [[augs]]. Tomāti ir dārzeņaugi. Sadzīvē ar vārdu ''tomāts'' biežāk saprot šī auga [[auglis|augli]]. Bioloģiski auglis skaitās kā [[oga]]. Tas parasti ir [[sarkans]], bet atsevišķām šķirnēm auglis var būt arī citās krāsās. Toties pirms nogatavošanās tas parasti ir [[zaļš]]. Arī tā izmēri var mainīties no ļoti maza līdz pat tik lielam kā [[ābols|ābolam]].
+
+Tomātus izmanto [[pārtika|pārtikā]], it īpaši itāliešu ēdienos. No tiem izgatavo [[tomātu mērce|tomātu mērci]], [[ketčups|ketčupu]] un citus produktus.
+
+
+{{pārtika-aizmetnis}}
+{{botānika-aizmetnis}}
+
+[[Kategorija:Nakteņu dzimta]]
+
+[[an:Solanum lycopersicum]]
+[[ang:Heortæppel]]
+[[ar:طماطم]]
+[[ast:Tomate]]
+[[az:Pomidor]]
+[[bat-smg:Tuomats]]
+[[bcl:Kamatis]]
+[[be:Таматы]]
+[[be-x-old:Памідоры]]
+[[bg:Домат]]
+[[bn:টমেটো]]
+[[bo:ལྡུམ་སྒོང་།]]
+[[br:Tomatez]]
+[[bs:Paradajz]]
+[[ca:Tomàquet]]
+[[cs:Rajče jedlé]]
+[[cy:Tomato]]
+[[da:Tomat]]
+[[de:Tomate]]
+[[dv:ވިލާތު ބަށި]]
+[[el:Τομάτα]]
+[[en:Tomato]]
+[[eo:Tomato]]
+[[es:Solanum lycopersicum]]
+[[et:Tomat]]
+[[eu:Tomate]]
+[[fa:گوجه فرنگی]]
+[[fi:Tomaatti]]
+[[fr:Tomate]]
+[[ga:Tráta]]
+[[gan:番茄]]
+[[gd:Tomàto]]
+[[gl:Tomate]]
+[[gv:Traase]]
+[[he:עגבנייה]]
+[[hi:टमाटर]]
+[[hr:Rajčica]]
+[[ht:Tomat]]
+[[hu:Paradicsom (növény)]]
+[[id:Tomat]]
+[[ilo:Kamatis]]
+[[io:Tomato]]
+[[is:Tómatur]]
+[[it:Solanum lycopersicum]]
+[[iu:ᒥᓗᑦᓱᑳᒐᖅ/milutsukaagaq]]
+[[ja:トマト]]
+[[ka:ჩვეულებრივი პომიდორი]]
+[[kk:Қызанақ]]
+[[kn:ಟೊಮೇಟೊ]]
+[[ko:토마토]]
+[[ku:Fireng]]
+[[la:Lycopersicum]]
+[[lad:Tomat]]
+[[lij:Tomata]]
+[[ln:Tomáti]]
+[[lt:Pomidoras]]
+[[mg:Voatabia]]
+[[mk:Домат]]
+[[ml:തക്കാളി]]
+[[mn:Улаан лооль]]
+[[mr:टोमॅटो]]
+[[ms:Tomato]]
+[[nah:Xītomatl]]
+[[nap:Pummarola]]
+[[nl:Tomaat]]
+[[nn:Tomat]]
+[[no:Tomat]]
+[[nv:Chʼil łichxíʼí]]
+[[oc:Tomata]]
+[[os:Пъамидор]]
+[[pam:Kamatis]]
+[[pl:Pomidor zwyczajny]]
+[[pt:Tomate]]
+[[qu:Chilltu]]
+[[ro:Roşie]]
+[[ru:Томат]]
+[[scn:Pumadoru]]
+[[simple:Tomato]]
+[[sk:Rajčiak jedlý]]
+[[sl:Paradižnik]]
+[[sq:Domatja]]
+[[sr:Парадајз]]
+[[sv:Tomat]]
+[[sw:Mnyanya]]
+[[szl:Tůmata]]
+[[ta:தக்காளி]]
+[[te:టమాటో]]
+[[th:มะเขือเทศ]]
+[[tl:Kamatis]]
+[[to:Temata]]
+[[tr:Domates]]
+[[ug:پەمىدۇر]]
+[[uk:Помідор]]
+[[ur:ٹماٹر]]
+[[vi:Cà chua]]
+[[vls:Tomatte]]
+[[yi:טאמאטע]]
+[[yo:Tòmátò]]
+[[zh:番茄]]
+[[zh-min-nan:Kam-á-bi̍t]]
+[[zh-yue:番茄]]
+[[zu:Utamatisi]]

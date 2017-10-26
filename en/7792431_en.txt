@@ -1,0 +1,47 @@
+{{Infobox mineral
+| name        = Agrellite
+| category    = [[Silicate minerals]]
+| boxwidth    = 
+| boxbgcolor  = 
+| image       = 
+| caption     = 
+| formula     = NaCa<sub>2</sub>Si<sub>4</sub>O<sub>10</sub>F
+| molweight   = 
+| color       = White, grayish-white, greenish-white
+| habit       = Lath - shaped like a small, thin plaster lath, rectangular in shape
+| system      = [[Triclinic]]
+| twinning    = 
+| cleavage    = perfect [110]
+| fracture    = 
+| mohs        = 5.5
+| luster      = pearly
+| refractive  = nα = 1.567 nβ = 1.579 nγ = 1.581
+| opticalprop = biaxial
+| birefringence = δ = 0.014
+| pleochroism = 
+| streak      = white 
+| gravity     = 2.88
+| melt        = 
+| fusibility  = 
+| diagnostic  = 
+| solubility  = 
+| diaphaneity = transluscent
+| other       = 
+| references  = <ref>http://www.mindat.org/min-57.html Mindat</ref><ref>http://www.webmineral.com/data/Agrellite.shtml Webmineral</ref>
+}}
+
+'''Agrellite''' ([[sodium|Na]][[calcium|Ca]]<sub>2</sub>[[silicon|Si]]<sub>4</sub>[[oxygen|O]]<sub>10</sub>[[fluorine|F]]) is a [[mineral]] found in [[Quebec]], [[Canada]]. It is also known from few other areas.
+
+It is named in honour of [[Stuart Olof Agrell]]. <ref> first reported in the Canadian Mineralogist (1976), vol. 14, pp. 120-126 </ref>
+
+
+==References==
+{{Reflist}}
+
+
+[[Category:Silicate minerals]]
+{{silicate-mineral-stub}}
+
+[[de:Agrellit]]
+[[it:Agrellite]]
+[[lv:Agrelīts]]

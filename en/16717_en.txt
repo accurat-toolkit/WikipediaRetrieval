@@ -1,0 +1,150 @@
+{{otherusesof}} 
+{{wiktionarypar2|K|k}}
+{{Latin alphabet navbox|uc=K|lc=k}}
+'''K''' (and '''k''') is the eleventh letter of the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈkeɪ}}<!--Do not transcribe this as /kʰeɪ/. Aspiration is not phonemic in English.-->) is spelled '''kay'''.<ref>"K" ''Oxford English Dictionary,'' 2nd edition (1989); [[Webster's Dictionary|''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'']] (1993); "kay," op. cit.</ref>
+
+==History and usage==
+{| border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;text-align:center;"
+|- bgcolor="#EEEEEE"
+! Egyptian hieroglyph D
+! Proto-Semitic K
+! Phoenician <br/>''[[kaph]]''
+! Etruscan K
+! Greek <br/>''[[Kappa]]''
+|-----
+|<hiero>d</hiero>
+|[[Image:Proto-semiticK-01.png]]
+|[[Image:PhoenicianK-01.png]]
+|[[Image:EtruscanK-01.png]]
+|[[Image:Kappa uc lc.svg|64px]]
+|}
+
+The letter K comes from the Greek Κ ([[kappa]]), which was taken from the [[Semitic]] [[kaph|kap]], the symbol for an open hand and also the element [[Potassium]].<ref name="OED">[http://dictionary.oed.com/cgi/entry/50124982?query_type=word&queryword=k&first=1&max_to_show=10&sort_type=alpha&result_place=1&search_id=h5Sx-nTaC9b-24269&hilite=50124982 "K". ''The Oxford English Dictionary'', 2nd ed., 1989, online]</ref> This in turn was likely adapted by Semites who had lived in Egypt from the hieroglyph for [[hand (hieroglyph)|"hand" representing D]] in the Egyptian word for hand, ''d-r-t''. The Semites evidently assigned it the sound value {{IPA|/k/}} instead, because their word for hand started with that sound.<ref>Cyrus H. Gordon: ''[http://www.jstor.org/pss/543451 The Accidental Invention of the Phonemic Alphabet]''</ref>
+
+In the earliest [[Latin]] inscriptions, the letters C, K and Q were all used to represent the sounds /k/ and /g/ (which were not differentiated in writing). Of these, Q was used to represent /k/ or /g/ before a rounded vowel, K before /a/, and C elsewhere. Later, the use of C (and its variant G) replaced most usages of K and Q. K survived only in a few fossilized forms such as ''Kalendae'', "the [[calends]]".<ref>{{cite book
+|title=New Comparative Grammar of Greek and Latin
+|first=Andrew L. 
+|last=Sihler
+|edition=illustrated
+|publisher=[[Oxford University Press]]
+|year=1995
+|location=New York
+|ISBN=0195083458
+|url=http://books.google.com/books?id=IeHmqKY2BqoC
+|pages=21
+}}</ref>
+
+When [[Roman language|Greek]] words were taken into Latin, the Kappa was converted to C, with a few exceptions such as the [[praenomen]] ''[[Kaeso]]''.<ref name="OED" /> Some words from other alphabets were also transliterated into C. Therefore, the [[Romance languages]] have K only in words from still other language groups. The [[Celtic languages]] also chose C over K, and this influence carried over into [[Old English]]. Today, English is the only [[Germanic language]] to productively use hard C in addition to K (although [[Dutch language|Dutch]] use it in learned words of Latin origin and follows the same "hard / soft" distinction in such words as does French and English – but not in native words).
+
+Some English linguists prefer to reverse the Latin transliteration process for proper names in Greek, spelling ''[[Hecate]]'' as "Hekate", for example. And the writing down of languages that don't have their own alphabet with the Latin one has resulted in a standardization of the letter for this sound, as in ''Kwakiutl.''
+
+In the [[International Phonetic Alphabet]], [k] is the symbol for the [[voiceless velar plosive]].
+
+Several other alphabets also use characters with sharp angles to indicate the sound {{IPA|/k/}} or syllables that start with a {{IPA|/k/}}, for example: [[Arabic alphabet|Arabic]] ك, [[Hebrew alphabet|Hebrew]] כ or ק, [[Hangul|Korean]] ㄱ. This kind of phonetic-visual association was studied by [[Wolfgang Köhler]]. However, there are also many examples of rounded letters for {{IPA|/k/}}, like ค in [[Thai alphabet|Thai]], Ք in [[Armenian alphabet|Armenian]] and C in [[Latin alphabet|Latin]].
+
+==Codes for computing==
+{{Letter
+|NATO=Kilo
+|Morse=–·–
+|Character=K
+|Braille=⠅
+}}
+In [[Unicode]], the [[capital letter|capital]] K is codepoint U+004B and the [[lower case]] k is U+006B.
+
+The [[ASCII]] code for capital K is 75 and for lowercase k is 107; or in [[Binary numeral system|binary]] 01001011 and 01101011, correspondingly.
+
+The [[EBCDIC]] code for capital K is 210, and for lowercase k, 146.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#75;</tt>" and "<tt>&amp;#107;</tt>" for upper and lower case respectively.
+"K" also covers over 30,000,000,000 English words
+
+== See also ==
+{{Commons|K}}
+*[[Ƙ]] (hooked K)
+*[[К|К, к - Ka (Cyrillic)]]
+*[[Kappa|Κ, κ or ϰ - Kappa (Greek)]]
+
+== Notes ==
+{{reflist}}
+
+{{Latin alphabet|K|}}
+
+[[Category:Latin letters]]
+
+[[af:K]]
+[[als:K]]
+[[ar:K]]
+[[arc:K]]
+[[ast:K]]
+[[az:K]]
+[[zh-min-nan:K]]
+[[bs:K]]
+[[br:K (lizherenn)]]
+[[ca:K]]
+[[cs:K]]
+[[co:K]]
+[[cy:K]]
+[[da:K]]
+[[de:K]]
+[[el:K]]
+[[es:K]]
+[[eo:K]]
+[[eu:K]]
+[[fa:K]]
+[[fr:K (lettre)]]
+[[fy:K]]
+[[fur:K]]
+[[gv:Keirn (lettyr)]]
+[[gd:K]]
+[[gl:K]]
+[[gan:K]]
+[[ko:K]]
+[[hr:K]]
+[[ilo:K]]
+[[is:K]]
+[[it:K]]
+[[he:K]]
+[[ka:K]]
+[[kw:K]]
+[[sw:K]]
+[[ht:K]]
+[[ku:K (herf)]]
+[[la:K]]
+[[lv:K]]
+[[lb:K]]
+[[lt:K]]
+[[hu:K]]
+[[mk:K (Латиница)]]
+[[mg:K]]
+[[mzn:K]]
+[[ms:K]]
+[[nah:K]]
+[[nl:K (letter)]]
+[[ja:K]]
+[[no:K]]
+[[nrm:K]]
+[[uz:K (harf)]]
+[[pl:K]]
+[[pt:K]]
+[[ro:K]]
+[[qu:K]]
+[[ru:K (латиница)]]
+[[se:K]]
+[[stq:K]]
+[[simple:K]]
+[[sk:K]]
+[[sl:K]]
+[[sr:K (слово латинице)]]
+[[fi:K]]
+[[sv:K]]
+[[tl:K]]
+[[th:K]]
+[[tr:K (harf)]]
+[[uk:K (латиниця)]]
+[[vi:K]]
+[[vo:K]]
+[[yi:K]]
+[[yo:K]]
+[[zh-yue:K]]
+[[bat-smg:K]]
+[[zh:K]]

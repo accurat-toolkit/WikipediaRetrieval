@@ -1,0 +1,143 @@
+{{otherusesof}}
+{{wiktionarypar2|V|v}}
+{{Latin alphabet navbox|uc=V|lc=v}}
+
+'''V''' is the twenty-second letter in the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈviː}}) is spelled '''vee'''.<ref>"V" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "vee," op. cit.</ref>
+
+==The letter==
+The letter V ultimately comes from the [[Semitic]] letter ''[[Waw (letter)|Waw]]'', as do the modern letters [[F]], [[U]], [[W]], and [[Y]]. See [[F]] for details.
+
+In [[Greek language|Greek]], the letter "''[[upsilon]]''" (Υ) was adapted from ''waw'' to represent, at first, the vowel {{IPA|/u/}} as in "moon". This later developed to [[Close front rounded vowel|{{IPA|/y/}}]], the vowel spelled [[ü]] in [[German language|German]].
+
+In [[Latin]], it was borrowed in early times as V (without the stem) to represent the same {{IPA|/u/}} sound, as well as the consonantal {{IPA|/w/}}. Thus, ''num'' — originally spelled, ''NVM'' — was pronounced {{IPA|/nu:m/}} and ''via'' was pronounced {{IPA|/wi:a/}}. From the first century A.D. on, depending on [[Vulgar Latin]] dialect, consonantal {{IPA|/w/}} developed into {{IPA|/β/}}, then later to {{IPA|/v/}}.
+
+In [[Roman numerals]], the letter V is used to represent the number [[5 (number)|5]]. It was used because it resembled the convention of counting by notches carved in wood, with every fifth notch double-cut to form a "V".
+
+During the late [[Middle Ages]], two forms of "v" developed, which were both used for modern ''u'' and ''v''. The pointed form "v" was written at the beginning of a word, while a rounded form "u" was used in the middle or end, regardless of sound. So whereas ''valor'' and ''excuse'' appeared as in modern printing, "have" and "upon" were printed ''haue'' and ''vpon''. The first distinction between the letters "u" and "v" is recorded in a [[Gothic alphabet]] from 1386, where "v" preceded "u". By the mid-1500s, the "v" form was used to represent the consonant and "u" the vowel sound, giving us the modern letter "u". Capital "U" was not accepted as a distinct letter until many years later.<ref>{{cite book |last1=Pflughaupt |first1=Laurent |others=trans. Gregory Bruhn |title=Letter by Letter: An Alphabetical Miscellany |url=http://books.google.com/books?id=63Qnbt2CMiMC&pg=PA124 |accessdate=2009-06-21 |year=2008 |publisher=Princeton Architectural Press |isbn=9781568987378 |pages=123–124}}</ref>
+
+In the [[help:IPA|International Phonetic Alphabet]], {{IPA|/v/}} represents the [[voiced labiodental fricative]]. See [[Help:IPA]].
+
+Similarly to [[J]], [[K]], [[Q]], [[W]], and [[Y]], V is not used very frequently in the Basic English Language. However, it appears frequently in the [[Spanish language|Spanish]] and [[French language|French]] languages.
+
+This letter is not used in the Polish alphabet, along with [[Q]] and [[X]]. In loan words the letter [[W]] (pronounced {{IPA|/v/}}) is used instead.
+
+==Other names==
+* [[Catalan language|Catalan]]: ''ve'', pronounced [ve], but in dialects that lack the /v/ sound is named ''ve baixa'' "low vee".
+*[[French language|French]]: ''vé''
+*[[Italian language|Italian]]: ''vi'' or ''vu''
+*[[Spanish language|Spanish]]: ''uve'' (recommended) / ''ve'' (traditional). In some countries it is called ''ve corta'', ''ve baja'', ''ve pequeña'', ''ve chica'' or ''ve [[labiodental]]''. These further terms are needed to distinguish ''ve'' from ''be'', the letter [[B]], as both are pronounced {{IPA|/b/}} in Spanish.<ref>{{cite book |title=La tribuna del idioma |last=Díez Losada |first=Fernando |year=2004 |publisher=Editorial Tecnologica de CR |language=Spanish |isbn=9977661618, ISBN 9789977661612 |page=176 }}</ref>
+*[[Portuguese language|Portuguese]]: ''vê''
+*[[German language|German]]: ''fau'' 
+
+In [[Japanese language|Japanese]], V is often called "bui" (ブイ). This name is an approximation of the English name which substitutes the [[voiced bilabial plosive]] for the [[voiced labiodental fricative]] (which does not exist in native [[Japanese phonology]]) and differentiates it from "bī" (ビー), the Japanese name of the letter B. The sound can be written with the relatively recently developed [[katakana]] character 「ヴ」 (''vu'')<ref>Not an entirely new character, 「ヴ」 is simply the character for ''u'' (ウ) with the addition of a ''[[dakuten]]'', the same mark used to change the sound of other ''kana''. The ''dakuten'' is, for example, used to transform ''ka'' (カ) to ''ga'' (ガ), ''hi'' (ヒ) to ''bi'' (ビ) and ''ta'' (タ) to ''da'' (ダ).</ref> {{nihongo||ヴァ, ヴィ, ヴ, ヴェ, ヴォ|va, vi, vu, ve, vo}}, though in practice the pronunciation is usually not the strictly labiodental fricative found in English. Moreover, some words are more often spelled with the ''b'' equivalent character instead of ''vu'' due to the long-time use of the word without it (e.g. "[[violin]]" is more often found as {{nihongo|''baiorin''|バイオリン}} than as {{nihongo|''vaiorin''|ヴァイオリン}} due partly to inertia, and to some extent due to the more native Japanese sound).
+
+In [[Chinese language|Chinese]] [[Hanyu Pinyin]], letter V is missing, as there is no sound [v] in [[Chinese phonology|Standard Mandarin]] but the letter “v” is used by most input methods to enter letter “ü”, since it is missing on most keyboards. Romanised Chinese is a popular method to enter Chinese text phonetically.
+
+In [[Irish Language]] the letter v is sometimes used in loan words from English, such as ''Vean'' Van. However the sound "Ví" appears naturally in Irish when the letter B is lenitised or softened, i.e. [b] followed by a h forms a [v] so "Bhí" is pronounced Vee, "An Bhean"(the woman) is pronounced van, et cetera.
+
+==Codes for computing==
+{{Letter
+|NATO=Victor
+|Morse=···–
+|Character=V
+|Braille=⠧
+}}
+In [[Unicode]] the [[capital letter|capital]] V is codepoint U+0056 and the [[Lower case|lowercase]] v is U+0076.
+
+The [[ASCII]] code for capital V is 86 and for lowercase v is 118; or in [[Binary numeral system|binary]] 01010110 and 01110110, respectively.
+
+The [[EBCDIC]] code for capital V is 229 and for lowercase v is 165.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#86;</tt>" and "<tt>&amp;#118;</tt>" for upper and lower case respectively.
+
+==See also==
+{{Commons|V}}
+*[[Vee]]
+*[[Nu (letter)|Ν, ν - Nu]], Greek letter which looks like a "v" in lowercase 
+*[[Ve (Cyrillic)|В, в - Ve (Cyrillic)]]
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|V|}}
+
+[[Category:Latin letters]]
+
+[[af:V]]
+[[als:V]]
+[[ar:V]]
+[[arc:V]]
+[[ast:V]]
+[[az:V]]
+[[zh-min-nan:V]]
+[[be:V, літара]]
+[[bs:V]]
+[[br:V (lizherenn)]]
+[[ca:V]]
+[[cs:V]]
+[[co:V]]
+[[cy:V]]
+[[da:V]]
+[[de:V]]
+[[el:V]]
+[[es:V]]
+[[eo:V]]
+[[eu:V]]
+[[fa:V]]
+[[fr:V (lettre)]]
+[[fy:V]]
+[[fur:V]]
+[[gv:Vervine (lettyr)]]
+[[gd:V]]
+[[gl:V]]
+[[gan:V]]
+[[ko:V]]
+[[hr:V]]
+[[ilo:V]]
+[[is:V]]
+[[it:V]]
+[[he:V]]
+[[ka:V]]
+[[kw:V]]
+[[sw:V]]
+[[ht:V]]
+[[la:V]]
+[[lv:V]]
+[[lt:V]]
+[[hu:V]]
+[[mk:V (Латиница)]]
+[[mzn:V]]
+[[ms:V]]
+[[nah:V]]
+[[nl:V (letter)]]
+[[ja:V]]
+[[no:V]]
+[[nn:V]]
+[[nrm:V]]
+[[uz:V (harf)]]
+[[pl:V]]
+[[pt:V]]
+[[ro:V]]
+[[qu:V]]
+[[ru:V (латиница)]]
+[[se:V]]
+[[stq:V]]
+[[scn:V]]
+[[simple:V]]
+[[sk:V]]
+[[sl:V]]
+[[sh:V]]
+[[fi:V]]
+[[sv:V]]
+[[tl:V]]
+[[th:V]]
+[[tr:V (harf)]]
+[[uk:V (латиниця)]]
+[[vi:V]]
+[[vo:V]]
+[[yi:V]]
+[[yo:V]]
+[[zh-yue:V]]
+[[diq:V]]
+[[bat-smg:V]]
+[[zh:V]]

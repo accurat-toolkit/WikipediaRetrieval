@@ -1,0 +1,65 @@
+{| border=1 align=right cellpadding=4 cellspacing=0 width=250 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big>'''Hījumā apriņķis<br>Hiiu maakond'''</big>
+|-
+| align=center colspan="2" |
+{| style="background:#f9f9f9;" border="0" cellpadding="2" cellspacing="2"
+|- align=center
+| <div style="border-style: solid; border-color: #efefef; border-width: 1px">[[Image:Hiiumaa lipp.svg|150px|Hījumā apriņķa karogs]]
+| [[Image:Hiiumaa_vapp.svg|90px|Hījumā apriņķa ģerbonis]]
+|- align=center
+| <small>karogs</small>
+| <small>ģerbonis</small>
+|}
+|- valign=top
+| '''[[Galvaspilsēta]]''' || [[Kerdla]]
+|-
+| '''Platība'''
+| 1 023 km²
+|-
+| '''Iedzīvotāju skaits''' (2004. gadā)<br>&nbsp;- Iedz. blīvums
+| 10 289 <br>10,1/km² 
+|- align=center
+| colspan="2" style="background:#ffffff;" | [[Image:Hiiu maakond.svg|250px|Hījumā apriņķa atrašanās vieta]]
+|}
+
+'''Hījumā apriņķis''' ([[igauņu valoda|igauņu val.]]: ''Hiiumaa'' jeb ''Hiiu maakond'') ir viens no 15 [[Igaunija]]s [[Igaunijas administratīvais iedalījums|apriņķiem]]. Tas sastāv no [[Hījumā]] salas un vairākām citām mazākām salām. Austrumos to no [[Lēnes apriņķis|Lēnes apriņķa]] šķir [[Hari šaurums]], bet dienvidos no [[Sāres apriņķis|Sāres apriņķa]] - [[Soelas šaurums]]. Hījumā apriņķi apskalo [[Baltijas jūra]]. Hījumā apriņķis ir mazākais Igaunijas apriņķis gan platības, gan iedzīvotāju skaita ziņā. Apriņķa galvaspilsēta ir [[Kerdla]].
+
+==Pilsētas==
+*[[Kerdla]]
+
+==Ārējās saites==
+*[http://www.hiiumaa.ee/ Hījumā portāls]
+*[http://www.mv.hiiumaa.ee/ Hījumā apriņķa pārvalde]
+
+{{Igaunija-aizmetnis}}
+{{Igaunijas apriņķi}}
+
+{{DEFAULTSORT|Hizjumaz aprinzkzis}}
+[[Kategorija:Igaunijas apriņķi]]
+
+[[bg:Хииу]]
+[[ca:Comtat de Hiiu]]
+[[cs:Hiiumaa (kraj)]]
+[[el:Επαρχία Χιίου]]
+[[en:Hiiu County]]
+[[es:Condado de Hiiu]]
+[[et:Hiiu maakond]]
+[[fiu-vro:Hiio maakund]]
+[[fr:Hiiumaa (région)]]
+[[gl:Condado de Hiiu]]
+[[he:מחוז היו]]
+[[id:County Hiiu]]
+[[it:Hiiumaa (contea)]]
+[[kw:Konteth Hiiu]]
+[[lt:Hyju apskritis]]
+[[ms:County Hiiu]]
+[[nn:Hiiu maakond]]
+[[no:Hiiu fylke]]
+[[pl:Prowincja Hiiu]]
+[[pt:Hiiumaa]]
+[[ro:Regiunea Hiiu]]
+[[ru:Хийумаа (уезд)]]
+[[sr:Хију]]
+[[sv:Hiiu län]]
+[[tr:Hiiu]]
+[[zh:希尤縣]]

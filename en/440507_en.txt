@@ -1,0 +1,616 @@
+{{Otherpersons|Robert Blake}}
+
+{{Infobox Ice Hockey Player
+| position = [[Defenceman (ice hockey)|Defence]]
+| shoots = Right
+| height_ft = 6
+| height_in = 4
+| weight_lb = 225
+| team = [[San Jose Sharks]]
+| former_teams = [[Los Angeles Kings]]<br>[[Colorado Avalanche]]
+| league = [[National Hockey League|NHL]]
+| ntl_team = Canada
+| birth_date = {{Birth date and age|1969|12|10|mf=y}}
+| birth_place = [[Simcoe, Ontario|Simcoe]], [[Ontario|ON]], [[Canada|CAN]]
+| career_start = 1989
+| draft = 70th overall
+| draft_year = 1988
+| draft_team = [[Los Angeles Kings]]
+| image = Blake-08.jpg
+| image_size = 250px
+}}
+
+'''Robert Bowlby Blake''' (born December 10, 1969) is a [[Canada|Canadian]] professional [[ice hockey]] [[defenceman (ice hockey)|defenceman]] and [[Captain (ice hockey)|team captain]] of the [[San Jose Sharks]] of the [[National Hockey League]] (NHL). 
+
+==Playing career==
+Blake was drafted 70th overall in the [[1988 NHL Entry Draft]] by the [[Los Angeles Kings]], with whom he played for twelve seasons. While there, he reached the [[Stanley Cup]] final in 1993, losing to the [[Montreal Canadiens]], and eventually became the Kings' captain after [[Wayne Gretzky]] was traded to [[St. Louis Blues (hockey)|St. Louis]] in 1996. 
+
+In the [[2000–01 NHL season|2000–01]] season, Blake, who the Kings believed would test free agency in the coming off-season, was traded by the Kings.  Blake, along with [[Steven Reinprecht]], went to the [[Colorado Avalanche]] for [[Adam Deadmarsh]], [[Aaron Miller]], [[Jared Aulin]] and a 1st round pick ([[David Steckel]]) on February 21, 2001.<ref>{{citeweb |url=http://assets.espn.go.com/nhl/news/2001/0221/1101148.html|title=Avs hope Blake puts them over the top | publisher =ESPN.com | date = 2001-02-21 | accessdate = 2009-03-24}}</ref> Blake helped the Avalanche in winning the [[Stanley Cup]] that same year. 
+
+After four seasons with Colorado, Blake learned that the Avalanche would not pick up his option for the [[2006–07 NHL season|2006–07]] season, making him a free agent.  He re-signed with his former team, the Kings, for two years ($6 million per year) on July 1, 2006.<ref>{{citeweb |url=http://sports.espn.go.com/nhl/news/story?id=2507095|title=Blake, Kings agree on a two-year contract | publisher =ESPN.com | date = 2006-07-01 | accessdate = 2009-03-24}}</ref> On September 28, 2007, the Kings named Rob Blake as team captain.<ref>{{cite web |url=http://kings.nhl.com/team/app?articleid=338603&nhlLink=true&page=NewsPage&service=page |title=KINGS ANNOUNCE CAPTAINS |publisher=Los Angeles Kings |date=[[September 28]], [[2007]] |accessdate=2008-01-22}}</ref>
+
+On July 3, 2008, Blake signed a one-year, $5 million contract with the rival [[San Jose Sharks]].<ref>{{citeweb |url=http://www.thehockeynews.com/articles/17025-San-Jose-Sharks-sign-veteran-Rob-Blake-to-5million-oneyear-deal.html|title=San Jose Sharks sign veteran Rob Blake to $5 million, one year deal | publisher =thehockeynews.com | date = 2008-07-03 | accessdate = 2009-03-24}}</ref>.  On September 30, 2009, the Sharks named Blake team captain, succeeding [[Patrick Marleau]].
+
+Blake was selected to play for the Canadian Olympic teams of 1998 and 2002, winning gold in 2002. He also was selected to play for Canada at the [[2006 Olympics]]. His most productive NHL season was [[1993–94 NHL season|1993–94]], when he had 68 points. In [[1997–98 NHL season|1997–98]], Blake received the James Norris Trophy as the NHL's best defenceman for the year.
+
+[[Image: RobBlake2.jpg|left|400px|thumb|Rob Blake in preseason game against Anaheim Ducks, 2009]]
+
+==Personal information==
+Blake was born in [[Simcoe, Ontario|Simcoe]], [[Ontario]]. He and his wife Brandy have two children. His best friend in the NHL is [[New York Islanders]] goaltender [[Dwayne Roloson]], with whom he grew up playing hockey in Simcoe. He is also closely related to Hall of Famer [[Red Kelly]].  In 2008, Blake appeared in the [[Mike Myers (actor)|Mike Myers]] film [[The Love Guru]] as himself.<ref>[http://proathletesonly.com/news/locker-room/kings-defenseman-rob-blake-makes-an-appearance-in-upcoming-movie-love-guru/]</ref>
+
+==Awards==
+* [[Central Collegiate Hockey Association|CCHA]] Second All-Star Team - 1989.
+* CCHA First All-Star Team - 1990.
+* [[National Collegiate Athletic Association|NCAA]] West First All-American Team - 1990.
+* [[NHL All-Rookie Team]] - 1991.
+* Played in NHL All-Star Game - 1994, 1999, 2000, 2001, 2002, 2003.
+* Named to the [[NHL All-Star Team|NHL First All-Star Team]] in 1998.
+* Named to the [[NHL All-Star Team|NHL Second All-Star Team]] in 2000, 2001 and 2002.
+* [[James Norris Memorial Trophy]] - 1998.
+* [[Stanley Cup]] - 2001 [[Colorado Avalanche]].
+
+==Career statistics==
+{| BORDER="0" CELLPADDING="1" CELLSPACING="0" width="75%" style="text-align:center"
+|- bgcolor="#e0e0e0"
+! colspan="3" bgcolor="#ffffff" | &nbsp;
+! rowspan="99" bgcolor="#ffffff" | &nbsp;
+! colspan="5" | [[Regular season|Regular&nbsp;season]]
+! rowspan="99" bgcolor="#ffffff" | &nbsp;
+! colspan="5" | [[Playoffs]]
+|- bgcolor="#e0e0e0"
+! [[Season (sports)|Season]]
+! Team
+! League
+! GP
+! [[Goal (ice hockey)|G]]
+! [[Assist (ice hockey)|A]]
+! [[Point (ice hockey)|Pts]]
+! [[Penalty (ice hockey)|PIM]]
+! GP
+! G
+! A
+! Pts
+! PIM
+|- ALIGN="center"
+| 1985–86
+| Brantford
+| OJHL-B
+| 39
+| 3
+| 13
+| 16
+| 43
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 1986–87
+| Stratford
+| OJHL-B
+| 31
+| 11
+| 20
+| 31
+| 115
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center"
+| 1987–88
+| [[Bowling Green State University|Bowling Green]]
+| [[Central Collegiate Hockey Association|CCHA]]
+| 43
+| 5
+| 8
+| 13
+| 88
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 1988–89
+| Bowling Green
+| CCHA
+| 46
+| 11
+| 21
+| 32
+| 140
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center"
+| 1989–90
+| Bowling Green
+| CCHA
+| 42
+| 23
+| 36
+| 59
+| 140
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" 
+| [[1989–90 NHL season|1989–90]]
+| [[Los Angeles Kings]]
+| [[National Hockey League|NHL]]
+| 4
+| 0
+| 0
+| 0
+| 4
+| 8
+| 1
+| 3
+| 4
+| 4
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[1990–91 NHL season|1990–91]]
+| Los Angeles Kings
+| NHL
+| 75
+| 12
+| 34
+| 46
+| 125
+| 12
+| 1
+| 4
+| 5
+| 26
+|- ALIGN="center" 
+| [[1991–92 NHL season|1991–92]]
+| Los Angeles Kings
+| NHL
+| 57
+| 7
+| 13
+| 20
+| 102
+| 6
+| 2
+| 1
+| 3
+| 12
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[1992–93 NHL season|1992–93]]
+| Los Angeles Kings
+| NHL
+| 76
+| 16
+| 43
+| 59
+| 152
+| 23
+| 4
+| 6
+| 10
+| 46
+|- ALIGN="center" 
+| [[1993–94 NHL season|1993–94]]
+| Los Angeles Kings
+| NHL
+| 84
+| 20
+| 48
+| 68
+| 137
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[1994–95 NHL season|1994–95]]
+| Los Angeles Kings
+| NHL
+| 24
+| 4
+| 7
+| 11
+| 38
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" 
+| [[1995–96 NHL season|1995–96]]
+| Los Angeles Kings
+| NHL
+| 6
+| 1
+| 2
+| 3
+| 8
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[1996–97 NHL season|1996–97]]
+| Los Angeles Kings
+| NHL
+| 62
+| 8
+| 23
+| 31
+| 82
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" 
+| [[1997–98 NHL season|1997–98]]
+| Los Angeles Kings
+| NHL
+| 81
+| 23
+| 27
+| 50
+| 94
+| 4
+| 0
+| 0
+| 0
+| 6
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[1998–99 NHL season|1998–99]]
+| Los Angeles Kings
+| NHL
+| 62
+| 12
+| 23
+| 35
+| 128
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" 
+| [[1999–00 NHL season|1999–00]]
+| Los Angeles Kings
+| NHL
+| 77
+| 18
+| 39
+| 57
+| 112
+| 4
+| 0
+| 2
+| 2
+| 4
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[2000–01 NHL season|2000–01]]
+| Los Angeles Kings
+| NHL
+| 54
+| 17
+| 32
+| 49
+| 69
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2000–01
+| [[Colorado Avalanche]]
+| NHL
+| 13
+| 2
+| 8
+| 10
+| 8
+| 23
+| 6
+| 13
+| 19
+| 16
+|- ALIGN="center"
+| [[2001–02 NHL season|2001–02]]
+| Colorado Avalanche
+| NHL
+| 75
+| 16
+| 40
+| 56
+| 58
+| 20
+| 6
+| 6
+| 12
+| 16
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[2002–03 NHL season|2002–03]]
+| Colorado Avalanche
+| NHL
+| 79
+| 17
+| 28
+| 45
+| 57
+| 7
+| 1
+| 2
+| 3
+| 8
+|- ALIGN="center"
+| [[2003–04 NHL season|2003–04]]
+| Colorado Avalanche
+| NHL
+| 74
+| 13
+| 33
+| 46
+| 61
+| 9
+| 0
+| 5
+| 5
+| 6
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[2005–06 NHL season|2005–06]]
+| Colorado Avalanche
+| NHL
+| 81
+| 14
+| 37
+| 51
+| 94
+| 9
+| 3
+| 1
+| 4
+| 8
+|- ALIGN="center" 
+| [[2006–07 NHL season|2006–07]]
+| Los Angeles Kings
+| NHL
+| 72
+| 14
+| 20
+| 34
+| 82
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[2007–08 NHL season|2007–08]]
+| Los Angeles Kings
+| NHL
+| 71
+| 9
+| 22
+| 31
+| 98
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" 
+| [[2008–09 NHL season|2008–09]]
+| [[San Jose Sharks]]
+| NHL
+| 73
+| 10
+| 35
+| 45
+| 110
+| 6
+| 1
+| 3
+| 4
+| 4
+<!-- AS PER WIKIPEDIA STANDARD DO NOT UPDATE CURRENT SEASON STATS TILL END SEASON TO AVOID PROBLEMS -->
+|- bgcolor="#e0e0e0"
+! colspan="3" | NHL totals
+! 1200
+
+! 233
+
+! 514
+
+! 747
+! 1619
+! 131
+! 25
+! 46
+! 71
+! 156
+|}
+
+==International play==
+{{MedalTableTop|}}
+{{MedalCountry | {{flagicon|Canada}} [[Canada]] }}
+{{MedalSport | Men's [[ice hockey]]}}
+{{MedalCompetition|[[Olympic Games]]}}
+{{MedalGold  | [[2002 Winter Olympics|2002 Salt Lake City]] | Ice hockey }}
+{{MedalCompetition|[[Ice Hockey World Championships|World Championships]]}}
+{{MedalGold | [[1994 Men's World Ice Hockey Championships|1994 Italy]] | Ice hockey }}
+{{MedalGold | [[1997 Men's World Ice Hockey Championships|1997 Finland]] | Ice hockey }}
+{{MedalSilver | [[1991 Men's World Ice Hockey Championships|1991 Finland]] | Ice hockey }}
+{{MedalCompetition|[[World Cup of Hockey|World Cup]]}}
+{{MedalSilver | [[1996 World Cup of Hockey]] | Ice hockey }}
+{{MedalBottom}}
+
+Played for [[Canadian national men's hockey team|Canada]] in:
+
+*1991 [[Ice Hockey World Championships|World Championships]] (silver medal)
+*1994 [[Ice Hockey World Championships|World Championships]] (gold medal)
+*[[1996 World Cup of Hockey]] (silver medal)
+*1997 [[Ice Hockey World Championships|World Championships]] (gold medal)
+*[[Ice hockey at the 1998 Winter Olympics|1998 Winter Olympics]]
+*1998 [[1998 Men's World Ice Hockey Championships|World Championships]]
+*1999 [[1999 Men's World Ice Hockey Championships|World Championships]]
+*[[Ice hockey at the 2002 Winter Olympics|2002 Winter Olympics]] (gold medal)
+*[[Ice hockey at the 2006 Winter Olympics|2006 Winter Olympics]]
+
+'''International statistics'''
+{| BORDER="0" CELLPADDING="3" CELLSPACING="0"
+|- ALIGN="center" bgcolor="#e0e0e0"
+! Year
+! Team
+! Event
+! ALIGN="center" rowspan="99" bgcolor="#ffffff" | &nbsp;
+! GP
+! G
+! A
+! Pts
+! PIM
+|- ALIGN="center"
+| 1991
+| Canada
+| [[Ice Hockey World Championships|WC]]
+| 2
+| 0
+| 2
+| 2
+| 0
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 1994
+| Canada
+| [[Ice Hockey World Championships|WC]]
+| 8
+| 0
+| 2
+| 2
+| 6
+|- ALIGN="center"
+| 1996
+| Canada
+| [[World Cup of Hockey|WCH]]
+| 4
+| 0
+| 1
+| 1
+| 0
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 1997
+| Canada
+| [[Ice Hockey World Championships|WC]]
+| 11
+| 2
+| 2
+| 4
+| 22
+|- ALIGN="center"
+| 1998
+| Canada
+| [[1998 Winter Olympics|Oly.]]
+| 6
+| 1
+| 1
+| 2
+| 2
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 1998
+| Canada
+| [[Ice Hockey World Championships|WC]]
+| 5
+| 1
+| 0
+| 1
+| 6
+|- ALIGN="center"
+| 1999
+| Canada
+| [[Ice Hockey World Championships|WC]]
+| 10
+| 2
+| 5
+| 7
+| 12
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2002
+| Canada
+| [[2002 Winter Olympics|Oly.]]
+| 6
+| 1
+| 2
+| 3
+| 2
+|- ALIGN="center"
+| 2006
+| Canada
+| [[2006 Winter Olympics|Oly.]]
+| 6
+| 0
+| 1
+| 1
+| 2
+|- ALIGN="center" bgcolor="#e0e0e0"
+! colspan=3 | Senior Int'l Totals
+! 58
+! 7
+! 16
+! 23
+! 52
+|}
+
+==References==
+{{reflist}}
+==External links==
+*{{hockeydb|415}}
+
+{{start box}}
+{{succession box | before = [[Wayne Gretzky]] | title = [[Los Angeles Kings#Team captains|Los Angeles Kings captains]]| years = [[1995–96 NHL season|1996]]–[[2000–01 NHL season|2001]] | after = [[Mattias Norström|Mattias Norstrom]]}}
+{{succession box | before = Mattias Norstrom | title = Los Angeles Kings captains | years = [[2007–08 NHL season|2007–08]] | after = [[Dustin Brown]]}}
+{{incumbent succession box | before = [[Patrick Marleau]] | title = [[San Jose Sharks#Team captains|San Jose Sharks captains]] | start = [[2009-10 NHL season|2009]]}}
+{{succession box | before = [[Brian Leetch]] | title = Winner of the [[Norris Trophy]] | years = [[1997–98 NHL season|1998]] | after = [[Al MacInnis]]}}
+{{end box}}
+{{Triple Gold Club}}
+
+{{DEFAULTSORT:Blake, Rob}}
+[[Category:1969 births]]
+[[Category:Anglophone Canadians]]
+[[Category:Bowling Green Falcons ice hockey players]]
+[[Category:Canadian ice hockey defencemen]]
+[[Category:Colorado Avalanche players]]
+[[Category:Ice hockey personnel from Ontario]]
+[[Category:Ice hockey players at the 1998 Winter Olympics]]
+[[Category:Ice hockey players at the 2002 Winter Olympics]]
+[[Category:Ice hockey players at the 2006 Winter Olympics]]
+[[Category:Living people]]
+[[Category:Los Angeles Kings draft picks]]
+[[Category:Los Angeles Kings players]]
+[[Category:National Hockey League All-Stars]]
+[[Category:James Norris Memorial Trophy winners]]
+[[Category:Olympic gold medalists for Canada]]
+[[Category:Olympic ice hockey players of Canada]]
+[[Category:People from Norfolk County, Ontario]]
+[[Category:San Jose Sharks players]]
+[[Category:Simcoe Composite School alumni]]
+[[Category:Stanley Cup champions]]
+[[Category:Triple Gold Club]]
+[[Category:Winter Olympics medalists]]
+
+[[cs:Rob Blake]]
+[[de:Rob Blake]]
+[[fr:Rob Blake]]
+[[lv:Robs Bleiks]]
+[[pl:Rob Blake]]
+[[ru:Блейк, Роб]]
+[[sk:Rob Blake]]
+[[sl:Rob Blake]]
+[[fi:Rob Blake]]
+[[sv:Rob Blake]]

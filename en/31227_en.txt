@@ -1,0 +1,63 @@
+{{wiktionarypar|terminator}}
+
+'''Terminator''' or '''The Terminator''' may refer to:
+
+In '''science''':
+*[[Terminator (solar)]], the line between the day  and night sides of a planetary body
+*[[Terminator (electrical)]], a resistor at the end of a transmission line to prevent signal reflection
+*[[Terminator (genetics)]], the end of a gene for transcription
+*[[Terminator Technology]], proposed methods for restricting the use of genetically modified plants by causing second generation seeds to be sterile
+*[[Microsoft Terminator]], a program analyzer research project
+
+In '''entertainment''':
+*[[Terminator (franchise)|''Terminator'' (franchise)]], a series of science fiction films and derivative works
+**''[[The Terminator]]'', a 1984 film by James Cameron
+**''[[Terminator 2: Judgment Day]]'', a 1991 film
+**''[[Terminator 3: Rise of the Machines]]'', a 2003 film
+**''[[Terminator Salvation]]'', a 2009 film
+**''[[Terminator: The Sarah Connor Chronicles]]'', an American television series
+**[[Terminator (character concept)]], a fictional class of autonomous robots in the series
+***[[Terminator (character)]], the most famous of the robots, played by Arnold Schwarzenegger
+**''[[Terminator II (Bruno Mattei film)]]'' (also known as Shocking Dark, Alienators and Contaminator) an unofficial sequel to the original Terminator film 
+*[[Terminator (DC Comics)]] or Deathstroke, a DC comic book supervillain
+*[[Terminator (Marvel Comics)]], a Space Knight character in Marvel Comics
+*[[Terminator (Warhammer 40,000)]], a type of Space Marine in the ''Warhammer 40,000'' setting
+
+In '''other uses''':
+*[[Terminator (terminal emulator)]], a cross-platform GPL terminal emulator
+*[[Terminator (video game system)]], a gaming console that emulated the Famicom/Nintendo Entertainment System
+*[[Bosco Ntaganda]], a Congolese militia leader also known as "the Terminator"
+*[[Anatoly Onoprienko]] or The Terminator, a Ukrainian serial killer
+*Terminator, a [[Ford Mustang SVT Cobra SN-95 2 Supercharged#2003-2004|cryptonym for 2003-2004 Ford Mustang SVT Cobra SN-95 2 Supercharged]]
+*[[The Terminator (wrestler)]] or Marcus Laurinaitis, American professional wrestler
+
+==See also==
+*[[Baconator]]
+*[[Nike Terminator]], a high-top shoe by Nike similar to the Dunk
+*[[Termination (disambiguation)]]
+*[[Terminonatator]], a plesiosaur genus
+*[[Terminus (disambiguation)]]
+
+{{disambig}}
+
+[[bg:Терминатор]]
+[[cs:Terminátor]]
+[[de:Terminator]]
+[[es:Terminator (desambiguación)]]
+[[fr:Terminator (homonymie)]]
+[[hr:Terminator]]
+[[lv:Terminators]]
+[[hu:Terminátor (egyértelműsítő lap)]]
+[[nl:Terminator]]
+[[ja:ターミネーター]]
+[[no:Terminator (andre betydninger)]]
+[[uz:Terminator]]
+[[pl:Terminator]]
+[[pt:The Terminator (desambiguação)]]
+[[ru:Терминатор]]
+[[sk:Terminátor]]
+[[sr:Терминатор]]
+[[fi:Terminaattori]]
+[[sv:Terminator (olika betydelser)]]
+[[tr:Terminatör]]
+[[uk:Термінатор]]

@@ -1,0 +1,138 @@
+{{otherusesof}}
+{{Wiktionary|W|w}}
+{{Latin alphabet navbox|uc=W|lc=w}}
+'''W''' is the [[23 (number)|twenty-third]] letter in the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pronEng|ˈdʌbəljuː}},<!--No, not with a /ɫ/.  Velarization is not phonemic in English.--> {{IPA|/ˈdʌbəjuː/}}, {{IPA|/ˈdʌbəjə/}}, or {{IPA|/ˈdʌbjə/}}) is spelled '''double-u''';<ref>"W" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993).</ref> the plural is ''double-ues,'' though this is rare.<ref>Brown & Kiddle (1870) ''The institutes of English grammar,'' p 19. <br>''Double-ues'' is the plural of the name of the letter; the plural of the letter itself is written W's, ''W''s, w's, or ''w''s.</ref>
+
+==History==
+{| border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;text-align:center;"
+|-  bgcolor="#EEEEEE"
+! [[Old English language|Old English]] double V
+! Post-[[Norman Conquest of England|Conquest]]: W and crossed-Vs form
+! [[Hwair]] 
+|-----
+|[[File:RomanV-01.png|60px]][[File:RomanV-01.png|60px]]
+|[[File:Latin alphabet Ww.svg|200px]]
+|[[File:Latin alphabet Ƕƕ.svg|200px]]
+|}
+[[Image:WondersoftheInvisibleWorld-1693.jpg|right|thumb|A 1693 book printing that uses the "double u" alongside the modern letter]]
+The earliest form of the letter W was a doubled [[V]] used in the 7th century by the earliest writers of [[Old English language|Old English]]; it is from this <uu> [[Digraph_(orthography)|digraph]] that the modern name "double U" comes. This digraph was not extensively used, as its sound was usually represented instead by the [[rune|runic]] [[wynn]] ({{Unicode|Ƿ}}), but W gained popularity after the [[Norman Conquest of England|Norman Conquest]], and by 1300 it had taken wynn's place in common use. Other forms of the letter were a pair of Vs whose branches cross in the middle. An obsolete, cursive form found in the nineteenth century in both English and German was in the form of an "n" whose rightmost branch curved around as in a cursive "v" (compare the shape of {{Unicode|[[Hwair|ƕ]]}}).
+
+The sounds {{IPA|/w/}} (spelled with U/V) and {{IPA|/b/}} (spelled B) of [[Latin|Classical Latin]] developed into a [[Voiced bilabial fricative|bilabial fricative]] {{IPA|/β/}} between vowels, in [[Vulgar Latin|Early Medieval Latin]]. Therefore, V no longer represented adequately the [[Voiced labial-velar approximant|labial-velar approximant]] sound {{IPA|/w/}} of [[Old High German]]. In later [[German language|German]], this [[phoneme]] {{IPA|/w/}} became {{IPA|/v/}}; this is why German W represents that sound. In [[Dutch language|Dutch]], it became a [[labiodental approximant]] {{IPA|/ʋ/}} (with the exception of words with EEUW, which have {{IPA|/eːβ/}}), or other diphthongs containing ''-uw''. However, in many Dutch speaking areas, such as [[Flanders]] and [[Suriname]] the {{IPA|/β/}} pronunciation is used at all times. 
+
+The ancient Phoenician letter [[shin (letter)|shin]] had a W shape; the sounds and histories of the two letters, however, are entirely unrelated—shin represented {{IPA|/ʃ/}} or {{IPA|/s/}}, and developed into the Latin alphabet [[S]].
+
+==Usage==
+In Europe, there are only a few languages that use W in native words and all are located in a central-western European zone between Cornwall and Poland: [[English language|English]], [[German language|German]], [[Low German language|Low German]], [[Polish language|Polish]], [[Dutch language|Dutch]], [[Frisian language|Frisian]], [[Welsh language|Welsh]], [[Cornish language|Cornish]], [[Breton language|Breton]] and [[Kashubian language|Kashubian]]. English uses W to represent {{IPA|/w/}}, German and Polish use it for the [[voiced labiodental fricative]] {{IPA|/v/}} (with Polish using [[Ł]] for {{IPA|/w/}}), and Dutch uses it for {{IPA|/w/}} or {{IPA|/ʋ/}}. Unlike its use in other languages, the letter is used in [[Welsh language|Welsh]] to represent the vowel {{IPA|/u/}}   as well as the related approximant consonant {{IPA|/w/}}. English also contains a number of words beginning with a W that is [[silent letter|silent]] in most dialects before a (pronounced) R, remaining from usage in [[Old English language|Anglo-Saxon]] in which the W was pronounced: ''wreak, wrap, wreck, wrench, wroth, wrinkle,'' etc.  (Certain dialects of [[Scottish English]] still distinguish this digraph.)
+
+In the [[help:IPA|International Phonetic Alphabet]], {{IPA|/w/}} is used for the [[voiced labial-velar approximant]], probably based on English.
+
+In the [[Finnish alphabet]], "W" is seen as a variant of "V" and not a separate letter. It is however recognised and maintained in the spelling of some old names, reflecting an earlier German spelling standard, and in some modern loan words. In all cases it is pronounced /v/. In the alphabets of most modern Romance languages (excepting far northern French and [[Walloon language|Walloon]]), W is little used, it can be found mostly in foreign names and words recently borrowed (''le week-end'', ''il watt'', ''el kiwi''). When a spelling for {{IPA|/w/}} in a native word is needed, a spelling from the native alphabet, such as V, U, or OU, can be used instead. The same was true in the [[Danish alphabet]] and [[Swedish alphabet|Swedish]] until 1980 and 2006, respectively, when the letter was officially acknowledged as an individual letter.
+
+The equivalent representation of the {{IPA|/w/}} sound in the [[Cyrillic alphabet]] is [[Short U|Ў]], a letter unique to the [[Belarusian language]]. The Russians, however, use the Cyrillic character [[В]], ({{IPA|/v/}} the equivalent of V in the Latin alphabet), when transliterating "W".
+
+== Name ==
+"Double U" is the only [[English language|English]] letter name with more than one syllable, except for the occasionally used, though somewhat archaic, ''"[[œ]]"'' (its name is pronounced similar to ''"ethel"''), and the archaic pronunciation of [[Z]] ''izzard''. This gives the nine-syllable [[initialism]] '''[[World Wide Web|www]]''' the irony of being an abbreviation that takes three times as many syllables to say as the unabbreviated form. Some speakers therefore shorten the name "double u" into "dub" only; for example, [[University of Washington]], [[University of Wyoming]] and [[University of Western Australia]] are all known colloquially as "U Dub", and the automobile company [[Volkswagen]], abbreviated VW, is sometimes pronounced "V-Dub". The fact that many website URLs still require a "www." prefix has likewise given rise to a shortened version of the original, three-syllable pronunciation. It is also the only English letter whose name is not pronounced with any of the sounds that the letter typically makes.
+
+==Codes for computing==
+{{Letter
+|NATO=Whiskey
+|Morse=·––
+|Character=W
+|Braille=⠺
+}}
+In [[Unicode]] the [[capital letter|capital]] W is codepoint U+0057 and the [[lower case]] w is U+0077.
+
+The [[ASCII]] code for capital W is 87 and for lowercase w is 119; or in [[Binary numeral system|binary]] 01010111 and 01110111, correspondingly.
+
+The [[EBCDIC]] code for capital W is 230 and for lowercase w is 166.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#87;</tt>" and "<tt>&amp;#119;</tt>" for upper and lower case respectively.
+
+==See also==
+{{Commons|W}}
+*[[Wh (digraph)]]
+{{clear}}
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|W|}}
+
+[[Category:Latin letters]]
+[[Category:Vowel letters]]
+[[Category:Latin alphabet ligatures]]
+
+[[af:W]]
+[[als:W]]
+[[ar:W]]
+[[arc:W]]
+[[ast:W]]
+[[az:W]]
+[[zh-min-nan:W]]
+[[be:W, літара]]
+[[bs:W]]
+[[br:W (lizherenn)]]
+[[ca:W]]
+[[ceb:W]]
+[[cs:W]]
+[[co:W]]
+[[cy:W]]
+[[da:W]]
+[[de:W]]
+[[el:W]]
+[[es:W]]
+[[eo:W]]
+[[eu:W]]
+[[fa:W]]
+[[fr:W (lettre)]]
+[[fy:W]]
+[[fur:W]]
+[[gv:Wooishlagh (lettyr)]]
+[[gd:W]]
+[[gl:W]]
+[[gan:W]]
+[[ko:W]]
+[[hr:W]]
+[[ilo:W]]
+[[is:W]]
+[[it:W]]
+[[he:W]]
+[[ka:W]]
+[[kw:W]]
+[[sw:W]]
+[[ht:W]]
+[[la:W]]
+[[lv:W]]
+[[lt:W]]
+[[hu:W]]
+[[mk:W (Латиница)]]
+[[ms:W]]
+[[nah:W]]
+[[nl:W (letter)]]
+[[ja:W]]
+[[no:W]]
+[[nn:W]]
+[[nrm:W]]
+[[uz:W (harf)]]
+[[pl:W]]
+[[pt:W]]
+[[ro:W]]
+[[qu:W]]
+[[ru:W (латиница)]]
+[[se:W]]
+[[stq:W]]
+[[simple:W]]
+[[sk:W]]
+[[sl:W]]
+[[fi:W]]
+[[sv:W]]
+[[tl:W]]
+[[th:W]]
+[[tr:W (harf)]]
+[[uk:W (латиниця)]]
+[[vi:W]]
+[[yi:W]]
+[[yo:W]]
+[[zh-yue:W]]
+[[bat-smg:W]]
+[[zh:W]]

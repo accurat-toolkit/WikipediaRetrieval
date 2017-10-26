@@ -1,0 +1,177 @@
+{{infobox cerium}}
+'''Cerium''' ({{pronEng|ˈsɪəriəm}}) is a [[chemical element]] with the symbol '''Ce''' and [[atomic number]] 58. It is a soft, silvery, ductile metal which easily oxidizes in air. Cerium was named after the dwarf planet {{dp|Ceres}}. Cerium is the most abundant of the [[rare earth element]]s, making up about 0.0046% of the [[Earth's crust]] by weight. It is found in a number of minerals, the most important being [[monazite]] and [[bastnasite]]. Commercial applications of cerium are numerous. They include catalysts, additives to fuel to reduce emissions and to glass and enamels to change their color. Cerium oxide is an important component of glass polishing powders and phosphors used in screens and fluorescent lamps. 
+
+== Characteristics ==
+===Physical===
+Cerium is a silvery metal, belonging to the [[lanthanoid]] group. It resembles [[iron]] in color and luster, but is soft, and both malleable and ductile.  Cerium has the longest liquid range of any non-radioactive element: 2648&nbsp;C° (795&nbsp;°C to 3443&nbsp;°C) or 4766&nbsp;F° (1463&nbsp;°F to 6229&nbsp;°F). ([[Thorium]] has a longer liquid range, but is radioactive) 
+
+[[Image:Cerium phase diagram.jpg|Phase diagram of cerium|300px|left|thumb]]
+Cerium is especially interesting because of its variable electronic structure. The energy of the inner 4f level is nearly the same as that of the outer or valence electrons, and only small energy is required to change the relative occupancy of these  electronic levels. This gives rise to dual valency states. For example, a volume change of about 10% occurs when cerium is subjected to high pressures or low temperatures. It appears that the valence changes from about 3 to 4 when it is cooled or compressed. The low temperature behavior of cerium is complex. Four allotropic modifications are thought to exist: cerium at room temperature and at atmospheric pressure is known as γ cerium. Upon cooling to –16°C, γ cerium changes to ß cerium. The remaining γ cerium starts to change to α cerium when cooled to –172°C, and the transformation is complete at –269 °C. α Cerium has a density of 8.16; δ cerium exists above 726 °C. At atmospheric pressure, liquid cerium is more dense than its solid form at the melting point.<ref>{{cite journal|doi=10.1103/PhysRevB.19.5746|title=Lattice and spin dynamics of γ-Ce|year=1979|author=Stassis, C.|journal=Physical Review B|volume=19|pages=5746}}</ref><ref name=CRC/><ref name=patnaik>{{cite book | last =Patnaik | first =Pradyot  | year = 2003 | title =Handbook of Inorganic Chemical Compounds | publisher = McGraw-Hill | pages = 199–200| isbn =0070494398 |  url= http://books.google.com/books?id=Xqj-TTzkvTEC&pg=PA200 | accessdate = 2009-06-06}}</ref>
+
+===Chemical===
+Cerium metal tarnishes slowly in air and burns readily at 150&nbsp;[[Celsius|°C]] to form [[cerium(IV) oxide]]:
+:Ce + O<sub>2</sub> → CeO<sub>2</sub>
+
+Cerium is quite electropositive and reacts slowly with cold water and quite quickly with hot water to form cerium hydroxide:
+:2 Ce (s) + 6 H<sub>2</sub>O (l) → 2 Ce(OH)<sub>3</sub> (aq) + 3 H<sub>2</sub> (g)
+
+Cerium metal reacts with all the halogens:
+:2 Ce (s) + 3 F<sub>2</sub> (g) → 2 CeF<sub>3</sub> (s) [white]
+:2 Ce (s) + 3 Cl<sub>2</sub> (g) → 2 CeCl<sub>3</sub> (s) [white]
+:2 Ce (s) + 3 Br<sub>2</sub> (g) → 2 CeBr<sub>3</sub> (s) [white]
+:2 Ce (s) + 3 I<sub>2</sub> (g) → 2 CeI<sub>3</sub> (s) [yellow]
+
+Cerium dissolves readily in dilute [[sulfuric acid]] to form solutions containing the colorless Ce(III) ions, which exist as a [Ce(OH<sub>2</sub>)<sub>9</sub>]<sup>3+</sup> complexes:<ref>{{cite web| url =https://www.webelements.com/cerium/chemistry.html| title =Chemical reactions of Cerium| publisher=Webelements| accessdate=2009-06-06}}</ref>
+
+:2 Ce (s) + 3 H<sub>2</sub>SO<sub>4</sub> (aq) → 2 Ce<sup>3+</sup> (aq) + 3 {{chem|SO|4|2-}} (aq) + 3 H<sub>2</sub> (g)
+
+===Compounds===
+{{seealsocat|Cerium compounds}}
+[[Image:Cer(IV)-sulfat.JPG|200px|right|thumb|Cerium(IV) sulfate]]
+Cerium(IV) (ceric) salts are orange red or yellowish, whereas cerium(III) (cerous) salts are usually white or colorless.  Both oxidation states absorb ultraviolet light strongly. Cerium(III) can be used to make glasses that are colorless, yet absorb ultraviolet light almost completely.
+Cerium can be readily detected in rare earth mixtures by a very sensitive qualitative test: addition of [[ammonia]] and [[hydrogen peroxide]] to an aqueous solution of lanthanides produces a characteristic dark brown color if cerium is present.
+
+Cerium exhibits three [[oxidation state]]s, +2, +3 and +4. The +2 state is rare and is observed in CeH<sub>2</sub>, CeI<sub>2</sub> and CeS.<ref name=patnaik/>  The most common compound of cerium is cerium(IV) oxide (CeO<sub>2</sub>), which is used as "jeweller's [[rouge]]" as well as in the walls of some [[self-cleaning ovens]]. Two common [[Oxidation#Oxidizing and Reducing agents|oxidizing agent]]s used in [[titration]]s are [[ammonium cerium(IV) sulfate]] (ceric ammonium sulfate, (NH<sub>4</sub>)<sub>2</sub>Ce(SO<sub>4</sub>)<sub>3</sub>) and [[ammonium cerium(IV) nitrate]] (ceric ammonium nitrate or CAN, (NH<sub>4</sub>)<sub>2</sub>Ce(NO<sub>3</sub>)<sub>6</sub>).  
+Cerium also forms a [[chloride]], CeCl<sub>3</sub> or [[cerium(III) chloride]], used to facilitate reactions at [[carbonyl group]]s in [[organic chemistry]].  Other compounds include [[cerium(III) carbonate]] (Ce<sub>2</sub>(CO<sub>3</sub>)<sub>3</sub>), [[cerium(III) fluoride]] (CeF<sub>3</sub>), [[cerium(III) oxide]] (Ce<sub>2</sub>O<sub>3</sub>), as well as [[cerium(IV) sulfate]] (ceric sulfate, Ce(SO<sub>4</sub>)<sub>2</sub>) and cerium(III) triflate (Ce(OSO<sub>2</sub>CF<sub>3</sub>)<sub>3</sub>).
+
+The two oxidation states of cerium differ enormously in basicity: cerium(III) is a strong base, comparable to the other trivalent lanthanides, but cerium(IV) is weak.  This difference has always allowed cerium to be by far the most readily isolated and purified of all the lanthanides, otherwise a notoriously difficult group of elements to separate. A wide range of procedures have been devised over the years to exploit the difference.  Among the better ones: 
+
+# Leaching the mixed hydroxides with dilute nitric acid: the trivalent lanthanides dissolve in cerium-free condition, and tetravalent cerium remains in the insoluble residue as a concentrate to be further purified by other means. A variation on this uses hydrochloric acid and the calcined oxides from bastnasite, but the separation is less sharp. 
+# Precipitating cerium from a nitrate or chloride solution using potassium permanganate and sodium carbonate in a 1:4 molar ratio.
+# Boiling rare-earth nitrate solutions with potassium bromate and marble chips.  
+
+Formerly used commercially was a method whereby a solution of cerium(IV) in nitric acid would be added to dilute sulfuric acid.  This caused cerium(IV) to largely precipitate as a basic salt, leaving trivalent lanthanide in solution.  However, the finely divided precipitate was difficult to filter from the highly corrosive medium. Using the classical methods of rare-earth separation, there was a considerable advantage to a strategy of removing cerium from the mixture at the beginning. Cerium typically comprised 45% of the [[cerite]] or monazite rare earths, and removing it early greatly reduced the bulk of what needed to be further processed (or the cost of reagents to be associated with such processing). However, not all cerium purification methods relied on basicity. Ceric ammonium nitrate [ammonium hexanitratocerate(IV)] crystallization from nitric acid was one purification method. Cerium(IV) nitrate (hexanitratoceric acid) was more readily extractable into certain solvents (e.g. tri-n-butyl phosphate) than the trivalent lanthanides. However, modern practice in China seems to be to do purification of cerium by counter-current solvent extraction, in its trivalent form, just like the other lanthanides.
+
+Cerium(IV) is a strong oxidant under acidic conditions, but stable under alkaline conditions, when it is cerium(III) that becomes a strong reductant, easily oxidized by atmospheric oxygen (O<sub>2</sub>).  This ease of oxidation under alkaline conditions leads to the occasional geochemical parting of the ways between cerium and the trivalent light lanthanides under [[supergene]] weathering conditions, leading variously to the "negative [[cerium anomaly]]" or to the formation of the mineral [[cerianite]]. Air-oxidation of alkaline cerium(III) is the most economical way to get to cerium(IV), which can then be handled in acid solution.
+
+===Isotopes===
+{{main|isotopes of cerium}}
+Naturally-occurring cerium is composed of 4 stable [[isotope]]s; <sup>136</sup>Ce, <sup>138</sup>Ce, <sup>140</sup>Ce, and <sup>142</sup>Ce with <sup>140</sup>Ce being the most abundant (88.48% [[natural abundance]]). <sup>136</sup>Ce and <sup>142</sup>Ce are predicted to be [[double beta decay|double beta]] active but no signs of activity were ever observed (for <sup>142</sup>Ce, the lower limit on [[half-life]] is 5×10<sup>16</sup> years). 26 [[radioisotope]]s have been characterized with the most long-lived being <sup>144</sup>Ce with a half-life of 284.893&nbsp;days, <sup>139</sup>Ce with a half-life of 137.640&nbsp;days, and <sup>141</sup>Ce with a half-life of 32.501&nbsp;days.  All of the remaining [[radioactive]] isotopes have half-lives that are less than 4&nbsp;days and the majority of these have half-lives that are less than 10 minutes. This element also has 2 [[meta state]]s. 
+
+The known isotopes of cerium range in [[atomic weight]] from 123&nbsp;[[atomic mass unit|u]] (<sup>123</sup>Ce) to 152&nbsp;u (<sup>152</sup>Ce).
+
+Cerium 144 is a high-yield product of [[nuclear fission]]; the [[Oak Ridge National Laboratory|ORNL]] [[Fission Product Pilot Plant]] separated substantial quantities of cerium-144 from reactor waste, and it was used in the [[Aircraft Nuclear Propulsion]] and [[Systems Nuclear Auxiliary Power Program|SNAP]] programs.
+
+== History ==
+{{unreferenced-section|date=September 2009}}
+Cerium was discovered in [[Bastnäs]] in [[Sweden]] by [[Jöns Jakob Berzelius]] and [[Wilhelm Hisinger]], and independently in [[Germany]] by [[Martin Heinrich Klaproth]], both in 1803. Cerium was so named by Berzelius after the dwarf planet [[Ceres (dwarf planet)|Ceres]], discovered two years earlier (1801).  As originally isolated, cerium was in the form of its oxide, and was named ''ceria'', a term that is still used.  The metal itself was too electropositive to be isolated by then-current smelting technology, a characteristic of rare earth metals in general. However, the development of [[electrochemistry]] by [[Humphry Davy]] was only five years into the future, and then the earths were soon to yield the metals they contained. Ceria, as isolated in 1803, contained all of the lanthanides present in the cerite ore from Bastnäs, Sweden, and thus only contained about 45% of what is now known to be pure ceria. It was not until [[Carl Gustaf Mosander]] succeeded in removing lanthana and "didymia" in the late 1830s, that ceria was obtained pure. As a historical aside: Wilhelm Hisinger was a wealthy mine owner and amateur scientist, and sponsor of Berzelius.  He owned or controlled the mine at Bastnäs, and had been trying for years to find out the composition of the abundant heavy gangue rock (the "Tungstein of Bastnäs"), now known as cerite, that he had in his mine.  Mosander and his family lived for many years in the same house as Berzelius, and the former was undoubtedly persuaded by the latter to investigate ceria further.
+
+When the rare earths were first discovered, since they were strong bases like the oxides of calcium or magnesium, they were thought to be divalent. Thus, "ceric" cerium was thought to be trivalent, and the oxidation state ratio was therefore thought to be 1.5.  Berzelius was extremely annoyed to keep on getting the ratio 1.33.  He was after all one of the finest analytical chemists in Europe.  But he was a better analyst than he thought, since 1.33 was the correct answer! In the late 1950s, the Lindsay Chemical Division of [[American Potash and Chemical Corporation]] of [[West Chicago, Illinois]], then the largest producer of rare earths in the world, was offering cerium compounds in two purity ranges, "commercial" at 94-97% purity, and "purified", at a reported 99.9+% purity. In their October 1, 1958 pricelist, one-pound quantities of the oxides were priced at $3.30 or $8.10 respectively for the two purities; the per-pound price for 50-pound quantities were respectively $1.95 or $4.95 for the two grades.  Cerium salts were proportionately cheaper, reflecting their lower net content of oxide.
+
+== Occurrence ==
+{{seealsocat|Lanthanide minerals}}
+[[Image:Allanite w-rock Basic calcium iron Rare Earth aluminum silicate near 29 Palms San Bernardino County California 2204.jpg|thumb|Allanite]]
+Cerium is the most abundant of the [[rare earth element]]s, making up about 0.0046% of the Earth's crust by weight. It is found in a number of minerals including [[allanite]] (also known as orthite)&mdash;(Ca, Ce, La, Y)<sub>2</sub>(Al, Fe)<sub>3</sub>(SiO<sub>4</sub>)<sub>3</sub>(OH), [[monazite]] (Ce, La, Th, Nd, Y)PO<sub>4</sub>, [[bastnasite]] (Ce, La, Y)CO<sub>3</sub>F, [[hydroxyl]]bastnasite (Ce, La, Nd)CO<sub>3</sub>(OH, F), [[rhabdophane]] (Ce, La, Nd)PO<sub>4</sub>-H<sub>2</sub>O, [[zircon]] (ZrSiO<sub>4</sub>), and [[synchysite]] Ca(Ce, La, Nd, Y)(CO<sub>3</sub>)<sub>2</sub>F. Monazite and bastnasite are presently the two most important sources of cerium. Large deposits of monazite, [[allanite]], and bastnasite will supply cerium, thorium, and other rare-earth metals for many years to come.<ref name=CRC>{{cite book| author = C. R. Hammond |title = The Elements, in Handbook of Chemistry and Physics 81th edition| publisher =CRC press| year = 2000| isbn = 0849304814}}</ref>
+ 
+==Production==
+The mineral mixtures are crushed, ground and treated with hot concentrated [[sulfuric acid]] to produce water-soluble sulfates of rare earths. The acidic filtrates are partially neutralized with [[sodium hydroxide]] to pH 3-4. [[Thorium]] precipitates out of solution as hydroxide and is removed. After that the solution is treated with ammonium oxalate to convert rare earths in to their insoluble oxalates. The oxalates are converted to oxides by annealing. The oxides are dissolved in [[nitric acid]] that excludes one of the main components, cerium, whose salts are insoluble in HNO<sub>3</sub>. Metallic cerium is prepared by metallothermic reduction techniques, such as by reducing cerium fluoride or chloride with [[calcium]], or by electrolysis of molten cerous chloride or other cerous halides. The metallothermic technique is used to produce high-purity cerium. <ref name=patnaik/>
+
+== Applications ==
+A major technological application for [[Cerium(III) oxide]] is a [[catalytic converter]] for the reduction of CO emissions in the exhaust gases from motor vehicles. In particular, cerium oxide is added into Diesel fuels. Another important use of the cerium oxide is a hydrocarbon [[catalyst]] in [[self cleaning oven]]s, incorporated into oven walls and as a petroleum cracking catalyst in petroleum refining.
+<ref name=cerium>{{cite book| url =http://books.google.com/books?id=X2z9WdN3-WgC| title =Catalysis by ceria and related materials| author= Alessandro | publisher =Imperial College Press| year = 2002| isbn =1860942997| pages = 6–11}}</ref> 
+
+[[Cerium(IV) oxide]] is considered one of the most efficient agents for precision polishing of optical components. Cerium compounds are also used in the manufacture of [[glass]], both as a component and as a decolorizer. For example, cerium(IV) oxide in combination with [[titanium(IV) oxide]] gives a golden yellow color to glass; it also allows for selective absorption of [[ultraviolet light]] in glass. Cerium oxide has high refractive index and is added to [[Vitreous enamel|enamel]] to make it more opaque. <ref name=cerium/> 
+
+Cerium(IV) oxide is used in incandescent gas mantles, such as the [[Gas mantle|Welsbach mantle]], where it was combined  with thorium, [[lanthanum]], [[magnesium]] or [[yttrium]] oxides. Doped with other rare earth oxides, it has been investigated as a solid electrolyte in intermediate temperature solid oxide [[fuel cell]]s: The [[cerium(IV) oxide-cerium(III) oxide cycle]] or CeO<sub>2</sub>/Ce<sub>2</sub>O<sub>3</sub> cycle is a two step [[Thermochemistry|thermochemical]] process based on cerium(IV) oxide and cerium(III) oxide for [[hydrogen production]]<ref>{{cite web| url = http://www.solarpaces.org/Tasks/Task2/HPST.HTM | title =Hydrogen production from solar thermochemical water splitting cycles| accessdate = 2009-06-06}}</ref>. 
+
+The photostability of pigments can be enhanced by addition of cerium. It provides pigments with light fastness and prevents clear polymers from darkening in sunlight. Television glass plates are subject to electron bombardment, which tends to darken them by creation of [[F-center]] color centers. This effect is suppressed by addition of cerium oxide. Cerium is also an essential component of phosphors used in TV screens and fluorescent lamps.<ref name=cerium/> 
+
+A traditional use of cerium was in the pyrophoric [[mischmetal]] alloy used for light flints. Because of the high affinity of cerium to sulfur and oxygen, it is used in various aluminium alloys, and iron alloys. In [[steel]]s, cerium degasifies and can help reduce sulfides and oxides, and it is a [[precipitation hardening]] agent in [[stainless steel]]. Adding cerium to [[cast iron]]s opposes graphitization and produces a malleable iron. Addition of 3-4% of cerium to [[magnesium]] alloys, along with 0.2 to 0.6% [[zirconium]], helps [[grain refinement|refine the grain]] and give sound [[casting (metalworking)|casting]] of complex shapes. It also adds heat resistance to magnesium castings.<ref name=cerium/> 
+
+Cerium alloys are used in permanent magnets and in [[tungsten]] electrodes for [[gas tungsten arc welding]]. Cerium is used in [[carbon arc lamp|carbon-arc lighting]], especially in the [[film|motion picture]] industry. [[Cerium oxalate]] is an [[anti-emetic]] drug. [[Cerium(IV) sulfate]] is used extensively as a volumetric [[oxidizing agent]] in quantitative analysis. Ceric ammonium nitrate is a useful one-electron oxidant in organic chemistry, used to oxidatively etch electronic components, and as a primary standard for quantitative analysis.<ref name=CRC/><ref name=appl>{{cite book| page = 30| url = http://books.google.co.jp/books?id=F0Bte_XhzoAC&pg=PA30| title = Extractive metallurgy of rare earths| author = C. K. Gupta, Nagaiyar Krishnamurthy| publisher =CRC Press| year = 2004| isbn =0415333407}}</ref>
+ 
+== Precautions ==
+Cerium, like all rare-earth metals, is of low to moderate toxicity. Cerium is a strong reducing agent and ignites spontaneously in air at 65 to 80&nbsp;°C. Fumes from cerium fires are toxic. Water should not be used to stop cerium fires, as cerium reacts with water to produce hydrogen gas. Workers exposed to cerium have experienced itching, sensitivity to heat, and skin lesions. Animals injected with large doses of cerium have died due to cardiovascular collapse. Cerium(IV) oxide is a powerful oxidizing agent at high temperatures and will react with combustible organic materials. While cerium is not radioactive, the impure commercial grade may contain traces of thorium, which is radioactive. Cerium serves no known biological function.<ref name=cerium/>
+
+==References==
+{{reflist|2}}
+
+== External links ==
+{{Commons|Cerium}}
+{{wiktionary|cerium}}
+*[http://www.webelements.com/webelements/elements/text/Ce/index.html WebElements.com &ndash; Cerium]
+*[http://education.jlab.org/itselemental/ele058.html It's Elemental &ndash; The Element Cerium]
+*[http://www.azom.com/details.asp?ArticleID=592 Cerium Properties and Applications]
+*[http://www.rsc.org/chemistryworld/podcast/element.asp Chemistry in its element podcast] (MP3) from the [[Royal Society of Chemistry]]'s [[Chemistry World]]: [http://www.rsc.org/images/CIIE_Cerium_48kbps_tcm18-130390.mp3 Cerium]
+
+{{clear}}
+{{Compact periodic table}}
+{{Cerium compounds}}
+
+[[Category:Chemical elements]]
+[[Category:Lanthanides]]
+[[Category:Cerium]]
+
+<!-- interwiki -->
+
+[[ar:سيريوم]]
+[[bn:সিরিয়াম]]
+[[be:Цэрый]]
+[[bs:Cerijum]]
+[[bg:Церий]]
+[[ca:Ceri]]
+[[cs:Cer]]
+[[co:Ceriu]]
+[[cv:Цери]]
+[[da:Cerium]]
+[[de:Cer]]
+[[et:Tseerium]]
+[[el:Δημήτριο]]
+[[es:Cerio]]
+[[eo:Cerio]]
+[[eu:Zerio (elementua)]]
+[[fa:سریم]]
+[[fr:Cérium]]
+[[fur:Ceri]]
+[[gv:Kerrium]]
+[[gl:Cerio]]
+[[ko:세륨]]
+[[hy:Ցերիում]]
+[[hi:सेरियम]]
+[[hr:Cerij]]
+[[io:Cerio]]
+[[id:Serium]]
+[[it:Cerio]]
+[[he:צריום]]
+[[sw:Seri]]
+[[ht:Seryòm]]
+[[la:Cerium]]
+[[lv:Cērijs]]
+[[lb:Cer]]
+[[lt:Ceris]]
+[[lij:Çerio]]
+[[jbo:jinmrseri]]
+[[hu:Cérium]]
+[[ml:സെറിയം]]
+[[mr:सेरियम]]
+[[nl:Cerium]]
+[[ja:セリウム]]
+[[no:Cerium]]
+[[nn:Cerium]]
+[[oc:Cèri]]
+[[pnb:سیریم]]
+[[pl:Cer]]
+[[pt:Cério]]
+[[ro:Ceriu]]
+[[qu:Seryu]]
+[[ru:Церий]]
+[[sah:Сериум]]
+[[stq:Cerium]]
+[[scn:Ceriu]]
+[[simple:Cerium]]
+[[sk:Cér]]
+[[sl:Cerij]]
+[[sr:Церијум]]
+[[sh:Cerijum]]
+[[fi:Cerium]]
+[[sv:Cerium]]
+[[ta:சீரியம்]]
+[[th:ซีเรียม]]
+[[tr:Seryum]]
+[[uk:Церій]]
+[[ur:Cerium]]
+[[ug:سېرىي]]
+[[vi:Xeri]]
+[[yo:Cerium]]
+[[zh-yue:鈰]]
+[[zh:铈]]

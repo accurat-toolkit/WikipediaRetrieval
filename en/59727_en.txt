@@ -1,0 +1,355 @@
+{{Three other uses|the Spanish city|the autonomous community|Region of Murcia|the Philippine city|Murcia, Negros Occidental|other uses|Murcia (disambiguation)}} 
+:''Also not to be confused with the Anglo-Saxon kingdom [[Mercia]].'' 
+{{copyedit|date=August 2007|for=grammar}}
+{{Spanish city |
+native_name = Murcia|
+spanish_name = Murcia |
+nickname = City of Sun|
+city_motto = |
+city_motto_means = |
+image_flag = Bandera de Murcia.svg|
+image_flag_size = 150px|
+image_coat_of_arms = Escudo de la Ciudad de Murcia.svg|
+image_coat_of_arms_size = 70px|
+image_city_map = Murcia, Spain location.png|
+image_city_map_size = 200px|
+lat_long = {{coord|37|59|N|1|8|W}} |
+time_zone = CET ([[UTC+1]])|
+time_zone_summer = CEST ([[UTC+2]])|
+image_skyline = Frente_Fluvial_y_Casco_Antiguo.JPG |
+image_skyline_size = 250px|
+image_skyline_caption = River front and the Cathedral's Belfry|
+native_language = Spanish|
+founded = 825|
+community = Murcia|
+community_link = Region of Murcia|
+province = Murcia|
+province_link = Region of Murcia|
+comarca = Huerta de Murcia|
+comarca_link = Huerta de Murcia|
+divisions = |
+neighborhoods = |
+mayor = Miguel Ángel Cámara Botía|
+political_party = PP|
+political_party_link = People's Party (Spain)|
+area = 881.86 |
+altitude = 43|
+population = 433,850|
+date-population = 2006-01-01|
+population-ranking = 7|
+density = 481.2 |
+date-density = 2006-10-20|
+website = http://www.ayto-murcia.es/ |
+postal_code = 30001-30012|
+area_code = 968|
+}}
+'''Murcia''' is a city located in south-eastern [[Spain]] along the [[Segura]] River and is the capital of the [[Region of Murcia|Autonomous Community of the Region of Murcia]]. The 2008 population of 433,850 ranked the city as the seventh largest in Spain. The population of the [[metropolitan area]] is 743,326, ranking ninth out of the largest metropolitan areas of the country.  
+
+Murcia is mainly a services city and a university town. Its frequently forgotten by visitors despite having some outstanding monuments like its famous [[Cathedral of Murcia|Cathedral]], renowned local cuisine, Holy Week processions, figures from the famous Murcia sculptor [[Francisco Salzillo]], and the Spring Festival. 
+
+==Geography==
+Murcia is located near the center of a low-lying fertile plain known as the ''[[huerta]]'' (orchard or vineyard) of Murcia. This includes the valleys of the [[Segura]] River and its right-hand tributary, the Guadalentín, or Sangonera River. The Segura is recognized as one of the most polluted rivers in Europe. The Region of Murcia is surrounded by two mountain ranges, the Sierra de Orihuela and the Cresta de Gallo.  Despite the proximity of the sea, the climate is subject to great variation: the summer heat is severe while frosts may occasionally befall the capital city during winter.
+
+The city covers approximately {{convert|882|km2|sqmi|0}} and is divided from east to west by a series of mountain ranges (Carrascoy, El Puerto, Villares, Columbares, Altaona, and Escalona). These two zones are known as Field of Murcia and Orchard of Murcia.
+
+The city has an elevation of 43 [[Meters above sea level|m.a.s.l.]] and is located on the medium alluvial plain of the [[Segura]] river (''Vega Media del Segura''). The river crosses the city from west to east. The river belongs to a Mediterranean pluvial system. Its volumetric flow is mostly small but, the river is known to produce occasional flooding, like those that inundated the capital in 1946, 1948, 1973 or 1989.
+
+The best known and most dominant aspect of the municipal area's landscape is the [[orchard]]. The area is sparse, with hills surrounding the valley of the Segura river. This terrain owes its varied character to the mountain ranges of the south (''Cordillera Sur''), while the steep hill Monteagudo near the plain's center protrudes emphatically.
+
+In addition to the orchard and urban zones, the great expanse of the municipal area is made up of different landscapes: [[badlands]], groves of Carrasco [[pine]] trees in the precoastal mountain ranges and, towards the south, a semi-[[steppe]] region.
+
+A regional park is also part of the area of Carrascoy and the Valley (''Carrascoy y el Valle'') belonging to the city of Murcia.
+
+==Districts==
+The {{convert|881.86|km2|sqmi|2|sing=on}} territory of Murcia's municipality is made up of 54 ''pedanías'' (suburban districts) and 28 ''barrios'' (city neighbourhood districts).  The barrios make up the {{convert|12.86|km2|sqmi|2|sing=on}} the main urban portion of the city.  The historic city center is approximately {{convert|3|km2|sqmi|0}} of the urbanized downtown portion of Murcia.
+
+==Climate==
+Given its proximity to the [[Mediterranean Sea]], Murcia enjoys a semi-arid Mediterranean climate, with mild winters and warm to hot summers.
+
+It averages more than 300 days of sun per year. Occasionally, Murcia has heavy rains where the precipitation for the entire year will fall over the course of a few days.
+
+During winter, the average daily temperature range is a high of 16°C during the day and a low of 4°C at night. In summer, the range goes from 30°C during the day to 20°C at night. Murcia's peak summer temperatures have been known to surpass 35°C. The highest temperature recorded in Spain through the 20th  century was {{convert|47.2|C|F|1|lk=on}}, which happened in Murcia on [[July 4]], [[1994]].
+
+Precipitation in Murcia is scarce, with the [[hydrological year]] October 2004 through September 2005 registering with less than 200&nbsp;mm.
+
+{{Infobox Weather
+|metric_first = yes
+|single_line = yes
+|location = Murcia-[[Alcantarilla]] (Airport)
+|Jan_Hi_°C = 16.4
+|Feb_Hi_°C = 18.2
+|Mar_Hi_°C = 20.4
+|Apr_Hi_°C = 22.5
+|May_Hi_°C = 25.8
+|Jun_Hi_°C = 30.0
+|Jul_Hi_°C = 33.4
+|Aug_Hi_°C = 33.6
+|Sep_Hi_°C = 30.2
+|Oct_Hi_°C = 25.5
+|Nov_Hi_°C = 20.0
+|Dec_Hi_°C = 17.0
+|Year_Hi_°C = 24.4
+|Jan_Lo_°C = 3.9
+|Feb_Lo_°C = 5.2
+|Mar_Lo_°C = 6.7
+|Apr_Lo_°C = 8.7
+|May_Lo_°C = 12.2
+|Jun_Lo_°C = 16.2
+|Jul_Lo_°C = 19.0
+|Aug_Lo_°C = 19.9
+|Sep_Lo_°C = 16.9
+|Oct_Lo_°C = 12.7
+|Nov_Lo_°C = 8.2
+|Dec_Lo_°C = 5.2
+|Year_Lo_°C = 11.2
+|Jan_MEAN_°C = 10.1
+|Feb_MEAN_°C = 11.7
+|Mar_MEAN_°C = 13.5
+|Apr_MEAN_°C = 15.6
+|May_MEAN_°C = 19.0
+|Jun_MEAN_°C = 23.1
+|Jul_MEAN_°C = 26.2
+|Aug_MEAN_°C = 26.7
+|Sep_MEAN_°C = 23.6
+|Oct_MEAN_°C = 18.8
+|Nov_MEAN_°C = 14.1
+|Dec_MEAN_°C = 11.1
+|Year_MEAN_°C = 17.8
+|Jan_Precip_days = 3
+|Feb_Precip_days = 3
+|Mar_Precip_days = 3
+|Apr_Precip_days = 4
+|May_Precip_days = 4
+|Jun_Precip_days = 2
+|Jul_Precip_days = 1
+|Aug_Precip_days = 1
+|Sep_Precip_days = 2
+|Oct_Precip_days = 4
+|Nov_Precip_days = 4
+|Dec_Precip_days = 4
+|Year_Precip_days = 35
+|Jan_Precip_cm = 2.5
+|Feb_Precip_cm = 2.8
+|Mar_Precip_cm = 3.0
+|Apr_Precip_cm = 2.7
+|May_Precip_cm = 3.2
+|Jun_Precip_cm = 2.0
+|Jul_Precip_cm = 0.5
+|Aug_Precip_cm = 1.0
+|Sep_Precip_cm = 2.7
+|Oct_Precip_cm = 4.4
+|Nov_Precip_cm = 3.2
+|Dec_Precip_cm = 2.1
+|Year_Precip_cm = 30.1
+|source = [[Agencia Estatal de Meteorología]]<ref>{{cite web
+  |url=http://www.aemet.es/es/elclima/datosclimatologicos/valoresclimatologicos?l=7228&k=mur
+  |title=Valores Climatológicos Normales. Murcia - Alcantarilla
+  |dateformat=mdy
+  |accessdate=}}</ref>
+|accessdate = }}
+
+==Demographics==
+Murcia has 433,850 inhabitants ([[Instituto Nacional de Estadística (Spain)|INE]] 2008) making it the seventh-largest Spanish municipality by population. When adding in the municipalities of Alcantarilla, Alguazas, Beniel, Molina de Segura, Santomera, and Las Torres de Cotillas, the [[metropolitan area]] has 564,036 inhabitants making it the twelfth most populous metropolitan area in Spain. Nevertheless, due to Murcia's large municipal territory, its population density (472 hab./km², 760 hab./sq.mi.) does not likewise rank among Spain's highest.
+
+According to the official population data of the [[Instituto Nacional de Estadística (Spain)|INE]], 10% of the population of the municipality reported belonging to a foreign nationality as of 2005.
+
+== Main sights==
+The [[Cathedral of Murcia|Cathedral of the Diocese of Cartagena]] (based in Murcia) was built between 1394 and 1465 in the Castilian [[gothic architecture|Gothic]] style.  Its tower was completed in 1792 and shows a blend of architectural styles. The first two stories were built in the [[Renaissance]] style (1521–1546), while the third is [[Baroque]]. The bell pavilion exhibits both [[Rococo]] and [[Neoclassical architecture|Neoclassical]] influences.  The main façade (1736–1754) is considered a masterpiece of the [[Spanish Baroque]] style.
+
+Other noteworthy buildings in the square shared by the Cathedral (Plaza [[Cardinal Belluga|Cardenal Belluga]]) are the colorful ''Bishop's Palace'' (18th century) and a controversial extension to the town hall by [[Rafael Moneo]].
+
+The ''Glorieta'', which lies on the banks of the [[Segura River]], has traditionally been the center of the town. It is a pleasant, landscaped city square that was constructed during the 18<sup>th</sup> century.  The ''ayuntamiento'' ([[city hall]]) of Murcia is located in this square.
+
+Pedestrian areas cover most of the old town of the city, which is centered around Platería and Trapería streets. Trapería goes from the Cathedral to the Plaza de Santo Domingo, formerly a bustling market square.   Located in Trapería is the ''Casino'', a social club erected in 1847, with a sumptuous interior that includes a Moorish-style patio inspired by the royal chambers of the [[Alhambra]] near Granada. The name Plateria refers to plata, silver, as this street was the historical focus for the commerce of rare metals by Murcia's Jewish community. The other street, Traperia, refers to trapos, or cloths, as this was once the focus for the Jewish community's garment trade.
+
+Other notable places around Murcia include:
+*the ''Malecón'' boulevard
+*''La Fuensanta'' sanctuary and adjacent ''El Valle'' regional park
+*''Los Jerónimos'' monastery
+*''Romea'' theatre
+*Almudí Palace
+*Monteagudo Castle
+*Salzillo Museum
+*''San Juan de Dios'' church-museum. 
+
+In the metropolitan area are also the ''Azud de la Contraparada'' reservoir and the ''Noria de La Ñora'' water wheel.
+[[File:Calle Trapería-Santo Domingo.JPG|thumb|220px|Trapería Street.]]
+
+== Festivals ==
+The [[Holy Week procession]] hosted by the city is among the most famous throughout all of Spain. This traditional festival portrays the events which lead up to and include the [[Resurrection of Jesus|Crucifixion]] according to the New Testament. Life-sized, finely-detailed sculptures by [[Francisco Salzillo]] (1707&ndash;1783) are removed from the museums and carried around the city in elegant processions amid flowers and, at night, candles, pausing at stations which are meant to re-enact the final moments before the Roman crucifixion of Jesus.
+
+The most colorful festival in Murcia may come one week after [[Holy Week]], when locals dress up in traditional ''huertano'' clothing to celebrate the ''[[Bando de la Huerta]]'' ([[Huerta]] [[parade]]) on Tuesday and fill the streets for the ''[[Entierro de la Sardina]]'' (Burial of the Sardine) parade the following Saturday.
+	
+Murcia's Three Cultures International Festival happens each May and was first organized around overcoming racism and xenophobia in the culture. The festival seeks to establish understanding and reconciliation between the three cultures that have cohabited the peninsula for centuries, if not millennia: Christians, Jews<ref>{{cite web|url=http://en.wikipedia.org/wiki/Murcia_Jewish_community |title=Murcia Jewish community - Wikipedia, the free encyclopedia |publisher=En.wikipedia.org |date=2009-07-02 |accessdate=2009-07-08}}</ref>  and Muslims. Each year, the festival celebrates these three cultures through music, exhibitions, symposiums and conferences.
+
+== Economy ==
+Murcia serves as a major producer of agricultural products; it is common to find Murcia's tomatoes and lettuce, and especially [[lemon]]s and [[orange (fruit)|orange]]s, in European supermarkets. Murcia is also a nation of wines. They devote about 100,000 acres to grape vinyards. Most of the vinyards are located in the town Jumilla and Ricote. Jumilla is a plateau where the vinyards are surrounded by mountains.
+
+Murcia was also a popular location for industry, with many British companies choosing it as a location for satellite factories, such as [[Henry Milward & Sons]] for the manufacture of surgical and knitting needles
+
+These days, the economy of the region is turning towards "residential tourism" in which many people from northern European countries have a second home there. As well, many Europeans and Americans come to Murcia to learn Spanish in the many academies in the town center.
+
+The economy of Murcia is also supported by fairs and congresses, museums, theatres, cinemas, music, aquariums, bullfighting, restaurants, hotels, camping, sports, foreign students, and tourism.
+
+==Transportation==
+[[Murcia-San Javier Airport]] (MJV) is located on the edge of the [[Mar Menor]] close to the towns of San Javier and Santiago de la Ribera, {{convert|45|km|mi|0}} southeast of Murcia.  The airport at the neighboring city of [[Alicante]] is frequently used by travellers to Murcia as well.
+[[File:Tranvia-murcia futuras-ampliaciones.jpg|thumb|070px|left|<center>Tram project</center>]]
+*Bus: The transport is provided by [[Latbus]] which operates the urban bus and other interurban services.
+*[[Tram]]way: Provided by [[Tranvimur]] which operates the urban tram, a little line 2 kilometres long, finished in April 2007. There are, in total, 4 lines in project.
+*Train: Provided by [[RENFE]]. Murcia has two lines of [[Cercanías]] trains, to Alicante and [[Águilas]].
+
+==City Government==
+[[Mayor]] Miguel Ángel Cámara Botía ([[Popular Party (Spain)|PP]]) has been in office since 1995.
+
+== Healthcare ==
+The hospitals and other public primary healthcare centers belong to the [[Murcian Healthcare Service]].  There are three public hospitals in Murcia:
+* [[Ciudad Sanitaria Virgen de La Arrixaca]] in El Palmar that includes [[obstetrics]] and [[paediatrics]] units
+* [[Hospital Reina Sofía]]
+* [[Hospital Morales Meseguer]]
+
+== Education ==
+Murcia has three universities:
+* two public universities: the [[University of Murcia]], founded in 1912 and the [http://www.upct.es/ UPCT], Polytechnic University of [[Cartagena, Spain|Cartagena]]
+* one private university: the [http://www.ucam.edu/ UCAM], Saint Anthony Catholic University.
+[[File:Murcia University.jpg|230px|thumb|right|Old University Building.]]
+[[File:Murcia UniversityCloister.jpg|220px|thumb|Old University (cloister).]]
+There are also several high schools, elementary schools, and professional schools. Murcia has three types of schools for children: private schools such as [[El Limonar International School, Murcia]] (well-known English language school), semi-private schools (''concertado'') such as Los Maristas (well-known for its graduates), and public schools such as Colegio Publico (CP) San Pablo (known for mathematics and science) and 
+[[Instituto de Educacion Secundaria Alfonso X El Sabio]] known in murcia for selectividad,the college entrance exam.  The private schools and concertados can be religious (Catholic) or secular, but the public schools are strictly secular.  A ''concertado'' is a school receiving government money but private in nature even religious.  Such schools fill the gap by providing schools where the government isn't able to or come from a time in the past before the government developed a national school system and these private schools were working and were thus left in place and given the responsibility to act as public schools in educating all without having to become nonreligious like all other public schools.
+
+== History ==
+It is widely believed that Murcia's name is derived from the Latin words of '''Myrtea''' or '''Murtea''', meaning land of [[Myrtus|Myrtle]] (the plant is known to grow in the general area), although it may also be a derivation of the word '''Murtia''', which would mean Murtius village (Murtius was a common Roman name). Other research suggests that it may owe its name to the Latin '''Murtae''' (Mulberry), which covered the regional landscape for many centuries.
+
+The Latin name eventually changed into the Arabic Mursiya, and then, Murcia.
+
+[[File:Demografía Murcia (España).PNG|300px|thumb|Demographic evolution.]]
+The city in its present location was founded with the name '''Medinat Mursiya''' in AD 825 by [[Abd ar-Rahman II]], who was then the emir of [[Al-Andalus]]. Moorish planners, taking advantage of the course of the river Segura, created a complex network of irrigation channels that made the town's agricultural existence prosperous. This model of irrigation networks was developed by the Moors as a precursor to modern irrigation systems.  The traveler and writer, [[Muhammad al-Idrisi]], in the 12<sup>th</sup> century described the city of Murcia as populous and strongly fortified.  After the fall of the [[caliph of Cordoba|Caliphate of Cordoba]] in 1031, Murcia passed under the successive rules of the powers seated variously at [[Almería]], [[Toledo, Spain|Toledo]] and [[Seville]].  In 1172 it was taken by the [[Almohades]], and from 1223 to 1243 it briefly served as the capital of an independent kingdom. 
+
+The [[Crown of Castile|Castilians]], with forces led by King [[Alfonso X of Castile|Alfonso X]], took the city at the end of this period of autonomy, whereupon large numbers of mixed immigrants from north [[Catalonia]] and [[Provence]] resettled the town. As with much of the Spanish Reconquest, these Christian populations were brought to the area with the goal of establishing a Christian base here, one that would be loyal to the Crown of Castile and whose culture would supplant that of the subjugated Moorish peoples. During the process of Christianization, many of the city’s mosques were destroyed or converted into Catholic churches. In 1296, control over Murcia and the surrounding region was transferred to the [[Kingdom of Aragon]] and, in 1304, was finally incorporated into Castile under the [[Treaty of Torrellas]]. 
+
+Murcia flourished in the 18th century, benefiting greatly from a boom in the silk industry. Many of the modern city's landmark churches and monuments date from this period of nascent mercantilism.
+
+However, this was to be followed by nearly a century of mishap. In 1810, Murcia was looted by Napoleonic troops; it then suffered a major [[earthquake]] in 1829. According to contemporaneous accounts, an estimated 6,000 people died from the disaster's effects across the province. Plague and cholera followed, and by the 19th centuary the city was in freefall. 
+  
+The town and surrounding area suffered badly from floods in 1651, 1879, and 1907, though the construction of a levee helped to stave off the repeated floods from the Segura. A popular pedestrian walkway, the Malecon, runs along the top of the levee.
+
+Murcia has been the capital of the province of Murcia since 1838 and, with its creation by the central government in 1982, capital of the autonomous community (which includes only the city and the province). Since then, it has become the seventh most populated municipality in Spain, and a thriving services city.
+[[File:Murcia Cathedral.jpg|250px|thumb|right|Cathedral of Murcia.]]
+[[File:Ayuntamiento de Murcia.JPG|The [[town hall]].|thumb|250px]]
+[[File:Murcia CathedralSquare1.jpg|Plaza Cardenal Belluga (seen from the Cathedral).|thumb|250px]]
+[[File:Puente Viejo o de los Peligros.JPG|Old Bridge.|thumb|250px]]
+[[File:Casa Cerdá.JPG|Casa Cerdá.|thumb|250px]]
+[[File:Casino de Murcia.JPG|Casino of Murcia.|thumb|160px]]
+
+==Notable People from Murcia==
+* [[Ibn Arabi|Muhyī al-Dīn Ibn al-‘Arabī]] (1165&ndash;1240), a [[Sufism|Sufi]] master and prolific author.
+* [[Abul Abbas al-Mursi]] ([[1219]]–[[1286]]) a Sufi mystic.
+* [[Diego de Saavedra Fajardo]] (1584&ndash;1648), a writer and diplomat.
+* [[Francisco Salzillo]] (1707&ndash;1783), a Baroque sculptor.
+* [[José Moñino, conde de Floridablanca]] (1728&ndash;1808), a statesman, minister of King [[Charles III of Spain]].
+* [[Julián Romea]] (1818&ndash;1863), a theatre actor.
+* [[Juan de la Cierva]] (1895&ndash;1936), the inventor of the [[autogyro]], a forerunner of the helicopter.
+* [[Francisco Sánchez Bautista]] (1925&ndash;), a poet.
+* [[Maria Teresa Chicote]] (1935&ndash;), a notable scientist.
+* [[Charo]]  (1951&ndash;), a musician, actress and entertainer.
+* [[Enrique Máximo García]] (1954&ndash;2008), a [[musicologist]], [[chemist]], [[investigator]] and [[historian]].
+* [[Alejandro Valverde]] (1980&ndash;), a cyclist.
+* [[Nicolás Almagro]] (1985&ndash;), a tennis player.
+* [[Ruth Lorenzo]] (1982&ndash;), a contestant in [[The X Factor]]
+
+==Sport teams==
+* [[Real Murcia]] &mdash; [[Spanish Second Division]] [[Association football|football (soccer)]]
+* [[Polaris World Murcia]] &mdash; basketball
+* [[El Pozo Murcia Turistica]] &mdash; [[indoor soccer]]
+
+[[File:Murcia-Pza Sto Domingo.jpg|thumb|220px|Santo Domingo Square.]]
+==Twin towns - Sister cities==
+Murcia is [[town twinning|twinned]] with:
+*{{flagicon|USA}} [[Miami]], [[United States]]
+*{{flagicon|Italy}} [[Lecce]], [[Italy]]
+*{{flagicon|France}} [[Grasse]], [[France]]
+*{{flagicon|Mexico}} [[Irapuato]] , [[Mexico]]
+*{{flagicon|Philippines}} [[Murcia, Negros Occidental|Murcia]], [[Philippines]]
+*{{flagicon|Poland}} [[Łódź]], [[Poland]], since 1999 <ref name="Łódź Tourism">{{cite web |url=http://en.www.uml.lodz.pl/index.php?str=2029 |title=Twin Cities |accessdate=2008-10-23 |work=The City of Łódź Office|year=2007 }}</ref></small>
+
+==See also==
+*[[Kingdom of Murcia]]
+
+==References==
+*{{1911}}
+
+{{reflist}}
+
+== External links ==
+{{commons|Murcia}}
+* [http://www.murciaciudad.com/ingles/ Official Tourism Site of the City of Murcia]
+* [http://www.carm.es/ctyc/murciaturistica/Portal/iya.menu.menu?idi=2 Official Tourism Site of Murcia, Spain]
+* {{es}} [http://www.murcia.es/ Ayuntamiento de Murcia] (the Town Hall)
+* {{es}} [http://www.carm.es/ Comunidad Autónoma de la Región de Murcia] (the [[Autonomous Community]])
+* [http://www.um.es/english/ University of Murcia] - public university
+* {{es}} [http://www.upct.es/ Universidad Politécnica de Cartagena] - public university
+* {{es}} [http://www.ucam.edu/ Universidad Católica San Antonio] - private university
+* {{es}} [http://www.murcianicos.com/galeria_fotografica ''Big Murcia Photogallery'']
+* [http://www.viva-murcia.com/murcia_city_p143.php Viva Murcia] community info and photos for Murcia City and Province
+{{coord|37.9828|-1.1303|type:city|display=title}}
+
+<BR>
+{{Murcia}}
+
+[[Category:Municipalities in Murcia]]
+[[Category:Region of Murcia]]
+[[Category:Semi-arid climate]]
+
+[[ar:مرسية]]
+[[an:Murzia]]
+[[ast:Murcia]]
+[[bg:Мурсия]]
+[[ca:Múrcia]]
+[[cs:Murcia]]
+[[da:Murcia]]
+[[de:Murcia (Stadt)]]
+[[et:Murcia]]
+[[es:Murcia]]
+[[eo:Murcio]]
+[[ext:Múrcia]]
+[[eu:Murtzia]]
+[[fa:مورسیا (شهر)]]
+[[fr:Murcie]]
+[[gl:Murcia]]
+[[ko:무르시아]]
+[[hr:Murcia]]
+[[io:Murcia]]
+[[id:Murcia]]
+[[is:Murcia]]
+[[it:Murcia]]
+[[he:מורסיה (עיר)]]
+[[jv:Murcia]]
+[[ka:მურსია]]
+[[lad:Mursia]]
+[[la:Murcia]]
+[[lv:Mursija]]
+[[lb:Murcia]]
+[[lt:Mursija]]
+[[lmo:Murcia]]
+[[hu:Murcia]]
+[[ms:Murcia]]
+[[nah:Murcia]]
+[[nl:Murcia (stad)]]
+[[ja:ムルシア]]
+[[no:Murcia]]
+[[nn:Murcia]]
+[[nov:Murcia]]
+[[oc:Múrcia]]
+[[pms:Murcia (Spagna)]]
+[[pl:Murcja (miasto)]]
+[[pt:Múrcia]]
+[[ru:Мурсия]]
+[[simple:Murcia]]
+[[sr:Мурсија]]
+[[fi:Murcia]]
+[[sv:Murcia]]
+[[tet:Múrsia]]
+[[tr:Murcia]]
+[[uk:Мурсія]]
+[[vec:Murcia]]
+[[vi:Murcia]]
+[[zh:穆尔西亚]]

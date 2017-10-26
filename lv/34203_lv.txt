@@ -1,0 +1,33 @@
+{{otheruses4|1988. gadā dzimušu hokejistu|Džeriņš|Džeriņš}}
+{{Infokaste hokejists
+| attēls = 
+| att_izm = 
+| paraksts = 
+| garums = 186 [[centimetrs|cm]]
+| svars = 81 [[kilograms|kg]]
+| poz = [[uzbrucējs (hokejā)|uzbrucējs]]
+| dz_dat = {{dat|1988|2|14}}
+| dz_viet = [[Rīga|Rīgā]], [[Latvija|Latvijā]]
+| mir_dat = 
+| mir_viet = 
+| taut = {{LAT}}
+| khldrafts = 82., ceturtajā kārtā
+| khldr_kom = [[Rīgas "Dinamo"]]
+| khldr_gads = 2009
+| kar_sāk = [[2004]]
+| kar_beig = 
+}}'''Andris Džeriņš''' (dzimis 1988. gada 14. februārī) ir latviešu [[hokejs|hokejists]] - [[uzbrucējs (hokejā)|uzbrucējs]]. Pašlaik(2007) viņš spēlē [[Somija]]s junioru hokeja līgas klubā [[Raumas "Lukko"]]. Iepriekšējo sezonu viņš aizvadīja [[Zviedrija]]s U-18 jauniešu līgā, bet 2004-05 sezonā spēlēja [[Latvijas hokeja līga]]s kluba [[HK Rīga 2000]] rindās, kļūstot par [[Latvija]]s čempionu. 2007. gada [[CHL]] draftā viņu ar kopējo 26. numuru draftēja [[OHL]] klubs [[Kingstonas "Frontenacs"]].
+
+[[Latvijas hokeja izlase|Latvijas izlases]] sastāvā viņš piedalījies 2005. un 2006. gada [[Pasaules čempionāts hokejā|Pasaules čempionātos]] U-18 jauniešiem, kā arī 2007. un 2008. gada Pasaules čempionātos junioriem. 2006. gadā tika atzīts par grupas labāko uzbrucēju. Viņš bija arī rezultatīvākais spēlētājs. 2007. gada Pasaules čempionātā viņš guva 6 [[vārti (hokejā)|vārtus]], kļūstot par grupas labāko vārtu guvēju. Pirms [[2007. gada Pasaules čempionāts hokejā|2007. gada Pasaules čempionāta]] viņš piedalījās arī vairākās pārbaudes spēlēs pieaugušo izlases rindās.
+
+Arī viņa 3 gadus vecākais brālis [[Guntis Džeriņš|Guntis]] ir profesionāls hokejists.
+
+{{hokejs-stub}}
+{{Latvijas sportists-aizmetnis}}
+
+{{DEFAULTSORT:Dzzerinzsz, Andris}}
+[[Kategorija:Latvijas hokejisti]]
+[[Kategorija:1988. gadā dzimušie]]
+[[Kategorija:HK Rīgas 2000 spēlētāji]]
+
+[[en:Andris Džeriņš]]

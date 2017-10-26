@@ -1,0 +1,63 @@
+{{Info BioTakso
+| attēls =Connemara pony2.jpg
+| att_nosaukums =Equus caballus
+| valsts =Animalia
+| valsts_lv =Dzīvnieki
+| valsts_r =Dzīvnieki
+| tips =Chordata
+| tips_lv =Hordaiņi
+| klase =Mammalia
+| klase_lv =Zīdītāji
+| kārta =Perissodactyla
+| kārta_lv =Nepārnadži
+| dzimta =Equidae
+| dzimta_lv =Zirgu dzimta
+| ģints =Equus
+| ģints_lv =Zirgi
+| suga =Equus caballus
+| suga_lv =Mājas zirgs
+| izcelsmes_vieta =[[Īrija]]
+| kategorijas =nē
+}}
+
+'''Konmāras ponijs''' ir [[zirgi|zirgu dzimtas]] (''Equidae'') zirgu ģints (''Equus'') [[mājas zirgs|mājas zirgu]] (''Equus caballus'') [[Īrija]]s [[ponijs|poniju]] šķirne. 
+
+Konmāras poniju izcelsme ir ļoti sena, ir uzskats, ka [[ķelti]] ponijus ieveda [[sala|salā]] pirms 2500 gadiem, bet cita versija vēsta, ka ponijus ieveda [[vikingi]]. Tomēr vispopulārākajā [[leģenda|leģendā]] ir teikts, ka [[1588]]. gadā pie Īrijas krastiem vētrā uz klintīm uzskrēja [[spāņi|spāņu]] armādas [[kuģis]]. Un daži [[andalūzijas zirgs|Andalūzijas zirgi]], kas atradās uz kuģa izpeldēja krastā. Spāņu zirgi sajaucās ar primitīvajiem salas zirgiem, un izveidojās Konmāras poniju šķirne. 
+
+{{g_dek|1700|L}} šķirnei "piejauca" [[arābu zirgs|arābu zirga]] asinis, lai piedotu ponijam papildus spēku un izturību. Laika gaitā poniji ir tikuši krustoti arī ar [[Haknejas zirgs|Haknejas zirgiem]] un [[tīrasiņu zirgs|tīrasiņu zirgiem]]. Lai nosargātu šķirni no pārāk biežiem krustojumiem ar citām šķirnēm un lai saglabātu primitīvā, senā ponija iezīmes, [[1923]]. gadā tika nodibināta Konmāras poniju asociācija un izveidota [[ciltsgrāmata]]. Asociācija rūpīgi atlasīja nelielu baru poniju un palaida savvaļā. Mērķis tika sasniegts, Konmāras [[savvaļas zirgs|savvaļas poniju]] bars ir kļuvis par izcilu vaislas materiālu poniju šķirnei mūsdienās, saglabājot senās un vērtīgās ponija iezīmes<ref name="jan">Nicola Jane Swinney "Horse Breeds of the world" 
+</ref>. 
+
+Mūsdienās Konmāras poniji tiek audzēti ne tikai Īrijā, bet daudzās valstīs pasaulē: [[Lielbritānija|Lielbritānijā]], dažādās [[Eiropa]]s valstīs kontinentā, [[ASV]], [[Kanāda|Kanādā]], [[Austrālija|Austrālijā]], [[Jaunzēlande|Jaunzēlandē]] un [[Dienvidāfrika|Dienvidāfrikā]].
+
+== Izskats un raksturs ==
+[[Attēls:Connemara stallion.jpg|thumb|left|250px|Konmāras ponija [[ērzelis]]]]
+Skarbā [[Konmāra]]s reģiona daba ir izveidojusi atlētisku un spēcīgu poniju [[šķirne|šķirni]], ar ļoti līdzsvarotām [[zirga gaitas|gaitām]]. Kalnainajā un akmeņainajā apvidū viens kļūdains solis nozīmēja kritienu un nāvi<ref name="jan"/>. Bija laiks, kad zemnieki savvaļā ķēra ponijus, pieradināja un tos lietoja visiem saimniecības darbiem; akmeņu vešanai, lai attīrītu zemes pleķīti, smagās zemes aršanai, kūdras vešanai un svētdienās ģimenes vizināšanai uz baznīcu. Zemnieki bija nabadzīgi un varēja atļauties uzturēt tikai vienu poniju, tā parasti bija ķēve, jo kumeļu varēja pārdot, un tādā veidā nedaudz nopelnīt. Tas attīstīja Konmāras ķēvju spēku un izturību, ar miermīlīgu raksturu. 
+
+Ponijiem ir spēcīgas un īsas muguras, muskuļots un labi būvēts [[ķermenis]]. Konmāras ponijam ir jaudīgi un labi veidoti krusti, gari, ieslīpi pleci, spēcīgas kājas un nagi. Galva ir smalka un neliela, ar nedaudz ieliektu profilu. Ausis mazas, plati novietotas, kakls labi veidots - arkveidīgs. Poniju augums skautā ir 128 - 148 [[cm]].
+Tā temperaments ir dedzīgs, un ponijs ir inteliģents un viegli mācās<ref>http://www.acps.org/connemaras/definition.htm</ref>. Konmāras ponijam ir daudzi talanti. Tos lieto konkūrā, dresāžā, izturības daudzdienu jāšanā un hobijam.
+
+Konmāras poniji parasti ir [[zirga krāsa|sirmi]], [[zirga krāsa|bēri]], [[zirga krāsa|dūkanbēri]], [[zirga krāsa|pāti]], [[zirga krāsa|salni]], reizēm [[zirga krāsa|melni]], [[zirga krāsa|rudi]] vai [[zirga krāsa|palsi]]. Nav pieļaujami [[zirga krāsa|dārki]] poniji<ref>http://www.acps.org/connemaras/breedstandard.htm</ref>.
+
+== Atsauces ==
+{{reflist}}
+
+== Ārējās saites ==
+* http://www.cpbs.ie/
+* http://www.acps.org/
+* http://www.horsechannel.com/horse-breeds/profiles/connemara-pony.aspx
+
+[[Kategorija:Zirgu šķirnes]]
+[[Kategorija:Dzīvnieku šķirnes no Īrijas]]
+
+[[cs:Connemarský pony]]
+[[da:Connemara]]
+[[de:Connemara-Pony]]
+[[en:Connemara pony]]
+[[fi:Connemaraponi]]
+[[fr:Connemara (cheval)]]
+[[hu:Connemara póni]]
+[[it:Connemara (cavallo)]]
+[[nl:Connemara pony]]
+[[no:Connemaraponni]]
+[[pl:Kuc Connemara]]
+[[sv:Connemaraponny]]

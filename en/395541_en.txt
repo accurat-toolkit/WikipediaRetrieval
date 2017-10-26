@@ -1,0 +1,121 @@
+{{unreferenced|date=October 2009}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Hiiu County
+| settlement_type         = [[Counties of Estonia|County of Estonia]]
+| image_flag              = Hiiumaa_lipp.svg
+| flag_size               = 125px
+| image_shield            = Hiiumaa_vapp.svg
+| shield_size             = 75px
+| image_map               = Hiiu maakond.svg
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Estonia]]
+| seat_type               = Capital
+| seat                    = [[Kärdla]]
+| leader_title            = Governor
+| leader_name             = Hannes Maasel
+| area_total_km2          = 1023
+| population_total        = 10097
+| population_as_of        = 2009<ref name="County_population" />
+| population_density_km2  = auto
+| iso_code                = EE-39
+| website                 = 
+| footnotes               = 
+}}
+'''Hiiu County''' ({{lang-et|Hiiu maakond}}), or '''''Hiiumaa''''', is one of 15 [[Counties of Estonia|counties]] of [[Estonia]], being the smallest county both in terms of area and population. It consists of [[Hiiumaa]] ([[German language|German]], {{lang-sv|Dagö}}), the second largest [[island]] of Estonia, and several smaller islands near it. The county borders [[Lääne County]] to the east and [[Saare County]] to the south. 10,097 people live in Hiiu County – constituting 0.8% of the total population in Estonia (as of January 2009).<ref name="County_population">{{cite web|url=http://pub.stat.ee/px-web.2001/Dialog/varval.asp?ma=PO0222&path=../I_Databas/Population/01Population_indicators_and_composition/04Population_figure_and_composition/&lang=1|title=Population by sex, ethnic nationality and County, 1 January|date=1 January 2009|work=stat.ee|publisher=Statistics Estonia|accessdate=2009-10-18}}</ref>
+
+== History ==
+Human habitation of Hiiumaa can be traced back to the 5th millennium BC. [[Mesolithic]] sites in Kõpu peninsula are presented by the seal-hunters' settlements. There are several well preserved grave fields of the [[Iron Age]]. In 1228, the island was first mentioned in written annals under the name ''Dageida''. In 1254, Hiiumaa was divided between the [[Livonian Order]] and the [[Bishopric of Ösel-Wiek]]. In 1563 Hiiumaa was annexed into [[Sweden]]. In 1710, as a result of the [[Great Northern War]] the island went under the control of the [[Russian Empire]]. During [[World War I]], the German military forces occupied Hiiumaa in 1917. In 1918–1940 Hiiumaa was part of the Republic of Estonia, then until 1991 occupied by the [[Soviet Union]].
+
+On demands of the [[Hanseatic League]] a lighthouse was built in [[Kõpu]] in the beginning of sixteenth century (previously known as ''Dagerort''). It is considered the third oldest continuously operating lighthouse in the whole world, still showing its light to 35 miles to the sea. 
+
+The best part of the farm architecture comes from the XIX century. Examples are Mihkli farming complex and Soera farm-museum with all the old national artefacts.
+
+== Sights ==
+Most important sights:
+[[Suuremõisa]] manor,
+[[Kõpu lighthouse]] and ancient graves,
+[[Suursadama]] port,
+[[Tahkuna]] lighthouse and coastal defences,
+[[Ristna lighthouse]],
+[[Sääretirp]],
+[[Saarnaki laid]] and other isles,
+[[Kärdla]] town,
+[[Käina]] church ruins,
+[[Cross-hill]],
+[[Reigi]] church,
+[[Kärdla meteor crater]],
+[[Kassari]] chapel.
+
+== County government ==
+The [[County Governments of Estonia|County Government]] ({{lang-et|Maavalitsus}}) is led by [[County Governors of Estonia|Governor]] ({{lang-et|maavanem}}), who is appointed by the [[Government of Estonia]] for a term of five years. Since [[3 March]] [[2004]] the Governor position is held by [[Hannes Maasel]].
+
+== Municipalities ==
+[[File:Hiiu municipalities.png|thumb|200px|right|Municipalities in Hiiu County]]
+The county is subdivided into municipalities. There are 1 urban municipality ({{lang-et|linn}} – city) and 4 rural municipalities ({{lang-et|vallad}} – parishes) in the county.
+
+'''Urban municipality:'''
+* [[Kärdla]]
+
+'''Rural municipalities:'''
+* [[Emmaste Parish|Emmaste]]
+* [[Kõrgessaare Parish|Kõrgessaare]]
+* [[Käina Parish|Käina]]
+* [[Pühalepa Parish|Pühalepa]]
+
+== Geography ==
+The county includes the islands of [[Hiiumaa]] (980 km²) and [[Kassari]] (19 km²) and a number of surrounding islets. The highest point is Tornimägi hill (68 m), the longest river is Luguse (21 km), and the biggest lake is Tihu Suurjärv (850,000 m²). 
+
+In the landscapes there can be found pine forests, mixed spruce and deciduous forests, swampy thickets and juniper shrubs, coastal meadows and bogs. The most frequent tree is pine which makes about a half of forests. Pine is followed by birch, spruce and alder. In total, there are about 1,000 species of vascular plants, of which about 100 are under protection. The wildlife of Hiiumaa is remarkable. Out of 30 species of mammals, big game as elk, deer, fox, wild boar and lynx roam the island. There are about 250 species of birds on the island, 195 of them nesting. 
+
+Among the Estonian counties Hiiumaa is the richest in forest – nearly 60 % of the island are wooded areas. There are large marsh areas in the middle of the island. The marshes cover about 7 % of its area. Cultivated land and settlements take about 23 % of the area of the county.
+
+== See also ==
+* [[Hiiumaa]]
+* [[List of islands of Estonia]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.hiiumaa.ee/ Hiiumaa.ee] – Hiiumaa portal
+* [http://www.mv.hiiumaa.ee/ Hiiumaa County Government] – Official website (in Estonian)
+
+{{Template group
+|title = <!--  [[File:Nuvola filesystems www.png|23px]] --> Geographic locale
+|list  = 
+{{Hiiumaa}}
+{{Counties of Estonia}}
+{{Cities_of_Estonia}}
+}}
+
+<!--Categories-->
+[[Category:Hiiu County| ]]
+[[Category:Counties of Estonia]]
+
+[[bg:Хииу]]
+[[ca:Comtat de Hiiu]]
+[[cs:Hiiumaa (kraj)]]
+[[et:Hiiu maakond]]
+[[el:Επαρχία Χιίου]]
+[[es:Condado de Hiiu]]
+[[fr:Hiiumaa (région)]]
+[[gl:Condado de Hiiu]]
+[[id:County Hiiu]]
+[[it:Hiiumaa (contea)]]
+[[he:מחוז היו]]
+[[kw:Konteth Hiiu]]
+[[lv:Hījumā apriņķis]]
+[[lt:Hyju apskritis]]
+[[ms:County Hiiu]]
+[[no:Hiiu fylke]]
+[[nn:Hiiu maakond]]
+[[pl:Prowincja Hiiu]]
+[[pt:Hiiumaa]]
+[[ro:Regiunea Hiiu]]
+[[ru:Хийумаа]]
+[[sr:Хију]]
+[[sv:Hiiu län]]
+[[tr:Hiiu]]
+[[fiu-vro:Hiio maakund]]
+[[zh:希尤縣]]

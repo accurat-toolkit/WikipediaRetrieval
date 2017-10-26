@@ -1,0 +1,150 @@
+{{dablink|For [[Wikipedia:Naming conventions (technical restrictions)#Characters totally forbidden in page titles|technical reasons]], J# redirects here. For uses of J#, see [[J Sharp]].}}
+{{otherusesof}}
+
+{{wiktionarypar2|J|j}} 
+{{Latin alphabet navbox|uc=J|lc=j}}
+
+'''J''' is the tenth letter in the [[basic modern Latin alphabet]]; it was the last of the 26 letters to be added. Its name in [[English language|English]] ({{pron-en|ˈdʒeɪ}}) is spelled '''jay'''.<ref name="j-oed">"J", ''Oxford English Dictionary,'' 2nd edition (1989)</ref><ref> "J" and "jay", ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993)</ref> It was formerly ''jy'' (from French ''ji'') and still is in some dialects, mainly in [[Scottish English]], where it is {{pron-en|ˈdʒaɪ}}.<ref name="j-oed"/>
+
+==History==
+'''J''' was originally used as a [[swash (typography)|swash]] character to end some [[Roman numerals]] in place of ''i''. There was an emerging distinctive use in [[Middle High German]].<ref>[http://germazope.uni-trier.de/Projects/WBB/woerterbuecher/lexer/selectarticle?lemid=LJ00001 Mittelhochdeutsches Handwörterbuch von Matthias Lexer (1878)]</ref> [[Gian Giorgio Trissino]] ([[1478]]-[[1550]]) was the first to explicitly distinguish I and J as representing separate sounds, in his ''Ɛpistola del Trissino de le lettere nuωvamente aggiunte ne la lingua italiana'' ("Trissino's epistle about the letters recently added in the Italian language") of [[1524]]<ref>[http://hal9000.cisi.unito.it/wf/BIBLIOTECH/Umanistica/Biblioteca2/Libri-anti1/Libri-anti/image230.pdf Ɛpistola del Trissino de le lettere nuωvamente aggiunte ne la lingua italiana, photographic reproduction by Turin Univerisity], page 5 of PDF file; publishing date in on the last page.</ref>. Originally, both I and J represented {{IPA|/i/}}, {{IPA|/iː/}}, and {{IPA|/j/}}; but [[Romance languages]] developed new sounds (from former {{IPA|/j/}} and {{IPA|/ɡ/}}) that came to be represented as I and J; therefore, [[English language|English]] J (from [[French language|French]] J) has a sound value quite different from {{IPA|/j/}} (which represents the sound in the English word "'''y'''et").
+
+==Use in English==
+In English J most commonly represents the [[affricate]] {{IPA|/dʒ/}} (as in '''j'''et).  In [[Old English]] the phoneme {{IPA|/dʒ/}} was represented orthographically as ''cʒ''.<ref name="hogg"/>  Under the influence of Old French, which had a similar phoneme deriving from Latin {{IPA|/j/}}, English scribes began to use ''I'' (later ''J'') to represent word-initial {{IPA|/dʒ/}} of Old English (for example, '''''i'''est'', later '''''j'''est''), while using ''DG'' elsewhere (for example, ''he'''dg'''e'').<ref name="hogg"/>  Later many other uses of ''I'' (later ''J'') were added in loan words from French and other languages (e.g. ''ad'''j'''oin'', '''''j'''unta'').  The first English-language book to make a clear distinction between ''I'' and ''J'' was published in 1634.<ref name="hogg">
+{{cite book
+|title=The Cambridge History of the English Language
+|first=Richard M. 
+|last=Hogg 
+|coauthors=Norman Francis Blake, Roger Lass, Suzanne Romaine, R. W. Burchfield, John Algeo
+|publisher=[[Cambridge University Press]]
+|year=1992
+|ISBN=0521264766
+|url=http://books.google.com/books?id=CCvMbntWth8C
+|pages=39
+}}
+</ref>  In loanwords such as ''raj'', "J" may be pronounced {{IPA|/ʒ/}} by some, but not all, speakers.  In some such cases, including ''raj'', ''Taj Mahal'' and others, the regular {{IPA|/dʒ/}} is actually closer to the original sound of the foreign language, making this realization a [[hyperforeignism]].<ref>
+{{cite book
+|title=Accents of English 1: An Introduction
+|first=John
+|last=Wells
+|isbn=0521297192
+|year=1982
+|publisher=Cambridge University Press
+|location=Cambridge, UK
+|pages=108
+|url=http://books.google.com/books?id=Ty5RoXyTKQsC
+}}
+</ref>  Occasionally ''J'' represents other sounds, as in [[Hallelujah]] which is pronounced the same as "Halleluyah" (See the [[yodh|Hebrew yud]] for more details).
+
+J is used relatively infrequently in the [[English Language]], though it is more commonly used than [[Q]], [[X]] or [[Z]].
+
+
+ </ref>, with the actual phonetic realization depending on the speaker's dialect.
+
+==Uses in transcription and transliteration==
+
+Linguists from Germany and Central Europe also took up this letter in transliterations from those Slavic languages which use the Cyrillic alphabet. Specifically, the "[[Ye (Cyrillic)|Е]]" in [[Russian language|Russian]] is sometimes transliterated "je" (with the "[[Yo (Cyrillic)|Ё]]" becoming "jo"); the "[[Ya (Cyrillic)|Я]]" is transliterated as "ja"; and the character "[[Yu (Cyrillic)|Ю]]" is transliterated "ju" - whereas the linguists from the English speaking world use "y" in place of "j" because of English, French, and Spanish use of Y for {{IPA|/j/}}. European linguists also use "j" for the character [[Short I|Й]] so that e.g. "-ий", a common adjective ending, is transliterated as "-ij". In English transliterations, that ending may be rendered as "-iy" or "-ii". Language students have to learn to find their way among the different possibilities indicated, either by the "j" or by the "y".
+
+In the [[Pinyin]] system of transcription of [[Mandarin Chinese]], J represents the palato-alevolar affricate {{IPA|/tɕ/}}.
+
+==Codes for computing==
+{{Letter
+|NATO=Juliet
+|Morse=·–––
+|Character=J0
+|Braille=⠚
+}}
+In [[Unicode]] the [[majuscule|capital]] J is codepoint U+004A and the [[Lower case|lowercase]] j is U+006A. Unicode also has a dotless variant, {{Unicode|ȷ}} (U+0237) for use with [[combining diacritics]].
+
+The [[ASCII]] code for capital J is 74 and for lowercase j is 106; or in [[Binary numeral system|binary]] 01001010 and 01101010, respectively.
+
+The [[EBCDIC]] code for capital J is 209 and for lowercase j is 145.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#74;</tt>" and "<tt>&amp;#106;</tt>" for upper and lower case respectively.
+
+==References==
+{{Commons|J}}
+{{Wikisource1911Enc}}
+{{reflist}}
+{{Latin alphabet|J|}}
+
+[[Category:Latin letters]]
+
+[[af:J]]
+[[als:J]]
+[[ar:J]]
+[[arc:J]]
+[[ast:J]]
+[[az:J]]
+[[zh-min-nan:J]]
+[[bs:J]]
+[[br:J (lizherenn)]]
+[[ca:J]]
+[[cs:J]]
+[[co:J]]
+[[cy:J]]
+[[da:J]]
+[[de:J]]
+[[el:J]]
+[[es:J]]
+[[eo:J]]
+[[eu:J]]
+[[fa:J]]
+[[fr:J (lettre)]]
+[[fy:J]]
+[[fur:J]]
+[[gd:J]]
+[[gl:J]]
+[[gan:J]]
+[[ko:J]]
+[[hr:J]]
+[[ilo:J]]
+[[is:J]]
+[[it:J]]
+[[he:J]]
+[[ka:J]]
+[[kw:J]]
+[[sw:J]]
+[[ht:J]]
+[[la:J]]
+[[lv:J]]
+[[lb:J]]
+[[lt:J]]
+[[hu:J]]
+[[mk:J (Латиница)]]
+[[mg:J]]
+[[mzn:J]]
+[[ms:J]]
+[[nah:J]]
+[[nl:J (letter)]]
+[[ja:J]]
+[[no:J]]
+[[nn:J]]
+[[nrm:J]]
+[[uz:J (harf)]]
+[[pl:J]]
+[[pt:J]]
+[[ro:J]]
+[[qu:J]]
+[[ru:J (латиница)]]
+[[se:J]]
+[[stq:J]]
+[[scn:J]]
+[[simple:J]]
+[[sk:J]]
+[[sl:J]]
+[[sr:J (слово латинице)]]
+[[fi:J]]
+[[sv:J]]
+[[tl:J]]
+[[th:J]]
+[[tg:J (забони барномасозӣ)]]
+[[tr:J (harf)]]
+[[uk:J (латиниця)]]
+[[vi:J]]
+[[vo:J]]
+[[yi:J]]
+[[yo:J]]
+[[zh-yue:J]]
+[[bat-smg:J]]
+[[zh:J]]

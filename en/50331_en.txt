@@ -1,0 +1,97 @@
+{{Infobox_Scientist
+| name                    = Gerhard Henrik Armauer Hansen
+| image                   = Gerhard Armauer Hansen.jpg
+| image_width             = 
+| caption                 = 
+| birth_date              = {{birth date|df=yes|1841|7|29}}
+| birth_place             = [[Bergen]], Norway
+| death_date              = {{death date and age|df=yes|1912|2|12|1841|7|29}}
+| death_place             = [[Florø]], Norway
+| residence               = 
+| citizenship             =
+| nationality             = 
+| ethnicity               =
+| field                   = [[Epidemiology]]
+| work_institution        = 
+| alma_mater              = [[University of Oslo]]
+| doctoral_advisor        = 
+| doctoral_students       = 
+| known_for               = 
+| author_abbreviation_bot = 
+| author_abbreviation_zoo = 
+| prizes                  = [[Royal Norwegian Order of St. Olav]]
+| religion                = 
+| footnotes               = 
+}}
+
+'''Gerhard Henrik Armauer Hansen''' (29 July 1841 – 12 February 1912) was a Norwegian physician, remembered for his identification of the [[Bacteria|bacterium]] ''[[Mycobacterium leprae]]'' in 1873 as the causative agent of [[leprosy]].<ref name=Hansen_1874>{{cite journal | author = Hansen GHA | title = Undersøgelser Angående Spedalskhedens Årsager (Investigations concerning the etiology of leprosy) | journal = Norsk Mag. Laegervidenskaben | year = 1874 | volume = 4| pages = pp. 1–88 | language = Norwegian }}</ref><ref name=Irgens_2002>{{cite journal |author=Irgens L |title=The discovery of the leprosy bacillus |journal=Tidsskr Nor Laegeforen |volume=122 |issue=7 |pages=708–9 |year=2002 |pmid=11998735}}</ref>
+
+Hansen was born in [[Bergen, Norway|Bergen]] and studied medicine at the Royal Frederik's University (now the [[University of Oslo]]), gaining his degree in 1866. He served a brief [[internship]] at the National Hospital in Christiania ([[Oslo]]) and as a doctor in [[Lofoten]]. In 1868 Hansen returned to Bergen to study leprosy while working with [[Daniel Cornelius Danielssen]], a noted expert.
+
+Leprosy was regarded as largely [[hereditary]] or otherwise [[miasma theory of disease|miasmic]] in origin. Hansen concluded on the basis of [[Epidemiology|epidemiological]] studies that leprosy was a specific [[disease]] with a specific cause.<ref name=Irgens_1984>{{cite journal |author=Irgens L |title=The discovery of Mycobacterium leprae. A medical achievement in the light of evolving [[scientific method]]s |journal=Am J Dermatopathol |volume=6 |issue=4 |pages=337–43 |year=1984 |pmid=6388392}}</ref> In 1870-71 Hansen travelled to [[Bonn]] and [[Vienna]] to gain the training necessary for him to prove his [[hypothesis]].<ref name="Hansen">{{cite web | url=http://www.whonamedit.com/doctor.cfm/596.html | title=Gerhard Henrik Armauer Hansen | work=whonamedit.com | accessdate=2007-03-22}}</ref> In 1873, he announced the discovery of ''Mycobacterium leprae'' in the tissues of all sufferers, although he did not identify them as bacteria, and received little support.<ref name=Hansen />
+
+In 1879 he gave tissue samples to [[Albert Neisser]] who successfully [[Staining|stained]] the bacteria and announced his findings in 1880, claiming to have discovered the disease-causing organism. There was some conflict between Neisser and Hansen, Hansen as discoverer of the bacillus and Neisser as identifier of it as the [[etiology|etiological]] agent. Neisser put in some effort to downplay the assistance of Hansen. Hansen's claim was injured by his failure to produce a pure [[microbiological culture]] in an artificial medium or to prove that the [[rod]]-shaped organisms were infectious. Further Hansen had attempted to infect at least one female patient without consent and although no damage was caused, that case ended in court and Hansen lost his post at the [[hospital]].
+
+Hansen remained medical officer for leprosy in Norway and it was through his efforts that the leprosy acts of 1877 and 1885 were passed, leading to a steady decline of the disease in Norway from 1,800 known cases in 1875 to just 575 cases in 1901.  His distinguished work was recognized at the International Leprosy Congress held at Bergen in 1909.  
+
+Hansen had suffered from [[syphilis]] since the 1860s but died of [[cardiovascular disease|heart disease]].
+
+In [[Bergen, Norway]] a medical [[museum]] has been designated Hansen, which is often referred to as the ''Leprosy Museum''. The [[University of Bergen]] has also dedicated a research facility to him - ''[[Armauer Hansen Building]]'' - located at [[Haukeland University Hospital]] in Bergen. The Leprosy Archives in Bergen has been nominated by [[UNESCO]] to the list:[[Memory of the World]].
+
+==References==
+<!-- ---------------------------------------------------------------
+See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for a
+discussion of different citation methods and how to generate
+footnotes using the <ref> & </ref> tags and the {{Reflist}} template
+-------------------------------------------------------------------- -->
+{{Reflist|2}}
+
+==External links==
+* [http://www.whonamedit.com/doctor.cfm/596.html Gerhard Henryk Armauer Hansen]. WhoNamedIt.
+* [http://digitalarkivet.uib.no/cgi-win/webmeny.exe?slag=visside&kat=lepra&n1=1&dok=intro.htm Lepraarkivene i Bergen] The Leprosy Archives in Bergen:
+* [http://www.leprosyhistory.org/cgi-bin/showdetails.pl?ID=109&type=Archive]
+* [http://www.leprosyhistory.org/cgi-bin/showdetails.pl?ID=110&type=Archive]
+* [http://www.leprosyhistory.org/cgi-bin/showdetails.pl?ID=111&type=Archive]
+* [http://digitalarkivet.no/lepraarkiv/ LEPRAARKIV<!-- bot-generated title -->] at digitalarkivet.no Best link in English and Norwegian.
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+
+{{Persondata
+|NAME= Hansen, Gerhard Henrik Armauer
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= [[Epidemiology|Epidemologist]]
+|DATE OF BIRTH= 29 July 1841
+|PLACE OF BIRTH= [[Bergen, Norway]]
+|DATE OF DEATH= 12 February 1912
+|PLACE OF DEATH= [[Florø|Florø, Norway]]
+}}
+
+{{DEFAULTSORT:Hansen, Gerhard Armauer}}
+[[Category:Epidemiologists]]
+[[Category:Deaths from cardiovascular disease]]
+[[Category:Leprosy]]
+[[Category:Norwegian physicians]]
+[[Category:Norwegian scientists]]
+[[Category:University of Oslo alumni]]
+[[Category:1841 births]]
+[[Category:1912 deaths]]
+
+[[da:Gerhard Henrik Armauer Hansen]]
+[[de:Gerhard Armauer Hansen]]
+[[et:Gerhard Armauer Hansen]]
+[[es:Gerhard Armauer Hansen]]
+[[eo:Gerhard Armauer Hansen]]
+[[fr:Gerhard Armauer Hansen]]
+[[it:Gerhard Armauer Hansen]]
+[[la:Gerardus Armauer Hansen]]
+[[lv:Gerhards Armauers Hansens]]
+[[nl:Armauer Hansen]]
+[[ja:アルマウェル・ハンセン]]
+[[no:Gerhard Henrik Armauer Hansen]]
+[[nn:Gerhard Henrik Armauer Hansen]]
+[[pl:Armauer Hansen]]
+[[pt:Gerhard Armauer Hansen]]
+[[ru:Хансен, Герхард]]
+[[simple:Gerhard Armauer Hansen]]
+[[fi:Gerhard Armauer Hansen]]
+[[sv:Gerhard Henrik Armauer Hansen]]

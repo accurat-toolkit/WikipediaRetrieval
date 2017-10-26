@@ -1,0 +1,34 @@
+[[Attēls:Aircraft.osprey.678pix.jpg|thumb|250px|Viena no ''VTOL'' lidmašīnām - ''[[V-22 Osprey]]''.]]
+
+'''Vertikālas pacelšanās un nolaišanās lidmašīna''' ir [[lidmašīna]]s, kuras spēj pacelties [[vertikāls|vertikāli]], bet pēc tam pārvietoties ar lielu ātrumu [[horizontāls|horizontāli]]. Saīsinājumā bieži vien šīs lidmašīnas sauc par '''VTOL lidmašīnām''', kas ir [[akronīms]] no angļu frāzes '''Vertical Take-Off and Landing'''.
+
+
+{{tehnoloģija-aizmetnis}}
+
+[[Kategorija:Vertikālas pacelšanās un nolaišanās lidmašīnas| ]]
+
+[[ar:إقلاع وهبوط عمودي]]
+[[cs:VTOL]]
+[[da:VTOL]]
+[[de:Senkrechtstart und -landung]]
+[[en:VTOL]]
+[[es:VTOL]]
+[[fi:VTOL]]
+[[fr:Aéronef à décollage et atterrissage verticaux]]
+[[hr:VTOL]]
+[[hu:VTOL]]
+[[id:Vertical Take-Off and Landing]]
+[[it:VTOL]]
+[[ja:垂直離着陸機]]
+[[lt:Vertikalaus kilimo ir tūpimo lėktuvas]]
+[[ms:VTOL]]
+[[nl:VTOL]]
+[[no:VTOL]]
+[[pl:VTOL]]
+[[pt:VTOL]]
+[[ru:Самолёт вертикального взлёта и посадки]]
+[[sl:Seznam letal VTOL]]
+[[sv:VTOL]]
+[[tr:VTOL]]
+[[uk:Гвинтокрил]]
+[[zh:垂直起降]]

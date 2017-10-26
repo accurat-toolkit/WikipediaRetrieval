@@ -1,0 +1,9 @@
+{{Izolēts raksts|date=2010. gada janvārī,}}
+{{jāuzlabo|Noformējums, kategorijas, wikisaites}}
+Pirmais insulīnu garīgi slimo (it īpaši šozofrēniķu) ārstēšanā sāka izmantot '''Manfrēds Sakels''' Vīnē. Kaut arī tā bija tīri empīriska metode, to sāka plaši praktizēt. Saskaņā ar šo metodi tiek iešļiricinātas lielas insulīna devas, kas pazemina glikozes saturu asinīs. Injekcijas izdara galvenokārt no rītiem tukšā dūšā. Pēc divām vai trim stundām slimniekam uznāk spēcīga svīšana, reiboņi un sirdsklauves. Pēc tam viņš ieslīgst komā, ko sauc par "insulīna komu", kurā viņu atstāj ilgāku vai īsāku laiku (lielākoties divas stundas). Pēc tam viņu pamodina, dodot cukuru - iešļircinot glikozes šķīdumu vēnā vai arī dodot to iedzert. Slimais ātri atmostas. Ņemot vērā , ka iespējami nelaimes gadījumi (sarežģījumi ar sirdi, elpošanu, temperatūru utt.), tāda metode izmantojama tikai klīnikā un pastāvģā uzraudzībā. Vislabākos rezultātus insulīns dod šizofrēnijas, maniakālās depresijas un apziņas aptumšošanās gadījumos.
+
+[[de:Insulinschocktherapie]]
+[[en:Insulin shock therapy]]
+[[fr:Cure de Sakel]]
+[[fi:Insuliinišokkihoito]]
+[[ru:Инсулинокоматозная терапия]]

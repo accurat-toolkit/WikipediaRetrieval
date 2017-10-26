@@ -1,0 +1,77 @@
+{{Distinguish|Neftekumsk}}
+
+{{Infobox Russian inhabited locality
+|EnglishName=Neftekamsk
+|RussianName=Нефтекамск
+|LocalName1=Нефтекама
+|LocalLangName1=Bashkir
+|LatDeg=56
+|LatMin=08
+|LatSec=30 
+|LonDeg=54
+|LonMin=28
+|LonSec= 0
+|LocatorMap
+|LocatorMapLegend
+|CoatOfArms=Coat_of_Arms_of_Neftekamsk_(Bashkortostan).png
+|Flag=Flag_of_Neftekamsk_(Bashkortostan).png
+|CityDay
+|FederalSubject=[[Bashkortostan|Republic of Bashkortostan]]
+|InJurisdictionOf=Bashkortostan
+|AdmCtrType=administrative center
+|AdmCtrOf=Urban okrug of Neftekamsk
+|SelfGovAsOf=May 2008
+|Charter=Charter of Neftekamsk
+|MunStatus=Urban okrug
+|LeaderType=Head
+|LeaderName=Oleg Rudenko
+|Legislature=Council of Neftekamsk
+|Area_km2=143
+|Population=122290
+|PopulationRank=133
+|FoundationDate=1957
+|Event1=Town status
+|Event1Date=1963
+|PostalCode=452680—452687
+|DialingCode=34783
+|Website=http://adm.neftekamsk.ru/
+|date= October 2009
+}}
+'''Neftekamsk''' ({{lang-ru|Нефтека́мск}}) is a city in the [[Bashkortostan|Republic of Bashkortostan]], [[Russia]]. It is located at around {{Coord|56|5|30|N|54|16|0|E |region:RU-BA_type:city}}.
+
+The town covers the territory of around 143 sq.km. It is situated next to the river [[Kama]], 220&nbsp;km away from [[Ufa]]. The town borders on Krasnokamskiy and Yanaulskiy districts of [[Bashkortostan]]. A road network connects the town to [[Ufa]], [[Birsk]], [[Yanaul]], [[Agidel]], [[Oktyabrsky]], [[Izhevsk]], [[Perm]], [[Kazan]]. The nearest railway station is located in [[Amzya]] — a subdivision of the town 15&nbsp;km away. Besides there is [[Neftekamsk Airport]].
+
+The population is 128,957 (2007 est.);<ref name="population"> http://adm.neftekamsk.ru/doc/econom.rar</ref> 122,290 ([[Russian Census (2002)|2002 Census]]) and the town comes the fourth in population in [[Bashkortostan]] after [[Ufa]], [[Sterlitamak]] and [[Salavat, Russia|Salavat]]. An average age of dwellers is 37. People of 49&nbsp;nationalities live here.<ref name="population"/>
+
+Neftekamsk is a large industrial and cultural center of the north-west of [[Bashkortostan]].
+
+==References==
+{{Reflist}}
+
+{{Cities and towns in Bashkortostan}}
+
+[[Cities and towns in Bashkortostan]]
+
+
+{{Bashkortostan-geo-stub}}
+
+[[ar:نفتكامسك]]
+[[be:Горад Нефцякамск]]
+[[cv:Нефтекамск]]
+[[de:Neftekamsk]]
+[[et:Neftekamsk]]
+[[eo:Neftekamsk]]
+[[fr:Neftekamsk]]
+[[ko:넵테캄스크]]
+[[os:Нефтекамск]]
+[[lv:Ņeftekamska]]
+[[nl:Neftekamsk]]
+[[no:Neftekamsk]]
+[[nn:Neftekamsk]]
+[[pl:Nieftiekamsk]]
+[[ro:Neftekamsk]]
+[[ru:Нефтекамск]]
+[[fi:Neftekama]]
+[[sv:Neftekamsk]]
+[[uk:Нефтекамськ]]
+[[zh:涅夫捷卡姆斯克]]

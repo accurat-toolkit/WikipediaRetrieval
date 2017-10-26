@@ -1,0 +1,70 @@
+[[Image:Ccvrt.svg|frame|right|Schematic representation of a cold cathode voltage regulator tube]]
+
+A '''voltage regulator tube''' ('''VR tube''') is an [[Electronics|electronic]] component used as a [[voltage regulator#Shunt regulators|shunt regulator]] to hold a [[voltage]] constant at a pre-determined level.
+
+Physically, these devices resemble [[vacuum tube]]s, but there are two main differences:
+* Their glass envelopes are filled with a [[gas]] mixture, and
+* They do not use a heater.
+
+Electrically, these devices resemble [[zener diode]]s, with the following major differences:
+* They rely on gas [[ionization]], rather than [[zener breakdown]]
+* The unregulated supply voltage must be 15–20% above the nominal output voltage to ensure that the discharge starts
+* The output can be higher than nominal if the current through the tube is too low.
+
+When sufficient voltage is applied across the electrodes, the gas [[ionize]]s, forming a [[electric glow discharge|glow discharge]] around the [[cathode]] electrode. The VR tube then acts as a [[negative resistance]] device; as the [[electric current|current]] through the device increases, the amount of ionization also increases, reducing the [[Electrical resistance|resistance]] of the device to further current flow. In this way, the device conducts sufficient current to hold the voltage across its terminals to the desired value.
+
+Because the device would conduct a nearly-unlimited amount of current, there must be some external means of limiting the current. Usually, this is provided by an external [[resistor]] upstream from the VR tube. The VR tube then conducts any portion of the current that does not flow into the downstream load, maintaining an approximately-constant voltage across the VR tube's electrodes. The VR tube's regulation voltage was only guaranteed when conducting an amount of current within the allowable range.  In particular, if the current through the tube is too low to maintain ionization, the output voltage can rise above the nominal output—as far as the input supply voltage.  If the current through the tube is too high, it can enter an [[Electric arc|arc discharge]] mode where the voltage will be significantly lower than nominal and the tube may be damaged.
+
+Some voltage regulator tubes contained small amounts of [[radionuclide]]s to produce a more reliable ionization. <ref>[http://www.orau.org/ptp/collection/consumer%20products/electrontubes.htm Electron Tubes<!-- Bot generated title -->]</ref>
+
+== Specific models ==
+
+VR tubes were given part numbers similar to those used for vacuum tubes. Because there was no heater (filament) in the tubes, the part numbers began with "0" (zero). VR tubes were only available in certain voltages. Common models were
+
+Octal-based tubes, 5–40 [[ampere|mA]] current<ref>[http://frank.yueksel.org/tubes/sheets/141/g/GL874.pdf General Electric Glow Tubes]</ref>:
+* 0A3 &mdash; 75 volts
+* 0B3 &mdash; 90 volts
+* 0C3 &mdash; 105 volts (best regulation of these four)
+* 0D3 &mdash; 150 volts
+
+Miniature tubes, 5–30 mA current:
+* 0A2 &mdash; 150 volts
+* 0B2 &mdash; 108 volts (best regulation of these three)
+* 0C2 &mdash; 72 volts 
+
+Voltage reference 1.5–3.0 mA current:
+* 5651 &mdash; 87 volts (the most popular voltage reference ever made)
+* 5651-a &ndash; 85.5 volts
+
+Subminiature tubes:
+* Various models that resembled [[neon lamp]]s, but were optimized for more-accurate voltage regulation
+
+==Design considerations ==
+
+The pinout of VR tubes was designed so that power could be forced to flow "through" the VR tubes to the load. That is, the load current would flow in one pin of the VR tube and out through a second pin. In this way, the circuit could be arranged so that unplugging the VR tube would disconnect the load. (Otherwise, unplugging the VR tube would have allowed the voltage to become unregulated, possibly rising as high as the source voltage and damaging the downstream load.)
+
+Because the glow discharge is a "statistical" process, a certain amount of electrical noise is introduced into the regulated voltage as the level of ionization varies. In most cases, this could be easily filtered out by placing a small [[capacitor]] in parallel with the VR tube or using an RC decoupling network downstream of the VR tube. Too large a capacitance (>0.1μF for an 0D3, for instance), however, and the circuit will form a [[relaxation oscillator]], definitely ruining the voltage regulation and possibly causing the tube to fail catastrophically.
+
+VR tubes could be operated in [[series circuit|series]] for greater voltage ranges. They could not be operated in [[parallel circuit|parallel]]: because of manufacturing variations, the current would not be shared equally among several tubes in parallel. (Note the equivalent behavior with series and parallel connected zener diodes.)
+
+Presently, VR tubes have been almost-entirely supplanted by [[solid state (electronics)|solid state]] regulators based on [[zener diode]]s and [[avalanche diode|avalanche breakdown diode]]s.
+
+==VR tube information==
+
+Correctly-operating VR tubes glow during normal operation. The color of the glow varies depending upon the gas mixture used to fill the tubes.
+
+Though they lack a heater, VR tubes often do become warm during operation due to the current and voltage drop through them; in working around them, assume their envelopes will be hot.
+
+==See also==
+
+* [[Corona regulator tube]]s
+
+==References==
+<references/>
+
+[[Category:vacuum tubes]] <!-- We should improve this as discussed on the [[thyratron]] discussion page -->
+[[Category:Electrical breakdown]]
+
+[[de:Glimmstabilisator]]
+[[lv:Gāzizlādes stabilitrons]]
+[[ru:Стабилитрон тлеющего разряда]]

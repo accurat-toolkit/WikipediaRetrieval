@@ -1,0 +1,122 @@
+{{otheruses}}
+{{wiktionarypar2|N|n}}
+{{Latin alphabet navbox|uc=N|lc=n}}
+'''N''' is the fourteenth letter in the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈɛn}}) is spelled '''en'''.<ref>"N" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "en," op. cit.</ref>
+
+== Usage ==
+N represents the [[dental nasal|dental]] or [[alveolar nasal]] in virtually all languages that use the Latin alphabet. A common digraph with <n> is <ng>, which represents a [[velar nasal]] in a variety of languages, usually positioned word-finally in [[English language|English]]. In languages like Italian and French, <gn> represents a [[palatal nasal]] ({{IPA|/ɲ/}}). The Portuguese spelling for this sound is <nh>. In English, ''n'' is silent when it is preceded by an ''m'', in words like ''hymn'' (although it is pronounced in words such as ''damnation'').
+
+In the [[Help:IPA|International Phonetic Alphabet]], the lowercase {{IPA|[n]}} represents the alveolar nasal sound. A small capital {{IPA|[ɴ]}} represents the [[uvular nasal]].
+
+N is the second-most commonly used [[consonant]] in the [[English language]] (after [[T]]).
+It also represents the element Nitrogen (Atomic number=7)
+
+== Codes for computing ==
+{{Letter
+|NATO=November
+|Morse=–·
+|Character=N
+|Braille=⠝
+}}
+In [[Unicode]] the [[capital letter|capital]] N is codepoint U+004E and the [[lower case]] n is U+006E.
+
+The [[ASCII]] code for capital N is 78 and for lowercase n is 110; or in [[Binary numeral system|binary]] 01001110 and 01101110, correspondingly.
+
+The [[EBCDIC]] code for capital N is 213 and for lowercase n is 149.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#78;</tt>" and "<tt>&amp;#110;</tt>" for upper and lower case respectively.
+
+
+== See also ==
+{{Commons|N}}
+*[[Ń]]
+*[[Ñ]]
+*[[Ň]]
+*[[Pe (Cyrillic)|П, п (''П'', ''п'') - Pe (Cyrillic)]]
+*[[En (Cyrillic)|Н, н (''Н'', ''н'') - En (Cyrillic)]]
+*[[Nu (letter)|Ν, ν - Nu (Greek)]]
+
+{{Latin alphabet|N|}}
+
+==References==
+{{reflist}}
+
+[[Category:Latin letters]]
+
+[[af:N]]
+[[als:N]]
+[[ar:N]]
+[[arc:N]]
+[[ast:N]]
+[[az:N]]
+[[zh-min-nan:N]]
+[[bs:N]]
+[[br:N (lizherenn)]]
+[[ca:N]]
+[[cs:N]]
+[[co:N]]
+[[cy:N]]
+[[da:N]]
+[[de:N]]
+[[et:N]]
+[[el:N]]
+[[es:N]]
+[[eo:N]]
+[[eu:N]]
+[[fa:N]]
+[[fr:N (lettre)]]
+[[fy:N]]
+[[fur:N]]
+[[gv:Neaynin (lettyr)]]
+[[gd:N]]
+[[gl:N]]
+[[gan:N]]
+[[ko:N]]
+[[hr:N]]
+[[ilo:N]]
+[[is:N]]
+[[it:N]]
+[[he:N]]
+[[ka:N]]
+[[kw:N]]
+[[sw:N]]
+[[ht:N]]
+[[la:N]]
+[[lv:N]]
+[[lt:N]]
+[[hu:N]]
+[[mk:N (Латиница)]]
+[[mzn:N]]
+[[ms:N]]
+[[nah:N]]
+[[nl:N (letter)]]
+[[ja:N]]
+[[no:N]]
+[[nn:N]]
+[[nrm:N]]
+[[uz:N (harf)]]
+[[pl:N]]
+[[pt:N]]
+[[ro:N]]
+[[qu:N]]
+[[ru:N (латиница)]]
+[[se:N]]
+[[stq:N]]
+[[scn:N]]
+[[simple:N]]
+[[sk:N]]
+[[sl:N]]
+[[sr:N (слово латинице)]]
+[[fi:N]]
+[[sv:N]]
+[[tl:N]]
+[[th:N]]
+[[tr:N (harf)]]
+[[uk:N (латиниця)]]
+[[vi:N]]
+[[vo:N]]
+[[yi:N]]
+[[yo:N]]
+[[zh-yue:N]]
+[[bat-smg:N]]
+[[zh:N]]

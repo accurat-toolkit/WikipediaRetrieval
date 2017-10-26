@@ -1,0 +1,191 @@
+An '''oligopoly''' is a [[market form]] in which a [[market]] or [[industry]] is dominated by a small number of sellers (oligopolists). The word is derived, by analogy with "monopoly", from the [[Ancient Greek|Greek]] ''oligoi'' 'few' and ''poleein'' 'to sell'. Because there are few sellers, each oligopolist is likely to be aware of the actions of the others. The decisions of one firm influence, and are influenced by, the decisions of other firms. [[Strategic planning]] by oligopolists needs to take into account the likely responses of the other market participants. This causes oligopolistic markets and industries to be a high risk for [[collusion]].
+
+==Description==
+Oligopoly is a common market form. As a quantitative description of oligopoly, the four-firm [[concentration ratio]] is often utilized. This measure expresses the market share of the four largest firms in an industry as a percentage (e.g. Target, Walmart and Bestbuy are viewed by some{{Who|date=September 2009}} as having an oligopoly over their respective trades).
+
+Oligopolistic [[competition]] can give rise to a wide range of different outcomes.  In some situations, the firms may employ restrictive trade practices (collusion, market sharing etc.) to raise prices and restrict production in much the same way as a [[monopoly]].  Where there is a formal agreement for such collusion, this is known as a [[cartel]]. A primary example of such a cartel is [[OPEC]] which has a profound influence on the international price of oil.
+
+Firms often [[collusion|collude]] in an attempt to stabilize unstable markets, so as to reduce the risks inherent in these markets for investment and product development.  There are legal restrictions on such collusion in most countries.  There does not have to be a formal agreement for collusion to take place (although for the act to be illegal there must be actual communication between companies) - for example, in some industries, there may be an acknowledged market leader which informally sets prices to which other producers respond, known as [[price leadership]].
+
+In other situations, competition between sellers in an oligopoly can be fierce, with relatively low prices and high production.  This could lead to an efficient outcome approaching [[perfect competition]]. The competition in an oligopoly can be greater than when there are more firms in an industry if, for example, the firms were only regionally based and did not compete directly with each other.
+
+Thus the [[Welfare Economics|welfare]] analysis of oligopolies is sensitive to the parameter values used to define the market's structure. In particular, the level of [[dead weight loss]] is hard to measure. The study of [[product differentiation]] indicates that oligopolies might also create excessive levels of differentiation in order to stifle competition.
+
+Oligopoly theory makes heavy use of [[game theory]] to model the behavior of oligopolies:
+* [[Heinrich Freiherr von Stackelberg|Stackelberg]]'s [[duopoly]]. In this model the firms move sequentially (see [[Stackelberg competition]]).
+* [[Antoine Augustin Cournot|Cournot]]'s [[duopoly]]. In this model the firms simultaneously choose quantities (see [[Cournot competition]]).
+* [[Joseph Louis François Bertrand|Bertrand]]'s oligopoly. In this model the firms simultaneously choose prices (see [[Bertrand competition]]).
+
+==Characteristics==
+
+:'''Profit maximization conditions:''' An oligopoly maximizes profits by producing where marginal revenue equals marginal costs.<ref> Perloff, J: Microeconomics Theory & Applications with Calculus page 445. Pearson 2008. </ref>
+
+:'''Ability to set price:''' Oliopolies are price setters rather than price takers<ref>Perloff, J: Microeconomics Theory & Applications with Calculus page 445. Pearson 2008.</ref>
+
+:'''Entry and Exit:''' Barriers to entry are high.<ref> Hirschey, M, Managerial Economics Rev. Ed, page 451. Dryden 2000. </ref> The most important barriers are economies of scale, patents, access to expensive and complex technology and strategic actions by incumbent firms designed to discourage or destroy nascent firms.<ref> Negbennebor, A: Microeconomics, The Freedom to Choose CAT 2001 </ref> 
+
+:'''Number of firms:''' "Few" - a "handful" of sellers.<ref> Hirschey, M, Managerial Economics Rev. Ed, page 451. Dryden 2000. </ref> There are so few firms that the actions of one firm can influence the actions of the other firms. <ref> Negbennebor, A: Microeconomics, The Freedom to Choose page 291.  CAT 2001 </ref>
+
+:'''Long Run Profits''': Oligopolies can retain long run positive profits. High barriers of entry prevent sideline firms from entering market to capture excess profits.
+
+:'''Product differentiation:''' Product may be standardized, steel, or differentiated, automobiles.<ref> Negbennebor, A: Microeconomics, The Freedom to Choose CAT 2001 </ref>
+
+:'''Perfect Knowledge''' Assumptions about perfect knowledge vary but the knowledge of various economic actors can be generally described as selective. Oligopolies have perfect knowledge of their own cost and demand functions but there interfirm information may be incomplete. Buyers have only imperfect knwoledge as to price,<ref> Hirschey, M, Managerial Economics Rev. Ed, page 451. Dryden 2000. </ref> cost and product quality.
+
+:'''Interdependence:''' The distinctive feature of a monopoly is interdependence.<ref> Melvin & Boyes, Microeconomics 5th ed. page 267. Houghton Mifflin 2002 </ref> Oligopolies are typically composed of a few large firms. Each firm is so large that its actions affect market conditions. Therefore the competing firms will be aware of a firm's market actions and will respond appropriately. This means that in contemplating a market action a firm must take into consideration the possible reactions of all competing firms and the firm's countermoves.<ref> Colander, David C. Microeconomics 7th ed.  Page 288 McGraw-Hill 2008. </ref> It is very much like a game of chess or pool in which a player must anticipate a whole sequence of moves and countermoves in determining how to achieve his objectives. For example, an oligopoly that is considering a price reduction may wish to estimate the likelihood that competing firms would also lower their prices and possibly trigger a ruinous price war. Or if the firm is considering a price increase it may want to know whether other firms will also increase prices or hold existing prices constant. This high degree of interdependence and need to be aware of what the other guy is doing or might do is to be contrasted with lack of interdependence in other market structures. In a PC market there is zero interdependence because no firm is large enough to affect market price. All firm's in a PC market are price takers information which they robotically follow in maximizing profits. In a monopoly there is quite simply no competitors to be concerned about. In a monopolistically competitive market each firm's effects on market conditions is so negligible as to be safely ignored by competitors.
+
+==Modeling==
+
+There is no single model describing the operation of an oligopolistic market.<ref> Colander, David C. Microeconomics 7th ed.  Page 288 McGraw-Hill 2008. </ref> The variety and complexity of the models is due to the fact that you can have two to 102 firms competing on the basis of price, quantity, technological innovations, marketing, advertising and reputation. Fortunately, there are a series of simplified models that attempt to describe market behavior under certain circumstances. Some of the better known models are the dominant firm model, the Cournot-Nash model, the Bertrand model and the kinked demand model
+
+==Dominant firm model==
+
+In some markets there is a single firm that controls a dominant share of the market and a group of smaller firms. The dominant firm sets prices which are simply taken by the smaller firms in determining their profit maximizing levels of production. This type market is practically a monopoly and an attached perfectly competitive market in which price is set by the dominant firm rather than the market. The demand curve for the dominant firm is determined by subtracting the supply curves of all the small firms from the industry demand curve.<ref> Samuelson, W & Marks, S: 100. Managerial Economics page 403. 4th ed. Wiley 2003. </ref> After estimating its net demand curve (market demand less the supply curve of the small firms) the dominant firm maximizes profits by following the normal p-max rule of producing where marginal revenue equals marginal costs. The small firms maximize profits by acting as PC firms - equating price to marginal costs.
+
+==Cournot-Nash model==
+{{main|Cournot competition}}
+
+The Cournot-Nash model is the simplest oligopoly model. The models assumes that there are two “equally positioned firms”; the firms compete on the basis of quantity rather than price and each firms makes an “output decision assuming that the other firm’s behavior is fixed.”<ref>This statement is the Cournot conjectures. Kreps, D.: A Course in Microeconomic Theory pag 326. rinceton 1990. </ref> The market demand curve is assumed to be linear and marginal costs are constant. To find the Cournot-Nash equilibrium one determines how each firm reacts to a change in the output of the other firm. The path to equilibrium is a series of actions and reactions.The pattern continues until a point is reached where niether firm desires “to change what it is doing , given how it believes the other firm will react to any change.”<ref> Kreps, D.: A Course in Microeconomic Theory page 326.  Princeton 1990. </ref> K 326.The equilibrium is the intersection of the two firm’s reaction functions. The reaction function shows how one firm reacts to the quantity choice of the other firm.<ref> Kreps, D.: A Course in Microeconomic Theory Princeton 1990. </ref>.For example, assume that the firm 1’s demand function is P = (60 - Q<sub>2</sub>) - Q<sub>1</sub> where Q<sub>2</sub> is the quantity produced by the other firm and Q<sub>1</sub> is the amount produced by firm 1.<ref> Samuelson, W & Marks, S: 100. Managerial Economics 4th ed. Wiley 2003 </ref> Assume that marginal cost is 12. Firm 1 wants to know its maximizing quantity and price. Firm 1 begins the process by following the profit maximization rule of equating marginal revenue to marginal costs. Firm 1’s total revenue function is PQ = Q<sub>1</sub>(60 - Q<sub>2</sub> - Q<sub>1</sub>) = 60Q<sub>1</sub>- Q<sub>1</sub>Q<sub>2</sub> - Q<sub>1</sub><sup>2</sup>. The marginal revenue function is MR = 60 - Q<sub>2</sub> - 2Q.<ref>MR = 60 - Q<sub>2</sub> - 2Q. can be restated as MR = (60 - Q<sub>2</sub>) - 2Q.</ref>.
+
+:MR = MC
+:60 - Q<sub>2</sub> - 2Q = 12
+:2Q = Q<sub>2</sub> - 60
+:Q<sub>1</sub> = 30 - 0.5Q<sub>2</sub> [1.1]
+:Q<sub>2</sub> = 30 - 0.5Q<sub>1</sub> [1.2]
+
+Equation 1.1 is the reaction function for firm 1. Equation 1.2 is the reaction function for firm 2.
+
+To determine the Cournot-Nash equilibrium you can solve the equations simultaneously. The equilibrium quantities can also be determined graphically. The equilibrium solution would be at the intersection of the two reaction functions. Note that if you graph the functions the axes represent quantities.<ref> Pindyck, R & Rubinfeld, D: Microeconomics 5th ed. Prentice-Hall 2001 </ref> The reaction functions are not necessarily symmetric.<ref> Pindyck, R & Rubinfeld, D: Microeconomics 5th ed. Prentice-Hall 2001 </ref> The firm’s may face differing cost functions in which case the reaction functions would not be identical nor would the equilibrium quantities.
+
+==Bertrand model==
+{{main|Bertrand competition}}
+
+The Bertrand model is essentially the Cournot-Nash model except the strategic variable is price rather than quantity.<ref> Samuelson, W & Marks, S: 100. Managerial Economics 4th ed. page 415 Wiley 2003. </ref>
+
+The model assumptions are:
+:There are two firms in the market
+:They produce a homogeneous product
+:They produce at a constant marginal cost
+:Firms choose prices P<sub>A</sub> and P<sub>B</sub> simultaneously
+:Firms outputs are perfect substitutes
+:Sales are split evenly if P<sub>A</sub> = P<sub>B</sub><ref>There is nothing to guarantee an even split. Kreps, D.: A Course in Microeconomic Theory page 331. Princeton 1990. </ref>
+
+The only Nash equilibrium is P<sub>A</sub> = P<sub>B</sub> = MC.
+
+Neither firm has any reason to change strategy. if the firm raises prices it will lose all its customers. If the firm lowers price P < MC then it will be losing money on every unit sold.<ref>This assumes that there are no capacity restriction. Binger, B & Hoffman, E, 284-85. Microeconomics with Calculus, 2nd ed. Addison-Wesley, 1998. Insert footnote text here</ref>
+
+The Bertrand equilibrium is the same as the competitive result.<ref> Pindyck, R & Rubinfeld, D: Microeconomics 5th ed.page 438 Prentice-Hall 2001. </ref> Each firm will produce where P = marginal costs and there will be zero profits.<ref> Samuelson, W & Marks, S: 100. Managerial Economics 4th ed. page 415 Wiley 2003. </ref>
+
+==The kinked demand curve model==
+
+According to this model, each firm faces a demand curve kinked at the existing price.<ref> Pindyck, R & Rubinfeld, D: Microeconomics 5th ed. page 446. Prentice-Hall 2001. </ref> The conjectural assumptions of the model are (1) if a firm raises its price above the existing price competitor will not follow and the acting firm will lose market share (2) if a firm lowers price below the existing price then competitors will follow to preserve their market share and the acting frim's output will increase only slightly. <ref>Simply stated the rule is that competitors will ignore price increases and follow price decreases. Negbennebor, A: Microeconomics, The Freedom to Choose page 299.  CAT 2001 </ref> 
+
+If the assumptions hold then: 
+:The firm's marginal revenue curve is discontinuous, has a gap, at the kink <ref> Pindyck, R & Rubinfeld, D: Microeconomics 5th ed. page 446. Prentice-Hall 2001. </ref>
+:For prices above the prevailing price the curve is relatively elastic <ref> Negbennebor, A: Microeconomics, The Freedom to Choose page 299. CAT 2001 </ref>
+:For prices below the point the curve is relatively inelastic <ref> Negbennebor, A: Microeconomics, The Freedom to Choose page 299. CAT 2001 </ref> 
+
+The gap in the marginal revenue curve means that marginal costs can fluctuate without changing equilibrium price and quantity.<ref> Pindyck, R & Rubinfeld, D: Microeconomics 5th ed. page 446. Prentice-Hall 2001. </ref> Thus prices tend to be rigid.
+
+==Examples==
+In industrialized economies, [[barriers to entry]] have resulted in oligopolies forming in many sectors, with unprecedented levels of competition, fueled by increasing [[globalization]]. Market shares in an oligopoly are typically determined by product development and advertising. For example, there are now only a small number of manufacturers of civil passenger aircraft, though Brazil ([[Embraer]]) and Canada ([[Bombardier Aerospace|Bombardier]]) have participated in the small passenger aircraft market sector. Oligopolies have also arisen in heavily regulated markets such as wireless communications: in some areas only two or three providers are licensed to operate.
+
+===Australia===
+*Most media outlets are owned either by [[News Corporation]], [[Time Warner]], or by [[Fairfax Media]]<ref>{{citation| date=October 2008 | publisher=Datamonitor| title=Media Industry Profile: Australia}}</ref>
+*Retailing is dominated by [[Coles Group]] and [[Woolworths Limited|Woolworths]] {{Citation needed|Can't find a concrete source regarding market shares on this.|date=April 2009}}
+
+===Canada===
+* Three companies ([[Rogers Wireless]], [[Bell Mobility]] and [[Telus]]) share over 94% of Canada's wireless market.<ref>http://cwta.ca/CWTASite/english/facts_figures_downloads/SubscribersStats_en_2008_Q4.pdf</ref><ref>http://www.crtc.gc.ca/eng/publications/reports/policymonitoring/2008/cmr2008.pdf</ref>
+
+===United Kingdom===
+*Four companies ([[Tesco]], [[Sainsbury's]], [[Asda]] and [[Morrisons]]) share 74.4% of the grocery market<ref>{{cite|date=31 October 2007|url=http://news.bbc.co.uk/1/hi/business/4785544.stm|title=Probe says 'too few supermarkets'|publisher=BBC News|accessdate=2009-04-03}}</ref>
+*[[Scottish & Newcastle]], [[Molson Coors]], and [[Inbev]] control two thirds of the beer brewing industry.<ref>{{citation| date=Dec. 2008 | publisher=Datamonitor| title=Beer Industry Profile: United Kingdom}}</ref>
+*The [[detergent]] market is dominated by two players, [[Unilever]] and [[Procter & Gamble]]<ref>{{citation| date=November 2008 | publisher=Datamonitor| title=Textile Washing Products Industry Profile: United Kingdom}}</ref>
+
+===United States===
+*[[Anheuser-Busch]] and [[MillerCoors]] control about 80% of the beer industry.<ref>{{citation| date=Dec. 2008 | publisher=Datamonitor| title=Beer Industry Profile: United States}}</ref>
+*Many media industries today are essentially oligopolies. Six [[Major film studio|movie studios]] receive 90% of American film revenues, and four major [[Music industry|music companies]] receive 80% of recording revenues. There are just six major book publishers, and the television industry was an oligopoly of three networks—[[American Broadcasting Company|ABC]], [[CBS]], and [[NBC]]—from the 1950s through the 1970s. Television has diversified since then, especially because of cable, but today it is still mostly an oligopoly of five companies: [[Disney|Disney/ABC]], [[CBS Corporation]], [[NBC Universal]], [[Time Warner]], and [[News Corporation]].<ref>{{cite|date= 2008|edition=2nd|publisher=McGraw Hill|title=Rodman, George. Mass Media in a Changing World. New York}}</ref> See [[Concentration of media ownership]].
+
+===Worldwide===
+*The [[accountancy]] market is controlled by [[PriceWaterhouseCoopers]], [[KPMG]], [[Deloitte Touche Tohmatsu]], and [[Ernst & Young]] (commonly known as the [[Big Four auditors|Big Four]])<ref>{{citation| date=September 2008 | publisher=Datamonitor| title=Accountancy Industry Profile: Global}}</ref>
+*Three leading food processing companies, [[Kraft Foods]], [[PepsiCo]] and [[Nestle]], together achieve a large proportion{{Vague|what proportion?|date=March 2009}} of global processed food sales. These three companies are often used as an example of "The rule of 3"<ref>{{cite|coauthors=SHETH Jagdish, SISODIA Rajendra|title=The Rule of Three|publisher=Boston Publishing Co.<!-- supposed to omit "Publishing Co." etc but New York:Boston would be just confusing surely -->|publication-place=New York}}</ref>, which states that markets often become an oligopoly of three large firms. 
+*[[Boeing]] and [[Airbus]] have a duopoly over the airliner market<ref>{{citation| date=November 2008 | publisher=Datamonitor| title=Airlines Industry Profile: United States | pages=13-14}}</ref>
+
+==Demand curve==
+[[Image:Kinked demand.JPG|thumb|Above the kink, demand is relatively elastic because all other firms' prices remain unchanged. Below the kink, demand is relatively inelastic because all other firms will introduce a similar price cut, eventually leading to a [[price war]]. Therefore, the best option for the oligopolist is to produce at point '''E''' which is the equilibrium point and the kink point. This is a theoretical model proposed in 1947, which has failed to receive conclusive evidence for support. | 300 px]]
+ 
+In an oligopoly, firms operate under [[imperfect competition]]. With the fierce price competitiveness created by this [[Sticky (economics)|sticky-upward]] [[demand curve]], firms use [[non-price competition]] in order to accrue greater revenue and market share.
+
+"Kinked" demand curves are similar to traditional demand curves, as they are downward-sloping. They are distinguished by a hypothesized convex bend with a discontinuity at the bend - the "kink." Thus the first [[derivative]] at that point is undefined and leads to a jump discontinuity in the [[marginal revenue|marginal revenue curve]].
+
+Classical [[economics|economic theory]] assumes that a profit-maximizing producer with some market power (either due to oligopoly or [[monopolistic competition]]) will set marginal costs equal to marginal revenue. This idea can be envisioned graphically by the intersection of an upward-sloping marginal cost curve and a downward-sloping marginal revenue curve (because the more one sells, the lower the price must be, so the less a producer earns per unit). In classical theory, any change in the marginal cost structure (how much it costs to make each additional unit) or the marginal revenue structure (how much people will pay for each additional unit) will be immediately reflected in a new price and/or quantity sold of the item. This result does not occur if a "kink" exists. Because of this jump discontinuity in the marginal revenue curve, [[marginal cost]]s could change without necessarily changing the price or quantity.
+
+The motivation behind this kink is the idea that in an oligopolistic or monopolistically competitive market, firms will not raise their prices because even a small price increase will lose many customers. This is because competitors will generally ignore price increases, with the hope of gaining a larger market share as a result of now having comparatively lower prices. However, even a large price decrease will gain only a few customers because such an action will begin a [[price war]] with other firms. The curve is therefore more [[Elasticity (economics)|price-elastic]] for price increases and less so for price decreases. Firms will often enter the industry in the long run.
+
+==See also==
+* [[Prisoner's Dilemma]]
+* [[Market form]]
+* [[Duopoly]]
+* [[Perfect competition]]
+* [[Monopsony]]
+* [[Oligopolistic reaction]]
+* [[Oligopsony]]
+* [[Monopoly]]
+* [[Big Business]]
+* [[Collusion]]
+* [[Simulations and games in economics education]]
+
+==Notes==
+{{Reflist}}
+
+==External links==
+* [http://www.basiceconomics.info/oligopoly-market-structure.php BasicEconomics.info - Oligopoly Market Structure] 
+* [http://www.egwald.ca/economics/index.php Microeconomics] by Elmer G. Wiens: Online Interactive Models of Oligopoly, Differentiated Oligopoly, and Monopolistic Competition
+* Vives, X. (1999). Oligopoly pricing, MIT Press, Cambridge MA. (A comprehensive work on oligopoly theory)
+* [http://www.oligopolywatch.com Oligopoly Watch] A blog on current oligopoly issues from a business and social perspective
+* [http://www.economicsnetwork.ac.uk/teaching/simulations/managerialbusinesseconomics.htm Simulations in Managerial/Business Economics]
+* [http://www.economicsnetwork.ac.uk/teaching/simulations/principlesofmicroeconomics.htm Simulations in Principles of Economics]
+
+[[Category:Market structure and pricing]]
+[[Category:Imperfect competition]]
+[[Category:Economic problems]]
+[[Category:Oligarchy]]
+
+[[af:Oligopolie]]
+[[ar:احتكار القلة]]
+[[be:Алігаполія]]
+[[bg:Олигопол]]
+[[ca:Oligopoli]]
+[[cs:Oligopol]]
+[[cy:Oligopoli]]
+[[da:Oligopol]]
+[[de:Oligopol]]
+[[es:Oligopolio]]
+[[fr:Oligopole]]
+[[gl:Oligopolio]]
+[[ko:과점]]
+[[hr:Oligopol]]
+[[id:Oligopoli]]
+[[is:Fákeppni]]
+[[it:Oligopolio]]
+[[he:אוליגופול]]
+[[lv:Oligopols]]
+[[lt:Oligopolija]]
+[[hu:Oligopólium]]
+[[mk:Олигопол]]
+[[nl:Oligopolie]]
+[[ja:寡占]]
+[[no:Oligopol]]
+[[nds:Oligopol]]
+[[pl:Oligopol]]
+[[pt:Oligopólio]]
+[[ro:Oligopol]]
+[[ru:Олигополия]]
+[[sq:Oligopoli]]
+[[simple:Oligopoly]]
+[[sh:Oligopol]]
+[[fi:Oligopoli]]
+[[sv:Oligopol]]
+[[tr:Oligopoli]]
+[[uk:Олігополія]]
+[[zh:寡頭壟斷]]

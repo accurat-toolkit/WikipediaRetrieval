@@ -1,0 +1,102 @@
+{{Politics of Latvia}}
+'''The President of Latvia''' is [[head of state]] and  [[Commander-in-Chief]] of the armed forces of [[Latvia| the Republic of Latvia]]. Each president to date, except [[Gustavs Zemgals]] and [[Kārlis Ulmanis]], has been elected for a second term. The term of office is four years. Before 1997 it was three years. In the event of the vacancy in the office of the President, the [[Speaker of the Saeima]] assumes the duties of the President. For example, after the restoration of Latvian independence, before a new President could be elected, [[Anatolijs Gorbunovs]] was acting president from 1991 to 1993.
+{|class="wikitable"
+|-
+| 
+|'''Name'''
+|
+|'''Took Office'''
+|'''Left Office'''
+|'''Party'''
+|- bgcolor=#DDEEFF
+|1
+|[[Jānis Čakste]]
+|<!-- Deleted image removed: [[Image:Cakste.jpg|75 px]] -->
+|1922
+|1927
+|[[Democratic Centre Party]]
+|- bgcolor=#DDEEFF
+|2
+|[[Gustavs Zemgals]]
+|<!-- Deleted image removed: [[Image:Zemgals.jpg|75 px]] -->
+|1927
+|1930
+|[[Democratic Centre Party]]
+|- bgcolor=#DDFFDD
+|3
+|[[Alberts Kviesis]]
+|<!-- Deleted image removed: [[Image:Kviesis.jpg|75 px]] -->
+|1930
+|1936
+|[[Latvian Farmers' Union]]
+|- bgcolor=#DDFFDD
+|4
+|[[Kārlis Ulmanis]] (took office after a [[Coup d'état]])
+|[[Image:Karlisulmanis student.jpg|75 px]]
+|1936
+|1940
+|[[Latvian Farmers' Union]]
+|-
+! colspan=6 |[[Latvian SSR]] (1940 - 1991)
+|- bgcolor=#DDFFDD
+|5
+|[[Guntis Ulmanis]]
+|[[Image:Guntis Ulmanis 1998.jpg|75 px]]
+|1993
+|1999
+|[[Latvian Farmers' Union]]
+|- bgcolor=#FFFFDD
+|6
+|[[Vaira Vīķe-Freiberga]]
+|[[Image:Vaira Vike-Freiberga-13062007.jpg|75 px]]
+|1999
+|2007
+|none
+|- bgcolor=#FFFFDD
+|7
+|[[Valdis Zatlers]]
+|[[Image:Zatlers.jpg|75 px]]
+|2007
+|term expires in 2011
+|none
+|}
+
+==See also==
+*[[Lists of office-holders]]
+{{Latvia Presidents}}
+{{Europe heads of state}}
+
+[[Category:Latvia-related lists|Presidents]]
+[[Category:Lists of Latvian people|Presidents]]
+[[Category:Lists of presidents|Latvia]]
+[[Category:Presidents of Latvia| List]]
+
+[[be:Прэзідэнты Латвіі]]
+[[be-x-old:Прэзыдэнты Латвіі]]
+[[ca:President de Letònia]]
+[[cs:Seznam prezidentů Lotyšska]]
+[[de:Liste der Präsidenten Lettlands]]
+[[et:Läti riigipeade loend]]
+[[es:Presidente de Letonia]]
+[[fr:Présidents de Lettonie]]
+[[gv:Rolley Eaghtyraneyn ny Latvey]]
+[[gl:Presidente de Letonia]]
+[[io:Listo di prezidisti di Latvia]]
+[[id:Daftar Presiden Latvia]]
+[[it:Presidenti della Repubblica della Lettonia]]
+[[he:נשיא לטביה]]
+[[ka:ლატვიის პრეზიდენტი]]
+[[lv:Latvijas Valsts prezidents]]
+[[lt:Sąrašas:Latvijos prezidentai]]
+[[mn:Латвийн ерөнхийлөгч]]
+[[nl:Lijst van staatshoofden van Letland]]
+[[ja:ラトビアの大統領]]
+[[no:Liste over Latvias presidenter]]
+[[oc:Lista dels presidents de Letònia]]
+[[pl:Prezydenci Łotwy]]
+[[pt:Anexo:Lista de presidentes da Letônia]]
+[[ru:Президенты Латвии]]
+[[fi:Luettelo Latvian presidenteistä]]
+[[sv:Lista över Lettlands presidenter]]
+[[uk:Президенти Латвії]]
+[[zh:拉脫維亞總統]]

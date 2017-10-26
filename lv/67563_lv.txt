@@ -1,0 +1,126 @@
+{{Tenisista biogrāfija
+|playername= Marats Safins
+|image = [[Attēls:Marat Safin, 2006.jpg|250px]]
+|country= {{RUS}}
+|residence= [[Montekarlo]], [[Monako]]
+|datebirth= {{dzimšanas datums un vecums|1980|1|27}}
+|placebirth= [[Maskava]], [[PSRS]]
+|height= 193 [[centimetrs|cm]]
+|weight= 88 [[kilograms|kg]]
+|turnedpro= [[1997]]. gadā
+|plays= ar labo roku, divrocīgs kreisais sitiens
+|careerprizemoney= [[ASV dolārs|USD]] 13 890 562
+|singlesrecord=   402–243
+|singlestitles= 15
+|highestsinglesranking= 1 ({{dat|2000|11|20}})
+|AustralianOpenresult= '''Uzvara''' (2005)
+|FrenchOpenresult= Pusfināls (2002)
+|Wimbledonresult= Pusfināls (2008)
+|USOpenresult= '''Uzvara''' (2000)
+|doublesrecord= 91–107
+|doublestitles= 2
+|highestdoublesranking= 71 ({{dat|2002|4|22}})
+|updated= {{dat|2008|10|26}}
+}}
+
+'''Marats Safins''' ({{Val-ru|Марат Михайлович Сафин}}; {{val-tt|Марат Мөбин улы Сафин}}, dzimis [[1980]]. gada [[27. janvāris|27. janvārī]], [[Maskava|Maskavā]], [[PSRS]]) ir bijušais [[tatāri|tatāru]] izcelsmes [[Krievija]]s tenisists, kurš savulaik ir atradies pirmajā vietā [[ATP]] reitingā. 
+
+Viņš ir uzvarējis [[2000]]. gada [[ASV Atklātais čempionāts tenisā|ASV Atklātajā čempionātā]], kā arī [[2005]]. gada [[Austrālijas Atklātais čempionāts tenisā|Austrālijas Atklātajā čempionātā]]. Viņš ir sasniedzis arī divus Austrālijas Atklātā čempionātu finālus. [[ATP Masters]] sērijas turnīros Safins uzvarējis piecreiz, vēl pietam - trīs reizes [[Parīzes Masters]] turnīros. Safins ir uzvarējis arī astoņos ATP turnīros. Dubultspēlēs Marats ir uzvarējis divos ATP turnīros, pirmajā reizē spēlējot kopā ar šveicieti [[Rodžers Federers|Rodžeru Federeru]], bet otrajā - ar krievu [[Dmitrijs Tursunovs|Dmitriju Tursunovu]].
+
+Viņa jaunākā māsa [[Dinara Safina|Dinara]] arī ir profesionāla tenisiste, kura [[2008. gada Vasaras Olimpiskās spēles|2008. gada Olimpiskajās spēlēs]] izcīnīja sudraba medaļu.
+
+2009. gadā beidzis profesionāļa karjeru.
+
+== Karjeras statistika ==
+=== Grand Slam fināli ===
+==== Uzvaras ====
+{| class="wikitable"
+|width="50"|'''Gads
+|width="200"|'''Turnīrs
+|width="200"|'''Pretinieks
+|width="200"|'''Rezultāts
+|-bgcolor="#FFFFCC"
+| 2000 || [[ASV Atklātais čempionāts tenisā|ASV Atklātais čempionāts]] || {{flaga|ASV}} [[Pīts Samprass]]|| 6–4, 6–3, 6–3
+|-bgcolor="#CCCCFF"
+| 2005 || [[Austrālijas Atklātais čempionāts tenisā|Austrālijas Atklātais čempionāts]] || {{flaga|Austrālija}} [[Leitons Hjuits]]|| 1–6, 6–3, 6–4, 6–4
+|}
+
+==== Zaudējumi ====
+{| class="wikitable"
+|width="50"|'''Gads
+|width="200"|'''Turnīrs
+|width="200"|'''Pretinieks
+|width="200"|'''Rezultāts
+|-bgcolor="#CCCCFF"
+| 2002 || Austrālijas Atklātais čempionāts || {{flaga|Zviedrija}} [[Tomass Johansons]]|| 3–6, 6–4, 6–4, 7–6(4)
+|-bgcolor="#CCCCFF"
+| 2004 || Austrālijas Atklātais čempionāts || {{flaga|Šveice}} [[Rodžers Federers]]|| 7–6(3), 6–4, 6–2
+|}
+
+{{kastes sākums}}
+{{s-tituli}}
+{{amatu secība|virsraksts=[[ATP ranga pirmo numuru saraksts|ATP ranga līderis]] |pirms={{flaga|ASV}} [[Pīts Samprass]]<br />{{flaga|Brazīlija}} [[Gustavo Kuertens]]<br />{{flaga|Brazīlija}} [[Gustavo Kuertens]]|pēc={{flaga|Brazīlija}} [[Gustavo Kuertens]]<br />{{flaga|Brazīlija}} [[Gustavo Kuertens]]<br />{{flaga|Brazīlija}} [[Gustavo Kuertens]]|periods={{dat|2000|11|20|N}} — {{dat|2000|12|3|N}}<br />{{dat|2001|1|29|N}} — {{dat|2001|2|25|N}}<br />{{dat|2001|4|2|N}} — {{dat|2001|4|22|N}}}}
+{{kastes beigas}}
+
+{{pirmā rakete vīriešu tenisā}}
+
+{{teniss-stub}}
+{{Sportists-aizmetnis}}
+
+{{DEFAULTSORT:Safins, Marats}}
+
+[[Kategorija:1980. gadā dzimušie]]
+[[Kategorija:Krievijas tenisisti]]
+[[Kategorija:2000. gada Vasaras Olimpisko spēļu dalībnieki]]
+[[Kategorija:2004. gada Vasaras Olimpisko spēļu dalībnieki]]
+
+[[af:Marat Safin]]
+[[ar:مارات سافين]]
+[[bg:Марат Сафин]]
+[[bn:মারাট সাফিন]]
+[[ca:Marat Safin]]
+[[cs:Marat Safin]]
+[[cv:Сафин Марат Мубинович]]
+[[da:Marat Safin]]
+[[de:Marat Michailowitsch Safin]]
+[[en:Marat Safin]]
+[[eo:Marat Safin]]
+[[es:Marat Safin]]
+[[et:Marat Safin]]
+[[eu:Marat Safin]]
+[[fi:Marat Safin]]
+[[fr:Marat Safin]]
+[[gl:Marat Safin]]
+[[gv:Marat Safin]]
+[[he:מאראט סאפין]]
+[[hi:मराट साफिन]]
+[[hr:Marat Safin]]
+[[hu:Marat Mihajlovics Szafin]]
+[[id:Marat Safin]]
+[[io:Marat Safin]]
+[[it:Marat Safin]]
+[[ja:マラト・サフィン]]
+[[kn:ಮರಾತ್ ಸಾಫಿನ್]]
+[[ko:마라트 사핀]]
+[[lt:Maratas Safinas]]
+[[mk:Марат Сафин]]
+[[mr:मरात साफिन]]
+[[ms:Marat Safin]]
+[[nl:Marat Safin]]
+[[no:Marat Safin]]
+[[pl:Marat Safin]]
+[[pt:Marat Safin]]
+[[rm:Marat Safin]]
+[[ro:Marat Safin]]
+[[ru:Сафин, Марат Михайлович]]
+[[simple:Marat Safin]]
+[[sk:Marat Michajlovič Safin]]
+[[sl:Marat Safin]]
+[[sr:Марат Сафин]]
+[[sv:Marat Safin]]
+[[th:มารัต ซาฟิน]]
+[[tr:Marat Safin]]
+[[tt:Marat Safin]]
+[[uk:Сафін Марат Михайлович]]
+[[vi:Marat Safin]]
+[[zh:马拉特·萨芬]]

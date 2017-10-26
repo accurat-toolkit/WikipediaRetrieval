@@ -1,0 +1,1500 @@
+__NOTOC__
+This is the '''list of [[Grand Vizier]]s of the [[Ottoman Empire]]'''.
+
+<br clear=all>
+<center>
+{| id="toc" style="margin: 0 2em 0 2em;"
+! [[Image:Osmanli-nisani.svg|75px|[[Ottoman Empire|Ottoman]] Coat of Arms]]|| align="center" style="background:#ccccff" width="100%" |[[Ottoman Empire|Ottoman]] [[Grand Vizier]]s|| [[Image:Ottoman Flag.svg|75px|[[Ottoman Empire|Ottoman]] Flag]] <br>
+|-
+| align="left" style="font-size: 90%;" colspan="3" |
+
+'''Grand viziers'''
+{| class="wikitable"
+|- bgcolor="#dddddd"
+|[[Grand Vizier]]
+|Entered office
+|Left office
+|Background notes
+|- bgcolor="#ffffff"
+|[[Alaeddin Pasha]]
+|1320
+|1331
+|[[Turkish people|Turkish]] Ottoman 
+|- bgcolor="#e5e5e5" 
+|[[Nizamüddin Ahmed Pasha]]
+|1331
+|1348
+|Turkish Ottoman 
+|- bgcolor="#ffffff" 
+|[[Hacı Pasha]]
+|1348
+|1349
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5" 
+|[[Sinanüddin Fakih Yusuf Pasha]]
+|1349
+|1364
+|Turkish Ottoman 
+|- bgcolor="#ffffff" 
+|[[Çandarlı Kara Halil Hayreddin Pasha]]
+|1364
+|22 January 1387
+|Turkish Ottoman, from Cendere (or ''Çandar'') village near [[Ankara]], see [[Çandarlı family]]. The first vizier to hold the title "grand vizier" and also the first with a military background. 
+|- bgcolor="#e5e5e5" 
+|[[Çandarlı Ali Paşa]] (Çandarlı Ali Pasha)
+|1387
+|1406
+|Turkish Ottoman ([[Çandarlı family]])
+|- bgcolor="#ffffff" 
+|[[İmamzade Halil Pasha]]
+|1406
+|1413
+|Turkish Ottoman, from [[Osmancık]]
+|- bgcolor="#e5e5e5" 
+|[[Beyazıd Pasha]]
+|1413
+|1421
+|Turkish Ottoman, from [[Amasya]]
+|- bgcolor="#ffffff" 
+|[[Çandarlı (1st) İbrahim Pasha]] 
+|1421
+|1429
+|Turkish Ottoman ([[Çandarlı family]])
+|- bgcolor="#e5e5e5" 
+|[[Koca Mehmed Nizamüddin Pasha]]
+|1429
+|1439
+|Turkish Ottoman, from [[Osmancık]] or [[Amasya]]
+|- bgcolor="#ffffff" 
+|[[Çandarlı (2nd) Halil Pasha]]
+|1439
+|1 June 1453
+|Turkish Ottoman ([[Çandarlı family]]). First grand vizier who was executed. 
+|- bgcolor="#e5e5e5" 
+|[[Zaganos Mehmed Pasha]]
+|1453
+|?
+|Greek. A Christian convert whose daughter was married to [[Mehmed II]]<ref>Finkel 2005, pp.78</ref>
+|- bgcolor="#ffffff" 
+|[[Mahmud Pasha Angelović]] (1st time)
+|1456
+|1468<ref>Finkel pp.78</ref>
+|[[Serbs|Serbian]]. A former prisoner of war who was married to one of [[Mehmed II]]'s daughters.<ref>Finkel 2005, pp.78</ref>
+|- bgcolor="#ffffff" 
+|[[Rum Mehmed Pasha]]
+|1468
+|1469
+|Greek. "who may have been captured at the conquest of Constantinople.<ref>/Finkel 2005, pp.78</ref>
+|- bgcolor="#e5e5e5" 
+|[[İshak Pasha]] (1st time)
+|1469
+|1472
+|precise origin unknown, of [[Slavs|Slavic]] background
+|- bgcolor="#ffffff" 
+|[[Mahmud Pasha Angelović]] (2nd time)
+|1472
+|1474
+|Serbian. A former prisoner of war who was married to one of [[Mehmed II]]'s daughters.<ref>Finkel 2005, pp.78</ref>
+|- bgcolor="#e5e5e5" 
+|[[Gedik Ahmed Pasha]]
+|1474
+|1477
+|of Byzantine or Byzanto-Serbian nobility<ref>Finkel 2005, pp.79</ref>
+|- bgcolor="#ffffff" 
+|[[Karamanlı Mehmed Pasha]]
+|1477
+|1481
+|Turkish Ottoman, from [[Karaman]]
+|- bgcolor="#e5e5e5" 
+|[[İshak Pasha]] (2nd time)
+|1481
+|1482
+|precise origin unknown, likely of [[Serbs|Serbian]], possibly [[Bosniaks|Bosniak]] background
+|- bgcolor="#ffffff" 
+|[[Davud Pasha]]
+|1482
+|1497
+|Albanian Ottoman 
+|- bgcolor="#e5e5e5" 
+|[[Hersekli Ahmed Paşa]] (1st time)
+|1497
+|1498
+|[[Croats|Croatian]] Ottoman from [[Herzegovina]]
+|- bgcolor="#ffffff" 
+|[[Çandarlı (2nd) İbrahim Pasha]]
+|1498
+|1499
+|Turkish Ottoman ([[Çandarlı family]])
+|- bgcolor="#e5e5e5" 
+|[[Mesih Pasha]]
+|1499
+|1501
+|Greek Ottoman, according to [[Joseph von Hammer]]
+|- bgcolor="#ffffff" 
+|[[Hadim Ali Pasha]] (1st time)
+|1501
+|1503
+|[[Serbs|Serbian]] Ottoman, from [[Bosnia Province, Ottoman Empire|Bosnia]] (''Hadim = Manservant'')
+|- bgcolor="#e5e5e5" 
+|[[Hersekli Ahmed Paşa]] (2nd time)
+|1503
+|1506
+|[[Croats|Croatian]] Ottoman from [[Herzegovina]]
+|- bgcolor="#ffffff" 
+|[[Hadim Ali Pasha]] (2nd time)
+|1506
+|1511
+|[[Serbs|Serbian]] Ottoman, from [[Bosnia Province, Ottoman Empire|Bosnia]]
+|- bgcolor="#e5e5e5" 
+|[[Hersekli Ahmed Paşa]] (3rd time)
+|1511
+|1511
+|[[Croats|Croatian]] Ottoman from [[Herzegovina]]
+|- bgcolor="#ffffff" 
+|[[Koca Mustafa Pasha]]
+|1511
+|1512
+|Greek Ottoman 
+|- bgcolor="#e5e5e5" 
+|[[Hersekli Ahmed Paşa]] (4th time)
+|1512
+|28 November 1514
+|[[Croats|Croatian]] Ottoman from [[Herzegovina]]
+|- bgcolor="#ffffff" 
+|[[Dukakinoğlu Ahmed Pasha]]
+|18 December 1514
+|8 September 1515
+|Albanian Ottoman 
+|- bgcolor="#e5e5e5" 
+|[[Hersekli Ahmed Paşa]] (5th time)
+|8 September 1515
+|26 April 1516
+|[[Croats|Croatian]] Ottoman from [[Herzegovina]]
+|- bgcolor="#ffffff" 
+|[[Hadim Sinan Pasha]]
+|26 April 1516
+|22 January 1517
+|Bosniak Ottoman, from the noble Boronivic family (''Hadim = Manservant'')
+|- bgcolor="#e5e5e5" 
+|[[Yunus Pasha]]
+|22 January 1517
+|13 September 1517
+|Of unknown origin, certainly non-Turkish, since a [[Devshirme]]. 
+|- bgcolor="#ffffff" 
+|[[Piri Mehmed Pasha]]
+|25 January 1518
+|27 June 1523
+|Turkish Ottoman, from [[Aksaray]] 
+|- bgcolor="#e5e5e5" 
+|[[Pargalı İbrahim Pasha]], also called [[Frenk İbrahim Pasha]]
+|27 June 1523
+|14 March 1536
+|Greek Ottoman, from [[Parga]] (The nickname ''Frenk'' referred to his [[Europe]]an manners and tastes)
+|- bgcolor="#ffffff" 
+|[[Ayas Mehmed Pasha]]
+|14 March 1536
+|13 July 1539
+|Albanian Ottoman 
+|- bgcolor="#e5e5e5" 
+|[[Çelebi Lütfi Pasha]]
+|13 July 1539
+|April 1541
+|Most probably [[Albanians|Albanian]] Ottoman, from Avlonya ([[Vlorë]]) (''Çelebi = a refined gentleman with good manners'')
+|- bgcolor="#ffffff" 
+|[[Hadim Süleyman Pasha]]
+|April 1541
+|28 November 1544
+|Of unknown origin (''Hadim = Manservant'')
+|- bgcolor="#e5e5e5" 
+|[[Rüstem Pasha|Damat Rüstem Pasha]] (1st time)
+|28 November 1544
+|6 October 1553
+|[[Croats|Croatian]] Ottoman (''Damat = Bridegroom to the [[Ottoman Dynasty|Ottoman dynasty]]'') from [[Bosnia]]
+|- bgcolor="#ffffff" 
+|[[Kara Ahmed Pasha]]
+|6 October 1553
+|29 September 1555
+|Albanian Ottoman 
+|- bgcolor="#e5e5e5" 
+|[[Rüstem Pasha|Damat Rüstem Pasha]] (2nd time)
+|29 September 1555
+|10 July 1561
+|[[Croats|Croatian]] Ottoman from [[Bosnia]]
+|- bgcolor="#ffffff" 
+|[[Semiz Ali Pasha]] 
+|10 July 1561
+|28 June 1565
+|[[Serbs|Serbians]] Ottoman (''Semiz = a fleshy person'')
+|- bgcolor="#e5e5e5" 
+|[[Mehmed-paša Sokolović|Sokollu Mehmed Pasha]] (Mehmed Pasha Sokolović)
+|28 June 1565
+|12 October 1579
+|[[Serbs|Serbians]] Ottoman, from [[Bosnia (Ottoman Province)|Bosnia]]
+|- bgcolor="#ffffff" 
+|[[Semiz Ahmed Pasha]] 
+|12 October 1579 
+|28 April 1580
+|[[Albanians|Albanian]] Ottoman 
+|- bgcolor="#e5e5e5" 
+|[[Lala Kara Mustafa Pasha]]
+|28 April 1580
+|7 August 1580
+|Bosniak Ottoman (''Lala = a tutor to a [[Sultan]]'')
+|- bgcolor="#ffffff" 
+|[[Koca Sinan Pasha]] (1st time)
+|7 August 1580
+|6 December 1582 
+|[[Albanians|Albanian]] Ottoman 
+|- bgcolor="#e5e5e5" 
+|[[Kanijeli Siyavuş Pasha]] (1st time)
+|24 December 1582
+|25 July 1584
+|[[Croatian people|Croatian]] or [[Hungarian people|Hungarian]] Ottoman, from [[Kanije]]
+|- bgcolor="#ffffff" 
+|[[Özdemiroğlu Osman Pasha]]
+|28 July 1584
+|29 October 1585
+|From a family of [[Circassian]] [[Mameluks]]
+|- bgcolor="#e5e5e5" 
+|[[Hadim Mesih Pasha]]
+|1 November 1585
+|14 April 1586
+|Of unknown origin (''Hadim = Manservant'')
+|- bgcolor="#ffffff" 
+|[[Kanijeli Siyavuş Pasha]] (2nd time)
+|14 April 1586
+|2 April 1589
+|[[Croatian people|Croatian]] or [[Hungarian people|Hungarian]] Ottoman, from [[Kanije]]
+|- bgcolor="#e5e5e5" 
+|[[Koca Sinan Pasha]] (2nd time)
+|14 April 1589
+|1 August 1591
+|Albanian Ottoman 
+|- bgcolor="#ffffff" 
+|[[Serdar Ferhad Pasha]] (1st time)
+|1 August 1591
+|4 April 1592
+|Albanian Ottoman 
+|- bgcolor="#e5e5e5" 
+|[[Kanijeli Siyavuş Pasha]] (3rd time)
+|4 April 1592
+|28 January 1593
+|[[Croatian people|Croatian]] or [[Hungarian people|Hungarian]] Ottoman, from [[Kanije]]
+|- bgcolor="#ffffff" 
+|[[Koca Sinan Pasha]] (3rd time)
+|28 January 1593
+|16 February 1595
+|Albanian Ottoman 
+|- bgcolor="#e5e5e5" 
+|[[Serdar Ferhad Pasha]] (2nd time)
+|16 February 1595
+|7 July 1595
+|Albanian Ottoman
+|- bgcolor="#ffffff" 
+|[[Koca Sinan Pasha]] (4th time)
+|7 July 1595
+|19 November 1595
+|Albanian Ottoman
+|- bgcolor="#e5e5e5" 
+|[[Lala Mehmed Pasha]]
+|19 November 1595
+|28 November 1595
+|Turkish Ottoman, from [[Manisa]] (''Lala'' = Tutor to a [[Sultan]]'')
+|- bgcolor="#ffffff" 
+|[[Koca Sinan Pasha]] (5th time)
+|1 December 1595
+|3 April 1596
+|Albanian Ottoman
+|- bgcolor="#e5e5e5"
+|[[Damat İbrahim Pasha]] (1st time)
+|4 April 1596
+|27 October 1596
+|Serbian Ottoman (''Damat = Bridegroom to the Ottoman dynasty'')
+|- bgcolor="#ffffff" 
+|[[Cigalazade Yusuf Sinan Pasha]]
+|27 October 1596
+|5 December 1596
+|[[Italian people|Italian]] Ottoman. From the noble [[Genoa|Genoese]] family of Cicala.
+|- bgcolor="#e5e5e5" 
+|[[Damat İbrahim Pasha]] (2nd time)
+|5 December 1596
+|3 November 1597
+|Serbian Ottoman (''Damat = Bridegroom to the Ottoman dynasty'')
+|- bgcolor="#ffffff" 
+|[[Hadim Hasan Pasha]]
+|3 November 1597
+|9 April 1598
+|Of unknown origin
+|- bgcolor="#e5e5e5" 
+|[[Cerrah Mehmed Pasha]]
+|9 April 1598
+|6 January 1599
+|Turkish Ottoman (''Cerrah = Surgeon'')
+|- bgcolor="#ffffff" 
+|[[Damat İbrahim Pasha]] (3rd time)
+|6 January 1599
+|10 July 1601
+|Serbian Ottoman (''Damat = Bridegroom to the Ottoman dynasty'')
+|- bgcolor="#e5e5e5" 
+|[[Yemişçi Hasan Pasha]]
+|22 July 1601
+|4 October 1603
+|Albanian Ottoman (''Yemişçi = Fruit-vendor''; in reference to his background)
+|- bgcolor="#ffffff" 
+|[[Malkoç Yavuz Ali Pasha]]
+|16 October 1603
+|26 July 1604
+|Serbian. "The [[Malkoç dynasty]], properly known as Malković, were of Christian, Serb origin".<ref>Finkel 2005, p.19</ref>
+|- bgcolor="#e5e5e5" 
+|[[Lala Mehmed Pasha]]
+|5 August 1604
+|21 June 1606
+|Bosniak Ottoman (''Lala = Tutor to a [[Sultan]]'')
+|- bgcolor="#ffffff" 
+|[[Dervish Mehmed Pasha,the Bosniak|Dervish Mehmet Pasha]]
+|21 June 1606
+|9 December 1606
+|Bosniak Ottoman 
+|- bgcolor="#e5e5e5" 
+|[[Kuyucu Murad Pasha]]
+|11 December 1606
+|5 August 1611
+|[[Croats|Croatian]] Ottoman (''Kuyucu = The well-digger''; name given since he had the habit of burying his enemies in wells) 
+|- bgcolor="#ffffff" 
+|[[Gümülcineli Damat Nasuh Pasha]]
+|5 August 1611
+|17 October 1614
+|possibly Albanian Ottoman, from [[Gümülcine]]. (''Damat = Bridegroom to the Ottoman dynasty''). He was one of the seven husbands of [[Ahmed I]]'s daughter Ayşe Sultan. 
+|- bgcolor="#e5e5e5" 
+|[[Öküz Kara Mehmed Pasha]] (1st time)
+|17 October 1614
+|17 November 1616
+|Turkish Ottoman, from [[Istanbul]] (''Öküz = Oxen''; literally ''Mehmed Pasha the Oxen''; name given since he was heavily built)
+|- bgcolor="#ffffff" 
+|[[Damat Halil Pasha]] (1st time)
+|17 November 1616
+|18 January 1619
+|[[Armenian people|Armenian]] Ottoman, from [[Zeytun]] (''Damat = Bridegroom to the Ottoman dynasty'')
+|- bgcolor="#e5e5e5" 
+|[[Öküz Kara Mehmed Pasha]] (2nd time)
+|18 January 1619
+|23 December 1619
+|Turkish Ottoman, from Istanbul 
+|- bgcolor="#ffffff" 
+|[[Güzelce Ali Pasha]]
+|23 December 1619
+|9 March 1621
+|Turkish Ottoman (''Güzelce = Handsome'')
+|- bgcolor="#e5e5e5" 
+|[[Ohrili Hüseyin Pasha]]
+|9 March 1621
+|17 September 1621
+|Albanian Ottoman, from [[Ohrid|Ohri]]
+|- bgcolor="#ffffff" 
+|[[Dilaver Pasha]]
+|17 September 1621
+|20 May 1622
+|[[Croats|Croatian]]
+|- bgcolor="#e5e5e5" 
+|[[Kara Davud Pasha]]
+|20 May 1622
+|13 June 1622
+|Bosniak Ottoman
+|- bgcolor="#ffffff" 
+|[[Mere Hüseyin Pasha]] (1st time)
+|13 June 1622
+|8 August 1622
+|[[Albanians|Albanian]] Ottoman (''"Mere!" = "Take it!"'' in [[Albanian language|Albanian]]; purportedly the only grand vizier who did not speak [[Turkish language|Turkish]], named after the oft-repeated order he gave on the subject of opponents' heads)
+|- bgcolor="#e5e5e5" 
+|[[Lefkeli Mehmed Pasha]]
+|8 August 1622
+|21 September 1622
+|[[Turkish people|Turkish]] Ottoman, from former [[Lefke]], today [[Orhaneli]]
+|- bgcolor="#ffffff" 
+|[[Gürcü Mehmed Pasha]] (Hadım -'[[Eunuch (court official)|Eunuch]]'- Mehmed Pasha)
+|21 September 1622
+|5 February 1623
+|[[Georgian people|Georgian]] Ottoman (''Gürcü = Georgian'')
+|- bgcolor="#e5e5e5" 
+|[[Mere Hüseyin Pasha]] (2nd time)
+|5 February 1623
+|30 August 1623
+|Albanian Ottoman
+|- bgcolor="#ffffff" 
+|[[Kemankeş Kara Ali Pasha]]
+|30 August 1623
+|3 April 1624
+|Turkish Ottoman (''Kemankeş = Archer'')
+|- bgcolor="#e5e5e5" 
+|[[Çerkes Mehmed Ali Pasha]]
+|3 April 1624
+|28 January 1625
+|[[Circassia]]n Ottoman (''Çerkes = Circassian'')
+|- bgcolor="#ffffff" 
+|[[Filibeli Hafız Ahmed Pasha]] (1st time)
+|8 February 1625
+|1 December 1626
+|[[Turkish people|Turkish]] or [[Pomak]] (according to [http://www.anayasa.gen.tr/pomteb.htm|Kemal Gözler] Ottoman, although the term Pomak itself was probably not in use at the time. From [[Filibe]]. He was one of the seven husbands of [[Ahmed I]]'s daughter Ayşe Sultan.
+|- bgcolor="#e5e5e5" 
+|[[Damat Halil Pasha]] (2nd time)
+|1 December 1626
+|6 April 1628
+|Armenian Ottoman, from [[Zeytun]] (''Damat = Bridegroom to the Ottoman dynasty'')
+|- bgcolor="#ffffff" 
+|[[Gazi Ekrem Hüsrev Pasha]]
+|6 April 1628
+|25 October 1631
+|Bosniak Ottoman
+|- bgcolor="#e5e5e5" 
+|[[Filibeli Hafız Ahmed Pasha]] (2nd time)
+|25 October 1631
+|10 February 1632
+|Turkish or Pomak from [[Filibe]].
+|- bgcolor="#ffffff" 
+|[[Topal Recep Pasha]]
+|10 February 1632
+|18 May 1632
+|Bosniak Ottoman (''Topal = Lame'')
+|- bgcolor="#e5e5e5"
+|[[Tabanıyassi Mehmed Pasha]]
+|18 May 1632
+|2 February 1637
+|possibly Albanian Ottoman (from [[Drama]])(''Tabanıyassı = Flat-footed'')
+|- bgcolor="#ffffff" 
+|[[Bayram Pasha]]
+|2 February 1637
+|26 August 1638
+|Turkish Ottoman, from Istanbul
+|- bgcolor="#e5e5e5" 
+|[[Tayyar Mehmed Pasha]]
+|27 August 1638
+|23 December 1638
+|Turkish Ottoman
+|- bgcolor="#ffffff" 
+|[[Kemankeş Kara Mustafa Pasha]]
+|23 December 1638
+|31 January 1644
+|Albanian Ottoman (''Kemankeş = Archer'')
+|- bgcolor="#e5e5e5" 
+|[[Sultanzade Semiz Mehmed Pasha]] aka [[Civan Kapucubaşı Sultanzade Mehmed Pasha]]
+|31 January 1644
+|17 December 1645
+|Turkish Ottoman (''Sultanzade = Son of a female member of the Ottoman dynasty'')
+|- bgcolor="#ffffff" 
+|[[Nevesinli Salih Pasha]]
+|17 December 1645
+|16 September 1647
+|Bosniak Ottoman, from [[Nevesinje]]. 
+|- bgcolor="#e5e5e5" 
+|[[Kara Musa Pasha]]
+|16 September 1647
+|21 September 1647
+|Turkish Ottoman. Not included in some lists. The imperial seal was sent to him by way of sea to [[Crete]] where he was in campaign, but he fell in front of the castle of [[Kandiye]] ([[Iraklion]]) five days after his naming to the rank and before receiving the seal. 
+|- bgcolor="#ffffff" 
+|[[Hezarpare Ahmed Pasha]]
+|21 September 1647
+|7 August 1648
+|Greek Ottoman, from Istanbul. Promoted from in-attorney title to the rank of full grand vizier upon Kara Musa Pasha's death. (''Hezarpare = Thousand pieces''; literally ''Ahmed Pasha the Thousand Pieces''; name given by chroniclers since he was lynched by the mob)
+|- bgcolor="#e5e5e5" 
+|[[Sofu Mehmed Pasha]], also called [[Mevlevi Mehmed Pasha]] 
+|7 August 1648
+|21 May 1649
+|Turkish Ottoman (''Sofu = Devout'' and see [[Mevlevi]])
+|- bgcolor="#ffffff" 
+|[[Kara Dev Murad Pasha]]
+|21 May 1649
+|5 August 1651
+|Albanian Ottoman (''Dev = Giant'')
+|- bgcolor="#e5e5e5" 
+|[[Melek Ahmed Pasha]]
+|5 August 1651
+|21 August 1651
+|[[Abaza people|Abaza]] Ottoman (''Melek = Angel'')
+|- bgcolor="#ffffff" 
+|[[Abaza Siyavuş Pasha]] (1st time)
+|21 August 1651
+|27 September 1651
+|[[Abkhazian]]
+|- bgcolor="#e5e5e5" 
+|[[Gürcü Mehmed Pasha]]
+|27 September 1651
+|20 June 1652
+|Georgian Ottoman (''Gürcü - Georgian'')
+|- bgcolor="#ffffff" 
+|[[Tarhoncu Ahmet Paşa]]
+|20 June 1652
+|21 March 1653
+|Albanian Ottoman (''tarhoncu'' = ‘tarragon vendor’; in reference to his background)
+|- bgcolor="#e5e5e5" 
+|[[Koca Dervish Mehmed Pasha]]
+|21 March 1653
+|28 October 1654
+|[[Circassian]] Ottoman 
+|- bgcolor="#ffffff" 
+|[[İpşiri Mustafa Pasha]]
+|28 October 1654
+|11 May 1655
+|Abaza Ottoman (''İpşiri = Bearer of good news'') He was one of the seven husbands of [[Ahmed I]]'s daughter Ayşe Sultan.
+|- bgcolor="#e5e5e5" 
+|[[Kara Dev Murad Pasha]] (2nd time)
+|11 May 1655
+|19 August 1655
+|Albanian Ottoman 
+|- bgcolor="#ffffff" 
+|[[Ermeni Suleyman Pasha]]
+|19 August 1655
+|28 February 1656
+|[[Armenians|Armenian]]. Turkish Ottoman despite his nickname ''Ermeni'', which means Armenian, from [[Malatya]]. 
+|- bgcolor="#e5e5e5" 
+|[[Gazi Hüseyin Pasha]], also called [[Deli Hüseyin Pasha]]
+|28 February 1656
+|5 March 1656
+|Turkish Ottoman, from [[Yenişehir]]. Not included in some lists. The imperial seal was sent to him by way of sea to [[Crete]] where he was in campaign, but the ships were called back because of Zurnazen Mustafa Pasha's lobbying, who had been appointed in-attorney in between but wanted the full title for him. (''Deli = Mad; due to his daring and courage in the battlefield'') 
+|- bgcolor="#ffffff" 
+|[[Zurnazen Mustafa Pasha]] (held office for 4 hours)
+|5 March 1656
+|5 March 1656 
+|Albanian Ottoman (''Zurnazen = Clarinettist''). Not included in some lists. Promoted from in-attorney title to the rank of full grand vizier due to the influence he exerted on the sultan for Gazi Hüseyin Pasha's dismissal from the office. His appointment caused an uprising in Istanbul and he was exiled after having held the seal for four hours. 
+|- bgcolor="#e5e5e5" 
+|[[Abaza Siyavuş Pasha]] (2nd time)
+|5 March 1656
+|25 April 1656
+|Abaza Ottoman 
+|- bgcolor="#ffffff" 
+|[[Boynuyaralı Mehmed Pasha]]
+|26 April 1656
+|15 September 1656 
+|Turkish Ottoman, from [[Samsun]] (''Boynu yaralı = Wounded neck'')
+|- bgcolor="#e5e5e5"
+|[[Köprülü Mehmed Pasha]]
+|15 September 1656
+|31 October 1661
+|[[Albanians|Albanian]] Ottoman, from the region of [[Rudnik]], associated with his wife's hometown of [[Vezirköprü|Köprü]] in north-central [[Anatolia]], called [[Vezirköprü]] today in honor of the family. (see; [[Köprülü family]])
+|- bgcolor="#ffffff"
+|[[Köprülü Fazıl Ahmed Pasha]]
+|31 October 1661
+|19 October 1676
+|Ottoman (Albanian father, Turkish mother; see [[Köprülü family]])
+|- bgcolor="#e5e5e5"
+|[[Merzifonlu Kara Mustafa Pasha]]
+|19 October 1676
+|25 December 1683
+|Turkish Ottoman, from [[Merzifon]] (adopted son in [[Köprülü family]])
+|- bgcolor="#ffffff"
+|[[Kara İbrahim Pasha]]
+|15 December 1683
+|18 November 1685
+|Bosniak Ottoman
+|- bgcolor="#e5e5e5"
+|[[Sarı Süleyman Pasha]]
+|18 November 1685
+|18 September 1687
+|Bosniak Ottoman (''Sarı = Blond'')
+|- bgcolor="#ffffff"
+|[[Abaza Siyavuş Pasha]] (3rd time)
+|18 September 1687
+|23 February 1688
+|[[Abkhazian]]. 
+|- bgcolor="#e5e5e5"
+|[[Ayaşlı İsmail Pasha]]
+|23 February 1688
+|2 May 1688
+|Turkish Ottoman (from [[Ayaş, Ankara|Ayaş]])
+|- bgcolor="#ffffff"
+|[[Bekri Mustafa Pasha]]
+|30 May 1688
+|7 November 1689
+|Turkish Ottoman, from [[Tekirdağ]].
+|- bgcolor="#e5e5e5"
+|[[Köprülü Fazıl Mustafa Pasha]]
+|10 November 1689
+|19 August 1691
+|Turkish Ottoman ([[Köprülü family]])
+|- bgcolor="#ffffff"
+|[[Arabacı Ali Pasha]]
+|24 August 1691
+|21 March 1692
+|[[Albanians|Albanian]] Ottoman (''Arabacı = Coachman''; in reference to his background)
+|- bgcolor="#e5e5e5"
+|[[Merfizonlu Hacı Ali Pasha]]
+|23 March 1692
+|17 March 1693
+|Turkish Ottoman, from [[Merzifon]].
+|- bgcolor="#ffffff"
+|[[Bozoklu Mustafa Pasha]]
+|17 March 1693
+|March 1694
+|Turkish Ottoman, from [[Bozok]] ([[Yozgat]] today).
+|- bgcolor="#e5e5e5"
+|[[Sürmeli Ali Pasha]]
+|13 March 1694
+|22 April 1695
+|Greek Ottoman (from [[Dimetoka]]) (''Sürmeli = One who has eyes tinged with kohl'')
+|- bgcolor="#ffffff"
+|[[Elmas Mehmed Pasha]]
+|3 May 1695
+|11 September 1697
+|Turkish Ottoman (''Elmas = Diamond'')
+|- bgcolor="#e5e5e5"
+|[[Amcazade Köprülü Hüseyin Pasha]]
+|17 September 1697
+|4 September 1702
+|Turkish Ottoman ([[Köprülü family]]).
+|- bgcolor="#ffffff"
+|[[Daltaban Mustafa Pasha]]
+|4 September 1702
+|24 January 1703
+|Serbian Ottoman, according to [[Joseph von Hammer]], from [[Manastır]] (''Daltaban = Barefoot'')
+|- bgcolor="#e5e5e5"
+|[[Rami Mehmed Pasha]]
+|25 January 1703
+|22 August 1703
+|Turkish Ottoman, from Istanbul 
+|- bgcolor="#ffffff"
+|[[Kavanoz Ahmed Pasha]]
+|22 August 1703
+|16 November 1703
+|[[Russian people|Russian]] Ottoman (''Kavanoz = A jar''; named as such because purportedly very short and fat)
+|- bgcolor="#e5e5e5"
+|[[Damat Hasan Pasha]]
+|18 November 1703
+|28 September 1704
+|Turkish Ottoman, from [[Mora]] (''Damat'' = Bridegroom to the Ottoman dynasty'')
+|- bgcolor="#ffffff"
+|[[Kalaylıkoz Hacı Ahmed Pasha]]
+|October 1704
+|25 December 1704
+|? Ottoman (''Kalaylıkoz = Varnished; a reference on his fondness for make-up, ornaments and dresses'')
+|- bgcolor="#e5e5e5"
+|[[Baltacı Mehmed Pasha]] (1st time)
+|25 December 1704
+|3 May 1706
+|Turkish Ottoman, from [[Osmancık]]. 
+|- bgcolor="#ffffff"
+|[[Çorlulu Damat Ali Pasha]] 
+|3 May 1706
+|15 June 1710
+|Turkish Ottoman, from [[Çorlu]] (''Damat = Bridegroom to the [[Ottoman Dynasty|Ottoman dynasty]]'')
+|- bgcolor="#e5e5e5"
+|[[Köprülü Numan Pasha]]
+|16 June 1710
+|17 August 1710
+|Turkish Ottoman ([[Köprülü family]]).
+|- bgcolor="#ffffff"
+|[[Baltacı Mehmed Pasha]] (2nd time)
+|18 August 1710
+|20 November 1711
+|Turkish Ottoman, from [[Osmancık]].
+|- bgcolor="#e5e5e5"
+|[[Ağa Yusuf Pasha]]
+|20 November 1711
+|11 November 1712
+|Georgian Ottoman
+|- bgcolor="#ffffff"
+|[[Silahdar Süleyman Pasha]] 
+|12 November 1712
+|6 April 1713
+|Abaza Ottoman
+|- bgcolor="#e5e5e5"
+|[[Hoca İbrahim Pasha]]
+|6 April 1713
+|7 April 1713
+|Turkish Ottoman, from [[Serez]] ([[Serres]])
+|- bgcolor="#ffffff"
+|[[Silahdar Damat Ali Pasha]]
+|27 April 1713
+|5 August 1716
+|Turkish Ottoman, from [[İznik]] (''Damat'' = Bridegroom to the Ottoman dynasty)
+|- bgcolor="#e5e5e5"
+|[[Hacı Halil Pasha]]
+|21 August 1716
+|October 1717
+|[[Albanians|Albanian]] Ottoman
+|- bgcolor="#ffffff"
+|[[Nişancı Mehmed Pasha]]
+|October 1717
+|9 May 1718
+|Turkish Ottoman, from [[Kayseri]]
+|- bgcolor="#e5e5e5"
+|[[Nevşehirli Damat İbrahim Pasha]]
+|9 May 1718
+|16 October 1730
+|Turkish Ottoman, from [[Nevşehir]]. (''Damat'' = Bridegroom to the Ottoman dynasty)
+|- bgcolor="#ffffff"
+|[[Silahdar Damat Mehmed Pasha]]
+|16 October 1730
+|23 January 1731
+|Turkish Ottoman, from Istanbul (''Damat'' = Bridegroom to the [[Ottoman Dynasty|Ottoman dynasty]])
+|- bgcolor="#e5e5e5"
+|[[Kabakulak İbrahim Pasha]]
+|23 January 1731
+|11 September 1731
+|Turkish Ottoman, from [[Şebinkarahisar]] (''Kabakulak'' = Someone with mumps)
+|- bgcolor="#ffffff"
+|[[Topal Osman Pasha]]
+|21 September 1731
+|12 March 1732
+|Turkish Ottoman (''Topal'' = Lame)
+|- bgcolor="#e5e5e5"
+|[[Hekimoğlu Ali Pasha]] (1st time)
+|12 March 1732
+|14 July 1735
+|Ottoman ([[Venice|Venetian]] father, [[Turkish people|Turkish]] mother)
+|- bgcolor="#ffffff"
+|[[Gürcü İsmail Pasha]]
+|14 July 1735
+|25 December 1735
+|Georgian Ottoman (''Gürcü = Georgian'')
+|- bgcolor="#e5e5e5"
+|[[Silahdar Seyyid Mehmed Pasha]]
+|10 January 1736
+|5 August 1737
+|Turkish Ottoman, from [[Dimetoka]] 
+|- bgcolor="#ffffff"
+|[[Muhsinzade Abdullah Pasha]]
+|22 August 1737
+|19 December 1737
+|Turkish Ottoman, from [[Aleppo]]
+|- bgcolor="#e5e5e5"
+|[[Yeğen Mehmed Pasha]]
+|3 December 1737
+|23 March 1739
+|Turkish Ottoman (''Yeğen = Nephew, of the Sultan in his case'')
+|- bgcolor="#ffffff"
+|[[Hacı İvaz Mehmed Pasha]]
+|17 March 1739
+|23 June 1740
+|Albanian Ottoman
+|- bgcolor="#e5e5e5"
+|[[Nişancı Hacı Ahmed Pasha]]
+|22 July 1740
+|7 April 1742
+|Turkish Ottoman, from [[Alanya]]
+|- bgcolor="#ffffff"
+|[[Hekimoğlu Ali Pasha]] (2nd time)
+|21 April 1742
+|4 October 1742
+|Ottoman ([[Venice|Venetian]] father, [[Turkish people|Turkish]] mother)
+|- bgcolor="#e5e5e5"
+|[[Seyyid Hasan Pasha]]
+|4 October 1742
+|10 August 1746
+|Turkish Ottoman, from [[Karahisar]] ([[Şebinkarahisar]] today)
+|- bgcolor="#ffffff"
+|[[Tiryaki Hacı Mehmed Pasha]]
+|11 August 1746
+|24 August 1747
+|Turkish Ottoman (''Tiryaki= Someone who has an addiction, to tobacco, opium, alcohol etc.''). Reputed to have taken measures which made the prices of these substances plummet during his office. 
+|- bgcolor="#e5e5e5"
+|[[Seyyid Abdullah Pasha]]
+|24 August 1747
+|2 January 1750
+|Turkish Ottoman, from [[Kerkük]] 
+|- bgcolor="#ffffff"
+|[[Divitdar Mehmed Pasha]]
+|9 January 1750
+|1 July 1752
+|Turkish Ottoman, from Istanbul 
+|- bgcolor="#e5e5e5"
+|[[Köse Bahir Mustafa Pasha]] (1st time)
+|1 July 1752
+|16 February 1755
+|Turkish Ottoman, from [[Çorlu]] (''Köse = A bowl, someone with no beard'')
+|- bgcolor="#ffffff"
+|[[Hekimoğlu Ali Pasha]] (3rd time)
+|16 February 1755
+|19 May 1755
+|Ottoman ([[Venitian]] father, [[Turkish people|Turkish]] mother)
+|- bgcolor="#e5e5e5"
+|[[Naili Abdullah Pasha]]
+|19 May 1755
+|24 August 1755
+|Turkish Ottoman, from Istanbul
+|- bgcolor="#ffffff"
+|[[Nişancı Ali Pasha]]
+|24 August 1755
+|23 October 1755
+|Albanian Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Yirmisekizzade Mehmed Said Pasha]]
+|25 October 1755
+|1 April 1756
+|Turkish Ottoman, from [[Edirne]] (''Yirmisekiz = Twenty-eight; named as such because his father, [[Yirmisekiz Mehmed Çelebi]], had served in the 28th battalion ("orta") in the corps of [[Janissaries]]'')
+|- bgcolor="#ffffff"
+|[[Köse Bahir Mustafa Pasha]] (2nd time)
+|30 April 1756
+|3 December 1756
+|Turkish Ottoman, from [[Çorlu]] (''Köse = A bowl, someone with no beard'')
+|- bgcolor="#e5e5e5"
+|[[Koca Mehmed Ragıp Pasha]]
+|12 January 1757
+|8 April 1763
+|Turkish Ottoman, from Istanbul
+|- bgcolor="#ffffff"
+|[[Tevkii Hamza Hamid Pasha]]
+|11 April 1763
+|29 September 1763
+|Turkish Ottoman, from [[Develi]]
+|- bgcolor="#e5e5e5"
+|[[Köse Bahir Mustafa Pasha]] (3rd time)
+|29 September 1763
+|30 March 1765
+|Turkish Ottoman, from [[Çorlu]] 
+|- bgcolor="#ffffff"
+|[[Muhsinzade Mehmed Pasha]] (1st time)
+|30 March 1765
+|7 August 1768
+|Turkish Ottoman, son of [[Muhsinzade Abdullah Pasha]]
+|- bgcolor="#e5e5e5"
+|[[Silahdar Hamza Mahir Pasha]]
+|7 August 1768
+|20 October 1768
+|Turkish Ottoman, from [[Develi]]
+|- bgcolor="#ffffff"
+|[[Yağlıkçızade Mehmed Emin Pasha]]
+|October 1768
+|12 August 1769
+|Turkish Ottoman, from Istanbul
+|- bgcolor="#e5e5e5"
+|[[Moldovancı Ali Pasha]]
+|12 August 1769
+|12 December 1769
+|Turkish Ottoman, from [[Daday]]
+|- bgcolor="#ffffff"
+|[[İvazzade Halil Pasha]]
+|13 December 1769
+|25 December 1770
+|Turkish Ottoman (son of [[İvaz Mehmed Pasha]])
+|- bgcolor="#e5e5e5"
+|[[Silahdar Mehmed Pasha]]
+|25 December 1770
+|11 December 1771
+|Turkish Ottoman, from Istanbul
+|- bgcolor="#ffffff"
+|[[Muhsinzade Mehmed Pasha]] (2nd time)
+|December 1771
+|6 August 1773
+|Turkish Ottoman
+|- bgcolor="#e5e5e5"
+|[[İzzet Mehmed Pasha]] (1st time)
+|11 August 1773
+|7 July 1775
+|Turkish Ottoman, from [[Safranbolu]].
+|- bgcolor="#ffffff"
+|[[Moralı Dervish Mehmed Pasha]]
+|7 July 1775
+|5 January 1777
+|Turkish Ottoman (from ''[[Mora]] = The [[Peloponnese]]'') 
+|- bgcolor="#e5e5e5"
+|[[Darendeli Cebecizade Mehmed Pasha]]
+|5 January 1777
+|1 September 1778
+|Turkish Ottoman, from [[Darende]].
+|- bgcolor="#ffffff"
+|[[Kalafat Mehmed Pasha]]
+|1 September 1778
+|22 August 1779
+|[[Bulgarians|Bulgarian]] Ottoman, from [[Sofia]] (''Kalafat = Caulker''). 
+|- bgcolor="#e5e5e5"
+|[[Silahdar Seyyid Mehmed Pasha]] or [[Karavezir Seyyid Mehmed Pasha]]
+|August 1779
+|20 February 1781
+|Turkish Ottoman, from [[Arabsun]] near [[Kırşehir]]
+|- bgcolor="#ffffff"
+|[[İzzet Mehmed Pasha]] (2nd time)
+|20 February 1781
+|25 August 1782
+|Turkish Ottoman, from [[Safranbolu]].
+|- bgcolor="#e5e5e5"
+|[[Yeğen Hacı Mehmed Pasha]]
+|25 August 1782
+|31 December 1782
+|Turkish Ottoman (''Yeğen = Nephew, to the Ottoman sultan in his case'').
+|- bgcolor="#ffffff"
+|[[Halil Hamid Pasha]]
+|31 December 1782
+|30 April 1785
+|Turkish Ottoman, from [[Isparta]]. Great-grandfather of [[Kemal Derviş]], current administrator of the [[UNDP]].
+|- bgcolor="#e5e5e5"
+|[[Şahin Ali Pasha]]
+|30 April 1785
+|25 January 1786
+|most probably Georgian Ottoman
+|- bgcolor="#ffffff"
+|[[Koca Yusuf Pasha]] (1st time)
+|25 January 1786
+|28 May 1789
+|Georgian Ottoman
+|- bgcolor="#e5e5e5"
+|[[Cenaze Hasan Pasha]] or [[Meyyit Hasan Pasha]] 
+|28 May 1789
+|2 January 1790
+|Circassian Ottoman (''"Cenaze" or "Meyyit" = A funeral, a corpse; literally "Hasan Pasha the Funeral" or "Hasan Pasha the Corpse"; named as such because he was in his deathbed, seriously ill, all along his office)
+|- bgcolor="#ffffff"
+|[[Cezayirli Gazi Hasan Pasha]]
+|2 January 1790
+|30 March 1790
+|Turkish Ottoman, possibly with origins related to any which one of the [[Caucasus (geographic region)|Caucasian]]/[[Iranian peoples|Iranian]] ethnicities, bought as a slave in childhood in eastern Turkey, raised by [[Turkish people|Turkish]] family in [[Tekirdağ]]. His name Cezayirli means ''from Algiers'' since he had been a [[corsair]] there.
+|- bgcolor="#e5e5e5"
+|[[Çelebizade Şerif Hasan Pasha]]
+|16 April 1790
+|12 February 1791
+|Turkish people Ottoman, from [[Rusçuk]].
+|- bgcolor="#ffffff"
+|[[Koca Yusuf Pasha]] (2nd time)
+|12 February 1791
+|1792
+|Georgian Ottoman
+|- bgcolor="#e5e5e5"
+|[[Damat Melek Mehmed Pasha]]
+|1792
+|21 October 1794
+|Bosniak Ottoman (''Damat = Bridegroom to the Ottoman dynasty'')
+|- bgcolor="#ffffff"
+|[[İzzet Mehmed Pasha]] (3rd time)
+|21 October 1794
+|23 October 1798
+|Turkish Ottoman, from [[Safranbolu]].
+|- bgcolor="#e5e5e5"
+|[[Kör Yusuf Ziyaüddin Pasha]] (1st time)
+|23 October 1798
+|24 June 1805
+|Turkish Ottoman (''Kör = Blind'')
+|- bgcolor="#ffffff"
+|[[Bostancıbaşı Hafız İsmail Pasha]]
+|24 September 1805
+|13 October 1806
+|Turkish Ottoman
+|- bgcolor="#e5e5e5"
+|[[Keçiboynuzu İbrahim Hilmi Pasha]]
+|13 October 1806
+|3 June 1807
+|Turkish Ottoman (''Keçiboynuzu = Carob fruit'', named as such because purportedly an extremely puny person) 
+|- bgcolor="#ffffff"
+|[[Çelebi Mustafa Pasha]]
+|3 June 1807
+|29 July 1808
+|Turkish Ottoman (''Çelebi = A refined gentleman with good manners'')
+|- bgcolor="#e5e5e5"
+|[[Alemdar Mustafa Pasha]], also called ([[Bayrakdar Mustafa Pasha]])
+|29 July 1808
+|15 November 1808
+|Turkish Ottoman, from [[Rusçuk]]. (''Alemdar'' or ''Bayraktar'' = standard bearer, same rank with two different names among the [[Janissaries]])
+|- bgcolor="#ffffff"
+|[[Çavuşbaşı Memiş Pasha]]
+|16 November 1808
+|December 1808
+|[[Albanians|Albanian]] Ottoman (''Çavuşbaşı = Head sergent'')
+|- bgcolor="#e5e5e5"
+|[[Çarhacı Ali Pasha]]
+|December 1808
+|March 1809
+|Turkish Ottoman (''Çarhacı = Skirmisher'')
+|- bgcolor="#ffffff"
+|[[Kör Yusuf Ziyaüddin Pasha]] (2nd time)
+|March 1809
+|February 1811
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Laz Ahmed Pasha]]
+|February 1811
+|July 1812
+|[[Laz people|Laz]] Ottoman 
+|- bgcolor="#ffffff"
+|[[Hurşid Ahmed Pasha]]
+|July 1812
+|30 March 1815
+|Turkish Ottoman, the only grand vizier who committed [[suicide]] (while in office) 
+|- bgcolor="#e5e5e5"
+|[[Mehmed Emin Rauf Pasha]] (1st time)
+|30 March 1815
+|6 January 1818
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Burdurlu Dervish Mehmed Pasha]]
+|6 January 1818
+|5 January 1820
+|Turkish Ottoman, from [[Burdur]] 
+|- bgcolor="#e5e5e5"
+|[[Seyyid Ali Pasha]]
+|5 January 1820
+|21 April 1821
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Benderli Ali Pasha]]
+|21 April 1821
+|30 April 1821
+| [[Turkish people|Turkish]] Ottoman, from [[Bender, Moldova|Bender]] ([[Moldavia]] today). The last grand vizier who was executed upon an order clearly given by the sultan (because of the [[Greek War of Independence]]). 
+|- bgcolor="#e5e5e5"
+|[[Hacı Salih Pasha]]
+|30 April 1821
+|11 November 1822
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Deli Abdullah Pasha]]
+|11 November 1822
+|4 March 1823
+|Turkish Ottoman (''Deli = Mad, literally Abdullah Pasha the Mad'')
+|- bgcolor="#e5e5e5"
+|[[Turnacızade Silahdar Ali Pasha]]
+|4 March 1823
+|December 1823
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Mehmed Said Galip Pasha]]
+|December 1823
+|15 September 1824
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Benderli Mehmed Selim Sırrı Pasha]]
+|15 September 1824
+|26 October 1828
+|Turkish Ottoman, from [[Bender, Moldova|Bender]] ([[Moldavia]] today)
+|- bgcolor="#ffffff"
+|[[Darendeli Topal İzzet Mehmed Pasha]] (1st time)
+|26 October 1828
+|January 1829
+|Turkish Ottoman, from [[Darende]].
+|- bgcolor="#e5e5e5"
+|[[Reşid Mehmed Pasha]]
+|January 1829
+|17 February 1833
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Mehmed Emin Rauf Pasha]] (2nd time)
+|17 February 1833
+|8 July 1839
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Koca Mehmed Hüsrev Pasha]]
+|8 July 1839
+|29 May 1841
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Mehmed Emin Rauf Pasha]] (3rd time)
+|29 May 1841
+|7 October 1841
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Darendeli Topal İzzet Mehmed Pasha]] (2nd time)
+|7 October 1841
+|3 September 1842
+|Turkish Ottoman, from Darende 
+|- bgcolor="#ffffff"
+|[[Mehmed Emin Rauf Pasha]] (4th time)
+|3 September 1842
+|31 July 1846
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Koca Mustafa Reşid Pasha]] (1st time)
+|31 July 1846
+|28 April 1848
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[İbrahim Sarim Pasha]]
+|28 April 1848
+|13 August 1848
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Koca Mustafa Reşid Pasha]] (2nd time)
+|13 August 1848
+|27 January 1852
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Mehmed Emin Rauf Pasha]] (5th time)
+|27 January 1852
+|7 March 1852
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Koca Mustafa Reşit Pasha]] (3rd time)
+|7 March 1852
+|7 August 1852
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Mehmed Emin Aali Pasha]] (1st time)
+|7 August 1852
+|4 October 1852
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Damat Mehmed Ali Pasha]]
+|4 October 1852
+|14 May 1853
+|[[Hamshenis|Hamsheni]] Ottoman (''Damat=Bridegroom to the Ottoman Dynasty'').
+|- bgcolor="#ffffff"
+|[[Giritli Mustafa Naili Pasha]] (1st time)
+|14 May 1853
+|30 May 1854
+|[[Albanians|Albanian]] Ottoman, from [[Egypt]], called ''Giritli=Cretan'' because he had served as governor in that island for a long time.
+|- bgcolor="#e5e5e5"
+|[[Kıbrıslı Mehmed Emin Pasha]] (1st time)
+|30 May 1854
+|24 November 1854
+|Turkish Ottoman, from [[Cyprus]] 
+|- bgcolor="#ffffff"
+|[[Koca Mustafa Reşid Pasha]] (4th time)
+|24 November 1854
+|4 May 1855
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Mehmed Emin Aali Pasha]] (2nd time)
+|4 May 1855
+|1 December 1856
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Koca Mustafa Reşid Pasha]] (5th time)
+|1 December 1856
+|2 August 1857
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Giritli Mustafa Naili Pasha]] (2nd time)
+|2 August 1857
+|23 October 1857
+|[[Albanians|Albanian]] Ottoman
+|- bgcolor="#ffffff"
+|[[Koca Mustafa Reşid Pasha]] (6th time)
+|23 October 1857
+|7 January 1858
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Mehmed Emin Aali Pasha]] (3rd time)
+|11 January 1858
+|8 October 1859
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Kıbrıslı Mehmed Emin Pasha]] (2nd time)
+|8 October 1859
+|24 December 1859
+|Turkish Ottoman, from Cyprus
+|- bgcolor="#e5e5e5"
+|[[Mütercim Mehmed Rüşdi Pasha]] (1st time)
+|24 December 1859
+|27 May 1860
+|Turkish Ottoman (''Mütercim'' = A translator, an interpreter'')
+|- bgcolor="#ffffff"
+|[[Kıbrıslı Mehmed Emin Pasha]] (3rd time)
+|27 May 1860
+|6 August 1861
+|Turkish Ottoman, from Cyprus
+|- bgcolor="#e5e5e5"
+|[[Mehmed Emin Aali Pasha]] (4th time)
+|6 August 1861
+|22 November 1861
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Keçecizade Mehmet Fuat Pasha]] (1st time)
+|22 November 1861
+|6 January 1863
+|Turkish Ottoman, from [[Konya]] ([[Keçecizade family]]). 
+|- bgcolor="#e5e5e5"
+|[[Yusuf Kamil Pasha]]
+|6 January 1863
+|3 June 1863
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Keçecizade Mehmet Fuat Pasha]] (2nd time)
+|3 June 1863
+|5 June 1866
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Mütercim Mehmed Rüşdi Pasha]] (2nd time)
+|5 June 1866
+|11 February 1867
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Mehmed Emin Aali Pasha]] (5th time)
+|11 February 1867
+|7 September 1871
+|Turkish Ottoman
+|- bgcolor="#e5e5e5"
+|[[Mahmud Nedim Pasha]] (1st time)
+|September 1871
+|31 July 1872
+|Turkish Ottoman, , was often called ''Nedimoff'' due to his [[Russophile]] policies
+|- bgcolor="#ffffff"
+|[[Mithat Pasha]] (1st time)
+|31 July 1872
+|19 October 1872
+|Turkish Ottoman, family from [[Rusçuk]], born in Istanbul. 
+|- bgcolor="#e5e5e5"
+|[[Mütercim Mehmed Rüşdi Pasha]] (3rd time)
+|Octubre 1872
+|February 1873
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Sakızlı Ahmed Esat Pasha]] (1st time)
+|15 February 1873
+|May 1873
+|Turkish Ottoman, from [[Sakız]]/[[Chios]]
+|- bgcolor="#e5e5e5"
+|[[Şirvanlı Mehmed Rüşdi Pasha]]
+|May 1873
+|14 February 1874
+|Turkish or [[Kurdish people|Kurdish]] Ottoman, from [[Şirvan]].
+|- bgcolor="#ffffff"
+|[[Hüseyin Avni Pasha]]
+|14 February 1874
+|25 April 1875
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Sakızlı Ahmed Esat Pasha]] (2nd time)
+|April 1875
+|August 1875
+|Turkish Ottoman, from [[Sakız]] ([[Chios]])
+|- bgcolor="#ffffff"
+|[[Mahmud Nedim Pasha]] (2nd time)
+|21 August 1875
+|13 April 1876
+|Turkish Ottoman
+|- bgcolor="#e5e5e5"
+|[[Mütercim Mehmed Rüşdi Pasha]] (4th time)
+|April 1876
+|19 December 1876
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Mithat Pasha]] (2nd time)
+|19 December 1876
+|5 February 1877
+|Turkish Ottoman. The last grand vizier who was executed -while in exile in [[Taif]]-. Whether or not there was a direct order from the Sultan [[Abdulhamid II]] remains subject of discussion to this day.) 
+|- bgcolor="#e5e5e5"
+|[[İbrahim Edhem Pasha]]
+|5 February 1877
+|11 January 1878
+|[[Turkification|Turkified]] [[Greek people|Greek]] Ottoman, from [[Chios]]/[[Sakız]]; sold as a slave in childhood to -later- Grand Vizier [[Koca Mehmed Hüsrev Pasha]] during the 1822 events in that island)
+|- bgcolor="#ffffff"
+|[[Ahmed Hamdi Pasha]]
+|11 January 1878
+|4 February 1878
+|Turkish Ottoman
+|- bgcolor="#e5e5e5"
+|[[Ahmed Vefik Pasha]]
+|4 February 1878
+|18 April 1878
+|Turkish Ottoman, from Istanbul.
+|- bgcolor="#ffffff"
+|[[Mehmed Sadık Pasha]]
+|18 April 1878
+|May 1878
+|Turkish Ottoman
+|- bgcolor="#e5e5e5"
+|[[Mütercim Mehmed Rüşdi Pasha]] (5th time)
+|May 1878
+|June 1878
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Mehmed Esad Saffet Pasha]]
+|May 1878
+|October 1878
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Tunuslu Hayreddin Pasha]]
+|October 1878
+|28 July 1879
+|[[Tunisia]]n Ottoman 
+|- bgcolor="#ffffff"
+|[[Ahmed Arifi Pasha]]
+|28 July 1879
+|September 1879
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Küçük Mehmed Said Pasha]] (1st time)
+|18 October 1879
+|9 June 1880
+|Turkish Ottoman (''Küçük = Small; literally Mehmed Pasha the Small'', at 1m47, the shortest grand vizier) 
+|- bgcolor="#ffffff"
+|[[Cenani Mehmed Kadri Pasha]] 
+|9 June 1880
+|12 September 1880
+|Turkish Ottoman, from [[Antep]]
+|- bgcolor="#e5e5e5"
+|[[Küçük Mehmed Said Pasha]] (2nd time)
+|12 September 1880
+|2 May 1882
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Abdurrahman Nureddin Pasha]] 
+|2 May 1882
+|12 July 1882
+|Turkish Ottoman, from [[Kütahya]] ([[Germiyan]] family) 
+|- bgcolor="#e5e5e5"
+|[[Küçük Mehmed Said Pasha]] (3rd time)
+|12 July 1882
+|30 November 1882
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Ahmed Vefik Pasha]] (2nd time)
+|1 December 1882
+|3 December 1882
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Küçük Mehmed Said Pasha]] (4th time)
+|3 December 1882
+|24 September 1885
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Kıbrıslı Mehmed Kamil Pasha]] (1st time)
+|September 1885
+|September 1891
+|Turkish Ottoman, from [[Cyprus]]. 
+|- bgcolor="#e5e5e5"
+|[[Ahmed Cevat Şakir Pasha]]
+|September 1891
+|June 1895
+|Turkish Ottoman, from [[Kabaağaç]] in [[Afyonkarahisar]] ([[Şakirpaşazade family]]) 
+|- bgcolor="#ffffff"
+|[[Küçük Mehmed Said Pasha]] (5th time)
+|9 June 1895
+|3 October 1895
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Kıbrıslı Mehmed Kamil Pasha]] (2nd time)
+|October 1895
+|November 1895
+|Turkish Ottoman, from Cyprus. 
+|- bgcolor="#ffffff"
+|[[Halil Rifat Pasha]]
+|November 1895
+|9 November 1901
+|Turkish Ottoman, from [[Serres, Greece|Serez]] 
+|- bgcolor="#e5e5e5"
+|[[Küçük Mehmed Said Pasha]] (6th time)
+|13 November 1901
+|15 January 1903
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Avlonyalı Mehmed Ferid Pasha]]
+|15 January 1903
+|July 1908
+|Albanian Ottoman, from [[Avlonya]] ([[Vlore]])
+|- bgcolor="#e5e5e5"
+|[[Küçük Mehmed Said Pasha]] (6th time)
+|22 July 1908
+|6 August 1908
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Kıbrıslı Mehmed Kamil Pasha]] (3rd time)
+|August 1908
+|February 1909
+|Turkish Ottoman, from Cyprus
+|- bgcolor="#e5e5e5"
+|[[Ahmed Tevfik Pasha]] (1st time)
+|31 March 1909
+|May 1909
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Hüseyin Hilmi Pasha]]
+|May 1909
+|January 1910
+|Turkish Ottoman, from [[Midilli]] 
+|- bgcolor="#e5e5e5"
+|[[İbrahim Hakkı Pasha]]
+|12 January 1910
+|29 September 1911
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Küçük Mehmed Said Pasha]] (7th time)
+|4 October 1911
+|17 July 1912
+|Turkish Ottoman 
+|- bgcolor="#e5e5e5"
+|[[Ahmed Muhtar Pasha]]
+|22 July 1912
+|29 October 1912
+|Turkish Ottoman, from [[Bursa]] 
+|- bgcolor="#ffffff"
+|[[Kıbrıslı Mehmed Kamil Pasha]] (4th time)
+|October 1912
+|23 January 1913
+|Turkish Ottoman, from Cyprus 
+|- bgcolor="#e5e5e5"
+|[[Mahmud Şevket Pasha]]
+|23 January 1913
+|11 June 1913
+|Turkish Ottoman, from [[Baghdad]] 
+|- bgcolor="#ffffff"
+|[[Said Halim Pasha]]
+|12 June 1913
+|3 February 1917
+|[[Egypt]]ian Ottoman of Albanian origins (from the family of the [[Khedives of Egypt]])
+|- bgcolor="#e5e5e5"
+|[[Mehmed Talat Pasha]]
+|4 February 1917
+|8 October 1918
+|Turkish Ottoman, from [[Edirne]] 
+|- bgcolor="#ffffff"
+|[[Ahmed İzzet Pasha]]
+|14 October 1918
+|8 November 1918
+|Turkish Ottoman, from Istanbul 
+|- bgcolor="#e5e5e5"
+|[[Ahmed Tevfik Pasha]] (2nd time)
+|11 November 1918
+|10 March 1919
+|Turkish Ottoman 
+|- bgcolor="#ffffff"
+|[[Damat Ferid Pasha]] (1st time)
+|10 March 1919
+|4 October 1919
+|[[Montenegrins|Montenegrin]]/[[Serbs|Serbian]] Ottoman with family origins in the village of [[Potoci]], near [[Pljevlja]] (''Damat'', bridegroom to the [[Ottoman Dynasty|Ottoman dynasty]])
+|- bgcolor="#e5e5e5"
+|[[Ali Rıza Pasha]]
+|6 October 1919
+|2 March 1920
+|Turkish Ottoman, from Istanbul 
+|- bgcolor="#ffffff"
+|[[Hulusi Salih Pasha]]
+|8 March 1920
+|2 April 1920
+|Turkish Ottoman, from Istanbul
+|- bgcolor="#e5e5e5"
+|[[Damat Ferid Pasha]] (2nd time)
+|5 April 1920
+|18 October 1920
+|Montenegrin/Serbian Ottoman with family origins in the village of [[Potoci]], near [[Pljevlja]] (''Damat'', bridegroom to the [[Ottoman Dynasty|Ottoman dynasty]])
+|- bgcolor="#ffffff"
+|[[Ahmed Tevfik Pasha]] (3rd time)
+|21 October 1920
+|17 November 1922
+|Turkish Ottoman, last grand vizier
+|}
+|}
+</center>
+
+== Notes ==
+{{reflist|2}}
+
+== References ==
+* Finkel, C., ''Osman's Dream: The History of the Ottoman Empire'', 2005, Basic Books
+
+==See also==
+* [[Ottoman Empire]]
+* [[List of Ottoman Kaptan Pashas]]
+
+==External links and references==
+* [http://www.devletarsivleri.gov.tr/yayin/osmanli/rehber_osm/209_1_ek1.htm Turkish State Archives (1281-1406)] (in Turkish)
+* [http://www.devletarsivleri.gov.tr/yayin/osmanli/rehber_osm/209_2.htm Turkish State Archives (1413-1616)] (in Turkish)
+* [http://www.devletarsivleri.gov.tr/yayin/osmanli/rehber_osm/209_3.htm Turkish State Archives (1616-1689)] (in Turkish)
+* [http://www.devletarsivleri.gov.tr/yayin/osmanli/rehber_osm/209_4.htm Turkish State Archives (1691-1807)] (in Turkish)
+* [http://www.devletarsivleri.gov.tr/yayin/osmanli/rehber_osm/209_5.htm Turkish State Archives (1807-1876)] (in Turkish)
+* [http://www.devletarsivleri.gov.tr/yayin/osmanli/rehber_osm/209_6.htm Turkish State Archives (1876-1922)] (in Turkish)
+* [http://www.hostkingdom.net/turkey.html#Grand%20Viziers Regnal Chronologies: Full list of Ottoman Grand Viziers]
+
+{{Grand Viziers of Ottoman Empire}}
+
+{{DEFAULTSORT:Viziers, List of Ottoman Grand}}
+[[Category:Grand Viziers of the Ottoman Empire|*]]
+[[Category:Pashas|*]]
+[[Category:Lists of office-holders|Ottoman Empire]]
+[[Category:Turkey-related lists|Ottoman Grand Viziers]]
+
+[[ca:Gran visir otomà]]
+[[de:Liste der Großwesire des Osmanischen Reiches]]
+[[el:Κατάλογος Μεγάλων Βεζίρηδων]]
+[[it:Lista dei Gran Vizir ottomani]]
+[[lv:Osmaņu lielvezīru saraksts]]
+[[pl:Lista tureckich wielkich wezyrów]]
+[[ru:Список визирей Османской империи]]
+[[sq:Lista e vezirëve të Perandorisë Osmane]]
+[[simple:List of Ottoman Grand Viziers]]
+[[sr:Списак великих везира]]
+[[fi:Luettelo Osmanien valtakunnan suurvisiireistä]]
+[[tr:Osmanlı Sadrazamları listesi]]

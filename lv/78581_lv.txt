@@ -1,0 +1,97 @@
+[[Attēls:Fractal Broccoli.jpg|thumb|250px|Fraktālim līdzīga [[puķukāposti|puķukāpostu]] ([[brokoļi|brokoļu]]) šķirne]]
+'''Fraktālis''' ({{val-fr|fractal}}, no {{val-la|fractus}} - sašķelts, sadalīts) ir [[ģeometriska figūra]], kura sastāv no vairākām (principā [[bezgalība|bezgalīgi]] daudzām) daļām, kas ir līdzīgas visai figūrai kopumā. Var teikt, ka fraktāļiem piemīt pašlīdzība.<ref>[http://www.politeh.lv/fraktali/10.html Fraktāļi]</ref> Fraktāļus var iegūt, atkārtoti dalot kādu figūru vai [[virsma|virsmu]] aizvien sīkākās daļās.  Plašākā nozīmē fraktāļi ir [[punkts (ģeometrija)|punktu]] [[kopa]]s [[Eiklīda telpa|Eiklīda telpā]], kurām [[dimensija|dimensiju]] skaits nav vesels skaitlis.
+
+Jēdzienu "Fraktālis" mēdz lietot, ja apskatāmajai figūrai piemīt kāda no šādām īpašībām:
+
+* jebkurā mērogā figūras struktūra ir "netriviāla". Piemēram, apskatot lielā palielinājumā kādas regulāras figūras ([[riņķis|riņķa līnijas]], [[elipse]]s, nepārtrauktas [[funkcija]]s grafika u.c.) fragmentu, tas būs līdzīgs [[taisne]]s gabaliņam. Fraktālis  jebkurā mērogā ir vienādi sarežģīts un palielināšana nekādi to nevienkāršo;
+* figūra, tās daļas un daļu daļas ir līdzīgas vai aptuveni līdzīgas figūrai kopumā;
+* figūrai ir daļveida metriskā dimensija vai arī tās metriskā dimensija ir lielāka par [[topoloģija|topoloģisko]] dimensiju;
+* figūru var iegūt ar [[rekursija|rekursīvas]] procedūras palīdzību.
+
+Daudziem dabā sastopamiem objektiem ir fraktāļveida uzbūve (krastu līnijām, [[mākoņi]]em, [[koks|koku]] zaru vainagiem, [[dzīvnieki|dzīvnieku]] un [[cilvēks|cilvēka]] [[asinsrites sistēma]]i vai [[plaušas|plaušu]] [[alveola|alveolu]] sazarojumiem).
+
+[[Attēls:Von Koch curve.gif|thumb|250px|Viena no fraktāļiem, tā saucamās Koha sniegpārsliņas, pakāpeniska iegūšana]]
+Fraktāļi ir populāri objekti mākslā un izklaidē sava skaistuma un vienlaicīgas vienkāršības dēļ. Tos var viegli izveidot datora ekrānā ar samērā vienkāršu programmu palīdzību.
+
+== Definīcija ==
+
+Eksistē definīcija, kurai atbilst liela daļa fraktāļu (tomēr ne visi). Definīcija sastāv no trīs punktiem.<br />
+1. Figūrai <math>F</math> piemīt iekšējā simetrija, ja to ir iespējams sagriezt galīgā skaitā tādu figūru, kuras visas ir līdzīgas <math>F</math>.<br />
+2. Ja kādu figūru <math>F</math>, kurai piemīt iekšējā simetrija, var sagriezt <math>n</math> vienādās figūrās, kuras visas ir līdzīgas <math>F</math> un katra ir <math>k</math> reizes mazāka par <math>F</math>, tad attiecību
+:<math>d = log_{k} n = frac{ln n}{ln k}</math>
+sauc par figūras <math>F</math> [[fraktālā dimensija|fraktālo dimensiju]].<br />
+3. Figūras kurām fraktālā dimensija nav vesels skaitlis, sauc par fraktāļiem.
+
+== Skatīt arī ==
+
+* [[Mandelbrota kopa]],
+* [[Koha līkne]],
+* [[Vaclavs Serpiņskis|Serpiņska trijstūri]],
+* [[Peano līkne]],
+* [[Kantora putekļi]].
+
+== Literatūra ==
+
+* [http://www.lu.lv/terra/2007/resursi/nov_dec.pdf Terra, 2007, Nr.6, 27.lpp. Fraktāļi - nākotnes ģeometrija?]
+* [http://ankh.id.lv/labumi/frac_ref.doc Fraktālā māksla]
+
+== Atsauces ==
+
+{{atsauces}}
+
+{{commons|Fractal|Fraktāļi}}
+
+{{matemātika-aizmetnis}}
+
+[[Kategorija:Fraktāļi]]
+
+[[af:Fraktaalmeetkunde]]
+[[als:Fraktal]]
+[[ar:هندسة كسيرية]]
+[[bg:Фрактал]]
+[[bn:ফ্রাক্টাল]]
+[[bs:Fraktal]]
+[[ca:Fractal]]
+[[cs:Fraktál]]
+[[da:Fraktal]]
+[[de:Fraktal]]
+[[el:Φράκταλ]]
+[[en:Fractal]]
+[[eo:Fraktalo]]
+[[es:Fractal]]
+[[fa:برخال]]
+[[fi:Fraktaali]]
+[[fr:Fractale]]
+[[gl:Fractal]]
+[[he:פרקטל]]
+[[hr:Fraktal]]
+[[hu:Fraktál]]
+[[ia:Fractal]]
+[[id:Fraktal]]
+[[io:Fraktalo]]
+[[it:Frattale]]
+[[ja:フラクタル]]
+[[ka:ფრაქტალი]]
+[[ko:프랙탈]]
+[[la:Fractales]]
+[[lt:Fraktalas]]
+[[nl:Fractal]]
+[[no:Fraktal]]
+[[pl:Fraktal]]
+[[pt:Fractal]]
+[[ro:Fractal]]
+[[ru:Фрактал]]
+[[scn:Studiu dei frattali]]
+[[sh:Fraktal]]
+[[simple:Fractal geometry]]
+[[sk:Fraktál]]
+[[sl:Fraktal]]
+[[sr:Фрактал]]
+[[sv:Fraktal]]
+[[ta:பகுவல்]]
+[[th:แฟร็กทัล]]
+[[tr:Fraktal]]
+[[uk:Фрактал]]
+[[ur:Fractal]]
+[[vi:Phân dạng]]
+[[zh:分形]]

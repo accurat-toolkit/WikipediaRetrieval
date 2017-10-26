@@ -1,0 +1,110 @@
+{{Infobox Military Person
+|name=Oskars Kalpaks
+|lived=6 January 1882 &ndash; 6 March 1919
+|placeofbirth=Meirānu county, [[Madona District]], [[Latvia]]
+|placeofdeath="Airītes", Zirņu county, [[Saldus District]], [[Latvia]]
+|image=[[Image:Oskars Kalpaks.jpg|200px]]
+<!-- |caption= -->
+<!-- |nickname= -->
+|allegiance=
+[[Russian Empire|Imperial Russia]]
+[[Republic of Latvia]]
+|serviceyears=18 January 1903 &ndash; 6 March 1919
+|rank=[[Lieutenant Colonel]] ([[Russian Military Ranks|''podpalkovnik'']]), [[Imperial Russian Army]]
+[[Colonel]], [[Military of Latvia|National Armed Forces of Latvia]]
+|commands=1st Latvian Independent Battalion
+|unit=183rd Pultusk Infantry Regiment
+1st Latvian Independent Battalion ("Independence battalion")
+<!-- |battles= -->
+|awards=[[Cross of St. George]], IV degree
+[[Order of St. Anna]], IV degree
+[[Order of the Bearslayer|Lacplesis Military Order]], I Class ([[Posthumous recognition|posthumously]])
+<!-- |relations= -->
+<!-- |laterwork= -->
+}}
+'''Oskars Kalpaks''' ([[January 6]], [[1882]]&ndash;[[March 6]], [[1919]]) was the commander of [[1st Latvian Independent Battalion]], also known as "Kalpaks Battalion". 
+
+Kalpaks was born to a farming family.  Having decided to become a soldier he completed [[Irkutsk]] military school and then commenced service with the 183rd Pultusk Infantry Regiment.  He displayed talent as a commander and heroism in battle during the [[First World War]] and was awarded the most significant Russian military decorations and made Regiment Commander in 1917.
+
+Afer the proclamation of Latvia's independence on [[18 November]] [[1918]], Kalpaks enlisted with the Ministry of Defence.  He organised the defence of [[Vidzeme]] against [[Bolshevik]] attacks.  On [[31 December]] Kalpaks became Commander-in-Chief of all the armed units at the disposal of the Provisional Government of Latvia.  
+
+Under his leadership, Latvia's first armed formations became battle capable.  On [[28 February]] [[1919]], Kalpaks was awarded the rank of Colonel.  From January to March 1919 the 1st Latvian Battalion repelled the Bolshevik raids into Kurzeme and this was the start of Latvia's struggle for liberation.  On [[6 March]] [[1919]] near Airītes, Kalpaks was killed in a skirmish with [[Freikorps in the Baltic|German Freikorps]] troops.  
+
+After his death, Kalpaks was posthumously awarded Latvia's highest military award, '[[Order of Lāčplēsis]] I III Class'. {{Clarifyme|date=February 2009}}
+
+Although never officially assigned to this rank or position<ref>Pursuant to order of Minister of Defense of Latvian Provisional government, on December 31, 1918 Lieutenant Colonel Kalpaks was assigned commander of all Latvian forces subordinated to Headquarters of [[Baltische Landeswehr|Baltic Landeswehr]].
+
+</br> {{cite journal
+  | last = Mugurēvičš
+  | first = Ē.
+  | authorlink =
+  | coauthors =
+  | title = Leģenda un vēsturiskā īstenība: Pulkveža Oskara Kalpaka (1882.-1919.) dzīves ceļš un cīņu gaitas.
+  | journal = Dzimtenes Balss
+  | volume = Nr.20
+  | issue =
+  | pages = 6
+  | publisher =
+  | year = 1989
+  | url = http://www.historia.lv/alfabets/K/ka/kalpaks/raksti/mugurevic.htm
+  | doi =
+  | id =
+  | accessdate = }}</br>
+{{cite journal
+  | last = Memoirs of Balodis J. 
+  | first = Gen.(ret.)
+  | authorlink =
+  | coauthors =
+  | title = Atmiņas par Latvijas nacionālās armijas gaitām Brīvības cīņās.
+  | journal = Dievturu Vēstnesis
+  | volume = Nr.15 
+  | issue =
+  | pages = 41
+  | publisher =
+  | year = 1993
+  | url = http://www.historia.lv/alfabets/B/BA/balodis_janis/memo/dievtur.htm
+  | doi =
+  | id =
+  | accessdate = }}</ref>, Kalpaks is regarded as the first Commander in Chief of Latvian Armed Forces.<ref>see, for instance: [http://www.sargs.lv/eng/history.html Tēvijas Sargs], a journal of MoD; Latvian cinematography [http://www.latfilma.lv/d/245/index.htm site];
+{{cite book
+  | last = Svabe
+  | first = Arveds
+  | authorlink =
+  | coauthors =
+  | title = The Story of Latvia - A Historical Survey
+  | publisher = 
+  | year = 1949
+  | location =
+  | url = http://www.latvians.com/en/Reading/TheStoryOfLatvia/THE%20STORY%20of%20LATVIA.pdf
+  | doi =
+  | id = |format=PDF
+  | page = 39}}</ref>
+<ref>{{cite book
+  | last = Unāms
+  | first = Žanis
+  | authorlink =
+  | coauthors =
+  | title = Es Viņu Pazīstu - LATVIEŠŪ BIOGRAFISKĀ VĀRDNĪCA (I Know Them - LATVIAN BIOGRAPHICAL DICTIONARY)
+  | publisher = Raven Printing
+  | date = 1975 (second edition, 1st edition 1939)
+  | location =
+  | url = 
+  | doi =
+  | id =
+  | page = 240 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.muzeji.lv/guide/pages_e/oskarakalpaka.html "Airītes" - Colonel Oskars Kalpaks Museum-Memorial site]
+* [http://www.kalpaks.lv Official site for the Kalpaks memorial]
+
+{{DEFAULTSORT:Kalpaks, Oskars}}
+[[Category:Latvian military personnel]]
+[[Category:Military history of Latvia]]
+[[Category:1882 births]]
+[[Category:1919 deaths]]
+
+[[lv:Oskars Kalpaks]]
+[[ru:Калпакс, Оскар]]

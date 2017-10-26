@@ -1,0 +1,184 @@
+{{Unreferenced|date=January 2008}}
+
+''This article is about the goaltender in [[ice hockey]]. For the similar position in other sports, see [[goalkeeper]]. For the basketball foul, see [[goaltending]].''
+
+[[File:MartinBrodeur.jpg|thumb|200px|Goalie [[Martin Brodeur]] of the [[New Jersey Devils]] during a pre-game warmup in Calgary.]]
+
+The '''goaltender''' (also known colloquially as the '''goalie''', '''goaler''', or '''netminder''') in ice hockey is the player who defends his team's goal net by stopping [[shot (hockey)|shots]] of the [[Puck (sports)|puck]] from entering his team's net, thus preventing the opposing team from scoring. The goalie usually plays in or near the area in front of the net called the ''goal crease'' (often referred to simply as '' the crease'' or ''the net''). Due to the power of shots, the goaltender wears special equipment designed to protect the body from direct impact. Only one goalie is allowed to be on the ice for each team at any one time.
+
+As there are no jersey number restrictions in Ice Hockey, a goaltender could theoretically wear any number from 1 to 99. However, most goaltenders wear numbers in the range of 28 to 50 or the number 1. The most popular jersey number for goaltenders is 30.
+
+== Goaltender play in hockey ==
+
+Goaltending is a specialized position in ice hockey; at higher levels in the game, no goalies play other positions and no other players play goalie. A typical ice hockey team may have two or three goaltenders on its roster.
+
+The goaltender has special privileges that other players do not. He wears special [[Ice hockey goaltending equipment|goaltending equipment]] that is different from that worn by other players, and is subject to specific regulations. The goalie may legally hold (or freeze) the puck with his hands to cause a stoppage of play. If a player from the other team hits the goaltender without making an attempt to get out of his way, the offending player may be penalized. In some leagues (including the NHL), if a goalie's stick breaks, he can continue playing with a broken stick until the play is stopped, unlike other players who must drop any broken sticks immediately.
+
+Additionally, if a goaltender acts in such a way that would cause a normal player to be given a penalty, such as slashing or tripping another player, the goaltender cannot be sent to the penalty box. Instead, one of the goaltender's teammates is sent to the penalty box in his or her place. However, the goalie does receive the penalty minutes on the scoresheet.
+
+=== Saves ===
+
+When a goaltender blocks or stops a shot from going into his goal net, that action is called a [[save (sport)|save]]. Goalies often use a particular style, but in general they make saves any way they can: catching the puck with their glove hand, deflecting the shot with their stick, blocking it with their leg pads or blocker or another part of their body, or collapsing to butterfly position to block any low shot coming, especially in close proximity. After making a save, the goaltender attempts to control the rebound to avoid a goal scored by an opposing player when the goaltender is out of position ('scoring on a rebound'), or to allow the goalie's own team to get control of the puck. Goalies may catch or hold a puck shot at the net to better control how it re-enters play. If there is immediate pressure from the opposing team, a goalie may choose to hold on to the puck (for a second or more, with judgment from the referee) to stop play for a face-off. If a goalie holds on to the puck for too long without any pressure they may be subject to a 2-minute 'delay of game' penalty. Recently, in the NHL and AHL, goalies have been restricted as to where they can play the puck behind the net.
+
+''See also: [[shot on goal]], [[save percentage]], and [[goals against average]].''
+
+=== Glossary and techniques ===
+
+* '''Angle play:''' The method where, by positioning themselves in a direct line between the puck (not the shooter) and the net, a goaltender covers more of the net than he would otherwise be able to. One of the most notable angle goaltenders was [[Bernie Parent]].
+
+''See main article: [[Blocker (ice hockey equipment)]].''
+
+* '''Blocker:''' Also known as a waffle, this equipment is worn on the right hand (for right-handed goaltenders), the blocker is a rectangular piece of equipment with a glove to hold the stick. It protects the wrist area, and can be used to direct shots away from the net. The blocker should be positioned at one's side, and at a height which allows the goaltender's stick to remain flat on the ice. Some goalies, such as [[Rick DiPietro]] of the [[New York Islanders]], and [[Tomáš Vokoun|Tomas Vokoun]] of the [[Florida Panthers]] have their blocker and stick on the left hand, and their trapper on the right hand. This setup is described as a 'Full-right' goalie.
+
+* '''Butterfly save:''' On low shots, modern goaltenders usually work in the "butterfly" position, keeping their knees together and their stick covering their [[five-hole]], or knee gap. The glove is kept up, ready for a possible deflection, and the goaltender is focused on the incoming shot. Goaltenders should keep both arms out in front of them, covering the gaps between the goaltender's arms and body (sometimes called the 7 and 11 holes, and making it easier to direct rebounds with the stick and blocker.
+
+* '''Holes one through five:''' When a goaltender stands in the net in the ready position, there are five open areas that the goalie must cover. They are:
+
+# Glove side, high: this area is defined by the goaltender's arm and catcher on the bottom, mask on the inside, and the post and top of the goal on the outside.
+# Glove side, low: this area is defined by the goaltender's arm and catcher on the top, the ice on the bottom, and the outside post of the goal. During a butterfly-style save, this area is closed off completely and the catcher is typically stacked on top of the leg pad as the leg is extended to cover the post.
+# Stick side, high: this area is defined by the goal post, top of the goal, and the goalie's arm and blocker. The top half of the goaltender's stick is held in this area, but is not commonly used for stopping the puck.
+# Stick side, low: this area is the lower half of the stick side, defined by the blocker and arm, the ice, and the outer post of the goal. During a butterfly save this area is also covered by the leg pad with the blocker stacked on top to protect against low shots. When a goaltender is standing, the paddle of their stick is used to cover this area and to deflect the puck away from the net.
+# 'Five Hole': the fifth and final area is between the goalie's leg pads and skates. This area is protected by the blade of the stick at all times, and is closed up by the upper leg pads when the goalie is in the butterfly position.
+
+* '''Leg pads:''' Worn on the goaltender's legs to both protect the legs and help stop shots. The leg pads may not be more than {{convert|12|in|mm}} in width. (Current NHL Rules have reduced this to {{convert|11|in|mm}} in width, while also restricting the overall height to 38&nbsp;inches.) The leg pads should come to about three inches above the knee. Pads that are too long will affect balance and timing; pads that are too short will not protect the knees or allow the goaltender to make butterfly saves properly.
+
+* '''(Leg) pad save:''' A save made with any part of the leg pads. The goaltender should remain relaxed and skate backwards with the incoming shot, thus helping to absorb the blow and reduce the rebound effect. One type of leg pad save is the butterfly save.
+
+* '''Lie:''' The angle created between the handle of a goaltender's stick and the paddle. The higher the lie, the closer the stick resembles the capital letter "L".
+
+* '''Paddle:''' The thick part of the goaltender's stick, not to be confused with the blade; the blade should remain flat on the ice as often as possible.
+
+* '''Paddle down:''' A type of stance by the goaltender when the play is coming from the corner to the front of the net and the puck carrier is carrying the puck in front of the net looking to score. Here the goaltender puts the stick down on the ground, [[parallel (geometry)|parallel]] to the ice, with the leg farthest from the post down and the other up and ready to push. This works well against angled rushes or [[wrap around]]s where the skater would normally out–skate the goalie. The skater does have the top part of the net to shoot at, but it is difficult to lift the puck over the goalie from up close. The paddle down stance is also effective against low passes from behind the net to players looking to score from the slot.
+
+* '''Poke check:''' When the goaltender wants to poke the puck away from an opposing player, he quickly slides his hand up the stick, thrusting forward towards the puck. This is a risky play, and occasionally the goaltender will miss and the puck-carrier will be left with an unguarded net.
+
+* '''Screen shot:''' Screen shots are blind shots, in which the goalie has to anticipate where the puck will hit. In the screen shot, another player (usually an opponent, but sometimes the goaltender's own teammate) stands between the shooter and the goaltender, obscuring the goaltender's vision of the shot. On a screen shot, the goaltender must do everything possible to try to see the shot, dropping to the butterfly stance and thrusting their trapper out at the sound of a shot. Some goalies, such as [[Ed Belfour]] or [[Ron Hextall]], go as far as (illegally) punching players in the head or slashing their legs.
+
+* '''Shuffle:''' A technique for lateral movement when the puck is relatively close to the net. The goaltender slides his legs, one at a time, in the desired direction. If the goaltender is not quick this technique momentarily leaves the five-hole open. This is the most common method of movement for a goaltender.
+
+* '''Skate save:''' A save made with the goaltender's skate. The goaltender decides which direction the rebound should travel in, and turns his skate in that direction. Then, bending the other leg, he pushes towards the puck with the off leg, as the bent knee drops to the ice. This move is rarely used and widely thought of as "not effective"
+
+* '''Skating:''' A common fallacy is that the goaltender can get by with merely adequate skating, and often young players are placed in net due to their poor skating. In fact, the goaltender must be one of the best technical skaters on the team, and must be able to keep up with the moves of every skater on opposing teams. In particular, goaltenders must be adept at lateral skating and quick pivoting. Goaltenders must also have exceptional leg strength and the capability for very explosive movement.
+
+* '''Stacked Pad Slide:''' When a goaltender is on the angle, often a sudden pass close to the net will leave the net relatively unguarded. Stacking the pads is a desperation move in which the goaltender slides feet-first, with legs together (and consequently, "stacked"), across the crease, attempting to cover as much space as possible.
+
+* '''Stance:''' In a proper stance, the goaltender has the weight on the balls of his feet, the trapper and blocker just above knee-height and slightly out in front so they can be seen in the goalies peripheral vision, and the stick flat on the ice. Stance should also be conformed to the goaltender's style and comfort.
+
+* '''Stick:''' The stick, held by the goaltender in their blocker hand, the blade of the stick should remain flat on the ice. Keep notice of the lie on a new stick. A high lie will force a goaltender to play on their heels, offsetting balance, while a low lie places a goaltender lower to the ice, and may affect high saves.
+
+* '''Stick save:''' A save made with the goaltender's stick. On stick saves, the goaltender should not keep a tight grip on the stick, instead allowing the shot's momentum to push the stick back into the skates/pads, cushioning the blow.
+
+* '''Stood on his head:''' This is a term to describe an outstanding performance by an ice hockey goaltender in a short period of time. Often when a goalie lets out a rebound, the opposition returns the shot quickly, and the goalie has to make a quick save. A goalie often falls on his side and "stacks the pads" and appears to nearly stand on their head. The term may have been derived after NHL President Frank Calder, alluding to the 1918 rules change that permitted goalies to leave their feet to make a save, remarked, "As far as I am concerned, they can stand on their head(s)."<ref>''The Hockey News: Century Of Hockey'', 1st ed. 2000, p. 20 - "As far as I am concerned, they can stand on their head(s). ''NHL president Frank Calder, announcing goalies can leave their feet to stop a puck''"</ref>
+
+* '''T-push:''' A technique used by goaltenders to move in a lateral direction. To perform a t-push, a goaltender directs his outside skate in the desired direction, pushing with both legs, covering the five hole. This method of lateral movement is most effective when the puck is far from the net. Use of this move when the puck is in close will result in a goal through the "5 Hole"
+
+* '''Telescoping:''' Telescoping is a method of moving inward and outward from the goal crease. Most often used in setting up prior to the puck entering their zone, this move is accomplished by simply allowing your skates to separate, resulting in forward motion, then pulling your skates back together and stopping. At no time during a telescope do your skates leave the ice. This can also be referred to as skulling or bubbling.
+
+* '''Trapper:''' This piece of equipment is often referred to simply as the "glove", and it was originally shaped in the same fashion as a baseball glove, it has evolved into a highly specific piece of equipment that is designed specifically for catching the puck. Some of the more significant changes are the use of a "string mesh" in the pocket of the trapper, and the substantial palm and wrist protection. The pocket is the area between the thumb and first finger of the glove, and is where most goaltender's try to catch the puck, as it reduces the discomfort of the goaltender and the chance of a rebound falling out of the glove. The trapper can be held in a variety of positions depending upon the individual goaltender, but the trend among younger goaltenders is to hold the glove with the palm facing towards the shooter, instead of the "shake hands" position that was popular for so long. The "Cheater" portion of the glove is the part that covers the wrist of the goltender.
+
+* '''Pro-fly:''' This style of play is derived from the butterfly style of play, although most will argue that this is nothing more than a marketing term. Current leg pad design allows for the full face of the pad to be perpendicular to the ice, maximizing blocking area. This is also called "flaring the pad", almost all modern goaltenders play this style. The stance is very wide and low to maximize the amount of body blocking the net. Many of today's great goaltenders have adopted this technique since it allows for quick recovery and forces the shooter to get the puck off the ice to score. The more efficient users of this style include Henrik Lundqvist of the New York Rangers, Pascal LeClaire of the Ottawa Senators, and Martin Gerber. This is still considered a butterfly motion, as the mechanics of making the save are the same, however it is the design of the leg pad that achieves this rotation more than anything.
+
+=== Playing styles ===
+
+==== Stand-up style ====
+{{main|Stand-up style}}
+
+There are many ways to stop the puck. The oldest one is the [[stand-up style|"Stand-up"]] style. In this style, goaltenders are to stop the puck from a standing position, not going down. The Goalies may bend over to stop the puck with their upper body or may kick the puck. Such saves made by kicking are known as kick saves or skate saves. They may also simply use their stick to stop it, known as a stick save. This was the style seen in the early NHL and was most commonly used up until the early 60's. One of the more notable goalies who was last seen using stand up was [[Bill Ranford]], but most of the goalies from earlier decades such as [[Jacques Plante]] were goalies who were considered pure stand up goalies.
+
+==== Butterfly style ====
+{{main|Butterfly style}}
+
+Another style is the "[[Butterfly style|Butterfly]]", where goalies go down on both pads with their toes pointing outwards and the tops of their pads meeting in the middle, thus completely closing up the [[five-hole|five hole]]. This is generally the most common style used in the modern day. This results in a "wall" of padding without any holes, lowering the chances of low angle shots getting in. These goalies rely mainly on timing and position. Early innovators of this style were goaltending greats [[Glenn Hall]] and [[Tony Esposito]] , who played during the 50's-60's and 70's-80's, respectively. Hall is generally credited to be among the very first to use this style, and both he and Esposito had tremendous success with it. This is the most widely used style in the NHL today. "Butterfly" goalies have developed methods of sliding in the "Butterfly" position in order to move around fast in one timer situations. As pad size increased, it became a more notable style of goaltending and is still evolving. One of the best butterfly goalies of all time is the Canadian goalie [[Patrick Roy]], who is now retired.
+
+==== Hybrid style ====
+
+This style of goaltending is a blend of all styles, where the goaltender primarily relies on reaction and positioning to make saves. Hybrid goaltenders will make kick saves, will utilize the butterfly, and are generally not as predictable as goaltenders who rely heavily on the butterfly as a save selection. Most players are not pure stand-up or butterfly, but simply tend to prefer stand-up or butterfly over the other. If a player does not have any preferences, he is considered a hybrid goalie. NHL goaltenders known for using this style are [[Martin Brodeur]], [[Pascal Leclaire]], [[Jaroslav Halák|Jaroslav Halak]], [[Tim Thomas (ice hockey)|Tim Thomas]] and [[Ryan Miller (ice hockey)|Ryan Miller]].
+
+=== Empty net situations ===
+
+[[File:Delayed penalty.jpg|thumb|300px|A delayed penalty situation, in which the referee (top-left) indicates a coming penalty by raising his arm, and prepares to blow the whistle when a player from the team to be penalized (in white) touches the puck. Goaltender [[Jere Myllyniemi]] can be seen (right) rushing to the bench to send on an extra attacker.]]
+
+Normally, the goalie plays in or near the goal crease the entire game. However, teams may legally ''pull the goalie'' by substituting in a normal skater and taking the goaltender off the ice. A team temporarily playing with no goalie is said to be playing with an ''empty net''. This gives the team an [[extra attacker]], but at significant risk—if the opposing team gains control of the puck, they may easily score a goal. However, shooters that attempt to score on an empty net from the opposite side of the red line face getting called for [[Icing (ice hockey)|icing]] the puck if they miss the net. Two common situations where a Goalie is generally pulled are as follows. When the opposing team has a delayed penalty coming against them, the offended team, if in control of the puck, will pull their goaltender for an extra man. This is safe since as soon as a player on the team to be penalized touches the puck, the whistle is called, so they cannot score on the empty net. This effectively increases the one-man disadvantage beyond the standard penalty time. The second situation is when a team desperately needs a goal in order to avoid losing, such as the last minute or two of a game. The 6 on 5 play advantage is very risky, as it is fairly certain that if the opposing team gets control of the puck they will be able to [[Empty net goal|score on the empty net]]. Sometimes if a team is trailing in the last minutes of regulation, and has a power play advantage, they may pull the goaltender for a 6 on 4 advantage.
+
+A goal scored in an empty net situation is not recorded as a missed save on the personal stats of the goaltender who has left the ice.
+
+== NHL goaltender awards ==
+
+* The [[Vezina Trophy]] is awarded each year by the [[National Hockey League|NHL]] to the league's most outstanding goaltender as determined by the general managers of the teams.
+* The [[William M. Jennings Trophy]] is awarded each year by the NHL to the goaltender(s) from the team that allowed the fewest goals during the regular season.
+* The [[Roger Crozier Saving Grace Award]] is awarded each year by the NHL to the goaltender with the best save percentage during the regular season.
+
+== Goalies credited with goals ==
+
+A goalie scoring a goal in an NHL game is a very rare feat, having occurred only eleven times in the history of the National Hockey League, the first time occurring in 1979 after the league had been in existence for six decades. NHL rules forbid goaltenders from participating in play past the center line, so a goal by a goalie is possible only under unusual circumstances.
+
+Seven of those eleven goals resulted from the goalie shooting into an empty net. The remaining four goals were not actually shot into the net by the goalie; rather the goalie was awarded the goal because he was the last player on his team to touch the puck before the opposition scored on themselves. [[Ron Hextall]] and [[Martin Brodeur]] are the only NHL goalies to be credited with two career goals (each scoring once in the regular season and once in the playoffs), though only Hextall has scored two goals by shooting the puck into an empty net. In a press conference Hextall admits he was aiming for the corner. [[Damian Rhodes]] and [[José Théodore]] are the only goalies in NHL history to score a goal in which they also had a [[shutout]] game. San Joses Shark's Evgeni Nabokov was the first Russian goaltender to score a goal and the first goaltender to score a power play goal.
+
+=== NHL ===
+{{main|List of goaltenders who have scored a goal in an NHL game}}
+
+=== AHL ===
+
+A chronological list of goals scored in the AHL by goalies:<ref>[http://www.theahl.com/news/league/index.html?article_id=8401 " MacIntyre makes history in unlikely Moose win - AHL Goals Scored by a Goaltender:"]</ref>
+
+* [[Darcy Wakaluk]], December 5, 1987, [[Rochester Americans]] at Utica.
+* [[Paul Cohen]], March 28, 1992, [[Springfield Indians]] vs. Rochester.
+* [[Robb Stauber]], October 9, 1995, [[Rochester Americans]] at Prince Edward Island.
+* [[Christian Bronsard]], October 30, 1999, [[Syracuse Crunch]] at Rochester.
+* [[Jean-François Labbé]], February 5, 2000, [[Hartford Wolf Pack]] at Quebec.
+* [[Chris Mason (ice hockey)|Chris Mason]], October 15, 2001, [[Milwaukee Admirals]] at Utah.
+* [[Antero Niittymäki]], April 11, 2004, [[Philadelphia Phantoms]] at Hershey.
+* [[Seamus Kotyk]], April 17, 2005, [[Milwaukee Admirals]] at San Antonio.
+* [[Drew MacIntyre]], February 20, 2008, [[Manitoba Moose]] at Chicago.
+
+=== KHL ===
+
+* [[Ilya Proskuryakov]], January 25, 2009, [[Metallurg Magnitogorsk]] at Ak Bars Kazan.<ref>[http://www.youtube.com/watch?v=GeTlEw5dz1s "Ilja Proskuryakov scores an empty net goal.]</ref>
+
+=== CHL ===
+
+The first recorded instance of a professional goalie scoring a goal occurred on February 21, 1971, in the CHL. In a game between the [[Oklahoma City Blazers]] and the [[Kansas City Blues]], the Oklahoma City Blazers were trailing 2-1 and decided to pull their goaltender. [[Michel Plasse]], the goaltender for the Kansas City Blues then scored on an open net.<ref>[http://blues.nhl.com/team/app?page=HistoricalPlayerDetail&pkey=8450468&service=page "St. Louis Blues Player Page - Michel Plasse"]</ref>
+
+=== NCAA ===
+
+[[Damian Rhodes]] was credited with a goal while playing with [[Michigan Technological University]].
+
+=== 2.GBun ===
+
+* [[Mike Bales]], September 30, 2005, [[Straubing Tigers]] at Landshut.<ref>[http://www.youtube.com/watch?v=-lPV4UsYqPw "Mike Bales scores an empty net goal."]</ref>
+
+=== Junior hockey ===
+
+On January 7, 1987, [[Chris Clifford]] of the [[Kingston Canadians]] scored an empty-net goal against Toronto, becoming the first OHL goalie to score a goal. While playing for the [[Medicine Hat Tigers]], [[Chris Osgood]] scored an empty-net goal; as well, [[Olaf Kolzig]] scored a goal while with the [[Tri-City Americans]]. On April 20, 1993, [[Fred Brathwaite]] scored a goal while with the [[Detroit Jr. Whalers]]. On February 21, 1997, the [[Huntsville-Muskoka Otters|Muskoka Bears]]' [[Ryan Venturelli]] became the first known goaltender in hockey history to score two goals (both empty net) in a hockey game. The goals came in an 11-6 win against the [[Durham Huskies Jr. A|Durham Huskies]] during the [[Metro Junior A Hockey League]] 1996-97 regular season.<ref>http://www.lcshockey.com/issues/LCS65.txt</ref> On March 30, 2004, [[Justin Peters]], then with the [[Toronto St. Michael's Majors]] scored an empty-net goal during the playoffs against the [[Sudbury Wolves]]. On September 25, 2005, [[Antoine Lafleur]] of the [[P.E.I. Rocket]] was credited with an empty-net powerplay goal against the [[Halifax Mooseheads]]. On December 6, 2008, in two separate games, two different QMJHL goalies scored goals; Peter Delmas ([[Lewiston MAINEiacs]]) was credited with a goal against the [[Quebec Remparts]] and Maxim Gougeon ([[Rimouski Oceanic]]) scored an empty-netter against the [[Cape Breton Screaming Eagles]]. In June 2009, during a junior B playoff game, [[Brantford Golden Eagles]] goaltender Daryl Borden scored an empty-netter.
+
+== See also ==
+{{CommonsCat|Ice hockey goaltenders}}
+
+* [[Centre (ice hockey)|Centre]]
+* [[Winger (ice hockey)|Winger]]
+* [[Forward (ice hockey)|Forward]]
+* [[Defenceman (ice hockey)|Defenceman]]
+* [[Breakaway (ice hockey)]]
+* [[List of NHL players]]
+
+{{IceHockeyPositions}}
+
+== References ==
+
+=== Footnotes ===
+
+<references/>
+
+== External links ==
+
+* [http://www.goaliesarchive.com The Goalies Archive] Complete goaltending history of every NHL and WHA teams
+* [http://www.hockeygoalies.org HockeyGoalies.org] Comprehensive list of goalies
+
+[[Category:Ice hockey goaltenders|Ice hockey goaltenders]]
+
+[[cs:Brankář (lední hokej)]]
+[[fr:Gardien de but (hockey sur glace)]]
+[[lv:Vārtsargs (hokejs)]]
+[[ja:ゴールテンダー]]
+[[simple:Goaltender]]
+[[sk:Brankár (ľadový hokej)]]

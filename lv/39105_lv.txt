@@ -1,0 +1,58 @@
+{{Infobox Settlement
+| name = Gņevkovo
+| image_skyline = Gniewkowo Church.jpg
+| imagesize = 300px
+| image_caption = Sv. Nikolaja baznīca Gņevkovo
+| image_flag = 
+| image_shield = POL Gniewkowo COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Kujāvijas-Pomožes vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Inovroclavas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1268 
+| area_total_km2 = 9.18
+| population_as_of = 2006
+| population_total = 7254
+| population_density_km2 = auto
+| timezone = [[Central European Time|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 52 
+| latm = 54 
+| lats = 00 
+| latNS = N 
+| longd = 18 
+| longm = 25 
+| longs = 00
+| longEW = E
+| elevation_m = 
+| website = http://www.gniewkowo.com.pl }}
+
+'''Gņevkovo''' ({{val-pl|Gniewkowo}}) - pilsēta [[Polija|Polijā]], [[Kujāvijas-Pomožes vojevodiste|Kujāvijas-Pomožes vojevodistē]] pusceļa starp [[Toruņa|Toruņu]] un [[Inovroclava|Inovroclavu]]. 
+
+1314. gadā kļuva par nelielas kņazistes centru. 1332. gadā pilsētu uzbruka [[Vācu ordenis]]. 1408. gadā pilsēta satikās [[Jagailis]] un Vācu ordenis, lai apspriestu strīdigās [[Dobžiņas zeme]]s piederību. 1772. gadā pēc [[Polijas dalīšanas|Polijas Pirmās dalīšanas]] tā iekļāvās [[Prūsija (karaliste)|Prūsijā]], un vēlāk [[Vācija]]s valstī. 1920. gadā pēc [[Versaļas līgums|Versaļas līguma]] kļuva par Polijas daļu. Starp pasaules kariem pilsētu smagi skāra ekonomiskā krīze - [[Otrais pasaules karš|Otrā pasaules kara]] priekšvakarā 70% no pilsētas iedzīvotājiem bija bezdarbnieki.
+
+{{commonscat|Gniewkowo|Gņevkovo}}
+
+{{DEFAULTSORT:Gnzevkovo}}
+[[Category:Kujāvijas-Pomožes vojevodistes pilsētas|Gnzevkovo]]
+
+[[de:Gniewkowo]]
+[[en:Gniewkowo]]
+[[eo:Gniewkowo]]
+[[fr:Gniewkowo]]
+[[it:Gniewkowo]]
+[[jv:Gniewkowo]]
+[[nl:Gniewkowo]]
+[[pl:Gniewkowo]]
+[[pt:Gniewkowo]]
+[[ro:Gniewkowo]]
+[[ru:Гневково]]
+[[sk:Gniewkowo]]
+[[uk:Гневково]]

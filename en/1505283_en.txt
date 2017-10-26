@@ -1,0 +1,44 @@
+{{More footnotes|date=April 2009}}
+'''Pleiotropy''' occurs when a single [[gene]] influences multiple [[phenotype|phenotypic]] [[Trait (biological)|trait]]s.  Consequently, a new [[mutation]] in the gene may have an effect on some or all traits simultaneously.  This can become a problem when [[Natural selection|selection]] on one trait favors one specific version of the gene (allele), while the selection on the other trait favors another allele.
+
+== Etymology ==
+The term ''pleiotropy'' comes from the [[Greek language|Greek]] πλείων ''pleion'', meaning "more", and  τρέπειν ''trepein'', meaning "to turn, to convert". A common mistake is to use "pleiotrophic" instead of "pleiotropic"
+
+== Mechanism ==
+Pleiotropy describes the genetic effect of a single gene on multiple phenotypic traits. The underlying mechanism is that the gene codes for a product that is for example used by various cells, or has a signaling function on various targets.
+
+A classic example of pleiotropy is the human disease PKU ([[phenylketonuria]]).  This disease can cause [[mental retardation]] and reduced [[hair]] and [[skin]] [[pigment]]ation, and can be caused by any of a large number of mutations in a single gene that codes for an [[enzyme]] ([[phenylalanine hydroxylase]]) that converts the [[amino acid]] [[phenylalanine]] to [[tyrosine]], another amino acid. Depending on the mutation involved, this results in reduced or zero conversion of phenylalanine to tyrosine, and phenylalanine concentrations increase to toxic levels, causing damage at several locations in the body. PKU is totally benign if a diet free from phenylalanine is maintained.
+
+==Antagonistic pleiotropy==
+[[Antagonistic pleiotropy hypothesis|Antagonistic pleiotropy]] refers to the [[gene expression|expression]] of a gene resulting in multiple competing effects, some beneficial but others detrimental to the organism.
+
+This is central to a theory of [[aging]] first developed by [[George C. Williams|G. C. Williams]] in 1957.<ref>Williams, G.C. (1957) Pleiotropy, natural selection, and the evolution of senescence. ''Evolution'' 11: 398–411</ref> Williams suggested that some genes responsible for increased fitness in the younger, fertile organism contribute to decreased fitness later in life. One such example in male humans is the gene for the hormone [[testosterone]]. In youth, testosterone has positive effects including reproductive fitness but, later in life, there are negative effects such as increased susceptibility to [[prostate cancer]].  Another example is the [[p53]] gene which suppresses cancer, but also suppresses [[stem cell]]s which replenish worn-out tissue<ref>{{cite journal | author = Rodier F, Campisi J, Bhaumik D | title = Two faces of p53: aging and tumor suppression | journal = Nucleic Acids Res | year = 2007 | pmid = 17942417| doi = 10.1093/nar/gkm744 | volume = 35 | pages = 7475}}</ref>.
+
+Whether or not pleiotropy is antagonistic may depend upon the environment; for instance, a [[bacterium|bacterial]] gene that enhances [[glucose]] utilization efficiency at the expense of the ability to use other energy sources (such as lactose) has positive effects when there is plenty of glucose, but can be lethal if lactose is the only available food source.
+
+==See also==
+* [[Epistasis]]
+* [[Metabolic network]]
+* [[Metabolic supermice]]
+* [[Enhancer (genetics)]]
+
+==References==
+{{reflist}}
+
+{{genarch}}
+
+[[Category:Genetics]]
+
+[[ca:Pleiotropia]]
+[[de:Pleiotropie]]
+[[es:Pleiotropia]]
+[[fr:Pléiotropie]]
+[[it:Pleiotropia]]
+[[he:פליאוטרופיה]]
+[[lv:Plejotropija]]
+[[nl:Pleiotropie]]
+[[no:Pleiotropi]]
+[[pl:Plejotropia]]
+[[pt:Pleiotropia]]
+[[ru:Плейотропия]]
+[[uk:Плейотропія]]

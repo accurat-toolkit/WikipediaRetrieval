@@ -1,0 +1,21 @@
+'''GEM''' var būt
+;Gem
+* [[Dvīņi (zvaigznājs)]]
+
+;GEM
+* [[Graphical Environment Manager]] - datoru grafiskā vide,
+* [[Graphite Epoxy Motor]] - raķešpakāpe.
+
+{{disambig}}
+
+[[ca:GEM]]
+[[de:GEM]]
+[[en:GEM]]
+[[eo:GEM]]
+[[es:GEM]]
+[[fr:GEM]]
+[[it:GEM]]
+[[ja:GEM]]
+[[ksh:GEM (Watt ėßß datt?)]]
+[[pl:GEM]]
+[[sv:GEM]]

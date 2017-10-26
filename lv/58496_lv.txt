@@ -1,0 +1,71 @@
+{{Info BioTakso
+ |       platums = 240px
+ |        attēls = Cattle Egret.jpg
+ |    att_izmērs = 175px
+ |        valsts = Animalia
+ |     valsts_lv = Dzīvnieki
+ |          tips = Chordata
+ |       tips_lv = Hordaiņi
+ |         klase = Aves
+ |      klase_lv = Putni
+ |         kārta = Ciconiiformes
+ |      kārta_lv = Stārķveidīgie
+ |        dzimta = Ardeidae
+ |     dzimta_lv = Gārņu dzimta
+ |         ģints = Bubulcus
+ |      ģints_lv = Lopu gārņi
+ |       ģints_r = Lopu gārnis
+ |          suga = B. ibis
+ |       suga_lv = Lopu gārnis
+ |      binomial = Bubulcus ibis
+ |   kategorijas = nē
+}}
+
+'''Lopu gārnis''' ({{val-la|Bubulcus ibis}}) ir vienīgā suga savā ģintī (''Bubulcus''). Savukārt šī [[ģints]] ietilpst [[gārņu dzimta|gārņu dzimtā]]. Lopu gārnis ir [[kosmopolīts|kosmopolītiska]] suga. Lopu gārņa dabiski ir dzīvojis [[Eiropa|Eiropā]], [[Āzija|Āzijā]] un [[Āfrika|Āfrikā]], bet mūsdienās šī suga apdzīvo teju vai visu zemeslodi.
+
+{{commonscat|Bubulcus ibis|Lopu gārnis}}
+
+
+{{bio-aizmetnis}}
+
+[[Kategorija:Stārķveidīgie]]
+
+{{Link FA|en}}
+
+[[af:Veereier]]
+[[ar:أبو قردان]]
+[[az:Misir vağı]]
+[[bg:Биволска чапла]]
+[[br:Bugerc'heiz]]
+[[ca:Esplugabous]]
+[[cs:Volavka rusohlavá]]
+[[da:Kohejre]]
+[[de:Kuhreiher]]
+[[dv:އިރުވައިހުދު]]
+[[en:Cattle Egret]]
+[[eo:Bovardeo]]
+[[es:Bubulcus ibis]]
+[[fa:گاوچرانک]]
+[[fi:Lehmähaikara]]
+[[fr:Héron garde-bœufs]]
+[[gl:Garza boieira]]
+[[he:אנפית בקר]]
+[[hu:Pásztorgém]]
+[[id:Kuntul Kerbau]]
+[[it:Bubulcus ibis]]
+[[ja:アマサギ]]
+[[ko:황로]]
+[[ku:Garanîk]]
+[[lt:Ibiškasis garnys]]
+[[ml:കാലിമുണ്ടി]]
+[[mr:गाय बगळा]]
+[[ms:Burung Bangau Kendi]]
+[[nl:Koereiger]]
+[[nn:Kuhegre]]
+[[no:Kuhegre]]
+[[pl:Czapla złotawa]]
+[[pt:Garça-vaqueira]]
+[[ru:Египетская цапля]]
+[[sv:Kohäger]]
+[[tr:Sığır balıkçılı]]
+[[zh:牛背鹭]]

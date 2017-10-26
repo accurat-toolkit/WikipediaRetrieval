@@ -1,0 +1,100 @@
+[[Attēls:Porcelāna figūriņa.jpg|thumb|190px|right|Smalkkeramika: Porcelāna figūriņa]]
+'''Keramika''' (no [[grieķu valoda|sengrieķu valodas]]: ''κέραμος/keramos'' – [[māls|māli]], [[podniecība]]) ir [[Neorganiskā ķīmija|neorganiski]] un nemetāliski materiāli, kas apdedzināti augstās [[temperatūra|temperatūrā]]s, lai piešķirtu tiem mehānisko izturību un palielinātu [[blīvums|blīvumu]]. Termins keramika vēl nesenā pagātnē tika lietots vienīgi attiecībā uz priekšmetiem, kas tika izgatavoti, apdedzinot materiālus, ko iegūst no zemes. [[Arheoloģija|Arheologi]] ir atraduši pierādījumus šāda veida keramikas izgatavošanai jau pirms daudziem tūkstošiem gadu. Šajā materiālu klasē ietilpst gan tradicionālie keramikas materiāli -  māla trauki, [[stikls]], [[ķieģelis|ķieģeļi]], [[porcelāns]], [[cements]] un citi, gan modernās speciālās (tehniskās) keramikas - dažādu [[Ķīmisko elementu periodiskā tabula|elementu]] [[karbīdi]], [[borīdi]], [[oksīdi]] un [[nitrīdi]] ([[alumīnija nitrīds]], [[bora karbīds]], [[bora nitrīds]], [[silīcija karbīds]], [[cirkonija dioksīds]] u.c.).
+
+== Keramikas materiālu īpašības ==
+
+Keramikas materiālu raksturīgākās īpašības ir cietība un trauslums, tie ir slikti [[Siltumvadītspēja|siltuma]] un [[elektrovadītspēja|elektrības vadītāji]], tiem ir relatīvi augstas [[Kušanas temperatūra|kušanas temperatūras]] un vispārīgā gadījumā tie labāk iztur [[deformācija|spiedi]] nekā [[deformācija|stiepi]]. Sava ķīmiskā inertuma dēļ keramika ir noturīga pret [[skābe|skābju]], [[skābeklis|skābekļa]] un citu vielu postošo iedarbību. Tomēr dažām keramiskām vielām nepiemīt visas minētās īpašības, piemēram, dažas mākslīgi izveidotās keramikas ir [[supravadāmība|supravadītāji]]. Keramikai var būt gan [[Kristāliskā struktūra|kristāliska]], gan [[amorfa struktūra]].
+
+== Keramikas izstrādājumu klasifikācija ==
+[[Attēls:Titāna dioksīda elektrodi.jpg|thumb|175px|right|Speciālā keramika: [[Latvija|Latvijā]] ražoti [[titāna dioksīds|titāna dioksīda]] [[elektrods|elektrodi]]]]
+Vienota klasifikācija šajā jomā vēl nav izveidota, tādēļ dažādās pasaules valstīs tā var nedaudz atšķirties. 
+
+*Smagā mālu rūpniecība, ko iedala trīs apakšnozarēs – strukturālās, blīvās un ugunsizturīgās keramikas – ķieģeļi, [[kārniņi|kārniņi (dakstiņi)]], [[flīze|flīzes]] u.c.
+
+*Smalkkeramika – dažādi porcelāna, [[akmens masa|akmens masu]] un citi izstrādājumi.
+
+*Speciālās (tehniskās) keramikas, ko var iedalīt trīs apakšnozarēs –  oksīdu ([[alumīnija oksīds]], [[cirkonija oksīds]]), neoksīdu (karbīdi, borīdi, nitrīdi)  un jauktie  (dažādas oksīdu un neoksīdu kombinācijas) keramikas izstrādājumi - plānsienu caurulītes, [[elektrods|elektrodi]], [[šūnveida katalizators|šūnveida katalizatori]], [[degvielas šūna|degvielas šūnas]] u.c.
+
+== Keramikas materiālu ražošana ==
+
+Vispārīgā gadījumā keramikas materiālus ražo pēc tālāk minētās shēmas, lai gan atsevišķos gadījumos kāds no procesiem var nebūt, bet cits – atkārtoties vairākas reizes.
+
+*Izejvielu apstrāde - smalcināšana, attīrīšana, šķirošana, [[kalcinēšana]], disperģēšana šķidrumā, [[granulēšana]] u.c.
+
+*Maisīšana un mīcīšana – izejvielu sajaukšana viendabīgā masā.
+
+*Formēšana jeb formas piešķiršana - izplatītākās formēšanas metodes ir [[pulveru presēšana]], [[liešana formā]], [[liešana zem spiediena]] un [[ekstrūzija]].
+
+*Papildus apstrāde – [[slīpēšana]], [[perforēšana]], [[laminēšana]] u.c.
+
+*[[Žāvēšana]] – šķidrās [[fāze|fāzes]] (parasti - [[ūdens]]) aizvadīšana.
+
+*Pirmsapdedzināšanas termiskā apstrāde - mērķis ir nodrošināt papildus žāvēšanu, lai [[Iztvaikošana|iztvaicētu]] vai sadalītu daļu [[organiskas vielas|organisko piedevu]] un citus piemaisījumus, kā arī daļu atlikušā ūdens.
+
+*[[Glazēšana]] - [[Glazēšana|glazūras]] ir stiklveida vielas, ar kurām pārklāj keramikas materiālus, lai padarītu tos izturīgākus pret [[atmosfēra|atmosfēras]] iedarbību, mehāniski izturīgākus, ūdensnecaurlaidīgus un gāznecaurlaidīgus, kā arī dekorētu tos.
+
+*[[Apdedzināšana]] - apdedzināšanu veic, lai keramikas materiālam piešķirtu mehānisko izturību un palielinātu to blīvumu.
+
+*Pēcapstrāde - dažus keramikas materiālus nepieciešams papildus apstrādāt pēc apdedzināšanas – ar [[lāzergriešana|lāzergriešanu]], mehāniski vai ķīmiski [[pulēšana|pulēt]] utml.
+
+== Izmantotā literatūra: ==
+
+R.Asthana, A.Kumar, N.B.Dahotre. Materials Processing and Manufacturing Science; Elsevier: Tokyo, 2006
+
+F.Ošis, P.Vītols. Ķīmijas tehnoloģija; Zvaigzne: Rīga, 1980
+
+F.Handle (Ed.). Extrusion in Ceramics; Springer: Berlin, 2007
+
+== Ārējās saites: ==
+[http://www.epa.gov/ttn/chief/ap42/ch11/final/c11s07.pdf Ceramic products manufacturing]
+
+[[Kategorija:Materiālzinātne]]
+
+[[ar:خزف]]
+[[bg:Керамика]]
+[[bs:Keramika]]
+[[ca:Ceràmica]]
+[[cs:Keramika]]
+[[da:Keramik]]
+[[de:Keramik]]
+[[el:Κεραμική]]
+[[en:Ceramic]]
+[[eo:Ceramikaĵo]]
+[[es:Cerámica]]
+[[et:Keraamika]]
+[[fa:سرامیک]]
+[[fi:Keraami]]
+[[fr:Céramique]]
+[[gl:Cerámica]]
+[[he:קרמיקה]]
+[[hr:Keramika]]
+[[hu:Kerámia]]
+[[ia:Ceramica]]
+[[id:Keramik]]
+[[io:Ceramikajo]]
+[[it:Ceramica]]
+[[ja:セラミックス]]
+[[la:Fictile]]
+[[lt:Keramika]]
+[[mk:Керамика]]
+[[ms:Seramik]]
+[[nap:Ceramica]]
+[[nl:Keramiek]]
+[[nn:Keramikk]]
+[[no:Keramikk]]
+[[oc:Ceramica]]
+[[pl:Ceramika]]
+[[pt:Cerâmica]]
+[[qu:K'apra]]
+[[ru:Керамика]]
+[[simple:Ceramic]]
+[[sk:Keramika (pálené výrobky)]]
+[[sl:Keramika]]
+[[sv:Keramik]]
+[[te:సిరామిక్]]
+[[th:เซรามิก]]
+[[tr:Seramik]]
+[[uk:Кераміка]]
+[[ur:خزف]]
+[[vi:Gốm]]
+[[zh:陶瓷材料]]

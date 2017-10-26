@@ -1,0 +1,294 @@
+<!-- See [[Wikipedia:WikiProject Japanese prefectures]] for guidelines -->
+{{Infobox Prefecture Japan
+| Name             = Aichi
+| JapaneseName     = 愛知県 
+| Rōmaji           = Aichi-ken
+| Symbol           = PrefSymbol-Aichi.png
+| Capital          = [[Nagoya]]
+| Region           = [[Chūbu region|Chūbu]]
+| Island           = [[Honshū]]
+| TotalArea        = 5,153.81
+| AreaRank         = 28th
+| PCWater          = 5.4
+| PopDate          = [[April 27]], [[2007]]
+| Population       = 7,341,000
+| PopRank          = 4th
+| Density          = 1,424
+| Districts        = 10
+| Municipalities   = 63
+| ISOCode          = JP-23
+| Flower           = [[Kakitsubata]] (''Iris&nbsp;laevigata'')
+| Tree             = Hananoki (''Acer&nbsp;pycnanthum'')
+| Bird             = [[Scops-owl]] (''Otus&nbsp;scops&nbsp;japonicus'')
+| Fish             = [[Kuruma prawn]] (''Penaeus&nbsp;japonicus'')
+| Map              = Map of Japan with highlight on 23 Aichi prefecture.svg
+| Website          = [http://www.pref.aichi.jp/global/en/index.html Official site]
+| Governor         = [[Masaaki Kanda]]
+}}
+{{For|the company|Aichi Steel Corporation}}
+{{nihongo|'''Aichi Prefecture'''|愛知県|Aichi-ken}} is a [[Prefectures of Japan|prefecture]] of [[Japan]] located in the [[Tokai region]] of the [[Chūbu region]]. The capital is [[Nagoya]].  It is the focus of the [[Chūkyō Metropolitan Area]].
+
+== History ==
+Originally, the region was divided into the three provinces of [[Owari Province|Owari]], [[Mikawa Province|Mikawa]] and Ho. After the [[Nou-sama]] era, Mikawa and Ho were united into a single entity. In 1871, after the [[abolition of the han system]], Owari, with the exception of the [[Chita Peninsula]], was institutionalized as '''Nagoya Prefecture''', while Mikawa combined with the Chita Peninsula and formed [[Nukata Prefecture]]. Nagoya Prefecture was renamed to Aichi Prefecture in April 1872, and was united with Nukata Prefecture on [[November 27]] of the same year.
+
+The [[Expo 2005]] [[World's fair|World Exposition]] was held in [[Seto, Aichi|Seto]] and [[Nagakute, Aichi|Nagakute]].
+
+In 2009 the prefecture's Board of Education was accused of illegal hiring practices: [http://search.japantimes.co.jp/cgi-bin/nn20091020a4.html Japan Times article]
+
+== Geography ==
+[[Image:MikawaBayAicJpLandsat.jpg|thumb|left|Satellite picture of Mikawa Bay.]]
+Located near the center of the Japanese main island of [[Honshū]], Aichi Prefecture faces the [[Ise Bay|Ise]] and [[Mikawa Bay]]s to the south and borders [[Shizuoka Prefecture|Shizuoka]] to the east, [[Nagano Prefecture|Nagano]] to the northeast, [[Gifu Prefecture|Gifu]] to the north, and [[Mie Prefecture|Mie]] to the west. It measures 106 km east to west and 94 km south to north and forms a major portion of the [[Nōbi Plain]]. With 5,153.81 km² it accounts for approximately 1.36% of the total surface area of Japan. The highest spot is [[Chausuyama (Aichi)|Chausuyama]] at 1415 m above sea level.
+
+The western part of the prefecture is dominated by [[Nagoya, Aichi|Nagoya]], Japan's fourth largest city, and its suburbs, while the eastern part is relatively less densely populated but still contains several major industrial centers. Due to its robust economy, for the Oct 2005-Oct 2006 period, Aichi was the fastest growing prefecture in terms of population, beating Tokyo, at 7.4%.
+
+[[Image:AichiMapCurrent.png|thumb|left|250px|Map of Aichi Prefecture.]]
+<br clear=left>
+
+===Cities===
+Thirty-five cities are located in Aichi Prefecture:
+{{col-begin}}
+{{col-break}}
+*[[Aisai, Aichi|Aisai]]
+*[[Anjō, Aichi|Anjō]]
+*[[Chiryu, Aichi|Chiryu]]
+*[[Chita, Aichi|Chita]]
+*[[Gamagōri, Aichi|Gamagōri]]
+*[[Handa, Aichi|Handa]]
+*[[Hekinan, Aichi|Hekinan]]
+*[[Ichinomiya, Aichi|Ichinomiya]]
+*[[Inazawa, Aichi|Inazawa]]
+*[[Inuyama, Aichi|Inuyama]]
+*[[Iwakura, Aichi|Iwakura]]
+*[[Kariya, Aichi|Kariya]]
+{{col-break}}
+*[[Kasugai, Aichi|Kasugai]]
+*[[Kitanagoya, Aichi|Kitanagoya]]
+*[[Kiyosu, Aichi|Kiyosu]]
+*[[Komaki, Aichi|Komaki]]
+*[[Kōnan, Aichi|Kōnan]]
+*[[Nagoya, Aichi|Nagoya]] (capital)
+*[[Nishio, Aichi|Nishio]]
+*[[Nisshin, Aichi|Nisshin]]
+*[[Okazaki, Aichi|Okazaki]]
+*[[Ōbu, Aichi|Ōbu]]
+*[[Owariasahi, Aichi|Owariasahi]]
+*[[Seto, Aichi|Seto]]
+{{col-break}}
+*[[Shinshiro, Aichi|Shinshiro]]
+*[[Shippō, Aichi|Shippō]]
+*[[Tahara, Aichi|Tahara]]
+*[[Takahama, Aichi|Takahama]]
+*[[Tokoname, Aichi|Tokoname]]
+*[[Tōkai, Aichi|Tōkai]]
+*[[Toyoake, Aichi|Toyoake]]
+*[[Toyohashi, Aichi|Toyohashi]]
+*[[Toyokawa, Aichi|Toyokawa]]
+*[[Toyota, Aichi|Toyota]]
+*[[Tsushima, Aichi|Tsushima]]
+*[[Yatomi, Aichi|Yatomi]]
+{{col-end}}
+
+===Towns and villages===
+<!-- template:aichi refers to the above header -->
+Towns and villages in each [[Districts of Japan|district]]:
+{{col-begin}}
+{{col-break}}
+*[[Aichi District, Aichi|Aichi District]]
+:[[Nagakute, Aichi|Nagakute]]
+:[[Tōgō, Aichi|Tōgō]]
+*[[Ama District, Aichi|Ama District]]
+:[[Kanie, Aichi|Kanie]]
+:[[Ōharu, Aichi|Ōharu]]
+:[[Tobishima, Aichi|Tobishima]]
+{{col-break}}
+*[[Chita District, Aichi|Chita District]] 
+:[[Agui, Aichi|Agui]]
+:[[Higashiura, Aichi|Higashiura]]
+:[[Mihama, Aichi|Mihama]]
+:[[Minamichita, Aichi|Minamichita]]
+:[[Taketoyo, Aichi|Taketoyo]]
+*[[Hazu District, Aichi|Hazu District]]
+:[[Hazu, Aichi|Hazu]]
+:[[Isshiki, Aichi|Isshiki]]
+:[[Kira, Aichi|Kira]]
+*[[Hoi District, Aichi|Hoi District]]
+:[[Kozakai, Aichi|Kozakai]]
+{{col-break}}
+*[[Kitashitara District, Aichi|Kitashitara District]]
+:[[Shitara, Aichi|Shitara]]
+:[[Tōei, Aichi|Tōei]]
+:[[Toyone, Aichi|Toyone]]
+*[[Nishikamo District, Aichi|Nishikamo District]]
+:[[Miyoshi, Aichi|Miyoshi]]
+*[[Nishikasugai District, Aichi|Nishikasugai District]]
+:[[Haruhi, Aichi|Haruhi]]
+:[[Toyoyama, Aichi|Toyoyama]]
+*[[Niwa District, Aichi|Niwa District]]
+:[[Fusō, Aichi|Fusō]]
+:[[Ōguchi, Aichi|Ōguchi]]
+*[[Nukata District, Aichi|Nukata District]]
+:[[Kōta, Aichi|Kōta]]
+{{col-end}}
+
+===Mergers===
+{{Main|List of mergers in Aichi Prefecture}}
+
+==Economy==
+[[Image:Expo 2005 Flaggs and Corporate Pavillion Zone.jpg|thumb|[[Expo 2005]].]]
+Aichi's industrial output is higher than any other prefecture in Japan: the prefecture is known as the center of Japan's automotive and aerospace industries.  Companies headquartered in Aichi include:
+{|
+|[[Aisin Seiki]]||[[Kariya, Aichi|Kariya]]
+|-
+|[[Brother Industries, Ltd.]]||Nagoya
+|-
+|[[Central Japan Railway Company]]||Nagoya
+|-
+|[[Denso Corporation]]||Kariya
+|-
+|[[Makita Corporation]]||Anjou
+|-
+|[[Matsuzakaya]]||Nagoya
+|-
+|[[Nagoya Railroad]]||Nagoya
+|-
+|[[Nippon Sharyo]]||Nagoya
+|-
+|[[Noritake]]||Nagoya
+|-
+|[[Toyota Motor Corporation]]||[[Toyota, Aichi|Toyota]]
+|-
+|Yokohama Rubber Co., Ltd||Shinshiro City
+|}
+
+Companies such as [[Daimler Chrysler]], [[Fuji Heavy Industries]], [[Mitsubishi Motors]], [[Pfizer]], [[Sony]], [[Suzuki]], and [[Volkswagen Group]]{{Dubious|date=November 2009}} also operate plants in Aichi.
+
+== Demographics ==
+As of 2001, Aichi Prefecture's population was 50.03% [[male]] and 49.97% [[female]]. 139,540 residents of which nearly 2% are of foreign [[nationality]].
+
+{| border="0" style="margin-left: 20px; border: solid; border-width: 1px; background: #FFFFFF; padding: 2px"
+|+style="font-weight: bold; font-size: 80%" | Population by age (2001)
+|----- style="background: #CCCCCC"
+! Age
+! % Population
+! % Male
+! % Female
+|----- align="right"
+! style="background: #CCCCCC" | 0 - 9
+| 10.21 || 10.45 || 9.96
+|----- align="right"
+! style="background: #CCCCCC" | 10 - 19
+| 10.75 || 11.02 || 10.48
+|----- align="right"
+! style="background: #CCCCCC" | 20 - 29
+| 15.23 || 15.71 || 14.75
+|----- align="right"
+! style="background: #CCCCCC" | 30 - 39
+| 14.81 || 15.31 || 14.30
+|----- align="right"
+! style="background: #CCCCCC" | 40 - 49
+| 12.21 || 12.41 || 12.01
+|----- align="right"
+! style="background: #CCCCCC" | 50 - 59
+| 15.22 || 15.31 || 15.12
+|----- align="right"
+! style="background: #CCCCCC" | 60 - 69
+| 11.31 || 11.22 || 11.41
+|----- align="right"
+! style="background: #CCCCCC" | 70 - 79
+| 6.76 || 6.01 || 7.52
+|----- align="right"
+! style="background: #CCCCCC" | over 80
+| 3.12 || 2.01 || 4.23
+|----- align="right"
+! style="background: #CCCCCC" | unknown
+| 0.38 || 0.54 || 0.23
+|}
+
+== Sports  ==
+
+The sports teams listed below are based in Aichi.
+
+Football (soccer)<BR>
+*[[Nagoya Grampus Eight]]  ([[Nagoya, Aichi|Nagoya]])
+*[[F.C. Kariya]]  ([[Kariya, Aichi|Kariya]])
+
+Baseball<BR>
+*[[Chunichi Dragons]]  ([[Nagoya, Aichi|Nagoya]])
+
+Volleyball<BR>
+*[[Toyoda Gosei Trefuerza]]  ([[Nishikasugai District, Aichi|Nishikasugai District]])
+*[[Denso Airybees]]  ([[Nishio, Aichi|Nishio]])
+*[[Toyota Auto Body Queenseis]]  ([[Kariya, Aichi|Kariya]])
+
+Rugby<BR>
+*[[Toyota Verblitz]]  ([[Toyota, Aichi|Toyota]])
+
+== Tourism ==
+Notable sites in Aichi include the [[Meiji Mura]] open-air architectural museum in [[Inuyama]], which preserves historic buildings from Japan's [[Meiji period|Meiji]] and [[Taishō period|Taishō]] periods, including the reconstructed lobby of [[Frank Lloyd Wright]]'s old [[Imperial Hotel, Tokyo|Imperial Hotel]] (which originally stood in Tokyo from 1923 to 1967). 
+
+Other sites in Aichi include the tour of the [[Toyota]] car factory in the city by the same name, the monkey park in [[Inuyama]], and the castles in [[Nagoya]],  [[Okazaki]], [[Toyohashi]], and [[Inuyama]].
+
+Because of Aichi's location along the Eastern seacoast, there are some scenic spots, but other than the Atsumi Peninsula surf beaches there are no significant beach destinations when compared to neighboring [[Shizuoka Prefecture]]. Most attractions are man-made destinations, dealing with the region's history or modern marvels.
+
+== External links ==
+{{commons}}
+*{{wikitravel|Aichi}}
+*[http://www.pref.aichi.jp/global/en/index.html Official Aichi Prefecture homepage]
+*[http://www.aichi-kanko.jp/english/index.html Aichi Prefectural Tourist Association]
+
+{{Aichi}}
+
+{{Regions and administrative divisions of Japan}}
+
+{{Coord|35|5|N|136|59|E|scale:500000|display=title}}
+
+<!--Categories-->
+[[Category:Aichi Prefecture| ]]
+[[Category:Chūbu region]]
+[[Category:Prefectures of Japan]]
+
+<!--Other languages-->
+
+[[ar:آيتشي (محافظة)]]
+[[zh-min-nan:Aiti-koān]]
+[[bg:Айчи]]
+[[ca:Prefectura d'Aichi]]
+[[cs:Prefektura Aiči]]
+[[da:Aichi]]
+[[de:Präfektur Aichi]]
+[[et:Aichi prefektuur]]
+[[es:Prefectura de Aichi]]
+[[eo:Aiĉi (gubernio)]]
+[[fr:Préfecture d'Aichi]]
+[[gl:Prefectura de Aichi]]
+[[ko:아이치 현]]
+[[id:Prefektur Aichi]]
+[[it:Prefettura di Aichi]]
+[[pam:Aichi Prefecture]]
+[[ka:აიტი]]
+[[sw:Mkoa wa Aichi]]
+[[lv:Aiči prefektūra]]
+[[lt:Aičio prefektūra]]
+[[hu:Aicsi prefektúra]]
+[[nl:Aichi (prefectuur)]]
+[[ja:愛知県]]
+[[no:Aichi (prefektur)]]
+[[nn:Aichi]]
+[[km:ខេត្តអៃឈិ]]
+[[pl:Prefektura Aichi]]
+[[pt:Aichi]]
+[[ro:Prefectura Aichi]]
+[[ru:Айти (префектура)]]
+[[sk:Aiči (prefektúra)]]
+[[sr:Префектура Аичи]]
+[[su:Préféktur Aichi]]
+[[fi:Aichin prefektuuri]]
+[[sv:Aichi prefektur]]
+[[tl:Prepektura ng Aichi]]
+[[th:จังหวัดไอจิ]]
+[[tg:Префектураи Айчи]]
+[[uk:Префектура Аїті]]
+[[vi:Aichi]]
+[[war:Aichi (prefektura)]]
+[[zh-yue:愛知縣]]
+[[zh:愛知縣]]

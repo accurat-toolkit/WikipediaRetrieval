@@ -1,0 +1,203 @@
+{{otherusesof}}
+{{Wiktionary|R|r}}
+{{Latin alphabet navbox|uc=R|lc=r}}
+'''R''' is the eighteenth letter of the modern [[Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈɑr}}<!--No, not UK [ɑː] vs US [ɑɹ]. There is no phonemic distinction between the two.-->) is spelled '''ar''', plural '''ars''';<ref>"R" ''[[Oxford English Dictionary]],'' 2nd edition (1989); "ar," op. cit.</ref> its name in [[Hiberno-English]] is '''or''' {{IPA-en|ˈɔr|}}.
+
+==History==
+{| border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;text-align:center;"
+|-  bgcolor="#EEEEEE"
+! Egyptian hieroglyph <br/> ''tp''
+! [[Proto-Canaanite alphabet|Proto-Semitic R]]
+! Phoenician <br/> ''[[resh]]''
+! Etruscan R
+! Greek <br/> ''[[Rho (letter)|Rho]]''
+! Later Etruscan R
+|-----
+|<hiero>D1</hiero>
+|[[Image:Proto-semiticR-01.png]]
+|[[Image:PhoenicianR-01.png]]
+|[[Image:EtruscanR-01.png]]
+|[[Image:Rho uc lc.svg|60px]]
+|[[Image:EtruscanR-02.png]]
+|}
+
+The original [[Semitic]] letter was probably inspired by an [[Egyptian hieroglyph]] for "head", pronounced ''t-p'' in Egyptian, but it was used for {{IPA|/r/}} by Semites because in their language, the word for "head" was [[Rêš]] (also the name of the letter).  It developed into Greek [[Rho (letter)|Ρ]] {{polytonic|ῥῶ}} (Rhô) and Latin R. It is likely that some Etruscan and Western Greek forms of the letter added the extra stroke to distinguish it from a later form of the letter P.
+
+The minuscule (lower-case) form of r developed through several variations on the capital form. In handwriting it was common not to close the bottom of the loop but continue into the leg, saving an extra pen stroke. The loop-leg stroke shortened into the simple arc used today. Another minuscule, [[r rotunda]] (ꝛ), kept the loop-leg stroke but dropped the vertical stroke. It fell out of use around the 18th century.
+
+==Usage==
+{{See also|rhotic consonant|r-colored vowel|guttural R}}
+
+The letter R represents a [[rhotic consonant]] in many languages, as shown in the table below. The [[help:IPA|International Phonetic Alphabet]] uses several variations of the letter to represent the different rhotic consonsants; {{IPA|[r]}} represents the [[alveolar trill]].
+
+{| class="wikitable" style="width:85%;margin:auto"
+|-
+| style="width:35%" | [[Alveolar trill]] {{IPA|[r]}}
+| style="text-align:center" | [[Media:alveolar trill.ogg|Listen]]
+| style="width:55%" | [[Arabic language|Arabic]], [[Armenian language|Armenian]], [[Bulgarian language|Bulgarian]],  some dialects of [[British English]] or in emphatic speech, [[Finnish language|Finnish]], [[German language|German]] in some dialects, [[Hungarian language|Hungarian]], [[Icelandic language|Icelandic]], [[Italian language|Italian]], [[Czech language|Czech]], [[Lithuanian language|Lithuanian]], [[Latin language|Latin]], [[Norwegian language|Norwegian]], [[Polish language|Polish]], [[Catalan language|Catalan]], [[Portuguese language|Portuguese]] (traditional European form), [[Romanian language|Romanian]], [[Russian Language|Russian]], [[Scots language|Scots]], [[Spanish language|Spanish]] and [[Albanian language|Albanian]] 'rr', [[Swedish language|Swedish]], [[Welsh language|Welsh]], in standard [[Dutch language|Dutch]], [[Galician language|Galician]]
+|-
+| style="width:35%" | [[Alveolar approximant]] {{IPA|[ɹ]}}
+| style="text-align:center" | [[Media:alveolar approximant.ogg|Listen]]
+| style="width:55%" | [[English language|English]] (most varieties), [[Dutch language|Dutch]] in some Dutch dialects (in specific positions of words), [[Faroese language|Faroese]]
+|-
+| style="width:35%" | [[Alveolar flap]] / [[Alveolar tap]] {{IPA|[ɾ]}}
+|  style="text-align:center" | [[Media:alveolar flap.ogg|Listen]]
+| style="width:55%" | [[Greek language|Greek]], [[Hindi language|Hindi]] 'र', [[Korean language|Korean]] 'ㄹ' (also realised as [l] or [ɭ]), [[Polish language|Polish]], [[Portuguese language|Portuguese]], [[Catalan language|Catalan]], [[Spanish language|Spanish]] and [[Albanian language|Albanian]] 'r', [[Turkish language|Turkish]], [[Italian language|Italian]], [[Quechua language|Quechua]], [[Galician language|Galician]], [[Leonese language|Leonese]]
+|-
+| style="width:35%" | [[Alveolar lateral flap]] {{IPA|[ɺ]}}
+| style="text-align:center" | [[Media:Con-80b.wav|Listen]]
+| style="width:55%" | [[Japanese language|Japanese]]
+|-
+| style="width:35%" | [[Voiced retroflex fricative]] {{IPA|[ʐ]}}
+| style="text-align:center" | [[Media:Voiced retroflex fricative.ogg|Listen]]
+| style="width:55%" | [[Standard Mandarin|Mandarin]] as an allophone, [[Spanish language|Spanish]] used as an allophone of [r] in some South American accents.
+|-
+| style="width:35%" | [[Retroflex approximant]] {{IPA|[ɻ]}}
+| style="text-align:center" | [[Media:Retroflex approximant.ogg|Listen]]
+| style="width:55%" | some varieties of [[American English]], [[Standard Mandarin|Mandarin]] as an allophone
+|-
+| style="width:35%" | [[Retroflex flap]] {{IPA|[ɽ]}}
+| style="text-align:center" | [[Media:Retroflex flap.ogg|Listen]]
+| style="width:55%" | [[Hindi language|Hindi]] 'ड़', sometimes [[Scottish English]]
+|-
+| style="width:35%" | [[Uvular trill]] {{IPA|[ʀ]}}
+| style="text-align:center" | [[Media:Uvular trill.ogg|Listen]]
+| style="width:55%" | [[Arabic language|Arabic]], [[German language|German]] stage standard, [[French language|French]]; some [[Dutch language|Dutch]] dialects (mainly in Belgium), [[Swedish language|Swedish]] in Southern Sweden
+|-
+| style="width:35%" | [[Voiced uvular fricative]] {{IPA|[ʁ]}}
+| style="text-align:center" | [[Media:voiced uvular fricative.ogg|Listen]]
+| style="width:55%" | [[German language|German]], [[Danish language|Danish]], [[French language|French]] in and around Paris, [[Hebrew language|Modern Hebrew]], [[Portuguese language|Portuguese]]
+|}
+
+Other languages may use the letter r in their alphabets (or Latin transliterations schemes) to represent rhotic consonants different from the alveolar trill.  In [[Haitian Creole]], it represents a sound so weak that it is often written interchangeably with ''w'', eg. ''Kweyol'' for ''Kreyol''.
+
+===Dog's Letter===
+The letter R is sometimes referred to as the '''littera canina''' (canine letter). This phrase has Latin origins: the Latin R was trilled so it sounds like a snarling dog. A good example of a trilling R is the Spanish word for dog, ''perro''. <ref>[http://wordsmith.org/words/dogs_letter.html A Word A Day: Dog's letter]</ref>  In ''[[William Shakespeare]]'s'' ''[[Romeo and Juliet]]'', such a reference is made by Juliet's nurse in Act 2, scene 4, when she calls the letter R "the dog's name." The reference is also found in [[Ben Jonson]]'s ''English Grammar''.<ref>{{cite book
+  | last = Shakespeare
+  | first = William
+  | authorlink = 
+  | coauthors = Horace Howard Furness, Frederick Williams
+  | title = Romeo and Juliet
+  | publisher = Lippincott
+  | date = 1913
+  | location = 
+  | page = 189
+  | url = http://books.google.com/books?id=Wj0OAAAAIAAJ&client=firefox-a
+  | doi = 
+  | id = 
+  | isbn = }}</ref>
+
+==Codes for computing==
+{{Letter
+|NATO=Romeo
+|Morse=·–·
+|Character=R
+|Braille=⠗
+}}
+In [[Unicode]], the [[capital letter|capital]] R is codepoint U+0052 and the [[lower case]] r is U+0072.
+
+The [[ASCII]] code for capital R is 82 and for lowercase r is 114; or in [[Binary numeral system|binary]] 01010010 and 01110010, correspondingly.
+
+The [[EBCDIC]] code for capital R is 217 and for lowercase r is 153.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#82;</tt>" and "<tt>&amp;#114;</tt>" for upper and lower case respectively.
+
+==See also==
+{{col-begin}}
+{{col-3}}
+*[[Er (Cyrillic)|Р, р - Er (Cyrillic)]]
+*[[Rho (letter)|Ρ, ρ or ϱ - Rho (Greek)]]
+*[[Ya (Cyrillic)|Я, я - (Cyrillic ''Ya'')]]
+{{col-3}}
+*[[Raidô]]
+*[[Vocalic r]]
+*[[Vox Canina]]
+{{col-3}}
+{{Commons|R}}
+{{col-end}}
+
+==References==
+{{reflist}}
+
+{{LetterR}}
+{{Latin alphabet|R|}}
+
+[[Category:Latin letters]]
+
+[[af:R]]
+[[als:R]]
+[[ar:R]]
+[[arc:R]]
+[[ast:R]]
+[[az:R]]
+[[zh-min-nan:R]]
+[[bs:R]]
+[[br:R (lizherenn)]]
+[[ca:R]]
+[[cs:R]]
+[[co:R]]
+[[cy:R]]
+[[da:R]]
+[[de:R]]
+[[et:R]]
+[[el:R]]
+[[es:R]]
+[[eo:R]]
+[[eu:R]]
+[[fa:R]]
+[[fr:R (lettre)]]
+[[fy:R]]
+[[fur:R]]
+[[gv:Renniagh (lettyr)]]
+[[gd:R]]
+[[gl:R]]
+[[gan:R]]
+[[ko:R]]
+[[hr:R]]
+[[ilo:R]]
+[[is:R]]
+[[it:R]]
+[[he:R]]
+[[ka:R]]
+[[kw:R]]
+[[sw:R]]
+[[ht:R]]
+[[ku:R]]
+[[la:R]]
+[[lv:R]]
+[[lt:R]]
+[[hu:R]]
+[[mk:R (Латиница)]]
+[[mzn:R]]
+[[ms:R]]
+[[nah:R]]
+[[nl:R (letter)]]
+[[ja:R]]
+[[no:R]]
+[[nn:R]]
+[[nrm:R]]
+[[uz:R (harf)]]
+[[pl:R]]
+[[pt:R]]
+[[ro:R]]
+[[qu:R]]
+[[ru:R (латиница)]]
+[[se:R]]
+[[stq:R]]
+[[scn:R]]
+[[simple:R]]
+[[sl:R]]
+[[sr:R (слово латинице)]]
+[[fi:R]]
+[[sv:R]]
+[[tl:R]]
+[[th:R]]
+[[tr:R (harf)]]
+[[uk:R (латиниця)]]
+[[vi:R]]
+[[vo:R]]
+[[yi:R]]
+[[yo:R]]
+[[zh-yue:R]]
+[[bat-smg:R]]
+[[zh:R]]

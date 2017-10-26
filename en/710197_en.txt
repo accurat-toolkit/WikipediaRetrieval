@@ -1,0 +1,209 @@
+{{Redirect|Monkey tail|the plant|Heliotropium curassavicum}}
+{{Article issues|cleanup=August 2008|refimprove=December 2007}}
+{{Punctuation marks|@}}
+
+The typographic character '''@''', called the '''at sign''' or '''at symbol''', is an abbreviation of the word ''at'' or the phrase ''at the rate of'' in [[accounting]] and commercial [[invoice]]s, e.g. "7 [[Widget (economics)|widget]]s @ $2 = $14". Other names for the symbol—such as ''amphora'', ''asperand'', and ''monkey tail''—have been suggested and occassionally used, but none are in general use in English. Today, this character is ubiquitous because of its use denoting ''at'' in [[e-mail]] addresses. In English, it is usually pronounced as ''at''. Its official, typographic character name is '''commercial at''' in the [[American National Standards Institute|ANSI]], [[ITU-T]], and [[Unicode]] character encoding standards. Some historical names are mentioned in the "[[#History|History]]" section below.
+
+== History ==
+There are several theories about the origin of the ''commercial at'' character: 
+* The symbol developed as a mercantile shorthand symbol of "each at"—the symbol resembling a small "a" inside a small "e"—to distinguish it from the different "at" (symbolized by the mere letter "a") or "per." For example, the cost of "12 apples @ $1" would be $12, whereas the cost of "12 apples at $1" would be $1—a crucial and necessary distinction. 
+* Medieval monks abbreviated the Latin word {{lang|la|''ad''}} (at, toward, by, about) next to a [[numerical digit|numeral]].
+* It was originally an abbreviation of the [[Greek language|Greek]] preposition ''ανά'' (transliterated ''ana''), meaning ''at the rate of'' or ''per''.
+* An [[Italy|Italian]] [[Academia|academic]] claims to have traced the @ symbol to the [[Italian Renaissance]], in a Venetian mercantile document signed by [[Francesco Lapi]] on [[May 4]], [[1537]].<ref>[http://www.guardian.co.uk/international/story/0,3604,348744,00.html merchant@florence wrote it first 500 years ago | Technology | The Guardian<!-- Bot generated title -->]</ref> The document is about commerce with [[Francisco Pizarro|Pizarro]], in particular the price of an @ of wine in [[Peru]]; @ meant [[amphora]] ([[Italian language|Italian]] ''{{lang|it|anfora}};'' [[Spanish language|Spanish]] and [[Portuguese language|Portuguese]] ''arroba''). Currently, the word ''arroba'' means the at-symbol and a unit of weight. In this usage, the symbol represents one amphora, a unit of weight and volume based upon the capacity of the standard amphora jar, and entered  modern meaning and use as "at the rate of" in northern Europe.
+
+[[Image:1674 liten.jpg|225px|thumb|left|Evidence of the usage of @ to signify [[French language|French]] "{{lang|fr|à}}" (meaning "at") from a [[1674]] protocol from a [[Sweden|Swedish]] [[lower court]] and [[magistrate]] ({{lang|sv|''[[Arboga]] rådhusrätt och magistrat''}})]]
+[[Image:At-sign evolution.svg|thumb|225px|left|A hypothetical evolution of the at-sign]]
+* From Norman French "à" meaning "at" in the "each" sense, i.e. "2 [[widget (economics)|widget]]s à £5.50 = £11.00" is the  [[accountancy]] shorthand notation in [[English people|English]] commercial [[voucher]]s and [[ledger]]s to the 1990s, when the e-mail usage superseded the accountancy usage. It also is so used in Modern French and Swedish; in this view, the at-symbol is a stylised form of à that avoids raising the writing hand from the page in drawing the symbol; this compromise between @ and à in French handwriting is in street market signs.
+
+[[Image:Ariza1448-2.jpg|225px|thumb|left|[[Arroba]] sign, used at the ''"taula de Ariza"'' registry from [[1448]], to denote a wheat shipment from [[Crown of Castile|Castile]] to the [[Kingdom of Aragon]].]]
+* The [[Aragon]]ese historian [[Jorge Romance]] located the appearance of the @ symbol at the ''"taula de Ariza"'' registry from [[1448]], to denote a wheat shipment from [[Kingdom of Castile|Castile]] to the [[Kingdom of Aragon]].<ref name="TaulaDeAriza1448">{{cite web |url=http://www.purnas.com/2009/06/30/la-arroba-no-es-de-sevilla-ni-de-italia |title=La arroba no es de Sevilla (ni de Italia) |accessdate=2009-06-30 |work=purnas.com |publisher=Jorge Romance}}</ref>
+
+@ was present in the 1902 model Lambert typewriter made by Lambert Typewriter Company of New York. Its inclusion in the original 1963 ASCII character set was unremarkable as it was a standard commercial typewriter character (the 1961 [[IBM Selectric typewriter]]'s keyboard included @).
+
+== Modern uses ==
+{{Cleanup-section|date=May 2009}}
+
+===Commercial===
+
+In contemporary English usage, @ is a commercial symbol, meaning ''at'' and ''at the rate of''. It has been used, rarely, in financial documents{{Clarify|date=August 2009}}<!-- use in "financial documents" of the "7 widgets @ $2 = $14" kind is hardly "rare", so is something else meant here by "financial documents"? If so, what? --> or grocers' price tags, and is not used in standard [[typography]].<ref>[[Robert Bringhurst|Bringhurst, Robert]] (2002). ''[[The Elements of Typographic Style]]'' (version 2.5), p.272. Vancouver: Hartley & Marks. ISBN 0-88179-133-4.</ref>
+
+===Computing and Internet===
+
+Its most familiar contemporary use is in [[e-mail address]]es (transmitted by [[Simple Mail Transfer Protocol|SMTP]]), as in <code>jdoe@example.com</code> (the user <code>jdoe</code> located ''at'' the <code>example.com</code> domain). BBN's [[Ray Tomlinson]] is credited with introducing this usage in 1971.<ref>[http://ask.yahoo.com/ask/20010824.html Who sent the first e-mail?]</ref> This idea of the symbol representing ''located at'' in the form <code>user@host</code> also is seen in other tools and protocols: the [[Unix shell]] command <code>ssh jdoe@www.example.com</code> tries to establish a [[secure Shell|ssh]] connection to the computer with the [[hostname]] <code>www.example.com</code> using the username <code>jdoe</code>. 
+
+On the Indian subcontinent some still say "@" as "at the rate of", even in e-mail addresses.  With the growing use of [[information technology]] companies in India for support and call centres, hearing "at the rate of" in the context of an e-mail address can potentially confuse other English speakers.{{Citation needed|date=May 2009}}
+
+@ is used in various [[programming language]]s although there is not a consistent theme to its usage. For example:
+
+*In [[C Sharp (programming language)|C#]] it denotes "verbatim strings" where no characters are escaped and two double-quote characters represent a single double-quote.
+*In [[Java (programming language)|Java]], it is used to denote annotations, a kind of metadata, since version 5.0
+*In [[modal logic]], specifically when representing [[possible world]]s, @ is sometimes used as a logical symbol to denote the actual world (the world we are 'at').
+*In [[Pascal (programming language)|Pascal]], @ is the "address of" operator (it tells the location at which a variable is found).
+*In [[Perl]], @ prefixes [[Variable (programming)|variables]] which contain [[Array data structure|arrays]].
+*In [[PHP]], it is used just before an [[Expression (programming)|expression]] to make the [[Interpreter (computing)|interpreter]] suppress errors that would be generated from that expression.
+*In [[Python (programming language)|Python]] 2.4 and up, it is used to decorate a function (wrap the function in another one at creation time).
+*In [[Ruby (programming language)|Ruby]], @ prefixes [[instance variable]]s, and @@ prefixes [[class variable]]s.
+*In [[Scala (programming language)|Scala]], it is used to denote annotations (as in Java), and also to bind names to subpatterns in pattern-matching expressions.
+*In [[Clipper (programming language)|Clipper]], it is used to denote position on the screen. For example: @1,1 SAY "HELLO" to show the word "HELLO" in line 1, row 1.
+
+@ may sometimes be used to represent a [[schwa]], as the actual schwa character "ə" may be difficult to produce on many computers. It is used in this capacity in the ASCII [[International Phonetic Alphabet|IPA]] schemes [[SAMPA]], [[X-SAMPA]] and [[Kirshenbaum]].
+
+On some online forums without proper [[threaded discussion]]s, @ is used to denote a reply; for instance: "@Jane" to respond to a comment Jane made earlier.
+
+In online discourse, @ is used by some [[Anarchism|anarchists]] as a substitute for the traditional [[Anarchist symbolism#Circle-A|circle-A]].
+
+It is frequently used in [[leet]] as a substitute for the letter A.
+
+It is frequently used in typing and [[text messaging]] as an abbreviation for the words "at" or "about"
+
+In [[Internet Relay Chat]] (IRC), it is often shown before a user's nick to mark the operator of a channel.
+
+In some cases, @ is used for "attention" in e-mails originally sent to someone else.  For example, if an e-mail was sent from Catherine to Steve, but in the body of the e-mail, Catherine wants to make Keirsten aware of something, Catherine will start the line "@Keirsten" to indicate to Keirsten that the following sentence concerns her.  This also helps with mobile e-mail users who can not see bold or color in e-mail.
+
+@ is also used on many [[wireless router]]s/[[modem]]s, where a solid green @ symbol indicates the router is connected and a solid amber @ indicates there is a problem.
+
+In [[microblogging]] (such as [[Twitter]] and [[Laconica]]-based microblogs), @ before the user name is used to send publicly readable replies (e.g. "@otheruser: Message text here"). The blog and client software can automatically interpret these as links to the user in question. This use of the @ symbol was also recently rolled out to Facebook users on September 15, 2009.
+
+In [[internet forum]]s, the @ sign is used in lieu of a quote. For example, John posts something which is then followed by seven posts. Another user, Dan, wishes to reply directly to John. He can either quote him or begin his post @John: in order to indicate to whom he is speaking.
+
+===Gender-neutrality in Spanish and Portuguese===
+{{Main|Gender-neutrality in Spanish and Portuguese}}
+
+In [[Portuguese language|Portuguese]] and [[Spanish language|Spanish]], as well in other [[West Iberian languages]] where many words ended in '-o' when in the masculine [[Grammatical gender|gender]] and ended '-a' in the feminine, '@' can be used as a [[gender-neutral pronoun|gender-neutral]] substitute which some advocates of [[gender-neutral language|gender-neutral language-modification]] feel indicates implicit linguistic disregard for women. These languages do not possess a neuter gender and the masculine forms are also used traditionally when referring to groups of mixed or unknown sex. The at-sign is intended to replace the [[desinence]] '-o', including its plural form '-os', due to the  resemblance to a digraph of an inner letter 'a' and an outer capital letter 'O'. 
+
+As an example of the '@' being used for gender-inclusive purposes, we can consider the Spanish and Portuguese word ''amigos''. When the word represents not only male friends, but also female ones, the proponents of a gender-inclusive language replace it with ''amig@s''. In this sense, ''amigos'' would be used only when the writer is sure the group referred to is all-male. Usage of ''amigas'' is the same in traditional and such new forms of communication. Alternative forms for a gender-inclusive at-sign would be the [[Slash_(punctuation)|slash sign]] (''amigos/as'') and the [[Anarchist symbolism#Circle-A|circle-A]] (''amigⒶs''), maybe as a kind of "bisexual digraph". More about it in [[Satiric misspelling]].
+
+The [[Real Academia Española]] disapproves the use of the at-sign as a letter<ref>http://buscon.rae.es/dpdI/SrvltGUIBusDPD?lema=genero#22</ref>. Many Portuguese and Spanish speakers may consider this usage also degrading. Some argue it is just more [[cultural imperialism]]. Others that there is no establish pronunciations, although there is at least one proposal in this sense. ''Português Com Inclusão de Gênero'' (Portuguese With Inclusion of Gender)<ref>http://numpol.com/br/pdf/2II.pdf in Portuguese and also http://conscienciaefervescente.blogspot.com/2009/08/proposta-do-portugues-com-inclusao-de.html, in Portuguese as well</ref> recommends that Spanish speakers and those who speak Portuguese with no reducing final '-o' pronounce the at-sign using the phoneme  [[Open-mid_back_rounded_vowel|phoneme [ɔ]]] (/aˈmigɔ/, where the stressed syllable, '''mi''', is preceded by a high vertical line, as used in [[International Phonetic Alphabet|IPA]]).
+
+[ɔ] is in same way between the "feminine" phoneme [[Open_front_unrounded_vowel|[a]]] (/aˈmiga/) and "masculine" one [[Close-mid back rounded vowel|[o]]] (/aˈmigo/)<ref>[[Portuguese_phonology#Vowels|Vowels in Portuguese]]</ref>. The majority of Portuguese speakers, who do [[Portuguese_phonology#Unstressed_vowels|reduce]] a final '-o' to [[Close_back_rounded_vowel|[u]]] (''amigo'' is said as /aˈmigu/), have one more phonetic option, but never changing the stressed syllable. Details in [[Portuguese With Inclusion of Gender]], which also proposes a lower case at-sign '<small>@</small>', since the original sign resembles an upper-case letter.
+
+===Other===
+
+In (especially English) science and technical literature, @ is used to describe the conditions under which data are valid or a measurement has been made. E.g. the density of saltwater may read d = 1.050 g/cm³ @ 15°C (read "at" for @), density of a gas d = 0,150 g/L @ 20°C, 1 bar, or noise of a car 81 dB @ 80&nbsp;km/h (speed).
+
+@ is also sometimes used (e.g. in articles about missing persons, obituaries, brief reports) to denote an alias after a person's proper name; for instance: "John Smith @ Jean Smyth" (a possible abbreviation of [[List_of_acronyms_and_initialisms:_A#AK|aka]]).
+
+In chemical formulae, @ is used to denote [[Chemical formula#Trapped_atoms|trapped atoms]] or molecules. For instance, La@C<sub>60</sub> means [[lanthanum]] inside a [[fullerene]] cage.
+
+In [[Malagasy language|Malagasy]], @ is an informal abbreviation for the prepositional form ''amin'ny''.
+
+== "Commercial at" in other languages==
+
+In most languages other than English, @ was less common before e-mail became widespread in the mid-1990s, although most [[typewriter]]s included the symbol. Consequently, it is often perceived in those languages as denoting "The Internet", computerization, or modernization in general.
+* In [[Arabic language|Arabic]] it is at, spelled آتْ (using the English pronunciation).
+* In [[Armenian language|Armenian]] it is "shnik" which means puppy.
+* In [[Azerbaijani language|Azeri]] it is at (using the English pronunciation).
+* In [[Basque language|Basque]] it is "a bildua" (wrapped a).
+* In [[Belarusian language|Belarusian]] it's called "сьлімак" ("helix", "snail")
+* In [[Bulgarian language|Bulgarian]] it is called ''кльомба'' ("klyomba", means nothing else) or ''маймунско а'' (''majmunsko a'' "monkey A").
+* In [[Catalan language|Catalan]] it is called 'arrova' (which means a unit of measure), or '[[ensaïmada]]' (because of the similar shape of this food speciality)
+* In [[Chinese language|Chinese]]
+** In [[mainland China]] it is ''quan a'' (圈a), meaning "circled a" or ''hua a'' (花a, lacy a). Sometimes as ''xiao laoshu'' (小老鼠), meaning "little [[mouse]]".
+** In [[Hong Kong]] it is at (using the English pronunciation).
+* In [[Croatian language|Croatian]] it is most often referred to by the english word ''at''. Informally, it is called a ''manki'', coming from the local pronunciation of the English word, ''monkey''.  Note that the Croatian word for monkey, ''majmun'', is not used to denote @.
+* In [[Czech language|Czech]] and [[Slovak language|Slovak]] it is called ''zavináč'' ([[rollmops]]).
+* In [[Danish language|Danish]] it is ''snabel-a'' ("(elephant's) trunk-a").
+* In [[Dutch language|Dutch]] it is called ''apenstaartje'' ("[[monkey]]-[[tail]]"), the use of "at" is increasing in popularity.
+* In [[Esperanto]] it is called ''ĉe-signo'' ("at" - for the e-mail use, with an address pronounced ''zamenhof ĉe esperanto punkto org''), ''po-signo'' ("each"—refers only to the mathematical use) or ''heliko'' ("snail").
+* In [[Faroese language|Faroese]] it is ''kurla'' (sounds "curly"), ''hjá'' ("at"), ''tranta'' and ''snápila'' ("(elephant's) trunk-a").
+* In [[Finnish language|Finnish]] it was originally called ''taksamerkki'' ("fee sign") or ''yksikköhinnan merkki'' ("unit price sign"), but these names are long obsolete and now rarely understood. Nowadays, it is officially ''ät-merkki'', according to the national standardization institute SFS; frequently also spelled "at-merkki". Other names include ''kissanhäntä'', ("cat's tail") and ''miukumauku'' ("miaow-meow").
+* In [[French language|French]] it is ''arobase'' or ''arrobe'' or ''a commercial'' (though this is most commonly used in French-speaking Canada, and should normally only be used when quoting prices; it should always be called ''arobase'' or, better yet, ''arobas'' when in an e-mail address), and sometimes ''a dans le rond'' (a in the circle). Same origin as [[Spanish language|Spanish]] which could be derived from [[Arabic language|Arabic]], ''ar-roub''.
+* In [[Georgian language|Georgian]] it is "at" (using the English pronunciation), spelled ეთ–ი(კომერციული ეთ–ი).
+* In [[German language|German]] it sometimes used to be referred to as ''Klammeraffe'' (meaning "[[spider monkey]]"). ''Klammeraffe'' refers to the similarity of @ to the tail of a monkey grabbing a branch. Lately, it is mostly called ''at'' just like in English
+* In [[Greek language|Greek]], it is most often referred to as ''papaki'' (παπάκι), meaning "duckling," due to the similarity it bears with comic character designs for ducks.
+* In [[Greenlandic language|Greenlandic]] Inuit language - it is called ''aajusaq'' meaning "a-like" or "something that looks like a"
+* In [[Hebrew language|Hebrew]] it is colloquially known as ''[[strudel|shtrudel]]'' (שטרודל). The normative term, invented by [[The Academy of the Hebrew Language]], is ''krukhit'' (כרוכית), which is a Hebrew word for strudel.
+* In [[Hindi]] it is "at" (using the English pronunciation).
+* In [[Hungarian language|Hungarian]] it is called ''kukac'' ("worm, maggot").
+* In [[Icelandic language|Icelandic]] it is referred to as "at merkið ("the at-sign") or "hjá" which is a direct translation of at.
+* In [[Indonesian language|Indonesian]] it is usually read ''et''. Variations exist - especially if verbal communication is very noisy - such as: ''a bundar''/''a bulat'' (meaning "[[circle]] A"), ''a keong'' ("[[snail]] A"), and (very rarely) ''a monyet'' ("[[monkey]] A").
+* In [[Italian language|Italian]] it is ''chiocciola'' ("[[snail]]") or ''a commerciale'', sometimes ''at'' (pronounced more often {{IPA-it|ɛt|}}, rarely {{IPA|[at]}}) or ''ad''.
+* In [[Japanese language|Japanese]] it is called ''attomāku'' (アットマーク, "at mark").  The word is a [[wasei-eigo]], which are Japanese vocabulary forged from the English language or [[Gairaigo]] foreign loan words in general. It is sometimes called ''[[naruto, Tokushima|naruto]]'', because of [[Naruto whirlpools]] or food ([[kamaboko]]).
+* In [[Kazakh language|Kazakh]] it is officially called ''айқұлақ'' ("moon's ear"), sometimes unofficial as ''ит басы'' ("dog's head").
+* In [[Korean language|Korean]] it is called ''golbaeng-i'' (골뱅이; bai top shells), a dialectal form of ''daseulgi'' (다슬기), a small freshwater snail with no tentacles.
+* In [[Latvian language|Latvian]] it is pronounced same as in English, but, since in Latvian [æ] is written as "e" not "a" (as in English), it's sometimes written as ''et''.
+* In [[Lithuanian language|Lithuanian]] it is ''eta'' (equivalent to English ''at'' but with Lithuanian ending)
+* In [[Luxembourgish language|Luxembourgish]] it used to be called ''Afeschwanz'' (monkey-tail), but due to widespread use it is now pronounced 'at' like in English.
+*In [[Macedonian language|Macedonian]] it is called ''мајмунче'' (pronun. ''my-moon-cheh'', little monkey)
+* In [[Morse Code#Common punctuation|Morse Code]] it is known as a "commat," consisting of the Morse code for the "A" and "C" run together as one character: ('''''·--·-·''''').  The symbol was added in [[2004]] for use with e-mail addresses, the only change since [[World War I]].
+* In [[Norwegian language|Norwegian]] it is officially called ''krøllalfa'' ("curly [[Alpha (letter)|alpha]]" or "alpha twirl"). (The alternate ''alfakrøll'' is also common. Sometimes ''Snabel a''(trunk a, as in elephant's trunk) is used. )
+* In [[Persian language|Persian]] it is ''at'' (using the English pronunciation).
+* In [[The Philippines]] at means 'and' in [[Tagalog]] which could be used interchangebly in colloquial abbreviations. Ex: ''Magluto @ kumain.'' Cook and eat.
+* In [[Portuguese language|Portuguese]], it is called 'arroba' (from the Arabic ''arrub''). The word arroba is also used for a weight measure in Portuguese. While there are regional variations, one arroba is typically considered as representing approximately 25 [[pound (mass)|pounds]], 11.5&nbsp;kg, and both the weight and the symbol are called ''arroba''. In Brazil, [[cattle]] are still priced by the arroba&nbsp;— now rounded to 15 [[kilogram|kg]]. (This occurs because the same sign was used to represent the same measure.)
+* In [[Polish language|Polish]] it is called, both officially and commonly ''małpa'' (monkey); sometimes also ''małpka'' (little monkey).
+* In [[Romanian language|Romanian]] it is ''Coadă de maimuţă'' (monkey-tail) or "a-rond". The latter is more commonly used and may come from a-''[[Circle|round]]'' from its shape.
+[[File:Basic interpreter on the DVK computer.JPG|thumb|right|@ on an old Soviet computer (circa 1984)]]
+* In [[Russian language|Russian]] it is most commonly ''sobaka'' (собака) (dog). The name "dog" has come from Soviet computers [[DVK]] where the symbol had a short tail and similarity to a dog.
+<!-- ''shtrudel''' (штрудель) (strudel, pastry) - please cite this before it is reintroduced - it is not mentioned on the Russian page and I have never heard of it-->
+* In [[Serbian language|Serbian]] it is called ''лудо А''/''ludo A'' (crazy A), ''мајмунче''/''majmunče'' (little monkey) or ''мајмун''/''majmun'' (monkey)
+* In [[Slovene language|Slovenian]] it is called ''afna'' (little monkey)
+* In [[Spanish language|Spanish]] speaking countries it denotes a pre-metric unit of weight. While there are regional variations in [[Spain]] and [[Mexico]] it is typically considered to represent approximately 25 [[pound (mass)|pounds]] (11.5&nbsp;kg), and both the weight and the symbol are called ''arroba''. It has also been used as a unit of volume for wine and oil.
+* In [[Swedish language|Swedish]] it is called ''snabel-a'' ("(elephant's) trunk-a"), ''kanelbulle'' ([[Cinnamon roll]]) or simply "at" like in the English language.
+* In [[Swiss German]] it is commonly called ''Affeschwanz'' ("monkey-tail").
+* In [[Thai language|Thai]] it is commonly called ''at'' like English.
+* In [[Turkish language|Turkish]] it is ''et'' (using the English pronunciation). Also called as ''güzel a'' (beautiful a), ''özel a'' (special a), ''salyangoz'' (snail), ''koç'' (ram), ''kuyruklu a'' (a with a tail), ''çengelli a'' (a with hook) and ''kulak'' (ear).
+* In [[Ukrainian language|Ukrainian]] it is commonly called ''et'' ("at"), other names being ''ravlyk'' (равлик) (snail), ''slymachok'' (слимачок) (little slug), ''vukho'' (вухо) (ear) and ''pesyk'' (песик) (little dog).
+* In [[Vietnamese language|Vietnamese]] it is called ''a còng'' (bent a) in the North and ''a móc'' (hooked a) in the South.
+* In [[Welsh language|Welsh]] it is sometimes known as a ''malwen'' or ''malwoden'' (a snail).
+
+On the final episode of the second series of [[BBC Radio 4]] show ''[[The Museum of Curiosity]]'', recorded in London on 19 May 2009 and broadcast on 8 June 2009, author [[Philip Pullman]] added the category of "things that were invented for one purpose, but are used for another" to the museum's collection. As an example, Pullman referred to @.<ref>{{cite episode | title = Meeting Twelve - P-51 Mustang, Tempting Fate, Inventions Being Used for Things They Weren't Designed For | episodelink =  | series = The Museum of Curiosity | serieslink = The Museum of Curiosity | airdate = 8 June, 2009 | season = 2 | number = 6}}</ref> The host of the show, ''[[QI]]'' creator [[John Lloyd (writer)|John Lloyd]], noted that in other languages the symbol has a proper name, and pledged on [[QI (A series)|''QI'' series A DVD]] to support widespread use of the term "Astatine" to refer to the symbol. This name was chosen as the chemical element [[astatine]] has the chemical symbol "At".<ref>{{cite video|people=John Lloyd and [[John Mitchinson]]|title=QI - The Complete First Series: "Factoids" (Audio Commentary)|medium=DVD|publisher=[[BBC]] and [[2 Entertain]]|isbn=5-014503-232528|date=6 November, 2006}}</ref>
+
+==Small at sign==
+Besides the '@' (in its regular size), there is also an [[Unicode]] character for a small at-sign '﹫'. Its number is 65131 (decimal) and xFE6B ([[hexadecimal|hexa]]) and it is located in Small Font Variants code chart<ref>http://www.unicode.org/charts/PDF/UFE50.pdf</ref>. Depending on the font type this small at-sign can have the size of lower-case letter, but it is often smaller than that.
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wiktionary|@|at sign}}
+{{Commons category|At sign}}
+* [http://www.lrb.co.uk/v31/n10/soar01_.html "Daniel Soar on @"], ''[[London Review of Books]]'', Vol. 31 No. 10, 28 May 2009
+* [http://www.ascii64.org ascii64 - the @ book - free download (creative commons) - by patrik sneyd - foreword by luigi colani  (11/2006)]
+* [http://www.herodios.com/atsign.htm A Natural History of the @ Sign] The many names of the at sign in various languages
+* [http://www.linguistlist.org/issues/7/7-968.html Linguist's view]
+* Gender-inclusive use of <small>@</small> in Portuguese (and in Spanish too): ''2 - A língua e o sexo (2 - Tongue and Sex), Quartos (quarters) [http://numpol.com/br/pdf/2I.pdf I], [http://numpol.com/br/pdf/2II.pdf II] and [http://numpol.com/br/pdf/2III.pdf III]'', one of the subjects of [http://numpol.com/#lang=en Controversial Numbers] project 
+* [http://www.worldwidewords.org/articles/whereat.htm Where it's At: names for a common symbol] Article at World Wide Words
+* [http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/08/17/wname117.xml UK Telegraph Article: Chinese parents choose to name their baby "@"]
+*{{FOLDOC}}
+
+{{DEFAULTSORT:At Sign}}
+[[Category:Punctuation]]
+[[Category:Typography]]
+
+[[ar:@]]
+[[an:Arroba (simbolo)]]
+[[az:@ işarəsi]]
+[[bg:@]]
+[[cs:Zavináč]]
+[[co:Ciuvodda (tipugrafia)]]
+[[da:Snabel-a]]
+[[de:@]]
+[[et:@]]
+[[es:Arroba (símbolo)]]
+[[eo:@]]
+[[eu:A bildu]]
+[[fa:@]]
+[[fr:Arrobase]]
+[[ko:@]]
+[[it:@]]
+[[he:שטרודל (פיסוק)]]
+[[kk:Айқұлақ таңбасы]]
+[[ku:@]]
+[[lv:@]]
+[[lb:At-Zeechen]]
+[[lt:@]]
+[[hu:@]]
+[[nl:Apenstaartje]]
+[[ja:アットマーク]]
+[[no:@]]
+[[nn:Krøllalfa]]
+[[pl:@]]
+[[pt:@]]
+[[ksh:@]]
+[[ru:@]]
+[[sk:Zavináč (@)]]
+[[fi:@]]
+[[sv:@]]
+[[tr:Kuyruklu a]]
+[[uk:@]]
+[[zh:@]]

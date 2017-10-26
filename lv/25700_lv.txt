@@ -1,0 +1,21 @@
+'''GEO''' var būt:
+* [[Ģeostacionārā orbīta]]
+* [[Gruzija]]s [[ISO 3166-1]] kods
+
+{{disambig}}
+
+[[de:GEO]]
+[[en:Geo]]
+[[eo:GEO]]
+[[es:GEO]]
+[[fr:GEO]]
+[[it:GEO]]
+[[ja:GEO]]
+[[ko:GEO]]
+[[ksh:GEO (Watt ėßß datt?)]]
+[[lt:GEO]]
+[[nl:Geo]]
+[[pl:Geo]]
+[[ru:Geo]]
+[[simple:Geo]]
+[[sv:GEO]]

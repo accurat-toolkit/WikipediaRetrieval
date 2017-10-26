@@ -1,0 +1,125 @@
+{{otheruses}}   
+{{Infobox Comet   
+| name=C/2006 P1 (McNaught)   
+| image=[[File:Comet P1 McNaught02 - 23-01-07.jpg|270px|Comet McNaught as seen from Swift's Creek, [[Victoria (Australia)|Victoria]] on January 23, 2007]]  
+| discovery_date=August 7, 2006
+| designations=C/2006 P1, Comet McNaught, Great Comet of 2007   
+| epoch=2454113.2961 (January 20, 2007)   
+| perihelion=0.17075400&nbsp;[[Astronomical unit|AU]]<br />25,544,000&nbsp;[[kilometre|km]]
+| semimajor=-5681.10388683&nbsp;AU  
+| aphelion=
+| eccentricity=1.00003006
+| period=
+| inclination=77.82768004°
+| last_p=January 12, 2007   
+| next_p= N/A   
+}} 
+
+'''Comet McNaught''', also known as the '''Great Comet of 2007''' and given the designation '''C/2006 P1''', is a [[List of non-periodic comets|non-periodic]] [[comet]] discovered on August 7, 2006 by British-Australian [[astronomer]] [[Robert H. McNaught]]. <ref>{{cite web|url=http://www.mso.anu.edu.au/~rmn/C2006P1.htm|title=Report on the comet discovery and progress from Robert McNaught's homepage|accessdate = 2007-01-17}}</ref> It was the brightest comet for over 40 years, and was easily visible to the [[naked eye]] for observers in the [[Southern Hemisphere]] on January and February 2007.
+
+With an estimated peak [[Apparent magnitude|magnitude]] of -6.0, the comet was the second brightest since 1935.<ref>{{cite web|url=http://cfa-www.harvard.edu/icq/brightest.html|title=Brightest comets seen since 1935|publisher=Harvard|accessdate=2007-01-12}}</ref> Around [[perihelion]] on January 12, it was visible worldwide in broad daylight. Its tail measured an estimated 35 degrees in length at its peak.<ref>{{cite web|url=http://cometography.com/lcomets/2006p1.html| title=C/2006 P1|accessdate=2007-01-26}}</ref>
+
+== Discovery ==
+
+McNaught discovered the comet in a CCD image on August 7, 2006 during the course of routine observations for the [[Siding Spring Survey]], which searches for Near-Earth Objects that might represent a collision threat to Earth. The comet was discovered in [[Ophiuchus]], shining very dimly at a magnitude of about +17. From August through November 2006, the comet was imaged and tracked as it moved through Ophiuchus and [[Scorpius]], brightening as high as [[apparent magnitude|magnitude]] +9, still too dim to be seen with the unaided eye.<ref>{{cite web|url=http://cometography.com/lcomets/2006p1.html|title=Kronk's Cometography - C/2006P1|accessdate = 2007-01-17}}</ref> Then, for most of December, the comet was lost in the glare of the [[sun]].
+
+Upon recovery, it became apparent that the comet was brightening very rapidly, reaching naked-eye visibility in early January 2007. It was visible to northern hemisphere observers, in [[Sagittarius (constellation)|Sagittarius]] and surrounding constellations, until about January 13. Perihelion was January 12 at a distance of 0.17&nbsp;[[Astronomical unit|AU]]. <ref name ="recentest">[http://cfa-www.harvard.edu/icq/CometMags.html#2006P1 Recent Comet Brightness Estimates]</ref> This was close enough to the Sun to be observed by the space-based [[Solar and Heliospheric Observatory|Solar and Heliospheric Observatory (SOHO)]]. The comet entered SOHO's [[LASCO]] C3 camera's [[field of view]] on January 12, and was viewable on the [[World Wide Web|web]] in near real-time. The comet exited SOHO's field of view on January 16. Due to its proximity to the sun, the Northern Hemisphere ground-based viewers had a short window for viewing, and the comet could be spotted only during bright twilight.
+
+As it reached perihelion on January 12, it became the brightest comet since [[Comet Ikeya-Seki]] in 1965.<ref>{{cite web|url=http://cfa-www.harvard.edu/icq/brightest.html|title=Brightest comets seen since 1935|publisher=Harvard|accessdate = 2007-01-12}}</ref>  The comet was dubbed ''the [[Great Comet]] of 2007'' by  Space.com.<ref>[http://p143.news.scd.yahoo.com/s/space/20070112/sc_space/thegreatcometof2007watchitontheweb ''The Great Comet of 2007: Watch it on the Web''] Yahoo News, January  by Joe Rao of SPACE.com Skywatching Columnist. Accessed January 16, 2007</ref> On January 13 and 14, 2007, the comet attained an estimated maximum [[apparent magnitude]] of -6.0, as reported by several observers in the [[Northern hemisphere]].<ref name ="recentest">[http://cfa-www.harvard.edu/icq/CometMags.html#2006P1 Recent Comet Brightness Estimates]</ref> 
+
+The comet was visible in daylight about 5°- 10° southeast of the sun from January 12 to 14, with a peak brightness of magnitude -5.5.<ref>[http://spaceweather.com/comets/gallery_mcnaught_page7.htm spaceweather.com]</ref> [[Perigee]] (closest approach to the Earth) was January 15, 2007, at a distance of 0.82&nbsp;AU.<ref>{{cite web|url=http://www.yp-connect.net/~mmatti/|title=Southern Comets Homepage|publisher=|accessdate = 2007-01-17}}</ref> 
+
+After passing the sun, McNaught became visible in the Southern hemisphere. In Australia, according to [[Siding Spring Observatory]] at [[Coonabarabran]], where the comet was discovered, it was to have reached its theoretical peak in brightness on Sunday January 14 just after sunset,<ref name="sidingspring">[http://msowww.anu.edu.au/~rmn/C2006P1.htm Siding Spring Survey]</ref> when it would have been visible for 23 minutes. On January 15 the comet was observed at [[Perth Observatory]] with an estimated [[apparent magnitude]] of -4.0.<ref name="recentest">[http://cfa-www.harvard.edu/icq/CometMags.html#2006P1 ICQ/CBAT/MPC: Recent Comet Magnitudes<!-- Bot generated title -->]</ref>
+
+== Ulysses probe ==
+The [[Ulysses (spacecraft)|Ulysses spacecraft]] made an unexpected pass through the tail of the comet on February 3, 2007. <ref>{{cite news|publisher=Astronomy |title=A chance encounter with a comet | date=October 2, 2007| url=http://www.astronomy.com/asy/default.aspx?c=a&id=6065}}</ref>. Evidence of the encounter was published on the October 1, 2007 issue of the [[Astrophysical Journal]]. Ulysses flew through McNaught's ion tail 160 million miles from the comet's core and instrument readings showed that there was "complex chemistry" in the region.
+
+The Solar Wind Ion Composition Spectrometer (SWICS) aboard Ulysses measured the composition speed of the comet tail and [[solar wind]], and detected unexpected ions within the comet's tail and found that it had a major impact on the surrounding solar wind. It's the first time that researchers have detected O<sup>3+</sup> oxygen ions (atoms of oxygen with a positive charge because they have five electrons instead of eight) near a comet. This suggested that the solar wind ions, originally missing most of their electrons, picked up some of their missing electrons as they passed through McNaught's atmosphere.
+
+Besides that, SWICS found that even at 160 million miles from the comet's nucleus, the tail had slowed the solar wind to half its normal speed. The solar wind should usually be about 435 miles per second at that distance from the Sun, but inside the comet's ion tail, it was less than 249 miles per second. 
+<blockquote>"This was very surprising to me. Way past the orbit of Mars, the solar wind felt the disturbance of this little comet. It will be a serious challenge for us theoreticians and computer modellers to figure out the physics,"</blockquote>
+—space science professor, Michael Combi. 
+
+Prof. George Gloeckler, the principal investigator on the Solar Wind Ion Composition Spectrometer (SWICS), said the discovery was important as the composition of comets told them about conditions approximately 4.5 billion years ago when the solar system was formed. <blockquote>"Here we got a direct sample of this ancient material which gives us the best information on cometary composition. We're still in the process of figuring out what it tells us. We're contributing part of the whole puzzle".</blockquote>
+
+<blockquote>"The benefits of such an observation are important. They constrain the interactions of such comets with the Sun, including how the comets lose mass. They also examine the question of how a sudden injection of neutral and cold material interacts with hot solar-like plasmas. That occurs in other places of the universe and we were able to study it right here,"</blockquote>
+—space science professor, Thomas Zurbuchen.
+
+== Image gallery ==
+<center><gallery caption="Images of Comet McNaught in January 2007">
+
+Image:Comet_McNaught.jpg| Over [[Iceland]] on January 9
+Image:McNaughtComet.jpg|Just after sunset from [[Perth, Western Australia|Perth]], Western Australia on January 16
+Image:Cometperth3.jpg|Over [[Perth, Western Australia|Perth]], Western Australia at 9&nbsp;p.m. on January 17 
+Image:IMG 7046.JPG|Seen from [[South Beach]], [[Fremantle, Western Australia|Fremantle]], Western Australia on January 17. The lights at the bottom are navigation lights in [[Gage Roads]].
+Image:Comet McNaught Windhoek 2007 [[17 January]].jpg|[[Windhoek]], [[Namibia]] on January 17 at 8&nbsp;p.m. local time
+Image: IMG_2331 medium.jpg|Setting behind the [[Andes]], at [[San Carlos de Bariloche|Bariloche]], [[Argentina]], on January 17
+Image:Cometmcnaughtchrisn1.jpg| January 18 from [[Pukekohe]], New Zealand
+Image:IMG_1673.JPG| January 19 from La Perouse, Sydney, Australia
+Image:Comet McNaught Signal Hill 20070119 1.jpg|From [[Signal Hill (Cape Town)|Signal Hill]], [[Cape Town]] on January 19. The silhouette of [[Lion's Head (Cape Town)|Lion's Head]] is visible on the left, while on the right [[Venus]] sets over the Atlantic Ocean.
+Image:sat_comet_WEB.jpg|20 January from Lawlers,Western Australia
+Image:100_1464.JPG|Villa Alemana Region of [[Valparaiso]], [[Chile]] on January 20
+Image:2007 01 21 Comet McNaught Canberra Red Hill.jpg|from [[Red Hill, Australian Capital Territory|Red Hill]], Canberra on January 21
+Image:Mcnaught daylight20070113.jpg|Comet McNaught in broad daylight while it was visible by naked eye. Taken on January 13 at 14:00 UTC in Gais, Switzerland.
+Image:Comet_tail.jpg|The tail of the comet Comet McNaught was still seen in [[Northern hemisphere]] after the comet itself was long gone. The picture also shows the Moon and Venus.
+Image:Inferior mirage of sunset comet.jpg|A very rare sequence of the inferior [[mirage]] of the comet set
+<!-- Please do not add more pictures simply for the sake of having more pictures. Consider whether they will add value to the gallery already in place. If in doubt please discuss individual cases first on the "discussion" tab at the top of this article. -->
+</gallery></center>
+
+== References and footnotes ==
+{{reflist}}
+
+== External links ==
+{{Commons|Category:Comet McNaught|Comet McNaught}}
+*{{cite web | last = McNaught | first = Robert | authorlink =  | coauthors =  | year = 2007 | url = http://www.mso.anu.edu.au/~rmn/C2006P1.htm | title = C/2006 P1 | work = Siding Springs Observatory | publisher = Australian National University | accessdate = 2007-01-21}}
+*[http://skytonight.com/observing/home/5089276.html Info and gallery, from skytonight]
+*[http://www.infectiousvideos.com/p/7858 Comet McNaught in Perth skies]
+*{{JPL Small Body|name=C/2006 P1}}
+*[http://sohowww.nascom.nasa.gov/hotshots/ Current hotshots of comet], from NASA's [[Solar and Heliospheric Observatory]] website
+*[http://www.space.com/spacewatch/soho_lasco_c3_live.html Animation of recent images within LASCO C3's FOV]
+*[http://www.cometal.bigblog.com.au/video.do?id=180397 McNaught in STEREO HI1a]
+*[http://www.cometal.bigblog.com.au/data/4/22129/image/MontageMcnaught1606620071221082938.gif Montage McNaught in STEREO HI1a]
+*[http://cometmcnaught.net/mcnaughtphotogallery.htm Comet McNaught photo gallery from Southern Hemisphere]
+*[[NASA]] [[Astronomy Picture of the Day|Astronomy Pictures of the Day:]]
+**January 5 - [http://antwrp.gsfc.nasa.gov/apod/ap070105.html Comet McNaught Heads for the Sun]
+**January 9 - [http://antwrp.gsfc.nasa.gov/apod/ap070109.html McNaught Now Brightest Comet in Decades]
+**January 13 - [http://antwrp.gsfc.nasa.gov/apod/ap070113.html Comet Over Krakow]
+**January 15 - [http://antwrp.gsfc.nasa.gov/apod/ap070115.html Comet McNaught Over Catalonia]
+**January 17 - [http://antwrp.gsfc.nasa.gov/apod/ap070117.html Comet McNaught from New STEREO Satellite]
+**January 18 - [http://antwrp.gsfc.nasa.gov/apod/ap070118.html Southern Comet]
+**January 19 - [http://antwrp.gsfc.nasa.gov/apod/ap070119.html McNaught's Matinee]
+**January 20 - [http://antwrp.gsfc.nasa.gov/apod/ap070120.html SOHO: Comet McNaught Movie]
+**January 22 - [http://antwrp.gsfc.nasa.gov/apod/ap070122.html The Magnificent Tail of Comet McNaught]
+**January 24 - [http://antwrp.gsfc.nasa.gov/apod/ap070124.html A Comet Tail Horizon]
+**February 1 - [http://antwrp.gsfc.nasa.gov/apod/ap070201.html A Tail of Two Hemispheres]
+**February 5 - [http://antwrp.gsfc.nasa.gov/apod/ap070205.html Comet Between Fireworks and Lightning]
+**February 12 - [http://antwrp.gsfc.nasa.gov/apod/ap070212.html Comet McNaught Over New Zealand]
+
+[[Category:Comets|McNaught]]
+[[Category:Astronomical objects discovered in 2006]]
+[[Category:Comets visited by spacecraft]]
+[[Category:2007 in science]]
+
+[[af:Komeet McNaught]]
+[[de:C/2006 P1 (McNaught)]]
+[[es:Cometa McNaught]]
+[[eo:C/2006 P1]]
+[[fr:Comète McNaught]]
+[[ko:맥노트 혜성]]
+[[hr:Komet McNaught]]
+[[id:Komet McNaught]]
+[[it:C/2006 P1 McNaught]]
+[[lv:C/2006 P1]]
+[[lt:Maknauto kometa]]
+[[nl:Komeet McNaught]]
+[[ja:マックノート彗星 (C/2006 P1)]]
+[[no:McNaught]]
+[[pl:C/2006 P1]]
+[[pt:Cometa McNaught]]
+[[ru:C/2006 P1 (Макнота)]]
+[[scn:Cumeta McNaught]]
+[[sl:Komet McNaught]]
+[[fi:C/2006 P1]]
+[[sv:McNaughts komet]]
+[[th:ดาวหางแมกนอต]]
+[[zh:麥克諾特彗星]]

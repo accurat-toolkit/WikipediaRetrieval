@@ -1,0 +1,53 @@
+:''For the German river in Western Pomerania, see [[Zarow]].''
+:''For the Polish village in Upper Silesia, see [[Żarów, Opole Voivodeship]]''
+{{Infobox Settlement
+| name = Żarów
+| image_flag = POL Żarów flag.svg
+| image_shield = POL Żarów COA.svg
+| pushpin_map = Poland
+| subdivision_type = Country
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Lower Silesian Voivodeship|Lower Silesian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Świdnica County|Świdnica]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Żarów|Żarów]]
+| area_total_km2 = 6.16
+| population_as_of = 2006
+| population_total = 6902
+| population_density_km2 = auto
+| latd = 50 | latm = 56 | lats =  | latNS = N | longd = 16 | longm = 29 | longs =  | longEW = E
+| elevation_m =
+| postal_code_type = Postal code
+| postal_code = 58-130
+| website = http://www.um.zarow.pl }}
+
+'''Żarów''' {{IPAr|pl|'|ż|a|r|u|f}} ({{lang-de|Saarau}}) is a town in [[Świdnica County]], [[Lower Silesian Voivodeship]], in south-western [[Poland]]. It is the seat of the administrative district ([[gmina]]) called [[Gmina Żarów]]. Prior to 1945 it was in [[Germany]]. (For more information about the history of the region, see [[Silesia]].)
+
+The town lies approximately {{convert|11|km|mi|0}} north-east of [[Świdnica]], and {{convert|45|km|mi|0}} south-west of the regional capital [[Wrocław]].
+
+As at 2006, the town has a population of 6,902.
+
+{{Gmina Żarów}}
+
+{{coord|50|56|N|16|29|E|region:PL_type:city|display=title}}
+
+{{DEFAULTSORT:Zarow}}
+[[Category:Cities and towns in Lower Silesian Voivodeship]]
+[[Category:Świdnica County]]
+
+
+{{Świdnica-geo-stub}}
+
+[[de:Żarów]]
+[[eo:Żarów (regiono Dolnośląskie)]]
+[[jv:Żarów]]
+[[lv:Žaruva]]
+[[nl:Żarów]]
+[[pl:Żarów]]
+[[pt:Żarów]]
+[[ro:Żarów]]
+[[ru:Жарув]]
+[[sk:Żarów]]
+[[uk:Жарув]]

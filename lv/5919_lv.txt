@@ -1,0 +1,61 @@
+[[Dānija|Dānijas]] pilsētas ar iedzīvotāju skaitu virs 50 000.
+
+<table border=0 cellpadding=4 cellspacing=2 width=100%>
+
+<tr bgcolor=#DDDDDD>
+<td>'''Pilsēta'''<td>'''Iedzīvotāju skaits (2005)'''<td>'''Reģions (''Region'')'''
+
+<tr bgcolor=#EEEEEE>
+<td>[[Esbjerga]] (''Esbjerg'')<td>72 205<td>[[Dienviddānijas reģions]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Horsensa]] (''Horsens'')<td>50 074<td>[[Vidusjitlandes reģions]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Kolinga]] (''Kolding'')<td>55 363<td>[[Dienviddānijas reģions]]
+
+<tr bgcolor=#EEEEEE>
+<td>'''[[Kopenhāgena]]''' (''København'')<td>1 089 957<td>[[Galvaspilsētas reģions]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Odense]] (''Odense'')<td>145 931<td>[[Dienviddānijas reģions]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Olborga]] (''Ålborg'')<td>122 219<td>[[Ziemeļjitlandes reģions]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Orhūsa]] (''Århus'')<td>226 717<td>[[Vidusjitlandes reģions]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Ranersa]] (''Randers'')<td>55 780<td>[[Vidusjitlandes reģions]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Vajle]] (''Vejle'')<td>51 177<td>[[Dienviddānijas reģions]]
+
+</table>
+
+[[Category:Dānijas pilsētas|*]]
+[[Category:Pilsētu uzskaitījumi]]
+
+[[bs:Spisak gradova u Danskoj]]
+[[cs:Seznam měst v Dánsku]]
+[[da:Danmarks største byer]]
+[[de:Liste der Städte in Dänemark]]
+[[en:List of cities in Denmark by population]]
+[[eo:Listo de urboj de Danio]]
+[[fi:Luettelo Tanskan kaupungeista]]
+[[fr:Villes du Danemark]]
+[[hr:Popis gradova u Danskoj]]
+[[hu:Dánia községei]]
+[[it:Città danesi]]
+[[kk:Дания қалаларының тізімі]]
+[[no:Liste over danske byer]]
+[[pl:Miasta Danii]]
+[[pt:Anexo:Lista de cidades na Dinamarca]]
+[[ro:Lista oraşelor din Danemarca]]
+[[ru:Города Дании]]
+[[sh:Popis općina u Danskoj]]
+[[sl:Seznam mest na Danskem]]
+[[sv:Lista över städer i Danmark efter storlek]]
+[[vi:Danh sách thành phố Đan Mạch]]
+[[zh:丹麦城市列表]]

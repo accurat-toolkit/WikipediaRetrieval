@@ -1,0 +1,116 @@
+<table border=1 cellpadding=2 cellspacing=0 align=right width=275px>
+<caption><font size=+1>'''Niedersachsen'''</font><br />Bundesland
+</caption>
+<tr><td style=background:#efefef; align=center colspan=2>
+<table border=0 cellpadding=2 cellspacing=0>
+<tr><td align=center>[[Attēls:Germany Laender Niedersachsen.png|160px|]]<td align=center>[[Attēls:Coat of arms of Lower Saxony.svg|87px|]]
+</table>
+<tr><td>Galvaspilsēta<td>[[Hannovere]]
+<tr><td>Teritorija<td>47 618 km²
+<tr><td>Iedzīvotāji (2004)<td>8 002 916
+<tr><td>Iedzīvotāju blīvums<td>168 cilv./km²
+<tr><td>Reģioni (''Regierungsbezirk'')<td>-
+<tr><td>Mājaslapa<td><small>http://www.niedersachsen.de</small>
+</table>
+'''Lejassaksija''' ({{val-de|Niedersachsen}}) ir [[Vācijas federālās zemes|federālā zeme]] [[Vācija]]s ziemeļrietumos. Robežojas ar [[Nīderlande|Nīderlandi]], [[Šlēzviga-Holšteina|Šlēzvigas-Holšteinas]],  [[Hamburga]]s, [[Meklenburga-Priekšpomerānija|Meklenburgas-Priekšpomerānijas]], [[Brandenburga (zeme)|Brandenburgas]], [[Saksija-Anhalte|Saksijas-Anhaltes]], [[Tīringene]]s, [[Hesene]]s,[[Ziemeļreina-Vesfālene|Ziemeļreinas-Vesfālenes]] federālajām zemēm un [[Ziemeļjūra|Ziemeļjūru]].
+
+[[Attēls:Elze_von_Wittenburg_nach_Sorsum.jpg|thumb|Lejassaksijas ainava|left|250px]]
+Iedalās 38 rajonos (''Landkreis'') un 8 neatkarīgās pilsētās (''kreisfreien Städte''). 
+
+Lielākās pilsētas : [[Hannovere]], [[Braunšveiga]], [[Osnabrika]], [[Oldenburga]], [[Getingene]].
+
+Lielākās upes: [[Vēzere]], [[Leine]], [[Emsa]]
+
+Kalni un augstienes: [[Harcs]] (''Harz''), [[Teitonburgas Mežs]] (''Teutoburger Wald''), [[Vēzerberglande]] (''Weserbergland'')
+
+{{commons|Category:Lower_Saxony|Lejassaksija}}
+{{Vācijas zemes}}
+
+[[Kategorija:Vācijas federālās zemes]]
+
+[[af:Nedersakse]]
+[[als:Niedersachsen]]
+[[an:Baxa Saxonia]]
+[[ang:Niðerseaxland]]
+[[ar:سكسونيا السفلى]]
+[[ast:Baxa Saxonia]]
+[[az:Aşağı Saksoniya]]
+[[bar:Niedersachsen]]
+[[bg:Долна Саксония]]
+[[br:Saks-Izel]]
+[[bs:Donja Saksonija]]
+[[ca:Baixa Saxònia]]
+[[cs:Dolní Sasko]]
+[[cy:Niedersachsen]]
+[[da:Niedersachsen]]
+[[de:Niedersachsen]]
+[[dsb:Dolnosakska]]
+[[el:Κάτω Σαξωνία]]
+[[en:Lower Saxony]]
+[[eo:Malsupra Saksio]]
+[[es:Baja Sajonia]]
+[[et:Alam-Saksi]]
+[[eu:Saxonia Beherea]]
+[[fa:نیدرزاکسن]]
+[[fi:Ala-Saksi]]
+[[fr:Basse-Saxe]]
+[[fy:Nedersaksen]]
+[[ga:An tSacsain Íochtarach]]
+[[gd:Sagsainn Iosail]]
+[[gl:Baixa Saxonia - Niedersachsen]]
+[[gv:Niedersachsen]]
+[[he:סקסוניה התחתונה]]
+[[hr:Donja Saska]]
+[[hsb:Delnja Sakska]]
+[[hu:Alsó-Szászország]]
+[[id:Niedersachsen]]
+[[ie:Infra Saxonia]]
+[[io:Infra-Saxonia]]
+[[is:Neðra-Saxland]]
+[[it:Bassa Sassonia]]
+[[ja:ニーダーザクセン州]]
+[[jv:Niedersachsen]]
+[[ka:ქვემო საქსონია]]
+[[ko:니더작센 주]]
+[[ksh:Needersachse (Bundesland)]]
+[[ku:Niedersachsen]]
+[[kw:Niedersachsen]]
+[[la:Saxonia Inferior]]
+[[lij:Bassa Sassonia]]
+[[lt:Žemutinė Saksonija]]
+[[mk:Долна Саксонија]]
+[[ms:Niedersachsen]]
+[[nah:Tlani Saxonia]]
+[[nds:Neddersassen]]
+[[nds-nl:Nedersaksen]]
+[[nl:Nedersaksen]]
+[[nn:Niedersachsen]]
+[[no:Niedersachsen]]
+[[oc:Bassa Saxònia]]
+[[os:Дæллаг Саксони]]
+[[pam:Lower Saxony]]
+[[pl:Dolna Saksonia]]
+[[pms:Bassa Sassònia]]
+[[pnb:تھلواں سیکسنی]]
+[[pt:Baixa Saxônia]]
+[[qu:Niedersachsen]]
+[[rm:Saxonia bassa]]
+[[ro:Saxonia Inferioară]]
+[[ru:Нижняя Саксония]]
+[[sah:Аллараа Саксонийа]]
+[[sh:Donja Saska]]
+[[simple:Lower Saxony]]
+[[sk:Dolné Sasko]]
+[[sl:Spodnja Saška]]
+[[sq:Saksonia e Ulët]]
+[[sr:Доња Саксонија]]
+[[stq:Läichsaksen]]
+[[sv:Niedersachsen]]
+[[tr:Aşağı Saksonya]]
+[[uk:Нижня Саксонія]]
+[[vi:Niedersachsen]]
+[[vo:Dona-Saxän]]
+[[war:Lower Saxony]]
+[[yo:Lower Saxony]]
+[[zh:下萨克森]]
+[[zh-min-nan:Niedersachsen]]

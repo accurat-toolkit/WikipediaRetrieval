@@ -1,0 +1,80 @@
+{{Infobox Flag
+|Name = Austrālijas
+|Image = Flag of Australia.svg
+|Use = 111010
+|Proportion = 1:2
+|Adoption = 
+|Design = 
+}}'''Austrālijas karogs''' ir [[zils]], kur augšējā kreisajā stūrī ir [[Apvienotās Karalistes karogs]] (aizņem ceturto daļu no paša karoga), apakšējā kreisajā stūrī atrodas viena liela septiņstūru zvaigzne. Atlikušajā karogā ir redzams [[Dienvidu krusts|Dienvidu krusta]] zvaigznājs. Katra no sešām zvaigznēm simbolizē vienu no sešām [[Austrālija (valsts)|Austrālijas]] teritorijām.
+
+== Karoga vēsture ==
+[[Attēls:Flags Act 1953.jpg|thumb|200px|Valsts un tirdzniecības flotes karogi.]]
+
+[[1904]]. gadā [[Anglijas monarhs]] izsludināja konkursu par Austrālijas karoga izveidi. Galvenais noteikums bija tāds, ka karogā jābūt iekļautam Apvienotās Karalistes karogam. Konkursa uzvarētāja karogs jau iepriekš tika izmantots tikai [[flote]]s vajadzībām. Pirmajos piecdesmit gados plaši izmantoja tādu pašu karogu, tikai uz sarkana fona, kas bija kļuvis par neoficiālo Austrālijas karogu. Tikai {{dat|1954|4|14}} zilā fona karogs kļuva par Austrālijas oficiālo karogu, bet tas neguva sabiedrības, kura bija pieradusi pie Lielbritānijas karoga, atbalstu līdz pat [[1960. gadi|1960-tajiem gadiem]]. Karogs uz zilā fona tika pieņemts tāpēc, ka otrs variants, kas bija uz sarkanā fonā, nederēja, jo sarkanā krasā simbolizēja [[komunisms|komunismu]]{{fact}}.
+
+== Karoga statuss ==
+Sākotnēji daļai austrāliešu nepatika [[Lielbritānijas karogs|Lielbritānijas karoga]] klātbūtne uz viņu valsts karoga, kā arī tā līdzība ar [[Jaunzēlandes karogs|Jaunzēlandes karogu]]. Tie bieži vien tika sajaukti.
+
+Karogs uz sarkanā fonā vēl joprojām tiek izmantots uz Austrālijas tirdzniecības kuģiem.
+
+== Skatīt arī ==
+* [[Austrālija]]
+
+
+{{atsauces+}}
+
+
+{{Karogs-aizmetnis}}
+
+[[Kategorija:Nacionālie karogi]]
+[[Kategorija:Austrālijas kultūra]]
+
+{{Link FA|en}}
+{{Link FA|nl}}
+
+[[af:Vlag van Australië]]
+[[ar:علم أستراليا]]
+[[bpy:অস্ট্রেলিয়ার ফিরালহান]]
+[[bs:Zastava Australije]]
+[[ca:Bandera d'Austràlia]]
+[[cs:Australská vlajka]]
+[[cy:Baner Awstralia]]
+[[da:Australiens flag]]
+[[de:Flagge Australiens]]
+[[el:Σημαία της Αυστραλίας]]
+[[en:Flag of Australia]]
+[[es:Bandera de Australia]]
+[[et:Austraalia lipp]]
+[[eu:Australiako bandera]]
+[[fa:پرچم استرالیا]]
+[[fi:Australian lippu]]
+[[fr:Drapeau de l'Australie]]
+[[he:דגל אוסטרליה]]
+[[hi:ऑस्ट्रेलिया का ध्वज]]
+[[hr:Zastava Australije]]
+[[hu:Ausztrália zászlaja]]
+[[id:Bendera Australia]]
+[[is:Fáni Ástralíu]]
+[[it:Bandiera dell'Australia]]
+[[ja:オーストラリアの国旗]]
+[[ka:ავსტრალიის დროშა]]
+[[ko:오스트레일리아의 국기]]
+[[lt:Australijos vėliava]]
+[[nah:Pāmitl Australia]]
+[[nl:Vlag van Australië]]
+[[nn:Det australske flagget]]
+[[no:Australias flagg]]
+[[pl:Flaga Australii]]
+[[pt:Bandeira da Austrália]]
+[[ro:Drapelul Australiei]]
+[[ru:Флаг Австралии]]
+[[sh:Zastava Australije]]
+[[simple:Flag of Australia]]
+[[sk:Vlajka Austrálie]]
+[[sr:Застава Аустралије]]
+[[sv:Australiens flagga]]
+[[th:ธงชาติออสเตรเลีย]]
+[[tr:Avustralya bayrağı]]
+[[vi:Quốc kỳ Úc]]
+[[yo:Flag of Australia]]
+[[zh:澳大利亚国旗]]

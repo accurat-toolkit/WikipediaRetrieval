@@ -1,0 +1,510 @@
+{{about|the sport}}
+{{pp-protected|small=yes}}
+{{pp-move-indef}}
+{{Infobox sport
+| image=US_Open_2007,_Maria_Sharapova_serving.jpg
+| imagesize=300px
+| caption=The [[US Open (tennis)|US Open]] is a prestigious [[Grand Slam (tennis)|Grand Slam]] tournament.
+| union=[[International Tennis Federation]]
+| nickname=
+| first=19<sup>th</sup> century
+| registered=
+| clubs=
+| contact=No
+| team=Single or doubles
+| mgender=
+| category=[[Racquet sport]]
+| ball=[[Tennis ball]]
+| olympic=1896-1924, 1988-present
+}}
+'''Tennis''' is a [[sport]] played between two players ([[Types of tennis match|singles]]) or between two teams of two players each ([[Types of tennis match|doubles]]). Each player uses a strung [[racquet]] to strike a hollow rubber [[Tennis ball|ball]] covered with felt over a net into the opponent's [[tennis court|court]].
+
+The modern game of tennis originated in the [[United Kingdom]] in the late 19th century as "'''lawn tennis'''" which has heavy connections to various field/lawn games as well as to the ancient game of ''[[real tennis]]''. After its creation, tennis spread throughout the upper-class English-speaking population before spreading around the world<ref>History of Tennis. "[http://www.historyoftennis.net/history_of_tennis.html]"</ref>. Tennis is an [[Olympic Games|Olympic]] sport and is played at all levels of society at all ages. The sport can be played by anyone who can hold a racket, including people [[Wheelchair tennis|in wheelchairs]]. In the [[United States]], there is a collegiate circuit organized by the [[National Collegiate Athletic Association]].
+
+The rules of tennis have changed very little since the 1890s. Two exceptions are that from 1908 to 1960 the server had to keep one foot on the ground at all times, and then the adoption of the [[Tennis score#Scoring a tiebreak game|tie-break]] in the 1970s. A recent addition to professional tennis has been the adoption of electronic review technology coupled with a point challenge system, which allows a player to challenge the line (or chair) umpire's call of a point.
+
+Tennis enjoys millions of recreational players and is also a hugely popular worldwide spectator sport, especially the four [[Grand Slam (tennis)|Grand Slam]] tournaments (sometimes referred to as the "majors"): the [[Australian Open]], the [[French Open]], [[The Championships, Wimbledon|Wimbledon]], and the [[US Open (tennis)|US Open]].
+
+==History==
+ 
+{{Main|History of tennis}}
+
+Tennis as the modern sport can be dated to two separate roots. Between 1859 and 1863, Major [[Harry Gem]] and his friend [[Augurio Perera]] developed a game that combined elements of [[racquets (sport)|rackets]] and the Basque ball game [[pelota]], which they played on Perera's [[croquet]] lawn in [[Birmingham]], United Kingdom.<ref name="countrylife">Tyzack, Anna, [http://www.countrylife.co.uk/news/culture/article/79487/The_True_Home_of_Tennis.html The True Home of Tennis] ''Country Life'', June 22, 2005</ref><ref name="civic">"[http://www.birminghamcivicsociety.org.uk/lawntennis.htm Lawn Tennis and Major T. H. Gem]" Birmingham Civic Society</ref> In 1872, along with two local doctors, they founded the world's first tennis club in [[Leamington Spa]].<ref name=LTC>{{cite web|url=http://www.leamington-tennis-squash.co.uk/club-history|title=Leamington Tennis Club|accessdate=2008-03-18}}</ref> The Courier of July 23, 1884 recorded one of the first tennis tournaments, held in the grounds of Shrubland Hall.<ref name=T-T>{{cite web|url=http://www.tennis-time.com/|title=Introduction to Tennis|accessdate=2007-05-29}}</ref>
+
+In December 1873, Major [[Walter Clopton Wingfield]] designed and patented a similar game — which he called '''''[[Stické|sphairistike]]''''' ({{Lang-el|σφάίρίστική}}, from ancient Greek meaning "skill at playing at ball"), and was soon known simply as "sticky" — for the amusement of his guests at a garden party on his estate of Nantclwyd, in Llanelidan, Wales.<ref>{{citeweb|url=http://www.americanheritage.com/articles/magazine/ah/1971/4/1971_4_48.shtml|title=SPHAIRISTIKÉ, ANYONE?|publisher=[[American Heritage (magazine)|American Heritage]]|author=E. M. Halliday|accessdate=2008-07-28}}</ref> He likely based his game on the evolving sport of outdoor tennis including [[real tennis]]. According to some tennis historians, modern tennis terminology also derives from this period, as Wingfield borrowed both the name and much of the French vocabulary of real tennis and applied them to his new game.{{Fact|date=September 2008}}
+
+[[Image:Lawn-tennis-Prang-1887.jpeg|thumb|Lawn tennis in the U.S., 1887]]
+The first championships at [[The Championships, Wimbledon|Wimbledon]] in London were played in 1877.<ref name=History>  {{citeweb|url=http://www.itftennis.com/abouttheitf/worldwide/history.asp|title=History of Tennis|publisher=[[International Tennis Federation]]|accessdate=2008-07-28}}</ref> The first Championships culminated a significant debate on how to standardize the rules.
+
+In America in 1874 [[Mary Ewing Outerbridge]], a young socialite, returned from Bermuda where she met Major Wingfield. She laid out a tennis court at the [[Staten Island Cricket Club]] in New Brighton Staten Island, New York.
+The exact location of the club was under what is now the Staten Island Ferry terminal. The first American National tournament in 1880 was played there. An Englishman named O.E Woodhouse won the singles match. There was also a doubles match which was won by a local pair. There were different rules at each club. The ball in Boston was larger than the one normally used in NY.  On May 21, 1881, the United States National Lawn Tennis Association (now the [[United States Tennis Association]]) was formed to standardize the rules and organize competitions.<ref name=USTA>{{cite web|url=http://www.usta.com/communitytennis/fullstory.sps?iNewsid=95424&icategoryid=437|archiveurl=http://web.archive.org/web/20071030214640/http://www.usta.com/communitytennis/fullstory.sps?iNewsid=95424&icategoryid=437|archivedate=2007-10-30|title=History of United States Tennis Association|accessdate=2007-05-29}}</ref> The U.S. National Men's Singles Championship, now the [[US Open (tennis)|US Open]], was first held in 1881 at [[Newport, Rhode Island]].<ref>{{cite web|url=http://www.ri.gov/facts/trivia.php|title=Fact & History |work= Rhodes Island Government|accessdate=2007-05-29}}</ref> The U.S. National Women's Singles Championships were first held in 1887.<ref>{{cite web|url=http://2007.usopen.org/en_US/about/history/history.html|title=History of the U.S. National Championships/US Open|publisher=usopen.org|accessdate=2008-09-04}}</ref> Tennis was also popular in France, where the [[French Open]] dates to 1891.<ref name=RG>{{cite web|url=http://www.tennistours.com/event_pages/french/history.asp|title=History of the French Open|accessdate=2007-05-29}}</ref> Thus, Wimbledon, the US Open, the French Open, and the [[Australian Open]] (dating to 1905) became and have remained the most prestigious events in tennis.<ref name=History/><ref name=TS1>{{cite web|url=http://www.tennisserver.com/lines/lines_99_10_31.html|title=Suzanne Lenglen and the First Pro Tour|accessdate=2007-05-29}}</ref> Together these four events are called the Majors or ''Slams'' (a term borrowed from [[Contract bridge|bridge]] rather than [[baseball]]).<ref>{{cite web|url=http://www.hickoksports.com/history/grandslm.shtml|title=Originality of the phrase "Grand Slam"|accessdate=2007-05-29}}</ref>
+
+The comprehensive International Lawn Tennis Federation, now known as the [[International Tennis Federation]], rules promulgated in 1924 have remained remarkably stable in the ensuing eighty years, the one major change being the addition of the ''[[Tennis score#Scoring a tiebreak game|tie-break]]'' system designed by [[James Van Alen]].<ref>{{cite web|url=http://www.tennisfame.com/famer.aspx?pgID=867&hof_id=126|title=James Henry Van Alen in the Tennis Hall of Fame|accessdate=2007-05-29}}</ref> That same year, tennis withdrew from the Olympics after the 1924 Games but returned 60 years later as a 21-and-under demonstration event in 1984. This reinstatement was credited by the efforts by the then ITF President Philippe Chatrier, ITF General Secretary David Gray and ITF Vice President Pablo Llorens, and support from IOC President Juan Antonio Samaranch. The success of the event was overwhelming and the IOC decided to reintroduce tennis as a full medal sport at Seoul in 1988. 
+
+The [[Davis Cup]], an annual competition between men's national teams, dates to 1900.<ref>{{cite web|url=http://tennis.bnpparibas.com/en/professional-tournaments/page.asp?Code=SBUS-6D4DTB|title=Davis Cup by BNP Paribas|accessdate=2007-05-29}}</ref> The analogous competition for women's national teams, the [[Fed Cup]], was founded as the Federation Cup in 1963 to celebrate the 50th anniversary of the founding of the ITF.<ref>{{cite web|url=http://www.fedcup.com/about/index.asp |title=History of the Fed Cup |publisher=International Tennis Federation |accessdate=2009-06-02}}</ref>
+
+In 1926, promoter C.C. Pyle established the first professional tennis tour with a group of American and French tennis players playing exhibition matches to paying audiences.<ref name=TS1/><ref>{{cite web|url=http://www.tennisserver.com/lines/lines_01_03_01.html|title=History of the Pro Tennis Wars Chapter 2, part 1 1927-1928|accessdate=2007-05-29}}</ref> The most notable of these early professionals were the American [[Vinnie Richards]] and the Frenchwoman [[Suzanne Lenglen]].<ref name=TS1/><ref>[http://www.cigaraficionado.com/Cigar/CA_Archives/CA_Show_Article/0,2322,519,00.html Open Minded] - Bruce Goldman</ref> Once a player ''turned pro'' he or she could not compete in the major (amateur) tournaments.<ref name=TS1/>
+
+In 1968, commercial pressures and rumors of some amateurs taking money under the table led to the abandonment of this distinction, inaugurating the [[open era]], in which all players could compete in all tournaments, and top players were able to make their living from tennis.<ref>[[Tennis, professional tournaments before the open era]]</ref> With the beginning of the open era, the establishment of an international professional tennis circuit, and revenues from the sale of television rights, tennis's popularity has spread worldwide, and the sport has shed its upper/middle-class English-speaking image<ref name=class>{{citeweb|url=http://www.guardian.co.uk/sport/2006/dec/10/tennis.news|title=Middle-class heroes can lift our game|publisher=The Observer, theguardian.co.uk|author=Jon Henderson|quote=it was no longer true that tennis was a middle-class sport|date=2008-12-10|accessdate=2008-08-02}}</ref> (although it is acknowledged that this stereotype still exists).<ref name=class/><ref>{{citeweb|url=http://www.brandrepublic.com/News/830579/FRONT-PAGE-Max-Clifford-help-shed-tennis-middle-class-image/|title=Max Clifford to help shed tennis' middle-class image|publisher=PR Week|author=Kate Magee|date=2008-07-10|accessdate=2008-08-02}}</ref><ref>{{citeweb|url=http://www.bookiebusters.net/sugarman/tim_henman.html|title=There are 3 levels of social class in tennis: Upper middle class, middle class and lower middle class|publisher=BookieBusters.net|author=The Sugarman|accessdate=2008-08-02}}</ref>
+
+In 1954, Van Alen founded the [[International Tennis Hall of Fame]], a non-profit museum in Newport, Rhode Island.<ref>{{cite web|url=http://www.tennisfame.com/tennisfame.aspx?pgID=866|title=International Tennis Hall of Fame Information|accessdate=2007-05-29}}</ref> The building contains a large collection of tennis memorabilia as well as a hall of fame honoring prominent members and tennis players from all over the world. Each year, a [[grass court|grass-court]] tournament and an induction ceremony honoring new Hall of Fame members are hosted on its grounds.
+
+==Equipment==
+
+{{Main|Tennis technology}}
+
+Part of the appeal of tennis stems from the simplicity of equipment required for play. Beginners need only a [[racquet]] and balls.
+===Racquets===
+The tennis racquet comprises a handle and neck joining a roughly circular frame that holds an array of tightly pulled strings. For the first century of the modern game, racquets were of wood and of standard size, and strings were of animal gut. Laminated wood construction yielded more strength in rackets used through most of the 20th century until first metal and then composites of carbon graphite, ceramics, and lighter metals such as titanium were introduced. These stronger materials enabled the production of oversized rackets that yielded yet more power. Meanwhile technology led to the use of synthetic strings that match the feel of gut yet with added durability.
+
+===Balls=== 
+Tennis balls are of hollow rubber with a felt coating. Traditionally white, the predominant color was gradually changed to Optic Yellow in the latter part of the twentieth century to allow for improved visibility.
+
+===Miscellaneous===
+Advanced players improve their performance through a number of accoutrements. Vibration dampers may be interlaced in the proximal part of the string array for improved feel. Racket handles may be customized with absorbent materials to improve the players' grip. Players often use sweat bands on their wrists to keep their hands dry as well. Finally, although the game can be played in a variety of shoes, specialized tennis shoes have wide, flat soles for stability and a built-up front structure to avoid excess wear.
+
+==Manner of play==
+:''For individual terms see: [[Glossary of tennis]]''
+===Court===
+{{Main|Tennis court}}
+[[Image:Tennis court metric.svg|thumb|The dimensions of a tennis court, in metric units. ([[:Image:Tennis court imperial.svg|See imperial version]]).]]
+Tennis is played on a rectangular, flat surface, usually [[grass court|grass]], [[clay court|clay]], a [[hardcourt]] of concrete and/or asphalt and occasionally carpet (indoor). The court is 78 [[foot (length)|feet]] (23.77 [[metre|m]]) long, and its width is 27&nbsp;feet (8.23&nbsp;m) for singles matches and 36&nbsp;ft (10.97&nbsp;m) for doubles matches.<ref name=TCS>{{cite web|url=http://www.sportsknowhow.com/tennis/dimensions/tennis-court-dimensions.html|publisher=Sportsknowhow.com|title=Tennis court dimensions|accessdate=2007-05-29}}</ref> Additional clear space around the court is required in order for players to reach overrun balls. A net is stretched across the full width of the court, parallel with the baselines, dividing it into two equal ends. The net is 3&nbsp;feet 6&nbsp;inches (1.07&nbsp;m) high at the posts and 3&nbsp;feet (91.4&nbsp;cm) high in the center.<ref name=TCS/>'''
+
+The modern tennis court owes its design to Major [[Walter Clopton Wingfield]] who, in 1873, patented a court much the same as the current one for his [[Stické|stické tennis]] (sphairistike). This template was modified in 1875 to the court design that exists today, with markings similar to Wingfield's version, but with the [[hourglass]] shape of his court changed to a rectangle.<ref name="Tennis court history">{{cite web|url=http://www.itftennis.com/technical/equipment/courts/history.asp|title=Tennis court history - Grass|publisher=ITF|accessdate=2008-07-28}}</ref>
+
+====Lines====
+The lines that delineate the width of the court are called the baseline (farthest back) and the service line (middle of the court). The short mark in the center of each baseline is referred to as either the hash mark or the center mark. The outermost lines that make up the length are called the doubles sidelines. These are the boundaries used when doubles is being played. The lines to the inside of the doubles sidelines are the singles sidelines and are used as boundaries in singles play. The area between a doubles sideline and the nearest singles sideline is called the doubles alley, which is considered playable in doubles play. The line that runs across the center of a player's side of the court is called the service line because the serve must be delivered into the area between the service line and the net on the receiving side. Despite its name, this is not where a player legally stands when making a serve.<ref name="ITF Court rules">{{cite web|url=http://www.itftennis.com/shared/medialibrary/pdf/original/IO_30333_original.PDF|title=ITF rules - Rule 1|publisher=ITF|accessdate=2008-09-04}}</ref> The line dividing the service line in two is called the center line or center service line. The boxes this center line creates are called the service boxes; depending on a player's position, he will have to hit the ball into one of these when serving.<ref name=autogenerated1>{{cite web|url=http://www.itftennis.com/shared/medialibrary/pdf/original/IO_30333_original.PDF|title=ITF rules - Rule 17|publisher=ITF|accessdate=2008-09-04}}</ref> A ball is out only if none of it has hit the line or the area inside the lines upon its first bounce. All the lines are required to be between 1 and {{convert|2|in|mm}} in width. The baseline can be up to {{convert|4|in|mm}} wide if so desired.<ref name="ITF Court rules"/>
+
+===Play of a single point===
+{{Main|Point (tennis)}}
+[[Image:Peer Vs Chakvetadze.JPG|thumb|Two players before a serve.]]
+The players (or teams) start on opposite sides of the net. One player is designated the ''server'', and the opposing player, or in doubles one of the opposing players, is the ''receiver''. Service alternates between the two halves of the court. For each point, the server starts behind his baseline, between the center mark and the sideline. The receiver may start anywhere on their side of the net. When the receiver is ready, the server will [[Serve (tennis)|serve]], although the receiver must play to the pace of the server.
+
+In a legal service, the ball travels over the net (without touching it) and into the diagonally opposite service box. If the ball hits the net but lands in the service box, this is a ''let'' or ''net service'', which is void, and the server gets to retake that serve. The player can serve any number of let services in a point and they are always treated as voids and not as faults. A fault is a serve that is long, wide, or not over the net. There is also a "foot fault", which occurs when a player's foot touches the baseline or an extension of the center mark<ref> Another theoretical foot fault would be incurred by touching a sideline; however this has probably never been called because a player in such an extreme position would be giving her or himself a definite disadvantage</ref> before the ball is hit. If the second service is also faulty, this is a ''double fault,'' and the receiver wins the point. However, if the serve is in, it is considered a legal service.
+
+A legal service starts a ''rally'', in which the players alternate hitting the ball across the net. A legal return consists of the player or team hitting the ball exactly once before it has bounced twice or hit any fixtures except the net, provided that it still falls in the server's court. The ball then travels back over the net and bounces in the court on the opposite side. The first player or team to fail to make a legal return loses the point.
+
+===Scoring===
+{{main|Tennis score}}
+A tennis [[Tennis score#Scoring the match|match]] is determined through the best of 3 or 5 ''sets''. Typically for both men's and women's matches, the first player to win two sets wins the match. At certain important tennis tournaments for men, including all four [[Grand Slam (tennis)|Grand Slam]] tournaments and the final of the [[Olympic Games]], the first man to win three sets wins the match.<ref>From 1984 through 1998, women played first-to-win-three-sets in the final of the year-ending [[WTA Tour Championships]].</ref> A set consists of ''games'', and games, in turn, consist of ''points''.
+
+A [[Tennis score#Scoring a game|game]] consists of a sequence of [[Point (tennis)|points]] played with the same player serving. A game is won by the first player to have won at least four points in total and at least two points more than the opponent. The running score of each game is described in a manner peculiar to tennis: scores from zero to three points are described as "''love''", "''fifteen''", "''thirty''", and "''forty''" respectively. (See the main article [[Tennis score]] for the origin of these words as used in tennis.) If at least three points have been scored by each player, and the scores are equal, the score is "''deuce''". If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is "''advantage''" for the player in the lead. During informal games, "advantage" can also be called "ad in" or "ad out", depending on whether the serving player or receiving player is ahead, respectively.
+
+In tournament play, the chair umpire calls the point count (e.g., "''fifteen-love''") after each point. The score of a tennis match during play is always read with the serving player's score first. After a match, the score is always read with the winning player's score first. At the end of a game, the chair umpire also announces the winner of the game and the overall score.
+
+{{anchors|game point|set point|match point|championship point}}A ''game point'' occurs in tennis whenever the player who is in the lead in the game needs only one more point to win the game. The terminology is extended to sets (set point), matches (match point), and even championships (championship point). For example, if the player who is serving has a score of 40-love, the player has a triple game point (triple set point, etc.) as the player has three consecutive chances to win the game. Game points, set points, and match points are not part of official scoring and are not announced by the chair umpire in tournament play.
+
+A ''break point'' occurs if the receiver, not the [[Serve (tennis)|server]], has a game point. Break points are of particular importance because [[Serve (tennis)|serving]] is generally advantageous. A receiver who has two (score of 15-40) or three (score of love-40) consecutive chances to win the game has ''double break point'' or ''triple break point'', respectively. As with game, set, and match points, break points are not announced.
+
+A [[Tennis score#Scoring a set|set]] consists of a sequence of games played with service alternating between games, ending when the count of games won meets certain criteria. Typically, a player wins a set by winning at least six games and at least two games more than the opponent. If one player has won six games and the opponent five, an additional game is played. If the leading player wins that game, the player wins the set 7–5. If the trailing player wins the game, a ''[[Tennis score#Scoring a tiebreak game|tie-break]]'' is played. A tie-break, played under a separate set of rules, allows one player to win one more game and thus the set, to give a final set score of 7–6. Only in the final sets of matches at the [[Australian Open]], the [[French Open]], [[The Championships, Wimbledon|Wimbledon]], the Olympic Games, [[Davis Cup]], and [[Fed Cup]] are tie-breaks not played. In these cases, sets are played indefinitely until one player has a two-game lead. A "love" set means that the loser of the set won zero games. In tournament play, the chair umpire announces the winner of the set and the overall score.
+
+In tournament play, the chair umpire announces the end of the match with the well-known phrase "''Game, set, match''" followed by the winning person's or team's name.
+
+===Rules variations===
+{{seealso|Types of tennis match}}
+{| class="wikitable" border="1"
+|+Variations
+!Name
+!Description
+|-
+|No-ad
+|The first player or doubles team to win four points wins the game, regardless of whether the player or team is ahead by two points. When the game score reaches three points each, the receiver chooses which side of the court (advantage court or deuce court) the service is to be delivered on the seventh and game-deciding point.
+|-
+|Pro set
+|Instead of playing multiple sets, players may play one "pro set". A pro set is first to 8 (or 10) games by a margin of two games, instead of first to 6 games. A 12-point tie-break is usually played when the score is 8-8 (or 10-10). These are often played with no-ad scoring.
+|-
+|Match tiebreak
+|This is sometimes played instead of a third set. This is played like a regular tiebreak, but the winner must win ten points instead of seven. Match tiebreaks are used in the [[Hopman Cup]] for mixed doubles, on the [[Association of Tennis Professionals|ATP]] and [[Women's Tennis Association|WTA]] tours for doubles and as a player's choice in USTA league play.
+|}
+
+Another, however informal, tennis format is called "Kiwi doubles", "Canadian doubles" or "cut-throat".<ref>[http://tt.tennis-warehouse.com/archive/index.php/t-143733.html Canadian Doubles? [Archive&#93; - Talk Tennis<!-- Bot generated title -->]</ref> This involves three players, with one person playing a doubles team. The single player gets to utilize the alleys normally reserved only for a doubles team. Conversely, the doubles team does not use the alleys when executing a shot. The scoring is the same as a regular game. This format is not sanctioned by any official body.
+
+"Australian doubles", another informal and unsanctioned form of tennis, is played with similar rules to the "Kiwi" style, only in this version, players rotate court position after each game. As such, each player plays doubles and singles over the course of a match, with the singles player always serving. Scoring styles vary, but one popular method is to assign a value of 2 points to each game, with the server taking both points if he or she holds serve and the doubles team each taking one if they break serve.
+
+[[Wheelchair tennis]] can be played by able-bodied players as well as people who require a wheelchair for mobility. An extra bounce is permitted. This rule makes it possible to have mixed wheelchair and able-bodied matches. It is possible for a doubles team to consist of a wheelchair player and an able-bodied player (referred to as "one-up, one-down"), or for a wheelchair player to play against an able-bodied player. In such cases, the extra bounce is permitted for the wheelchair users only.
+
+==Surface==
+{{main|Tennis court#Types of tennis courts}}
+
+There are four main types of court surface, each different in the speed and bounce of the ball:
+{| class="wikitable" border="1"
+!Name
+!Description
+|-
+|[[Clay court|Clay]]
+|Examples are red clay (used at the [[French Open]] and many other tournaments, especially in Europe and Latin America) and green clay (an example of which is [[Har-Tru]] and used mainly in the U.S.). Clay courts normally have a slower paced ball and a fairly true bounce with more spin.
+|-
+|[[Tennis court#Hard courts|Hard]]
+|Examples are [[acrylic]] (e.g. [[Plexicushion]] used at the [[Australian Open]], [[DecoTurf]] used at the [[US Open (tennis)|US Open]]), asphalt, and concrete. Hardcourts typically have a faster-paced ball with a very true bounce.
+|-
+|[[Grass court|Grass]]
+|Used at [[The Championships, Wimbledon|Wimbledon]]. Grass courts usually have a faster-paced ball, and a more erratic bounce. Wimbledon has slowed its courts over the years. (see the cited main article, [[Tennis_court#Grass_courts|Grass courts]]).
+|-
+|Indoor court|Indoor
+|Examples are [[carpet]] and very rarely, wood. Carpet courts typically have a very fast-paced ball with a true but low bounce.
+|}
+
+==Officials==
+{{Main|Official (tennis)}}
+[[Image:Tennis umpire.jpg|thumb|An umpire informing two players of the rules.]]
+In most professional play and some amateur competition, there is an officiating head judge or chair umpire (usually referred to as the umpire), who sits in a raised chair to one side of the court. The umpire has absolute authority to make factual determinations. The umpire may be assisted by line judges, who determine whether the ball has landed within the required part of the court and who also call foot faults. There also may be a net judge who determines whether the ball has touched the net during service. In some tournaments, certain line judges, usually those who would be calling the serve, are replaced by electronic sensors that beep when an out call would have been made. In some tournaments, electric line calls aren't made, but rather are used to assist the linespeople. When a ball lands in a spot where the linesperson isn't sure if the ball was in or out, a noise is made that only linespeople can hear (because they are wearing headsets), and helps them to make the call. In some open-tournament matches, players are allowed to challenge a limited number of close calls by means of [[instant replay|electronic review]]. The [[US Open (tennis)|US Open]], the [[NASDAQ-100 Open]] in [[Key Biscayne, Florida]], the [[United States Open Series|US Open Series]], and [[World Team Tennis]] started using a "challenge" system in 2006 and the [[Australian Open]] and [[The Championships, Wimbledon|Wimbledon]] introduced the system in 2007. This used the [[Hawk-Eye]] system and the rules were similar to those used in the [[National Football League|NFL]], where a player gets a limited number of opportunities to challenge per match/set. More recently, a player may use unlimited challenges in a set, provided that he or she is not incorrect more than three times. In clay-court matches, such as at the [[French Open]], a call may be questioned by reference to the mark left by the ball's impact on the court surface.
+
+The referee, who is usually located off the court, is the final authority about tennis rules. When called to the court by a player or team captain, the referee may overrule the umpire's decision if the tennis rules were violated (question of law) but may not change the umpire's decision on a question of fact. If, however, the referee is on the court during play, the referee may overrule the umpire's decision.
+
+[[Ball boy|Ball boys and girls]] may be employed to retrieve balls, pass them to the players, and hand players their towels. They have no [[adjudicative]] role. In rare events (e.g., if they are hurt or if they have caused a hindrance), the umpire may ask them for a statement of what actually happened. The umpire may consider their statements when making a decision. In some leagues, especially junior leagues, players make their own calls, trusting each other to be honest. This is the case for many school and university level matches. The referee or referee's assistant, however, can be called on court at a player's request, and the referee or assistant may change a player's call. In unofficiated matches, a ball is out only if the player entitled to make the call is sure that the ball is out.
+
+==Juniors==
+{{main|Junior tennis}}
+
+In tennis, a junior is a player under the age of 18 who is still legally protected by a parent or guardian. Players on the main adult tour who are under 18 must have documents signed by a parent or guardian. These players, however, are still eligible to play in junior tournaments.
+
+The [[International Tennis Federation]] (ITF) conducts a junior tour that allows juniors to establish a world ranking and an [[Association of Tennis Professionals]] (ATP) or [[Women's Tennis Association]] (WTA) ranking. Most juniors who enter the international circuit do so by progressing through ITF, Satellite, Future, and Challenger tournaments before entering the main circuit. The latter three circuits also have adults competing in them. Some juniors, however, such as Australian [[Lleyton Hewitt]] and Frenchman [[Gaël Monfils]], have catapulted directly from the junior tour to the ATP tour by dominating the junior scene or by taking advantage of opportunities given to them to participate in professional tournaments.
+
+In 2004, the ITF implemented a new rankings scheme to encourage greater participation in doubles, by combining two rankings (singles and doubles) into one combined tally. Junior tournaments do not offer prize money except for the [[Grand Slam (tennis)|Grand Slams]], which are the most prestigious junior events. Juniors may earn income from tennis by participating in the Future, Satellite, or Challenger tours. Tournaments are broken up into different tiers offering different amounts of ranking points, culminating with Grade A.
+
+Leading juniors are allowed to participate for their nation in the [[Junior Davis Cup and Junior Fed Cup|Junior Fed Cup and Davis Cup]] competitions as well. To succeed in tennis often means having to begin playing at a young age. To facilitate and nurture a junior's growth in tennis, almost all tennis playing nations have developed a junior development system. Juniors develop their play through a range of tournaments on all surfaces, accommodating all different standards of play. Talented juniors may also receive sponsorships from governing bodies or private institutions.
+
+==Match play==
+[[Image:Tennis shake hands after match.jpg|thumb|Convention dictates that two players shake hands at the end of a match.]]
+A tennis match is intended to be continuous.<ref name=ITF>{{cite web|url=http://www.itftennis.com/shared/medialibrary/pdf/original/IO_30333_original.PDF|title=The ITF states this in Rule No. 29|format=PDF}}</ref> Because stamina is a relevant factor, arbitrary delays are not permitted. In most cases, service is required to occur no more than 20 seconds after the end of the previous point.<ref name=ITF/> This is increased to 90 seconds when the players change ends (after every odd-numbered game), and a 120 second break is permitted between sets.<ref name=ITF/> Other than this, breaks are permitted only when forced by events beyond the players' control, such as rain, damaged footwear, damaged racquet, or the need to retrieve an errant ball. Should a player be determined to be stalling repeatedly, the chair umpire may initially give a warning followed by subsequent penalties of "point", "game", and default of the match for the player who is consistently taking longer than the allowed time limit.<ref>{{cite web|url=http://www.itftennis.com/shared/medialibrary/pdf/original/IO_31818_original.PDF|publisher=ITF|title=CODE OF CONDUCT FOR 2008 ITF PRO CIRCUITS TOURNAMENTS|quote=The first violation of this Section shall be penalised by a Time Violation warning
+and each subsequent violation shall be penalised by the assessment of one Time
+Violation point penalty.|accessdate=2008-08-01}}</ref>
+
+In the event of a rain delay, darkness or other external conditions halting play, the match is resumed at a later time, with the same score as at the time of the delay, and the players at the same end of the court when rain halted play, or at the same position (north or south) if play is resumed on a different court.
+
+Balls wear out quickly in serious play and, therefore, in [[Association of Tennis Professionals|ATP]] and [[Women's Tennis Association|WTA]] tournaments, they are changed after every nine games with the first change occurring after only seven games, because the first set of balls is also used for the pre-match warm-up.<ref>{{cite web |url=http://www.itftennis.com/technical/rules/equipment/ball.asp |title=ITF Rules:#3 The ball|accessdate=2009-06-10}}</ref>  As a courtesy to the receiver, the server will often signal to the receiver before the first serve of the game in which new balls are used as a reminder that they are using new balls. However, in [[International Tennis Federation|ITF]] tournaments like [[Fed Cup]], the balls are changed in a 9-11 style. Continuity of the balls' condition is considered part of the game, so if a re-warm-up is required after an extended break in play (usually due to rain), then the re-warm-up is done using a separate set of balls, and use of the match balls is resumed only when play resumes.
+
+A recent proposed rules change is to allow coaching on court during a match on a limited basis,<ref>{{cite web |url=http://www.expert-tennis-tips.com/tennis-on-court-coaching.html |title=Tennis On-Court Coaching}}</ref><ref>{{cite web |url=http://www.usta.com/USTA/Global/Improve_Your_Game/Archive/Tennis_Tips/Rules_and_Line_Calls/Coaching_during_a_match.aspx |title=USTA:Coaching during a match}}</ref><ref>{{cite web|url=http://www.npr.org/templates/story/story.php?storyId=5441281 |title=Tennis Coaching Debate |publisher=[[National Public Radio|NPR]]}}</ref><ref>{{cite web |url=http://sports.espn.go.com/sports/tennis/news/story?id=2620446 |title=Does on-court coaching have a future? |publisher=[[ESPN]]}}</ref> and this has, in fact, been instituted for [[WTA Tour]] events.<ref>[http://www.sonyericssonwtatour.com/SEWTATour-Archive/Archive/AboutTheTour/rules.pdf Sony Ericsson WTA Tour Rules 2009] p.330</ref>
+
+==Shots==
+{{Main|Tennis shots}}
+A competent tennis player has eight basic shots in his or her repertoire: the serve, forehand, backhand, volley, half-volley, overhead smash, drop shot, and lob.
+
+===Serve===
+{{Main|Serve (tennis)}}
+[[Image:Tim Henman Wimbledon 2005 1.jpg|thumb|[[Tim Henman]] preparing to hit a serve. The left arm is extended, having just launched the ball into the air. The right arm will be raised up and forward at speed so that the racket connects with the ball.]]
+A serve (or, more formally, a "service") in tennis is a shot to start a point. The serve is initiated by tossing the ball into the air and hitting it (usually near the apex of its trajectory) into the diagonally opposite service box without touching the net. The serve may be hit under- or overhand.
+
+Experienced players strive to master the conventional overhand serve to maximize its power and placement. The server may employ different types of serve including flat serve, topspin serve, slice serve, and kick (American twist) serve. A reverse type of spin serve is hit in a manner that spins the ball opposite the natural spin of the server, the spin direction depending upon right- or left-handedness. If the ball is spinning counterclockwise, it will curve right from the hitter's point of view and curve left if spinning clockwise.
+
+Some servers are content to use the serve simply to initiate the point; however, advanced players often try to hit a winning shot with their serve. A winning serve that is not touched by the opponent is called an "ace". If the receiver manages to touch it but fails to successfully return it, it is called a "service winner".
+
+===Grips===
+{{Main|Grip (Tennis)}}
+Players use various grips during play, including the continental, eastern, and western grips. Different grips generally are used for different types of spin and shots.
+
+===Forehand===
+{{Main|Forehand}}
+[[Image:Roger Federer 2.jpg|thumb|[[Roger Federer]] preparing to hit a forehand. Much can be learned from this photograph. Note how he is "loading" his body weight on his back (right) foot and coiling his shoulders with the help of his left hand. From this position, he will "uncoil" his body beginning with his legs, progressing to his hips and then on to his arms. This is how the "modern" forehand utilizing the open stance is executed.]]
+For a right-handed player, the forehand is a stroke that begins on the right side of the body, continues across the body as contact is made with the ball, and ends on the left side of the body. There are various [[Grip (tennis)|grips]] for executing the forehand, and their popularity has fluctuated over the years. The most important ones are the ''continental'', the ''eastern'', the ''semi-western'', and the ''western''. For a number of years, the small, apparently frail 1920s player [[Bill Johnston]] was considered by many to have had the best forehand of all time, a stroke that he hit shoulder-high using a ''western'' grip. Few top players used the ''western'' grip after the 1920s, but in the latter part of the 20th century, as shot-making techniques and equipment changed radically, the ''western'' forehand made a strong comeback and is now used by many modern players. No matter which grip is used, most forehands are generally executed with one hand holding the racquet, but there have been fine players with two-handed forehands. In the 1940s and 50s, the Ecuadorian/American player [[Pancho Segura]] used a two-handed forehand to achieve a  devastating effect against larger, more powerful players. Currently, France's [[Fabrice Santoro]] uses a two-handed forehand. Some females such as [[Monica Seles]] and France's [[Marion Bartoli]] also use a two-handed forehand.
+
+===Backhand===
+{{Main|Backhand}}
+[[Image:Li na 2007 sydney medibank international.jpg|thumb|left|[[Li Na (tennis)|Li Na]] hitting a two-handed backhand]]
+[[Image:Nadal-2006.2.jpg|left|thumb|[[Rafael Nadal]] performing a backhand [[volley (tennis)|volley]].]]
+For right-handed players, the backhand is a stroke that begins on the left side of their body, continues across their body as contact is made with the ball, and ends on the right side of their body. It can be executed with either one hand or with both and is generally considered more difficult to master than the forehand. For most of the 20th century, the backhand was performed with one hand, using either an ''eastern'' or a ''continental'' grip. The first notable players to use two hands were the 1930s Australians [[Vivian McGrath]] and [[John Bromwich]], but they were lonely exceptions. The two-handed grip gained popularity in the 1970s as [[Björn Borg]], [[Chris Evert]], [[Jimmy Connors]], and later [[Mats Wilander]] and [[Andre Agassi]] used it to great effect, and it is now used by a large number of the world's best players, including [[Rafael Nadal]] and [[Serena Williams]]. [[Andy Roddick]] uses the ''extreme western'' grip to create massive amounts of top spin. It is difficult to do this and could possibly cause injury if done incorrectly. Two hands give the player more control, while one hand can generate a slice shot, applying backspin on the ball to produce a low trajectory bounce. Reach is also limited with the two-handed shot. The player long considered to have had the best backhand of all time, [[Don Budge]], had a powerful one-handed stroke in the 1930s and 1940s that imparted topspin onto the ball. [[Ken Rosewall]], another player noted for his one-handed backhand, used a very accurate slice backhand through the 1950s and 1960s. A small number of players, notably [[Monica Seles]], use two hands on both the backhand and forehand sides.
+
+<!-- Commented out because I believe the following text would be a better fit inside the main [[Backhand]] article.
+The current number-one player in the world [[Roger Federer]] uses a very diverse one handed backhand. With that shot he is able to create sharp angles with topspin or draw his opponents into the court with slice. Many of the current top players have proven that the one handed backhand can be both consistent and aggressive.
+-->
+
+===Other shots===
+[[Image:Justine henin hardenne medibank international 2006 02.jpg|thumb|right|[[Justine Henin]] performing a [[backhand]] volley.]]
+A ''[[volley (tennis)|volley]]'' is made in the air before the ball bounces, generally near the net, and is usually made with a stiff-wristed punching motion to hit the ball into an open area of the opponent's court. The ''[[half volley]]'' is made by hitting the ball on the rise just after it has bounced, once again generally in the vicinity of the net. The ''swinging volley'' is hit out of the air as the player approaches the net. It is an offensive shot used to take preparation time away from the opponent. From a poor defensive position on the baseline, the ''[[lob (tennis)|lob]]'' can be used as either an offensive or defensive weapon, hitting the ball high and deep into the opponent's court to either enable the lobber to get into better defensive position or to win the point outright by hitting it over the opponent's head. If the lob is not hit deeply enough into the other court, however, the opponent may then hit an ''[[smash (tennis)|overhead smash]]'', a hard, serve-like shot, to try to end the point. Finally, if an opponent is deep in his court, a player may suddenly employ an unexpected ''[[drop shot]]'', softly tapping the ball just over the net so that the opponent is unable to run in fast enough to retrieve it.
+
+==Tournaments==
+{{See also|List of tennis tournaments}}
+Tournaments are often organized by gender and number of players. Common tournament configurations include men's singles, women's singles, and doubles, where two players play on each side of the net. Tournaments may be arranged for specific age groups, with upper age limits for youth and lower age limits for senior players. Example of this include the [[Orange Bowl (tennis)|Orange Bowl]] and [[Les Petits As]]. There are also tournaments for players with disabilities, such as [[wheelchair tennis]] and deaf tennis.<ref>{{cite web|url=http://www.lta.org.uk/PlayAndCompete/DisabilityTennis/DisabilityTennisHearing.htm|archiveurl=http://web.archive.org/web/20080205021146/http://www.lta.org.uk/PlayAndCompete/DisabilityTennis/DisabilityTennisHearing.htm|archivedate=2008-02-05|title=Lawn Tennis Association Deaf tennis|accessdate=2008-03-16}}</ref> In the four [[Grand Slam (tennis)|Grand Slam]] tournaments, the singles draws are limited to 128 people for each gender.
+
+Players may also be matched by their skill level. According to how well a person does in sanctioned play, a player is given a rating that is adjusted periodically to maintain competitive matches. For example, the [[United States Tennis Association]] administers the National Tennis Rating Program, which rates players between 1.0 and 7.0 in 1/2 point increments. Average club players under this system would rate 3.0-4.5 while world class players would be 7.0 on this scale.
+
+===Grand Slam tournaments===
+The four [[Grand Slam (tennis)|Grand Slam]] tournaments are considered to be the most prestigious tennis tournaments in the world. They are held annually and include, in chronological order, the [[Australian Open]], the [[French Open]], [[Wimbledon Championships|Wimbledon]], and the [[US Open (tennis)|US Open]]. Apart from the [[Olympic Games]], [[Davis Cup]], [[Fed Cup]], and [[Hopman Cup]], they are the only tournaments regulated by the [[International Tennis Federation]] (ITF).<ref name=Slams>{{cite web|url=http://www.itftennis.com/abouttheitf/worldwide/grandslams/|title=Grand Slams|accessdate=2008-03-16}}</ref> The ITF's national associations, [[Tennis Australia]] (Australian Open), the [[French Tennis Federation]] (French Open), the [[United States Tennis Association]] (US Open), and the [[All England Lawn Tennis and Croquet Club]] and [[Lawn Tennis Association]] (Wimbledon), are delegated the responsibility to organize these events.<ref name=Slams/>
+
+Aside from the historical significance of these events, they also carry larger prize funds than any other tour event and are worth double the number of ranking points to the champion than in the next echelon of tournaments, the [[ATP World Tour Masters 1000|Masters 1000]] (men) and Premier events (women).<ref name=Rankings>{{cite web|url=http://www.atptennis.com/en/players/information/rankpop.asp|title=ATP rankings|accessdate=2008-03-16}}</ref><ref>{{cite web|url=http://www.sonyericssonwtatour.com/3/global/includes/TrackIt.asp?file=http://www.sonyericssonwtatour.com/3/global/Pdfs/rankings/howitworks.pdf|title=WTA Tour Rankings|accessdate=2008-03-16}}</ref> Another distinguishing feature is the number of players in the singles draw, 128, more than any other professional tennis tournament. This draw is composed of 32 seeded players, other players ranked in the world's top 100, qualifiers, and players who receive invitations through [[Wild card (sports)|wild cards]]. Grand Slam men's tournaments have best-of-five set matches throughout. Grand Slam tournaments are among the small number of events that last two weeks, the others being the [[BNP Paribas Open]] in [[Indian Wells, California]] and the [[Sony Ericsson Open]] in [[Key Biscayne, Florida]]. Currently, the Grand Slam tournaments are the only tour events that have [[Types of tennis match|mixed doubles]] contests. Grand Slam tournaments are held in conjunction with wheelchair tennis tournaments (with the exception being Wimbledon, where the [[grass court|grass]] surface prevents this) and [[junior tennis]] competitions. Grand Slam tournaments are often seen as the culmination of a particular season, such as the [[US Open Series]]. These tournaments also contain their own idiosyncrasies. For example, players at Wimbledon are required to wear predominantly white, a rule that has motivated certain players, such as [[Andre Agassi]], to skip the tournament.<ref>{{cite news | url = http://news.bbc.co.uk/sport1/hi/tennis/4088298.stm | title = What not to wear at Wimbledon | publisher = [[BBC SPORT]], [[Sarah Holt]] | date = 2008-06-15 | accessdate= 2008-03-16}}</ref> Wimbledon also has its own particular methods for disseminating tickets, often leading tennis fans to follow complex procedures to obtain tickets.<ref>http://www.wimbledondebentureholders.com/articles/ten_ways_to_grab_a_seat_at_wimbledon</ref>
+
+{| cellpadding="3" cellspacing="0" border="1" style="background:#f7f8ff; font-size:95%; border:gray solid 1px; border-collapse:collapse;"
+|+Grand Slam
+!Period
+!Tournament
+!Location
+!Surface
+|- style="background:#EFEFEF;"
+| January || [[Australian Open]] || [[Melbourne]] || [[Tennis court#Hard courts|Hard]] ([[Plexicushion]])
+|-
+| May-June || [[French Open]] || [[Paris]] || [[Clay court|Clay]]
+|- style="background:#EFEFEF;"
+| June-July || [[Wimbledon Championships|Wimbledon]] || [[London]] || [[Grass court#Grass courts|Grass]]
+|-
+| August-September ||[[US Open (tennis)|US Open]] || [[New York City]] || [[Tennis court#Hard courts|Hard]] ([[DecoTurf]])
+|}
+
+===Masters 1000===
+The [[ATP World Tour Masters 1000]] is a group of nine tournaments that form the second-highest echelon in men's tennis. Each event is held annually, and a win at one of these events is currently worth 1000 ranking points. When the [[Association of Tennis Professionals]], led by [[Hamilton Jordan]], began running the men's tour in 1990, the directors designated the top nine tournaments, outside of the [[Grand Slam (tennis)|Grand Slam]] events, as "Super Nine" events.<ref>{{cite web|url=http://www.itftennis.com/abouttheitf/worldwide/history.asp|title=History of Tennis|accessdate=2008-03-16}}</ref> These eventually became the Tennis Masters Series. In November at the end of the tennis year, the world's top eight players compete in the [[ATP World Tour Finals]], a tournament with a rotating locale. It is currently held in [[London, England]].<ref>{{cite news | url = http://news.bbc.co.uk/sport1/hi/tennis/6264650.stm | title = London to host World Tour Final | publisher = [[BBC SPORT]], [[Piers Newbery]] | date = 2007-07-03 | accessdate= 2008-03-16}}</ref>
+
+On August 31, 2007 the ATP announced that major changes will take place in 2009. The Masters Series will be renamed to the “Masters 1000”, with the addition of the number 1000 referring to the number of ranking points earned by the winner of each tournament. Contrary to earlier plans, the number of tournaments will not be reduced from nine to eight and the [[Monte Carlo Masters]] will remain part of the series although, unlike the other events, it will not have a mandatory player commitment. The [[Hamburg Masters]] event will be downgraded to a 500 point event. The [[Madrid Masters]] will move to May and onto clay courts, and a new tournament in [[Shanghai]] will take over Madrid's former indoor October slot. In 2011 six of the nine “1000” level tournaments will be combined ATP and [[Women's Tennis Association|WTA]] events.<ref>http://www.inside-tennis.net/tennis-news_2854_ATP-Revise-Masters-Series-for-2009.html</ref><ref>http://www.coretennis.net/majic/pageServer/0p0100006b/en/ATP-Tour-2009.html</ref>
+
+{| cellpadding="3" cellspacing="0" border="1" style="background:#f7f8ff; font-size:95%; border:gray solid 1px; border-collapse:collapse;"
+|+Current Masters 1000 tournaments (2009)<ref>http://www.atpworldtour.com/tennis/3/en/tournaments/fullcalendar/</ref>
+!Start Month
+!Tournament Name
+!City
+!Surface
+!Opening
+|- style="background:#EFEFEF;"
+| March
+| [[Indian Wells Masters|BNP Paribas Open]]
+| [[Indian Wells, California|Indian Wells]]
+| Hard
+| Outdoors
+|-
+|- style="background:#EFEFEF;"
+| March
+| [[Miami Masters|Sony Ericsson Open]]
+| [[Miami]]<ref group=Loc>Actually in the adjacent suburb of [[Key Biscayne, Florida]].</ref>
+| Hard
+| Outdoors
+|-
+|- style="background:#EFEFEF;"
+| April
+| [[Monte Carlo Masters|Monte-Carlo Rolex Masters]]
+| [[Monte-Carlo]]<ref group=Loc>Actually in the adjacent [[France|French]] commune of [[Roquebrune-Cap-Martin]].</ref>
+| Clay
+| Outdoors
+|-
+|- style="background:#EFEFEF;"
+| April
+| [[Rome Masters|Internazionali BNL d'Italia]]
+| [[Rome]]
+| Clay
+| Outdoors
+|-
+|- style="background:#EFEFEF;"
+| May
+| [[Madrid Masters|Mutua Madrileña Masters Madrid]]
+| [[Madrid]]
+| Clay
+| Outdoors
+|-
+|- style="background:#EFEFEF;"
+| August
+| [[Canada Masters|Rogers Cup]]
+| [[Montreal]],[[Toronto]]
+| Hard
+| Outdoors
+|-
+|- style="background:#EFEFEF;"
+| August
+| [[Cincinnati Masters|Western & Southern Financial Group Masters & Women's Open]]
+| [[Cincinnati]]<ref group=Loc>Actually in the suburb of [[Mason, Ohio]].</ref>
+| Hard
+| Outdoors
+|-
+|- style="background:#EFEFEF;"
+| October
+| [[Shanghai Masters (tennis)|Shanghai Masters 1000 presented by Rolex]]
+| [[Shanghai]]
+| Hard
+| Outdoors
+|-
+|- style="background:#EFEFEF;"
+| November
+| [[Paris Masters|BNP Paribas Masters]]
+| [[Paris]]
+| Hard
+| Indoors
+|}
+
+<references group=Loc/>
+
+===250 and 500 Series===
+The International Series for men is split into two categories, both run by the [[Association of Tennis Professionals|ATP]]: the [[ATP World Tour 250 series|250 Series]] and [[ATP World Tour 500 series|500 Series]]. Like the [[ATP World Tour Masters 1000|Masters 1000]], these events offer various amounts of prize money, and some regular International Series events offer larger prize monies than 500 Series tournaments.<ref name=Rankings/> The [[Dubai Tennis Championships|Barclays Dubai Tennis Championships]] offer the largest financial incentive to players, with total prize money of [[US$]]1,426,000.
+
+===Challenger Tour and Futures Tournaments===
+The [[ATP Challenger Tour|Challenger Tour]] for men is the lowest level of tournament administered by the [[Association of Tennis Professionals|ATP]]. It is composed of roughly 160 events and, as a result, features a more diverse range of countries hosting events.<ref>{{cite news | url = http://www.atptennis.com/3/en/tournaments/challenger/CScircuit.asp | title = About the Challenger Circuit | publisher = [[Association of Tennis Professionals]] | accessdate= 2008-03-18}}</ref> The majority of players use the Challenger Series to work their way up the rankings, including World No. 1s [[Pete Sampras]], [[Marcelo Ríos]], [[Patrick Rafter]], and [[Gustavo Kuerten]]. [[Andre Agassi]], between winning Grand Slam titles, plummeted to World No. 141 and used Challenger Series events for match experience and to progress back up the rankings.<ref>{{cite news | url = http://sports.espn.go.com/sports/tennis/wimbledon06/news/story?id=2506393 | title = An appreciation of Andre Agassi | publisher = [[ESPN]], [[Matt Wilansky]] | date = 2006-07-01 | accessdate= 2008-03-18}}</ref> The Challenger Series offers prize funds of between [[US$]]25,000 and US$150,000.
+
+Below the Challenger Series are the [[Futures tournaments|Futures Tournaments]], the main events on the [[ITF Men's Circuit]]. These tournaments also contribute towards a player's [[ATP rankings]] points. Futures Tournaments offer prize funds of between US$10,000 and US$15,000; however, futures status is granted only to events offering a total of US$30,000, meaning that two or three tournaments are played.<ref>{{cite web|url=http://www.itftennis.com/mens/circuitinfo/index.asp|title=About the ITF Men's Circuit|publisher=[[International Tennis Federation]]|accessdate=2008-03-18}}</ref> Approximately 400 Futures Tournaments are played each year.
+
+===Premier events===
+[[WTA Premier tournaments|Premier]] events for women form the most prestigious level of events on the [[WTA Tour|Women's Tennis Association Tour]] after the [[Grand Slam (tennis)|Grand Slam]] tournaments. These events offer the largest rewards in terms of points and prize money. Within the Premier category are Premier Mandatory, Premier 5, and Premier tournaments.  The tiering system in women's tennis was introduced in 1988. At the time of its creation, only two tournaments, the [[Lipton International Players Championships]] in [[Florida]] and the [[WTA German Open|German Open]] in Berlin, comprised the [[Tier I]] category. In 2009, four tournaments are Premier Mandatory, five tournaments are Premier 5, and ten tournaments are Premier.
+
+==Players==
+Professional tennis players enjoy the same relative perks as most top sports personalities; clothing, equipment and endorsements.  As an individual sport, like Golf, they are not salaried, but must play and place highly in tournaments to obtain money.
+
+===Grand Slam winners===
+{{See also|Tennis statistics}}
+Male players who have played at least part of their careers during the [[open era]] and who have won at least two [[Grand Slam (tennis)|Grand Slam]] singles titles are as follows: [[Roger Federer]] (15), [[Pete Sampras]] (14), [[Roy Emerson]] (12), [[Rod Laver]] (11), [[Björn Borg]] (11), [[Ken Rosewall]] (8), [[Jimmy Connors]] (8), [[Ivan Lendl]] (8), [[Andre Agassi]] (8), [[John Newcombe]] (7), [[John McEnroe]] (7), [[Mats Wilander]] (7), [[Boris Becker]] (6), [[Stefan Edberg]] (6), [[Rafael Nadal]] (6), [[Jim Courier]] (4), [[Guillermo Vilas]] (4), [[Arthur Ashe]] (3), [[Jan Kodeš]] (3), [[Gustavo Kuerten]] (3), [[Stan Smith]] (2), [[Ilie Năstase]] (2), [[Johan Kriek]] (2), [[Lleyton Hewitt]] (2), [[Yevgeny Kafelnikov]] (2), [[Patrick Rafter]] (2), [[Sergi Bruguera]] (2), and [[Marat Safin]] (2).
+
+Female players who have played at least part of their careers during the open era and who have won at least two Grand Slam singles titles are as follows: [[Margaret Court]] (24), [[Steffi Graf]] (22), [[Chris Evert]] (18), [[Martina Navrátilová]] (18), [[Billie Jean King]] (12), [[Serena Williams]] (11), [[Monica Seles]] (9), [[Justine Henin]] (7), [[Evonne Goolagong Cawley]] (7), [[Venus Williams]] (7), [[Martina Hingis]] (5), [[Hana Mandlíková]] (4), [[Arantxa Sánchez Vicario]] (4), [[Maria Sharapova]] (3), [[Virginia Wade]] (3), [[Lindsay Davenport]] (3), [[Jennifer Capriati]] (3), [[Nancy Richey Gunter]] (2), [[Tracy Austin]] (2), [[Mary Pierce]] (2), [[Amélie Mauresmo]] (2), [[Svetlana Kuznetsova]] (2) and [[Kim Clijsters]] (2).
+
+===Greatest male players===
+{{further|[[Tennis male players statistics]], [[World number one male tennis player rankings]]}}
+Lawn Tennis has churned out more legends than any other sports in history. A frequent topic of discussion among tennis fans and commentators is who was the greatest male singles player of all time. No consensus has ever existed, however. By a large margin, an [[Associated Press]] poll in 1950 named [[Bill Tilden]] as the greatest player of the first half of the 20th century.<ref>{{cite web|url=http://espn.go.com/sportscentury/features/00016509.html|title=Tilden brought theatrics to tennis}}</ref> From 1920-1930, Tilden won singles titles at [[The Championships, Wimbledon|Wimbledon]] three times and the [[US Open (tennis)|U.S. Championships]] seven times. In 1938, however, [[Donald Budge]] became the first person to win all four [[Grand Slam (tennis)|Grand Slam]] singles titles during the same calendar year and won six consecutive Grand Slam singles titles in 1937 and 1938. Tilden called Budge "the finest player 365 days a year that ever lived."<ref>{{cite web|url=http://www.authentichistory.com/1930s/sports/1937_Don_Budge_on_Davis_Cup_SF_Win_Over_Von_Cramm.html | title=Don Budge's Comments After 1937 Davis Cup Semi-final Match Against Baron Gottfried von Cramm (1:07) | accessdate=2007-05-29}}</ref> And in his 1979 autobiography, [[Jack Kramer]] said that, based on consistent play, Budge was the greatest player ever.<ref>''The Game, My 40 Years in Tennis'' (1979), Jack Kramer with Frank Deford (ISBN 0-399-12336-9)</ref> Some observers, however, also felt that Kramer deserved consideration for the title. Kramer was among the few who dominated amateur and professional tennis during the late 1940s and early 1950s. [[Tony Trabert]] has said that of the players he saw before the start of the [[open era]], Kramer was the best male champion.<ref>{{cite web | url=http://www.sportsmediainc.net/tennisweek/index.cfm?func=showarticle&newsid=10503&bannerregion | archiveurl=http://web.archive.org/web/20070927024737/http://www.sportsmediainc.net/tennisweek/index.cfm?func=showarticle&newsid=10503&bannerregion | archivedate=2007-09-27 | title = The Tennis Week Interview: Tony Trabert Part II | author = Richard Pagliaro | date = February 26, 2004 | accessdate=2007-05-29}}</ref> By the latter half of the 1950s and 1960s, Budge and others had added [[Pancho Gonzales]] and [[Lew Hoad]] to the list of contenders. Budge reportedly believed that Gonzales was the greatest player ever.<ref>Will Grimsley, ''Tennis: Its History, People, and Events'' (1971)</ref> Gonzales said about Hoad, "When Lew's game was at its peak nobody could touch him. &nbsp;... I think his game was the best game ever. Better than mine. He was capable of making more shots than anybody. His two volleys were great. His overhead was enormous. He had the most natural tennis mind with the most natural tennis physique."<ref>[http://www.jamesbuddell.com/files/hoad.pdf]</ref>
+
+During the open era, first [[Rod Laver]] and then more recently [[Björn Borg]] and [[Pete Sampras]] were regarded by many of their contemporaries as among the greatest ever. [[Roger Federer]] is now considered by many observers to have the most "complete" game in modern tennis. Many experts of tennis, former tennis players and his own tennis peers believe Federer is the greatest player in the history of the game.<ref>{{cite news | first= | last= | coauthors= | title=Roddick: Federer might be greatest ever | date=2005-07-03 | publisher= | url =http://www.usatoday.com/sports/tennis/wimb/2005-07-03-roddick-marvels_x.htm | work =The Associated Press | pages = | accessdate = 2007-03-02 | language = }}</ref><ref>{{cite news | first= | last= | coauthors= | title=Federer inspires comparisons to all-time greats | date=2004-09-12 | publisher= | url =http://sportsillustrated.cnn.com/2004/tennis/specials/us_open/2004/09/12/bc.ten.stevewilstein.ap/index.html | work =The Associated Press | pages = | accessdate = 2007-03-02 | language = }}</ref><ref>{{cite news | first= | last= | coauthors= | title=4-In-A-Row For Federer | date=2006-07-09 | publisher= | url =http://www.cbsnews.com/stories/2006/07/09/sportsline/main1786534.shtml | work =The Associated Press | pages = | accessdate = 2007-03-02 | language = }}</ref><ref>{{cite news | first=Pritha | last=Sarkar | coauthors= | title=Greatness beckons Federer | date=2005-07-04 | publisher= | url =http://www.rediff.com/sports/2005/jul/04wimb1.htm | work =Reuters | pages = | accessdate = 2007-03-02 | language = }}</ref><ref>{{cite news | first=Bud | last=Collins | coauthors= | title=Federer Simply In a League of His Own | date=2005-07-03 | publisher=MSNBC.COM | url =http://www.msnbc.msn.com/id/8455431/ | work = MSNBC Website | pages = | accessdate = 2007-04-09 | language = }}</ref><ref>{{cite web|url=http://news.bbc.co.uk/sport1/hi/tennis/8133424.stm?|title=BBC - Federer Breaks Sampras Record}}</ref> <ref>{{cite web|url=http://www.dailymail.co.uk/sport/tennis/article-1197663/WIMBLEDON-2009-Sampras-admits-Federer-greatest-Swiss-legend-wins-15th-Grand-Slam-title.html|title= Pete Sampras "In my books he (Roger Federer) is the greatest - Daily Mail}}</ref>
+
+===Greatest female players===
+{{further|[[World number one women tennis players]], [[List of WTA number 1 ranked players]]}}
+
+==Popular culture==
+*[[David Foster Wallace]], an amateur tennis player himself at Urbana High School in [[Illinois]],<ref name="Brief Interview with a Five Draft Man">{{cite web | author=  | title= “Brief Interview with a Five Draft Man"| url= https://www.amherst.edu/aboutamherst/magazine/extra/node/66410|work = Amherst Magazine | year=| accessdate=2009-06-28}}</ref> included tennis in many of his works of nonfiction and fiction including [[A Supposedly Fun Thing I'll Never Do Again|"Tennis Player Michael Joyce's Professional Artistry as a Paradigm of Certain Stuff about Choice, Freedom, Discipline, Joy, Grotesquerie, and Human Completeness,"]] the autobiographical piece [[A Supposedly Fun Thing I'll Never Do Again|"Derivative Sport in Tornado Alley,"]] and ''[[Infinite Jest]]'', which is partially set at the fictional "Enfield Tennis Academy" in [[Massachusetts]].
+
+*[[The Royal Tennenbaums]] (2001) features Richie Tenenbaum ([[Luke Wilson]]), a tennis pro who suffers from depression and has a breakdown on court in front of thousands of fans.<ref>[http://www.imdb.com/title/tt0265666/ The Royal Tennenbaums on IMDB].</ref>
+
+*''[[Wimbledon (film)|Wimbledon]]'' (2004) is a film about a discouraged pro tennis player ([[Paul Bettany]]) who meets a young woman on the women's tennis circuit ([[Kirsten Dunst]]) who helps him find his drive to go and win [[The_Championships,_Wimbledon|Wimbledon]].<ref>[http://www.imdb.com/title/tt0360201/ Wimbledon on IMDB].</ref>
+
+*In [[The Squid and the Whale]] (2005), Joan ([[Laura Linney]]) has an affair with her kids' tennis coach, Ivan ([[William Baldwin]]).  In a symbolic scene, Joan's ex-husband, Bernard ([[Jeff Daniels]]), loses a tennis match against Ivan in front of the kids.<ref>[http://www.imdb.com/title/tt0367089/The Squid and the Whale on IMDB].</ref>
+
+*[[Woody Allen]]'s [[Match Point]] (2005) features a love affair between a former tennis pro ([[Jonathan Rhys Meyers]]) who falls in love with his best friend's fiance ([[Scarlett Johansson]]).<ref>[http://www.imdb.com/title/tt0416320/ Match Point on IMDB].</ref>
+
+*[[Confetti]] (2006) is a [[mockumentary]] which sees three couples competing to win the title of "Most Original Wedding of the Year". One competing couple ([[Meredith MacNeill]] and [[Stephen Mangan]]) are a pair of hyper-competitive professional tennis players holding a tennis-themed wedding.
+
+*There are several tennis video games including [[Sports games in the Mario series|Mario Tennis]], the TopSpin series, and [[Wii Sports]].<ref>[http://www.topspin3thegame.com/US/ TopSpin official website].</ref><ref>[http://www.mariotennis.com/ Mario Tennis official website].</ref>
+
+==See also==
+
+===General===
+{{Tennis portal}}
+* [[Tennis strategy]]
+* [[Tennis games]]
+* [[Glossary of tennis]]
+* [[Tennis technology]]
+
+===Other forms===
+* [[Paddle tennis]]
+* [[Real tennis]]
+* [[Soft tennis]]
+* [[Turbo tennis]]
+* [[Types of tennis match]]
+
+===Statistics===
+* [[Tennis statistics]]
+* [[Tennis male players statistics]]
+* [[Major professional tennis tournaments before the Open Era]] (1927-1999)
+* [[World number one male tennis player rankings]] (1913-2007)
+* [[List of ATP number 1 ranked players]] (1973-2007)
+* [[List of WTA number 1 ranked players]] (1975-2007)
+* [[Tennis players with most titles since 1968]] 
+* [[Tennis performance timeline comparison (men)]]
+* [[Tennis performance timeline comparison (women)]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+* ''We Have Come a Long Way''. King, Billie Jean and Starr, Cynthia. (1998) [[McGraw-Hill]] ISBN 0-07024-625-9
+* ''The Tennis Junkie's Guide (To Serious Humor)''. Whitehead, Dave. (2002) iUniverse ISBN 0-595-65364-2
+
+==External links==
+{{sisterlinks|Tennis}}
+* [http://www.itftennis.com/ International Tennis Federation site]
+* [http://www.atptennis.com/1/en/home/ ATP Tennis: Men's Professional Tennis]
+* [http://www.sonyericssonwtatour.com/1/ Sony Ericsson WTA Tour:Women's Professional Tennis]
+* [http://www.usta.com/ USTA: United States Tennis Association]
+* [http://www.tenniscentre.net Top Tennis Site]
+* [http://www.tennis.com Official website of Tennis Magazine]
+* [http://www.grandslamhistory.com/ Tennis Grand Slam tournaments history]
+
+<br />
+{{ATP seasons}}
+{{World Championship Tennis seasons}}
+<br />
+
+
+[[Category:Racquet sports]]
+[[Category:Tennis| ]]
+
+{{Link FA|bs}}
+{{Link FA|fr}}
+{{Link FA|mk}}
+
+[[af:Tennis]]
+[[ar:كرة المضرب]]
+[[an:Tenis]]
+[[az:Tennis]]
+[[bn:টেনিস]]
+[[zh-min-nan:The-ní-suh]]
+[[be:Тэніс]]
+[[be-x-old:Тэніс]]
+[[bar:Tennis]]
+[[bs:Tenis]]
+[[br:Tennis]]
+[[bg:Тенис]]
+[[ca:Tennis]]
+[[cv:Теннис]]
+[[cs:Tenis]]
+[[cy:Tenis]]
+[[da:Tennis]]
+[[de:Tennis]]
+[[et:Tennis]]
+[[el:Αντισφαίριση]]
+[[es:Tenis]]
+[[eo:Teniso]]
+[[eu:Tenis]]
+[[fa:تنیس]]
+[[fo:Tennis]]
+[[fr:Tennis]]
+[[fy:Tennis]]
+[[ga:Leadóg]]
+[[gl:Tenis]]
+[[gan:網球]]
+[[hak:Mióng-khiù]]
+[[ko:테니스]]
+[[hi:टेनिस]]
+[[hr:Tenis]]
+[[io:Teniso]]
+[[id:Tenis]]
+[[is:Tennis]]
+[[it:Tennis]]
+[[he:טניס]]
+[[jv:Tènes]]
+[[kn:ಟೆನ್ನಿಸ್]]
+[[ka:ჩოგბურთი]]
+[[kk:Теннис]]
+[[ht:Tenis]]
+[[la:Teniludium]]
+[[lv:Teniss]]
+[[lb:Tennis]]
+[[lt:Tenisas]]
+[[hu:Tenisz]]
+[[mk:Тенис]]
+[[ml:ടെന്നീസ്]]
+[[ms:Tenis]]
+[[nl:Tennis]]
+[[ja:テニス]]
+[[no:Tennis]]
+[[uz:Tennis]]
+[[nds:Tennis]]
+[[pl:Tenis]]
+[[pt:Ténis]]
+[[ksh:Tënnėß]]
+[[ro:Tenis de câmp]]
+[[rm:Tennis]]
+[[ru:Теннис]]
+[[sah:Теннис]]
+[[sm:Tenisi]]
+[[sa:लानम्]]
+[[sc:Tennis]]
+[[sq:Tenisi]]
+[[scn:Tennis]]
+[[simple:Tennis]]
+[[sk:Tenis]]
+[[sl:Tenis]]
+[[szl:Tyńis źymny]]
+[[sr:Тенис]]
+[[sh:Tenis]]
+[[fi:Tennis]]
+[[sv:Tennis]]
+[[ta:டென்னிசு]]
+[[th:เทนนิส]]
+[[tg:Теннис]]
+[[tr:Tenis]]
+[[uk:Теніс]]
+[[ur:ٹینس]]
+[[vi:Quần vợt]]
+[[fiu-vro:Tennis]]
+[[vls:Tennis]]
+[[war:Tenis]]
+[[zh-yue:網球]]
+[[bat-smg:Tenėsos]]
+[[zh:網球]]

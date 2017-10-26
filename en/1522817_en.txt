@@ -1,0 +1,72 @@
+{{Infobox lake
+ | lake_name = Lake Chapala
+ | image_lake = Lake Chapala.jpg
+ | caption_lake = 
+ | image_bathymetry =
+ | caption_bathymetry =
+ | location = [[Jalisco]] and [[Michoacán]]
+ | coords =  {{coord|20|20|N|103|00|W|region:MX_type:waterbody|display=inline,title}}
+ | type = 
+ | inflow = [[Río Lerma]], [[Río Zula]], [[Río Huaracha]], [[Río Duero]]
+ | outflow = Río Santiago
+ | catchment =
+ | basin_countries = Mexico
+ | length = 80 km
+ | width = 18 km
+ | area = 1,100 km²
+ | depth = 4.5 m 
+ | max-depth = 10.5 m
+ | volume = 
+ | residence_time =
+ | shore =
+ | elevation = 1,524 m
+ | islands = 2
+ | cities =
+}}
+
+[[File:Lake chapala2.jpg|thumb|Lake Chapala from Space, 1994]]
+
+'''Lake Chapala''' ({{lang-es|Lago de Chapala}}) is [[Mexico]]'s largest freshwater [[lake]]. It is located at {{coord|20|20|N|103|00|W|region:MX_type:waterbody}}, 45 km southeast of [[Guadalajara, Jalisco]], and is situated on the border between the [[States of Mexico|states]] of [[Jalisco]] and [[Michoacán]], at 1,524 metres above sea level. Its approximate dimensions are 80 km from east to west and 18 km from north to south, and it covers a total of some 1,100 km². It is a shallow lake, with a mean depth of 4.5 metres and a maximum of 10.5.  The largest island in the lake is [[Isla de los Alacranes]].
+ 
+It is fed by the [[Río Lerma]], [[Río Zula]], [[Río Huaracha]], and [[Río Duero]] rivers, and drained by the Río Santiago. The water then flows northwest into the Pacific Ocean. The lake also contains two small islands. 
+ 
+Lake Chapala's water levels and water quality are threatened due to over-exploitation of its waters and of the surrounding land.  The over-exploitation of this lake has been a result of Guadalajara's growing demand for fresh water. The water level drop has uncovered political issues that had been hidden for many years.  Its fast decay has raised concern in the surrounding areas and in the scientific community. It was the [[Global Nature Fund]]'s "Threatened Lake of the Year" in 2004.
+In 2003 and 2004, however, there were reports that water levels in Lake Chapala had risen dramatically. [http://www.amigosdelago.org/index-e.html] This has led to an even bigger problem as there are gigantic 'islands' of seaweed that at times cover most of the lake. The rapid rise in lake levels is due in part to an exceptionally rainy season and the removal of numerous unauthorized dams upstream.Many believe that the lake is haunted by the lost souls of natives from the past{{fact|date=March 2009}}.  
+
+By 2007 and 2008, the level of Lake Chapala is higher than it has been for  decades.{{fact|date=February 2009}} Although it is still subject to agricultural, domestic, and  industrial sources of contamination, the actual levels of hazardous materials has not been assessed with regularity. The problematic lirios (water hyacinth) are much reduced at this time, possibly because of herbicide applications in 2006 and because the village runoff providing nutrients has been reduced recently. The higher lake level may also provide sufficient dilution to reduce the viability of lirio.
+
+Real estate values fluctuate with the level of the Lake although there is some year or two lag time before lake levels are reflected in real estate prices.
+
+The lake is also a critical habitat for several species of migratory birds, such as the [[White Pelican]], and home to thousands of indigenous plants and animals. Untreated industrial and agricultural runoff threaten the health of this critical lake. The rapid development of the Lake Chapala region has spurred grassroots conservation programs to maintain the natural habitats of the lake and maintain a healthy [[ecotourism]] industry. For example, the Audubonistas de Laguna de Chapala holds an annual Audubon Society sponsored Christmas Bird Count. In 2006, some 117 species were identified and, in 2007, the count was 125 (see [http://www.AVESAJIJIC.com AvesAjijic.com ] for the counts).
+
+In recent years, because of the benign prevailing climate and attractive scenery, a substantial colony of retirees, including many from the [[United States]] and [[Canada]], has established itself on the lake's shore, particularly in the town of [[Ajijic|Ajijic, Jalisco]], located just west of the city of [[Chapala]].
+
+==References==
+*{{cite web | url=http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=16652 | title=Lake Chapala, Mexico | publisher=[[NASA Earth Observatory]] | accessdate=2006-05-23}}
+*{{cite web | url=http://chapala.110mb.com | title=The problematic of Lake Chapala | publisher= }}
+*{{cite web | url=http://www.livinglakechapala.com | title=Lake Chapala | publisher= }}
+
+==External links==
+*{{commons-inline|Lake Chapala}}
+*[http://www.lakechapala.info Lake Chapala information, Ajijic & Chapala photos, retirement information and cost of living]
+*[http://www.globalnature.org/docs/02_vorlage.asp?id=21223 Threatened Lake of the Year 2004: Lake Chapala]
+*[http://www.amigosdelago.org Sociedad Amigos del Lago]
+*[http://www.avesajijic.com Audubonistas de Laguna Chapala. Field ornithologists and organizers of Laguna de Chapala Annual Audubon Christmas Bird Count]
+
+[[Category:Lakes of Mexico|Chapala]]
+[[Category:Shrunken lakes]]
+
+[[ca:Llac de Chapala]]
+[[cs:Chapala]]
+[[de:Chapalasee]]
+[[es:Lago de Chapala]]
+[[fr:Lac de Chapala]]
+[[it:Lago di Chapala]]
+[[lv:Čapalas ezers]]
+[[lt:Čapala]]
+[[nl:Chapalameer]]
+[[pl:Chapala]]
+[[pt:Lago de Chapala]]
+[[ru:Чапала]]
+[[sr:Чапала]]
+[[zh:查帕拉湖]]

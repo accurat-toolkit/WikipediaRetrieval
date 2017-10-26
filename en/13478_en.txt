@@ -1,0 +1,162 @@
+{{pp-move-indef}}
+{{Redirect|Aitch|the surname|Aitch (Aich)}}
+{{otherusesof}}
+{{wiktionarypar2|H|h}}
+{{Latin alphabet navbox|uc=H|lc=h}}
+'''H''' is the eighth letter in the [[basic modern Latin alphabet]]. Its name in both [[British English|British]] and [[American English]] is '''aitch'''<ref name="mw">"H" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "aitch", op. cit.</ref> ({{pron-en|ˈeɪtʃ}}), plural '''aitches''', though it is also pronounced '''haitch''' {{IPA-en|ˈheɪtʃ|}} in some dialects (see the discussion [[#Name in English|below]]).
+==History==
+{| border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;text-align:center;"
+|- bgcolor="#EEEEEE"
+! Egyptian hieroglyph <br>fence
+! Proto-Semitic <br/>{{IPA|ħ}}
+! Phoenician <br/> ''[[heth]]''
+! Etruscan <br/>H 
+! Greek <br/> ''[[Eta]]''
+|-----
+|<hiero>N24</hiero>
+|[[Image:Proto-semiticH-01.png]]
+|[[Image:PhoenicianH-01.png]]
+|[[Image:EtruscanH-01.svg|64px]]
+|[[Image:Eta uc lc.svg|64px]]
+|}
+The Semitic letter ח ({{Unicode|ḥêṯ}}) most likely represented the [[voiceless pharyngeal fricative]] ({{IPA2|ħ}}). The form of the letter probably stood for a fence or posts. The early [[Greek alphabet|Greek]] H stood for {{IPA|/h/}}, but later on, this letter, ''[[Eta (letter)|eta]]'' (Η, η), became a long vowel, {{IPA|/ɛː/}}. In Modern Greek, this [[phoneme]] has merged with {{IPA|/i/}}, similar to the English [[Great Vowel Shift|development]] where Middle English ''ea'' {{IPA|/ɛː/}} and ''ee'' {{IPA|/eː/}} came to be both pronounced {{IPA|/iː/}}.
+
+[[Etruscan language|Etruscan]] and [[Latin]] had {{IPA|/h/}} as a [[phoneme]], but almost all [[Romance languages]] lost the sound—[[Romanian language|Romanian]] later re-borrowed the {{IPA|/h/}} phoneme from its neighbouring Slavic languages, and [[Spanish language|Spanish]] developed a secondary {{IPA|/h/}} from F, before losing it again, and now has developed an {{IPA|[h]}} [[allophone]] of {{IPA|/x/}} in some Spanish-speaking countries. H is also used in many spelling systems in [[digraph (orthography)|digraphs]] and [[trigraph (orthography)|trigraphs]], such as ''ch'' in Spanish and English {{IPA|/tʃ/}}, French and Portuguese {{IPA|/ʃ/}} from {{IPA|/tʃ/}}, Italian {{IPA|/k/}}, German {{IPA|/χ/}}, Czech and Slovak {{IPA|/x/}}.
+
+==Name in English==
+In most dialects of English, the name for the letter is pronounced {{IPA|/eɪtʃ/}} and spelled '''aitch'''<ref name="mw"/> or occasionally '''eitch'''. Pronunciation {{IPA|/heɪtʃ/}} and hence a spelling of '''haitch''' is usually considered to be [[Phonological history of English fricatives#H-adding|h-adding]] and hence nonstandard. It is, however, a feature of [[Hiberno-English]]<ref>[http://books.google.co.uk/books?id=uPo0oB19gDUC&pg=PA118&lpg=PA118&dq=haitch+Irish+English&source=bl&ots=NHh40ez7zS&sig=aeyIQS2DsPa6nh8lFp6gwTbfK6s&hl=en&ei=aFksSp-bBNW2jAfJsI2qBQ&sa=X&oi=book_result&ct=result&resnum=8 A dictionary of Hiberno-English, Terence Patrick Dolan] page 118, Gill & Macmillan Ltd, 2004</ref> and other varieties of English, such as [[Malaysian English|those of Malaysia]] and [[Singapore English|Singapore]]. In [[Northern Ireland]] it is a [[shibboleth]] as [[Protestant]] schools teach ''aitch'' and Catholics ''haitch''.<ref>[http://www.arts.gla.ac.uk/ScotLit/ASLS/JCorbett.html In Newfoundland, the pronunciation is /heɪtʃ/. The Association for Scottish Literary Studies]</ref> 
+In [[Australia]], this has also been attributed to Catholic school teaching.<ref>[http://www.anu.edu.au/ANDC/pubs/ozwords/June_98/2._aitch.htm Ab(h)ominable (H)aitch by Frederick Ludowyk, Australian National Dictionary Centre]</ref> The perceived name of the letter affects the choice of [[A and an|indefinite article]] before [[initialism]]s beginning with H: for example "an HTML page" or "a HTML page". The pronunciation {{IPA|/heɪtʃ/}} may be a [[hypercorrection]] formed by analogy with the names of the other letters of the alphabet, most of which include the sound they represent.<ref>Todd, L. & Hancock I.: "International English Usage", page 254. Routledge, 1990.</ref>
+
+Authorities disagree about the history of the letter's name. The [[Oxford English Dictionary]] says the original name of the letter was {{IPA|/aha/}}; this became {{IPA|/aka/}} in Latin, passed into English ''via'' Old French {{IPA|/atʃ/}}, and by Middle English was pronounced {{IPA|/aːtʃ/}}. [[The American Heritage Dictionary of the English Language]] derives it from French ''hache'' from Latin ''haca'' or ''hic''.
+
+==Usage==
+In the [[help:IPA|International Phonetic Alphabet]], variations of the letter are used to represent two sounds. The lowercase form, {{IPA|[h]}}, represents the [[voiceless glottal fricative]] or 'aspirate', and the small capital form, {{IPA|[ʜ]}}, represents the [[voiceless epiglottal fricative]].
+
+In English, H occurs as a single-letter [[grapheme]] (with value {{IPA|/h/}} or [[silent letter|silent]]) and in various [[digraph]]s, such as ''ch'' ({{IPA|/tʃ/}}, {{IPA|/ʃ/}}, {{IPA|/k/}}, or {{IPA|/x/}}), ''gh'' (silent, {{IPA|/ɡ/}}, or {{IPA|/f/}}) , ''ph'' ({{IPA|/f/}}), ''rh'' ({{IPA|/r/}}), ''sh'' ({{IPA|/ʃ/}}), ''th'' ({{IPA|/θ/}} or {{IPA|/ð/}}), ''wh'' ({{IPA|/w/}}, {{IPA|/hw/}}). H is silent in a [[syllable rime]], as in ''ah'', ''ohm'', ''dahlia'', ''cheetah'', ''pooh-poohed''.
+H is often silent in the [[Weak form and strong form|weak form]] of some [[function words]] beginning with H, including ''had'', ''has'', ''have'', ''he'', ''her'', ''him'', ''his''; and in some words of [[Romance language|Romance]] origin and, for some speakers, also in an initial unstressed syllable, as in "an historic occasion", "an hotel".
+
+In the [[German language]], the name of the letter is pronounced {{IPA|/haː/}}. Following a vowel, it often silently indicates that the vowel is long: In the word {{lang|de|''erhöhen''}} "heighten", only the first &lt;h&gt; represents {{IPA|/h/}}. In 1901, a [[spelling reform]] eliminated the silent &lt;h&gt; in nearly all instances of &lt;th&gt; in native German words such as ''thun'' "to do" or ''Thür'' "door". It has been left unchanged in words derived from Greek, such as {{lang|de|''Theater''}} "theater" and {{lang|de|''Thron''}} "throne", which continue to be spelled with &lt;th&gt; even after the last German spelling reform.
+
+In Spanish and Portuguese H is a silent letter with no pronunciation, as in ''hijo'' {{IPA|[ˈixo]}} ('son'), ''hola'' {{IPA|[ˈola]}} ('hello'), and ''hoje'' {{IPA|[ô.je]}} ('today'). The spelling reflects an earlier pronunciation of the sound {{IPA|[h]}}. The {{IPA|[h]}} sound exists in a number of dialects in Spanish, either as a syllable-final allophone of {{IPA|/s/}} (for example Andalusia, Argentina or Cuba - vg. ''esto'' {{IPA|[ˈeht̪o]}} "this", or as a dialectal realization of Standard {{IPA|/x/}} (for example Mexican ''caja'' {{IPA|[ˈkaha]}} "box"). The letter H also appears in the digraph ''ch'', pronounced {{IPA|/tʃ/}} in Spanish and {{IPA|/ʃ/}} in Portuguese.
+
+In the French language, the name of the letter is pronounced {{IPA|/aʃ/}}. The French language classifies words that begin with this letter in two ways that must be learned to use French properly, even though it is a silent letter either way. The ''h muet'', or "mute ''h''", is considered as though the letter were not there at all, so for example the singular definite [[article (grammar)|article]] ''le'' or ''la'' is [[elision (French)|elided]] to ''l'''. For example, ''le + hébergement'' becomes ''l'hébergement'' "the accommodation". The other kind of ''h'' is called ''h aspiré'' ("[[Aspirated h|aspirated ''h'']]", though it is not normally aspirated phonetically), and is treated as a phantom consonant. For example in ''le homard'' ("the lobster") the article ''le'' remains unelided, and may be separated from the noun with a bit of a glottal stop. Most words that begin with an ''h muet'' come from Latin (''honneur'', ''homme'') or from Greek through Latin (''hécatombe''), whereas most words beginning with an ''h aspiré'' come from Germanic (''harpe'', ''hareng'') or non-Indo-European languages (''harem'', ''hamac'', ''haricot''); in some cases, an ''h'' was added to disambiguate the {{IPA|[v]}} and semivowel {{IPA|[ɥ]}} pronunciations before the introduction of the distinction between the letters [[V]] and [[U]]: ''huit'' (from ''uit'', ultimately from Latin ''octo''), ''huître'' (from ''uistre'', ultimately from Greek through Latin ''ostrea'').
+
+In Italian H has no real [[Phonology|phonological]] value. It is rather a [[diacritic]] grapheme. The most important uses are to differentiate certain short words, for example some [[present tense]] forms of the verb ''avere'' "to have", in short [[interjections]], and in the [[Digraph (orthography)|digraphs]] ''ch'' {{IPA|/k/}} and ''gh'' {{IPA|/ɡ/}}.
+
+Some languages, including [[English language|English]], [[Czech language|Czech]], [[Slovak language|Slovak]], [[Hungarian language|Hungarian]] and [[Finnish language|Finnish]], use H as a [[voiced glottal fricative|'''breathy voiced''' glottal fricative]] {{IPA|[ɦ]}}, often as an [[allophone]] of otherwise voiceless /h/ in a voiced environment.
+
+In [[Ukrainian language|Ukrainian]] and [[Belarusian language|Belarusian]], when written in the Latin alphabet, H is also commonly used for {{IPA|/ɦ/}}, normally written with the Cyrillic letter [[Г]]. (Note the difference from [[Russian language|Russian]] pronunciation and romanisation).
+
+In [[Irish language|Irish]] H after a consonant indicates [[lenition]] of that consonant; it is known as a ''séimhiú''.
+
+==Codes for computing==
+{{Letter
+|NATO=Hotel
+|Morse=····
+|Character=H8
+|Braille=⠓
+}}
+In [[Unicode]], the [[capital letter|capital]] H is codepoint U+0048 and the [[lower case]] h is U+0068.
+
+The [[ASCII]] code for capital H is 72 and for lowercase h is 104; or in [[Binary numeral system|binary]] 01001000 and 01101000, correspondingly.
+
+The [[EBCDIC]] code for capital H is 200 and for lowercase h is 136.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#72;</tt>" and "<tt>&amp;#104;</tt>" for upper and lower case respectively.
+
+==See also==
+{{Commons|H}}
+*[[h-circumflex|ĥ]]
+*[[ħ]]
+*[[En (Cyrillic)|Н, н - En (Cyrillic)]]
+*[[Eta (letter)|Η, η - Eta (Greek)]]
+*[[Kha|Х, х - Kha (Cyrillic)]]
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|H|}}
+
+[[Category:Latin letters]]
+
+[[af:H]]
+[[als:H]]
+[[ar:H]]
+[[arc:H]]
+[[ast:H]]
+[[az:H]]
+[[zh-min-nan:H]]
+[[be:H, літара]]
+[[bs:H]]
+[[br:H (lizherenn)]]
+[[ca:H]]
+[[cs:H]]
+[[co:H]]
+[[cy:H]]
+[[da:H]]
+[[de:H]]
+[[et:H]]
+[[el:H]]
+[[es:H]]
+[[eo:H]]
+[[eu:H]]
+[[fa:H]]
+[[fr:H (lettre)]]
+[[fy:H]]
+[[fur:H]]
+[[gv:Hibbin (lettyr)]]
+[[gd:H]]
+[[gl:H]]
+[[gan:H]]
+[[ko:H]]
+[[hr:H]]
+[[ilo:H]]
+[[is:H]]
+[[it:H]]
+[[he:H]]
+[[ka:H]]
+[[kw:H]]
+[[sw:H]]
+[[ht:H]]
+[[la:H]]
+[[lv:H]]
+[[lb:H]]
+[[lt:H]]
+[[hu:H]]
+[[mk:H (Латиница)]]
+[[mg:H]]
+[[mzn:H]]
+[[ms:H]]
+[[nah:H]]
+[[nl:H (letter)]]
+[[ja:H]]
+[[no:H]]
+[[nn:H]]
+[[nrm:H]]
+[[uz:H (harf)]]
+[[pl:H]]
+[[pt:H]]
+[[ro:H]]
+[[qu:H]]
+[[ru:H (латиница)]]
+[[se:H]]
+[[stq:H]]
+[[scn:H]]
+[[simple:H]]
+[[sk:H]]
+[[sl:H]]
+[[sr:H (слово латинице)]]
+[[fi:H]]
+[[sv:H]]
+[[tl:H]]
+[[th:H]]
+[[tr:H (harf)]]
+[[uk:H (латиниця)]]
+[[vi:H]]
+[[vo:H]]
+[[yi:H]]
+[[yo:H]]
+[[zh-yue:H]]
+[[diq:H]]
+[[bat-smg:H]]
+[[zh:H]]

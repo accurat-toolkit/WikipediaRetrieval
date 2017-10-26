@@ -1,0 +1,44 @@
+{{Infobox lake
+ | lake_name = Lake Carey
+ | image_lake = 
+ | caption_lake = 
+ | image_bathymetry = 
+ | caption_bathymetry = 
+ | location = [[Western Australia]]
+ | coords = {{coord|29|5|4|S|122|18|56|E|type:waterbody_region:AU|display=inline,title}}
+ | type = [[salt lake]]
+ | inflow = 
+ | outflow = 
+ | catchment = 
+ | basin_countries = Australia
+ | length = 
+ | width = 
+ | area = 
+ | depth = 
+ | max-depth = 
+ | volume = 
+ | residence_time = 
+ | shore = 
+ | elevation = 
+ | islands = 
+ | cities = 
+}}
+'''Lake Carey''', ({{coord|29|5|4|S|122|18|56|E|type:waterbody_region:AU}}), is a [[salt lake]] {{convert|80|km|mi|0}} south of [[Laverton, Western Australia|Laverton]], [[Western Australia]] within the Laverton Tectonic Zone, that has been associated with the presence of [[gold]] since the 1890s {{ref|Linden}} and recently there has been renewed exploration drilling. Midas, the company who have sponsored the drilling, estimates that there may be 25 million ounces (780 tonnes) of gold {{ref|gold}} within the site. It has also been reported that there may well be significant amounts of nickel and zinc. 
+
+The [[Wangkathaa]] [[Indigenous Australians|people]] are associated with the land around Lake Carey{{ref|people}}.
+
+==References==
+* {{LandInfo WA|c|L|2007-05-25}} (under Linden) {{note|Linden}}
+* {{PDF|[http://www.midasresources.com.au/reports/FinalAR04.pdf MIDAS final report 2004]}}  {{note|gold}}
+* {{PDFlink|[http://www.aija.org.au/online/ICABenchbook/BenchbookChapter4.pdf Aboriginal People in Western Australia]|200&nbsp;[[Kibibyte|KiB]]<!-- application/pdf, 205280 bytes -->}} {{note|people}}
+
+==External links==
+* [http://www.gold-net.com.au/archivemagazines/feb20/78152744.html#13 A gold prospectors description of Lake Carey]
+* [http://encarta.msn.com/map_701520210/Lake_Carey.html MSN map of Lake Carey]
+
+[[Category:Lakes of Western Australia|Carey]]
+
+
+{{WesternAustralia-geo-stub}}
+
+[[lv:Kērija ezers]]

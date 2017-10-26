@@ -1,0 +1,137 @@
+This is a '''list of cities in [[Denmark]] by population'''.
+
+The population is measured by [[Statistics Denmark]] for cities, defined by administrative areas, which is defined as a contiguous built-up area with a maximum distance of 200 metres between houses, unless further distance is caused by public areas, cemeteries or similar. Furthermore, to obtain ''by''-status, the area must have at least 200 inhabitants and limited by administrative borders.<ref>[[Statistics Denmark]], [http://www.statistikbanken.dk/statbank5a/SelectVarVal/Define.asp?Maintable=BEF4&PLanguage=0 http://www.statistikbanken.dk/statbank5a/SelectVarVal/Define.asp?Maintable=BEF4&PLanguage=0]</ref>. This list differs from [[List of urban areas in Denmark by population]], by not incoorporating [[conurbation]].
+
+{| class="wikitable" style="text-align:center"
+|+ Most populous cities in Denmark as of {{nowrap|[[1 January]] [[2009]]}}<ref>Statistics Denmark: [http://www.statistikbanken.dk/statbank5a/SelectVarVal/Define.asp?Maintable=BEF44&PLanguage=0 BEF44: Folketal pr. 1. januar fordelt på byer]</ref><sup>1</sup>
+| '''#''' ||style="width:200px" align="left"| '''City''' || '''Population 2009''' || '''Change from 2008'''
+|-
+| 1 ||align="left"| [[Copenhagen]]<sup>a</sup> || 518,574 || {{increase}} 8,713
+|-
+| 2 ||align="left"| [[Århus]] || 239,865 || {{increase}} 2,314
+|-
+| 3 ||align="left"| [[Odense]] || 158,678 || {{increase}} 515
+|-
+| 4 ||align="left"| [[Aalborg]] || 101,497 || {{increase}} 614
+|-
+| 5 ||align="left"| [[Frederiksberg]]<sup>a</sup> || 95,029 || {{increase}} 1,585
+|-
+| 6 ||align="left"| [[Esbjerg]] || 71,025 || {{increase}} 145
+|-
+| 7 ||align="left"| [[Gentofte]]<sup>a</sup> || 69,794 || {{increase}} 881
+|-
+| 8 ||align="left"| [[Gladsaxe]]<sup>a</sup> || 63,233 || {{increase}} 671
+|-
+| 9 ||align="left"| [[Randers]] || 59,842 || {{increase}} 277
+|-
+| 10 ||align="left"| [[Kolding]] || 56,249 || {{increase}} 653
+|-
+| 11 ||align="left"| [[Horsens]] || 52,518 || {{increase}} 848
+|-
+| 12 ||align="left"| [[Lyngby-Taarbæk]]<sup>a</sup> || 51,532 || {{increase}} 83
+|-
+| 13 ||align="left"| [[Vejle]] || 50,654 || {{increase}} 441
+|-
+| 14 ||align="left"| [[Hvidovre]]<sup>a</sup> || 49,366 || {{decrease}} 14
+|-
+| 15 ||align="left"| [[Roskilde]] || 46,292 || {{increase}} 468
+|-
+| 16 ||align="left"| [[Helsingør]] || 46,028 || {{increase}} 11,678<sup>2</sup>
+|-
+| 17 ||align="left"| [[Herning]] || 45,470 || {{increase}} 707
+|-
+| 18 ||align="left"| [[Silkeborg]] || 41,979 || {{increase}} 305
+|-
+| 19 ||align="left"| [[Næstved]] || 41,717 || {{decrease}} 93
+|-
+| 20 ||align="left"| [[Greve Strand]]<sup>a</sup> || 40,889 || {{increase}} 125
+|-
+| 21 ||align="left"| [[Tårnby]]<sup>a</sup> || 40,214 || {{increase}} 198
+|-
+| 22 ||align="left"| [[Fredericia]] || 39,484 || {{increase}} 93
+|-
+| 23 ||align="left"| [[Ballerup]]<sup>a</sup> || 38,729 || {{increase}} 68
+|-
+| 24 ||align="left"| [[Rødovre]]<sup>a</sup> || 36,228 || {{increase}} 84
+|-
+| 25 ||align="left"| [[Viborg]] || 35,108 || {{increase}} 277
+|-
+| 26 ||align="left"| [[Køge]] || 34,733 || {{decrease}} 59
+|-
+| 27 ||align="left"| [[Holstebro]] || 34,062 || {{increase}} 123
+|-
+| 28 ||align="left"| [[Brøndby]]<sup>a</sup> || 33,762 || {{decrease}} 69
+|-
+| 29 ||align="left"| [[Taastrup]]<sup>a</sup> || 32,102 || {{increase}} 185
+|-
+| 30 ||align="left"| [[Slagelse]] || 31,682 || {{decrease}} 197
+|-
+| 31 ||align="left"| [[Hillerød]] || 29,683 || {{increase}} 387
+|-
+| 32 ||align="left"| [[Albertslund]]<sup>a</sup> || 27,706 || {{increase}} 104
+|-
+| =33 ||align="left"| [[Sønderborg]] || 27,179 || {{decrease}} 107
+|-
+| =33 ||align="left"| [[Svendborg]] || 27,179 || {{decrease}} 139
+|-
+| 35 ||align="left"| [[Herlev]]<sup>a</sup> || 26,635 || {{increase}} 68
+|-
+| 36 ||align="left"| [[Holbæk]] || 26,623 || {{increase}} 356
+|-
+| 37 ||align="left"| [[Hjørring]] || 24,963 || {{increase}} 148
+|-
+| 38 ||align="left"| [[Hørsholm]]<sup>3</sup> || 23,535 || {{increase}} 96
+|-
+| 39 ||align="left"| [[Frederikshavn]] || 23,511 || {{decrease}} 40
+|-
+| 40 ||align="left"| [[Haderslev]] || 21,435 || {{increase}} 156
+|-
+| 41 ||align="left"| [[Nørresundby]] || 20,964 || {{increase}} 19
+|-
+| 42 ||align="left"| [[Skive]] || 20,686 || {{increase}} 43
+|-
+| 43 ||align="left"| [[Ringsted]] || 20,575 || {{increase}} 387
+|}
+<sup>1</sup> = All cities with a population of 20,000 or more.<br />
+<sup>2</sup> = The large increase is a result of ''Espergærde By'' administratively absorbed by ''Helsingøre'' as a long-time result of [[conurbation]].<br />
+<sup>3</sup> = The city ''Hørsholm'' is a part of several municipalities.<br />
+<sup>a</sup> = Part of the [[Metropolitan Copenhagen|metropolitan Copenhagen area]] (da: ''Hovedstadsområdet'').
+
+==See also==
+*[[List of cities in Sweden by population]]
+*[[List of cities in Norway by population]]
+*[[List of cities in Scandinavia by population]]
+*[[World's largest cities]]
+
+== References and notes ==
+{{reflist}}
+
+{{List of cities in Europe}}
+
+[[Category:Lists of cities in Scandinavia|Denmark]]
+[[Category:Lists of cities by country|Denmark]]
+[[Category:Cities and towns in Denmark|*]]
+[[Category:Denmark-related lists|Cities]]
+
+[[bs:Spisak gradova u Danskoj]]
+[[cs:Seznam měst v Dánsku]]
+[[da:Danmarks største byer]]
+[[de:Liste der Städte in Dänemark]]
+[[eo:Listo de urboj de Danio]]
+[[fr:Villes du Danemark]]
+[[hr:Popis gradova u Danskoj]]
+[[it:Città danesi]]
+[[kk:Дания қалаларының тізімі]]
+[[lv:Dānijas pilsētu uzskaitījums]]
+[[hu:Dánia községei]]
+[[no:Liste over danske byer]]
+[[pl:Miasta Danii]]
+[[pt:Anexo:Lista de cidades na Dinamarca]]
+[[ro:Lista oraşelor din Danemarca]]
+[[ru:Города Дании]]
+[[sl:Seznam mest na Danskem]]
+[[sh:Popis općina u Danskoj]]
+[[fi:Luettelo Tanskan kaupungeista]]
+[[sv:Lista över städer i Danmark efter storlek]]
+[[vi:Danh sách thành phố Đan Mạch]]
+[[zh:丹麦城市列表]]

@@ -1,0 +1,95 @@
+<table border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left: 0.5em">
+<td>Nosaukums, simbols, numurs</td>
+<td>Cērijs, Ce, 58</td></tr>
+<td>[[Atommasa]]</td><td>140,116 g/mol</td></tr>
+<tr>
+<td>[[Blīvums]] </td>
+<td>6770 kg/m<sup>3</sup></td></tr>
+<tr>
+<td>[[Kušanas temperatūra]] </td><td>1068 K (795&nbsp;°C)</td></tr>
+<tr>
+<td>[[Vārīšanās temperatūra]] </td><td>3716 K (3443&nbsp;°C)</td></tr>
+<tr>
+</table>
+
+'''Cērijs''' ir [[Elementu periodiskā tabula|ķīmiskais elements]] ar simbolu Ce un atomskaitli 58. Tas ir mīksts, ķīmiski aktīvs [[metāls]] un ir otrais aktīvākais [[lantanīdi|lantanīds]]. Dabā cērijs ir sstopmas polimetālisko rūdu veidā, tas ir izplatītākais retzemju elements. Cērija oksīdu lieto par abrazīvu stikla pulēšanai. Dažus cērija sakausējumus lieto par šķiltavu krama materiālu (berzes iedarbībā ļoti viegli veido dzirksteles). Savienojumos cērijam var būt vērtība +3 vai +4. Cērija(III) sāļi parasti ir balti vai caurspīdīgi, taču cērija(IV) sāļi ir sarkanīgi oranži vai dzelteni.
+
+
+{{Periodiskā sistēma}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Lantanīdi]]
+
+[[ar:سيريوم]]
+[[be:Цэрый]]
+[[bg:Церий]]
+[[bn:সিরিয়াম]]
+[[bs:Cerijum]]
+[[ca:Ceri]]
+[[co:Ceriu]]
+[[cs:Cer]]
+[[cv:Цери]]
+[[da:Cerium]]
+[[de:Cer]]
+[[el:Δημήτριο]]
+[[en:Cerium]]
+[[eo:Cerio]]
+[[es:Cerio]]
+[[et:Tseerium]]
+[[eu:Zerio (elementua)]]
+[[fa:سریم]]
+[[fi:Cerium]]
+[[fr:Cérium]]
+[[fur:Ceri]]
+[[gl:Cerio]]
+[[gv:Kerrium]]
+[[hak:Sṳ (鈰)]]
+[[he:צריום]]
+[[hi:सेरियम]]
+[[hr:Cerij]]
+[[ht:Seryòm]]
+[[hu:Cérium]]
+[[hy:Ցերիում]]
+[[id:Serium]]
+[[io:Cerio]]
+[[it:Cerio]]
+[[ja:セリウム]]
+[[jbo:jinmrseri]]
+[[ko:세륨]]
+[[la:Cerium]]
+[[lb:Cer]]
+[[lij:Çerio]]
+[[lt:Ceris]]
+[[ml:സെറിയം]]
+[[mr:सेरियम]]
+[[nl:Cerium]]
+[[nn:Cerium]]
+[[no:Cerium]]
+[[oc:Cèri]]
+[[pl:Cer]]
+[[pnb:سیریم]]
+[[pt:Cério]]
+[[qu:Seryu]]
+[[ro:Ceriu]]
+[[ru:Церий]]
+[[sah:Сериум]]
+[[scn:Ceriu]]
+[[sh:Cerijum]]
+[[simple:Cerium]]
+[[sk:Cér]]
+[[sl:Cerij]]
+[[sr:Церијум]]
+[[stq:Cerium]]
+[[sv:Cerium]]
+[[sw:Seri]]
+[[ta:சீரியம்]]
+[[th:ซีเรียม]]
+[[tr:Seryum]]
+[[ug:سېرىي]]
+[[uk:Церій]]
+[[ur:Cerium]]
+[[vi:Xeri]]
+[[war:Cerium]]
+[[yo:Cerium]]
+[[zh:铈]]
+[[zh-yue:鈰]]

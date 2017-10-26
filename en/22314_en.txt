@@ -1,0 +1,151 @@
+{{dablink|For [[Wikipedia:Naming conventions (technical restrictions)#Colons|technical reasons]], ''<tt>:O</tt>'' (smiley face) and some similar combinations starting with ''<tt>:</tt>'' redirect here. See [[emoticon]].}}
+{{otherusesof}}
+
+{{wiktionarypar2|O|o}}
+{{Latin alphabet navbox|uc=O|lc=o}}
+'''O''' is the fifteenth letter of the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈoʊ}}) is spelled '''o''';<!--Yes, it is spelled "o". That's its name, and that's how it's spelled.--> the plural is ''oes,'' though this is rare.<ref>"P" ''Oxford English Dictionary,'' 2nd edition (1989); [http://www.chambersharrap.co.uk/chambers/features/chref/chref.py/main?query=o&title=21st ''Chambers-Happap''], "oes" ''op. cit.'' ''Oes'' is the plural of the name of the letter. The plural of the letter itself is ''O''s, O's, ''o''s, o's.</ref>
+
+== History ==
+{| border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;text-align:center;"
+|-  bgcolor="#EEEEEE"
+! Egyptian hieroglyph <br/> ''ir''
+! Proto-Semitic O
+! Phoenician <br/> ''[[ayin]]''
+! Etruscan O
+! Greek <br/>''[[Omicron]]''
+|-----
+|<hiero>D4</hiero>
+|[[Image:Proto-semiticO-01.svg]]
+|[[Image:PhoenicianO-01.png]]
+|[[Image:EtruscanO-01.svg|65px]]
+|[[Image:Omicron uc lc.svg|65px]]
+|}
+
+The  letter was derived from the Semitic ''`[[Ayin]]'' (eye), which represented a consonant, probably the [[voiced pharyngeal fricative]] ({{IPA2|ʕ}}), the sound represented by the [[Arabic alphabet|Arabic]] letter ع called ''`Ayn''.  This Semitic letter in its original form seems to have been inspired by a similar Egyptian hieroglyph for "eye".
+
+The Greeks are thought to have come up with the innovation of vowel characters, and lacking a pharyngeal consonant, employed this letter as the [[Greek alphabet|Greek]] [[Omicron|O]] to represent the vowel {{IPA|/o/}}, a sound it maintained in [[Etruscan language|Etruscan]] and [[Latin]].  In Greek, a variation of the form later came to distinguish this long sound ([[Omega]], meaning "large O") from the short o (Omicron, meaning "small o").
+
+Its graphic form has also remained fairly constant from [[Phoenician alphabet|Phoenician]] times until today.  Indeed, even alphabets constructed "from scratch", i.e. not derived from Semitic, usually have similar forms to represent this sound—for example the creators of the [[Afaka script|Afaka]] and [[Ol Chiki script]]s, each invented in different parts of the world in the last century, both attributed their vowels for 'O' to the shape of the mouth when making this sound.
+
+== Usage ==
+O is most commonly associated with the [[close-mid back rounded vowel]] {{IPA|[o]}} in many languages. This form is colloquially termed the "long o" in [[English language|English]], but it is actually most often a [[diphthong]] {{IPA|/oʊ/}} (realized dialectically anywhere from {{IPA|[o]}} to {{IPA|[əʊ]}}).
+
+In English there is also a "short O", which also has several pronunciations.  In most dialects of English English, it is an [[open back rounded vowel]] {{IPA|[ɒ]}}; in North America, it is most commonly an unrounded back to central vowel {{IPA|[ɑː]}} to {{IPA|[a]}}.
+
+O is used at some times to mean Zero(0), which is a number. It is not wrong to use it as a number in phone numbers, room numbers, etc. 
+
+Common digraphs include OO, which represents either {{IPA|/ʊ/}} or {{IPA|/uː/}}; OI which typically represents the diphthong {{IPA|/ɔɪ/}}; and OA, OE, and OU represent a variety of pronunciations depending on context and etymology.
+
+Other languages use O for various values, usually back vowels which are at least partly open. Derived letters such as [[Ö]] and [[Ø]] have been created for the alphabets of some languages to distinguish values that were not present in Latin and Greek, particularly rounded front vowels.
+
+In the [[International Phonetic Alphabet]], {{IPA|[o]}} represents the [[close-mid back rounded vowel]].
+
+== Codes for computing ==
+{{Letter
+|NATO=Oscar
+|Morse=–––
+|Character=O
+|Braille=⠕
+}}
+In [[Unicode]], the [[capital letter|capital]] O is codepoint U+004F and the [[Lower case|lowercase]] o is U+006F.
+
+The [[ASCII]] code for capital O is 79 and for lowercase o is 111; or in [[Binary numeral system|binary]] 01001111 and 01101111, correspondingly.
+
+The [[EBCDIC]] code for capital O is 214 and for lowercase o is 150.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#79;</tt>" and "<tt>&amp;#111;</tt>" for upper and lower case respectively.
+
+== See also ==
+{{Commons|O}}
+*[[0]] (zero)
+*[[Oh]] (modern form of the archaic interjection O)
+*[[Omicron|Ο, ο - Greek omicron]]
+*[[O (Cyrillic)|О, о - Cyrillic o]] 
+*[[œ]] oe ligature
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|O|}}
+
+[[Category:Latin letters]]
+[[Category:Vowel letters]]
+
+[[af:O]]
+[[als:O]]
+[[ar:O]]
+[[arc:O]]
+[[ast:O]]
+[[az:O]]
+[[zh-min-nan:O]]
+[[bs:O]]
+[[br:O (lizherenn)]]
+[[ca:O]]
+[[cs:O]]
+[[co:O]]
+[[cy:O]]
+[[da:O]]
+[[de:O]]
+[[el:O]]
+[[es:O]]
+[[eo:O]]
+[[eu:O]]
+[[fa:O]]
+[[fr:O (lettre)]]
+[[fy:O]]
+[[fur:O]]
+[[gd:O]]
+[[gl:O]]
+[[gan:O]]
+[[ko:O]]
+[[hr:O]]
+[[io:O]]
+[[ilo:O]]
+[[is:O]]
+[[it:O]]
+[[he:O]]
+[[ka:O]]
+[[kw:O]]
+[[sw:O]]
+[[ht:O]]
+[[ku:O (herf)]]
+[[la:O]]
+[[lv:O]]
+[[lt:O]]
+[[hu:O]]
+[[mk:O (Латиница)]]
+[[mzn:O]]
+[[ms:O]]
+[[nah:O]]
+[[nl:O (letter)]]
+[[ja:O]]
+[[no:O]]
+[[nn:O]]
+[[nrm:O]]
+[[uz:O (harf)]]
+[[pl:O]]
+[[pt:O]]
+[[ro:O]]
+[[qu:O]]
+[[ru:O (латиница)]]
+[[se:O]]
+[[stq:O]]
+[[scn:O]]
+[[simple:O]]
+[[sk:O]]
+[[sl:O]]
+[[sr:O (слово латинице)]]
+[[fi:O]]
+[[sv:O]]
+[[tl:O]]
+[[th:O]]
+[[tr:O (harf)]]
+[[uk:O (латиниця)]]
+[[vi:O]]
+[[vo:O]]
+[[wa:Lete O]]
+[[yi:O]]
+[[yo:O]]
+[[zh-yue:O]]
+[[bat-smg:O]]
+[[zh:O]]

@@ -1,0 +1,40 @@
+{{Pilsēta
+|nosaukums      = Prusice
+|valsts         = Polija
+|valsts_en      = Poland
+|ģerbonis       = POL Prusice COA.svg
+|karte          = Polija_Prusice.png
+|vojevodiste    = Lejassilēzijas vojevodiste
+|iedzīvotāji    = 2 203
+|iedz_stat_gads = 2007
+|iedz_blīvums   =
+|platība        = 10,94
+|pilsētas tiesības = 1287. gads
+|mājaslapa      = http://www.prusice.iap.pl/
+|citi nosaukumi = ''Prausnitz'' (vācu)
+|apriņķis       = Tšebnicas apriņķis
+|koordinātes    = {{Coord|51|22||N|16|58||E|scale=100000}}
+}}
+
+[[Image:Poland Prusice - St. James church.jpg|thumb|300px|Sv. Jēkaba baznīca (''Kościół św. Jakuba'') Prusicē]]
+
+'''Prusice''' ({{val|pl|Prusice}}) - pilsēta [[Polija]]s dienvidrietumos, [[Lejassilēzijas vojevodiste|Lejassilēzijas vojevodistē]] uz dienvidrietumiiem no [[Tšebnica]]s.
+
+Līdz 1945. gadam pilsēta ietilpa [[Vācija|Vācijā]], kad, pamatojoties uz [[Potsdamas konference]]s lēmumiem, pilsēta tika piešķirta Polijai, bet pilsētas vācu iedzīvotāji padzīti.
+
+{{DEFAULTSORT:Prusice}}
+
+[[Kategorija:Lejassilēzijas vojevodistes pilsētas]]
+
+[[cs:Prusice (Polsko)]]
+[[de:Prusice]]
+[[en:Prusice]]
+[[eo:Prusice (Malsupra Silezio)]]
+[[it:Prusice]]
+[[jv:Prusice]]
+[[nl:Prusice (Polen)]]
+[[pl:Prusice]]
+[[pt:Prusice]]
+[[ro:Prusice]]
+[[ru:Прусице]]
+[[uk:Прусіце]]

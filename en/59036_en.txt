@@ -1,0 +1,292 @@
+{{Expand Danish|Vaduz|fa=yes|date=March 2009}}
+{{Infobox settlement
+|official_name          = Vaduz
+|motto                  = 
+|image_skyline          = Vaduz.jpg
+|imagesize              = 300px
+|image_caption          = Vaduz
+|image_flag             = Flag_of_Vaduz_Liechtenstein-1.svg
+|flag_size              = 30px
+|image_seal             = 
+|seal_size              = 
+|image_shield           = Vaduz.png
+|shield_size            = 100px
+|image_map              = Liechtenstein-Vaduz.svg
+|mapsize                = 150px
+|map_caption            = Vaduz and its exclaves in Liechtenstein
+|pushpin_map            = 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|subdivision_type       = Country
+|subdivision_name       = Liechtenstein
+|subdivision_type1      = 
+|subdivision_name1      = 
+|subdivision_type2      = 
+|subdivision_name2      = 
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      = 
+|government_type        = Monarchy
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      = 
+|area_magnitude         = 
+|unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes         =
+|area_total_km2         = 17.3
+|area_land_km2          = 
+|area_water_km2         = 
+|area_total_sq_mi       =
+|area_land_sq_mi        = 
+|area_water_sq_mi       = 
+|area_water_percent     = 
+|area_urban_km2         = 
+|area_urban_sq_mi       = 
+|area_metro_km2         = 
+|area_metro_sq_mi       = 
+|population_as_of       = 31.12.2005
+|population_footnotes   =
+|population_note        = 
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+|population_total       = 5109
+|population_density_km2 = 295
+|population_density_sq_mi = 
+|timezone               = CET
+|utc_offset             = +1
+|timezone_DST           = CEST
+|utc_offset_DST         = +2
+|latd= 47 |latm= 08 |lats= |latNS= N
+|longd= 9 |longm= 31 |longs= |longEW= E|coordinates_display=3
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 445
+|elevation_ft           = 
+|postal_code_type       = Postal code
+|postal_code            = 9490
+|area_code              = 7001
+|website                = [http://www.vaduz.li www.vaduz.li]
+|footnotes              = 
+}}
+'''Vaduz''' ({{IPA-de|faˈduːts}} or {{IPA|[faˈdʊts]}}) is the [[capital (political)|capital]] of the [[principality]] of [[Liechtenstein]] and the seat of the [[Landtag of Liechtenstein|national parliament]]. The town, located along the [[Rhine]], has about 5,100 inhabitants ({{as of|2009|lc=on}}),<ref>Estimate from [http://www.world-gazetteer.com/wg.php?x=&men=gpro&lng=en&des=gamelan&dat=200&geo=-126&srt=pnan&col=aohdqcfbeimg&pt=c&va=&geo=493722953 World Gazetteer] accessed 18 May 2009</ref> most of whom are [[Roman Catholic Church|Roman Catholic]]. Its [[Vaduz Cathedral|cathedral]] is the seat of a [[Roman Catholic Archdiocese of Vaduz|Roman Catholic archbishop]].
+
+While Vaduz is better known internationally, it is actually not the largest town in the principality: neighbouring [[Schaan]] has a greater population.
+
+==History==
+[[File:Government House of Liechtenstein in Vaduz 2.jpg|thumb|left|300px|Government Building of [[Liechtenstein]]]]
+[[File:St. Florin.jpg|thumb|left|200px|[[Cathedral of St. Florin]]]]
+Vaduz is said to be mentioned in historic 12th century manuscripts as Farduzes. It is however commonly believed to have been founded in the thirteenth century by the [[County of Werdenberg|Counts of Werdenberg]]. In 1322 a mention of the castle is made, which was sacked by the [[Switzerland|Swiss]] in 1499.
+
+In the 17th century the [[Princely Family of Liechtenstein|Liechtenstein family]] was seeking a seat in the Imperial diet, the ''[[Reichstag (institution)|Reichstag]]''.  However, since they did not hold any territory that was directly under the Imperial throne, they were unable to meet the primary requirement to qualify.
+
+The family yearned for the added power a seat in the Imperial government would bring, and therefore sought to acquire lands that would be ''[[Reichsunmittelbar]]'', or held without any feudal personage other than the [[Holy Roman Emperor]] himself having rights on the land. After some time, the family was able to arrange the purchase of the minuscule ''Herrschaft'' ("Lordship") of [[Schellenberg]] and countship of Vaduz (in 1699 and 1712 respectively) from the Hohenems. Tiny Schellenberg and Vaduz possessed exactly the political status required; no feudal lord other than their [[count|comital]] sovereign and the [[Suzerainty|suzerain]] Emperor.
+
+Thereby, on January 23, 1719, after purchase had been duly made, [[Charles VI, Holy Roman Emperor]], decreed Vaduz and Schellenberg were united, and raised to the dignity of ''Fürstentum'' (''[[principality]]'') with the name "Liechtenstein" in honour of "[his] true servant, [[Anton Florian of Liechtenstein]]". It is on this date that Liechtenstein became a sovereign member state of the [[Holy Roman Empire]]. As a testament to the pure political expediency of the purchases, the Princes of Liechtenstein did not set foot in their new principality for over 120 years.
+
+==Landmarks==
+{{wide image|ViewFromVaduzCastle.jpg|1000px|[[Schloss Vaduz|Vaduz Castle]] overlooking the city}}
+
+The most prominent landmark of Vaduz is the [[Schloss Vaduz|Vaduz Castle]], the home of the reigning prince of Liechtenstein and the [[Princely Family of Liechtenstein|Liechtenstein princely family]]. The castle is visible from almost any location in Vaduz, being perched atop a steep hill in the middle of the city.  The [[Cathedral of St. Florin]], Government House and City Hall are also well-known landmarks, displaying the various styles and periods of architecture that the city is known for.
+
+==Economy and transport==
+Vaduz has a lively tourist industry, despite being one of the very few capital cities in the world without an airport or railway station.
+
+The closest railway station is Schaan–Vaduz located around 2&nbsp;km from the city centre in the town of [[Schaan]]. However, very few trains stop here except for a local service between [[Buchs, St. Gallen|Buchs]] in Switzerland and [[Feldkirch, Vorarlberg|Feldkirch]] in Austria. There are extremely frequent bus connections between nearby mainline railway stations including Buchs, [[Sargans]], and Feldkirch, operated by [[Liechtenstein Bus]].
+
+==Culture and sports==
+[[File:Kunstmuseum Liechtenstein, Vaduz.jpg|thumb|300px|City centre (here with [[Kunstmuseum Liechtenstein]])]]
+The National Art Gallery as well as the National Museum are located in Vaduz. The art gallery ([[Kunstmuseum Liechtenstein]]) is a museum of modern and contemporary art. The building is an architectural landmark built by the Swiss architects Morger, Degelo and Kerez. It was completed in November 2000 and forms a “black box” of tinted concrete and black basalt stone. The museum collection is also the national art collection of Liechtenstein. The ''Liechtenstein National Museum'' is showing a permanent exhibition on the cultural and natural history of Liechtenstein as well as special exhibitions. There are also the Postage Stamp Museum and a Ski Museum.
+
+Vaduz also has a local professional [[football (soccer)]] club, [[FC Vaduz]]  which, as the other clubs in Liechtenstein, plays in the [[Swiss Football League]]. Starting in the 2008-2009 season, FC Vaduz became the first Liechtenstein club to play in the [[Swiss Super League]], Switzerland's top flight.
+
+==Climate==
+<!--Infobox begins-->{{Infobox Weather	
+|metric_first=Yes <!--Entering Yes will display metric first. Leave blank for imperial-->	
+|single_line=Yes <!--Entering Yes will display metric and imperial units on same line.--> 	
+|location = 	Vaduz
+|Jan_Hi_°C = 	3.6
+|Feb_Hi_°C = 	5.6
+|Mar_Hi_°C = 	10.1
+|Apr_Hi_°C = 	13.8
+|May_Hi_°C = 	18.4
+|Jun_Hi_°C = 	20.9
+|Jul_Hi_°C = 	23
+|Aug_Hi_°C = 	22.3
+|Sep_Hi_°C = 	19.5
+|Oct_Hi_°C = 	14.7
+|Nov_Hi_°C = 	8.5
+|Dec_Hi_°C = 	4.4
+|Year_Hi_°C =        	13.7
+|Jan_Lo_°C =          	-3.5
+|Feb_Lo_°C =         	-2
+|Mar_Lo_°C =       	1.2
+|Apr_Lo_°C =          	4
+|May_Lo_°C =         	8
+|Jun_Lo_°C =         	10.9
+|Jul_Lo_°C =        	12.7
+|Aug_Lo_°C =          	12.6
+|Sep_Lo_°C =        	10
+|Oct_Lo_°C =       	5.7
+|Nov_Lo_°C =   	1
+|Dec_Lo_°C =   	-2.6
+|Year_Lo_°C =	4.8
+|Jan_MEAN_°C =	0
+|Feb_MEAN_°C =	1.6
+|Mar_MEAN_°C =	5.3
+|Apr_MEAN_°C =	8.9
+|May_MEAN_°C =	13.2
+|Jun_MEAN_°C =	15.9
+|Jul_MEAN_°C =	17.8
+|Aug_MEAN_°C =	17.2
+|Sep_MEAN_°C =	14.6
+|Oct_MEAN_°C =	10.2
+|Nov_MEAN_°C =	4.9
+|Dec_MEAN_°C =	1
+|Year_MEAN_°C =	9.2
+
+<!--**** use mm or cm but not both! ****-->	
+|Jan_Precip_mm = 	45
+|Feb_Precip_mm = 	44
+|Mar_Precip_mm = 	46
+|Apr_Precip_mm = 	58
+|May_Precip_mm = 	84
+|Jun_Precip_mm = 	112
+|Jul_Precip_mm = 	124
+|Aug_Precip_mm = 	127
+|Sep_Precip_mm = 	87
+|Oct_Precip_mm = 	55
+|Nov_Precip_mm = 	58
+|Dec_Precip_mm = 	51
+|Year_Precip_mm = 	891
+|Jan_Precip_days = 	8.4
+|Feb_Precip_days = 	7.5
+|Mar_Precip_days = 	9.2
+|Apr_Precip_days = 	10.9
+|May_Precip_days = 	12.7
+|Jun_Precip_days = 	13.4
+|Jul_Precip_days = 	13.2
+|Aug_Precip_days = 	13.4
+|Sep_Precip_days = 	9.4
+|Oct_Precip_days = 	7.3
+|Nov_Precip_days = 	8.6
+|Dec_Precip_days = 	8.5
+|Year_Precip_days = 	122.5
+|source =MeteoSchweiz <ref name=MeteoSchweiz>{{cite web	
+| url =http://www.meteoswiss.admin.ch/web/de/klima/klima_schweiz/tabellen.html | title =Temperature and Precipitation Average Values-Table, 1961–90   | accessdate = 8 May 2009
+| publisher =Federal Office of Meteorology and Climatology MeteoSwiss | language = German, French, Italian}}</ref>
+|accessdate = 8 May 2009
+}}<!--Infobox ends-->
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons-inline|Category:Vaduz|Vaduz}}
+* [http://www.vaduz.li/ Official website of the Commune of Vaduz] {{de icon}} {{en icon}}
+
+{{Municipalities Liechtenstein}}
+{{List of European capitals by region}}
+
+[[Category:Vaduz| ]]
+[[Category:Capitals in Europe]]
+[[Category:Municipalities of Liechtenstein]]
+[[Category:Settlements on the Rhine]]
+
+{{link FA|da}}
+
+[[af:Vaduz]]
+[[als:Vaduz]]
+[[am:ፋዱጽ]]
+[[frp:Vaduz]]
+[[az:Vaduts]]
+[[bn:ফাডুৎস]]
+[[be-x-old:Вадуц]]
+[[bs:Vaduz]]
+[[bg:Вадуц]]
+[[ca:Vaduz]]
+[[cv:Вадуц]]
+[[cs:Vaduz]]
+[[cy:Vaduz]]
+[[da:Vaduz]]
+[[de:Vaduz]]
+[[et:Vaduz]]
+[[el:Βαντούζ]]
+[[es:Vaduz]]
+[[eo:Vaduzo]]
+[[eu:Vaduz]]
+[[fa:فادوتس]]
+[[fr:Vaduz]]
+[[gv:Vaduz]]
+[[gd:Vaduz]]
+[[gl:Vaduz]]
+[[ko:파두츠]]
+[[hy:Վադուց]]
+[[hr:Vaduz]]
+[[io:Vaduz]]
+[[id:Vaduz]]
+[[ie:Vaduz]]
+[[os:Вадуц]]
+[[is:Vaduz]]
+[[it:Vaduz]]
+[[he:ואדוץ]]
+[[ka:ვადუცი]]
+[[sw:Vaduz]]
+[[ht:Vadouz]]
+[[la:Dulcis Vallis]]
+[[lv:Vaduca]]
+[[lb:Vaduz]]
+[[lt:Vaducas]]
+[[lij:Vadus]]
+[[ln:Vaduz]]
+[[lmo:Vaduz]]
+[[hu:Vaduz]]
+[[mk:Вадуц]]
+[[mr:फाडुट्स]]
+[[ms:Vaduz]]
+[[na:Vaduz]]
+[[nl:Vaduz]]
+[[ja:ファドゥーツ]]
+[[no:Vaduz]]
+[[nn:Vaduz]]
+[[nov:Vaduz]]
+[[oc:Vaduz]]
+[[pms:Vaduz]]
+[[pl:Vaduz]]
+[[pt:Vaduz]]
+[[ro:Vaduz]]
+[[rm:Vaduz]]
+[[qu:Vaduz]]
+[[ru:Вадуц]]
+[[sq:Vaduz]]
+[[scn:Vaduz]]
+[[simple:Vaduz]]
+[[sk:Vaduz]]
+[[sl:Vaduz]]
+[[sr:Вадуц]]
+[[sh:Vaduz]]
+[[fi:Vaduz]]
+[[sv:Vaduz]]
+[[tl:Vaduz]]
+[[th:วาดุซ]]
+[[tg:Вадутс]]
+[[tr:Vaduz]]
+[[uk:Вадуц]]
+[[ug:ۋادۇز]]
+[[vec:Vaduz]]
+[[vi:Vaduz]]
+[[vo:Vaduz]]
+[[war:Vaduz]]
+[[wo:Wadus]]
+[[yo:Vaduz]]
+[[zh:瓦都茲]]

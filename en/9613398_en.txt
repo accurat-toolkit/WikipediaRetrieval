@@ -1,0 +1,58 @@
+{{see also|Piechowice, Pomeranian Voivodeship}}
+{{Infobox Settlement
+| name = Piechowice
+| image_flag = POL Piechowice flag.svg
+| image_shield = Herb Piechowic.svg
+| subdivision_type = Country
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Lower Silesian Voivodeship|Lower Silesian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Jelenia Góra County|Jelenia Góra]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = Piechowice <small>(urban gmina)</small>
+| latd = 50 | latm = 51 | lats = 20 | latNS = N | longd = 15 | longm = 37 | longs = 8 | longEW = E
+| pushpin_map = Poland
+| area_total_km2 = 43.22
+| population_density_km2 = auto
+| elevation_max_m = 480
+| elevation_min_m = 360
+| population_as_of = 2006
+| population_total = 6494
+| website = http://www.piechowice.pl }}
+
+
+'''Piechowice''' {{IPAr|pl|p|j|e|h|o|'|w|i|c|e}} ({{lang-de|Petersdorf}}) is a town in [[Jelenia Góra County]], [[Lower Silesian Voivodeship]], in south-western [[Poland]]. Prior to 1945 it was in [[Germany]].
+
+It lies approximately {{convert|10|km|mi|0}} south-west of [[Jelenia Góra]], and {{convert|104|km|mi|0}} west of the regional capital [[Wrocław]].
+
+As of 2006, the town has a population of 6,494.
+
+
+==External links==
+*[http://www.odkryjsudety.pl/piechowice.html  Piechowice]
+{{Jelenia Góra County}}
+
+
+
+{{coord|50|51|20|N|15|37|08|E|region:PL_type:city|display=title}}
+
+[[Category:Cities and towns in Lower Silesian Voivodeship]]
+[[Category:Jelenia Góra County]]
+[[Category:Cities in Silesia]]
+
+
+{{LowerSilesian-geo-stub}}
+
+[[de:Piechowice]]
+[[eo:Piechowice]]
+[[it:Piechowice]]
+[[jv:Piechowice]]
+[[lv:Pehovice]]
+[[nl:Piechowice]]
+[[pl:Piechowice]]
+[[pt:Piechowice]]
+[[ro:Piechowice]]
+[[ru:Пеховице]]
+[[sk:Piechowice]]
+[[uk:Пеховіце]]

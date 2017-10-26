@@ -1,0 +1,197 @@
+{{dablink|For [[Wikipedia:Naming conventions (technical restrictions)#Characters totally forbidden in page titles|technical reasons]], C redirects here. For the programming language, see [[C (programming language)]]. For uses of C#, see [[C-sharp]].}}
+{{pp-semi-indef|small=yes|expiry=February 16, 2009}}
+{{otherusesof}}
+{{wiktionarypar2|C|c}}
+{{Latin alphabet navbox|uc=C|lc=c}}
+[[Image:Copyright.svg|thumb|float|right|100px|'''C''' in [[copyright symbol]]]]
+'''C''' is the third [[Letter (alphabet)|letter]] in the [[Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈsiː}}) is spelled '''cee''', plural '''cees'''.<ref>"C" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "cee", ''op. cit.''</ref>
+==History==
+{| class="wikitable"
+|-
+! Phoenician <br>''[[gimel]]''
+! Hebrew <br>''gimel''
+! Classical Greek <br>''[[Gamma]]''
+! Etruscan <br>C
+! Old Latin <br>C
+|- style="background-color:white; text-align:center;"
+|[[Image:Phoenician G.svg|35px|Phoenician gimel]]
+|[[Image:Gimel Hebrew.svg|35px|Hebrew gimel]] 
+|[[Image:G 17162.gif|35px|Classical Greek Gamma]]
+|[[File:EtruscanC-01.svg|35px|Etruscan C]]
+|[[File:Old Latin G.png|35px|Old Latin]]
+|}
+''C'' comes from the same letter as ''G'' or ''g''. The [[Semites]] named it [[Gimel (letter)|gimel]]. The sign is possibly adapted from an [[Egyptian hieroglyphs|Egyptian hieroglyph]] for a [[sling (weapon)#Staff sling|staff sling]], which may have been the meaning of the name ''gimel''. Another possibility is that it depicted a camel, the Semitic name for which was ''gamal''.
+
+In the [[Etruscan language]], [[plosive consonant]]s had no contrastive [[phonation|voicing]], so the [[Greek language|Greek]] <font face="Times New Roman">[[Gamma|Γ]]</font> (Gamma) was adopted into the [[Etruscan alphabet]] to represent the {{IPA|/k/}} phoneme. Already in the [[Western Greek alphabet]], Gamma first took a [[Image:Early Etruscan C.gif|15px]] form in Early Etruscan, then [[Image:Classical Etruscan C.gif|15px]] in Classical Etruscan. In Early Latin it took a  form then C in Classical Latin. In the earliest [[Latin]] inscriptions, the letters C, K and Q were all used to represent the sounds /k/ and /g/ (which were not differentiated in writing).  Of these, Q was used to represent /k/ or /g/ before a rounded vowel, K before /a/, and C elsewhere.<ref>{{cite book
+|title=New Comparative Grammar of Greek and Latin
+|first=Andrew L. 
+|last=Sihler
+|edition=illustrated
+|publisher=Oxford University Press
+|year=1995
+|location=New York
+|ISBN=0195083458
+|url=http://books.google.com/books?id=IeHmqKY2BqoC
+|pages=21
+}}</ref>  During the 3rd century BC, a modified character<!--,  or [[Image:Early Latin G.JPG]], --> was introduced for {{IPA|/ɡ/}}, and C itself retained for {{IPA|/k/}}. The use of C (and its variant G) replaced most usages of K and Q.  Hence, in the classical period and after, G was treated as the [[phonetic]] representative of "gamma", and C as the equivalent of "kappa", in the transliteration of Greek words into Roman spelling, as in "''KA∆MOΣ, KYPOΣ, ΦΩKIΣ,''" in Roman letters "CADMVS, CYRVS, PHOCIS". It is also possible but uncertain that C represented only {{IPA|/ɡ/}} at a very early time, while [[K]] might have been used for {{IPA|/k/}}.
+
+Other alphabets have letters identical to C in form but not in use and derivation, in particular the [[Cyrillic alphabet|Cyrillic]] letter [[Es (Cyrillic)|Es]] which derives from one form of the Greek letter [[sigma (letter)|sigma]], known as the "lunate sigma" due to its resemblance to the crescent moon.
+
+==Later use==
+When the Roman alphabet was introduced into Britain, C represented only {{IPA|/k/}} and this value of the letter has been retained in loanwords to all the [[insular Celtic languages]]: in [[Welsh language|Welsh]], [[Irish language|Irish]], [[Scottish Gaelic language|Gaelic]], C, c, is still only {{IPA|/k/}}. The [[Old English]] or "[[Anglo-Saxon language|Anglo-Saxon]]" writing was learned from the Celts, apparently of Ireland; hence C, c, in Old English, also originally represented {{IPA|/k/}}: the words ''kin, break, broken, thick, seek,'' were in Old English written ''cyn, brecan, brocen, Þicc, séoc''. But during the course of the Old English period, {{IPA|/k/}} before front vowels ({{IPA|/e/}} and {{IPA|/i/}}) was [[palatalization|palatalized]], having, by the 10th century, advanced nearly or quite to the sound of {{IPA|/tʃ/}}, though still written c, as in ''cir(i)ce, wrecc(e)a''. On the continent, meanwhile, a similar phonetic change had also been going on (for example, in [[Italian language|Italian]]).
+
+Original Latin {{IPA|/k/}} before front vowels had palatalized in Italy to the sound of {{IPA|/tʃ/}}, and in France and the Iberian peninsula to that of {{IPA|/ts/}}. Yet for these new sounds the old character C, c, was still retained before ''e'' and ''i,'' the letter thus represented two distinct values. Moreover the Latin phoneme {{IPA|/kʷ/}} (represented by QV, or ''qu'') de-labialized to {{IPA|/k/}} meaning that the various Romance languages had {{IPA|/k/}} before front vowels.  In addition, [[Norman language|Norman]] used the Greek letter ''K,'' so that the sound {{IPA|/k/}} could be represented by either ''k'' or ''c,'' the latter of which could represent either {{IPA|/k/}} or {{IPA|/ts/}}. These French inconsistencies as to C and K were, after the [[Norman Conquest]], applied to the writing of English, which caused a considerable re-spelling of the Old English words. Thus while Old English ''candel, clif, corn, crop, cú,'' remained unchanged, ''Cent, cæ´[[Image:Insular G.GIF]] (cé´[[Image:Insular G.GIF]]), cyng, brece, séoce,'' were now (without any change of sound) spelt ''Kent, ke<font face="Microsoft Sans Serif">ȝ</font>, kyng, breke, seoke;'' even ''cniht'' was subsequently spelt ''kniht, knight,'' and ''þic, þicc,'' became ''thik, thikk, thick''. The Old English cw- was also at length displaced by the French ''qw, qu,'' so that the Old English ''cwén, cwic,'' became [[Middle English]] ''qwen, quen, qwik, quik,'' now ''queen, quick''. The sound {{IPA|/tʃ/}} to which Old English palatalized c had advanced, also occurred in French, chiefly (in Central French) from Latin ''c'' before ''a''. In French it was represented by ''ch,'' as in ''champ, cher:''–Latin ''camp-um, caōr-um; '' and this spelling was now introduced into English: the Hatton Gospels, written about 1160, have in Matt. i-iii, ''child, chyld, riche, mychel,'' for the ''cild, rice, mycel,'' of the Old English version whence they were copied. In these cases, the Old English ''c'' gave place to ''k, qu, ch;'' but, on the other hand, ''c'' in its new value of {{IPA|/ts/}} came in largely in French words like ''processiun, emperice, grace,'' and was also substituted for ''ts'' in a few Old English words, as ''miltse, bletsien,'' in early Middle English ''milce, blecien''. By the end of the 13th century both in France and England, this sound {{IPA|/ts/}} de-affricated to {{IPA|/s/}}; and from that date c before front vowels has been, phonetically, a duplicate or subsidiary letter to s; used either for [[etymology|etymological]] reasons, as in ''lance, cent,'' or (in defiance of etymology) to avoid the ambiguity due to the "etymological" use of s for {{IPA|/z/}}, as in ''ace, mice, once, pence, defence''.
+
+Thus, to show the etymology, English spelling has ''advise, devise,'' instead of ''advize, devize,'' which while ''advice, device, dice, ice, mice, twice,'' etc., do not reflect etymology; example has extended this to ''hence, pence, defence,'' etc., where there is no etymological necessity for ''c''. Former generations also wrote ''{{lang|eng|sence}}'' for sense.
+
+Hence, today the [[Romance languages]] and [[English language|English]] have a common feature inherited from [[Vulgar Latin]] where C takes on either a [[Hard and soft C|"hard" or "soft"]] value depending on the following vowel. 
+
+In English, [[French language|French]], [[Spanish language|Spanish]] and [[Portuguese language|Portuguese]], C takes the "hard" value {{IPA|[k]}} finally and before A, O, and U, and a "soft" value before E and I.  However, as with everything else regarding English spelling, there are a couple of exceptions: "[[soccer]]" and "[[Pronunciation of Celtic|Celt]]" are words that have a ''k'' sound in the "wrong" place.
+
+The pronunciation of the "soft" value varies by language. In English, French, Portuguese, and Spanish from Latin America and southern Spain, C before E and I sounds {{IPA|[s]}}.   In the Spanish spoken in northern and central Spain it is pronounced as the [[voiceless dental fricative]] {{IPA|[θ]}}. In [[Italian language|Italian]] and [[Romanian language|Romanian]] it is pronounced {{IPA|[t͡ʃ]}}. 
+
+Other languages use C with different values, such as {{IPA|[ð]}} in [[Fijian language|Fijian]]; {{IPA|[ʕ]}} in [[Somali language|Somali]]; the click {{IPA|[ǀ]}} in [[Xhosa language|Xhosa]] and [[Zulu language|Zulu]]; {{IPA|[d͡ʒ]}} in [[Turkish language|Turkish]], [[Kurdish Language|Kurdish]], [[Tatar language|Tatar]], and [[Azeri language|Azeri]]; {{IPA|[t͡ʃ]}} in [[Indonesian language|Indonesian]], [[Malay language|Malay]], [[Volapük language|Volapük]], and a number of African languages such as [[Hausa language|Hausa]], [[Fula language|Fula]], and [[Manding languages|Manding]]; {{IPA|[ʃ]}} in some other African languages, such as Beninese [[Yoruba language|Yoruba]]; {{IPA|[t͡s]}} in all [[Balto-Slavic languages]] that use the Latin alphabet, as well as [[Albanian language|Albanian]], [[Esperanto language|Esperanto]], [[Hungarian language|Hungarian]], [[Ido language|Ido]], and [[Interlingua language|Interlingua]]; and {{IPA|[t͡sʰ]}} in [[Pinyin|Romanized]] [[Chinese language|Chinese]]. It is also used as a transliteration of the Cyrillic "Ц" in the Latinic forms of [[Serbian alphabet|Serbian]], [[Romanisation of Macedonian|Macedonian]], and sometimes [[Romanization of Ukrainian|Ukrainian]] (along with digraph TS).
+
+There are several common digraphs with C, the most common being [[Ch (digraph)|CH]], which in some languages such as [[German language|German]] is far more common than C alone. In English, CH most commonly takes the value {{IPA|/t͡ʃ/}} (which it invariably has in [[Spanish language|Spanish]]), but can take the value {{IPA|/k/}} or {{IPA|/ʃ/}}; some dialects of English also have {{IPA|/x/}} in words like ''loch'' where other speakers pronounce the final sound as {{IPA|/k/}}. CH takes various values in other languages, such as {{IPA|/x/}} in the [[West Slavic languages]] (e.g. [[Polish language|Polish]], [[Czech language|Czech]] and [[Slovak language|Slovak]]); {{IPA|/ç/}}, {{IPA|/k/}}, or {{IPA|/x/}} in German; {{IPA|/x/}} or silent in [[Dutch language|Dutch]]; {{IPA|/ʃ/}} in [[French language|French]] and [[Portuguese language|Portuguese]]; {{IPA|/k/}} in Interlingua and Italian, {{IPA|/tʂʰ/}} in [[Mandarin Chinese]]; and so forth. CK, with the value {{IPA|/k/}}, is often used after short vowels in [[Germanic languages]] such as English, German and [[Swedish language|Swedish]] (but some other Germanic languages use KK instead, such as Dutch and [[Norwegian language|Norwegian]]). The digraph CZ is found in Polish and CS in Hungarian, both representing {{IPA|/t͡ʃ/}}.  In Old English, Italian, and a few languages related to Italian, sc represents {{IPA|/ʃ/}} (however in Italian and related languages this only happens before e or i, otherwise it represents {{IPA|/sk/}}).
+
+As a [[phonetic]] symbol, lowercase c is the [[International Phonetic Alphabet]] (IPA) and [[X-SAMPA]] symbol for the [[voiceless palatal plosive]], and capital C is the X-SAMPA symbol for the [[voiceless palatal fricative]].
+
+== Codes for computing ==
+{{Letter
+|NATO=Charlie
+|Morse=–·–·
+|Character=C3
+|Braille=⠉
+}}
+In [[Unicode]] the [[majuscule|capital]] C is codepoint U+0043 and the [[lower case]] c is U+0063.
+
+The [[ASCII]] code for capital C is 67 and for lower case c is 99; or in [[Binary numeral system|binary]] 01000011 and 01100011, respectively.
+
+The [[EBCDIC]] code for capital C is 195 and for lowercase c is 131.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#67;</tt>" and "<tt>&amp;#99;</tt>" for upper and lower case, respectively.
+
+==See also==
+
+{{col-begin}}
+{{col-3}}
+*[[C (musical note)]]
+*[[Cent (currency)|¢]] (cent)
+*[[Ç]] (cedilla)
+*[[C-circumflex|Ĉ]] (C circumflex)
+*[[Č]] (C caron)
+*[[Ć]] (C acute)
+*[[Es (Cyrillic)|Cyrillic C (Es)]]. С, с are identical in shape with the Latin C,c but are equivalents of the Latin S, s.
+*[[Tse (Cyrillic)|Ц, ц - Tse (Cyrillic)]]
+*[[Ċ]] (C dot above)
+*{{Unicode|[[Ƈ]]}} (C hook)
+{{col-3}}
+*{{Unicode|[[ʗ]]}} (stretched C)
+*{{Unicode|[[Ḉ]]}} (C acute cedilla)
+*{{Unicode|[[₡]]}} (colón currency symbol)
+*{{Unicode|[[₢]]}} (cruzeiro currency symbol)<!--- Unicode 5 has 0x20B5 for the Ghanan cedi --->
+*{{Unicode|[[ℂ]]}} (double-struck C)
+*[[℃]] (degree Celsius)
+*{{Unicode|[[ℭ]]}} (Gothic C)
+*{{Unicode|[[Ⅽ]]}} (Roman number C)
+*[[Hard and soft C]]
+*{{Unicode|[[Ⓒ]]}} (enclosed C)
+*{{Unicode|[[ⓒ]]}} (enclosed c)
+*{{Unicode|[[C̄]]}} (C with Macron) (hardly-used)
+{{Col-3}}
+{{Commons|C}}
+{{Wikisource1911Enc|C}}
+{{col-end}}
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|C|}}
+
+[[Category:Latin letters]]
+
+[[af:C]]
+[[als:C]]
+[[ar:C]]
+[[arc:C]]
+[[ast:C]]
+[[az:C]]
+[[zh-min-nan:C]]
+[[bs:C]]
+[[br:C (lizherenn)]]
+[[bg:C]]
+[[ca:C]]
+[[cs:C]]
+[[co:C]]
+[[cy:C]]
+[[da:C]]
+[[de:C]]
+[[et:C]]
+[[el:C]]
+[[es:C]]
+[[eo:C]]
+[[eu:C]]
+[[fa:C]]
+[[fr:C (lettre)]]
+[[fy:C]]
+[[fur:C]]
+[[ga:C]]
+[[gd:C]]
+[[gl:C]]
+[[gan:C]]
+[[ko:C]]
+[[hr:C]]
+[[io:C]]
+[[ilo:C]]
+[[id:C (huruf)]]
+[[ia:C]]
+[[it:C]]
+[[he:C]]
+[[ka:C]]
+[[kw:C]]
+[[sw:C]]
+[[ht:C]]
+[[la:C]]
+[[lv:C]]
+[[lb:C]]
+[[lt:C]]
+[[hu:C]]
+[[mk:C (Латиница)]]
+[[mg:C]]
+[[ms:C]]
+[[nah:C]]
+[[nl:C (letter)]]
+[[ja:C]]
+[[no:C]]
+[[nn:C]]
+[[nrm:C]]
+[[uz:C (harf)]]
+[[pl:C]]
+[[pt:C]]
+[[crh:C]]
+[[ro:C]]
+[[qu:C]]
+[[ru:C (латиница)]]
+[[se:C]]
+[[stq:C]]
+[[scn:C]]
+[[simple:C]]
+[[sk:C]]
+[[sl:C]]
+[[szl:C]]
+[[sr:C (слово латинице)]]
+[[fi:C]]
+[[sv:C]]
+[[tl:C]]
+[[th:C]]
+[[tr:C (harf)]]
+[[uk:C (латиниця)]]
+[[vi:C]]
+[[vo:C]]
+[[wa:C]]
+[[yi:C]]
+[[yo:C]]
+[[zh-yue:C]]
+[[diq:C]]
+[[bat-smg:C]]
+[[zh:C]]

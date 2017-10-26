@@ -1,0 +1,86 @@
+{{Infobox Planet
+|name         = Nereid
+|image        = [[Image:Nereid-Voyager2.jpg|250px|Image of Nereid by Voyager 2]]
+|caption      = Image of Nereid by [[Voyager 2]]
+|background   = #a0ffa0
+|discoverer   = [[Gerard P. Kuiper]]<ref name="Kuiper">{{cite journal |first=Gerard P. |last=Kuiper |title=The second satellite of Neptune |journal=Publications of the Astronomical Society of the Pacific |year=1949 |volume=61 |pages=175&ndash;176 |url=http://adsabs.harvard.edu//full/seri/PASP./0061//0000175.000.html |doi=10.1086/126166}}</ref>
+|discovered   = [[May 1]], [[1949]]
+|semimajor    = 5,513,787 km (0.03685 [[Astronomical unit|AU]])
+|eccentricity = 0.7507 ([[Epoch (astronomy)|Epoch]] 2000)<ref name=jplssd2>{{cite web |url=http://ssd.jpl.nasa.gov/?sat_elem#neptune |publisher=[[JPL]] (Solar System Dynamics) |title=Jacobson, R.A. (2009) |date=2009-03-30 |accessdate=2009-03-31}}</ref><br>0.7469 (Epoch 2008)<ref name="IAU_MPC_NSES"/>
+|periapsis    = 1,372,000 km (0.00917 [[Astronomical unit|AU]])
+|apoapsis     = 9,655,000 km (0.06454 [[Astronomical unit|AU]])
+|period       = 360.1362 [[Day|d]]
+|avg_speed    = 934 m/s
+|inclination  = {{nowrap|7.090° to the local [[Laplace plane]] ([[Epoch (astronomy)|Epoch]] 2000)<ref name=jplssd2/>}}<br>{{nowrap|5.05° (Epoch 2008-11-30)<ref name="IAU_MPC_NSES"/>}}<br/>{{nowrap|32.55° to Neptune's equator}}
+|satellite_of = [[Neptune]]
+|mean_radius  = 170±25 km<ref name="jplssd">{{cite web |url=http://ssd.jpl.nasa.gov/?sat_phys_par |publisher=[[JPL]] (Solar System Dynamics) |title=Planetary Satellite Physical Parameters |date=2006-07-13 |accessdate=2008-01-24}}</ref>
+|mass         = 3.1{{e|19}} [[Kilogram|kg]] (assumed)<ref name="jplssd"/>
+|density      = 1.5 g/cm<sup>3</sup> (assumed)<ref name="jplssd"/>
+|rotation     = 0.48 d (11 h 31 min)<ref name="GravHolmanKavelaars">{{cite journal |first=T. |last=Grav |coauthors=M. Holman, J. J. Kavelaars |title=The Short Rotation Period of Nereid |journal=The Astrophysical Journal |year=2003 |volume=591 |pages=71&ndash;74 |url=http://arxiv.org/pdf/astro-ph/0306001 | doi = 10.1086/377067}}</ref>
+|albedo       = 0.155<ref name="jplssd"/>
+|single_temperature = ~50 [[Kelvin|K]] mean (estimate)
+}}
+'''Nereid''' ({{pron-en|ˈnɪəriɪd}}; also {{IPA-en|ˈnɛriɪd|}}, as in Greek ''Νηρηΐδα),''<ref>In US dictionary transcription, {{USdict|nēr′·ē·<s>ı</s>d, nĕr′·ē·<s>ı</s>d}}.</ref> also known as '''Neptune&nbsp;II''', is a [[natural satellite|moon]] of [[Neptune]].
+
+Nereid was discovered on May 1, 1949 by [[Gerard P. Kuiper]], who proposed the name in the report of his discovery. It is named after the [[Nereids]], sea-nymphs of [[Greek mythology]]. 
+
+Nereid was the outermost known moon of Neptune from its discovery until 2002. Nereid's diameter is 340&nbsp;km, making it the third-largest moon in the Neptune system. Its [[orbit]] averages 5,513,400&nbsp;km in radius, but is highly [[eccentricity (orbit)|eccentric]] and varies from 1,372,000 to 9,655,000 kilometres. This is the highest mean eccentricity of any known satellite in the [[solar system]].<ref name=jplssd2/>  But it may lose this title briefly to an outer [[irregular moon]] of a [[gas giant]], such as [[Saturn]]'s [[Bestla (moon)|Bestla]] and [[Uranus]]'s [[Margaret (moon)|Margaret]], because of the [[Kozai mechanism]] (a [[Frequency|periodic exchange]] between the [[inclination]] and eccentricity).<ref name="IAU_MPC_NSES">{{cite web |title=IAU-MPC Natural Satellites Ephemeris Service |publisher=[[IAU]]: [[Minor Planet Center]] |url=http://cfa-www.harvard.edu/iau/NatSats/NaturalSatellites.html |accessdate=2008-01-26}}<br>As of 2008, the Natural Satellites Ephemeris Service lists the current instantaneous eccentricities and epochs as:<br>
+[[Margaret (moon)|Margaret]]: 0.7979 (2006 Mar. 6.0 TT = JDT 2453800.5)<br>
+Nereid: 0.7464 (2007 Oct. 27.0 TT = JDT 2454400.5)<br>
+[[Bestla (moon)|Bestla]]: 0.7309 (2007 Apr. 10.0 TT = JDT 2454200.5)<br>
+(To use this utility: pick a gas giant, deselect Ephemerides and select Orbital Elements)</ref> The unusual orbit suggests that it may be a captured [[asteroid]] or [[Kuiper belt]] object, or that it was perturbed during the capture of Neptune's largest moon [[Triton (moon)|Triton]].
+
+[[Halimede (moon)|Halimede]] may be a fragment of Nereid that was broken off during a collision.<ref name="Grav2004U">Grav, T., [[Matthew J. Holman|M. J. Holman]] and W. Fraser, ''Photometry of Irregular Satellites of Uranus and Neptune'', The Astrophysical Journal, '''613''' (2004), pp. L77–L80. [http://arxiv.org/abs/astro-ph/0405605 Preprint]</ref>
+
+Nereid was too far away from ''[[Voyager 2]]'' to be properly imaged when the spacecraft visited the Neptune system in 1989. Photos sent back show only its highly irregular shape, and no surface features could be seen at the resolution available.
+
+<br clear="left" />
+
+==References==
+{{reflist}}
+
+== External links ==
+*[http://space.jpl.nasa.gov/cgi-bin/wspace?tbody=802&vbody=899&month=3&day=28&year=2006&hour=20&minute=40&fovmul=1&rfov=0.05&bfov=30&porbs=1&brite=1 Transit of the Sun] on 2006-Mar-28 as seen from Neptune
+
+{{Moons of Neptune
+|state = uncollapsed
+|titlestyle = background:#97C3F4<!--(see Template:Neptune)-->
+|belowstyle = background:#97C3F4<!--(see Template:Neptune)-->
+}}
+{{Neptune}}
+
+{{DEFAULTSORT:Nereid (Moon)}}
+[[Category:Moons of Neptune]]
+
+[[bg:Нереида (спътник)]]
+[[ca:Nereida (satèl·lit)]]
+[[cs:Nereida (měsíc)]]
+[[cy:Nereid (lloeren)]]
+[[da:Nereid]]
+[[de:Nereid]]
+[[el:Νηρηίδα (δορυφόρος)]]
+[[es:Nereida (satélite)]]
+[[eo:Nereido (luno)]]
+[[fr:Néréide (lune)]]
+[[ko:네레이드 (위성)]]
+[[hr:Nereida (mjesec)]]
+[[it:Nereide (astronomia)]]
+[[he:נראיד]]
+[[ht:Nereyid]]
+[[lv:Nereīda (pavadonis)]]
+[[lt:Nereidė (palydovas)]]
+[[hu:Nereida (hold)]]
+[[nl:Nereïde (maan)]]
+[[ja:ネレイド (衛星)]]
+[[no:Nereid (måne)]]
+[[pl:Nereida (księżyc)]]
+[[pt:Nereida (satélite)]]
+[[ru:Нереида (спутник)]]
+[[scn:Nereidi (astronumia)]]
+[[simple:Nereid (moon)]]
+[[sk:Nereida (mesiac)]]
+[[sl:Nereida (luna)]]
+[[sr:Нереида (сателит)]]
+[[fi:Nereid]]
+[[sv:Nereid]]
+[[zh:海卫二]]

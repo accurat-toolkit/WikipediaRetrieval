@@ -1,0 +1,101 @@
+[[Image:Vueste1.jpg|Sentetjēna|thumb|200px|left]]
+
+{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
+|+<font size=+1>'''Saint-Étienne'''</font>
+|- 
+| style=background:#efefef; align=center colspan=2 | 
+{| border=0 cellpadding=2 cellspacing=0
+| align=center | [[Image:Fr_Sensamona.png|160px|]]
+| align=center | [[Image:Blason ville fr SaintEtienne (Loire).png|87px|]]
+|}
+|- 
+| Iedzīvotāji (2007)
+| 173 835 [http://www.world-gazetteer.com/wg.php?x=&men=gpro&lng=en&dat=32&geo=-79&srt=npan&col=aohdq&pt=c&va=&geo=487566439]
+|- 
+| Rakstos
+| 1258. g
+|-
+| reģions
+| [[Rona-Alpi]]
+|-
+| departaments
+| [[Luāra]]
+|- 
+| Mājaslapa
+| http://www.saint-etienne.fr/ 
+|-
+|}
+
+'''Sentetjēna''' (''Saint-Étienne'') - pilsēta [[Francija|Francijā]], 60 kilometrus uz dienvidrietumiem no [[Liona]]s, [[Centrālais masīvs|Centrālajā masīvā]].
+
+Pirmoriz rakstos minēta 1258. gadā, un nosaukta par godu [[Sv. Stefans|Sv. Stefanam]]. XVI gadsimtā pilsētā attīstījās ieroču ražošana, tāpēc [[Franču revolūcija]]s laikā pilsētu pārdēvēja par ''Armeville'' ("Ieroču pilsēta"). Tomēr līdz pat XIX gadsimtam, kad pilsētas apkārtnē sākās [[ogles|ogļu]] ieguve, tās izaugsme bija ļoti gausa.
+
+Pazīstama kā Francijas [[velosipēds|velosipēdu]] ražošanas centrs. Pilsētā atrodas velosipēdu ražošanas kompānijas ''[[Mavic]]'' galvenā mītne. Pilsētā atrodas arī lielveikalu tīkla kompānijas ''[[Groupe Casino]]'' galvenā mītne. Pretēji citām Francijas pilsētām, Sentetjēna XX gadsimta laikā nelikvidēja [[tramvajs|tramvaja]] tīklu, līdz XX gadsimta beigās, kad tika atzītas tramvaja kā transporta līdzekļa priekšrocības, pēc Sentetjēnas parauga tas tika atjaunots daudzās citās Francijas pilsētās. [[Futbols|Futbola]] kluba ''[[AS Saint-Étienne]]'' mājvieta.
+
+===Cilvēki===
+
+Sentetjēnā dzimuši:
+
+*[[Žils Masnē]] (''Jules Massenet'', [[1842]] - [[1912]]) - komponists
+*[[Aravane Razaī]] (''Aravane Rezaï'', [[1987]] - ) - tenisiste
+*[[Vilijs Sanjols]] (''Willy Sagnol'', [[1977]] - ) - futbolists
+*[[Žilbērs Simondons]] (''Gilbert Simondon'', [[1924]] - [[1989]]) - filozofs
+*[[Žans Žitons]] (''Jean Guitton'', [[1901]] - [[1999]]) - filozofs
+
+{{commons|Category:Saint-Étienne}}
+
+[[Category:Francijas pilsētas|Sentetjezna]]
+
+[[af:Saint-Étienne]]
+[[ar:سانت إتيان]]
+[[bg:Сент Етиен]]
+[[ca:Saint-Étienne]]
+[[ceb:Saint-Étienne]]
+[[cs:Saint-Étienne]]
+[[cy:Saint-Étienne]]
+[[da:Saint-Étienne]]
+[[de:Saint-Étienne]]
+[[el:Σαιντ-Ετιέν]]
+[[en:Saint-Étienne]]
+[[eo:Sankta-Stefano]]
+[[es:Saint-Étienne]]
+[[et:Saint-Étienne]]
+[[eu:Saint-Étienne]]
+[[fa:سنت اتین]]
+[[fi:Saint-Étienne]]
+[[fr:Saint-Étienne]]
+[[frp:Sant-Etiève]]
+[[hr:Saint-Étienne]]
+[[hu:Saint-Étienne]]
+[[id:Saint-Étienne]]
+[[io:Saint-Étienne]]
+[[it:Saint-Étienne]]
+[[ja:サン＝テティエンヌ]]
+[[ka:სენ-ეტიენი]]
+[[la:Fanum Sancti Stephani]]
+[[lad:Saint-Etienne]]
+[[lb:Saint-Étienne]]
+[[mk:Сент Етјен]]
+[[nds:Saint-Étienne]]
+[[nl:Saint-Étienne]]
+[[nn:Saint-Étienne]]
+[[no:Saint-Étienne]]
+[[oc:Sant Estève]]
+[[pl:Saint-Étienne]]
+[[pt:Saint-Étienne]]
+[[qu:Saint-Étienne]]
+[[ro:Saint-Étienne]]
+[[ru:Сент-Этьен]]
+[[simple:Saint-Étienne]]
+[[sk:Saint-Étienne]]
+[[sl:Saint-Étienne]]
+[[sr:Сент Етјен]]
+[[sv:Saint-Étienne]]
+[[sw:Saint-Étienne]]
+[[tl:Saint-Étienne]]
+[[uk:Сент-Етьєн]]
+[[vec:Saint-Étienne]]
+[[vi:Saint-Étienne]]
+[[vo:Saint-Étienne]]
+[[war:Saint-Étienne]]
+[[zh:圣艾蒂安]]

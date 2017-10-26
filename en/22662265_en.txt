@@ -1,0 +1,1402 @@
+'''Administrative divisions of [[Latvia]]''', (valid 1 July 2009). According to the ''Administrative territorial reform of Latvia'', Latvia changed its [[administrative division]]s from two-level [[municipality|municipalities]] ([[town]]s, [[city|cities]], towns countryside territories and [[parish]]es were the first level, [[Districts of Latvia|districts]] were the second level municipalities) to one-level municipalities - districts were liquidated, but towns ({{lang-lv|pilsētas}}, ''[[plural]]''), towns countryside territories ({{lang-lv|pilsētu lauku teritorijas}}, ''plural'') and parishes ({{lang-lv|pagasti}}, ''plural'') were [[Merger (politics)|merged]] into 109 [[Municipality|municipalities]] ({{lang-lv|novadi}}, ''plural'') and there are 9 socalled republican cities ({{lang-lv|republikas pilsētas}}) with own [[city council]] and administration.
+
+==Cities of Republic==
+[[file:Latvijas_novadi_un_pagasti.png|thumb|450px|Administrative divisions of Latvia (valid from 1. July 2009)]]
+
+
+{| class="wikitable"
+|-
+! Number
+! Name of the City
+|-
+| 1.
+| [[Daugavpils]]
+|-
+| 2.
+| [[Jēkabpils]]
+|-
+| 3.
+| [[Jelgava]]
+|-
+| 4.
+| [[Jūrmala]]
+|-
+| 5.
+| [[Liepāja]]
+|-
+| 6.
+| [[Rēzekne]]
+|-
+| 7.
+| [[Riga]]
+|-
+| 8.
+| [[Valmiera]]
+|-
+| 9.
+| [[Ventspils]]
+|}
+
+==''Novads'' and their territorial units==
+[[File:Latvijas novadi (krāsās).png|thumb|400px|Administrative divisions of Latvia in colors (valid from 1. July 2009)]]
+{| class="wikitable"
+|-
+! Number
+! ''Novads''
+! Territorial units of ''novads'': <br />(Towns, towns countryside territories and parishes)
+|-
+| rowspan="4" | 1.
+| rowspan="4" | [[Aglonas novads]]
+| [[Aglona parish]]
+|-
+| [[Grāveri parish]]
+|-
+| [[Kastuļina parish]]
+|-
+| [[Šķeltova parish]]
+|-
+| rowspan="2" | 2.
+| rowspan="2" | [[Aizkraukles novads]]
+| [[Aizkraukle parish]]
+|-
+| [[Aizkraukle]] town
+|-
+| rowspan="6" | 3.
+| rowspan="6" | [[Aizputes novads]]
+| [[Aizpute parish]]
+|-
+| [[Aizpute]] town
+|-
+| [[Cīrava parish]]
+|-
+| [[Kalvene parish]]
+|-
+| [[Kazdanga parish]]
+|-
+| [[Laža parish]]
+|-
+| rowspan="3" | 4.
+| rowspan="3" | [[Aknīstes novads]]
+| [[Aknīste]] town with its countryside territory
+|-
+| [[Asare parish]]
+|-
+| [[Gārsene parish]]
+|-
+| rowspan="4" | 5.
+| rowspan="4" | [[Alojas novads]]
+| [[Aloja]] town with its countryside territory
+|-
+| [[Braslava parish]]
+|-
+| [[Brīvzemnieki parish]]
+|-
+| [[Staicele]] town with its countryside territory
+|-
+| 6.
+| [[Alsungas novads]]
+|
+|-
+| rowspan="16" | 7.
+| rowspan="16" | [[Alūksnes novads]]
+| nowrap="nowrap" | [[Alsviķi parish]]
+|-
+| nowrap="nowrap" | [[Alūksne]] town
+|-
+| nowrap="nowrap" | [[Anna parish]]
+|-
+| nowrap="nowrap" | [[Ilzene parish]]
+|-
+| nowrap="nowrap" | [[Jaunalūksne parish]]
+|-
+| nowrap="nowrap" | [[Jaunanna parish]]
+|-
+| nowrap="nowrap" | [[Jaunlaicene parish]]
+|-
+| nowrap="nowrap" | [[Kalncempji parish]]
+|-
+| nowrap="nowrap" | [[Liepna parish]]
+|-
+| nowrap="nowrap" | [[Maliena parish]]
+|-
+| nowrap="nowrap" | [[Mālupe parish]]
+|-
+| nowrap="nowrap" | [[Mārkalne parish]]
+|-
+| nowrap="nowrap" | [[Pededze parish]]
+|-
+| nowrap="nowrap" | [[Veclaicene parish]]
+|-
+| nowrap="nowrap" | [[Zeltiņi parish]]
+|-
+| nowrap="nowrap" | [[Ziemeri parish]]
+|-
+| rowspan="5" | 8.
+| rowspan="5" | [[Amatas novads]]
+| nowrap="nowrap" | [[Amata parish]]
+|-
+| nowrap="nowrap" | [[Drabeši parish]]
+|-
+| nowrap="nowrap" | [[Nītaure parish]]
+|-
+| nowrap="nowrap" | [[Skujene parish]]
+|-
+| nowrap="nowrap" | [[Zaube parish]]
+|-
+| rowspan="4" | 9.
+| rowspan="4" | [[Apes novads]]
+| nowrap="nowrap" | [[Ape]] town with its countryside territory
+|-
+| nowrap="nowrap" | [[Gaujiena parish]]
+|-
+| nowrap="nowrap" | [[Trapene parish]]
+|-
+| nowrap="nowrap" | [[Vireši parish]]
+|-
+| rowspan="6" | 10.
+| rowspan="6" | [[Auces novads]]
+| [[Auce]] town with its countryside territory
+|-
+| [[Bēne parish]]
+|-
+| [[Īle parish]]
+|-
+| [[Lielauce parish]]
+|-
+| [[Ukri parish]]
+|-
+| [[Vītiņi parish]]
+|-
+| 11.
+| [[Ādažu novads]]
+|
+|-
+| rowspan="2" | 12.
+| rowspan="2" | [[Babītes novads]]
+| [[Sala parish]]
+|-
+| [[Babīte parish]]
+|-
+| 13.
+| [[Baldones novads]]
+|
+|-
+| 14.
+| [[Baltinavas novads]]
+|
+|-
+| rowspan="11" | 15.
+| rowspan="11" | [[Balvu novads]]
+| [[Balvi parish]]
+|-
+| [[Balvi]] town
+|-
+| [[Bērzkalne parish]]
+|-
+| [[Bērzpils parish]]
+|-
+| [[Briežuciems parish]]
+|-
+| [[Krišjāņi parish]]
+|-
+| [[Kubuļi parish]]
+|-
+| [[Lazduleja parish]]
+|-
+| [[Tilža parish]]
+|-
+| [[Vectilža parish]]
+|-
+| [[Vīksna parish]]
+|-
+| rowspan="9" | 16.
+| rowspan="9" | [[Bauskas novads]]
+| [[Bauska]] town
+|-
+| [[Brunava parish]]
+|-
+| [[Ceraukste parish]]
+|-
+| [[Code parish]]
+|-
+| [[Dāviņi parish]]
+|-
+| [[Gailīši parish]]
+|-
+| [[Īslīce parish]]
+|-
+| [[Mežotne parish]]
+|-
+| [[Vecsaule parish]]
+|-
+| rowspan="3" | 17.
+| rowspan="3" | [[Beverīnas novads]]
+| [[Brenguļi parish]]
+|-
+| [[Kauguri parish]]
+|-
+| [[Trikāta parish]]
+|-
+| rowspan="4" | 18.
+| rowspan="4" | [[Brocēnu novads]]
+| [[Brocēni]] town with its countryside territory
+|-
+| [[Blīdene parish]]
+|-
+| [[Gaiķi parish]]
+|-
+| [[Remte parish]]
+|-
+| rowspan="6" | 19.
+| rowspan="6" | [[Burtnieku novads]]
+| [[Burtnieki parish]]
+|-
+| [[Ēvele parish]]
+|-
+| [[Matīši parish]]
+|-
+| [[Rencēni parish]]
+|-
+| [[Valmiera parish]]
+|-
+| [[Vecate parish]]
+|-
+| 20.
+| [[Carnikavas novads]]
+|
+|-
+| nowrap="nowrap" rowspan="2" | 21.
+| nowrap="nowrap" rowspan="2" | [[Cēsu novads]]
+| [[Cēsis]] town
+|-
+| [[Vaive parish]]
+|-
+| 22.
+| [[Cesvaines novads]]
+|
+|-
+| rowspan="5" | 23.
+| rowspan="5" | [[Ciblas novads]]
+| [[Blonti parish]]
+|-
+| [[Cibla parish]]
+|-
+| [[Līdumnieki parish]]
+|-
+| [[Pušmucova parish]]
+|-
+| [[Zvirgzdene parish]]
+|-
+| rowspan="11" | 24.
+| rowspan="11" | [[Dagdas novads]]
+| [[Andrupene parish]]
+|-
+| [[Andzeļi parish]]
+|-
+| [[Asūne parish]]
+|-
+| [[Bērziņi parish]]
+|-
+| [[Dagda]] town
+|-
+| [[Dagda parish]]
+|-
+| [[Ezernieki parish]]
+|-
+| [[Konstantinova parish]]
+|-
+| [[Ķepova parish]]
+|-
+| [[Svariņi parish]]
+|-
+| [[Šķaune parish]]
+|-
+| rowspan="19" | 25.
+| rowspan="19" | [[Daugavpils novads]]
+| nowrap="nowrap" | [[Ambeļi parish]]
+|-
+| nowrap="nowrap" | [[Biķernieki parish]]
+|-
+| nowrap="nowrap" | [[Demene parish]]
+|-
+| nowrap="nowrap" | [[Dubna parish]]
+|-
+| nowrap="nowrap" | [[Kalkūne parish]]
+|-
+| nowrap="nowrap" | [[Kalupe parish]]
+|-
+| nowrap="nowrap" | [[Laucesa parish]]
+|-
+| nowrap="nowrap" | [[Līksna parish]]
+|-
+| nowrap="nowrap" | [[Maļinova parish]]
+|-
+| nowrap="nowrap" | [[Medumi parish]]
+|-
+| nowrap="nowrap" | [[Naujene parish]]
+|-
+| nowrap="nowrap" | [[Nīcgale parish]]
+|-
+| nowrap="nowrap" | [[Saliena parish]]
+|-
+| nowrap="nowrap" | [[Skrudaliena parish]]
+|-
+| nowrap="nowrap" | [[Svente parish]]
+|-
+| nowrap="nowrap" | [[Tabore parish]]
+|-
+| nowrap="nowrap" | [[Vabole parish]]
+|-
+| nowrap="nowrap" | [[Vecsaliena parish]]
+|-
+| nowrap="nowrap" | [[Višķi parish]]
+|-
+| rowspan="11" | 26.
+| rowspan="11" | [[Dobeles novads]]
+| [[Annenieki parish]]
+|-
+| [[Auri parish]]
+|-
+| [[Bērze parish]]
+|-
+| [[Biksti parish]]
+|-
+| [[Dobele parish]]
+|-
+| [[Dobele]] town
+|-
+| [[Jaunbērze parish]]
+|-
+| [[Krimūna parish]]
+|-
+| [[Naudīte parish]]
+|-
+| [[Penkule parish]]
+|-
+| [[Zebrene parish]]
+|-
+| rowspan="2" | 27.
+| rowspan="2" | [[Dundagas novads]]
+| [[Kolka parish]]
+|-
+| [[Dundaga parish]]
+|-
+| rowspan="4" | 28.
+| rowspan="4" | [[Durbes novads]]
+| [[Dunalka parish]]
+|-
+| [[Durbe]] town with its countryside territory
+|-
+| [[Tadaiķi parish]]
+|-
+| [[Vecpils parish]]
+|-
+| rowspan="3" | 29.
+| rowspan="3" | [[Engures novads]]
+| [[Engure parish]]
+|-
+| [[Lapmežciems parish]]
+|-
+| [[Smārde parish]]
+|-
+| rowspan="3" | 30.
+| rowspan="3" | [[Ērgļu novads]]
+| [[Ērgļi parish]]
+|-
+| [[Jumurda parish]]
+|-
+| [[Sausnēja parish]]
+|-
+| 31.
+| [[Garkalnes novads]]
+|
+|-
+| rowspan="5" | 32.
+| rowspan="5" | [[Grobiņas novads]]
+| [[Bārta parish]]
+|-
+| [[Gavieze parish]]
+|-
+| [[Grobiņa parish]]
+|-
+| [[Grobiņa]] town
+|-
+| [[Medze parish]]
+|-
+| rowspan="14" | 33.
+| rowspan="14" | [[Gulbenes novads]]
+| nowrap="nowrap" | [[Beļava parish]]
+|-
+| nowrap="nowrap" | [[Dauksti parish]]
+|-
+| nowrap="nowrap" | [[Druviena parish]]
+|-
+| nowrap="nowrap" | [[Galgauska parish]]
+|-
+| nowrap="nowrap" | [[Gulbene]] town
+|-
+| nowrap="nowrap" | [[Jaungulbene parish]]
+|-
+| nowrap="nowrap" | [[Lejasciems parish]]
+|-
+| nowrap="nowrap" | [[Litene parish]]
+|-
+| nowrap="nowrap" | [[Lizums parish]]
+|-
+| nowrap="nowrap" | [[Līgo parish]]
+|-
+| nowrap="nowrap" | [[Ranka parish]]
+|-
+| nowrap="nowrap" | [[Stāmeriena parish]]
+|-
+| nowrap="nowrap" | [[Stradi parish]]
+|-
+| nowrap="nowrap" | [[Tirza parish]]
+|-
+| 34.
+| [[Iecavas novads]]
+|
+|-
+| 35.
+| [[Ikšķiles novads]]
+|
+|-
+| rowspan="2" | 36.
+| rowspan="2" | [[Inčukalna novads]]
+| [[Inčukalns parish]]
+|-
+| [[Vangaži]] town
+|-
+| rowspan="7" | 37.
+| rowspan="7" | [[Ilūkstes novads]]
+| [[Bebrene parish]]
+|-
+| [[Dviete parish]]
+|-
+| [[Eglaine parish]]
+|-
+| [[Ilūkste]] town
+|-
+| [[Pilskalne parish]]
+|-
+| [[Subate]] town with its countryside territory
+|-
+| [[Šēdere parish]]
+|-
+| rowspan="6" | 38.
+| rowspan="6" | [[Jaunjelgavas novads]]
+| [[Daudzese parish]]
+|-
+| [[Jaunjelgava]] town with its countryside territory
+|-
+| [[Sece parish]]
+|-
+| [[Sērene parish]]
+|-
+| [[Staburags parish]]
+|-
+| [[Sunākste parish]]
+|-
+| rowspan="2" | 39.
+| rowspan="2" | [[Jaunpiebalgas novads]]
+| [[Jaunpiebalga parish]]
+|-
+| [[Zosēni parish]]
+|-
+| rowspan="2" | 40.
+| rowspan="2" | [[Jaunpils novads]]
+| [[Jaunpils parish]]
+|-
+| [[Viesati parish]]
+|-
+| rowspan="7" | 41.
+| rowspan="7" | [[Jēkabpils novads]]
+| [[Ābeļi parish]]
+|-
+| [[Dignāja parish]]
+|-
+| [[Dunava parish]]
+|-
+| [[Kalna parish]]
+|-
+| [[Leimaņi parish]]
+|-
+| [[Rubene parish]]
+|-
+| [[Zasa parish]]
+|-
+| rowspan="13" | 42.
+| rowspan="13" | [[Jelgavas novads]]
+| [[Eleja parish]]
+|-
+| [[Glūda parish]]
+|-
+| [[Jaunsvirlauka parish]]
+|-
+| [[Kalnciems]] town with its countryside territory
+|-
+| [[Lielplatone parish]]
+|-
+| [[Līvbērze parish]]
+|-
+| [[Platone parish]]
+|-
+| [[Sesava parish]]
+|-
+| [[Svēte parish]]
+|-
+| [[Valgunde parish]]
+|-
+| [[Vilce parish]]
+|-
+| [[Vircava parish]]
+|-
+| [[Zaļenieki parish]]
+|-
+| rowspan="7" | 43.
+| rowspan="7" | [[Kandavas novads]]
+| [[Cēre parish]]
+|-
+| [[Kandava parish]]
+|-
+| [[Kandava]] town
+|-
+| [[Matkule parish]]
+|-
+| [[Vāne parish]]
+|-
+| [[Zante parish]]
+|-
+| [[Zemīte parish]]
+|-
+| rowspan="6" | 44.
+| rowspan="6" | [[Kārsavas novads]]
+| [[Goliševa parish]]
+|-
+| [[Kārsava]] town
+|-
+| [[Malnava parish]]
+|-
+| [[Mērdzene parish]]
+|-
+| [[Mežvidi parish]]
+|-
+| [[Salnava parish]]
+|-
+| rowspan="3" | 45.
+| rowspan="3" | [[Kokneses novads]]
+| [[Bebri parish]]
+|-
+| [[Irši parish]]
+|-
+| [[Koknese parish]]
+|-
+| rowspan="12" | 46.
+| rowspan="12" | [[Krāslavas novads]]
+| [[Auleja parish]]
+|-
+| [[Indra parish]]
+|-
+| [[Izvalta parish]]
+|-
+| [[Kalnieši parish]]
+|-
+| [[Kaplava parish]]
+|-
+| [[Krāslava parish]]
+|-
+| [[Kombuļi parish]]
+|-
+| [[Krāslava]] town
+|-
+| [[Piedruja parish]]
+|-
+| [[Robežnieki parish]]
+|-
+| [[Skaista parish]]
+|-
+| [[Ūdrīši parish]]
+|-
+| rowspan="2" | 47.
+| rowspan="2" | [[Krimuldas novads]]
+| [[Krimulda parish]]
+|-
+| [[Lēdurga parish]]
+|-
+| rowspan="6" | 48.
+| rowspan="6" | [[Krustpils novads]]
+| [[Atašiene parish]]
+|-
+| [[Krustpils parish]]
+|-
+| [[Kūkas parish]]
+|-
+| [[Mežāre parish]]
+|-
+| [[Varieši parish]]
+|-
+| [[Vīpe parish]]
+|-
+| rowspan="14" | 49.
+| rowspan="14" | [[Kuldīgas novads]]
+| [[Ēdole parish]]
+|-
+| [[Gudenieki parish]]
+|-
+| [[Īvande parish]]
+|-
+| [[Kabile parish]]
+|-
+| [[Kuldīga]] town
+|-
+| [[Kurmāle parish]]
+|-
+| [[Laidi parish]]
+|-
+| [[Padure parish]]
+|-
+| [[Pelči parish]]
+|-
+| [[Renda parish]]
+|-
+| [[Rumba parish]]
+|-
+| [[Snēpele parish]]
+|-
+| [[Turlava parish]]
+|-
+| [[Vārme parish]]
+|-
+| rowspan="3" | 50.
+| rowspan="3" | [[Ķeguma novads]]
+| [[Ķegums]] town with its countryside territory
+|-
+| [[Rembate parish]]
+|-
+| [[Birzgale parish]]
+|-
+| rowspan="3" | 51.
+| rowspan="3" | [[Ķekavas novads]]
+| [[Baloži]] town
+|-
+| [[Daugmale parish]]
+|-
+| [[Ķekava parish]]
+|-
+| rowspan="3" | 52.
+| rowspan="3" | [[Lielvārdes novads]]
+| [[Jumprava parish]]
+|-
+| [[Lēdmane parish]]
+|-
+| [[Lielvārde]] town with its countryside territory
+|-
+| rowspan="2" | 53.
+| rowspan="2" | [[Līgatnes novads]]
+| [[Līgatne parish]]
+|-
+| [[Līgatne]] town
+|-
+| rowspan="8" | 54.
+| rowspan="8" | [[Limbažu novads]]
+| [[Katvari parish]]
+|-
+| [[Limbaži parish]]
+|-
+| [[Limbaži]] town
+|-
+| [[Pāle parish]]
+|-
+| [[Skulte parish]]
+|-
+| [[Umurga parish]]
+|-
+| [[Vidriži parish]]
+|-
+| [[Viļķene parish]]
+|-
+| rowspan="6" | 55.
+| rowspan="6" | [[Līvānu novads]]
+| [[Jersika parish]]
+|-
+| [[Līvāni]] town
+|-
+| [[Rožupe parish]]
+|-
+| [[Rudzāti parish]]
+|-
+| [[Sutri parish]]
+|-
+| [[Turki parish]]
+|-
+| rowspan="2" | 56.
+| rowspan="2" | [[Lubānas novads]]
+| [[Indrāni parish]]
+|-
+| [[Lubāna]] town
+|-
+| rowspan="10" | 57.
+| rowspan="10" | [[Ludzas novads]]
+| [[Briģi parish]]
+|-
+| [[Cirma parish]]
+|-
+| [[Isnauda parish]]
+|-
+| [[Istra parish]]
+|-
+| [[Ludza]] town
+|-
+| [[Nirza parish]]
+|-
+| [[Ņukši parish]]
+|-
+| [[Pilda parish]]
+|-
+| [[Pureņi parish]]
+|-
+| [[Rundēni parish]]
+|-
+| rowspan="15" | 58.
+| rowspan="15" | [[Madonas novads]]
+| [[Arona parish]]
+|-
+| [[Barkava parish]]
+|-
+| [[Bērzaune parish]]
+|-
+| [[Dzelzava parish]]
+|-
+| [[Kalsnava parish]]
+|-
+| [[Lazdona parish]]
+|-
+| [[Liezēre parish]]
+|-
+| [[Ļaudona parish]]
+|-
+| [[Madona]] town
+|-
+| [[Mārciena parish]]
+|-
+| [[Mētriena parish]]
+|-
+| [[Ošupe parish]]
+|-
+| [[Prauliena parish]]
+|-
+| [[Sarkaņi parish]]
+|-
+| [[Vestiena parish]]
+|-
+| 59.
+| [[Mālpils novads]]
+|
+|-
+| 60.
+| [[Mārupes novads]]
+|
+|-
+| rowspan="4" | 61.
+| rowspan="4" | [[Mazsalacas novads]]
+| [[Mazsalaca]] town with its countryside territory
+|-
+| [[Ramata parish]]
+|-
+| [[Sēļi parish]]
+|-
+| [[Skaņkalne parish]]
+|-
+| rowspan="2" | 62.
+| rowspan="2" | [[Naukšēnu novads]]
+| [[Ķoņi parish]]
+|-
+| [[Naukšēni parish]]
+|-
+| rowspan="4" | 63.
+| rowspan="4" | [[Neretas novads]]
+| [[Mazzalve parish]]
+|-
+| [[Nereta parish]]
+|-
+| [[Pilskalne parish]]
+|-
+| [[Zalve parish]]
+|-
+| rowspan="2" | 64.
+| rowspan="2" | [[Nīcas novads]]
+| [[Nīca parish]]
+|-
+| [[Otaņķi parish]]
+|-
+| rowspan="10" | 65.
+| rowspan="10" | [[Ogres novads]]
+| [[Krape parish]]
+|-
+| [[Ķeipene parish]]
+|-
+| [[Laubere parish]]
+|-
+| [[Madliena parish]]
+|-
+| [[Mazozoli parish]]
+|-
+| [[Meņģele parish]]
+|-
+| [[Ogre]] town
+|-
+| [[Ogresgals parish]]
+|-
+| [[Suntaži parish]]
+|-
+| [[Taurupe parish]]
+|-
+| rowspan="2" | 66.
+| rowspan="2" | [[Olaines novads]]
+| [[Olaine parish]]
+|-
+| [[Olaine]] town
+|-
+| rowspan="3" | 67.
+| rowspan="3" | [[Ozolnieku novads]]
+| [[Ozolnieki parish]]
+|-
+| [[Cena parish]]
+|-
+| [[Sidrabene parish]]
+|-
+| nowrap="nowrap" rowspan="3" | 68.
+| nowrap="nowrap" rowspan="3" | [[Pārgaujas novads]]
+| [[Raiskums parish]]
+|-
+| [[Stalbe parish]]
+|-
+| [[Straupe parish]]
+|-
+| rowspan="3" | 69.
+| rowspan="3" | [[Pāvilostas novads]]
+| [[Vērgale parish]]
+|-
+| [[Pāvilosta]] town
+|-
+| [[Saka parish]]
+|-
+| rowspan="4" | 70.
+| rowspan="4" | [[Pļaviņu novads]]
+| [[Aiviekste parish]]
+|-
+| [[Klintaine parish]]
+|-
+| [[Pļaviņas]] town
+|-
+| [[Vietalva parish]]
+|-
+| rowspan="5" | 71.
+| rowspan="5" | [[Preiļu novads]]
+| [[Aizkalne parish]]
+|-
+| [[Pelēči parish]]
+|-
+| [[Preiļi parish]]
+|-
+| [[Preiļi]] town
+|-
+| [[Sauna parish]]
+|-
+| rowspan="6" | 72.
+| rowspan="6" | [[Priekules novads]]
+| [[Bunka parish]]
+|-
+| [[Virga parish]]
+|-
+| [[Gramzda parish]]
+|-
+| [[Kalēti parish]]
+|-
+| [[Priekule]] town
+|-
+| [[Priekule parish]]
+|-
+| rowspan="4" | 73.
+| rowspan="4" | [[Priekuļu novads]]
+| [[Liepa parish]]
+|-
+| [[Mārsnēni parish]]
+|-
+| [[Priekuļi parish]]
+|-
+| [[Veselava parish]]
+|-
+| nowrap="nowrap" rowspan="2" | 74.
+| nowrap="nowrap" rowspan="2" | [[Raunas novads]]
+| [[Drusti parish]]
+|-
+| [[Rauna parish]]
+|-
+| rowspan="25" | 75.
+| rowspan="25" | [[Rēzeknes novads]]
+| [[Audriņi parish]]
+|-
+| [[Bērzgale parish]]
+|-
+| [[Čornaja parish]]
+|-
+| [[Dricāni  parish]]
+|-
+| [[Feimaņi parish]]
+|-
+| [[Gaigalava parish]]
+|-
+| [[Griškāni parish]]
+|-
+| [[Ilzeskalns parish]]
+|-
+| [[Kantinieki parish]]
+|-
+| [[Kaunata parish]]
+|-
+| [[Lendži parish]]
+|-
+| [[Lūznava parish]]
+|-
+| [[Mākoņkalns parish]]
+|-
+| [[Malta parish]]
+|-
+| [[Nagļi parish]]
+|-
+| [[Nautrēni parish]]
+|-
+| [[Ozolaine parish]]
+|-
+| [[Ozolmuiža parish]]
+|-
+| [[Puša parish]]
+|-
+| [[Rikava parish]]
+|-
+| [[Sakstagals parish]]
+|-
+| [[Silmala parish]]
+|-
+| [[Stoļerova parish]]
+|-
+| [[Strūžāni parish]]
+|-
+| [[Vērēmi parish]]
+|-
+| rowspan="6" | 76.
+| rowspan="6" | [[Riebiņu novads]]
+| [[Galēni parish]]
+|-
+| [[Riebiņi parish]]
+|-
+| [[Rušona parish]]
+|-
+| [[Silajāņi parish]]
+|-
+| [[Sīļukalns parish]]
+|-
+| [[Stabulnieki parish]]
+|-
+| rowspan="2" | 77.
+| rowspan="2" | [[Rojas novads]]
+| [[Mērsrags parish]]
+|-
+| [[Roja parish]]
+|-
+| 78.
+| [[Ropažu novads]]
+|
+|-
+| rowspan="2" | 79.
+| rowspan="2" | [[Rucavas novads]]
+| [[Dunika parish]]
+|-
+| [[Rucava parish]]
+|-
+| rowspan="2" | 80.
+| rowspan="2" | [[Rugāju novads]]
+| [[Lazdukalns parish]]
+|-
+| [[Rugāji parish]]
+|-
+| rowspan="3" | 81.
+| rowspan="3" | [[Rundāles novads]]
+| [[Rundāle parish]]
+|-
+| [[Svitene parish]]
+|-
+| [[Viesturi parish]]
+|-
+| rowspan="5" | 82.
+| rowspan="5" | [[Rūjienas novads]]
+| [[Ipiķi parish]]
+|-
+| [[Jeri parish]]
+|-
+| [[Lode parish]]
+|-
+| [[Rūjiena]] town
+|-
+| [[Vilpulka parish]]
+|-
+| rowspan="3" | 83.
+| rowspan="3" | [[Salacgrīvas novads]]
+| [[Ainaži]] town with its countryside territory
+|-
+| [[Liepupe parish]]
+|-
+| [[Salacgrīva]] town with its countryside territory
+|-
+| rowspan="2" | 84.
+| rowspan="2" | [[Salas novads]]
+| [[Sēlpils parish]]
+|-
+| [[Sala parish]]
+|-
+| 85.
+| [[Salaspils novads]]
+|
+|-
+| rowspan="16" | 86.
+| rowspan="16" | [[Saldus novads]]
+| [[Ezere parish]]
+|-
+| [[Jaunauce parish]]
+|-
+| [[Jaunlutriņi parish]]
+|-
+| [[Kursīši parish]]
+|-
+| [[Lutriņi parish]]
+|-
+| [[Nīgrande parish]]
+|-
+| [[Novadnieki parish]]
+|-
+| [[Pampāļi parish]]
+|-
+| [[Ruba parish]]
+|-
+| [[Saldus parish]]
+|-
+| [[Saldus]] town
+|-
+| [[Šķēde parish]]
+|-
+| [[Vadakste parish]]
+|-
+| [[Zaņa parish]]
+|-
+| [[Zirņi parish]]
+|-
+| [[Zvārde parish]]
+|-
+| 87.
+| [[Saulkrastu novads]]
+|
+|-
+| 88.
+| [[Sējas novads]]
+|
+|-
+| rowspan="4" | 89.
+| rowspan="4" | [[Siguldas novads]]
+| [[Allaži parish]]
+|-
+| [[More parish]]
+|-
+| [[Sigulda parish]]
+|-
+| [[Sigulda]] town
+|-
+| 90.
+| [[Skrīveru novads]]
+|
+|-
+| rowspan="4" | 91.
+| rowspan="4" | [[Skrundas novads]]
+| [[Nīkrāce parish]]
+|-
+| [[Raņķi parish]]
+|-
+| [[Rudbārži parish]]
+|-
+| [[Skrunda]] town with its countryside territory
+|-
+| rowspan="9" | 92.
+| rowspan="9" | [[Smiltenes novads]]
+| [[Bilska parish]]
+|-
+| [[Blome parish]]
+|-
+| [[Branti parish]]
+|-
+| [[Grundzāle parish]]
+|-
+| [[Launkalne parish]]
+|-
+| [[Palsmane parish]]
+|-
+| [[Smiltene parish]]
+|-
+| [[Smiltene]] town
+|-
+| [[Variņi parish]]
+|-
+| 93.
+| [[Stopiņu novads]]
+|
+|-
+| rowspan="4" | 94.
+| rowspan="4" | [[Strenču novads]]
+| [[Jērcēni parish]]
+|-
+| [[Plāņi parish]]
+|-
+| [[Seda]] town with its countryside territory
+|-
+| [[Strenči]] town
+|-
+| rowspan="17" | 95.
+| rowspan="17" | [[Talsu novads]]
+| [[Abava parish]]
+|-
+| [[Balgale parish]]
+|-
+| [[Ģibuļi parish]]
+|-
+| [[Īve parish]]
+|-
+| [[Ķūļciems parish]]
+|-
+| [[Laidze parish]]
+|-
+| [[Lauciene parish]]
+|-
+| [[Lībagi parish]]
+|-
+| [[Lube parish]]
+|-
+| [[Sabile]] town
+|-
+| [[Stende]] town
+|-
+| [[Strazde parish]]
+|-
+| [[Talsi]] town
+|-
+| [[Valdemārpils]] town with its countryside territory
+|-
+| [[Valdgale parish]]
+|-
+| [[Vandzene parish]]
+|-
+| [[Virbi parish]]
+|-
+| rowspan="3" | 96.
+| rowspan="3" | [[Tērvetes novads]]
+| [[Augstkalne parish]]
+|-
+| [[Bukaiši parish]]
+|-
+| [[Tērvete parish]]
+|-
+| rowspan="11" | 97.
+| rowspan="11" | [[Tukuma novads]]
+| [[Degole parish]]
+|-
+| [[Džūkste parish]]
+|-
+| [[Irlava parish]]
+|-
+| [[Jaunsāti parish]]
+|-
+| [[Lestene parish]]
+|-
+| [[Pūre parish]]
+|-
+| [[Sēme parish]]
+|-
+| [[Slampe parish]]
+|-
+| [[Tukums]] town
+|-
+| [[Tume parish]]
+|-
+| [[Zentene parish]]
+|-
+| nowrap="nowrap" rowspan="2" | 98.
+| rowspan="2" | [[Vaiņodes novads]]
+| [[Embūte parish]]
+|-
+| [[Vaiņode parish]]
+|-
+| rowspan="6" | 99.
+| rowspan="6" | [[Valkas novads]]
+| [[Ērģeme parish]]
+|-
+| [[Kārķi parish]]
+|-
+| [[Valka parish]]
+|-
+| [[Valka]] town
+|-
+| [[Vijciems parish]]
+|-
+| [[Zvārtava parish]]
+|-
+| rowspan="5" | 100.
+| rowspan="5" | [[Valmieras novads]]
+| [[Bērzaine parish]]
+|-
+| [[Dikļi parish]]
+|-
+| [[Kocēni parish]]
+|-
+| [[Vaidava parish]]
+|-
+| [[Zilākalns parish]]
+|-
+| rowspan="3" | 101.
+| rowspan="3" | [[Varakļānu novads]]
+| [[Murmastiene parish]]
+|-
+| [[Varakļāni  parish]]
+|-
+| [[Varakļāni]] town
+|-
+| rowspan="3" | 102.
+| rowspan="3" | [[Vārkavas novads]]
+| [[Rožkalni parish]]
+|-
+| [[Upmala parish]]
+|-
+| [[Vārkava parish]]
+|-
+| rowspan="5" | 103.
+| rowspan="5" | [[Vecpiebalgas novads]]
+| [[Dzērbene parish]]
+|-
+| [[Ineši parish]]
+|-
+| [[Kaive parish]]
+|-
+| [[Taurene parish]]
+|-
+| [[Vecpiebalga parish]]
+|-
+| rowspan="6" | 104.
+| rowspan="6" | [[Vecumnieku novads]]
+| [[Bārbele parish]]
+|-
+| [[Kurmene parish]]
+|-
+| [[Skaistkalne parish]]
+|-
+| [[Stelpe parish]]
+|-
+| [[Valle parish]]
+|-
+| [[Vecumnieki parish]]
+|-
+| rowspan="12" | 105.
+| rowspan="12" | [[Ventspils novads]]
+| [[Ance parish]]
+|-
+| [[Jūrkalne parish]]
+|-
+| [[Piltene]] town with its countryside territory
+|-
+| [[Pope parish]]
+|-
+| [[Puze parish]]
+|-
+| [[Tārgale parish]]
+|-
+| [[Ugāle parish]]
+|-
+| [[Usma parish]]
+|-
+| [[Užava parish]]
+|-
+| [[Vārve parish]]
+|-
+| [[Ziras parish]]
+|-
+| [[Zlēkas parish]]
+|-
+| rowspan="4" | 106.
+| rowspan="4" | [[Viesītes novads]]
+| [[Elkšņi parish]]
+|-
+| [[Rite parish]]
+|-
+| [[Sauka parish]]
+|-
+| [[Viesīte]] town with its countryside territory
+|-
+| rowspan="7" | 107.
+| rowspan="7" | [[Viļakas novads]]
+| [[Kuprava parish]]
+|-
+| [[Medņeva parish]]
+|-
+| [[Susāji parish]]
+|-
+| [[Šķilbēni parish]]
+|-
+| [[Vecumi parish]]
+|-
+| [[Viļaka]] town
+|-
+| [[Žīguri parish]]
+|-
+| rowspan="4" | 108.
+| rowspan="4" | [[Viļānu novads]]
+| [[Dekšāres parish]]
+|-
+| [[Sokolki parish]]
+|-
+| [[Viļāni parish]]
+|-
+| [[Viļāni]] town
+|-
+| rowspan="4" | 109.
+| rowspan="4" | [[Zilupes novads]]
+| [[Lauderi parish]]
+|-
+| [[Pasiene parish]]
+|-
+| [[Zaļesje parish]]
+|-
+| [[Zilupe]] town
+|}
+
+==See also==
+*[[Administrative divisions of Latvia (pre-2009)]]
+*[[Districts of Latvia]]
+*[[Historical regions of Latvia]]
+*[[Planning regions of Latvia]]
+
+==References==
+* [http://www.saeima.lv/saeima9/lasa?dd=LP0684_3 Administratīvo teritoriju un apdzīvoto vietu likums (reģ. nr.684/Lp9) (The Law about Administrative Territories and Settlements)]
+
+==External links==
+* [http://web.cvk.lv/pub/public/29275.html Population in ''novads'']
+* [http://www.raplm.gov.lv/pub/index.php?id=38 The Ministry of Regional Development and Municipalities of Latvia]
+
+{{Articles on first-level administrative divisions of European countries}}
+{{Latvian municipalities 2009}}
+
+[[Category:Subdivisions of Latvia| ]]
+[[Category:Country subdivisions of Europe|Latvia]]
+
+[[da:Administrativ inddeling af Letland]]
+[[es:Organización territorial de Letonia]]
+[[it:Suddivisioni della Lettonia]]
+[[lv:Latvijas administratīvais iedalījums]]
+[[lt:Latvijos administracinis suskirstymas]]
+[[hu:Lettország közigazgatása]]
+[[nl:Bestuurlijke indeling van Letland (2009)]]

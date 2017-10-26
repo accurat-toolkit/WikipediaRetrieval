@@ -1,0 +1,77 @@
+{{Info zvaigznājs
+| name = Cirkulis
+| abbreviation = Cir
+| name_latin = Circinus
+| RA = 15
+| dec = −60
+| areatotal = 93
+| arearank = 85. vieta
+| numbermainstars = 3
+| numberstarsplanets = 0
+| numberbrightstars = 0
+| numbernearbystars = 0
+| brighteststarname = ''α Cir''
+| starmagnitude = 3,2
+| neareststarname = ''α Cir''
+| stardistance = 53,5
+| numbermessierobjects = 0
+| meteorshowers = 
+| bordering = [[Centaurs (zvaigznājs)|Centaurs]]<br />[[Muša (zvaigznājs)|Muša]]<br />[[Paradīzes Putns]]<br />[[Dienvidu Trīsstūris]]<br />[[Leņķmērs (zvaigznājs)|Leņķmērs]]<br />[[Vilks (zvaigznājs)|Vilks]]<br />
+| r_latvija = nav novērojams
+| latmax = 10
+| latmin = 90
+}}
+
+'''Cirkuļa''' zvaigznājs savu nosaukumu ieguva 18. gadsimtā, kad tam vārdu deva Nikolas Lakals. Atšķirībā no senatnē zināmajiem zvaigznājiem, kam tika doti mitoloģiski nosaukumi, šiem zvaigznājiem tika doti zinātnieku izmantoto instrumentu nosaukumi. Tas ir arī viens no mazākajiem zvaigznājiem vispār.
+
+{{Zvaigznāji}}
+{{Astro-aizmetnis}}
+
+[[Kategorija:Zvaigznāji]]
+
+[[ar:البيكار (كوكبة)]]
+[[be:Сузор'е Цыркуль]]
+[[bg:Пергел (съзвездие)]]
+[[bn:বৃত্ত মণ্ডল]]
+[[ca:Constel·lació del Compàs]]
+[[co:Circinus]]
+[[cs:Souhvězdí Kružítka]]
+[[da:Passeren]]
+[[de:Zirkel (Sternbild)]]
+[[el:Διαβήτης (αστερισμός)]]
+[[en:Circinus]]
+[[eo:Cirkelo (konstelacio)]]
+[[es:Circinus]]
+[[fa:دوپرگار]]
+[[fi:Harppi (tähdistö)]]
+[[fr:Compas (constellation)]]
+[[gl:Circinus]]
+[[he:מחוגה (קבוצת כוכבים)]]
+[[hr:Šestar (zviježđe)]]
+[[hu:Körző csillagkép]]
+[[hy:Կարկին (համաստեղություն)]]
+[[it:Compasso (costellazione)]]
+[[ja:コンパス座]]
+[[ko:컴퍼스자리]]
+[[la:Circinus (sidus)]]
+[[lb:Circinus (Stärebild)]]
+[[lt:Skriestuvas (žvaigždynas)]]
+[[ml:ചുരുളൻ]]
+[[nl:Passer (sterrenbeeld)]]
+[[nn:Passaren]]
+[[no:Passeren]]
+[[pl:Gwiazdozbiór Cyrkla]]
+[[pt:Circinus]]
+[[ro:Compasul (constelaţie)]]
+[[ru:Циркуль (созвездие)]]
+[[sah:Циркуль (сулустар бөлөхтөрө)]]
+[[sh:Šestar (sazviježđe)]]
+[[sk:Súhvezdie Kružidlo]]
+[[sv:Cirkelpassaren]]
+[[th:กลุ่มดาววงเวียน]]
+[[tr:Circinus (takımyıldız)]]
+[[uk:Циркуль (сузір'я)]]
+[[ur:پرکار (مجمع النجوم)]]
+[[vi:Viên Quy]]
+[[zh:圆规座]]
+[[zh-yue:圓規座]]

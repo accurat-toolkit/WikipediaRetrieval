@@ -1,0 +1,27 @@
+{{viela
+|attēls=[[Attēls:Akonitskabe.png|170px]]<br>Akonītskābes struktūrformula
+|ķīmiskā formula=C<sub>6</sub>H<sub>6</sub>O<sub>6</sub>
+|molmasa=174,12
+|blīvums=?
+|kušanas temperatūra=191 - 195°C (sadalās)
+|viršanas temperatūra=sadalās
+}}
+'''Akonītskābe''' (''cis''-1,2,3-propēntrikarbonskābe, HOOC&minus;CH=C(COOH)&minus;CH<sub>2</sub>&minus;СООН) ir vienkāršākā nepiesātinātā trīsvērtīgā [[karbonskābe]]. Akonītskābe kristalizējas no ūdens kā bezkrāsaini adatveida vai plāksnīšveida kristāli. Akonītskābes sāļus un esterus sauc par '''akonitātiem'''.
+
+==Atrašanās dabā==
+Akonītskābe atklāta [[gundegu dzimta]]s [[kurpīte|kurpīšu]] ģints augos, no tā cēlies akonītskābes nosaukums ({{Val-la|aconitum}} - kurpīte). Akonītskābes [[jons]] (akonitāts) ir bioķīmiskā [[trikarbonskābju cikls|trikarbonskābju cikla]] sastāvdaļa.
+
+==Iegūšana==
+Var iegūt, uzmanīgi karsējot [[citronskābe|citronskābi]].
+
+{{Nepiesātinātās karbonskābes 2}}
+
+[[Kategorija:Karbonskābes]]
+
+[[de:Aconitsäure]]
+[[en:Aconitic acid]]
+[[es:Ácido aconítico]]
+[[hu:Akonitát]]
+[[ja:アコニット酸]]
+[[pt:Aconitato (substrato)]]
+[[ro:Acid aconitic]]

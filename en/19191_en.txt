@@ -1,0 +1,133 @@
+{{otherusesof}}
+{{wiktionarypar2|M|m}}
+{{Latin alphabet navbox|uc=M|lc=m}}
+'''M''' is the thirteenth letter of the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈɛm}}) is spelled '''em'''.<ref>"M" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "em," op. cit.</ref>
+
+==History==
+The letter '''M''' derives its shape from the [[Phoenician alphabet|Phoenician]] [[Mem]], via the [[Greek alphabet|Greek]] [[Mu (letter)|Mu]] (Μ, μ). Semitic Mem probably originally pictured [[water]].  It is known that Semitic people working in Egypt c. 2000 BC borrowed a hieroglyph for "water" that was first used for an [[alveolar nasal]] ({{IPA|/n/}}, because of the Egyptian word for water, "n-t". This same symbol became used for M in Semitic, because their word for water began with that sound.
+{| border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;text-align:center;"
+|-  bgcolor="#EEEEEE"
+! Egyptian hieroglyph "N"
+! Proto-Semitic M
+! Phoenician <br/>''[[mem]]''
+! Etruscan M
+! Greek <br/>''[[mu (letter)|mu]]''
+! Roman M
+|-----
+|<hiero>n</hiero>
+|[[Image:Proto-semiticM-01.png]]
+|[[Image:PhoenicianM-01.png]]
+|[[Image:EtruscanM-01.svg|64px]]
+|[[Image:Mu uc lc.svg|64px]]
+|[[Image:RomanM-01.png|Roman M]]
+|}
+
+The letter M represents the [[bilabial consonant]] sound, {{IPA2|m}}, in Classical languages as well as the modern [[language]]s. The [[Oxford English Dictionary]] (first edition) says that 'm' is sometimes a [[vowel]] in words like ''spasm'' and in the [[suffix]] ''-ism''. In modern terminology, this would be described as a [[syllabic consonant]] &mdash; IPA {{IPA|[m̩]}}.
+
+==Codes for computing==
+{{Letter
+|NATO=Mike
+|Morse=––
+|Character=M
+|Braille=⠍
+}}
+In [[Unicode]] the [[capital letter|capital]] M is codepoint U+004D and the [[lower case]] m is U+006D.
+
+The [[ASCII]] code for capital M is 77 and for lowercase m is 109; or in [[Binary numeral system|binary]] 01001101 and 01101101, correspondingly.
+
+The [[EBCDIC]] code for capital M is 212 and for lowercase m is 148.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#77;</tt>" and "<tt>&amp;#109;</tt>" for upper and lower case respectively.
+
+==See also==
+{{Commons|M}}
+*[[Em (Cyrillic)|М, м - Em (Cyrillic)]]
+*[[Mu (letter)|Μ, μ - Mu (Greek)]]
+
+==References==
+{{reflist}}
+
+{{Latin alphabet|M|}}
+
+[[Category:Latin letters]]
+
+[[af:M]]
+[[als:M]]
+[[ar:M]]
+[[arc:M]]
+[[ast:M]]
+[[az:M]]
+[[zh-min-nan:M]]
+[[bs:M]]
+[[br:M (lizherenn)]]
+[[bg:M]]
+[[ca:M]]
+[[cs:M]]
+[[co:M]]
+[[cy:M]]
+[[da:M]]
+[[de:M]]
+[[et:M]]
+[[el:M]]
+[[es:M]]
+[[eo:M]]
+[[eu:M]]
+[[fa:M]]
+[[fr:M (lettre)]]
+[[fy:M]]
+[[fur:M]]
+[[gv:Malpys (lettyr)]]
+[[gd:M]]
+[[gl:M]]
+[[gan:M]]
+[[ko:M]]
+[[hr:M]]
+[[ilo:M]]
+[[is:M]]
+[[it:M]]
+[[he:M]]
+[[ka:M]]
+[[kw:M]]
+[[sw:M]]
+[[ht:M]]
+[[la:M]]
+[[lv:M]]
+[[lb:M]]
+[[lt:M]]
+[[hu:M]]
+[[mk:M (Латиница)]]
+[[mzn:M]]
+[[ms:M]]
+[[nah:M]]
+[[nl:M (letter)]]
+[[ja:M]]
+[[no:M (bokstav)]]
+[[nn:M]]
+[[nrm:M]]
+[[uz:M (harf)]]
+[[pl:M]]
+[[pt:M]]
+[[ro:M]]
+[[qu:M]]
+[[ru:M (латиница)]]
+[[se:M]]
+[[stq:M]]
+[[scn:M]]
+[[simple:M]]
+[[sk:M]]
+[[sl:M]]
+[[sr:M (слово латинице)]]
+[[fi:M]]
+[[sv:M]]
+[[tl:M]]
+[[th:M]]
+[[tr:M (harf)]]
+[[uk:M (латиниця)]]
+[[vec:M]]
+[[vi:M]]
+[[vo:M]]
+[[yi:M]]
+[[yo:M]]
+[[zh-yue:M]]
+[[bat-smg:M]]
+[[zh:M]]

@@ -1,0 +1,75 @@
+{{Infobox Settlement
+| name = Czeladź
+| image_skyline = Kościół w Czeladzi.jpg
+| image_caption = Church in the town
+| image_flag = POL Czeladź flag.svg
+| image_shield = POL Czeladź COA (new).svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Country
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[File:Slaskie flag.svg|22px]] [[Silesian Voivodeship|Silesian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Będzin County|Będzin]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = Czeladź <small>(urban gmina)</small>
+| leader_title = Mayor
+| leader_name = Marek Mrozowski
+| area_total_km2 = 16.38
+| population_as_of = 2008
+| population_total = 34072
+| population_density_km2 = auto
+| population_urban       = 2746000
+| population_metro       = 5294000
+| timezone = [[Central European Time|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 50 | latm = 20 | lats =  | latNS = N | longd = 19 | longm = 5 | longs =  | longEW = E
+| postal_code_type = Postal code
+| postal_code = 41-250
+| blank_name = [[Polish car number plates|Car plates]]
+| blank_info = SBE
+| website = http://www.czeladz.pl }}
+
+'''Czeladź''' {{IPAr|pl|'|cz|e|l|a|ć}} is a [[town]] in [[Zagłębie Dąbrowskie]] in southern [[Poland]], near [[Katowice]]. Borders on the [[Upper Silesian Metropolitan Union]] - metropolis with the population of 2 millions. Located in the [[Silesian Highlands]], on the [[Brynica]] river (tributary of the [[Vistula River|Vistula]]).
+
+It is situated in the [[Silesian Voivodeship]] since its formation in 1999, previously it was in [[Katowice Voivodeship]]. Czeladź is one of the cities of the 2,7 million conurbation - [[Katowice urban area]] and within a greater [[Silesian metropolitan area]] populated by about 5,294,000 people<ref>[[European Spatial Planning Observation Network]] (ESPON) [http://www.espon.eu/mmp/online/website/content/projects/261/420/index_EN.html]</ref>. The population of the town is 34,072 (2008)<ref>[http://www.stat.gov.pl/gus/45_908_PLK_HTML.htm ''Powierzchnia i ludność w przekroju terytorialnym w 2008''] - [[Central Statistical Office (Poland)|Central Statistical Office in Poland]] ISSN 1505-5507 , 13.08.2008</ref>.
+
+Founded in the XIII century, Czeladz was granted city status in [[1262]]. In the years 1434 - 1790, it belonged to the [[Duchy of Siewierz]]. In the XIX century, Czeladz became an important mining center, with the ''Saturn'' coal mine opened there in late XIX century. It also was a main center of Jewish culture, destroyed in the [[Holocaust]].
+
+==Famous people from Czeladź==
+* [[Czesław Słania]], postage stamp engraver
+* [[Abraham Nahum Stencl]] ''(Avrom-Nokhem Shtentsl)'', [[Ashkenazi]] poet
+
+== References ==
+{{reflist}}
+
+{{coord|50|19|N|19|04|E|display=title}}
+{{Będzin County}}
+
+{{DEFAULTSORT:Czeladz}}
+[[Category:Czeladź|*]]
+[[Category:Cities and towns in Silesian Voivodeship]]
+[[Category:Będzin County]]
+
+
+{{Silesian-geo-stub}}
+
+[[de:Czeladź]]
+[[eo:Czeladź]]
+[[fr:Czeladź]]
+[[hsb:Czeladź]]
+[[it:Czeladź]]
+[[jv:Czeladź]]
+[[lv:Čeladza]]
+[[nl:Czeladź]]
+[[ja:チェラチ]]
+[[pl:Czeladź]]
+[[pt:Czeladź]]
+[[ro:Czeladź]]
+[[ru:Челядзь]]
+[[sk:Czeladź]]
+[[szl:Čeladź]]
+[[uk:Челядзь]]

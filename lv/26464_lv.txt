@@ -1,0 +1,57 @@
+{{Info BioTakso
+| attēls =Tortula ruralis1.jpg
+| att_nosaukums ={{TaksoSaite|Tortula ruralis|Noras vijzobe}}
+| valsts =Plantae
+| valsts_lv =Augi
+| apakšvalsts =Bryophyte
+| apakšvalsts_lv =Pirmsvasas augi
+| iedalījums=
+* {{TaksoSaite|Anthocerotophyta|Antoceroti}}
+* {{TaksoSaite|Bryophyta|Lapu sūnas}}
+* {{TaksoSaite|Hepatophyta|Aknu sūnas}}
+}}
+'''Pirmsvasas augi''' jeb '''sūnaugi (Bryophyte)''' ir primitīvāko [[augi|augu]] apakšvalsts (bieži tiek uzskatīts par nodalījumu). Salīdzinot ar citiem augiem, tā ir savrupa augu grupa. Sūnaugus pēta [[botānika]]s nozare [[brioloģija]].
+ 
+
+== Raksturojums ==
+Sūnaugiem raksturīga paaudžu maiņa. No [[spora]]s izveidojas [[dzimumpaaudze]], tā saucamais [[gametofīts]], uz kura attīstās [[reprodukcijas orgāni]] - [[gametangiji]] ar [[dzimumšūnas|dzimumšūnām]] - [[gametas|gametām]]. Pēc apaugļošanās sievišķajā dzimumorgānā - [[arhegonijs|arhegonijā]] izveidojas [[zigota]], no kuras attīstās [[bezdzimumpaaudze]] — [[sporofīts]]. Sporofīta [[sporu vācelīte|sporu vācelītē]] attīstās [[sporas]]. Sporofīts visu dzīves laiku aug uz gametofīta, izmantojot tā uzņemtās [[barības vielas]]. Dominējošā paaudze ir gametofīts. Gametofīts var būt nediferencējies [[laponis]] (taloms) vai arī diferencējies [[stumbrs|stumbrā]] un [[lapas|lapās]]. [[Saknes|Sakņu]] sūnaugiem nav. Tās aizstāj [[rizoīdi]], ar kuriem augs nostiprinās substrātā, uzņem no tā [[ūdens|ūdeni]] un barības vielas. Rizoīdi saista arī atsevišķus stumbrus velēnā, kas veicina [[atmosfēra]]s putekļu un nokrišņu uzkrāšanos, kā arī to izmantošanu. Ūdeni sūnaugi uzņem galvenokārt ar lapām. [[Sfagni]] uzņem ūdeni un barības vielas tikai ar lapu un stumbra [[hialoderms|hialodermu]], jo tiem rizoīdi ir tikai attīstības sākumā un ļoti ātri atmirst reizē ar stumbra apakšdaļu. Atšķirībā no citu augstāko [[sporaugi|sporaugu]] un [[ziedaugi|ziedaugu]] lapām, kas attīstās uz sporofīta, sūnām lapas attīstās uz gametofīta. Tomēr lapu fizioloģiskā nozīme ir līdzīga — tās ir [[asimilācijas orgāni]], kā arī [[aizsargorgāni]] stumbra augšanas punktam un [[reprodukcijas orgāni]]em. Bez tam, kā jau minēts, tās uzņem arī ūdeni ar ūdenī izšķīdušajām [[minerālvielas|minerālvielām]].
+
+
+== Sistemātika ==
+
+Pasaulē ir zināmas 22000 – 27000 sūnaugu sugu (ap 1000 ģinšu), kuras iedala iedala 3 nodalījumos vai arī klasēs (reizēm četrās). [[Latvija|Latvijā]] ir konstatētas 485 sugas, no tām 203 sugas ir [[Aizsargājamie augi|aizsargājamas]].
+
+'''Apakšvalsts''' {{TaksoSaite|Bryophytes|Pirmsvasas augi}}
+*nodalījums {{TaksoSaite|Anthocerotophyta|Antoceroti}}
+*nodalījums {{TaksoSaite|Bryophyta|Lapu sūnas}}
+*nodalījums {{TaksoSaite|Hepatophyta|Aknu sūnas}}
+
+[[Category: Augi]]
+
+[[az:Şibyələr]]
+[[cs:Mechorosty]]
+[[de:Moose]]
+[[en:Bryophyte]]
+[[eo:Briofito]]
+[[es:Bryophyta sensu lato]]
+[[et:Sammaltaimed]]
+[[fi:Sammalet]]
+[[fr:Bryophyte]]
+[[ga:Bryophyta]]
+[[gl:Briófita]]
+[[he:טחבים]]
+[[hu:Mohák]]
+[[it:Briofite]]
+[[ja:コケ植物]]
+[[lb:Moosplanzen]]
+[[nn:Mose]]
+[[no:Moser]]
+[[pl:Mszaki]]
+[[pt:Bryophyta sensu lato]]
+[[ru:Мохообразные]]
+[[simple:Bryophyte]]
+[[sk:Machorasty]]
+[[sv:Mossor]]
+[[th:พืชไม่มีท่อลำเลียง]]
+[[uk:Мохоподібні]]
+[[zh:苔藓植物]]

@@ -1,0 +1,71 @@
+{{Info zinātnieks
+| vārds_orig =Eric Hobsbawm
+| attēls =
+| att_izmērs =
+| att_nosaukums = 
+| dz_gads =1917
+| dz_mēnesis =6
+| dz_diena =9
+| dz_vieta =[[Aleksandrija]], [[Image:Egypt flag 1882.svg|20px]] [[Ēģipte]]
+| m_gads =
+| m_mēnesis=
+| m_diena=
+| m_vieta =
+| pilsonība ={{GBR}}
+| tautība =[[ebreji|ebrejs]]
+| darba_vietas =[[Kembridžas universitāte]]<br>[[Stenforda universitāte]]<br>[[Jaunā skola]] (The New School)<br>[[Londonas universitāte]]
+| alma_mater =[[Kembridžas universitāte]]
+| zinātne =[[vēsture]]
+| pasniedzēji =
+| studenti =
+| sasniegumi =
+| apbalvojumi =
+| paraksts =
+| piezīmes = 
+}}
+
+'''Ēriks Džons Ernests Hobsbaums''' ({{val|en|Eric John Ernest Hobsbawm}}; dzimis {{dat|1917|06|09}}) - [[ebreji|ebreju]] izcelsmes [[Lielbritānija|britu]] [[marksisms|marksistiskais]] vēsturnieks.
+
+Dzimis [[Aleksandrija|Aleksandrijā]], bērnību pavadīja [[Berlīne|Berlīnē]] un [[Vīne|Vīnē]]. Kaut arī ģimene uzturējās vāciski runājošās valstīs, tās iekšējā sarunvaloda bija angļu. 14 gadu vecumā kļuva par bāreni un 1933. gadā pārcēlās uz [[Londona|Londonu]]. Studēja [[Kembridžas universitāte|Kembridžas universitātē]], kur ieguva doktora grādu un darbojās [[Kembridžas apustuļi|Kembridžas apustuļos]].
+
+1936. gadā iestājās [[Lielbritānijas Komunistiskā partija|Lielbritānijas Komunistiskajā partijā]], un no 1946. līdz 1956. gadam bija [[Komunistiskās partijas vēsturnieku grupa]]s sastāvā. Pēc [[PSRS iebrukums Ungārijā|PSRS iebrukuma Ungārijā]] grupa izjuka, vairums vēsturnieku izstājās no Komunistiskās partijas, tomēr Hobsbaums palika tās sastāvā. Ērika Hobsbauma dēls Endijs Hobsbaums ir viens no interneta uzņēmējdarbības pamatlicējiem.
+
+Hobsbauma pazīstamākie darbi ir triloģija par paša radīto terminu - [[Garais XIX gadsimts|Garo XIX gadsimtu]] (laiku no 1789. līdz 1914. gadam) -  ''The Age of Revolution: Europe 1789-1848'' (1962), ''The Age of Capital: 1848-1875'' (1975) un ''The Age of Empire: 1875-1914'' (1987), kā arī par [[Īsais XX gadsimts|Īso XX gadsimtu]] (laiku no 1914. līdz 1991. gadam) - ''The Age of Extremes: the short Twentieth Century, 1914-1991'' (1994).
+
+
+
+{{Cilv-aizmetnis}}
+
+{{DEFAULTSORT:Hobsbaums, Ezriks}}
+
+[[Kategorija:Vēsturnieki]]
+
+[[ca:Eric Hobsbawm]]
+[[da:Eric Hobsbawm]]
+[[de:Eric Hobsbawm]]
+[[en:Eric Hobsbawm]]
+[[eo:Eric Hobsbawm]]
+[[es:Eric Hobsbawm]]
+[[et:Eric Hobsbawm]]
+[[eu:Eric Hobsbawm]]
+[[fa:اریک هابسبام]]
+[[fi:Eric Hobsbawm]]
+[[fr:Eric Hobsbawm]]
+[[he:אריק הובסבאום]]
+[[hr:Eric Hobsbawm]]
+[[io:Eric John Hobsbawm]]
+[[it:Eric Hobsbawm]]
+[[ja:エリック・ホブズボーム]]
+[[ko:에릭 홉스봄]]
+[[la:Ericus Hobsbawm]]
+[[nl:Eric Hobsbawm]]
+[[nn:Eric Hobsbawm]]
+[[no:Eric Hobsbawm]]
+[[pl:Eric John Ernest Hobsbawm]]
+[[pt:Eric Hobsbawm]]
+[[ru:Хобсбаум, Эрик Джон Эрнест]]
+[[sv:Eric Hobsbawm]]
+[[tr:Eric Hobsbawm]]
+[[uk:Ерик Гобсбаум]]
+[[vi:Eric Hobsbawm]]
+[[zh:艾瑞克·霍布斯邦]]

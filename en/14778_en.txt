@@ -1,0 +1,141 @@
+{{wiktionarypar2|I}}
+{{For|the first-person singular personal pronoun|I (pronoun)}}
+{{For|the vowel represented by the IPA symbol [i]|Close front unrounded vowel}}
+{{For|the Imaginary Unit in Mathematics|Imaginary unit}}
+{{otherusesof}}
+{{dablink|Due to technical restrictions, [[ı]], the lowercase [[Dotted and dotless I|dotless i]], redirects here.}}
+{{Latin alphabet navbox|uc=I|lc=i}} 
+
+'''I''' is the ninth [[Letter (alphabet)|letter]] of the [[basic modern Latin alphabet]]. Its [[English language|English]] name ({{pron-en|ˈaɪ}}) is spelled '''i'''<!--Yes, it is spelled "i" in the OED and other dictionaries-->; the plural, ''ies'', is rare.<ref>Brown & Kiddle (1870) ''The institutes of English grammar,'' p 19. <br>''Ies'' is the plural of the name of the letter; the plural of the letter itself is I's, ''I''s, i's, or ''i''s.</ref>
+
+==History==
+{| class="wikitable"
+|- bgcolor="#EEEEEE"
+! Egyptian hieroglyph {{unicode|ˁ}}
+! Proto-Semitic Y
+! Phoenician <br/>''[[yodh]]''
+! Etruscan I
+! Greek <br/>''[[Iota]]''
+|-----
+|<hiero>D36</hiero>
+|[[Image:Proto-semiticI-02.png]]
+|[[Image:PhoenicianI-01.png]]
+|[[Image:EtruscanI-01.png]]
+|[[Image:Iota uc lc.svg|75px]]
+|}
+
+In [[Semitic]], the letter ''Yôdh'' was probably originally a [[pictogram]] for an arm with hand, derived from a similar [[Egyptian hieroglyphs|hieroglyph]] that had the value of a [[voiced pharyngeal fricative]] ({{IPA|/ʕ/}}) in [[Egyptian language|Egyptian]], but was reassigned to {{IPA|/j/}} (as in English "'''y'''es") by Semites, because their word for "arm" began with that sound. This letter could also be used for the [[vowel]] sound {{IPA|/i/}}, the [[close front unrounded vowel]], mainly in foreign words.
+
+The Greeks adopted a form of this [[Phoenician alphabet|Phoenician]] ''yodh'' as their letter ''[[iota]]'' (Ι, ι). It stood for the vowel {{IPA|/i/}}, the same as in the [[Old Italic alphabet]]. In Latin (as in Modern Greek), it was also used for the consonant sound of {{IPA|/j/}}. The modern letter [[J]] was originally a variation of this letter, and both were interchangeably used for both the vowel and the consonant, coming to be differentiated only in the 16th century.
+
+In modern English, I represents different sounds, mainly a "long" diphthong {{IPA|/aɪ/}}, which developed from Middle English {{IPA|/iː/}} after the [[Great Vowel Shift]] of the 15th century, as well as the "short", open {{IPA|/ɪ/}} as in "bill". The dot over the lowercase 'i' is sometimes called a ''[[tittle]]''. In the [[Turkish alphabet]], [[dotted and dotless I]] are considered separate letters and both have uppercase (I, [[Dotted and dotless I|İ]]) and lowercase (ı, i) forms. Dotted İi denotes the normal {{IPA|/i/}} sound as in most other languages, while dotless Iı denotes a [[close back unrounded vowel]] ({{IPA|/ɯ/}}).
+
+==Codes for computing==
+{{Letter
+|NATO=India
+|Morse=··
+|Character=I9
+|Braille=⠊
+}}
+In [[Unicode]], the [[capital letter|capital]] I is codepoint U+0049 and the [[lower case]] i is U+0069.
+
+The [[ASCII]] code for capital I is 73 and for lowercase i is 105; or in [[Binary numeral system|binary]] 01001001 and 01101001, respectively.
+
+The [[EBCDIC]] code for capital I is 201 and for lowercase i is 137.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#73;</tt>" and "<tt>&amp;#105;</tt>" for upper and lower case, respectively.
+
+==See also==
+{{Commons|I}}
+*[[I (Cyrillic)|И, и - I (Cyrillic)]]
+*[[Tittle]]
+*[[Dotted and dotless I]]
+
+==References==
+<references/>
+
+{{Latin alphabet|I|}}
+
+[[Category:Latin letters]]
+[[Category:Vowel letters]]
+
+[[af:I]]
+[[als:I]]
+[[ar:I]]
+[[an:I]]
+[[arc:I]]
+[[ast:I]]
+[[az:I]]
+[[zh-min-nan:I]]
+[[be:I, літара]]
+[[bs:I]]
+[[br:I (lizherenn)]]
+[[ca:I]]
+[[cs:I]]
+[[co:I]]
+[[cy:I]]
+[[da:I]]
+[[de:I]]
+[[el:I]]
+[[es:I]]
+[[eo:I]]
+[[eu:I]]
+[[fa:I]]
+[[fr:I (lettre)]]
+[[fy:I]]
+[[fur:I]]
+[[gv:Iuar]]
+[[gd:I]]
+[[gl:I]]
+[[gan:I]]
+[[ko:I]]
+[[hr:I]]
+[[ilo:I]]
+[[is:I]]
+[[it:I]]
+[[he:I]]
+[[ka:I]]
+[[kw:I]]
+[[sw:I]]
+[[ht:I]]
+[[la:I]]
+[[lv:I]]
+[[lb:I]]
+[[lt:I]]
+[[hu:I]]
+[[mk:I (Латиница)]]
+[[mg:I]]
+[[mzn:I]]
+[[ms:I]]
+[[nah:I]]
+[[nl:I (letter)]]
+[[ja:I]]
+[[no:I]]
+[[nn:I]]
+[[nrm:I]]
+[[uz:I (harf)]]
+[[pl:I]]
+[[pt:I]]
+[[ro:I]]
+[[qu:I]]
+[[ru:I (латиница)]]
+[[se:I]]
+[[stq:I]]
+[[scn:I]]
+[[simple:I]]
+[[sk:I]]
+[[sl:I]]
+[[sr:I (слово латинице)]]
+[[fi:I]]
+[[sv:I]]
+[[tl:I]]
+[[th:I]]
+[[tr:I (harf)]]
+[[uk:I (латиниця)]]
+[[vi:I]]
+[[vo:I]]
+[[yi:I]]
+[[yo:I]]
+[[zh-yue:I]]
+[[bat-smg:I]]
+[[zh:I]]

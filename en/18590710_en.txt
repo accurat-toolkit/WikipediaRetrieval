@@ -1,0 +1,804 @@
+{{NHLTeamSeason
+  |Season=2008–09
+  |year=2008
+  |Team=Dinamo Riga
+  |Conference=
+  |ConferenceRank=
+  |Division=[[Valeri Kharlamov|Kharlamov]] division
+  |DivisionRank=2
+  |Record=24-23-5-4 (W-L-OTW-OTL)
+  |HomeRecord=14-9-3-2
+  |RoadRecord=10-14-2-2
+  |GoalsFor= 132
+  |GoalsAgainst= 156
+  |GeneralManager= [[Normunds Sējējs]]
+  |Coach= [[Július Šupler]]
+  |Captain= [[Aleksejs Širokovs]]
+  |AltCaptain= [[Atvars Tribuncovs]]<br>[[Matt Ellison]]
+  |Arena=[[Arena Riga]]<br>[[inbox.lv Arena]]
+  |Attendance= TBD
+  |GoalsLeader= [[Marcel Hossa]] (22)
+  |AssistsLeader= [[Marcel Hossa]] (22)
+  |PointsLeader= [[Marcel Hossa]] (44)
+  |PlusMinusLeader= [[Marcel Hossa]] (+3)
+  |PIMLeader= [[Marcel Hossa]] (118) 
+  |WinsLeader= [[Sergejs Naumovs]] (12)
+  |GAALeader= [[Martin Prusek]] (1.70)
+}}
+
+The '''2008–09 Dinamo Riga season''' is the first season of [[Dinamo Riga|the franchise]] in the [[Kontinental Hockey League]] (KHL). This is also inaugural season for the league. Dinamo Riga will play most of their home games in [[Arena Riga]], however some matches will be held in other locations.<ref>{{cite web |url=http://www.diena.lv/lat/sports/hokejs/hokeja-komandu-dinamo-atbalstis-nike-bauer |title=Biļetes uz Rīgas Dinamo spēlēm Arēnā Rīga maksās no 7 - 12 latus |publisher=diena.lv |language=Latvian |date=[[June 6]], [[2008]] |accessdate=2008-07-26}}</ref> According to draw, Dinamo Riga are playing in [[Valeri Kharlamov|Kharlamov]] division along with [[Avangard Omsk]], [[Lokomotiv Yaroslavl]], [[HC Lada Togliatti]], [[HC Sibir Novosibirsk]] and [[Amur Khabarovsk]].
+
+==Pre-season==
+As it is the first season for the franchise, Dinamo Riga needed to gather their roster from nothing. Most of the team players are members of [[Latvia national ice hockey team|Latvia national team]]. First players for the team were announced on [[April 25]].<ref>{{cite news| title=First Dinamo players are known| publisher= eSports| date=[[2008-04-25]]| language=Latvian| url=http://esports.lv/hokejs/25042008-zinami_pirmie_rigas_dinamo_speletaji |accessdate=2008-07-26}}</ref> First foreign player to join the team was [[Czechs|Czech]] [[Filip Novák]] on [[June 26]].<ref name="june26">{{cite news| title=First foreigner in Dinamo| publisher= eSports| date=[[2008-06-26]]| language=Latvian| url=http://esports.lv/hokejs/26062008-rigas_dinamo_pirmais_legionars| accessdate=2008-07-26}}</ref> The team roster was completed, when the last two leggionares [[Duvie Westcott]] and [[Mark Hartigan]] joined the team in [[July 22]].<ref>{{cite web |url=http://www.dinamoriga.lv/zinas?zinaId=27 |title=Rīgas Dinamo pievienojas divkārtējs Stenlija kausa ieguvējs |publisher=DinamoRiga.lv |language=Latvian |date=[[June 22]], [[2008]] |accessdate=2008-07-26}}</ref>
+
+Dinamo Riga started their pre-season training camp on [[July 15]]. The camp continued till [[July 28]] and took place in [[Liptovský Mikuláš]], [[Slovakia]].<ref>{{cite web |url=http://www.dinamoriga.lv/zinas?zinaId=17 |title=Rīgas Dinamo dodas uz Slovākiju |publisher=DinamoRiga.lv |language=Latvian |date=[[June 15]], [[2008]] |accessdate=2008-07-26}}</ref> The first game in franchise history was held on [[July 25]], when Dinamo Riga defeated [[MHk 32 Liptovský Mikuláš]] in a shootout after a 1-1 in regular time.
+
+On [[August 2]] Dinamo played their first home game, when they won against [[Amur Khabarovsk]] in [[Riga]]. Then at the "Inbox.lv hall" in Riga, Dinamo won the ''Inbox.lv'' tournament, in which they defeated [[HC Dinamo Minsk|Dinamo Minsk]] and [[Barys Astana]]. In August the team also participated in the Tampere Cup ([[Tampere]]) and the Governor's Cup ([[Mytishchi]]).
+
+===Results===
+
+* Green background indicates win. (3 points) <!--  bgcolor="#ccffcc"  --> 
+* Red indicates loss. (0 points)  <!--  bgcolor="ffbbbb"   -->	
+* Beige background indicates overtime/shootout win. (2 points) <!--  bgcolor="#f5f5dc"  --> 
+* White background indicates overtime/shootout loss (1 point).
+
+{| class="toccolours" width=90% style="clear:both; margin:1.5em auto; text-align:center;"
+|-
+! colspan=11 style="background:maroon; color: silver;" | 2008–09 Pre-season games
+|-
+| colspan=11 | 
+{| class="toccolours collapsible collapsed" width=100%
+|-
+! colspan=11 style="background:maroon; color: silver;" | Record: 5–3–1–3 (Home: 3–0–0–0 ; Road: 1–2–1–1 ; Neutral: 1–2–0–1)
+|- align="center"  bgcolor="#dddddd"
+| '''#''' || '''Date''' || '''Visitor''' || '''Score''' || '''Home''' || '''OT''' || '''Decision''' || '''Attendance''' || '''Record''' || '''Recap'''
+|- align="center" bgcolor="#f5f5dc"
+| 1 || July 25 || Dinamo Riga || 3 – 1 || [[MHk 32 Liptovský Mikuláš]] || SO || [[Edgars Masaļskis|Masaļskis]] || ? || 0–0–1–0 || [http://www.dinamoriga.lv/zinas?zinaId=34]
+|- align="center" bgcolor="#ccffcc"
+| 2 || August 2 || [[Amur Khabarovsk]] || 2 – 3 || Dinamo Riga || || [[Edgars Masaļskis|Masaļskis]] || 1,214 || 1–0–1–0 || [http://www.dinamoriga.lv/zinas?zinaId=64]
+|- align="center" bgcolor="#ccffcc"
+| 3 || August 4 || [[FC Dinamo Minsk|Dinamo Minsk]] || 1 – 5 || Dinamo Riga || || [[Sergejs Naumovs|Naumovs]] || ? || 2–0–1–0 || [http://www.dinamoriga.lv/zinas?zinaId=71]
+|- align="center" bgcolor="#ccffcc"
+| 4 || August 6 || [[Barys Astana]] || 2 – 7 || Dinamo Riga || || [[Edgars Masaļskis|Masaļskis]] || ? || 3–0–1–0 || [http://www.dinamoriga.lv/zinas?zinaId=77]
+|- align="center" bgcolor="#ccffcc"
+| 5 || August 13 || Dinamo Riga || 3 – 1 || [[Tappara]] || || [[Sergejs Naumovs|Naumovs]] || ? || 4–0–1–0 || [http://www.dinamoriga.lv/zinas?zinaId=86]
+|- align="center" bgcolor="ffbbbb"
+| 6 || August 14 || Dinamo Riga || 1 – 3 || [[Ilves]] || || [[Edgars Masaļskis|Masaļskis]] || ? || 4–1–1–0 || [http://www.dinamoriga.lv/zinas?zinaId=89]
+|- align="center" bgcolor=white
+| 7 || August 15 || [[Espoo Blues]] || 3 – 2 || Dinamo Riga ''in [[Tampere]], [[Finland]]'' || SO || [[Sergejs Naumovs|Naumovs]] || ? || 4–1–1–1 || [http://www.dinamoriga.lv/zinas?zinaId=93]
+|- align="center" bgcolor="ffbbbb"
+| 8 || August 16 || Dinamo Riga || 3 – 4 || [[Espoo Blues]] ''in [[Tampere]], [[Finland]]'' ||  || [[Ervīns Muštukovs|Muštukovs]] || ? || 4–2–1–1 || [http://www.dinamoriga.lv/zinas?zinaId=96]
+|- align="center" bgcolor="ffbbbb"
+| 9 || August 23 || Dinamo Riga || 1 – 3 || [[HC Atlant Moscow|Atlant Mytishchi]] || || [[Edgars Masaļskis|Masaļskis]] || 4,000 || 4–3–1–1 || [http://cup.atlant-mo.ru/games/info/1577/]
+|- align="center" bgcolor=white
+| 10 || August 24 || [[HC Neftekhimik Nizhnekamsk|Neftekhimik Nizhnekamsk]] || 3 – 2 || Dinamo Riga ''in [[Mytishchi]], [[Russia]]''|| OT || [[Edgars Masaļskis|Masaļskis]] || 400 || 4–3–1–2 || [http://cup.atlant-mo.ru/games/info/1581/]
+|- align="center" bgcolor="#ccffcc"
+| 11 || August 26 || Dinamo Riga || 4 – 2 || [[HC Lada Togliatti]] ''in [[Mytishchi]], [[Russia]]'' ||  || [[Edgars Masaļskis|Masaļskis]] || 250 || 5–3–1–2 || [http://cup.atlant-mo.ru/games/info/1582/]
+|- align="center" bgcolor=white
+| 12 || August 27 || Dinamo Riga || 2 – 3 || [[HC Atlant Moscow|Atlant Mytishchi]] || SO || [[Edgars Masaļskis|Masaļskis]] || ? || 5–3–1–3 || [http://cup.atlant-mo.ru/games/info/1793/]
+|}
+|}
+
+==Regular season==
+Dinamo Riga will play 56 games in regular season. The season will begin in [[September 2]], [[2008]], it is coming to close in [[February 26]], [[2008]].
+
+===Division standings===
+
+''as before [[25 October]] [[2008]]''
+{| class="wikitable sortable"
+! width="40%" | [[Valeri Kharlamov|Kharlamov]] division
+! width="5%" | GP
+! width="5%" | W
+! width="5%" | L
+! width="5%" | OTW
+! width="5%" | OTL
+! width="7.5%" | GF
+! width="7.5%" | GA
+! width="7.5%" | PTS
+|- align=center 
+|align=left| [[Avangard Omsk]] || 20 || 11 || 7 || 1 || 1 || 69 || 55 || 36
+|- align=center 
+|align=left| [[Lokomotiv Yaroslavl]] || 18 || 11 || 5 || 0 || 2 || 51 || 36 || 35
+|- align=center bgcolor="#CCFFCC"
+|align=left| '''[[Dinamo Riga]]''' || 20 || 9 || 7 || 1 || 3 || 49 || 60 || 32
+|- align=center 
+|align=left| [[HC Lada Togliatti|Lada Togliatti]] || 19 || 6 || 9 || 2 || 2 || 45 || 50 || 24
+|- align=center 
+|align=left| [[HC Sibir Novosibirsk|Sibir Novosibirsk]] || 19 || 5 || 8 || 3 || 3 || 45 || 57 || 24
+|- align=center 
+|align=left| [[Amur Khabarovsk]] || 21 || 4 || 13 || 2 || 2 || 38 || 64 || 18
+|}
+
+===League standings===
+''as before [[25 October]] [[2008]]''
+{| class="wikitable sortable"
+! width="40%" | [[Kontinental Hockey League]]
+! width="5%" | GP
+! width="5%" | W
+! width="5%" | L
+! width="5%" | OTW
+! width="5%" | OTL
+! width="7.5%" | GF
+! width="7.5%" | GA
+! width="7.5%" | PTS
+|- align=center 
+|align=left| [[HC Atlant Moscow|Atlant Mytishchi]] || 20 || 14 || 2 || 2 || 2 || 77 || 40 || 48
+|- align=center 
+|align=left| [[Salavat Yulaev Ufa]] || 19 || 13 || 3 || 2 || 1 || 70 || 32 || 44
+|- align=center 
+|align=left| [[Ak Bars Kazan]] || 19 || 11 || 4 || 2 || 2 || 65 || 50 || 39
+|- align=center 
+|align=left| [[Avangard Omsk]] || 20 || 11 || 7 || 1 || 1 || 69 || 55 || 36
+|- align=center 
+|align=left| [[Lokomotiv Yaroslavl]] || 18 || 11 || 5 || 0 || 2 || 51 || 36 || 35
+|- align=center 
+|align=left| [[HC CSKA Moscow|CSKA Moscow]] || 18 || 9 || 4 || 3 || 2 || 55 || 42 || 35
+|- align=center 
+|align=left| [[Metallurg Magnitogorsk]] || 20 || 9 || 7 || 3 || 1 || 56 || 53 || 34
+|- align=center 
+|align=left| [[Traktor Chelyabinsk]] || 19 || 9 || 5 || 1 || 4 || 54 || 55 || 33
+|- align=center 
+|align=left| [[HC Dynamo Moscow|Dynamo Moscow]] || 18 || 8 || 5 || 4 || 1 || 51 || 39 || 33
+|- align=center 
+|align=left| [[HC Spartak Moscow|Spartak Moscow]] || 21 || 8 || 8 || 4 || 1 || 75 || 68 || 33
+|- align=center bgcolor="#CCFFCC"
+|align=left| '''[[Dinamo Riga]]''' || 20 || 9 || 7 || 1 || 3 || 49 || 60 || 32
+|- align=center 
+|align=left| [[HC Neftekhimik Nizhnekamsk|Neftekhimik Nizhnekamsk]] || 20 || 9 || 6 || 0 || 5 || 50 || 50 || 32
+|- align=center 
+|align=left| [[Barys Astana]] || 21 || 7 || 8 || 5 || 1 || 65 || 59 || 32
+|- align=center 
+|align=left| [[Severstal Cherepovets]] || 19 || 8 || 7 || 3 || 1 || 56 || 61 || 31
+|- align=center 
+|align=left| [[SKA Saint Petersburg]] || 19 || 7 || 8 || 4 || 0 || 44 || 34 || 29
+|- align=center 
+|align=left| [[Metallurg Novokuznetsk]] || 21 || 6 || 10 || 3 || 2 || 57 || 57 || 26
+|- align=center 
+|align=left| [[HC Lada Togliatti|Lada Togliatti]] || 19 || 6 || 9 || 2 || 2 || 45 || 50 || 24
+|- align=center 
+|align=left| [[HC Sibir Novosibirsk|Sibir Novosibirsk]] || 19 || 5 || 8 || 3 || 3 || 45 || 57 || 24
+|- align=center 
+|align=left| [[HC MVD Moscow Oblast|MVD Moscow Oblast]] || 20 || 5 || 11 || 3 || 1 || 47 || 60 || 22
+|- align=center 
+|align=left| [[Torpedo Nizhny Novgorod]] || 20 || 6 || 12 || 0 || 2 || 46 || 60 || 20
+|- align=center 
+|align=left| [[Amur Khabarovsk]] || 21 || 4 || 13 || 2 || 2 || 38 || 64 || 18
+|- align=center 
+|align=left| [[Vityaz Chekhov]] || 20 || 2 || 9 || 2 || 7 || 47 || 71 || 17
+|- align=center 
+|align=left| [[HC Dinamo Minsk|Dinamo Minsk]] || 20 || 3 || 14 || 2 || 1 || 36 || 72 || 14
+|- align=center 
+|align=left| [[Khimik Voskresensk (2005–)|Khimik Voskresensk]] || 19 || 3 || 11 || 0 || 5 || 34 || 57 || 14
+|}
+
+===Results===
+* Green background indicates win. (3 points) <!--  bgcolor="#ccffcc"  --> 
+* Red indicates loss. (0 points)  <!--  bgcolor="ffbbbb"   -->	
+* Beige background indicates overtime/shootout win. (2 points) <!--  bgcolor="#f5f5dc"  --> 
+* White background indicates overtime/shootout loss (1 point).
+
+{| class="toccolours" width=90% style="clear:both; margin:1.5em auto; text-align:center;"
+|-
+! colspan=11 style="background:maroon; color: silver;" | 2008–09 Game Log
+|-
+| colspan=11 | 
+{| class="toccolours collapsible collapsed" width=100%
+|-
+! colspan=11 style="background:maroon; color: silver;" | September: 5–3–1–2 (Home: 3–0–0–0 ; Road: 2–3–1–2)
+|- align="center"  bgcolor="#dddddd"
+| '''#''' || '''Date''' || '''Visitor''' || '''Score''' || '''Home''' || '''OT''' || '''Decision''' || '''Attendance''' || '''Record''' || '''Pts''' || '''Recap'''
+|- align="center" bgcolor="#ccffcc"
+| 1 || September 2 || Dinamo Riga ||4 – 2 || [[Amur Khabarovsk]] || || [[Edgars Masaļskis|Masaļskis]] || 7,100 || 1–0–0–0 || 3 || [http://www.khl.ru/calendar/report.php?idgame=21651]
+|- align="center" bgcolor=white
+| 2 || September 3 || Dinamo Riga || 6 – 7 || [[Amur Khabarovsk]] || SO || [[Edgars Masaļskis|Masaļskis]] || 7,100 || 1–0–0–1 || 4 || [http://www.khl.ru/calendar/report.php?idgame=21656]
+|- align="center" bgcolor="ffbbbb"
+| 3 || September 5 || Dinamo Riga || 0 – 7 || [[Metallurg Novokuznetsk]] ||  || [[Sergejs Naumovs|Naumovs]] || 4,500 || 1–1–0–1 || 4 || [http://www.khl.ru/calendar/report.php?idgame=21669]
+|- align="center" bgcolor=white
+| 4 || September 7 || Dinamo Riga|| 1 – 2 || [[HC Sibir Novosibirsk|Sibir Novosibirsk]] || OT || [[Edgars Masaļskis|Masaļskis]] || 6,000 || 1–1–0–2 || 5 || [http://www.khl.ru/calendar/report.php?idgame=21681]
+|- align="center" bgcolor="ffbbbb"
+| 5 || September 8 || Dinamo Riga|| 1 – 6 || [[HC Sibir Novosibirsk|Sibir Novosibirsk]] || || [[Edgars Masaļskis|Masaļskis]] || 5,000 || 1–2–0–2 || 5 || [http://www.khl.ru/calendar/report.php?idgame=21688]
+|- align="center" bgcolor="#ccffcc"
+| 6 || September 11 || [[HC MVD Moscow Oblast|MVD Moscow Oblast]] || 1 – 2 || Dinamo Riga || || [[Edgars Masaļskis|Masaļskis]] || 10,232 || 2–2–0–2 || 8 || [http://www.khl.ru/calendar/report.php?idgame=21696]
+|- align="center" bgcolor="#ccffcc"
+| 7 || September 14 || [[HC Atlant Moscow|Atlant Mytishchi]] || 0 – 2 || Dinamo Riga || || [[Edgars Masaļskis|Masaļskis]] || 7,502 || 3–2–0–2 || 11 || [http://www.khl.ru/calendar/report.php?idgame=21712]
+|- align="center" bgcolor="#ccffcc"
+| 8 || September 15 || [[Torpedo Nizhny Novgorod]] || 1 – 4 || Dinamo Riga || || [[Edgars Masaļskis|Masaļskis]] || 4,936 || 4–2–0–2 || 14 || [http://www.khl.ru/calendar/report.php?idgame=21718]
+|- align="center" bgcolor="#ccffcc"
+| 9 || September 22 || Dinamo Riga || 4 – 3 || [[HC CSKA Moscow|CSKA Moscow]] || || [[Sergejs Naumovs|Naumovs]] || 2,500 || 5–2–0–2 || 17 || [http://www.khl.ru/calendar/report.php?idgame=21745]
+|- align="center" bgcolor="ffbbbb"
+| 10 || September 24 || Dinamo Riga || 1 – 5 || [[HC Spartak Moscow|Spartak Moscow]] || || [[Sergejs Naumovs|Naumovs]] || 1,500 || 5–3–0–2 || 17 || [http://www.khl.ru/calendar/report.php?idgame=21756]
+|- align="center" bgcolor="#f5f5dc"
+| 11 || September 26 || Dinamo Riga || 3 – 2 || [[Vityaz Chekhov]] || SO || [[Sergejs Naumovs|Naumovs]] || 1,800 || 5–3–1–2  || 19 || [http://www.khl.ru/calendar/report.php?idgame=21769]
+|}
+|-
+|colspan=11 |
+{| class="toccolours collapsible collapsed" width=100%
+|-
+! colspan=11 style="background:maroon; color: silver;" | October: 4–4–0–1 (Home: 2–2–0–1 ; Road: 2–2–0–0)
+|- align="center"  bgcolor="
+| '''#''' || '''Date''' || '''Visitor''' || '''Score''' || '''Home''' || '''OT''' || '''Decision''' || '''Attendance''' || '''Record''' || '''Pts''' || '''Recap'''
+|- align="center" bgcolor="#ccffcc"
+| 12 || October 1 || [[HC Dynamo Moscow|Dynamo Moscow]] || 3 – 4  || Dinamo Riga || || [[Sergejs Naumovs|Naumovs]] || 8,528 ||  6–3–1–2|| 22 || [http://khl.ru/calendar/report.php?idgame=21788]
+|- align="center" bgcolor="#ccffcc"
+| 13 || October 6 || [[HC Dinamo Minsk|Dinamo Minsk]] || 5 – 8 || Dinamo Riga || ||[[Sergejs Naumovs|Naumovs]] || 2,300 || 7–3–1–2  || 25 || [http://www.khl.ru/calendar/report.php?idgame=21806]
+|- align="center" bgcolor=white
+| 14 || October 9 || [[SKA Saint Petersburg]] || 2 – 1  || Dinamo Riga || SO || [[Sergejs Naumovs|Naumovs]] || 9,950 || 7–3–1–3 || 26 || [http://www.khl.ru/calendar/report.php?idgame=21820]
+|- align="center" bgcolor="ffbbbb"
+| 15 || October 11 || [[Severstal Cherepovets]] || 2 – 1  || Dinamo Riga || || [[Sergejs Naumovs|Naumovs]] || 7,582 || 7–4–1–3 || 26 || [http://www.khl.ru/calendar/report.php?idgame=21832]
+|- align="center" bgcolor="ffbbbb"
+| 16 || October 13 || [[Lokomotiv Yaroslavl]] || 3 – 2 || Dinamo Riga || ||[[Sergejs Naumovs|Naumovs]] || 6,350 || 7–5–1–3 || 26 || [http://www.khl.ru/calendar/report.php?idgame=21838]
+|- align="center" bgcolor="#ccffcc"
+| 17 || October 18  || Dinamo Riga || 2 – 1 || [[Khimik Voskresensk (2005–)|Khimik Voskresensk]] || ||[[Daniel Sperrle|Sperrle]] || 3,000 || 8–5–1–3 || 29 || [http://www.khl.ru/calendar/report.php?idgame=21859]
+|- align="center" bgcolor="ffbbbb"
+| 18 || October 20  || Dinamo Riga || 0 – 3 || [[Barys Astana]] || ||[[Daniel Sperrle|Sperrle]] || 5,000 || 8–6–1–3 || 29 || [http://www.khl.ru/calendar/report.php?idgame=21867]
+|- align="center" bgcolor="#ccffcc"
+| 19 || October 22 || Dinamo Riga || 3 – 2 || [[Avangard Omsk]] || ||[[Sergejs Naumovs|Naumovs]] || 9,300 || 9–6–1–3 || 32 || [http://www.khl.ru/calendar/report.php?idgame=21876] 
+|- align="center" bgcolor="ffbbbb"
+| 20 || October 23 || Dinamo Riga || 0 – 3 || [[Avangard Omsk]] || ||[[Daniel Sperrle|Sperrle]] || 9,100 || 9–7–1–3 || 32 || [http://www.khl.ru/calendar/report.php?idgame=21881]
+|- align="center" bgcolor="
+| 21 || October 26 || [[Ak Bars Kazan]] || || Dinamo Riga ''(in [[Espoo]])''|| || || || || || 
+|- align="center" bgcolor="
+| 22 || October 27 || [[HC Lada Togliatti|Lada Togliatti]] || || Dinamo Riga ''(in [[Espoo]])''|| || || || || || 
+|- align="center" bgcolor="
+| 23 || October 29 || [[HC Neftekhimik Nizhnekamsk|Neftekhimik Nizhnekamsk]] || || Dinamo Riga || || || || || || 
+|}
+|-
+|colspan=11 |
+{| class="toccolours collapsible collapsed" width=100%
+|-
+! colspan=11 style="background:maroon; color: silver;" | November: 0–0–0–0 (Home: 0–0–0–0 ; Road: 0–0–0–0)
+|- align="center"  bgcolor="#dddddd"
+| '''#''' || '''Date''' || '''Visitor''' || '''Score''' || '''Home''' || '''OT''' || '''Decision''' || '''Attendance''' || '''Record''' || '''Pts''' || '''Recap'''
+|- align="center" bgcolor="
+| 24 || November 13 || Dinamo Riga ||  || [[Metallurg Magnitogorsk]] || || || || || ||
+|- align="center" bgcolor="
+| 25 || November 15 || Dinamo Riga ||  || [[Traktor Chelyabinsk]] || || || || || ||
+|- align="center" bgcolor="
+| 26 || November 17 || Dinamo Riga ||  || [[Salavat Yulaev Ufa]] || || || || || ||
+|- align="center" bgcolor="
+| 27 || November 24 || [[HC Lada Togliatti|Lada Togliatti]] ||  || Dinamo Riga || || || || || ||
+|- align="center" bgcolor="
+| 28 || November 26 || [[Traktor Chelyabinsk]] ||  || Dinamo Riga || || || || || ||
+|- align="center" bgcolor="
+| 29 || November 27 || [[Metallurg Magnitogorsk]] ||  || Dinamo Riga || || || || || ||
+|- align="center" bgcolor="
+| 30 || November 29 || [[Salavat Yulaev Ufa]] ||  || Dinamo Riga || || || || || ||
+|}
+|-
+|colspan=11 |
+{| class="toccolours collapsible collapsed" width=100%
+|-
+! colspan=11 style="background:maroon; color: silver;" | December: 0–0–0–0 (Home: 0–0–0–0 ; Road: 0–0–0–0)
+|- align="center"  bgcolor="#dddddd"
+| '''#''' || '''Date''' || '''Visitor''' || '''Score''' || '''Home''' || '''OT''' || '''Decision''' || '''Attendance''' || '''Record''' || '''Pts''' || '''Recap'''
+|- align="center" bgcolor="
+| 31 || December 3 || Dinamo Riga ||  || [[Lokomotiv Yaroslavl]] || || || ||  || ||  
+|- align="center" bgcolor="
+| 32 || December 5 || Dinamo Riga ||  || [[HC Dinamo Minsk|Dinamo Minsk]] || || || ||  || || 
+|- align="center" bgcolor="
+| 33 || December 7 || Dinamo Riga ||  || [[Ak Bars Kazan]] || || || ||  || || 
+|- align="center" bgcolor="
+| 34 || December 9 || Dinamo Riga ||  || [[HC Lada Togliatti|Lada Togliatti]] || || || ||  || || 
+|- align="center" bgcolor="
+| 35 || December 11 || Dinamo Riga ||  || [[HC Neftekhimik Nizhnekamsk|Neftekhimik Nizhnekamsk]] || || || ||  || ||  
+|- align="center" bgcolor="
+| 36 || December 24 || [[Avangard Omsk]] ||  || Dinamo Riga || || || ||  || ||  
+|- align="center" bgcolor="
+| 37 || December 27 || [[Khimik Voskresensk (2005–)|Khimik Voskresensk]] ||  || Dinamo Riga || || || ||  || || 
+|- align="center" bgcolor="
+| 38 || December 28 || [[Barys Astana]] ||  || Dinamo Riga || || || ||  || ||
+|}
+|-
+|colspan=11 |
+{| class="toccolours collapsible collapsed" width=100%
+|-
+! colspan=11 style="background:maroon; color: silver;" | January: 0–0–0–0 (Home: 0–0–0–0 ; Road: 0–0–0–0)
+|- align="center"  bgcolor="#dddddd"
+| '''#''' || '''Date''' || '''Visitor''' || '''Score''' || '''Home''' || '''OT''' || '''Decision''' || '''Attendance''' || '''Record''' || '''Pts''' || '''Recap'''
+|- align="center" bgcolor="
+| 39 || January 3 || Dinamo Riga ||  || [[SKA Saint Petersburg]] || || || ||  || || 
+|- align="center" bgcolor="
+| 40 || January 5 || Dinamo Riga ||  || [[Severstal Cherepovets]] || || || ||  || || 
+|- align="center" bgcolor="
+| 41 || January 7 || Dinamo Riga ||  || [[Lokomotiv Yaroslavl]] || || || ||  || || 
+|- align="center" bgcolor="
+| 42 || January 9 || Dinamo Riga ||  || [[HC Lada Togliatti|Lada Togliatti]] || || || ||  || ||  
+|- align="center" bgcolor="
+| 43 || January 16 || [[Avangard Omsk]] ||  || Dinamo Riga || || || ||  || ||   
+|- align="center" bgcolor="
+| 44 || January 19 || [[Lokomotiv Yaroslavl]] ||  || Dinamo Riga || || || ||  || ||  
+|- align="center" bgcolor="
+| 45 || January 22 || Dinamo Riga ||  || [[HC Dynamo Moscow|Dynamo Moscow]] || || || ||  || || 
+|- align="center" bgcolor="
+| 46 || January 25 || [[Vityaz Chekhov]] ||  || Dinamo Riga || || || ||  || ||
+|- align="center" bgcolor="
+| 47 || January 28 || [[HC Spartak Moscow|Spartak Moscow]] ||  || Dinamo Riga || || || ||  || ||
+|- align="center" bgcolor="
+| 48 || January 29 || [[HC CSKA Moscow|CSKA Moscow]] ||  || Dinamo Riga || || || ||  || ||
+|}
+|-
+|colspan=11 |
+{| class="toccolours collapsible collapsed" width=100%
+|-
+! colspan=11 style="background:maroon; color: silver;" | February: 0–0–0–0 (Home: 0–0–0–0 ; Road: 0–0–0–0)
+|- align="center"  bgcolor="#dddddd"
+| '''#''' || '''Date''' || '''Visitor''' || '''Score''' || '''Home''' || '''OT''' || '''Decision''' || '''Attendance''' || '''Record''' || '''Pts''' || '''Recap'''
+|- align="center" bgcolor="
+| 49 || February 12 || Dinamo Riga ||  || [[HC MVD Moscow Oblast|MVD Moscow Oblast]] || || || ||  || || 
+|- align="center" bgcolor="
+| 50 || February 14 || Dinamo Riga ||  || [[HC Atlant Moscow|Atlant Mytishchi]] || || || ||  || || 
+|- align="center" bgcolor="
+| 51 || February 16 || Dinamo Riga ||  || [[Torpedo Nizhny Novgorod]] || || || ||  || ||
+|- align="center" bgcolor="
+| 52 || February 20 || [[HC Sibir Novosibirsk|Sibir Novosibirsk]] ||  || Dinamo Riga || || || ||  || ||
+|- align="center" bgcolor="
+| 53 || February 21 || [[HC Sibir Novosibirsk|Sibir Novosibirsk]] ||  || Dinamo Riga || || || ||  || ||
+|- align="center" bgcolor="
+| 54 || February 23 || [[Metallurg Novokuznetsk]] ||  || Dinamo Riga || || || ||  || ||
+|- align="center" bgcolor="
+| 55 || February 25 || [[Amur Khabarovsk]] ||  || Dinamo Riga || || || ||  || ||
+|- align="center" bgcolor="
+| 56 || February 26 || [[Amur Khabarovsk]] ||  || Dinamo Riga || || || ||  || || 
+|}
+|}
+
+==Player stats==
+===Skaters===
+<!-- IMPORTANT: RANK PLAYERS BY Points, then goals, then GP (fewer), then PIM (fewer), then +/- -->
+''Note: GP = Games played; G = Goals; A = Assists; Pts = Points; +/- = Plus/Minus; PIM = Penalty Minutes''
+{| border="1" cellpadding="2" cellspacing="0" class="wikitable sortable"
+|-align=center
+! style="background:maroon; color: silver;" width="30%" | Player
+! style="background:maroon; color: silver;" width="10%" | GP
+! style="background:maroon; color: silver;" width="10%" | G
+! style="background:maroon; color: silver;" width="10%" | A
+! style="background:maroon; color: silver;" width="10%" | Pts
+! style="background:maroon; color: silver;" width="10%" | +/-
+! style="background:maroon; color: silver;" width="10%" | PIM
+|-align=center
+|align=left| [[Marcel Hossa]] || 20 || 12 || 7 || 19 || 0 || 49
+|-align=center
+|align=left| [[Matt Ellison]] || 20 || 5 || 12 || 17 || 0 || 39
+|-align=center
+|align=left| [[Mark Hartigan]] || 19 || 8 || 4 || 12 || –1 || 34
+|-align=center
+|align=left| [[Filip Novák]] || 19 || 2 || 6 || 8 || –3 || 22
+|-align=center
+|align=left| [[Aleksandrs Ņiživijs]] || 20 || 2 || 6 || 8 || –6 || 4
+|-align=center
+|align=left| [[Aleksejs Širokovs]] || 20 || 2 || 6 || 8 || –2 || 8
+|-align=center
+|align=left| [[Duvie Westcott]] || 19 || 1 || 7 || 8 || 0 || 47
+|-align=center
+|align=left| [[Mārtiņš Cipulis]] || 20 || 1 || 5 || 6 || –6 || 8
+|-align=center
+|align=left| [[Miķelis Rēdlihs]] || 19 || 5 || 0 || 5 || –4 || 8
+|-align=center
+|align=left| [[Lauris Dārziņš]] || 20 || 1 || 4 || 5 || –2 || 22
+|-align=center
+|align=left| [[Ronald Petrovický]] || 19 || 2 || 2 || 4 || –2 || 33
+|-align=center
+|align=left| [[Rodrigo Laviņš]] || 20 || 1 || 3 || 4 || 0 || 12
+|-align=center
+|align=left| [[Ģirts Ankipāns]] || 17 || 2 || 1 || 3 || –2 || 4
+|-align=center
+|align=left| [[Viktors Bļinovs]] || 18 || 2 || 1 || 3 || –2 || 8
+|-align=center
+|align=left| [[Juris Štāls]] || 14 || 1 || 2 || 3 || 2 || 8
+|-align=center
+|align=left| [[Atvars Tribuncovs]] || 16 || 1 || 2 || 3 || –3 || 38
+|-align=center
+|align=left| [[Armands Bērziņš]] || 9 || 0 || 2 || 2 || 1 || 31
+|-align=center
+|align=left| [[Oļegs Sorokins]] || 12 || 0 || 2 || 2 || –2 || 16
+|-align=center
+|align=left| [[Aigars Cipruss]] || 3 || 0 || 1 || 1 || –2 || 4
+|-align=center
+|align=left| [[Guntis Galviņš]] || 15 || 0 || 1 || 1 || –4 || 8
+|-align=center
+|align=left| [[Maksims Širokovs]] || 1 || 0 || 0 || 0 || –1 || 0
+|-align=center
+|align=left| [[Krišjānis Rēdlihs]] || 1 || 0 || 0 || 0 || –1 || 4
+|-align=center
+|align=left| [[Sergejs Pečura]] || 2 || 0 || 0 || 0 || 0 || 0
+|-align=center
+|align=left| [[Ronalds Cinks]] || 2 || 0 || 0 || 0 || 0 || 0
+|-align=center
+|align=left| [[Agris Saviels]] || 2 || 0 || 0 || 0 || 0 || 4
+|-align=center
+|align=left| [[Kristaps Sotnieks]] || 15 || 0 || 0 || 0 || –4 || 6
+|}
+
+===Goaltenders===
+''Note: GP = Games Played; TOI = Time On Ice (minutes); W = Wins; L = Losses; OTW = Overtime/Shootout Wins; OTL = Overtime/Shootout Losses; GA = Goals Against; SO = Shutouts; Sv% = Save Percentage; GAA = Goals Against Average''
+{| border="1" cellpadding="2" cellspacing="0" class="wikitable sortable" width="70%"
+|- align="center"  bgcolor="#dddddd"
+! style="background:maroon; color: silver;" width="50%" | Player
+! style="background:maroon; color: silver;" width="10%" | GP 
+! style="background:maroon; color: silver;" width="10%" | TOI
+! style="background:maroon; color: silver;" width="10%" | W 
+! style="background:maroon; color: silver;" width="10%" | L
+! style="background:maroon; color: silver;" width="10%" | OTW
+! style="background:maroon; color: silver;" width="10%" | OTL
+! style="background:maroon; color: silver;" width="10%" | GA
+! style="background:maroon; color: silver;" width="10%" | SO
+! style="background:maroon; color: silver;" width="10%" | Sv%
+! style="background:maroon; color: silver;" width="10%" | GAA
+|-align=center
+|align=left| [[Sergejs Naumovs]]|| 11|| 588:15|| 5|| 4|| 1|| 1|| 33|| 0|| 0.899|| 3.37
+|-align=center
+|align=left| [[Edgars Masaļskis]]|| 8|| 406:40|| 4|| 2|| 0|| 2|| 18|| 1|| 0.915|| 2.66
+|-align=center
+|align=left| [[Daniel Sperrle]]|| 4|| 219:38|| 1|| 3|| 0|| 0|| 7|| 0|| 0.926|| 1.91
+|}
+
+==Roster==
+
+{| width=750
+!colspan=8 |<center><big>Goaltenders
+|- bgcolor="#dddddd"
+!width=5%|#
+!width=5%|
+|align=left!!width=35%|'''Player'''
+!width=5%|'''Pos.'''
+!width=8%|'''Catches'''
+!width=8%|'''Height'''
+!width=8%|'''Weight'''
+!width=37%|Place of Birth
+
+|- bgcolor="#eeeeee"
+|align=center|'''30'''
+|align=center|{{flagicon|LAT}}
+|[[Sergejs Naumovs]]
+|align=center|[[Goaltender|G]]
+|align=center|L
+|align=center|178 cm
+|align=center|78 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''35'''
+|align=center|{{flagicon|CZE}}
+|[[Martin Prusek]]
+|align=center|[[Goaltender|G]]
+|align=center|L
+|align=center|185 cm
+|align=center|78 kg
+|[[Ostrava]], [[Czech Republic]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''39'''
+|align=center|{{flagicon|LAT}}
+|[[Ervīns Muštukovs]]
+|align=center|[[Goaltender|G]]
+|align=center|R
+|align=center|188 cm
+|align=center|68 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''40'''
+|align=center|{{flagicon|LAT}}
+|[[Uģis Avotiņš]]
+|align=center|[[Goaltender|G]]
+|align=center|&nbsp;
+|align=center|185 cm
+|align=center|70 kg
+|[[Riga]], [[Latvia]]
+
+|}
+
+{| width=750
+!colspan=8 |<center><big>Defencemen
+|- bgcolor="#dddddd"
+!width=5%|#
+!width=5%|
+|align=left!!width=35%|'''Player'''
+!width=5%|'''Pos.'''
+!width=8%|'''Shoots'''
+!width=8%|'''Height'''
+!width=8%|'''Weight'''
+!width=37%|Place of Birth
+
+|- bgcolor="#eeeeee"
+|align=center|'''2'''
+|align=center|{{flagicon|LAT}}
+|'''C''' [[Rodrigo Laviņš]]
+|align=center|[[Defenceman (ice hockey)|D]]
+|align=center|L
+|align=center|180 cm
+|align=center|84 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''4'''
+|align=center|{{flagicon|LAT}}
+|[[Agris Saviels]]
+|align=center|[[Defenceman (ice hockey)|D]]
+|align=center|L
+|align=center|187 cm
+|align=center|90 kg
+|[[Jurmala]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''5'''
+|align=center|{{flagicon|LAT}}
+|[[Guntis Galviņš]]
+|align=center|[[Defenceman (ice hockey)|D]]
+|align=center|L
+|align=center|187 cm
+|align=center|86 kg
+|[[Talsi]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''9'''
+|align=center|{{flagicon|LAT}}
+|[[Krišjānis Rēdlihs]]
+|align=center|[[Defenceman (ice hockey)|D]]
+|align=center|L
+|align=center|189 cm
+|align=center|86 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''11'''
+|align=center|{{flagicon|LAT}}
+|[[Kristaps Sotnieks]]
+|align=center|[[Defenceman (ice hockey)|D]]
+|align=center|L
+|align=center|180 cm
+|align=center|80 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''13'''
+|align=center|{{flagicon|LAT}}
+|[[Maksims Širokovs]]
+|align=center|[[Defenceman (ice hockey)|D]]
+|align=center|L
+|align=center|181 cm
+|align=center|87 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''14'''
+|align=center|{{flagicon|CZE}}
+|[[Filip Novák]]
+|align=center|[[Defenceman (ice hockey)|D]]
+|align=center|L
+|align=center|182 cm
+|align=center|82 kg
+|[[České Budějovice|Budweis]], [[South_Bohemian_Region|S. Bohemia]], [[Czech Republic]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''15'''
+|align=center|{{flagicon|CAN}}
+|[[Duvie Westcott]]
+|align=center|[[Defenceman (ice hockey)|D]]
+|align=center|R
+|align=center|180 cm
+|align=center|89 kg
+|[[Winnipeg]], [[Manitoba]], [[Canada]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''23'''
+|align=center|{{flagicon|LAT}}
+|'''A''' [[Atvars Tribuncovs]]
+|align=center|[[Defenceman (ice hockey)|D]]
+|align=center|L
+|align=center|188 cm
+|align=center|100 kg
+|[[Ogre, Latvia|Ogre]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''28'''
+|align=center|{{flagicon|LAT}}
+|[[Oļegs Sorokins]]
+|align=center|[[Defenceman (ice hockey)|D]]
+|align=center|L
+|align=center|178 cm
+|align=center|80 kg
+|[[Riga]], [[Latvia]]
+|}
+
+{| width=750
+!colspan=8 |<center><big>Forwards
+|- bgcolor="#dddddd"
+!width=5%|#
+!width=5%|
+|align=left!!width=35%|'''Player'''
+!width=5%|'''Pos.'''
+!width=8%|'''Shoots'''
+!width=8%|'''Height'''
+!width=8%|'''Weight'''
+!width=37%|Place of Birth
+
+|- bgcolor="#eeeeee"
+|align=center|'''3'''
+|align=center|{{flagicon|LAT}}
+|[[Ronalds Cinks]]
+|align=center|[[Winger (ice hockey)|RW]]
+|align=center|L
+|align=center|183 cm
+|align=center|80 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''6'''
+|align=center|{{flagicon|LAT}}
+|[[Juris Štāls]]
+|align=center|[[Winger (ice hockey)|RW]]
+|align=center|L
+|align=center|191 cm
+|align=center|91 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''8'''
+|align=center|{{flagicon|LAT}}
+|[[Viktors Bļinovs]]
+|align=center|[[Forward (ice hockey)|F]]
+|align=center|L
+|align=center|178 cm
+|align=center|80 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''10'''
+|align=center|{{flagicon|LAT}}
+|[[Lauris Dārziņš]]
+|align=center|[[Winger (ice hockey)|LW]]
+|align=center|R
+|align=center|190 cm
+|align=center|90 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''12'''
+|align=center|{{flagicon|CAN}}
+|[[Mark Hartigan]]
+|align=center|[[Centre (ice hockey)|C]]
+|align=center|L
+|align=center|185 cm
+|align=center|93 kg
+|[[Fort St. John, British Columbia|Fort St. John]], [[British Columbia]], [[Canada]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''17'''
+|align=center|{{flagicon|LAT}}
+|[[Aleksandrs Ņiživijs]]
+|align=center|[[Winger (ice hockey)|RW]]
+|align=center|R
+|align=center|177 cm
+|align=center|77 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''19'''
+|align=center|{{flagicon|LAT}}
+|[[Miķelis Rēdlihs]]
+|align=center|[[Forward (ice hockey)|F]]
+|align=center|L
+|align=center|179 cm
+|align=center|78 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''21'''
+|align=center|{{flagicon|LAT}}
+|[[Armands Bērziņš]]
+|align=center|[[Centre (ice hockey)|C]]
+|align=center|L
+|align=center|192 cm
+|align=center|90 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''22'''
+|align=center|{{flagicon|LAT}}
+|[[Toms Hartmanis]]
+|align=center|[[Centre (ice hockey)|C]]
+|align=center|L
+|align=center|183 cm
+|align=center|82 kg
+|[[Ogre]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''24'''
+|align=center|{{flagicon|LAT}}
+| [[Aleksejs Širokovs]]
+|align=center|[[Center (ice hockey)|C]]
+|align=center|R
+|align=center|182 cm
+|align=center|86 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''27'''
+|align=center|{{flagicon|SVK}}
+|[[Ronald Petrovický]]
+|align=center|[[Right Wing (ice hockey)|RW]]
+|align=center|R
+|align=center|183 cm
+|align=center|86 kg
+|[[Žilina]], [[Žilina Region|Žilina]], [[Slovakia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''29'''
+|align=center|{{flagicon|LAT}}
+|[[Aigars Cipruss]]
+|align=center|[[Winger (ice hockey)|LW]]
+|align=center|L
+|align=center|178 cm
+|align=center|80 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''47'''
+|align=center|{{flagicon|LAT}}
+|[[Mārtiņš Cipulis]]
+|align=center|[[Winger (ice hockey)|LW]]
+|align=center|L
+|align=center|180 cm
+|align=center|81 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''75'''
+|align=center|{{flagicon|LAT}}
+|[[Ģirts Ankipāns]]
+|align=center|[[Winger (ice hockey)|LW]]
+|align=center|L
+|align=center|186 cm
+|align=center|96 kg
+|[[Riga]], [[Latvia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''81'''
+|align=center|{{flagicon|SVK}}
+|[[Marcel Hossa]]
+|align=center|[[Winger (ice hockey)|LW]]
+|align=center|L
+|align=center|192 cm
+|align=center|100 kg
+|[[Ilava]], [[Trenčín Region|Trenčín]], [[Slovakia]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''83'''
+|align=center|{{flagicon|CAN}}
+|'''A''' [[Matt Ellison]]
+|align=center|[[Center (ice hockey)|C]]
+|align=center|R
+|align=center|183 cm
+|align=center|87 kg
+|[[Duncan, British Columbia]], [[Canada]]
+
+|- bgcolor="#eeeeee"
+|align=center|'''87'''
+|align=center|{{flagicon|LAT}}
+|[[Gints Meija]]
+|align=center|[[Forward (ice hockey)|F]]
+|align=center|L
+|align=center|183 cm
+|align=center|72 kg
+|[[Riga]], [[Latvia]]
+|}
+
+==See also==
+*[[2008-09 Kontinental Hockey League season]]
+
+==Minor League Affiliates==
+*[[Belarusian Extraliga|BEL]] - [[HK Riga 2000]]
+
+==References==
+{{Reflist}}
+
+{{Dinamo Riga seasons}}
+{{2008–09 KHL season by team}}
+
+[[Category:Dinamo Riga seasons]]
+[[Category:2008 in ice hockey|Dinamo Riga season, 2008–09]]
+[[Category:2009 in ice hockey|Dinamo Riga season, 2008–09]]
+
+[[lv:Rīgas "Dinamo" 2008-09 sezonā]]
+[[ru:Динамо Рига в сезоне 2008-2009]]

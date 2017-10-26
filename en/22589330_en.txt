@@ -1,0 +1,51 @@
+{{BLP unsourced|date=August 2009|bot=yes}}
+{{Infobox Ice Hockey Player
+| image           = 
+| image_caption   =
+| image_size      = 
+| position        = [[Defenceman (ice hockey)|Defender]]
+| shoots          = Left
+| shot            = 
+| catches         = 
+| caught          = 
+| nickname        = 
+| height_ft       = 6
+| height_in       = 
+| weight_lb       = 198
+| team            = 
+| league          = 
+| prospect_team   = 
+| prospect_league = 
+| former_teams    = 
+| played_for      = [[Dinamo Riga]]<br>[[Stars Riga]]<br>[[HK Pardaugava Riga]]<br>[[KooKoo Kouvola]]<br>[[HC Litvinov]]<br>[[ESC Moskitos Essen]]<br>[[HC Karlovy Vary]]<br>[[EHC Chur]]<br>[[HK Dukla Trencin]]<br>[[HC Slovan Bratislava]]<br>[[HK Riga 2000]]
+| nationality     = LAT
+| nationality_2   = 
+| birth_date      = {{birth date and age|1968|02|16}}
+| birth_place     = [[Riga]], [[Latvian SSR]] {{flagicon|Latvian SSR}}
+| death_date      = 
+| death_place     = 
+| draft           = 
+| draft_year      = 
+| draft_team      = 
+| wha_draft       =  
+| wha_draft_year  = 
+| wha_draft_team  = 
+| career_start    = 1987
+| career_end      = 2006
+| halloffame      = 
+| website         =
+}}
+
+'''Normunds Sējējs''' (born [[February 16]], [[1968]] in [[Riga]], [[Latvian SSR]]) is a former [[Latvia]]n [[ice hockey]] player and [[coach (ice hockey)|coach]]. Sējejs played for [[Dinamo Riga]] and team Latvia. He was a coach of [[HK Riga 2000]]. He is current GM of [[Dinamo Riga]].
+
+{{DEFAULTSORT:Sejejs, Normunds}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:People from Riga]]
+[[Category:Latvian ice hockey players]]
+[[Category:Dinamo Riga players]]
+[[Category:HK Riga 2000 players]]
+
+{{Latvia-icehockey-bio-stub}}
+
+[[lv:Normunds Sējējs]]

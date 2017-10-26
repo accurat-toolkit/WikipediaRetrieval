@@ -1,0 +1,488 @@
+{{pp-semi-vandalism|small=yes}}
+{{Cleanup|date=October 2009}}
+{{pp-move-indef}}
+{{Refimprove|date=August 2008}}
+{{Otheruses}}
+{{taxobox
+|name = Tomato
+|image = Bright red tomato and cross section02.jpg
+|image_caption = Cross-section and full view of a ripe tomato
+|regnum = [[Plantae]]
+|unranked_divisio = [[Angiosperms]]
+|unranked_classis = [[Eudicots]]
+|unranked_ordo = 
+|ordo = [[Solanales]]
+|familia = [[Solanaceae]]
+|genus = ''[[Solanum]]''
+|species = '''''S. lycopersicum'''''
+|binomial = ''Solanum lycopersicum''
+|binomial_authority = [[Carolus Linnaeus|L.]]
+|synonyms = ''Lycopersicon lycopersicum''<br />''Lycopersicon esculentum''
+|}}
+The '''tomato''' (''Solanum lycopersicum'', syn. ''Lycopersicon lycopersicum'' & ''Lycopersicon esculentum''<ref name=NHM>"Molecular phylogenetic analyses have established that the formerly segregate genera Lycopersicon, Cyphomandra, Normania, and Triguera are nested within Solanum, and all species of these four genera have been transferred to Solanum." See: [http://www.nhm.ac.uk/research-curation/research/projects/solanaceaesource/solanum/phylogeny.jsp Natural History Museum, Solanaceae Source: Phylogeny of the genus Solanum.]</ref>) is a [[herbaceous]], usually sprawling plant in the [[Solanaceae]] or nightshade family that is typically cultivated for the purpose of harvesting its [[fruit]] for human consumption.  [[Savory]] in flavor (and accordingly termed a [[vegetable]]; see section ''Fruit or vegetable'' below), the fruit of most varieties ripens to a distinctive red color.   Tomato plants typically reach to {{convert|1|-|3|m|ft|0}} in height, and have a weak, woody stem that often vines over other plants. The [[leaf|leaves]] are {{convert|10|-|25|cm|in|0}} long, odd pinnate, with 5–9 leaflets on petioles,<ref>Acquaah, G. (2002). ''Horticulture: Principles and Practices.'' New Jersey: Prentice Hall. </ref> each leaflet up to {{convert|8|cm|in|0}} long, with a serrated margin; both the stem and leaves are densely glandular-hairy. The [[flower]]s are {{convert|1|-|2|cm|in|1}} across, yellow, with five pointed lobes on the [[Petal#Corolla|corolla]]; they are borne in a [[cyme]] of 3–12 together.   It is a [[perennial plant|perennial]], often grown outdoors in temperate climates as an [[annual plant|annual]]. 
+
+The tomato is native to [[South America]]. Genetic evidence shows that the progenitors of tomatoes were herbaceous green plants with small green fruit with a center of diversity in the highlands of [[Peru]].<ref>[http://www.landscapeimagery.com/tomato.html Tomato history]</ref> These early Solanums diversified into the dozen or so species of tomato recognized today. One species, Solanum lycopersicum, was transported to [[Mexico]] where it was grown and consumed by prehistoric humans. The exact date of domestication is not known. Evidence supports the theory that the first domesticated tomato was a little yellow fruit, ancestor of [[Cherry tomato|L. cerasiforme]],{{Citation needed|date=February 2009}} grown by the [[Aztec]]s of [[Mexico|Central Mexico]] who called it ''xitomatl'' ({{IPA-nah|ʃiːˈtomatɬ|pron}}), meaning plump thing with a navel, and later called tomatl by other Mesoamerican peoples. Aztec writings mention tomatoes were prepared with peppers, corn and salt, likely to be the original salsa recipe.
+
+Many historians{{Who|date=July 2009}} believe that the Spanish explorer [[Hernán Cortés|Cortez]] may have been the first to transfer the small yellow tomato to [[Europe]] after he captured the Aztec city of Tenochtítlan, now [[Mexico City]] in 1521.  Yet others{{Who|date=July 2009}} believe [[Christopher Columbus]], an Italian working for the Spanish monarchy, was the first European to take back the tomato, earlier in 1493.  The earliest discussion of the tomato in European literature appeared in a [[herbal]] written in 1544 by [[Pietro Andrea Mattioli]], an Italian physician and botanist, who named it pomo d’oro, golden apple.
+
+The word ''tomato'' comes from a word in the [[Nahuatl]] language, ''tomatl''. The [[specific name]], ''lycopersicum'', means "wolf-peach".
+
+Aztecs and other peoples in the region used the fruit in their cooking; it was being cultivated in southern Mexico and probably other areas by 500BC. It is thought that the [[Pueblo]] people believed that those who witnessed the ingestion of tomato seeds were blessed with powers of [[divination]].<ref>{{cite web|url=http://www.easthamptonstar.com/dnn/Archive/Home20080814/FoodWine/Seasons/tabid/6280/Default.aspx |title=Killer Tomatoes - The East Hampton Star - Food & Wine |publisher=Easthamptonstar.com |date=October 26, 2008 |accessdate=2008-10-27}}</ref> The large, lumpy tomato, a mutation from a smoother, smaller vegetable
+, originated and was encouraged in Mesoamerica. Smith states this variant is the direct ancestor of some modern cultivated tomatoes.<ref name="the tomato in America" />
+
+According to Andrew F Smith's ''The Tomato in America'',<ref name="the tomato in America">{{cite book | last = Smith | first = Andrew F | coauthors = | year = 1994 | title = The tomato in America: early history, culture, and cookery | edition = | publisher = University of South Carolina Press | location = Columbia, S.C, USA| id = ISBN 1-5700-3000-6}}</ref> the tomato probably originated in the highlands of the west coast of South America. However, Smith notes there is no evidence the tomato was cultivated or even eaten in Peru before the [[Viceroyalty of New Spain|Spanish]] arrived.
+
+Two modern tomato cultivar groups, one represented by the Matt's Wild Cherry tomato, the other by [[currant tomato]]es, originate by recent domestication of the wild tomato plants apparently native to eastern Mexico{{Citation needed|date=January 2009}}.
+
+===Spanish distribution===
+After the [[Spanish colonization of the Americas]], the Spanish distributed the tomato throughout their colonies in the [[Caribbean]]. They also took it to the [[Philippines]], whence it moved to [[southeast Asia]] and then the entire Asian continent. The Spanish also brought the tomato to Europe. It grew easily in [[Mediterranean Basin|Mediterranean]] climates, and cultivation began in the 1540s. It was probably eaten shortly after it was introduced, and was certainly being used as food by the early 1600s in [[Spain]]. The earliest discovered cookbook with tomato recipes was published in [[Naples]] in 1692, though the author had apparently obtained these recipes from Spanish sources. However, in certain areas of Italy, such as Florence, the fruit was used solely as tabletop decoration before it was incorporated into the local cuisine in the late 17th or early 18th century.
+
+===In Britain===
+Tomatoes were not grown in [[England]] until the 1590s, according to Smith. One of the earliest cultivators was [[John Gerard]], a [[Barber surgeon|barber-surgeon]].<ref name=TT/> Gerard's ''Herbal'', published in 1597 and largely plagiarized from continental sources{{Citation needed|date=October 2009}}, is also one of the earliest discussions of the tomato in England. Gerard knew that the tomato was eaten in Spain and [[Italy]].<ref name=TT/> Nonetheless, he believed that it was poisonous<ref name=TT/> (tomato leaves and stems actually contain poisonous [[glycoalkaloid]]s, but the fruit is safe). Gerard's views were influential, and the tomato was considered unfit for eating (though not necessarily poisonous) for many years in [[Kingdom of Great Britain|Britain]] and its [[Thirteen Colonies|North American colonies]].<ref name="TT">
+  ''The Tomato in America: Early History, Culture, and Cookery'',
+  Andrew F. Smith, 1994, p.17, webpage:
+  [http://books.google.com/books?id=Fyp86n6dQJwC&pg=PA17&<!--
+  -->lpg=PA17&dq=%22John+Gerard%22+tomato+poisonous&<!--
+  -->source=bl&ots=c_FNAwPfHb&<!--
+  -->sig=dpKSRQXHCz1CCHiRP1pSva0lfSY&hl=en&sa=X&<!--
+  -->oi=book_result&resnum=10&ct=result books-google-TTp17].
+</ref>
+
+But by the mid-1700s, tomatoes were widely eaten in Britain; and before the end of that century, the ''[[Encyclopædia Britannica]]'' stated that the tomato was "in daily use" in [[soup]]s, [[broth]]s, and as a [[garnish]].  In Victorian times, cultivation reached an industrial scale in glasshouses, most famously in [[Worthing]]. Pressure for housing land in the 1930s to 1960s saw the industry move west to [[Littlehampton]], and to the [[market garden]]s south of [[Chichester]]. Over the past 15 years, the British tomato industry has declined as more competitive imports from Spain and the Netherlands have reached the supermarkets.
+
+===Middle East===
+
+The tomato was introduced to cultivation in the Middle East by John Barker, British consul in Aleppo c. 1799 – c. 1825<ref>{{cite web|url=http://yourarchives.nationalarchives.gov.uk/index.php?title=British_Consuls_in_Aleppo |title=British Consuls in Aleppo - Your Archives |publisher=Yourarchives.nationalarchives.gov.uk |date=2009-01-26 |accessdate=2009-04-02}}</ref><ref>Syria under the last five Turkish Sultans, Appletons' journal
+Published by D. Appleton and Co., 1876, p. 519 [http://books.google.com/books?id=6QUZAAAAYAAJ&pg=PA519&dq=tomato+syria&lr=&as_drrb_is=b&as_minm_is=1&as_miny_is=1776&as_maxm_is=12&as_maxy_is=1900&as_brr=0&as_pt=ALLTYPES]</ref>  Nineteenth century descriptions of its consumption are uniformly as an ingredient in a cooked dish.  In 1881 it is  described as only eaten in the region, “within the last forty years.”<ref>[http://books.google.com/books?id=pnkrAAAAYAAJ&pg=PA223&dq=tomato+syria&lr=&as_drrb_is=b&as_minm_is=1&as_miny_is=1776&as_maxm_is=12&as_maxy_is=1900&as_brr=0&as_pt=ALLTYPES  The Friend, 1881, p. 223]</ref>
+
+The tomato entered Iran through two separate routes{{Citation needed|date=May 2009}}. One route was through Turkey and Armenia and the second route was through the [[Qajar]] royal family's frequent travels to France. The early name used for tomato in Iran was "Armani Badenjan" (Armenian Eggplant). The Spanish tomato dish, [[Paella]], is called "Istanbuli Polao" ([[Istanbul]] [[Pilaf]]) by Iranians. Currently, the name used for tomato in Iran is "Gojeh Farangi" (Foreign Plum).
+
+===North America===
+The earliest reference to tomatoes being grown in [[British North America]] is from 1710, when herbalist [[William Charles Salmon|William Salmon]] reported seeing them in what is today [[South Carolina]]. They may have been introduced from the Caribbean. By the mid-18th century, they were cultivated on some Carolina plantations, and probably in other parts of the Southeast as well. It is possible that some people continued to think tomatoes were poisonous at this time; and in general, they were grown more as [[ornamental plant]]s than as food. [[Thomas Jefferson]], who ate tomatoes in [[Paris]], sent some seeds back to America.
+
+Because of their longer growing season for this heat-loving crop, several states in the US [[Sun Belt]] became major tomato-producers, particularly [[Florida]] and [[California]].  In California tomatoes are grown under [[irrigation]] for both the fresh fruit market and for [[Canned tomatoes|canning]] and processing.  The [[University of California, Davis]] (UC Davis) became a major center for research on the tomato. The C.M. Rick Tomato Genetics Resource Center at UC Davis is a genebank of wild relatives, monogenic mutants and miscellaneous genetic stocks of tomato.<ref>{{cite web|url=http://tgrc.ucdavis.edu/ |title=C.M. Rick Tomato Genetics Resource Center |publisher=Tgrc.ucdavis.edu |date= |accessdate=2009-04-02}}</ref> The Center is named for the late Dr. [[Charles M. Rick]], a pioneer in tomato genetics research.<ref>{{cite web|url=http://www.universityofcalifornia.edu/news/article/4319 |title=UC Newsroom, UC Davis Tomato Geneticist Charles Rick Dies at 87. (2002-05-08) |publisher=Universityofcalifornia.edu |date=2002-05-08 |accessdate=2009-04-02}}</ref>  Research on processing tomatoes is also conducted by the [http://www.tomatonet.org/ctri.htm California Tomato Research Institute] in [[Escalon, California]].
+
+===Production trends===
+About 125 million tons of tomatoes were produced in the world in 2008. [[China]], the largest producer, accounted for about one quarter of the global output, followed by [[United States]] and [[Turkey]].  For one variety, known as plum or [[plum tomato|processing tomatoes]], California accounts for 90% of U.S. production and 35% of world production.<ref name=UCProcessing>[http://ucanr.org/freepubs/docs/7228.pdf Hartz, T. et al. Processing Tomato Production in California. UC Vegetable Research and Information Center.]</ref>
+
+According to [[FAOSTAT]], the top producers of tomatoes (in [[tonne]]s) in 2007 were:
+
+:{| class="wikitable" border="1" style="float:left; clear:left;"
+|-
+! colspan=2|Top Tomato Producers — 2007<br />(in tonnes)
+|-
+| {{CHN}} || align="right" | 33 645 000
+|-
+| {{USA}} || align="right" | 11 500 000
+|-
+| {{TUR}} || align="right" | 9 919 673	
+|-
+| {{IND}} || align="right" | 8 585 800	
+|-
+| {{EGY}} || align="right" | 7 550 000
+|-
+|'''World Total''' || align="right" | '''126 246 708'''
+|-
+|colspan=2|''Source: <br />[[UN Food & Agriculture Organisation]] (FAO)''<ref>http://faostat.fao.org/site/567/DesktopDefault.aspx?PageID=567</ref>
+|}
+{{-}}
+
+==Cultivation and uses==
+[[Image:Tomatoe.JPG|thumb|right|A basket of tomatoes displayed in a [[Singapore]] supermarket.]]
+The tomato is now grown worldwide for its edible [[fruit]]s, with thousands of [[cultivar]]s having been selected with varying fruit types, and for optimum growth in differing growing conditions. Cultivated tomatoes vary in size from tomberries, about 5mm in diameter, through [[cherry tomato]]es, about the same {{convert|1|–|2|cm|in|1}} size as the wild tomato, up to "beefsteak" tomatoes {{convert|10|cm|in|0}} or more in diameter. The most widely grown commercial tomatoes tend to be in the {{convert|5|–|6|cm|in|1}} diameter range. Most cultivars produce red fruit; but a number of cultivars with yellow, orange, pink, purple, green, black, or white fruit are also available. Multicolored and striped fruit can also be quite striking. Tomatoes grown for [[canning]] and sauces are often elongated, {{convert|7|–|9|cm|in|0}} long and {{convert|4|–|5|cm|in|1}} diameter; they are known as [[plum tomato]]es, and have a lower water content. Roma-type tomatoes are important cultivars in the [[Sacramento Valley]] where a 120-acre Morning Star cannery handles 1.2 million pounds<ref>
+{{cite web
+| url = http://www.smithsonianmag.com/science-nature/passion-for-tomatoes.html
+| title =  http://www.smithsonianmag.com/science-nature/passion-for-tomatoes.html
+|dateformat= mdy
+|accessdate= December 11 2009
+}} In the August 2008 issue of ''Smithsonian'' magazine, page 56: "This 120-acre facility is the largest of its type in the world.  During the three months of the local harvest, it handles more than 1.2 million pounds of tomatoes every hour."
+</ref> of tomatoes an hour during the harvest season where the fields yield about 40 tons to the acre.<ref>
+{{cite web
+| url = http://www.smithsonianmag.com/science-nature/passion-for-tomatoes.html
+| title =  http://www.smithsonianmag.com/science-nature/passion-for-tomatoes.html
+|dateformat= mdy
+|accessdate= December 11 2009
+}} In the August 2008 issue of ''Smithsonian'' magazine, page 57: "...five tons to the acre, or about one-eighth of a Morning Star harvest from one acre."
+</ref>
+
+Tomatoes are one of the most common garden fruits in the United States and, along with [[zucchini]], have a reputation for outproducing the needs of the grower.
+
+As in most sectors of agriculture, there is increasing demand in [[Developed country|developed countries]] for [[organic farming|organic]] tomatoes, as well as [[heirloom tomato]]es, to make up for flavor and texture faults in commercial tomatoes.<ref>{{cite web|url=http://www.smithsonianmag.com/science-nature/passion-for-tomatoes.html |title=A Passion for Tomatoes &#124; Science & Nature &#124; Smithsonian Magazine |publisher=Smithsonianmag.com |date= |accessdate=2009-04-02}}</ref> Quite a few seed merchants and banks provide a large selection of heirloom seeds. Tomato seeds are occasionally organically produced as well, but only a small percentage of organic crop area is grown with organic seed {{Citation needed|date=January 2009}}.  The definition of an heirloom tomato is vague, but unlike commercial hybrids, all are self-pollinators who have bred true for 40 years or more.<ref>
+{{cite web
+| url = http://www.smithsonianmag.com/science-nature/passion-for-tomatoes.html
+| title =  http://www.smithsonianmag.com/science-nature/passion-for-tomatoes.html
+|dateformat= mdy
+|accessdate= December 11 2009
+}} In the August 2008 issue of ''Smithsonian'' magazine, page 60: "The definition of an heirloom is somewhat vague, but all are self-pollinators that have been bred true for 40 years or more."
+</ref>
+
+===Varieties===
+: See [[List of tomato cultivars]]
+There are many (around 7500) tomato varieties grown for various purposes. [[Heirloom tomato]]es are becoming increasingly popular, particularly among home gardeners and organic producers, since they tend to produce more interesting and flavorful{{Citation needed|date=August 2009}} crops at the cost of disease resistance,<ref>
+{{cite web
+| url = http://www.smithsonianmag.com/science-nature/passion-for-tomatoes.html
+| title =  http://www.smithsonianmag.com/science-nature/passion-for-tomatoes.html
+|dateformat= mdy
+|accessdate= December 11 2009
+}} In the August 2008 issue of ''Smithsonian'' magazine, page 56: "The Heinz 2401 is also bred for resistance to tomato pathogens, of which there are many: beetles and nematodes, fungi such as fusarium and verticillium, and viruses such as yellow leaf curl and spotted wilt, which are carried in the wind, the soil or the mouths of pests such as whitefly and thrips. Because it doesn't really matter what processing tomatoes look like, they require fewer applications of pesticides than do fresh-market varieties. The Romas I saw being harvested had been sprayed only once."
+</ref> and productivity.<ref>
+{{cite web
+| url = http://www.smithsonianmag.com/science-nature/passion-for-tomatoes.html
+| title =  http://www.smithsonianmag.com/science-nature/passion-for-tomatoes.html
+|dateformat= mdy
+|accessdate= December 11 2009
+}} In the August 2008 issue of ''Smithsonian'' magazine, page 57: "The plants are still growing, and Brait will be happy if they yield as little as five tons to the acre, or about one-eighth of a Morning Star harvest from one acre."
+</ref>
+Hybrid plants remain common, since they tend to be heavier producers and sometimes combine unusual characteristics of heirloom tomatoes with the ruggedness of conventional commercial tomatoes.
+[[Image:Heirloom tomatoes.jpg|thumb|left|upright|A variety of heirloom tomatoes]]
+Tomato varieties are roughly divided into several categories, based mostly on shape and size. "Slicing" or "globe" tomatoes are the usual tomatoes of commerce; [[beefsteak (tomato)|beefsteak]] are large tomatoes often used for sandwiches and similar applications - their kidney-bean shape makes commercial use impractical along with a thinner skin and being not bred for a long shelf life; globe tomatoes are of the category of canners used for a wide variety of processing and fresh eating; oxheart tomatoes can range in size up to beefsteaks, and are shaped like large strawberries; [[plum tomato]]es, or paste tomatoes (including pear tomatoes), are bred with a higher solid content for use in [[tomato sauce]] and [[tomato paste|paste]] and are usually oblong; pear tomatoes are obviously pear shaped and based upon the San Marzano types for a richer gourmet paste; [[cherry tomato]]es are small and round, often sweet tomatoes generally eaten whole in salads; and grape tomatoes which are a more recent introduction are smaller and oblong used in salads; [[campari tomato]]es are also sweet and noted for their juiciness, low acidity, and lack of mealiness; they are bigger then [[cherry tomato]]es, but are smaller than [[plum tomato]]. 
+
+Early tomatoes and cool-summer tomatoes bear fruit even where nights are cool, which usually discourages fruit set.<ref>http://www.plants.am/wiki/Tomato#Early_tomatoes</ref> There are also varieties high in beta carotenes and vitamin A, hollow tomatoes and tomatoes which keep for months in storage.<ref>http://www.plants.am/wiki/Tomato#Novelty_tomatoes</ref>
+
+Tomatoes are also commonly classified as [[determinate cultivar|determinate]] or indeterminate. Determinate, or bush, types bear a full crop all at once and top off at a specific height; they are often good choices for container growing. Determinate types are preferred by commercial growers who wish to harvest a whole field at one time, or home growers interested in canning. Indeterminate varieties develop into vines that never top off and continue producing until killed by frost. They are preferred by home growers and local-market farmers who want ripe fruit throughout the season. As an intermediate form, there are plants sometimes known as "vigorous determinate" or "semi-determinate"; these top off like determinates but produce a second crop after the initial crop. The majority of heirloom tomatoes are indeterminate, although some determinate heirlooms exist.
+[[Image:Heirlooms.jpg|thumb|upright|A variety of specific cultivars, including [[Brandywine (tomato)|Brandywine]] (biggest red), Black Krim (lower left corner), [[Green Zebra]] (top right), et cetera.]]
+
+Most modern tomato cultivars are smooth surfaced, but some older tomato cultivars and most modern beefsteaks often show pronounced ribbing, a feature that may have been common to virtually all [[pre-Columbian]] cultivars. While virtually all commercial tomato varieties are red, some tomato cultivars - especially heirlooms - produce fruit in colors other than [[red]], including [[yellow]], [[orange (colour)|orange]], [[pink]], [[black]], [[brown]], [[ivory (color)|ivory]], [[white]], and [[purple]], though such fruit is not widely available in grocery stores, nor are their seedlings available in typical nurseries, but must be bought as seed, often via mail-order.  Less common variations include fruit with stripes (Green Zebra), fuzzy skin on the fruit (Fuzzy Peach, Red Boar), multiple colors (Hillbilly, Burracker's Favorite, Lucky Cross), etc.
+
+There is also a considerable gap between commercial and home-gardener cultivars; home cultivars are often bred for flavor to the exclusion of all other qualities, while commercial cultivars are bred for such factors as consistent size and shape, disease and pest resistance, and suitability for mechanized picking and shipping, as well as their ability to be picked before fully ripening. The most commonly home grown tomato is the Beefsteak variety.<ref> http://www.ufseeds.com/All-About-Tomatoes_a6fd3933f91c4.html </ref>
+
+Tomatoes grow well with 7 hours of sunlight a day. A fertilizer with the ratio 5-10-10, often sold as tomato fertilizer or vegetable fertilizer can be used for extra growth and production, but manure or compost work well, too.
+
+===Diseases and pests===
+{{Main|List of tomato diseases}}
+Tomato cultivars vary widely in their resistance to disease. Modern [[Hybrid (biology)|hybrids]] focus on improving disease resistance over the [[heirloom plant]]s. One common tomato disease is [[tobacco mosaic virus]], and for this reason smoking or use of [[tobacco]] products are discouraged around tomatoes, although there is some scientific debate{{Citation needed|date=October 2009}} over whether the virus could possibly survive being burned and converted into smoke.<ref> [http://www.extension.umn.edu/distribution/horticulture/DG1168.html Tomato-Tobacco Mosaic Virus Disease] ''Extension.umn.edu''. Retrieved June 30, 2006.</ref> Various forms of [[mildew]] and [[blight]] are also common tomato afflictions, which is why tomato cultivars are often marked with a combination of letters which refer to specific disease resistance. The most common letters are: '''V''' - ''[[verticillium]]'' [[Wilting|wilt]], '''F''' - ''[[fusarium]]'' [[fungus|wilt]] strain I, '''FF''' - ''fusarium'' wilt strain I & II, '''N''' - ''[[nematode]]s'', '''T''' - ''[[tobacco mosaic virus]]'', and '''A''' - ''[[alternaria]]''.
+
+[[File:Tomato fruitworm.jpg|thumb|right|Tomato fruitworm eating unripe tomato]]
+Another particularly dreaded disease is [[curly top]], carried by the [[beet leafhopper]], which interrupts the lifecycle, ruining a nightshade plant as a crop. As the name implies, it has the symptom of making the top leaves of the plant wrinkle up and grow abnormally.
+
+Some common tomato pests are [[stink bug]]s, [[cutworm]]s, [[tomato hornworm]]s and [[tobacco hornworm]]s, [[aphid]]s, [[cabbage looper]]s, [[whitefly|whiteflies]], [[tomato fruitworm]]s, [[flea beetle]]s, [[red spider mite]], [[slug]]s,<ref>[http://www.extension.umn.edu/distribution/horticulture/DG7561.html Slugs in Home Gardens] ''Extension.umn.edu''. Retrieved July 14, 2006.</ref> and [[Colorado potato beetle]]s.
+
+===Pollination===
+[[Image:Tomato scanned.jpg|thumb|right|The flower and leaves are visible in this photo of a tomato plant.]]In the wild, original state, tomatoes required cross-[[pollination]]; they were much more [[Self-incompatibility in plants|self-incompatible]] than domestic cultivars. As a floral device to reduce selfing, the [[pistil]]s of wild tomatoes extended farther out of the flower than today's cultivars. The [[stamen]]s were, and remain, entirely within the closed [[Petal|corolla]].
+
+As tomatoes were moved from their native areas, their traditional [[pollinator]]s, (probably a species of [[halictidae|halictid]] [[bee]]) did not move with them. The trait of self-fertility (or self-[[pollenizer|pollenizing]]) became an advantage and domestic [[cultivar]]s of tomato have been selected to maximize this trait.
+
+This is not the same as [[self-pollination]], despite the common claim that tomatoes do so. That tomatoes pollinate themselves poorly without outside aid is clearly shown in [[greenhouse]] situations where pollination must be aided by artificial wind, vibration of the plants (one brand of vibrator is a wand called an "electric bee" that is used manually), or more often today, by cultured [[bumblebee]]s.
+
+The [[anther]] of a tomato flower is shaped like a hollow tube, with the [[pollen]] produced within the structure rather than on the surface, as with most species. The pollen moves through pores in the anther, but very little pollen is shed without some kind of outside motion.
+
+The best source of outside motion is a [[buzz pollination|sonicating]] bee such as a bumblebee or the original wild halictid pollinator. In an outside setting, wind or [[biological agent]]s provide sufficient motion to produce commercially viable crops.
+
+===Hydroponic and greenhouse cultivation===
+Tomatoes are often grown in [[greenhouse]]s in cooler climates, and there are cultivars such as the British 'Moneymaker' and a number of cultivars grown in [[Siberia]] that are specifically bred for indoor growing. In more [[Temperate|temperate climates]], it is not uncommon to start seeds in greenhouses during the late winter for future transplant.
+
+[[Hydroponic]] tomatoes are also available, and the technique is often used in hostile growing environments as well as high-density plantings.
+
+===Picking and ripening===
+[[Image:Green cherry tomatoes.JPG|thumb|right|Unripe tomatoes]]
+Tomatoes are often picked unripe (and thus colored green) and ripened in storage with [[ethylene]]. Unripe tomatoes are firm. As they ripen they soften until reaching the ripe state where they are red or orange in color and slightly soft to the touch. Ethylene is a hydrocarbon gas produced by many fruits that acts as the molecular cue to begin the ripening process. Tomatoes ripened in this way tend to keep longer but have poorer flavor and a mealier, starchier texture than tomatoes ripened on the plant. They may be recognized by their color, which is more pink or orange than the other ripe tomatoes' deep red, depending on variety.
+
+A machine-harvestable variety of tomato (the "square tomato") was developed in the 1950s by [[University of California, Davis]]'s [[Gordie C. Hanna]], which in combination with the development of a suitable harvester revolutionized the tomato-growing industry. In 1994 [[Calgene]] introduced a [[Transgenic plants|genetically modified]] tomato called the '[[FlavrSavr]]' which could be vine ripened without compromising [[shelf life]]. However, the product was not commercially successful (see main article for details) and was only sold until 1997.
+
+Recently, stores have begun selling "tomatoes on the vine", which are determinate varieties that are ripened or harvested with the fruits still connected to a piece of vine. These tend to have more flavor than artificially ripened tomatoes (at a price premium), but still may not be the equal of local garden produce.
+
+Slow-ripening cultivars of tomato have been developed by crossing a non-ripening cultivar with ordinary tomato cultivars. Cultivars were selected whose fruits have a long shelf life and at least reasonable flavor.
+
+===Modern uses and nutrition===
+{{nutritionalvalue | name=Red tomatoes, raw | water=95 g | kJ=75 | protein=1 g | fat=0.2 g | carbs=4 g | fiber=1 g | sugars=2.6 g | right=1 | vitC_mg=13}}
+Tomatoes are now eaten freely throughout the world, and their consumption is believed to benefit the heart among other things. They contain [[lycopene]], one of the most powerful natural [[antioxidant]]s. In some studies lycopene, especially in cooked tomatoes, has been found to help prevent [[prostate cancer]]<ref>{{cite web|url=http://www.whfoods.com/genpage.php?tname=foodspice&dbid=44|title=Health benefits of tomatoes|accessdate=2007-05-24}}</ref> but other research contradicts this claim.<ref>{{cite web|url=http://www.eurekalert.org/pub_releases/2007-05/aafc-nmt051607.php|title=No magic tomato? Study breaks link between lycopene and prostate cancer prevention|accessdate=2007-05-24}}</ref>  Lycopene has also been shown to improve the skin's ability to protect against harmful UV rays.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/health/7370759.stm|title=Tomato dishes 'may protect skin'}}</ref>  Natural genetic variation in tomatoes and their wild relatives has given a genetic treasure trove of genes that produce lycopene, carotene, anthocyanin, and other antioxidants.  Tomato varieties are available with double the normal [[vitamin C]] (Doublerich), 40 times normal [[vitamin A]] (97L97), high levels of [[anthocyanin]] (P20 Blue), and two to four times the normal amount of [[lycopene]] (numerous available cultivars with the high crimson gene).
+
+Tomato consumption has been associated with decreased risk of breast cancer<ref>Zhang CX, Ho SC, Chen YM, Fu JH, Cheng SZ, Lin FY. Greater vegetable and fruit intake is associated with a lower risk of breast cancer among Chinese women. Int J Cancer. 2009 Jul 1;125(1):181-8.</ref>, head and neck cancers<ref>Freedman ND, Park Y, Subar AF, Hollenbeck AR, Leitzmann MF, Schatzkin A, Abnet CC. Fruit and vegetable intake and head and neck cancer risk in a large United States prospective cohort study. Int J Cancer. 2008 May 15;122(10):2330-6.</ref> and might be strongly protective against neurodegenerative diseases<ref>Rao AV, Balachandran B. Role of oxidative stress and antioxidants in neurodegenerative diseases. Nutr Neurosci. 2002 Oct;5(5):291-309.</ref><ref>Fall PA, Fredrikson M, Axelson O, Granérus AK. Nutritional and occupational factors influencing the risk of Parkinson's disease: a case-control study in southeastern Sweden. Mov Disord. 1999 Jan;14(1):28-37.</ref><ref>Suganuma H, Hirano T, Arimoto Y, Inakuma T. Effect of tomato intake on striatal monoamine level in a mouse model of experimental Parkinson's disease. J Nutr Sci Vitaminol (Tokyo). 2002 Jun;48(3):251-4.</ref>.
+
+Though it is botanically a [[berry]], a subset of [[fruit]], the tomato is nutritionally categorized as a [[vegetable]] (see [[Tomato#Fruit or vegetable?|below]]). Since "vegetable" is not a botanical term, there is no contradiction in a plant part being a fruit botanically while still being considered a vegetable.
+
+Tomatoes are used extensively in [[Mediterranean Basin|Mediterranean]] cuisine, especially [[Italian cuisine|Italian]] and [[Middle East]]ern cuisines. The tomato is [[acid]]ic; this acidity makes tomatoes especially easy to preserve in home [[canning]] whole, in pieces, as [[tomato sauce]], or paste. [[Tomato juice]] is often canned and sold as a [[beverage]]; Unripe green tomatoes can also be [[Fried green tomatoes (food)|breaded and fried]], used to make [[salsa (sauce)|salsa]], or pickled. The fruit is also preserved by drying, often by sun, and sold either in bags or in jars in oil.
+
+===Cultural impact{{anchor|Impact}}===<!-- Rotten Tomatoes -->
+The town of [[Buñol]], [[Spain]], annually celebrates [[Tomatina|La Tomatina]], a festival centered on an enormous tomato fight. Tomatoes are also a popular "non-lethal" throwing weapon in mass protests; and there was a common tradition of throwing rotten tomatoes at bad performers on a stage during the 19th century; today it is usually referenced as a mere metaphor (see [[Rotten Tomatoes]]). Embracing it for this protest connotation, the [[Socialist Party (Netherlands)|Dutch Socialist party]] adopted the tomato as their logo.
+
+Known for its tomato growth and production, the Mexican state of [[Sinaloa]] takes the tomato as its symbol.<ref>{{cite web|url=http://www.sinaloa.gob.mx |title=Gobierno del Estado de Sinaloa |publisher=Sinaloa.gob.mx |date= |accessdate=2008-10-27}}</ref>
+
+In October 1965, Reynoldsburg Ohio City Council dedicated a plaque commemorating a proclamation from the Franklin County Historical Society that named Reynoldsburg as the birthplace of the commercial tomato
+
+===Storage===
+Most tomatoes today are picked before fully ripened. They are bred to continue ripening, but the enzyme{{Clarify|date=October 2008}} that ripens tomatoes stops working when it reaches temperatures below 12.5&nbsp;°C (54.5&nbsp;°F). Once an unripe tomato drops below that temperature, it will not continue to ripen.{{Citation needed|date=October 2008}} Once fully ripe, tomatoes can be stored in the [[refrigerator]] but are best kept at [[room temperature]]. Tomatoes stored in the refrigerator tend to lose flavor but will still be edible;<ref>{{cite web|url=http://ohioline.osu.edu/hyg-fact/5000/5532.html |title=Selecting, Storing and Serving Ohio Tomatoes, HYG-5532-93 |publisher=Ohioline.osu.edu |date= |accessdate=2008-10-27}}</ref> thus the "Never Refrigerate" stickers sometimes placed on tomatoes in supermarkets.
+
+==Botanical description==
+Tomato plants are vines, initially [http://en.wiktionary.org/wiki/decumbent decumbent], typically growing six feet or more above the ground if supported, although erect bush varieties have been bred, generally three feet tall or shorter. Indeterminate types are "tender" perennials, dying annually in temperate climates (they are originally native to tropical highlands), although they can live up to three years in a greenhouse in some cases. Determinate types are annual in all climates.
+
+Tomato plants are [[dicot]]s, and grow as a series of branching stems, with a terminal bud at the tip that does the actual growing. When that tip eventually stops growing, whether because of pruning or flowering, lateral buds take over and grow into other, fully functional, vines.<ref>{{cite web|url=http://www.ncsu.edu/sustainable/profiles/bot_tom.html |title=Crop Profiles - Tomato |publisher=Ncsu.edu |date= |accessdate=2008-10-27}}</ref>
+
+Tomato plant vines are typically pubescent, meaning covered with fine short hairs. These hairs facilitate the vining process, turning into roots wherever the plant is in contact with the ground and moisture, especially if there is some issue with the vine's contact to its original root.
+
+Most tomato plants have [[compound leaves]], and are called regular leaf (RL) plants. But some cultivars have simple leaves known as [[potato leaf]] (PL) style because of their resemblance to that close cousin. Of regular leaves, there are variations, such as [[rugose]] leaves, which are deeply grooved, [[variegated]], [[angora]] leaves, which have additional colors where a genetic mutation causes [[chlorophyll]] to be excluded from some portions of the leaves.<ref>{{cite web|url=http://faq.gardenweb.com/faq/lists/tomato/2004111539004321.html |title=Are there different types of tomato leaves? |publisher=Faq.gardenweb.com |date= |accessdate=2008-10-27}}</ref>
+
+Their [[flower]]s, appearing on the apical [[meristem]], have the anthers fused along the edges, forming a column surrounding the [[pistil]]'s style. Flowers tend to be self-fertilizing. This is because they are native to the Americas, where there were no [[honeybee]]s (which are native to the [[old world]]).  Similarly, many plants of the Americas are self-fertilizing,<ref>{{cite web|url=http://www-plb.ucdavis.edu/labs/rost/Tomato/tomhome.html |title=Tomato Anatomy Home |publisher=Plb.ucdavis.edu |date= |accessdate=2008-10-27}}</ref> while others are pollinated by flies, butterflies, moths, other insects, or other external forces that present in the Americas, that made it possible for some new world plants to originally require biotic pollination.
+
+Tomato fruit is classified as a [[berry]]. As a true fruit, it develops from the ovary of the plant after fertilization, its flesh comprising the pericarp walls. The fruit contains hollow spaces full of seeds and moisture, called locular cavities. These vary, among cultivated species, according to type. Some smaller varieties have two cavities, globe-shaped varieties typically have three to five, beefsteak tomatoes have a great number of smaller cavities, while paste tomatoes have very few, very small cavities.
+
+The seeds need to come from a mature fruit, and be dried/fermented before germination.
+
+==Botanical classification==
+In 1753 the tomato was placed in the genus ''[[Solanum]]'' by [[Carolus Linnaeus|Linnaeus]] as ''Solanum lycopersicum'' L. (derivation, 'lyco', [[wolf]], plus 'persicum', [[peach]], ''i.e.,'' "wolf-peach").  Other species in that family are [[potato]]es, [[chili pepper]]s, [[Nicotiana|tobacco]], [[eggplant]]  and the poisonous [[Atropa belladonna|belladonna]].  However, in 1768 [[Philip Miller]] placed it in its own genus, and he named it ''Lycopersicon esculentum''. This name came into wide use but was in breach of the [[International Code of Botanical Nomenclature|plant naming rules]]. Technically, the combination ''Lycopersicon lycopersicum'' (L.) [[Gustav Karl Wilhelm Hermann Karsten|H.Karst.]] would be more correct, but this name (published in 1881) has hardly ever been used (except in seed catalogs, which frequently used it and still do). Therefore, it was decided to [[conservation (botany)|conserve]] the well-known ''Lycopersicon esculentum'', making this the [[correct name]] for the tomato when it is placed in the genus ''Lycopersicon''.
+
+However, [[genetics|genetic]] evidence (''e.g.,'' Peralta & Spooner 2001) has now shown that Linnaeus was correct in the placement of the tomato in the genus ''Solanum'', making the [[Scientific classification|Linnaean name]] correct;<ref name=NHM/> if ''Lycopersicon'' is excluded from ''Solanum'', ''Solanum'' is left as a [[paraphyly|paraphyletic]] taxon. Despite this, it is likely that the exact taxonomic placement of the tomato will be controversial for some time to come, with both names found in the literature. Two of the major reasons that some still consider the genera separate are the leaf structure (tomato leaves are markedly different from any other ''Solanum''), and the biochemistry (many of the alkaloids common to other ''Solanum'' species are conspicuously absent in the tomato).  The tomato can with some difficulty be crossed with a few species of diploid [[Potato]] with viable offspring that are capable of reproducing.  Such hybrids provide conclusive evidence of the close relationship between these genera.
+
+An international consortium of researchers from 10 countries, among them researchers from the [[Boyce Thompson Institute for Plant Research]] began sequencing the tomato [[genome]] in 2004 and is creating a database of genomic sequences and information on the tomato and related plants.<ref>{{cite news|url=http://solgenomics.net/about/tomato_project_overview.pl |title=International Tomato Genome Sequencing Project |publisher=solgenomics.net |author=Lukas Mueller |accessdate=2009-10-21}}</ref><ref>{{cite news|url=http://www.news.cornell.edu/stories/Jan07/SolanacaeNSF.kr.html |title=Tomato genome project gets $1.8M |publisher=News.cornell.edu |author=Krishna Ramanujan |date=30 January 2007 |accessdate=2008-10-27}}</ref>  A draft version of the full genome expected to be published by 2008. The genomes of its [[organelles]] ([[mitochondria]] and [[chloroplast]]) are also expected to be published as part of the project.
+
+==Breeding==
+Active breeding programs are ongoing by individuals, universities, corporations, and organizations.  The Tomato Genetic Resource Center, U.S. Department of Agriculture's Agricultural Research Service-Germplasm Resources Information Network (GRIN)[http://www.ars-grin.gov], AVRDC, and numerous seed banks around the world store seed representing genetic variations of value to modern agriculture. These seed stocks are available for legitimate breeding and research efforts.  While individual breeding efforts can produce useful results, the bulk of tomato breeding work is at universities and major agriculture related corporations.  University breeding programs are active in Florida, North Carolina, New York, Oregon, and several other states as well as in numerous countries worldwide.  These efforts have resulted in significant regionally adapted breeding lines and hybrids such as the Mountain series from North Carolina. Corporations including Heinz, Monsanto, BHNSeed, Bejoseed, etc, have breeding programs that attempt to improve production, size, shape, color, flavor, disease tolerance, pest tolerance, nutritional value, and numerous other traits.
+
+==Fruit or vegetable?==
+Botanically, a tomato is the [[ovary (plants)|ovary]], together with its seeds, of a [[flowering plant]]: therefore it is a [[fruit]]. However, the tomato is not as sweet as those foodstuffs usually called fruits and, from a culinary standpoint, it is typically served as part of a salad or [[main course]] of a meal, as are [[vegetable]]s, rather than at [[dessert]] in the case of most fruits. As noted above, the term [[vegetable]] has no botanical meaning and is purely a culinary term. Originally the controversy was that tomatoes are treated as a fruit in home canning practices. Tomatoes are acidic enough to be processed in a water bath rather than a pressure cooker as "vegetables" require.
+
+This argument has had legal implications in the United States. In 1887, U.S. [[tariff]] laws that imposed a [[Duty (economics)|duty]] on vegetables but not on fruits caused the tomato's status to become a matter of legal importance. The [[Supreme Court of the United States|U.S. Supreme Court]] settled the controversy on May 10, 1893 by declaring that the tomato is a vegetable, based on the popular definition that classifies vegetables by use, that they are generally served with dinner and not dessert (''[[Nix v. Hedden]]'' (149 U.S. 304)).<ref>{{cite web|url=http://www.vegparadise.com/highestperch8.html |title=Vegetarians in Paradise/Tomato History, Tomato Nutrition, Tomato Recipe |publisher=Vegparadise.com |date= |accessdate=2009-04-02}}</ref><!-- The Smithsonian reference does not give the name of the case, but does verify the story, so it was not an accurate citation for this specific fact. -->
+The holding of the case applies only to the interpretation of the [[Tariff of 1883|Tariff Act of March 3, 1883]], and the court did not purport to reclassify the tomato for botanical or other purpose. 
+Tomatoes have been designated the state vegetable of [[New Jersey]]. [[Arkansas]] took both sides by declaring the "South Arkansas Vine Ripe Pink Tomato" to be both the state fruit and the state vegetable in the same law, citing both its culinary and botanical classifications. In 2006, the [[Ohio House of Representatives]] passed a law that would have declared the tomato to be the official state fruit, but the bill died when the [[Ohio Senate]] failed to act on it. However, in April 2009 a new form of the bill passed, making the tomato the official fruit of the state of Ohio. Tomato juice has been the official beverage of Ohio since 1965. [[A.W. Livingston]], of [[Reynoldsburg, Ohio]], played a large part in popularizing the tomato in the late 1800s.
+
+Due to the scientific definition of a fruit, the tomato remains a fruit when not dealing with US tariffs. Nor is it the only culinary vegetable that is a botanical fruit: [[eggplant]]s, [[cucumber]]s, and [[squash (fruit)|squashes]] of all kinds (such as [[zucchini]] and [[pumpkin]]s) share the same ambiguity.
+
+==Pronunciation==
+The pronunciation of ''tomato'' [[American and British English pronunciation differences|differs]] in different [[List of countries where English is an official language|English-speaking countries]]; the two most common variants are {{IPA-en|təˈmɑːtoʊ|}} and {{IPA-en|təˈmeɪtoʊ|}}.<!--inappropriate to transcribe a specific dialect. these are both generic pronunciations--> Speakers from the [[British Isles]], most of the [[Commonwealth of Nations|Commonwealth]], and older generations among speakers of [[Southern American English]] typically say {{IPA|/təˈmɑːtoʊ/}}, while most American and Canadian speakers usually say {{IPA|/təˈmeɪɾoʊ/}}.
+
+The word's [[Free variation|dual pronunciations]] were immortalized in [[Ira Gershwin|Ira]] and [[George Gershwin]]'s 1937 song "[[Let's Call the Whole Thing Off]]" (''You like {{IPA|/pəˈteɪtoʊ/}} and I like {{IPA|/pəˈtɑːtoʊ/}} / You like {{IPA|/təˈmeɪtoʊ/}} and I like {{IPA|/təˈmɑːtoʊ/}}'')<!-- often misquoted as you say... --> and have become a symbol for [[nitpicking (sport)|nitpicking]] pronunciation disputes. In this capacity it has even become an American and British slang term: saying {{IPA|/təˈmeɪtoʊ, təˈmɑːtoʊ/}} when presented with two choices can mean "What's the difference?" or "It's all the same to me."{{Or|date=October 2008}}<!-- I've heard it used this way, as well - no idea how you'd source it however... ~ender -->
+
+==Safety==
+===Plant toxicity===
+
+The leaves, stems, and green unripe fruit of the tomato plant,<ref name="calimaster">{{cite book|last=Pittenger|first=Dennis R.|title=California Master Gardener Handbook|url=http://www.google.com/books?id=WhWjHB1Zjf8C&pg=PA643|accessdate=2009-07-21|year=2002|publisher=ANR Publications|isbn=1879906546, 9781879906549|page=643|pages=702}}</ref> as a member of the plant genus [[Solanum]] (nightshade), contain the poison [[solanine]], which is toxic to humans and animals.  Children have been poisoned by a tea produced from the leaves of the tomato plant. The fresh fruit is, however, harmless.<ref name="calimaster" />
+
+===2006===
+[[Image:No Tomatoes.jpg|thumb|A sign posted at a Havelock, North Carolina Burger King telling customers that no tomatoes are available due to the [[2008 United States salmonellosis outbreak|salmonella outbreak]].]]
+On October 30, 2006, the U.S. [[Centers for Disease Control and Prevention]] (CDC) announced that tomatoes might have been the source of a [[salmonella]] outbreak causing 172 illnesses in 18 states.<ref>{{cite web|url=http://www.cbsnews.com/stories/2006/10/30/national/main2138331.shtml |title=CDC Probes Salmonella Outbreak, Health Officials Say Bacteria May Have Spread Through Some Form Of Produce - CBS News |publisher=Cbsnews.com |date= |accessdate=2008-10-27}}</ref>  The affected states included [[Arkansas]], [[Connecticut]], [[Georgia (U.S. state)|Georgia]], [[Indiana]], [[Kentucky]], [[Maine]], [[Massachusetts]], [[Michigan]], [[Minnesota]], [[North Carolina]], [[New Hampshire]], [[Ohio]], [[Pennsylvania]], [[Rhode Island]], [[Tennessee]], [[Virginia]], [[Vermont]] and [[Wisconsin]]. Tomatoes have been linked to seven salmonella outbreaks since 1990 (from the [[Food Safety Network]]).<ref>{{cite web|url=http://www.foodsafetynetwork.ca/en/article-details.php?a=3&c=32&sc=419&id=953 |title=Food Safety Network: Researchers &gt; From the Food Safety Network &gt; Food Safety Network Publications and Documents &gt Articles &gt; A selection of North American tomato related outbreaks from 1990-2005 |publisher=Foodsafetynetwork.ca |date= |accessdate=2008-10-27}}</ref>
+
+===2008===
+[[2008 United States salmonellosis outbreak|A 2008 salmonella outbreak]] caused the removal of tomatoes from stores and restaurants across the United States and parts of Canada.<ref>{{cite web|url=http://www.nationalpost.com/news/canada/story.html?id=585498 |title=Tomatoes taken off menus |publisher=Nationalpost.com |date= |accessdate=2008-10-27}}</ref> As of July 8, 2008, from April 10, 2008, the rare Saintpaul [[serovar|serotype]] of ''[[Salmonella enterica]]'' caused at least 1017 cases of [[salmonellosis]] food poisoning in 41 states throughout the United States, the District of Columbia, and Canada. As of July 2008, the [[U.S. Food and Drug Administration]] suspected that the contaminated food product was a common ingredient in fresh salsa, such as raw tomato, fresh jalapeño pepper, fresh serrano pepper, and fresh cilantro. It is the largest reported salmonellosis outbreak in the United States since 1985. New Mexico and Texas were proportionally the hardest hit by far, with 49.7 and 16.1 reported cases per million, respectively. The greatest number of reported cases occurred in Texas (384 reported cases), New Mexico (98), Illinois (100), and Arizona (49).<ref>{{cite news | title = Cases infected with the outbreak strain of Salmonella Saintpaul, United States, by state | url = http://www.cdc.gov/salmonella/saintpaul/map.html}}</ref> There were at least 203 reported hospitalizations linked to the outbreak, it caused at least one death, and it may have been a contributing factor in at least one additional death.<ref>{{cite web|url=http://www.cdc.gov/salmonella/saintpaul/ |title=August 8, 2008: Investigation of Outbreak of Infections Caused by Salmonella Saintpaul &#124; Salmonella CDC |publisher=Cdc.gov |date= |accessdate=2008-10-27}}</ref> The [[Centers for Disease Control and Prevention|CDC]] maintains that "it is likely many more illnesses have occurred than those reported." Applying a previous CDC estimated ratio of non-reported salmonellosis cases to reported cases (38.6:1), one would arrive at an estimated 40,273 illnesses from this outbreak.<ref>{{cite news | title = FoodNet Estimate of the Burden of Illness Caused by Nontyphoidal Salmonella Infections in the United States | author = Voetsch, et al. | work = Clinical Infectious Diseases, 2004; 38:S3 | date = 2004-04-15 | url = http://www.journals.uchicago.edu/doi/full/10.1086/381578}}</ref>
+
+==Tomato records==
+[[Image:Tomatotree.JPG|thumb|The ''tomato tree'' as seen by guests on the [[Living with the Land]] boat ride at [[Epcot]], [[Lake Buena Vista, Florida]].]]
+The heaviest tomato ever was one of 3.51&nbsp;kg (7&nbsp;lb 12&nbsp;oz), of the cultivar 'Delicious', grown by Gordon Graham of [[Edmond, Oklahoma]] in 1986.{{Citation needed|date=May 2007}} The largest tomato plant grown was of the cultivar 'Sungold' and reached 19.8&nbsp;m (65&nbsp;ft) length, grown by Nutriculture Ltd (UK) of Mawdesley, Lancashire, UK, in 2000.{{Citation needed|date=May 2007}}
+
+The massive "tomato tree" growing inside the [[Walt Disney World Resort]]'s experimental greenhouses in [[Lake Buena Vista, Florida]] may be the largest single tomato plant in the world.  The plant has been recognized as a Guinness World Record Holder, with a harvest of more than 32,000 tomatoes and a total weight of 1,151.84 pounds (522&nbsp;kg). It yields thousands of tomatoes at one time from a single vine.  Yong Huang, [[Epcot]]'s manager of agricultural science, discovered the unique plant in Beijing, China.  Huang brought its seeds to Epcot and created the specialized greenhouse for the fruit to grow.  The vine grows golf ball-sized tomatoes which are served at Walt Disney World restaurants. The world record-setting tomato tree can be seen by guests along the [[Living with the Land|Living With the Land]] boat ride at Epcot.
+
+On [[August 30]], [[2007]], 40,000 Spaniards gathered in [[Buñol]] to throw {{convert|115000|kg|lb}} of tomatoes at each other in the yearly [[Tomatina]] [[festival]]. Bare-chested tourists also included hundreds of British, French and Germans.<ref>{{cite web|url=http://itn.co.uk/news/9a5a1671ceba4f43741dc008f237c1ea.html |title=ITN.co.uk, "Spain's tomato fighters see red" |publisher=Itn.co.uk |date=2007-08-30 |accessdate=2009-04-02}}</ref>
+
+==Types==
+{{Mergeto|List of tomato cultivars|date=September 2009|discuss=Talk:Tomato#Proposed_merger}}
+Varieties commonly grown by home gardeners include{{Citation needed|date=October 2008}}:
+*'[[Beefsteak (tomato)|Beefsteak]] VFN' (a common hybrid resistant to [[Verticillium]], [[Fusarium]], and [[Nematode]]s)
+*'Big Boy' (a very common determinate hybrid in the United States)
+*'Black Krim' (a purple-and-red cultivar from the [[Crimea]])
+*'[[Brandywine (tomato)|Brandywine']] (a pink, indeterminate beefsteak type with a considerable number of substrains)
+*'Burpee VF' (an early attempt by [[W. Atlee Burpee]] at disease resistance in a commercial tomato)
+*'[[Early Girl]]' (an early maturing globe type)
+*'Gardener's Delight' (a smaller English variety)
+*'Juliet' (an oblong cherry tomato)
+*'Marmande' (a heavily ridged variety from [[southern France]]; similar to a small beefsteak and available commercially in the U.S. as [[UglyRipe]])
+*'Moneymaker' (an English greenhouse strain)
+*[[Mortgage Lifter]] (a popular heirloom beefsteak known for gigantic fruit)
+*'Patio' (bred specifically for [[container gardens]])
+*'Purple Haze' (large cherry, indeterminate. Derived from Cherokee Purple, Brandywine and Black Cherry)
+*'[[Roma tomato|Roma]] VF' (a [[plum tomato]] common in supermarkets)
+*'Rutgers' (a commercial variety but considered an heirloom)
+*'[[San Marzano tomato|San Marzano']] (a plum tomato popular in Italy)
+*'Santa F1' (a [[China|Chinese]] [[grape tomato]] hybrid popular in the U.S. and parts of southeast Asia)
+*'Shephard's Sack' (a large variety popular in parts of [[Wales]])
+*'Sungold F1' (orange cherry variety with distinctive candy like sweetness)
+*'Sweet 100' (a very prolific, indeterminate cherry tomato)
+*'[[Yellow Pear tomato|Yellow Pear']]' (a yellow, [[Pear shaped|pear-shaped]] heirloom cultivar)
+*'Cherry' Small, cherry shaped
+
+Many varieties of processing tomatoes are grown commercially, but just five hybrid cultivars grown in California constitute over 60% of total production of processing tomatoes.<ref name=UCProcessing/>
+
+Heritage and heirloom varieties include:
+* 'Aunt Ruby's German Green' (spicy green beefsteak type)
+* 'Azoykcha' (Russian yellow variety)
+* 'Andrew Rahart Jumbo Red' (red beefsteak)
+* 'Backfield' (deep red indeterminate beefsteak type)
+* 'Black Cherry' (black/brown cherry)
+* 'Box Car Willie' (red beefsteak)
+* '[[Brandywine (tomato)|Brandywine]]' (red beefsteak, Sudduth strain)
+* '[[Cherokee Purple]]' (purple beefsteak)
+* 'Crnkovic Yugoslavian' (red beefsteak)
+* 'Earl’s Faux' (pink/red beefsteak)
+* 'Elbe' (orange beefsteak)
+* 'German Johnson (sweet beefsteak type)
+* 'Great Divide' (red beefsteak)
+* 'Ispolin' (pink Siberian strain)
+* 'Lucky Cross' (bi-color red/orange)
+* 'Marianna’s Peace' (red beefsteak)
+* '[[Mortgage Lifter]]' (red beefsteak, various strains)
+* 'Red Pear' (pear shaped salad cherry type with beefsteak flavor)
+* 'Rose' (very large sweet Amish beefsteak type)
+* 'Urbikany' (Siberian variety)
+
+==Gallery==
+<gallery>
+Image:unripe tomatoes.jpg|Unripe tomatoes on a vine, good for pickling.
+Image:Small tomatos.jpg|Small cherry tomatoes in Korea.
+Image:Tomatoes-on-the-bush.jpg|Tomatoes on a vine.
+Image:Tomato slices.jpg|Tomato slices.
+Image:Tomatplanta.JPG|Young tomato plant.
+Image:Tomatos in vegie garden.jpg|Tomato plants in the garden.
+Image:Tomato Flower.jpg|Tomato Flower.
+Image:Organicsalsa.jpg|Heirloom tomatoes in [[Pico de gallo]].
+Image:Tomato grass backdrop.jpg|Tomato fruit.
+Image:Tomato400ppx.png|Vine Ripened Tomato
+
+Image:Bluetomato.jpg|'P20 blue tomato from OSU'
+</gallery>
+
+==See also==
+
+*[[Tomato stain]]
+*[[Canned tomatoes]]
+*[[Tomatillo]] (Mexican green "tomato")
+*[[Tomberry]] (Trademarked name of an unusually small cultivar)
+*[[Tomacco]]
+*[[Flavr Savr]]
+*[[Arthur B. Howard]]
+*[[Attack of the Killer Tomatoes]]
+
+===Culinary uses===
+[[File:Tomates farcies végétariennes.jpg|thumb]]
+[[File:Pa amb tomàquet - 001.jpg|thumb|Pa amb tomàquet]]
+[[File:Suquet de peix.jpg|thumb|Suquet de peix ([[Catalan cuisine]])]]
+*[[Barbecue sauce]]s
+*[[Bloody Mary (cocktail)|Bloody Mary]]
+*[[Bruschetta]]
+*[[Fried green tomatoes (food)]]
+*[[Gazpacho]] ([[Andalusian cuisine]])
+*[[Insalata Caprese]] [[Neapolitan cuisine]]
+*[[Ketchup]]
+*[[Pa amb tomàquet]] ([[Catalan cuisine]])
+*[[Pizza]]
+*[[Esqueixada]]
+*[[Salsa (sauce)|Salsa]]
+*[[Tomato juice]]
+*[[Tomato paste]]
+*[[Tomato pie]]
+*[[Tomato purée]]
+*[[Tomato sauce]] (common in [[Italian cuisine]])
+*[[Tomato soup]]
+
+==References==
+*Smith, A. F. (1994). ''The Tomato in America''. [[University of Illinois Press]]. ISBN 0-252-07009-7.
+*Peralta, I. E. & Spooner, D. M. (2001). Granule-bound starch synthase (Gbssi) gene phylogeny of wild tomatoes (''Solanum'' L. section ''Lycopersicon'' [[Mill.]] Wettst. Subsection ''Lycopersicon''). ''American Journal of Botany'' 88 (10): 1888–1902 (available [http://www.amjbot.org/cgi/reprint/88/10/1888 online]).
+
+==Footnotes==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{Sisterlinks|Tomato}}
+{{Wikispecies|Solanum lycopersicum}}
+{{Commons|Solanum lycopersicum}}
+*[http://ipm.ncsu.edu/AG295/html/tomato_key.htm Tomato Pests] [[North Carolina State University|(NCSU)]] - Overview of the entomological threats to tomato cultivation.
+*[http://www.sgn.cornell.edu/about/tomato_sequencing.pl Tomato Genome Sequencing Project] - Sequencing of the twelve tomato chromosomes.
+*[http://www.nhm.ac.uk/research-curation/projects/solanaceaesource/taxonomy/description-detail.jsp?spnumber=3601 ''Solanum lycopersicum'' L. on Solanaceae Source] - Images, specimens and a full list of scientific synonyms previously used to refer to the tomato.
+*[http://www.eu-sol.wur.nl Tomato core collection database] - Phenotypes and images of 7,000 tomato cultivars
+*[http://www.geochembio.com/biology/organisms/tomato/ ''Solanum lycopersicum'': facts, development, flower and fruit anatomy]
+*{{eol|392557|Solanum lycopersicum}}
+*[http://www.plants.am/wiki/Tomato Tomato cultivation and cultivars]
+*[http://www.kdcomm.net/~tomato/ The On-line Tomato Vine (Keith Mueller)] - Comprehensive and practical information on growing and breeding tomatoes.
+*[http://www.growyourtomatoes.com/ How to grow tomatoes] - all the info and photos you need to grow your own.
+*[http://www.scientificamerican.com/article.cfm?id=case-against-heirloom-tomatoes&print=true The case against heirloom tomatoes]
+
+[[Category:Tomatoes]]
+[[Category:Crops originating from the Americas]]
+[[Category:Fruit]]
+
+[[ang:Tomato]]
+[[ar:طماطم]]
+[[an:Tomate]]
+[[ast:Tomate]]
+[[az:Pomidor]]
+[[bn:টমেটো]]
+[[zh-min-nan:Kam-á-bi̍t]]
+[[be:Таматы]]
+[[be-x-old:Памідоры]]
+[[bcl:Kamatis]]
+[[bo:ལྡུམ་སྒོང་།]]
+[[bs:Paradajz]]
+[[br:Tomatez]]
+[[bg:Домат]]
+[[ca:Tomàquet]]
+[[cs:Rajče jedlé]]
+[[cy:Tomato]]
+[[da:Tomat]]
+[[de:Tomate]]
+[[dv:ވިލާތު ބަށި]]
+[[nv:Chʼil łichxíʼí]]
+[[et:Tomat]]
+[[el:Τομάτα]]
+[[es:Solanum lycopersicum]]
+[[eo:Tomato]]
+[[eu:Tomate]]
+[[fa:گوجه فرنگی]]
+[[fr:Tomate]]
+[[ga:Tráta]]
+[[gd:Tomàto]]
+[[gl:Tomate]]
+[[gan:番茄]]
+[[ko:토마토]]
+[[hi:टमाटर]]
+[[hr:Rajčica]]
+[[ilo:Kamatis]]
+[[id:Tomat]]
+[[iu:ᒥᓗᑦᓱᑳᒐᖅ/milutsukaagaq]]
+[[os:Пъамидор]]
+[[zu:Utamatisi]]
+[[is:Tómatur]]
+[[it:Solanum lycopersicum]]
+[[he:עגבנייה]]
+[[kn:ಟೊಮೇಟೊ]]
+[[pam:Kamatis]]
+[[ka:ჩვეულებრივი პომიდორი]]
+[[kk:Қызанақ]]
+[[ht:Tomat]]
+[[ku:Fireng]]
+[[lad:Tomat]]
+[[la:Lycopersicum]]
+[[lv:Tomāts]]
+[[lt:Pomidoras]]
+[[lij:Tomata]]
+[[ln:Tomáti]]
+[[hu:Paradicsom (növény)]]
+[[mk:Домат]]
+[[ml:തക്കാളി]]
+[[mr:टोमॅटो]]
+[[ms:Tomato]]
+[[nah:Xītomatl]]
+[[nl:Tomaat]]
+[[ja:トマト]]
+[[nap:Pummarola]]
+[[no:Tomat]]
+[[nn:Tomat]]
+[[oc:Tomata]]
+[[pl:Pomidor zwyczajny]]
+[[pt:Tomate]]
+[[ro:Roşie]]
+[[qu:Chilltu]]
+[[ru:Томат]]
+[[sq:Domatja]]
+[[scn:Pumadoru]]
+[[simple:Tomato]]
+[[sk:Rajčiak jedlý]]
+[[sl:Paradižnik]]
+[[szl:Tůmata]]
+[[sr:Парадајз]]
+[[fi:Tomaatti]]
+[[sv:Tomat]]
+[[tl:Kamatis]]
+[[ta:தக்காளி]]
+[[te:టమాటో]]
+[[th:มะเขือเทศ]]
+[[to:Temata]]
+[[tr:Domates]]
+[[uk:Помідор]]
+[[ur:ٹماٹر]]
+[[ug:پەمىدۇر]]
+[[vi:Cà chua]]
+[[vls:Tomatte]]
+[[yi:טאמאטע]]
+[[yo:Tòmátò]]
+
+[[bat-smg:Tuomats]]
+
+[[zh:番茄]]
+[[zh-yue:番茄]]

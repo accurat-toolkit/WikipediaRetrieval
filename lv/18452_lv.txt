@@ -1,0 +1,35 @@
+{{Infokaste Latvijas novads
+| nosaukums         = Džūkstes pagasts
+| karte             = Džūkstes_pagasts_LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Džūkstes_pagasts_COA.png
+| ģerboņa_nosaukums = Džūkstes pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| centrs            = Džūkste
+| platība           = 184,4
+| iedzīvotāji       = 1654
+| iedzīvotāji_gads  = 2009
+| blīvums           = 9,0
+| izveidots         = 1890
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+'''Džūkstes pagasts''' ir viena no [[Tukuma novads|Tukuma novada]] teritoriālajām vienībām tā dienvidaustrumos. Robežojas ar [[Lestenes pagasts|Lestenes]], [[Slampes pagasts|Slampes]], [[Dobeles pagasts|Dobeles]], [[Annenieku pagasts|Annenieku]], [[Jaunpils pagasts|Jaunpils ]], [[Jaunbērzes pagasts|Jaunbērzes]] pagastiem un [[Kalnciema pilsētas lauku teritorija|Kalnciema pilsētas lauku teritoriju]]. Pagasta centrs ir [[Džūkste]]. Lielākās apdzīvotās vietas pagasta teritorijā ir Džūkste, [[Lancenieki]], [[Pienava]].
+
+Par pagasta izveidošanas gadu tiek uzskatīts 1890. gads, kad tas tika apvienots ar [[Pienavas pagasts|Pienavas pagastu]]. 1935. gadā tā platība bija 183,6 km². 1945. gadā pagasta teritorijā tika izveidotas Džūkstes, [[Lanciņu ciems|Lanciņu]] un [[Pienavas ciems|Pienavas]] [[ciema padome]]s. 1954. gadā Džūkstes ciemam pievienoja Lanciņu ciemu, 1962. gada daļu [[Lestenes ciems|Lestenes ciema]], savukārt 1962. gadā daļu Džūkstes ciema iekļāva [[Bērzes ciems|Bērzes ciemā]], bet 1971. gadā [[Kalnciema ciems|Kalnciema]], Bērzes un [[Salas pagasts (Babītes novads)|Salas]] ciemos. 1990. gadā Džūkstes ciemu pārdēvēja par pagastu.<ref>{{Enciklopēdija Latvijas pagasti}}</ref> 2009. gadā pagasts kā teritoriāla vienība tika iekļauts [[Tukuma novads|Tukuma novadā]].
+
+==Atsauces==
+{{Reflist}}
+
+{{Lģeo-aizmetnis}}
+
+{{Tukuma novads}}
+{{Tukuma rajons}}
+
+
+[[Kategorija:Džūkstes pagasts]]
+[[Kategorija:Tukuma rajons]]
+[[Kategorija:Jelgavas apriņķis]]
+
+[[en:Džūkste parish]]

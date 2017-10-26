@@ -1,0 +1,161 @@
+{{Dablink|For [[Wikipedia:Naming conventions (technical restrictions)#Forbidden characters|technical reasons]], G# redirects here. For other uses, see [[G-sharp]].}}
+{{Otheruses4|the letter}}
+{{pp-move-indef|small=yes}}
+
+'''G''' is the seventh letter in the [[basic modern Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈdʒiː}}) is spelled '''gee'''.<ref>"G" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993); "gee", ''op. cit.''</ref>
+{{Latin alphabet navbox|ucc=g}}
+
+==History==
+The letter '''G''' was introduced in the [[History of the Latin alphabet#Old Latin period|Old Latin period]] as a variant of [[C]] to distinguish Latin voiced [[Velar consonant|velar]] {{IPA|/ɡ/}} from voiceless {{IPA|/k/}}. The recorded originator of the letter G is freedman [[Spurius Carvilius Ruga]], the first Roman to open a fee-paying school, who taught around 230 BC. At this time [[K]] had fallen out of favor, and C, which had formerly expressed both {{IPA|/ɡ/}} and {{IPA|/k/}} before open vowels, had come to express {{IPA|/k/}} in all environments. 
+
+Ruga's positioning of G shows that [[alphabetic order]], related to the letters' values as [[Greek numerals]], was a concern even in the 3rd century BC. Sampson (1985) suggested that: "Evidently the order of the alphabet was felt to be such a concrete thing that a new letter could be added in the middle only if a ‘space’ was created by the dropping of an old letter."<ref>[http://www.evertype.com/standards/wynnyogh/thorn.html Evertype.com]</ref></blockquote> According to some records, the original seventh letter, Z, had been purged from the Latin alphabet somewhat earlier in the 3rd century BC by the [[Roman censor]] [[Appius Claudius Caecus|Appius Claudius]], who found it distasteful and foreign.<ref>[http://penelope.uchicago.edu/~grout/encyclopaedia_romana/miscellanea/zed.html Encyclopaedia Romana]</ref>
+
+Eventually, both velar consonants {{IPA|/k/}} and {{IPA|/ɡ/}} developed [[palatalization]]s and [[allophone]]s before front vowels, which is why today, C and G have different sound values in the various Romance languages, as well as [[English language|English]] (because of [[French language|French]] influence).
+
+== Typographic forms ==
+[[Image:LowercaseG.svg|right|thumb|200|Typographic variants include a double-story and single-story '''g'''.]]
+
+The modern [[lower case]] '''G''' has two typographic variants: the single-story (sometimes ''opentail'') '''G''' [[Image:Opentail g.svg|10px]] and the double-story (sometimes ''looptail'') '''G''' [[Image:Looptail g.svg|10px]]. The single-story version derives from the majuscule (upper-case) form by raising the [[serif]] that distinguishes it from a C to the top of the loop, thereby closing the loop, and extending the vertical stroke downward and to the left. The double-story form developed similarly, except that some ornate forms then extended the tail back to the right, and to the left again, forming a closed bowl or loop. The initial extension to the right was absorbed into the upper closed bowl. The double-story version became popular when printing switched to "[[Roman type]]" because the tail was effectively shorter, making it possible to put more lines on a page. In the double-story version, a small stroke in the upper-right, often terminating in an orb shape, is called an "ear".
+
+Generally, the two minuscule forms are interchangeable, but occasionally the difference has been exploited to make a contrast. The 1949 ''Principles of the [[International Phonetic Association]]'' recommends using [[Image:Opentail g.svg|10px]] for advanced [[voiced velar plosive]]s and [[Image:Looptail g.svg|10px]] for regular ones where the two are contrasted,{{Citation needed|date=August 2009}} but this suggestion was never accepted by [[phonetics|phoneticians]] in general,{{Citation needed|date=August 2009}} and today [[Image:Opentail g.svg|10px]] is the symbol used in the [[help:IPA|International Phonetic Alphabet]], with [[Image:Looptail g.svg|10px]] acknowledged as an acceptable variant.{{Citation needed|date=August 2009}}
+
+==Usage==
+{{Unreferenced section|date=March 2008}}
+In English, the letter represents a [[voiced postalveolar affricate]] {{IPA|/dʒ/}} ("soft G"), as in: ''[[giant (disambiguation)|giant]]'', ''[[ginger]]'', and ''[[geology]]''; or a [[voiced velar plosive]] {{IPA|/ɡ/}} ("hard G"), as in: ''goose'', ''gargoyle'', and ''game''. In some words of French origin, the "soft G" is pronounced as a fricative ({{IPA|/ʒ/}}), as in ''rouge'', ''beige'', and ''genre''. Generally, G is soft before E, I, and Y, and hard otherwise, but there are many English words of non-Romance origin where G is soft or hard regardless of position (e.g. "get"), and two (''gaol,'' ''margarine'') in which it is soft even before an A. 
+ 
+Languages which are neither [[Romance languages|Romance]] nor [[Germanic languages|Germanic]] in origin typically use G to represent {{IPA|/ɡ/}} regardless of position (however, the [[Dutch language]] does not have {{IPA|/ɡ/}} in its native words, and instead G is pronounced as a [[voiced velar fricative]] {{IPA|/ɣ/}}, a sound that does not occur in modern English). [[German language|German]], however, is notable for its sparse use of G for a "[[soft G]]" sound within the language (to represent the sounds {{IPA|/ʒ/}}, or {{IPA|/dʒ/}}, or the [[voiceless postalveolar fricative]] {{IPA|/ʃ/}}) regardless of its position within German words.  While the soft value of G varies in different Romance languages ({{IPA|/ʒ/}} in French, Catalan, and Portuguese, {{IPA|/d͡ʒ/}} in Italian and Romanian, and {{IPA|/x/}} in Castilian Spanish and {{IPA|/h/}} in other dialects of Spanish), in all except Romanian and Italian, soft G is pronounced the same as the J of the same Romance language.
+
+In languages that use [[Cyrillic alphabet]] it is marked as '''Г''' (e.g. in [[Russian language|Russian]], [[Bulgarian language|Bulgarian]], [[Macedonian language|Macedonian]], [[Serbian language|Serbian]], etc.) or '''Ґ''' (in [[Ukrainian language|Ukrainian]] as additional letter with some different pronounce). In Hebrew it corresponds to letter [[gimel]] and is marked as '''ג'''.
+
+[[Classical Arabic]] did not have plain {{IPA|/ɡ/}} in its native words (the [[palatalization|palatalized]] form {{IPA|/ɡʲ/}} is believed to have been used) and the sound remains rare in [[Literary Arabic|Modern Standard Arabic]]. However, foreign words containing {{IPA|/ɡ/}} are transcribed using '''غ''' ([[Ghain|ġayn]]) (most Arab countries) or '''ج''' ([[Ǧīm#Arabic .C7.A7.C4.ABm|jīm]]) (Egypt). '''غ''' is often arabised as /ɣ/ ([[voiced velar fricative]]).
+
+Several [[Digraph (orthography)|digraphs]] are common in English. [[Gh (digraph)|GH]] originally represented the letter [[yogh]], and took various values including {{IPA|/ɡ/}}, {{IPA|/ɣ/}}, {{IPA|/x/}}, and {{IPA|/j/}}. It now has a great variety of values, including {{IPA|/f/}} in ''enough'', {{IPA|/ɡ/}} in loan words like ''spaghetti'', and as an indicator of a letter's "long" pronunciation in words like ''eight'' and ''night''. GN, with value {{IPA|/n/}}, is also common, as in ''gnaw''. When not initial it appears mostly after ''i'', rendering it "long" in the process (eg. ''sign'') but it is not obvious whether this should be interpreted as a similar GN digraph or instead an IG digraph, equivalent to ''i'' + ''gh'' in words such as ''sigh''.
+
+In Italian and Romanian, GH is used to represent a {{IPA|/ɡ/}} value before front vowels where G would otherwise represent a soft value. In Italian and French, [[Gn (digraph)|GN]] is used to represent the [[palatal nasal]] {{IPA|/ɲ/}}, a sound similar to the NY in ''canyon''.
+
+In Maori ([[Maori Language|Te Reo Māori]]), G is used in the combination /ng/ which represents the [[velar nasal]] {{IPA|/ŋ/}} and is pronounced like the ''ng'' in ''singer''.
+
+==Codes for computing==
+{{Letter
+|NATO=Golf
+|Morse=––·
+|Character=G7
+|Braille=⠛
+}}
+In [[Unicode]] the [[majuscule|capital]] G is codepoint U+0047 and the [[Lower case|lowercase]] g is U+0067.
+
+The [[ASCII]] code for capital G is 71 and for lowercase g is 103; or in [[Binary numeral system|binary]] 01000111 and 01100111, respectively.
+
+The [[EBCDIC]] code for capital G is 199 and for lowercase g is 135.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#71;</tt>" and "<tt>&amp;#103;</tt>" for upper and lower case respectively.
+
+==See also==
+{{col-begin}}
+{{col-3}}
+*[[Ĝ|''Ĝ'' and ''ĝ'']]
+*[[Ğ|''Ğ'' and ''ğ'']]
+*[[Carolingian G|Carolingian ''G'']]
+*[[Hard and soft G]]
+*[[Insular G|Insular ''G'']]
+{{col-3}}
+*[[Yogh]]
+*[[Ge (Cyrillic)|Г, г - Ge (Cyrillic)]]
+*[[Ѓ]]
+*[[Gamma|Γ, γ - Gamma (Greek)]]
+{{col-3}}
+{{Commons|G}}
+{{col-end}}
+
+== References ==
+{{reflist}}
+
+==External links==
+*[http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3D%2319181 Lewis and Short ''Latin Dictionary'': G]
+
+{{Latin alphabet|G|}}
+
+[[Category:Latin letters]]
+
+[[af:G]]
+[[als:G]]
+[[ar:G]]
+[[arc:G]]
+[[ast:G]]
+[[az:G]]
+[[zh-min-nan:G]]
+[[bs:G]]
+[[br:G (lizherenn)]]
+[[bg:G]]
+[[ca:G]]
+[[cs:G]]
+[[co:G]]
+[[cy:G]]
+[[da:G]]
+[[de:G]]
+[[dv:G]]
+[[el:G]]
+[[es:G]]
+[[eo:G]]
+[[eu:G]]
+[[fa:G]]
+[[fr:G (lettre)]]
+[[fy:G]]
+[[fur:G]]
+[[gv:Guilckagh (lettyr)]]
+[[gd:G]]
+[[gl:G]]
+[[gan:G]]
+[[ko:G]]
+[[hr:G]]
+[[ilo:G]]
+[[is:G]]
+[[it:G]]
+[[he:G]]
+[[ka:G]]
+[[kw:G]]
+[[sw:G]]
+[[ht:G]]
+[[la:G]]
+[[lv:G]]
+[[lb:G]]
+[[lt:G]]
+[[hu:G]]
+[[mk:G (Латиница)]]
+[[mg:G]]
+[[mzn:G]]
+[[ms:G]]
+[[nah:G]]
+[[nl:G (letter)]]
+[[ja:G]]
+[[no:G]]
+[[nn:G]]
+[[nrm:G]]
+[[uz:G (harf)]]
+[[pl:G]]
+[[pt:G]]
+[[crh:G]]
+[[ro:G]]
+[[qu:G]]
+[[ru:G (латиница)]]
+[[se:G]]
+[[stq:G]]
+[[scn:G]]
+[[simple:G]]
+[[sk:G]]
+[[sl:G]]
+[[sr:G (слово латинице)]]
+[[fi:G]]
+[[sv:G]]
+[[tl:G]]
+[[th:G]]
+[[tr:G (harf)]]
+[[uk:G (латиниця)]]
+[[vi:G]]
+[[vo:G]]
+[[yi:G]]
+[[yo:G]]
+[[zh-yue:G]]
+[[diq:G]]
+[[bat-smg:G]]
+[[zh:G]]

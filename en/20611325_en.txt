@@ -1,0 +1,159 @@
+{{pp-move-indef}}
+{{Infobox Continent
+|image               = [[File:LocationAustralia.png|200px]]
+|area                = {{Convert|8468300|km2|sqmi|0|abbr=on}}
+|population          = ~31,260,000  (estimated population of Australia, Papua New Guinea and the Papua and West Papua provinces of Indonesia for 2009)
+|density             = ~ 3.7/km2
+|demonym             = Australian
+|countries           = [[Australia]], [[Papua New Guinea]], and portions of [[Indonesia]]
+|list_countries      = 
+|dependencies        = 
+|unrecognized        = 
+|languages           = [[Australian English|English]], [[Indonesian language|Indonesian]], [[Tok Pisin]], [[Hiri Motu language|Hiri Motu]], 269 indigenous [[Papuan languages|Papuan]] and [[Austronesian languages]] and about 70 [[Indigenous Australian languages]]
+|time                = GMT+10, GMT+9.30, GMT+8
+|internet            = [[.au]], [[.pg]] and [[.id]]
+|cities              = [[List of cities in Australia by population]]
+ {{Collapsible list
+   | title       = {{voidd}}
+   | frame_style = border: none; padding: 0;
+   | list_style  = display: none;
+   | 1 = [[Sydney]] | 2 = [[Melbourne]] | 3 = [[Brisbane]] | 4 = [[Perth, Western Australia|Perth]] | 5 = [[Adelaide]]
+   | 6 = [[Gold Coast, Queensland|Gold Coast]]-[[Tweed Heads, New South Wales|Tweed]] | 7 = [[List of suburbs in Greater Newcastle, New South Wales|Newcastle]] | 8 = [[Canberra]]-[[Queanbeyan, New South Wales|Queanbeyan]] | 9 = [[Canberra]] | 10 = [[Wollongong, New South Wales|Wollongong]] <!-- For brevity this list only includes the 10 largest cities as specified in "List of cities in Australia by population" -->
+ }}
+
+
+}}
+'''Australia''' is the smallest of the geographic [[continent]]s, though not of geological continents.<ref>That is, it is larger than numerous smaller [[continental fragment|fragments of Gondwanaland]] such as [[Zealandia]] and [[Madagascar]].</ref> There is no universally accepted definition of the word "continent"; the lay definition is "One of the main continuous bodies of land on the earth's surface." (''[[Oxford English Dictionary]]''). By that definition, the continent of Australia includes only the [[Australia|Australian mainland]], and not nearby islands such as [[Tasmania]] or [[New Guinea]]. From the perspective of [[geology]] or [[physical geography]], however, a "continent" may be understood to include the [[continental shelf]] (the submerged adjacent area) and the islands on the shelf, which are taken to be structurally part of the continent. By that definition Tasmania, New Guinea and other nearby islands such as ([[Aru Islands]]) are part of the Australian continent, since they are part of the same geological landmass. These islands are separated by seas overlying the continental shelf — the [[Arafura Sea]] and [[Torres Strait]] between Australia and New Guinea, and [[Bass Strait]] between mainland Australia and Tasmania. 
+
+When [[sea level]]s were lower during the [[quaternary glaciation|Pleistocene ice age]], including the [[last glacial maximum]] about 18,000&nbsp;BC, the lands formed a single, continuous landmass.  During the past ten thousand years, rising sea levels overflowed the lowlands and separated the continent into today's low-lying semi-arid mainland and the two mountainous islands of New Guinea and Tasmania.
+
+Geologically, the continent extends to the edge of the continental shelf, so the now-separate lands can still be considered a continent.<ref name="JohnsonPage12">{{cite book | last = Johnson | first = David Peter | authorlink =  | year = 2004 | title = The Geology of Australia | publisher = [[Cambridge University Press]] | location = Port Melbourne, Victoria | id =  | pages = page 12}}</ref> Due to the spread of flora and fauna across the single Pleistocene landmass, the separate lands have a related [[biota]]. 
+
+New Zealand is not on the same continental shelf and so is not part of the continent of Australia but is part of the submerged continent [[Zealandia (continent)|Zealandia]]. Zealandia and Australia together are part of the wider region known as [[Oceania]] or [[Australasia]].
+
+== Geography and nomenclature ==
+[[File:Australia New Guinea continent.jpg|thumb|300px|right|Mainland Australia showing the continental shelf (light blue) extending to the islands of New Guinea in the north, and Tasmania in the south]]
+
+The Australian continent is the smallest and lowest-lying human-inhabited continent on [[Earth]], having a total land area of some 8,560,000 square kilometres (3,305,000 sq. mi.). Australia and adjacent islands are connected by a shallow [[continental shelf]] covering some 2,500,000 square kilometres including the [[Sahul Shelf]]<ref name="aims">{{cite web | year = 2001 | url = http://www.aims.gov.au/pages/reflib/bigbank/pages/bb-04.html | title = Big Bank Shoals of the Timor Sea: An environmental resource atlas | publisher = Australian Institute of Marine Science | accessdate = 2006-08-28}}</ref><ref name="wirantaprawira">{{cite web | last = Wirantaprawira | first = Dr Willy | authorlink =  | coauthors =  | year = 2003 | url = http://www.wirantaprawira.net/indon/land.html | title = Republik Indonesia | publisher = Dr Willy Wirantaprawira | accessdate = 2006-08-28}}</ref> and [[Bass Strait]] and half of which is less than 50 metres deep.
+
+As Australia the country is mostly on a single landmass, and comprises most of Australia the continent, it is sometimes informally referred to as an "island" continent, surrounded by oceans.<ref>{{cite book |last=Löffler |first=Ernst |authorlink= |coauthors=A.J. Rose, Anneliese Löffler & Denis Warner |title=Australia:Portrait of a Continent |year=1983 |publisher=Hutchinson Group |location=Richmond, Victoria |page=17 |isbn=0091304601 }}</ref> 
+
+Prior to the 1970s, archaeologists called the single Pleistocene landmass by the name ''Australasia'',<ref name=ballard>{{cite conference |first=Chris |last=Ballard |authorlink= |title=Stimulating minds to fantasy? A critical etymology for Sahul |booktitle=Sahul in review: Pleistocene archaeology in Australia, New Guinea and island Melanesia |pages=p. 19-20 |publisher=Australian National University | location= Canberra |date=1993 |id=ISBN 0-7315-1540-4 }}</ref> although this word is most often used for a wider region that includes lands like New Zealand that are not on the same continental shelf. In the early 1970s they introduced the term ''Greater Australia'' for the Pleistocene continent.<ref name=ballard/> Then at a 1975 conference and consequent publication,<ref>{{cite book |last=Allen |first=J. |authorlink= |coauthors=J. Golson and R. Jones (eds) |editor= |others= |title=Sunda and Sahul: Prehistoric studies in Southeast Asia, Melanesia and Australia |date=1977 |publisher=Academic Press |location=London |isbn=0-12-051250-5 |pages= |chapter= |quote = }}</ref> they extended the name ''Sahul'' from its previous use for just the [[Sahul Shelf]] to cover the continent.<ref name=ballard/> A biologist, unaware of the terms used by archaeologists, suggested in 1984 the name ''Meganesia'', meaning "great island" or "great island-group", applying it to both the Pleistocene continent and the present-day lands,<ref>{{cite conference |first=W. |last=Filewood |authorlink= |title=The Torres connection: Zoogeography of New Guinea |booktitle=Vertebrate zoogeography in Australasia |pages=p. 1124-1125 |publisher=Hesperian Press | location=Carlisle, W.A. |date=1984 |id=ISBN 0-85905-036-X }}</ref> and this name has been taken up by biologists.<ref>e.g. {{cite book |last=Flannery |first=Timothy Fridtjof |authorlink=Tim Flannery |title=The future eaters: An ecological history of the Australasian lands and people |date=1994 |publisher=Reed |location=Chatswood, NSW |isbn=0-7301-0422-2 |pages=pp. 42, 67 |chapter= |quote = }}</ref> However, others have used ''Meganesia'' with different meanings: travel writer [[Paul Theroux]] included New Zealand in his definition<ref>{{cite book |last=Theroux |first=Paul |authorlink=Paul Theroux |title=The happy isles of Oceania: Paddling the Pacific |date=1992 |publisher=Penguin |location=London |isbn=0-14-015976-2 |pages= |chapter= |quote = }}</ref> and others have used it for Australia, New Zealand and [[Hawaii]].<ref>{{cite journal |quotes= |last=Wareham |first=Evelyn |authorlink= |year=2002 |month=September |title=From Explorers to Evangelists: Archivists, Recordkeeping, and Remembering in the Pacific Islands |journal=Archival Science |volume=2 |issue=3-4 |pages=187–207 |doi=10.1007/BF02435621 }}</ref> Another biologist, [[Richard Dawkins]], unimpressed with ''Sahul'' and ''Meganesia'', coined the name ''Australinea'' in 2004.<ref>{{cite book |last=Dawkins |first=Richard |authorlink=Richard Dawkins |title=The ancestor’s tale: A pilgrimage to the dawn of evolution |date=2004 |publisher=Houghton Mifflin |location=Boston |isbn=0-618-00583-8 |pages=224 |chapter= |quote = }}</ref>  ''Australia-New Guinea'' has also been used.<ref>e.g. {{ citation
+| contribution=Pre-LGM Sahul (Pleistocene Australia-New Guinea) and the Archaeology of Early Modern Humans
+| last=O'Connell
+| first=James F.
+| last2=Allen
+| first2=Jim
+| title=Rethinking the Human Revolution
+| editor-last=Mellars
+| editor-first=P.
+| editor2-last=Boyle
+| editor2-first=K.
+| editor3-last=Bar-Yosef
+| editor3-first=O.
+| editor4-last=Stringer
+| editor4-first=C.
+| year=2007
+| pages=395–410
+| place=Cambridge
+| publisher=McDonald Institute for Archaeological Research
+| contribution-url=http://www.anthro.utah.edu/PDFs/joc/32o_conn.pdf
+}}</ref>
+
+== Geology ==
+
+The continent primarily sits on the [[Indo-Australian Plate]].  The lands were joined with [[Antarctica]] as part of the southern supercontinent [[Gondwana]] until the plate began to drift north about 96&nbsp;million years ago ([[Mya (unit)|mya]]). For most of the time since then, Australia-New Guinea has remained a single, continuous landmass.
+
+When the last [[ice age]] ended in about 10,000&nbsp;BC, rising sea levels formed Bass Strait, separating Tasmania from the mainland. Then between about 8,000 and 6,500&nbsp;BC, the lowlands in the north were flooded by the sea, separating New Guinea and Australia. khara
+
+== Biogeography ==
+
+As the continent drifted north from Antarctica, unique [[Flora (plants)|flora]] and [[Fauna (animals)|fauna]] developed. [[Marsupial]]s and [[monotreme]]s also existed on other continents, but only in Australia-New Guinea did they out-compete the [[Placentalia|placental]] [[mammals]] and come to dominate. [[Aves|Bird]] life also flourished, in particular the ancestors of the great [[passerine]] order that would eventually spread to all parts of the globe and account for more than half of all living avian [[species]].
+
+Animal groups such as [[macropods]], [[monotremes]], and [[cassowaries]] are endemic to Australia.  There were three main reasons for the enormous diversity that developed in both plant and animal life.
+
+* While much of the rest of the world underwent significant cooling and thus loss of species diversity, Australia-New Guinea was drifting north at such a pace that the overall global cooling effect was roughly equalled by its gradual movement toward the [[equator]]. [[Temperature]]s in Australia-New Guinea, in other words, remained reasonably constant for a very long time, and a vast number of different plant and animal species were able to evolve to fit particular [[ecological niche]]s. 
+* Because the continent was more isolated than any other, very few outside species arrived to colonise, and unique native forms developed unimpeded. 
+* Finally, despite the fact that the continent was already very old and thus relatively infertile, there are dispersed areas of high fertility. Where other continents had [[Volcanism|volcanic]] activity and/or massive [[Glacier|glaciation]] events to turn over fresh, unleached [[Rock (geology)|rock]]s rich in [[mineral]]s, the rocks and [[soil]]s of Australia-New Guinea were left largely untouched except by gradual [[erosion]] and deep [[weathering]]. In general, fertile soils produce a profusion of life, and a relatively large number of species/level of biodiversity. This is because where [[nutrient]]s are plentiful, competition is largely a matter of outcompeting rival species, leaving great scope for innovative [[co-evolution]] as is witnessed in tropical, fertile ecosystems. In contrast, infertile soils tend to induce competition on an abiotic basis meaning individuals all face constant environmental pressures, leaving less scope for divergent evolution, a process instrumental in creating new species.
+
+For about 40&nbsp;million years Australia-New Guinea was almost completely isolated. During this time, the continent experienced numerous changes in climate, but the overall trend was towards greater aridity. When [[South America]] eventually separated from Antarctica, the development of the cold [[Antarctic Circumpolar Current]] changed weather patterns across the world. For Australia-New Guinea, it brought a marked intensification of the drying trend. The great inland seas and lakes dried out. Much of the long-established broad-leaf [[deciduous]] forest began to give way to the distinctive hard-leaved [[sclerophyllous]] plants that characterise the modern Australian landscape.
+
+For many species, the primary refuge was the relatively cool and well-watered [[Great Dividing Range]]. Even today, pockets of remnant vegetation remain in the cool uplands, some species not much changed from the Gondwanan forms of 60 or 90&nbsp;million years ago. 
+
+Eventually, the Australia-New Guinea tectonic plate collided with the [[Eurasian plate]] to the north. The collision caused the northern part of the continent to buckle upwards, forming the high and rugged mountains of New Guinea and, by reverse (downwards) buckling, the [[Torres Strait]] that now separates the two main landmasses. The collision also pushed up the islands of [[Wallacea]], which served as island 'stepping-stones' that allowed plants from [[Southeast Asia]]'s rainforests to colonise New Guinea, and some plants from Australia-New Guinea to move into Southeast Asia. The ocean straits between the islands were narrow enough to allow plant dispersal, but served as an effective barrier to exchange of land mammals between Australia-New Guinea and Asia.
+
+Although New Guinea is the most northerly part of the continent, and could be expected to be the most tropical in climate, the altitude of the New Guinea highlands is such that a great many animals and plants that were once common across Australia-New Guinea now survive only in the tropical highlands (where they are severely threatened by [[overpopulation]] pressures).
+
+==See also==
+{{portal|Oceania}}
+* [[List of basic Australia topics]]
+* [[Plate tectonics]]
+* [[Paleoclimatology]]
+* [[Oceania]]
+
+== Notes ==
+{{reflist}}
+
+{{Continents of the world}}
+{{Regions of the world}}
+{{Australia topics}}
+
+{{coord|26|S|141|E|source:placeopedia|display=title}}
+
+[[Category:Australia (continent)| ]]
+
+[[als:Australien (Kontinent)]]
+[[ar:قارة أوستراليا]]
+[[arc:ܐܘܣܛܪܠܝܐ (ܝܒܫܬܐ)]]
+[[frp:Ôstralie (continent)]]
+[[bn:অস্ট্রেলিয়া (মহাদেশ)]]
+[[be-x-old:Аўстралія (кантынэнт)]]
+[[bar:Australien (Kontinent)]]
+[[bg:Австралия (континент)]]
+[[ca:Continent australià]]
+[[cs:Austrálie (kontinent)]]
+[[da:Australien (kontinent)]]
+[[de:Australien (Kontinent)]]
+[[dsb:Awstralija]]
+[[es:Sahul]]
+[[eo:Aŭstralia kontinento]]
+[[fa:استرالیا (قاره)]]
+[[fr:Continent australien]]
+[[glk:اؤستؤرالیا(قاره)]]
+[[ko:오스트레일리아 (대륙)]]
+[[hy:Ավստրալիա (մայրցամաք)]]
+[[hsb:Awstralija]]
+[[hr:Australija (kontinent)]]
+[[id:Australia (benua)]]
+[[ka:ავსტრალია (კონტინენტი)]]
+[[csb:Aùstralëjô (kòntinent)]]
+[[kk:Австралия (құрылық)]]
+[[kv:Австралия (мувеж)]]
+[[ht:Ostrali (kontinan)]]
+[[ku:Awistralya (parzemîn)]]
+[[lv:Austrālija (kontinents)]]
+[[lt:Australija (žemynas)]]
+[[mk:Австралија (континент)]]
+[[ml:ഓസ്ട്രേലിയ (ഭൂഖണ്ഡം)]]
+[[my:ဩစတြေးလျ]]
+[[nl:Australië (continent)]]
+[[ja:オーストラリア大陸]]
+[[no:Australia (kontinent)]]
+[[pl:Australia (kontynent)]]
+[[pt:Austrália (continente)]]
+[[ksh:Außtraalije (Kontinänt)]]
+[[qu:Awstralya allpa pacha]]
+[[ru:Австралия (континент)]]
+[[sk:Austrália (svetadiel)]]
+[[ckb:ئۆسترالیا (کیشوەر)]]
+[[sr:Аустралија (континент)]]
+[[su:Australia (buana)]]
+[[fi:Australia (manner)]]
+[[sv:Australien (kontinent)]]
+[[ta:ஆஸ்திரேலியா (கண்டம்)]]
+[[th:ทวีปออสเตรเลีย]]
+[[uk:Австралія (континент)]]
+[[vi:Châu Úc]]
+[[vls:Australië (continent)]]
+[[bat-smg:Australėjė (žemīns)]]
+[[zh:澳大利亞大陸]]

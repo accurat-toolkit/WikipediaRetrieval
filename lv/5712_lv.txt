@@ -1,0 +1,149 @@
+Visas [[Lietuva]]s pilsētas ar iedzīvotāju skaitu virs 10 000 iedzīvotājiem.
+
+<table border=0 cellpadding=4 cellspacing=2 width=90%>
+
+<tr bgcolor=#DDDDDD>
+<td>'''Pilsēta'''<td>'''Pilsētas tiesības'''<td>'''Iedzīvotāju skaits (2005)'''<td>'''Apriņķis (''Apskritis'')'''
+
+<tr bgcolor=#EEEEEE>
+<td>[[Alīta]] (''Alytus'')<td>1581.g<td>70 747<td>[[Alītas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Anīkšči]] (''Anykščiai'')<td>1516.g<td>11 568<td>[[Utenas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Birži (Lietuva)|Birži]] (''Biržai'')<td>1589.g<td>14 911<td>[[Panevēžas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Druskininki]] (''Druskininkai'')<td>1893.g<td>17 791<td>[[Alītas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Elektrēni]] (''Elektrėnai'')<td>1962.g<td>13 721<td>[[Viļņas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Gargždi]] (''Gargždai'')<td>1792.g<td>15 949<td>[[Klaipēdas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Garļava]] (''Garliava'')<td>1809.g<td>13 809<td>[[Kauņas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Jonava]] (''Jonava'')<td>1864.g<td>34 954<td>[[Kauņas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Jonišķi]] (''Joniškis'')<td>1616.g<td>11 113<td>[[Šauļu apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Jurbarka]] (''Jurbarkas'')<td>1611.g<td>13 102<td>[[Tauraģes apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Kauņa]] (''Kaunas'')<td>1408.g<td>374 643<td>[[Kauņas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Ķēdaiņi]] (''Kėdainiai'')<td>1590.g<td>31 980<td>[[Kauņas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Ķelme]] (''Kelmė'')<td>1947.g<td>10 626<td>[[Šauļu apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Klaipēda]] (''Klaipėda'')<td>1258.g<td>192 307<td>[[Klaipēdas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Kretinga]] (''Kretinga'')<td>1609.g<td>22 236<td>[[Klaipēdas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Kuršēni]] (''Kuršėnai'') <td>1581.g<td>13 914<td>[[Šauļu apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Lentvare]] (''Lentvaris'')<td>XVII gs<td>11 588<td>[[Viļņas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Marijampole]] (''Marijampolė'')<td>1792.g<td>47 613<td>[[Marijampoles apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Mažeiķi]] (''Mažeikiai'')<td>1895.g<td>41 309<td>[[Telšu apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Naujoji Akmene]] (''Naujoji Akmenė'')<td>1965.g<td>11 922<td>[[Šauļu apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Palanga]] (''Palanga'')<td>1932.g<td>17 796<td>[[Klaipēdas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Paņevēža]] (''Panevėžys'')<td>1796.g<td>117 395<td>[[Panevēžas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Pluņģe]] (''Plungė'')<td>1792.g<td>23 381<td>[[Telšu apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Prieni]] (''Prienai'')<td>1609.g<td>11 352<td>[[Kauņas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Radvilišķi]] (''Radviliškis'')<td>1932.g<td>19 914<td>[[Šauļu apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Raseiņi]] (''Raseiniai'')<td>XV gs<td>12 523<td>[[Kauņas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Rokišķi]] (''Rokiškis'')<td>1920.g<td>16 255<td>[[Panevēžas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Šauļi]] (''Šiauliai'')<td>1589.g<td>130 587<td>[[Šauļu apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Šilute]] (''Šilutė'')<td>1952.g<td>21 760<td>[[Klaipēdas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Tauraģe]] (''Tauragė'')<td>1507.g<td>27 662<td>[[Tauraģes apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Telši]] (''Telšiai'')<td>1791.g<td>30 098<td>[[Telšu apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Ukmerģe]] (''Ukmergė'')<td>XV.gs<td>28 659<td>[[Viļņas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Utena]] (''Utena'')<td>1924.g<td>33 240<td>[[Utenas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Varēna]] (''Varėna'')<td>1946.g<td>10 304<td>[[Alītas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Vilkavišķi]] (''Vilkaviškis'')<td>1660.g<td>13 011<td>[[Marijampoles apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Viļņa]] (''Vilnius'')<td>1387.g<td>542 366<td>[[Viļņas apriņķis]]
+
+<tr bgcolor=#EEEEEE>
+<td>[[Visagina]] (''Visaginas'')<td>1994.g<td>28 348<td>[[Utenas apriņķis]]
+
+</table>
+
+[[Kategorija:Lietuvas pilsētas|*]]
+[[Kategorija:Pilsētu uzskaitījumi]]
+
+[[bat-smg:Lietovuos miestā]]
+[[be-x-old:Сьпіс гарадоў Летувы]]
+[[bg:Градове в Литва]]
+[[de:Liste der Städte in Litauen]]
+[[el:Κατάλογος πόλεων της Λιθουανίας]]
+[[en:List of cities in Lithuania]]
+[[eo:Listo de urboj de Litovio]]
+[[fi:Luettelo Liettuan kaupungeista]]
+[[fr:Villes de Lituanie]]
+[[hu:Litvánia városai]]
+[[id:Daftar kota di Lituania]]
+[[it:Città della Lituania]]
+[[ja:リトアニアの都市の一覧]]
+[[kk:Литва қалаларының тізімі]]
+[[lt:Sąrašas:Lietuvos miestai]]
+[[nn:Byar i Litauen]]
+[[no:Liste over byer i Litauen]]
+[[pl:Miasta na Litwie]]
+[[pt:Anexo:Lista de cidades na Lituânia]]
+[[ru:Города Литвы]]
+[[sh:Popis gradova u Litvi]]
+[[sl:Seznam mest v Litvi]]
+[[sr:Градови у Литванији]]
+[[sv:Lista över städer i Litauen]]
+[[tr:Litvanya'daki şehirler listesi]]
+[[uk:Список міст Литви]]

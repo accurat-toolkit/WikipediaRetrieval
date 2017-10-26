@@ -1,0 +1,88 @@
+{{Info zinātnieks
+| vārds_orig =Francis William Aston
+| attēls =Francis William Aston.jpg
+| att_izmērs =150px
+| att_nosaukums = 
+| dz_gads =1877
+| dz_mēnesis =9
+| dz_diena =1
+| dz_vieta =[[Birmingema]], {{GBR}}
+| m_gads =1945
+| m_mēnesis=11
+| m_diena=20
+| m_vieta =[[Kembridža]], [[Kembridžšīra]], {{GBR}}
+| pilsonība ={{GBR}}
+| tautība =[[angļi|anglis]]
+| darba_vietas =[[Kembridžas universitāte]]
+| alma_mater =[[Birmingemas universitāte]],<br />[[Kembridžas universitāte]]
+| zinātne =[[ķīmija]],<br />[[fizika]]
+| pasniedzēji =[[Džons Pointings]],<br />[[Džozefs Džons Tomsons]]
+| studenti =
+| sasniegumi =[[masas spektrometrijas analīze]],<br />[[veselo skaitļu likums]]
+| apbalvojumi =1922. gada [[Nobela prēmija ķīmijā]]
+| paraksts =
+| piezīmes = 
+}}
+
+'''Frānsiss Viljams Astons''' ({{val|en|Francis William Aston}}, dzimis {{dat|1877|9|1}}, miris {{dat|1945|11|20}}) - [[Lielbritānija|britu]] ķīmiķis un fiziķis. 1922. gada [[Nobela prēmija ķīmijā|Nobela prēmijas ķīmijā]] ieguvējs par daudzu [[izotops|izotopu]] atklāšanu ar [[masas spektrometrijas analīze]]s palīdzību un par [[veselo skaitļu likums|veselo skaitļu likuma]] piemērošanu to atklāšanai.
+
+Dzimis [[Birmingema|Birmingemā]], 1877. gadā. 1893. gadā sāka studijas [[Birmingemas universitāte|Birmingemas universitātē]], kur pievērsās pētījumiem [[organikā ķīmija|organiskajā ķīmijā]], bet vēlāk pievērsās [[rentgena stari|rentgena staru]] un [[radioaktivitāte]]s pētījumiem. 1909. gadā pēc [[Džozefs Džons Tomsons|Džozefa Džona Tomsona]] ielūguma sāka strādāt [[Kembridžas universitāte]]s [[Kavendiša laboratorija|Kavendiša laboratorijā]], kur 1919. gadā uzbūvēja pirmo masas spektrometru un atklāja vairāk nekā 200 dabisko izotopu.
+
+=== Ārējās saites ===
+
+* [http://nobelprize.org/nobel_prizes/chemistry/laureates/1922/aston-bio.html Astona biogrāfija Nobela prēmijas mājaslapā {{en}}] 
+
+{{commons|Francis William Aston}}
+
+{{Cilv-aizmetnis}}
+
+{{kastes sākums}}
+{{Amatu secība | pirms = [[Frederiks Sodijs]] | virsraksts = [[Nobela prēmija ķīmijā]] | periods = [[1922]] | pēc = [[Frics Pregls]] }}
+{{kastes beigas}}
+
+{{DEFAULTSORT:Astons, Fraznsiss}}
+
+[[Kategorija:Fiziķi]]
+[[Kategorija:Ķīmiķi]]
+[[Kategorija:Nobela prēmijas laureāti ķīmijā]]
+
+[[ar:فرانسيس أستون]]
+[[ast:Francis William Aston]]
+[[bs:Francis Aston]]
+[[ca:Francis William Aston]]
+[[cs:Francis William Aston]]
+[[de:Francis William Aston]]
+[[en:Francis William Aston]]
+[[es:Francis Aston]]
+[[fa:فرانسیس ویلیام آستون]]
+[[fi:Francis William Aston]]
+[[fr:Francis William Aston]]
+[[gd:Francis William Aston]]
+[[gl:Francis William Aston]]
+[[he:פרנסיס ויליאם אסטון]]
+[[hr:Francis William Aston]]
+[[hu:Francis William Aston]]
+[[id:Francis William Aston]]
+[[io:Francis William Aston]]
+[[it:Francis William Aston]]
+[[ja:フランシス・アストン]]
+[[ka:ფრენსის ასტონი]]
+[[kn:ಫ್ರಾನ್ಸಿಸ್ ವಿಲಿಯಂ ಆಸ್ಟನ್]]
+[[la:Franciscus Gulielmus Aston]]
+[[nl:Francis William Aston]]
+[[no:Francis William Aston]]
+[[oc:Francis William Aston]]
+[[pl:Francis William Aston]]
+[[pnb:فرانسس ولیم آسٹن]]
+[[pt:Francis William Aston]]
+[[ro:Francis William Aston]]
+[[ru:Астон, Фрэнсис Уильям]]
+[[sh:Francis William Aston]]
+[[sk:Francis William Aston]]
+[[sq:Francis William Aston]]
+[[sr:Франсис Вилијам Астон]]
+[[sv:Francis Aston]]
+[[sw:Francis William Aston]]
+[[tr:Francis William Aston]]
+[[uk:Френсіс Вільям Астон]]
+[[zh:弗朗西斯·阿斯顿]]

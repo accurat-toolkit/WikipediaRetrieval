@@ -1,0 +1,158 @@
+{{Infobox Writer <!-- for more information see [[:Template:Infobox Writer/doc]] -->
+| name        = José Maria de Eça de Queiroz
+| image       = Eça de Queirós c. 1882.jpg
+| imagesize   = 200px 
+| caption     = 
+| pseudonym   = 
+| birthdate  = {{birth date|1845|11|25|mf=y}}
+| birthplace = [[Póvoa de Varzim]], [[Portugal]]
+| deathdate  = {{Death date and age|1900|8|16|1845|11|25}} 
+| deathplace = [[France]]
+| occupation  = Novelist
+| nationality = Portuguese
+| movement    = [[Literary realism|Realism]], [[Romanticism]]
+| debut_works = 
+}}
+'''José Maria de Eça de Queiroz''' or '''Queirós''' ({{IPA-pt|ˈɛsɐ dɨ keiˈɾɔʃ}} or {{IPA|[kɐiˈɾɔʃ]}}; [[November 25]], [[1845]]–[[August 16]], [[1900]]) is generally considered to be the greatest Portuguese writer in the [[Literary realism|realist]] style.<ref>http://www.guardian.co.uk/books/2000/dec/23/biography1</ref> [[Émile Zola|Zola]] considered him to be far greater than [[Flaubert]]. Others rank him with [[Dickens]], [[Balzac]] and [[Tolstoy]]. Eça never officially rejected Catholicism, but was very critical of the [[Roman Catholic Church|Catholic Church]] of his time, and of [[Christianity]] in general (also [[Protestant]] churches) as is evident in some of his novels.
+
+He used the old-fashioned spelling "Eça de Queiroz" and this is the form that appears on many editions of his works; the modern standard [[Portuguese language|Portuguese spelling]] is "Eça de Queirós".
+
+==Biography==
+Eça de Queiroz was born in [[Póvoa de Varzim]], [[Portugal]], in 1845. An illegitimate child, he was officially recorded as the son of José Maria de Almeida Teixeira de Queiroz, a Brazilian judge, and of an unknown mother. Teixeira de Queiroz soon afterwards married Carolina Augusta Pereira d'Eça, and it has been suggested that in reality the boy was her son by an unknown father, or even that he was instead both his and her son, as most genealogists and relatives contend.
+
+At age 16, he went to [[Coimbra]] to study [[law]] at the [[University of Coimbra]]; there he met the poet [[Antero de Quental]]. Eça's first work was a series of prose poems, published in the ''[[Gazeta de Portugal]]'' magazine, which eventually appeared in book form in a posthumous collection edited by [[Batalha Reis]] entitled ''Prosas Bárbaras'' ("Barbarous texts"). He worked as a journalist at [[Évora]], then returned to Lisbon and, with his former school friend [[Ramalho Ortigão]] and others, created the ''[[Correspondência de Fradique Mendes|Correspondence]]'' of the fictional adventurer [[Fradique Mendes]]. This amusing work was first published in 1900. 
+
+[[Image:Praça do Almada - Estatua a Eça de Queiroz.jpg|thumb|left|Statue of Eça in Póvoa de Varzim; a couple of metres from his birthplace.]]
+
+In 1869 and 1870, Eça de Queiroz travelled to [[Egypt]] and watched the opening of the [[Suez Canal]], which inspired several of his works, most notably ''O Mistério da Estrada de Sintra'' ("The Mystery of the Sintra Road", 1870), written in collaboration with Ramalho Ortigão, in which Fradique Mendes appears. ''A Relíquia'' ("The Relic") was also written at this period but was published only in 1887. When he was later dispatched to [[Leiria]] to work as a municipal administrator, Eça de Queiroz wrote his first realist novel, ''[[O Crime do Padre Amaro]]'' ("The Sin of Father Amaro"), which is set in the city and first appeared in 1875.
+
+Eça then worked in the Portuguese consular service and after two years' service at Havana was stationed at 53 Grey Street, [[Newcastle upon Tyne]], from late 1874 until April 1879. His diplomatic duties involved the dispatch of detailed reports to the Portuguese foreign office concerning the unrest in the [[Northumberland]] and [[Durham]] coalfields - in which, as he points out, the miners earned twice as much as those in South Wales, along with free housing and a weekly supply of coal. The Newcastle years were among the most productive of his literary career. He published the second version of ''O Crime de Padre Amaro'' in 1876 and another celebrated novel, ''[[O Primo Basílio]]'' ("Cousin Basílio") in 1878, as well as working on a number of other projects. These included the first of his "Cartas de Londres" ("Letters from London") which were printed in the Lisbon daily newspaper ''[[Diário de Notícias]]'' and  afterwards appeared in book form as ''[[Cartas de Inglaterra]]''. As early as 1878 he had at least given a name to his masterpiece ''[[Os Maias]]'' ("The Maias"), though this was largely written during his later residence in [[Bristol]] and was published only in 1888. There is a plaque to Eça in that city and another was unveiled in Grey Street, Newcastle, in 2001 by the Portuguese ambassador. 
+
+Eça, a cosmopolite widely read in English literature, was not enamoured of English society, but he was fascinated by its oddity. In [[Bristol]] he wrote: "Everything about this society is disagreeable to me - from its limited way of thinking to its indecent manner of cooking vegetables." As often happens when a writer is unhappy, the weather is endlessly bad. Nevertheless, he was rarely bored and was content to stay in England for some fifteen years. "I detest England, but this does not stop me from declaring that as a thinking nation, she is probably the foremost." It may be said that England acted as a constant stimulus and a corrective to Eça’s traditionally Portuguese Francophilia.
+
+In 1888 he became Portuguese consul-general in [[Paris]]. He lived at [[Neuilly-sur-Seine]] and continued to write journalism (''Ecos de Paris'', "Echos from Paris") as well as literary criticism. He died in 1900 of [[tuberculosis]]. His son [[António Eça de Queiroz]] would hold government office under [[António de Oliveira Salazar]].
+
+==Works by Eça de Queiroz==
+[[Image:Os Maias Book Cover.jpg|thumb|Cover of the first edition of ''[[Os Maias]]]]
+*''[[A Capital (novel)|A Capital]]'' ("Capital")
+*''[[:pt:A Cidade e as Serras|A Cidade e as Serras]]'' ("The City and the Mountains", 1901)
+*''[[:pt:A Ilustre Casa de Ramires|A Ilustre Casa de Ramires]]'' ("The Noble House of Ramires", 1900)
+*''[[:pt:A Relíquia|A Relíquia]]'' ("The Relic", 1887)
+*''A Tragédia da Rua das Flores'' ("The Rua das Flores Tragedy")
+*''Alves & C.a'' ("Alves & Co.", published in English as "The Yellow Sofa", 1925)
+*''As Minas de Salomão'', a reworking of [[H. Rider Haggard]]'s ''[[King Solomon's Mines]]''
+*''[[Cartas de Inglaterra]]'' ("Letters from England")
+*''Cartas Familiares e Bilhetes de Paris'' ("Family Letters and Notes from Paris")
+*''[[Contos (Eça de Queiroz)|Contos]]'' ("Stories")
+*''[[:pt:Correspondência de Fradique Mendes|Correspondência de Fradique Mendes]]'' ("Correspondence of [[Fradique Mendes]]", 1900)
+*''Ecos de Paris'' ("Echos from Paris")
+*''Notas Contemporâneas'' ("Contemporary Notes")
+*''O Conde d'Abranhos'' ("Count d'Abranhos")
+*''[[O Crime do Padre Amaro]]'' ("The Sin of Father Amaro", 1875, revised 1876, revised 1880)
+*''O Egipto'' ("Egypt", 1926)
+*''O Mandarim'' ("The Mandarin", 1880)
+*''[[:pt:O Mistério da Estrada de Sintra|O Mistério da Estrada de Sintra]]'' ("The Mystery of the Sintra Road", 1870, in collaboration with [[Ramalho Ortigão]])
+*''[[O Primo Basílio]]'' ("Cousin Basílio", 1878)
+*''[[Os Maias]]'' ("The Maias", 1888)
+*''[[Prosas Bárbaras]]'' ("Barbarous Texts", 1903)
+*''Últimas páginas'' ("Last Pages")
+*''Uma Campanha Alegre'' ("A Cheerful Campaign")
+
+==Periodicals to which Eça de Queiroz contributed==
+*''[[Gazeta de Portugal]]''
+*''[[As Farpas]]'' ("Barbs")
+*''[[Diário de Notícias]]''
+
+==Translations==
+His works have been translated into about 20 languages, including English. 
+
+Since 2002 English versions of six of his novels and a volume of short stories, translated by [[Margaret Jull Costa]], have been published in the UK by [[List of things named Daedalus|Dedalus Books]].
+
+*'''A capital''' (''To the Capital''): translation by John Vetch, Carcanet Press (UK), 1995.
+*'''A Cidade e as serras''' (''The City and the Mountains''): translation by Roy Campbell, Ohio University Press, 1968.
+*'''A Ilustre Casa de Ramires''' (''The illustrious house of Ramires''): translation by Ann Stevens, Ohio University Press, 1968.
+*'''A Reliquia''' (''The Relic''): translation by Aubrey F. Bell, A. A. Knopf, 1925. Also published as ''The Reliquary'', Reinhardt, 1954.
+*'''A Reliquia''' (''The Relic''): translation by [[Margaret Jull Costa]], [[List of things named Daedalus|Dedalus Books]], 1994.
+*'''A tragédia da rua das Flores''' (''The Tragedy of the Street of Flowers''): translation by [[Margaret Jull Costa]], [[List of things named Daedalus|Dedalus Books]], 2000.
+*'''Alves & Cia''' (''Alves & Co.''): translation by Robert M. Fedorchek, University Press of America, 1988.
+*'''Cartas da Inglaterra''' (''Letters from England''): translation by Ann Stevens, Bodley Head, 1970. Also published as ''Eça's English Letters'', Carcanet Press, 2000.
+*'''O Crime do Padre Amaro''' (''The Sin of Father Amaro''): translation by Nan Flanagan, St. Martins Press, 1963. Also published as ''The Crime of Father Amaro'', Carcanet Press, 2002.
+*'''O Crime do Padre Amaro''' (''The Crime of Father Amaro''): translation by [[Margaret Jull Costa]], [[List of things named Daedalus|Dedalus Books]], 2002.
+*'''O Mandarim''' (''The Mandarin'' in The Mandarin and Other Stories): translation by Richard Frank Goldman, Ohio University Press, 1965. Also published by Bodley Head, 1966; and Hippocrene Books, 1993.
+*'''Um Poeta Lírico''' (''A Lyric Poet'' in The Mandarin and Other Stories): translation by Richard Frank Goldman, Ohio University Press, 1965. Also published by Bodley Head, 1966; and Hippocrene Books, 1993.
+*'''Singularidades de uma Rapariga Loura''' (''Peculiarities of a Fair-haired Girl'' in The Mandarin and Other Stories): translation by Richard Frank Goldman, Ohio University Press, 1965. Also published by Bodley Head, 1966; and Hippocrene Books, 1993.
+*'''José Mathias''' (''José Mathias'' in The Mandarin and Other Stories): translation by Richard Frank Goldman, Ohio University Press, 1965. Also published by Bodley Head, 1966; and Hippocrene Books, 1993.
+*'''O Mandarim''' (''The Mandarin'' in The Mandarin and Other Stories): translation by [[Margaret Jull Costa]], Hippocrene Books, 1983.
+*'''O Mandarim''' (''The Mandarin'' in The Mandarin and Other Stories): translation by [[Margaret Jull Costa]], [[List of things named Daedalus|Dedalus Books]], 2009.
+*'''José Mathias''' (''José Mathias'' in The Mandarin and Other Stories): translation by [[Margaret Jull Costa]], [[List of things named Daedalus|Dedalus Books]], 2009.
+*'''O Defunto''' (''The Hanged Man'' in The Mandarin and Other Stories): translation by [[Margaret Jull Costa]], [[List of things named Daedalus|Dedalus Books]], 2009.
+*'''Singularidades de uma Rapariga Loura''' (''Idiosyncrasies of a young blonde woman'' in The Mandarin and Other Stories): translation by [[Margaret Jull Costa]], [[List of things named Daedalus|Dedalus Books]], 2009.
+*'''O Primo Basílio''' (''Dragon's teeth''): translation by Mary Jane Serrano, R. F. Fenno & Co., 1896.
+*'''O Primo Basílio''' (''Cousin Bazilio''): translation by Roy Campbell, Noonday Press, 1953.
+*'''O Primo Basílio''' (''Cousin Bazilio''): translation by [[Margaret Jull Costa]], [[List of things named Daedalus|Dedalus Books]], 2003.
+*'''Suave milagre''' (''The Sweet Miracle''): translation by Edgar Prestage, David Nutt, 1905. Also published as ''The Fisher of Men'', T. B. Mosher, 1905; ''The Sweetest Miracle'', T. B. Mosher, 1906; ''The Sweet Miracle'', B. H. Blakwell, 1914.
+*'''Os Maias''' (''The Maias''): translation by Ann Stevens and Patricia McGowan Pinheiro, St. Martin's Press, 1965.
+*'''Os Maias''' (''The Maias''): translation by [[Margaret Jull Costa]], New Directions, 2007.
+*'''O Defunto''' (''Our Lady of the Pillar''): translation by Edgar Prestage, Archibald Constable, 1906.
+*'''Pacheco''' (''Pacheco''): translation by Edgar Prestage, Basil Blackwell, 1922.
+*'''A Perfeição''' (''Perfection''): translation by Charles Marriott, Selwyn & Blovnt, 1923.
+*'''José Mathias''' (''José Mathias'' in José Mathias and A Man of Talent): translation by Luís Marques, George G. Harap & Co., 1947.
+*'''Pacheco''' (''A man of talent'' in José Mathias and A Man of Talent): translation by Luís Marques, George G. Harap & Co., 1947.
+*'''Alves & Cia''' (''The Yellow Sofa'' in Yellow Sofa and Three Portraits): translation by John Vetch, Carcanet Press, 1993. Also published by New Directions, 1996.
+*'''Um Poeta Lírico''' (''Lyric Poet'' in Yellow Sofa and Three Portraits): translation by John Vetch, Carcanet Press, 1993. Also published by New Directions, 1996.
+*'''José Mathias''' (''José Mathias'' in Yellow Sofa and Three Portraits): translation by Luís Marques, Carcanet Press, 1993. Also published by New Directions, 1996.
+*'''Pacheco''' (''A man of talent'' in Yellow Sofa and Three Portraits): translation by Luís Marques, Carcanet Press, 1993. Also published by New Directions, 1996.
+
+==Adaptations==
+{{commonscat|Eça de Queirós}}
+
+There have been two film versions of ''[[O Crime do Padre Amaro]]'', a Mexican one in 2002 and a Portuguese version in 2005 that also had an associated Portuguese made-for-television series. 
+
+Eça's works have been also adapted on Brazilian television. In 1988 [[Rede Globo]] produced ''[[O Primo Basílio]]'' in 35 episodes. Later, in 2007, a movie adaptation of the same novel was made by director [[Daniel Filho]].
+
+In 2001 Rede Globo produced an acclaimed adaptation of ''[[Os Maias]]'' as a television serial in 40 episodes. 
+
+A movie adaptation of ''O Mistério da Estrada de Sintra'' was produced in 2007.<ref>[http://www.filmesfundo.com/omisteriodaestradadesintra filmesfundo.com]</ref>
+
+==References==
+===Notes===
+{{reflist}}
+===Bibliography===
+*
+===External links===
+{{wikiquote|José Maria Eça de Queiroz}}
+*[http://www.vidaslusofonas.pt/eca_de_queiros2.htm About Eça de Queirós] (formerly Queiroz, but out of date)
+* {{gutenberg author| id=José+Maria+Eça+de+Queiroz | name=José Maria Eça de Queiroz}}
+*[http://www.kirjasto.sci.fi/ecade.htm Eça de Queirós biography]
+*{{pt icon}} {{en icon}} [http://www.projectedletters.com/idealism--realism/ Queiroz's/Queirós's Idealism & Realism (idealismo e realismo)]
+
+{{DEFAULTSORT:Eca De Queiroz}}
+[[Category:1845 births]]
+[[Category:1900 deaths]]
+[[Category:Portuguese novelists]]
+[[Category:Portuguese journalists]]
+[[Category:Portuguese diplomats]]
+[[Category:Portuguese writers]]
+[[Category:People from Póvoa de Varzim]]
+[[Category:University of Coimbra alumni]]
+
+[[bg:Еса де Кейрош]]
+[[ca:José Maria Eça de Queiroz]]
+[[de:José Maria Eça de Queiroz]]
+[[es:José Maria Eça de Queirós]]
+[[eo:Eça de Queirós]]
+[[fr:Eça de Queiros]]
+[[gl:José Maria Eça de Queirós]]
+[[ko:에사 드 케이로스]]
+[[io:Eça de Queiroz]]
+[[is:Eça de Queirós]]
+[[it:José Maria Eça de Queiroz]]
+[[lv:Žozē Marija Esa de Keirošs]]
+[[mwl:Eça de Queirós]]
+[[ja:エッサ・デ・ケイロス]]
+[[oc:Eça de Queiroz]]
+[[pt:Eça de Queirós]]
+[[ro:Eça de Queirós]]
+[[ru:Эса де Кейрош, Жозе Мария]]
+[[fi:José Maria Eça de Queiroz]]
+[[sv:José Maria Eça de Queiroz]]

@@ -1,0 +1,195 @@
+{{Infobox Constellation|
+name = Coma Berenices |
+abbreviation = Com |
+genitive = Comae Berenices |
+pronounce = {{IPA-en|ˈkoʊmə bɛrəˈnaɪsiːz|}}, genitive {{IPA|/ˈkoʊmiː/}} |
+symbology = [[Berenice II of Egypt|Berenice]]'s [[Hair]] |
+RA = 12.76 |
+dec= +21.83 |
+areatotal = 386 |
+arearank = 42nd |
+numbermainstars = 3 |
+numberbfstars = 44 |
+numberstarsplanets = 2 |
+numberbrightstars = 0 |
+numbernearbystars = 2 |
+brighteststarname = [[Beta Comae Berenices|β Com]]|
+starmagnitude = 4.26 |
+neareststarname = β Com |
+stardistance = 30 |
+numbermessierobjects = 8 |
+meteorshowers = [[Coma Berenicids]] |
+bordering = [[Canes Venatici]]<br />[[Ursa Major]]<br />[[Leo (constellation)|Leo]]<br />[[Virgo (constellation)|Virgo]]<br />[[Boötes]] |
+latmax = [[North Pole|90]] |
+latmin = [[70th parallel south|70]] |
+month = May |
+notes=}}
+'''Coma Berenices''' is a traditional [[asterism (astronomy)|asterism]] that has since been defined as one of the 88 modern [[constellation]]s. It is located near [[Leo (constellation)|Leo]], to which it formerly belonged and accommodates the [[North Galactic Pole]]. Its name means "Berenice's Hair", and refers to the legend of Queen [[Berenice II of Egypt]], who sacrificed her long hair.
+
+== History and Mythology ==
+Coma Berenices is one of the few constellations to owe its name to an historical figure, in this case Queen [[Berenice II of Egypt]], wife of  [[Ptolemy III of Egypt|Ptolemy III Euergetes]] (''fl.'' 246 BC–221 BC), the king under whom [[Alexandria]] became an important cultural center.
+
+[[Image:Head Berenike II Glyptothek Munich.jpg|thumb|180px|left|Queen Berenice II of Egypt]]
+<!--YECH!!-->In [[243 BC]], Ptolemy, in the [[Third Syrian War]], undertook a dangerous expedition against the [[Seleucids]] who had murdered his sister. His newlywed bride, Berenice, swore to the goddess [[Aphrodite]] to sacrifice her long, blonde hair, of which she was extremely proud, if her husband returned safely. He did, and she had her hair cut and placed it in the goddess' temple. By the next morning the hair had disappeared. To appease the furious king and queen (and save the lives of the temple priests), the court astronomer, [[Conon of Samos|Conon]], announced that the offering had so pleased the goddess, that she had placed it in the sky. He indicated a cluster of stars that have since been called Berenice's Hair.<ref>[[Gaius Julius Hyginus]], ''Astronomica'', 2.24<br>As given, Hyginus' version contains some serious logic flaws:<br> &nbsp; &bull; Votaries make sacrifices when ''requesting'' the diety's aid, not when ''receiving'' it.<br> &nbsp; &bull; Berenice would be sensible enough to know that after a long, hard campaign, Ptolemy would not be overjoyed to discover that his<br> &nbsp; &nbsp;  wife was bald.<br> &nbsp; &bull; No reason is given for Berenice returning to the temple the next day.<br> &nbsp; &bull;  Overnight is hardly long enough for the priests to have misplaced a royal donation.<br>The problems are resolved if it is understood that Berenice sacrificed her hair upon her husbands ''departure'', praying for his safe return, by which time her hair would have regrown. An unscheduled royal visit to the temple to give thanks would have been appropriate, resulting in the discovery of the misplacement in the long interim.</ref>
+
+Coma Berenices consists of a number of stars close together, and has been recognized as a distinct [[asterism (astronomy)|asterism]] since the [[Hellenistic period]].  [[Eratosthenes]] referred to it as both "[[Ariadne]]'s Hair" and "Berenice's Hair".  [[Ptolemy]] referred to it as "the lock" of hair, however, he did not list it as one of his 48 constellations, considering it as part of Leo, considering it to be the [[tuft]] at the end of the lion's tail.
+
+[[Tycho Brahe]], who is usually given credit for Coma's promotion to constellation status, listed it in his star catalogue of 1602, but it originally occurred on a star globe by the cartographer Caspar Vopel from 1536<ref>[http://www.ianridpath.com/startales/comaberenices.htm Star Tales — Come Berenices], by [[Ian Ridpath]]</ref><ref>[http://members.westnet.com.au/Gary%2DDavid%2DThompson/page9m.html An Outline Sketch of  the Origin and History of Constellations and Star-Names] by Gary D. Thompson, search for ''"Coma Berenices"''</ref><ref>[http://www.nmm.ac.uk/collections/explore/object.cfm?ID=GLB0095 Celestial table globe (GLB0095)], in [[National Maritime Museum]], home page [http://www.nmm.ac.uk/ HERE!]</ref>, so Tycho Brahe obviously distinguished and measured up the constellation around a previous cartographers tradition, originating from [[Ptolemy]]'s explanatory texts in [[Almagest]].
+
+It appeared in [[Johann Bayer]]'s ''[[Uranometria]]'' of 1603, and during the 16th century, a few other maps that were made of the sky followed suit.
+
+== Notable features ==
+Although Coma Berenices is not a large constellation, it contains eight [[Messier object]]s.  The constellation is rich in [[galaxy|galaxies]], containing the northern part of the [[Virgo cluster]].  There are also several [[globular cluster]]s to be seen.  These objects can be seen with minimal obscuration from dust because the constellation is not in the direction of the galactic plane.  However, because of this fact, there are few [[open cluster]]s (except for the Coma Berenices Cluster, which dominates the northern part of the constellation), diffuse [[nebula]]e, or [[planetary nebula]]e.
+
+=== Stars ===
+Coma Berenices is not particularly bright, having no stars brighter than fourth magnitude.  [[Beta Comae Berenices|β Comae Berenices]] is the brightest [[star]] in the constellation, at [[apparent magnitude|magnitude]] 4.26.  It is intrinsically only slightly brighter than the [[Sun]], which gives us an idea of how faint the Sun would appear seen from 27 [[light year]]s away.
+
+The second brightest star in Coma Berenices is [[Alpha Comae Berenices|α Comae Berenices]] (4.32<sup>m</sup>), also called [[Diadem]].  The name represents the gem in Berenice's crown.  It is a [[binary star]], with two components of almost equal magnitude.  Because the [[orbital plane (astronomy)|orbital plane]] is so close to the Earth's line of sight, it was long suspected of being an [[eclipsing binary]], but it now appears that the orbital tilt is 0.1° relative to the line of sight, so the stars do not eclipse each other as seen from Earth.{{inote|ref:Burnham}}
+[[Image:Coma Berenices photograph.jpg|thumb|250px|right|Photograph of Coma Berenices.]]
+The only other fourth magnitude star in Coma Berenices is [[Gamma Comae Berenices|γ Comae Berenices]] (4.36<sup>m</sup>).
+
+Over 200 variable stars are known in Coma Berenices, although many of them are obscure.  [[FK Comae Berenices]], which varies between 8.14<sup>m</sup> and 8.33<sup>m</sup> over a period of 2.4 days, is the prototype for the [[FK Comae Berenices variable|FK Com class]] of variable stars.  It is believed that the variability of FK Com stars is caused by large, cool spots on the rotating surfaces of the stars.  [[FS Comae Berenices]] is a [[semiregular variable]] that varies between 5.3<sup>m</sup> and 6.1<sup>m</sup> over a period of 58 days.  [[R Comae Berenices]] is a [[Mira variable]] star that varies between 7.1<sup>m</sup> and 14.6<sup>m</sup> over a period of 363 days.
+
+[[Richard Hinckley Allen]] lists among others the following star names for stars in Coma:<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Coma_Berenices*.html Star Names, Their Lore and Meaning, by Richard Hinckley Allen]</ref>
+
+{|class="wikitable"
+|-
+!|[[Bayer]]
+!|Name
+!|Origin
+!|Meaning
+|-
+||α Com
+||Diadem
+||[[Latin]]
+||diadem
+|-
+||β Com
+||Al Ḍafīrah
+||[[Arabic]]
+||the curl
+|-
+||ρ Com
+||Shang Tseang
+||[[Chinese language|Chinese]]
+||higher army general
+|-
+||21 Com
+||Kissīn
+||[[Greek language|Greek???]]
+||species of [[ivy]]
+|}
+
+=== Star Clusters ===
+===== Coma Berenices Open Cluster =====
+{{main|Coma star cluster}}
+The Coma Berenices Cluster does not have a Messier or an NGC designation, but it is in the Melotte catalogue of open clusters, where it is designated Melotte 111.  It is a large, diffuse open cluster of stars that range between 5th and 10th magnitudes, including several of the naked eye stars in the constellation.  The cluster is spread over a huge region, more than 5 degrees across, near γ Coma Berenices.  The cluster has such a large apparent size because it is relatively nearby, only around 270 [[light year]]s away.
+
+==== Globular clusters ====
+[[Messier 53|M53]] (NGC 5024) is a globular cluster that was discovered by [[Johann Elert Bode|Bode]] in 1775 and independently by [[Charles Messier]] in February 1777.  Its brightness is 7.7<sup>m</sup>, making it visible in binoculars.  It is around 65,000 light years away and its total luminosity is around 200,000 times that of the Sun.  Only 1° away is [[NGC 5053]], a globular cluster that is sparser and has a less dense nucleus of stars.  Its total luminosity is around 16,000 suns, which is one of the lowest luminosities of any globular cluster.  It was discovered by [[Sir William Herschel]] in 1784.  It is around magnitude 9.9 m.  [[NGC 4147]] is a somewhat dimmer (magnitude 10.2m) globular cluster with a much smaller apparent size.
+
+=== Galaxies ===
+==== Virgo cluster of galaxies ====
+{{main|Virgo Cluster}}
+Coma Berenices contains the northern portion of the Virgo cluster (also known as the Coma-Virgo cluster), which is around 60 million light years away.
+
+[[Messier 100|M100]] (NGC 4321) is a 9.4<sup>m</sup> [[spiral galaxy]] seen face-on.  At 7 arcminutes across, it has the largest apparent size of any galaxy in the Virgo cluster.  It is located about 56 million light-years away.  Its diameter is over 120,000 light years, making it among the largest spiral galaxies in the Virgo cluster.  Photographs reveal a brilliant core, two prominent spiral arms and an array of secondary ones, as well as several dust lanes.
+
+[[Messier 85|M85]] (NGC 4382) is a [[lenticular galaxy]] that is the northernmost outlier of the Virgo cluster.  It is one of the brighter members of the cluster.  [[Messier 98|M98]] (NGC 4192) is a bright, elongated spiral that is seen nearly edge-on.  It has a small nucleus and faint but vast spiral arms.  [[Messier 99|M99]] (NGC 4254), about 1.5° southeast of M98, is a bright, round spiral seen face-on.  R.H. Allen called it the "Pinwheel nebula", although this name is more often applied to the [[Triangulum Galaxy]].
+
+[[Messier 88|M88]] (NGC 4501) is a multi-arm spiral galaxy, seen about 30° from edge-on.
+
+[[Messier 91|M91]] (NGC 4548) is a [[barred spiral galaxy]].
+
+==== Coma cluster of galaxies ====
+{{main|Coma Cluster}}
+The Coma cluster of galaxies is to the north of the Virgo cluster.  It lies much further off, however, around 230 to 300 million light years away.  The cluster is quite large, containing 1,000 large galaxies and possibly up to 30,000 smaller ones.  A survey by [[Fritz Zwicky]] in 1957 identified 29,951 galaxies in the area that are brighter than 19.0<sup>m</sup>.  While some of these may be distant background objects, the total number of galaxies in the cluster is quite large.
+
+Due to the great distance to the cluster, most of the galaxies are only visible in large telescopes.  The brightest members are [[NGC 4889]] and [[NGC 4874]], both of which are of thirteenth magnitude, with most of the other members being of fifteenth magnitude or dimmer.  NGC 4889 is a giant elliptical galaxy. The Coma cluster contains comparatively few [[spiral galaxy|spiral galaxies]]. [[NGC 4921]] is the brightest among them.<ref>{{cite journal
+ | author=van den Bergh, S.
+ | title=A new classification system for galaxies
+ | journal=Astrophysical Journal | volume=206
+ | date=1976-06-15 | pages=883&ndash;887
+ | doi=10.1086/154452 }}</ref>
+
+==== Other galaxies ====
+[[Image:Blackeyegalaxy.jpg|thumb|200px|M64, the Black Eye Galaxy]]
+M64 (NGC 4826) is known as the [[Black Eye Galaxy]] because of its prominent dark dust lane in front of the galaxy's bright nucleus.  It is relatively nearby, at around 17 million light years away from Earth.  Recent studies have revealed that the interstellar gas in the outer regions of the galaxy rotates in the opposite direction from that in the inner regions, leading astronomers to believe that at least one satellite galaxy had collided with it less than a billion years ago.
+
+[[NGC 4565]] is a spiral galaxy that is seen edge-on, and is called the "Needle Galaxy" for that reason.  With an apparent length of 16 arcminutes, it has the largest apparent size of any galaxy seen edgewise from Earth.  It appears quite thin and has a dark dust lane.
+
+=== Quasars ===
+[[Quasar]] PG1247+26° is the brightest quasar visible in Coma Berenices.  As well, [[W Comae|W Com]] was originally identified as a variable star and so given a variable star designation, but later discovered to be a [[BL Lacertae]] object.  It is normally around magnitude 16.5 m, but has been known to reach 12th magnitude.
+
+
+=== Other ===
+Coma Berenices contains the [[North Galactic Pole]], at [[right ascension]] {{RA|12|51|25}} and [[declination]] {{DEC|+27|07|48}} (epoch [[J2000.0]]).
+
+== References ==
+<references/>
+*{{cite book|author=Burnham, Robert Jr.|title=Burnham's Celestial Handbook: An Observer's Guide to the Universe Beyond the Solar System, v.2|publisher=General Publishing Company, Ltd., Toronto|year=1966, 1978|isbn=0-486-23567-X}}
+* [http://www.allthesky.com/constellations/comaberenices/ The Deep Photographic Guide to the Constellations: Coma Berenices]
+* Ian Ridpath and Wil Tirion (2007). ''Stars and Planets Guide'', Collins, London. ISBN 978-0007251209. [[Princeton University]] Press, Princeton. ISBN 978-0691135564.
+
+== External links ==
+*[http://www.ianridpath.com/startales/comaberenices.htm Star Tales – Coma Berenices]
+
+{{navconstel}}
+{{Commons|Coma Berenices}}
+{{Sky|12|45|36|+|21|49|48|10}}
+[[Category:Coma Berenices constellation]]
+[[Category:Constellations]]
+[[Category:Northern constellations]]
+[[Category:Western constellations]]
+[[Category:Greco-Roman Egypt in art and culture]]
+
+[[ar:الهلبة (كوكبة)]]
+[[az:Veronikanın Saçları]]
+[[bn:কোমা বারেনিসিসের মণ্ডল]]
+[[be:Сузор'е Валасы Веранікі]]
+[[bg:Косите на Вероника]]
+[[ca:Cabellera de Berenice]]
+[[cs:Souhvězdí Vlasů Bereniky]]
+[[co:Coma Berenices]]
+[[da:Berenikes Lokker]]
+[[de:Haar der Berenike]]
+[[et:Berenike Juuksed]]
+[[el:Κόμη Βερενίκης]]
+[[es:Coma Berenices]]
+[[eo:Berenica Hararo (konstelacio)]]
+[[fa:گیسوی برنیکه]]
+[[fr:Chevelure de Bérénice]]
+[[ga:Folt Bheirnicé]]
+[[gl:Coma Berenices]]
+[[ko:머리털자리]]
+[[hr:Berenikina kosa]]
+[[id:Coma Berenices]]
+[[it:Chioma di Berenice (costellazione)]]
+[[he:שערות ורוניקה]]
+[[ka:ბერენიკეს თმები]]
+[[la:Coma Berenices (sidus)]]
+[[lv:Berenikes Mati]]
+[[lb:Coma Berenices (Stärebild)]]
+[[lt:Berenikės Garbanos]]
+[[hu:Bereniké haja csillagkép]]
+[[ml:സീതാവേണി]]
+[[nl:Hoofdhaar (sterrenbeeld)]]
+[[ja:かみのけ座]]
+[[no:Berenikes hår]]
+[[nn:Berenikes hår]]
+[[pl:Warkocz Bereniki]]
+[[pt:Coma Berenices]]
+[[ro:Părul Berenicei (constelaţie)]]
+[[ru:Волосы Вероники (созвездие)]]
+[[sk:Súhvezdie Vlasy Bereniky]]
+[[sl:Berenikini kodri (ozvezdje)]]
+[[sh:Berenikina kosa]]
+[[fi:Bereniken hiukset]]
+[[sv:Berenikes hår]]
+[[th:กลุ่มดาวผมเบเรนิซ]]
+[[tr:Coma Berenices (takımyıldız)]]
+[[uk:Волосся Вероніки (сузір'я)]]
+[[ur:گیسو (مجمع النجوم)]]
+[[vi:Hậu Phát]]
+[[zh-yue:后髮座]]
+[[zh:后发座]]

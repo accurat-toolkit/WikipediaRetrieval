@@ -1,0 +1,36 @@
+[[Attēls:TheIrregulars JUPITER Himalia.svg|thumb|right|300px|Attēlā parādīti Himalijas grupas pavadoņu orbītas elementi un relatīvais lielums. Horizontālā ass parāda to vidējo attālumu no Jupitera, vertikālā ass attēlo orbītas inklināciju, aplīši parāda pavadoņu lielumu.]]
+'''Himalijas grupa''' ir grupa [[Jupiters (planēta)|Jupitera]] [[dabiskais pavadonis|pavadoņu]], kuriem ir [[Himalija (pavadonis)|Himalijai]] līdzīgas [[orbīta]]s. Grupas pavadoņiem ir līdzīga izcelsme.
+
+Grupā ietilpst:
+* [[Lēda (pavadonis)|Lēda]]
+* [[Himalija (pavadonis)|Himalija]]
+* [[Līziteja (pavadonis)|Līziteja]]
+* [[Elara (pavadonis)|Elara]]
+* [[S/2000 J 11]]
+
+Himalijas grupas pavadoņu [[orbītas lielā pusass|orbītas lielās pusasis]] atrodas robežās no 11,15 līdz 11,75 miljoniem [[kilometrs|km]]. To orbītas inklinācija ir no 26,6° līdz 28,3°, ekscentricitāte no 0,11 līdz 0,25. Pavadoņu krāsa ir līdzīga C tipa asteroīdiem. To līdzīgo orbītu un krāsas dēļ tiek uzskatīts, ka pavadoņi radušies, sadaloties kādam [[asteroīds|asteroīdam]]. Šā asteroīda rādiuss varēja būt ap 89 km. Tas ir tikai nedaudz lielāks kā Himalijai, kura saglabājusi ~ 87 % no sākotnējā asteroīda masas.
+ {{Astro-aizmetnis}}
+{{Jupitera pavadoņi}}
+
+[[Kategorija:Jupitera pavadoņi]]
+
+[[bg:Група на Хималия (спътници)]]
+[[cs:Rodina Himalia]]
+[[da:Himalia-gruppen]]
+[[de:Himalia-Gruppe]]
+[[en:Himalia group]]
+[[fi:Himalia-ryhmä]]
+[[fr:Groupe d'Himalia]]
+[[hr:Grupa Himalia]]
+[[hu:Himalia csoport]]
+[[it:Gruppo di Imalia]]
+[[ja:ヒマリア群]]
+[[nds:Himalia-Grupp]]
+[[pl:Grupa Himalii]]
+[[pt:Grupo Himalia]]
+[[ru:Группа Гималии]]
+[[sh:Grupa Himalia]]
+[[simple:Himalia group]]
+[[sk:Rodina Himalia]]
+[[sl:Himalijina skupina]]
+[[sr:Хималијина група]]

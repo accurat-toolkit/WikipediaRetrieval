@@ -1,0 +1,452 @@
+{{Redirect|Beethoven}}
+<!-- After lengthy consideration at the Wikipedia Composers project, it has been determined that infoboxes are not appropriate for composer articles. Before adding an infobox, please review the discussion at Wikipedia talk:WikiProject Composers/Infobox debates. -->
+
+{{pp-move-indef}}
+
+[[File:Beethoven.jpg|right|thumb|250px|A portrait by [[Joseph Karl Stieler]], 1820]]
+[[File:Signature Van Beethoven.svg|right|250px]]
+'''Ludwig van Beethoven''' ({{IPA-en|ˈlʊdvɪɡ væn ˈbeɪtoʊvɨn}} (US), {{IPA|/ˈlʊdvɪɡ væn ˈbeɪthoʊvɨn/}} (UK); {{IPA-de|ˈluːt.vɪç fan ˈbeːt.hoːfən|lang|Ludwig van Beethoven.ogg}}; [[baptise]]d 17 December 1770<ref>Beethoven was [[baptism|baptised]] on 17 December. His date of birth was often, in the past, given as 16 December, however this is not known with certainty; his family celebrated his birthday on that date, but there is no documentary evidence that his birth was actually on 16 December.</ref> – 26 March 1827) was a [[List of German composers|German composer]] and [[pianist]]. He was a crucial figure in the transitional period between the [[Classical period (music)|Classical]] and [[Romantic music|Romantic]] eras in [[classical music|Western classical music]], and remains one of the most acclaimed and influential composers of all time.
+
+Born in [[Bonn]],  of the [[Electorate of Cologne]] and a part of the [[Holy Roman Empire of the German Nation]] in present-day [[Germany]], he moved to [[Vienna]] in his early twenties and settled there, studying with [[Joseph Haydn]] and quickly gaining a reputation as a [[virtuoso]] pianist. His hearing began to [[Hearing impairment|deteriorate]] in the late 1790s, yet he continued to compose, [[conducting|conduct]], and perform, even after becoming [[Profound hearing loss|completely deaf]].
+<!-- needs elaboration (and citation) in body:
+Even during his lifetime, he was recognized by critics like [[[[Ernst Theodor Amadeus Hoffmann|E. T. A. Hoffman]] as an important musical successor to Haydn and [[Wolfgang Amadeus Mozart|Mozart]].  His reputation was enhanced in the 19th and early 20th centuries by influential musical writers like [[Robert Schumann]], [[Richard Wagner]], and [[Gustav Mahler]], and his music formed the basis for formal instruction for decades.
+-->
+
+==Biography==
+[[Image:Universität Bonn.jpg|thumb|left|Prince-Elector's Palace (''Kurfürstliches Schloss'') in Bonn, where the Beethoven family had been active since the 1730s]]
+===Background and early life===
+
+Beethoven was the grandson of a musician of southern [[Dutch people|Dutch]] origin named Lodewijk van Beethoven (1712–1773).<ref name="GroveOnline1"/> Beethoven was named after his grandfather, as Lodewijk is the [[Dutch language|Dutch]] counterpart of ''Ludwig''. Beethovens grandfather was employed as a bass singer at the court of the [[Electorate of Cologne|Elector of Cologne]], rising to become [[Kapellmeister]] (music director). He had one son, [[Johann van Beethoven]] (1740–1792), who worked as a tenor in the same musical establishment, also giving lessons on piano and violin to supplement his income.<ref name="GroveOnline1">Grove Online, section 1</ref>  Johann married Maria Magdalena Keverich in 1767; she was the daughter of Johann Heinrich Keverich, who had been the head chef at the court of the [[Archbishopric of Trier]].<ref name="Thayer1_49">[[#Thayer1|Thayer, Vol 1]], p. 49</ref> 
+
+[[Image:Beethoven house of birth Bonn 2008.jpg|200px|thumb|upright|House of birth, [[Bonn]], Bonngasse 20, now the [[Beethoven-Haus]] museum]]
+Beethoven was born of this marriage in Bonn, probably on 16 December 1770, and baptized in a [[Roman Catholic]] service the next day.<ref>{{cite book |title= Chambers Biographical Dictionary |editor = Thorne, J. O. & Collocott, T.C.|authorlink= |coauthors= |year= 1986|publisher=W & R Chambers Ltd |location= [[Edinburgh]]|isbn= 0550180222|page= 114 |accessdate=2009-06-19}}</ref> Children of that era were usually baptized the day after birth; since only his baptismal record survives, there is no documentary evidence for the exact date of his birth.<ref name="Thayer1_53">[[#Thayer1|Thayer, Vol 1]], p. 53</ref> It is known that Beethoven's family and his teacher [[Johann Georg Albrechtsberger|Johann Albrechtsberger]] celebrated his birthday on 16 December. Thus, while the evidence supports the probability that 16 December 1770 was Beethoven's date of birth, this cannot be stated with certainty.<ref>This is discussed in depth in [[#Solomon|Solomon]], chapter 1.</ref> Of the seven children born to Johann Beethoven, only second-born Ludwig and two younger brothers survived infancy. Caspar Anton Carl was born on April 8, 1774, and Nikolaus Johann, the youngest, was born on October 2, 1776.<ref name="Stanley7">[[#Stanley|Stanley]], p. 7</ref>
+
+Beethoven's first music teacher was his father. A traditional belief concerning Johann is that he was a harsh instructor, and that the child Beethoven, "made to stand at the keyboard, was often in tears".<ref name="GroveOnline1"/> However, the ''[[Grove Dictionary of Music and Musicians|New Grove]]'' indicates that there is no solid documentation to support it, and asserts that "speculation and myth-making have both been productive."<ref name="GroveOnline1"/> Beethoven had other local teachers as well: the court organist Gilles van den Eeden (d. 1782), Tobias Friedrich Pfeiffer (a family friend, who taught Beethoven piano), and a relative, Franz Rovantini (violin and viola).<ref name="GroveOnline1"/> His musical talent manifested itself early—apparently he was advanced enough to perform at the age of nine, not seven as popularly believed. Johann, aware of [[Leopold Mozart]]'s successes in this area, attempted unsuccessfully to exploit his son as a [[child prodigy]]. It was Johann who falsely claimed Beethoven was six (he was seven) on the posters for Beethoven's first public performance in March 1778.<ref name="Thayer1_59">[[#Thayer1|Thayer, Vol 1]], p. 59</ref>
+
+Some time after 1779, Beethoven began his studies with his most important teacher in Bonn, [[Christian Gottlob Neefe]], who was appointed the Court's Organist in that year.<ref name="Thayer1_67">[[#Thayer1|Thayer, Vol 1]], p. 67</ref> Neefe taught Beethoven composition, and by March 1783 had helped him write his first published composition: a set of keyboard variations ([[WoO]] 63).<ref name="Stanley7"/> Beethoven soon began working with Neefe as assistant organist, first on an unpaid basis (1781), and then as paid employee (1784) of the court chapel conducted by the Kapellmeister [[Andrea Luchesi]]. His first three piano sonatas, named "[[Kurfürst]]" ("Elector") for their dedication to the Elector [[Maximilian Frederick of Königsegg-Rothenfels|Maximilian Frederick]], were published in 1783. Maximilian Frederick, who died in 1784, not long after Beethoven's appointment as assistant organist, had noticed Beethoven's talent early, and had subsidized and encouraged the young Beethoven's musical studies.<ref name="Thayer1_71_4">[[#Thayer1|Thayer, Vol 1]], pp. 71&ndash;74</ref>
+
+Maximilian Frederick's successor as the Elector of Bonn was [[Archduke Maximilian Franz of Austria|Maximilian Franz]], the youngest son of Empress [[Maria Theresa of Austria]], and he brought notable changes to Bonn.  Echoing changes made in [[Vienna]] by his brother [[Joseph II of Austria|Joseph]], he introduced reforms based on [[Age of Enlightenment|Enlightenment philosophy]], with increased support for education and the arts.  The teenage Beethoven was almost certainly influenced by these changes.  He may also have been strongly influenced at this time by ideas prominent in [[freemasonry]], as Neefe and others around Beethoven were members of the local chapter of the [[Illuminati|Order of the Illuminati]].<ref name="Cooper15">[[#Cooper|Cooper (2008)]], p. 15</ref>
+
+In March 1787 Beethoven traveled to Vienna (it is unknown at whose expense) for the first time, apparently in the hope of studying with [[Wolfgang Amadeus Mozart|Mozart]]. The details of [[Mozart and Beethoven|their relationship]] are uncertain, including whether or not they actually met.<ref name="Cooper23">[[#Cooper|Cooper (2008)]], p. 23</ref>  After just two weeks there Beethoven learned that his mother was severely ill, and he was forced to return home. His mother died shortly thereafter, and the father lapsed deeper into alcoholism. As a result, Beethoven became responsible for the care of his two younger brothers, and he spent the next five years in Bonn.<ref name="Cooper24">[[#Cooper|Cooper (2008)]], p. 24</ref>
+
+Beethoven was introduced to a number of people who became important in his life in these years.  Franz Wegeler, a young medical student, introduced him to the von Breuning family (one of whose daughters Wegeler eventually married).  Beethoven was often at the von Breuning household, where he was exposed to German and classical literature, and where he also gave piano instruction to some of the children.  The von Breuning family environment was also less stressful than his own, which was increasingly dominated by his father's strict control and descent into alcoholism.<ref name="Cooper16">[[#Cooper|Cooper (2008)]], p. 16</ref>  It is also in these years that Beethoven came to the attention of [[Count Ferdinand Ernst Gabriel von Waldstein|Count Ferdinand von Waldstein]], who became a lifelong friend and financial supporter.<ref name="Thayer1_102">[[#Thayer1|Thayer, Vol 1]], p. 102</ref>
+
+[[Image:Thirteen-year-old Beethoven.jpg|thumb|200px|left|A portrait of the thirteen-year-old Beethoven by an unknown Bonn master (c. 1783)]]
+
+In 1789, he obtained a legal order by which half of his father's salary was paid directly to him for support of the family.<ref name="Thayer1_104">[[#Thayer1|Thayer, Vol 1]], p. 104</ref>  He also contributed further to the family's income by playing [[viola]] in the court orchestra. This familiarized Beethoven with a variety of operas, including three of [[Wolfgang Amadeus Mozart|Mozart]]'s operas performed at court in this period.  He also befriended [[Anton Reicha]], a [[flute|flautist]] and violinist of about his own age who was the conductor's nephew.<ref name="Thayer1_105_9">[[#Thayer1|Thayer, Vol 1]], pp. 105&ndash;109</ref>
+
+===Establishing his career in Vienna===
+With the Elector's help, Beethoven moved to [[Vienna]] in 1792.<ref name="Thayer1_124">[[#Thayer1|Thayer, Vol 1]], p. 124</ref>  He was probably first introduced to [[Joseph Haydn]] in late 1790, when the latter was traveling to [[London]] and stopped in Bonn around Christmas time.<ref name="Cooper35">[[#Cooper|Cooper (2008)]], p. 35</ref>  They definitely met in Bonn on Haydn's return trip from London to Vienna in July 1792, and it is likely that arrangements were made at that time for Beethoven to study with the old master.<ref name="Cooper41">[[#Cooper|Cooper (2008)]], p. 41</ref>  In the intervening years, Beethoven composed a significant number of works (none were published at the time, and most are now listed as [[WoO|works without opus]]) that demonstrated a growing range and maturity of style.  Musicologists have identified a theme similar to those of his [[Symphony No. 3 (Beethoven)|third symphony]] in a set of variations written in 1791.<ref name="Cooper35_1">[[#Cooper|Cooper (2008)]], pp. 35–41</ref>  Beethoven left Bonn for Vienna in November 1792, amid rumors of [[First Coalition|war spilling out of France]], and learned shortly after his arrival that his father had died.<ref name="Thayer1_148">[[#Thayer1|Thayer, Vol 1]], p. 148</ref><ref name="Cooper42"/>  Count Waldstein in his farewell note to Beethoven wrote: "Through uninterrupted diligence you will receive Mozart's spirit through Haydn's hands."<ref name="Cooper42">[[#Cooper|Cooper (2008)]], p. 42</ref>  Beethoven responded to the widespread feeling that he was a successor to the recently-deceased Mozart over the next few years by studying that master's work and writing works with distinctly Mozartean flavor.<ref name="Cooper43">[[#Cooper|Cooper (2008)]], p. 43</ref>
+
+Beethoven did not immediately set out to establish himself as a composer, but rather devoted himself to study and to piano performance. Working under Haydn's direction<ref name="GroveOnline3">Grove Online, section 3</ref> he sought to master [[counterpoint]], and he also took violin lessons from [[Ignaz Schuppanzigh]].<ref name="Cooper47_54">[[#Cooper|Cooper (2008)]], pp. 47,54</ref>  Early in this time he also began receiving occasional instruction from [[Antonio Salieri]], primarily in Italian vocal composition style; this relationship persisted until at least 1802, and possibly 1809.<ref name="Thayer1_161">[[#Thayer1|Thayer, Vol 1]], p. 161</ref> With Haydn's departure for England in 1794, Beethoven was expected by the Elector to return home. He chose instead to remain in Vienna, continuing the instruction in counterpoint with [[Johann Georg Albrechtsberger|Johann Albrechtsberger]] and other teachers. Although his stipend from the Elector expired, a number of Viennese noblemen had already recognized his ability and offered him financial support, among them [[House of Lobkowicz|Prince Joseph Franz Lobkowitz]], [[Karl Alois Johann-Nepomuk Vinzenz, Fürst Lichnowsky|Prince Karl Lichnowsky]], and Baron [[Gottfried van Swieten]].<ref name="Cooper53">[[#Cooper|Cooper (2008)]], p. 53</ref>
+
+By 1793, Beethoven established a reputation in Vienna as a piano virtuoso and improviser in the salons of the nobility, often playing the preludes and fugues of [[Johann Sebastian Bach|J. S. Bach]]'s [[Well-Tempered Clavier]].<ref name="Cross59">[[#Cross|Cross (1953)]], p. 59</ref> His friend [[Nikolaus Simrock]] had also begun publishing his compositions; the first are believed to be a set of variations (WoO 66).<ref name="Cooper46">[[#Cooper|Cooper (2008)]], p. 46</ref>  Beethoven spent much of 1794 composing, and apparently withheld works from publication so that their publication in 1795 would have greater impact.<ref name="Cooper53"/>  Beethoven's first public performance in Vienna was in March 1795, a concert in which he debuted a [[piano concerto]].  It is uncertain whether this was the [[Piano Concerto No. 1 (Beethoven)|First]] or [[Piano Concerto No. 2 (Beethoven)|Second]], as documentary evidence is unclear, and both concertos were in a similar state of near-completion (neither was completed or published for several years).<ref name="Cooper59"/><ref name="Lockwood">[[#Lockwood|Lockwood (2005)]], p. 144</ref> Shortly after this performance he arranged for the publication of the first of his compositions to which he assigned an [[opus number]], the [[Piano Trios Nos. 1 - 3, Opus 1 (Beethoven)|piano trios of Opus 1]].  These works were dedicated to his patron Prince Lichnowsky,<ref name="Cooper59">[[#Cooper|Cooper (2008)]], p. 59</ref> and were a financial success; Beethoven's profits were nearly sufficient to cover living expenses for a year.<ref name="Cooper56">[[#Cooper|Cooper (2008)]], p. 56</ref>
+
+===Wider publicity===
+[[Image:Beethoven Hornemann.jpg|thumb|Beethoven in 1803]]
+In 1796 Beethoven embarked on a tour of central European cultural centers that was an echo of a [[Mozart's Berlin journey|similar tour by Mozart]] in 1789.  Accompanied by Prince Lichnowsky (who also accompanied Mozart on his tour), Beethoven visited [[Prague]], [[Dresden]], [[Leipzig]], and [[Berlin]], composing and performing to acclaim.  He spent the most time in Prague, where his reputation had already preceded him through Lichnowsky's family connections, and Berlin, where he composed [[Cello Sonatas No. 1 and No. 2, Opus 5 (Beethoven)|two cello sonatas (Op. 5)]] dedicated to [[Friedrich Wilhelm II|King Friedrich Wilhelm II]], a lover of music who played that instrument.  These works are notable for successfully combining virtuoso cello and piano parts, a difficult task considering the differing natures of the two instruments.<ref name="Cooper62_5">[[#Cooper|Cooper (2008)]], pp. 62–65</ref>  The king presented Beethoven with a snuffbox full of gold coins; Beethoven observed that the trip earned him "a good deal of money".<ref name="Cooper68">[[#Cooper|Cooper (2008)]], p. 68</ref>  Beethoven returned to Vienna in July 1796, and embarked on another tour in November, heading east instead of north, to the cities of Pressburg (present-day [[Bratislava]]) and [[Pest, Hungary|Pest]].  At Pressburg he performed on a piano sent from Vienna by his friend [[Andreas Streicher]],<ref name="Cooper69">[[#Cooper|Cooper (2008)]], p. 69</ref> a piano he joked was "far too good for me..because it robs me of the freedom to produce my own tone".<ref>{{cite web|url=http://www.beethoven-haus-bonn.de/sixcms/detail.php?id=5119&template=dokseite_digitales_archiv_en&_eid=5055&_ug=Musicians&_dokid=b88&_mid=Written%20documents%20by%20Ludwig%20van%20Beethoven%20and%20others&_seite=1|title=Letter to Andreas Streicher in Vienna, Preßburg|last=Beethoven|first=Ludwig |date=19 November 1796|publisher=Beethoven-Haus Bonn Digital Archives|language=German|accessdate=2009-06-28}}</ref>
+
+Beethoven spent most of 1797 in Vienna, where he continued to compose (apparently in response to an increasing number of commissions) and perform, although he was apparently stricken with a serious disease (possibly [[typhus]]) in the summer or autumn.  It is also around this time (although it may have been as early as 1795) that he first became aware of issues with his hearing.<ref name="Cooper72">[[#Cooper|Cooper (2008)]], p. 72</ref>  While he traveled to Prague again in 1798, the encroaching deafness led him to eventually abandon concert touring entirely.<ref name="Cooper75_6">[[#Cooper|Cooper (2008)]], pp. 75–76</ref>
+
+===Musical maturity===
+Between 1798 and 1802 Beethoven finally tackled what he considered the pinnacles of composition: the [[string quartet]] and the [[symphony]].  With the composition of his [[String Quartets Nos. 1 - 6, Opus 18 (Beethoven)|first six string quartets (Op. 18)]] between 1798 and 1800 (written on commission for, and dedicated to, Prince Lobkowitz), and their publication in 1801, along with premieres of the [[Symphony No. 1 (Beethoven)|First]] and [[Symphony No. 2 (Beethoven)|Second]] Symphonies in 1800 and 1802, Beethoven was justifiably considered one of the most important of a generation of young composers following after Haydn and Mozart.  He continued to write in other forms, turning out widely-known [[piano sonata]]s like the "[[Piano Sonata No. 8 (Beethoven)|Pathétique]]" sonata (Op. 13), which Cooper describes as "surpass[ing] any of his previous compositions, in strength of character, depth of emotion, level of originality, and ingenuity of motivic and tonal manipulation".<ref name="Cooper82">[[#Cooper|Cooper (2008)]], p. 82</ref>  He also completed his [[Septet (Beethoven)|Septet]] (Op. 20) in 1799, which was one of his most popular works during his lifetime.
+
+For the premiere of his First Symphony Beethoven hired the Burgtheater on April 2, 1800, and staged an extensive program of music, including works by Haydn and Mozart, as well as the Septet, the First Symphony, and one of his piano concertos (the latter three works all then unpublished).  The concert, which the ''Allgemeine musikalische Zeiting'' described as "the most interesting concert in a long time", was not without difficulties; among other criticisms was that "the players did not bother to pay any attention to the soloist".<ref name="Cooper90">[[#Cooper|Cooper (2008)]], p. 90</ref>
+
+While Mozart and Haydn were undeniable influences (for example, Beethoven's [[Quintet for Piano and Winds (Beethoven)|quintet for piano and winds]] bears a strong resemblance to [[Quintet for Piano and Winds (Mozart)|Mozart's work for the same configuration]], albeit with his own distinctive touches),<ref name="Cooper66">[[#Cooper|Cooper (2008)]], p. 66</ref>  other composers like [[Muzio Clementi]] were also stylistic influences.  Beethoven's melodies, musical development, use of modulation and texture, and characterization of emotion all set him apart from his influences, and heightened the impact some of his early works made when they were first published.<ref name="Cooper58">[[#Cooper|Cooper (2008)]], p. 58</ref>  By the end of 1800 Beethoven and his music were already much in demand from patrons and publishers.<ref name="Cooper97">[[#Cooper|Cooper (2008)]], p. 97</ref>
+
+===Teaching===
+[[Image:Beethoven 3.jpg|250px|thumb|left|Ludwig van Beethoven: detail of an 1804 portrait by W.J. Mähler]]
+
+In May of 1799, Beethoven gave piano lessons to the daughters of Hungarian Countess Anna Brunsvik.  While this round of lessons lasted less than one month, Beethoven formed a relationship with the older daughter Josephine that has been the subject of much speculation ever since.  Shortly after these lessons she married Count Josef Deym, and Beethoven was a regular visitor at their house, giving lessons and playing at parties.  While her marriage was by all accounts unhappy, the couple had four children, and her relationship with Beethoven did not intensify until after Deym died in 1804.<ref name="Cooper80">[[#Cooper|Cooper (2008)]], p. 80</ref>
+
+Beethoven had few other students. From 1801 to 1805, he tutored [[Ferdinand Ries]], who went on to become a composer and later wrote ''Beethoven remembered'', a book about their encounters.  The young [[Carl Czerny]] studied with Beethoven from 1801 to 1803.  Czerny went on to become a renowned music teacher himself, taking on [[Franz Liszt]] as one of his students, and also gave the Vienna premiere of Beethoven's [[Piano Concerto No. 5 (Beethoven)|fifth piano concerto (the "Emperor")]] in 1812.
+
+Beethoven's compositions between 1800 and 1802 were dominated by two works, although he continued to produce smaller works, including the [[Moonlight Sonata]].  In the spring of 1801 he completed ''[[The Creatures of Prometheus (Beethoven)|The Creatures of Prometheus]]'', a [[ballet]].  The work was such a success that it received numerous performances in 1801 and 1802, and Beethoven rushed to publish a piano arrangement to capitalize on its early popularity.<ref name="Cooper98_103">[[#Cooper|Cooper (2008)]], pp. 98–103</ref>  In the spring of 1802 he completed the [[Symphony No. 2 (Beethoven)|Second Symphony]], intended for performance at a concert that was eventually cancelled.  The symphony received its premiere at a subscription concert in April 1803 at the [[Theater an der Wien]], where Beethoven had been appointed as composer in residence.  In addition to the Second Symphony, the concert also featured the First Symphony, the [[Piano Concerto No. 3 (Beethoven)|Third Piano Concerto]], and the [[oratorio]] ''[[Christ on the Mount of Olives (Beethoven)|Christ on the Mount of Olives]]''.  While reviews were mixed, the concert was a financial success; Beethoven was able to charge three times the cost of a typical concert ticket.<ref name="Cooper112_127">[[#Cooper|Cooper (2008)]], pp. 112–127</ref>
+
+Beethoven's business dealings with publishers also began to improve in 1802 when his brother Carl, who had previously assisted him more casually, began to assume a larger role in the management of his affairs.  In addition to negotiating higher prices for recently-composed works, Carl also began selling some of Beethoven's earlier unpublished works, and encouraged Beethoven (against the latter's preference) to also make arrangements and transcriptions of his more popular works for other instrument combinations.  Beethoven acceded to these requests, as he could not prevent publishers from hiring others to do similar arrangements of his works.<ref name="Cooper112_115">[[#Cooper|Cooper (2008)]], pp. 112–115</ref>
+
+===Loss of hearing===
+Around 1796, Beethoven began to lose his hearing.<ref name="GroveOnline5">Grove Online, section 5</ref> He suffered a severe form of [[tinnitus]], a "ringing" in his ears that made it hard for him to perceive and appreciate music; he also avoided conversation. The cause of Beethoven's deafness is unknown, but it has variously been attributed to [[syphilis]], [[lead poisoning]], [[typhus]], [[auto-immune]] disorder (such as [[Erythematosus|systemic lupus erythematosus]]), and even his habit of immersing his head in cold water to stay awake. The explanation, from the autopsy of the time, is that he had a "distended inner ear" which developed lesions over time.  Due to the high levels of lead found in samples of Beethoven's hair, that hypothesis has been extensively analyzed.  While the likelihood of lead poisoning is very high, the deafness associated with it seldom takes the form that Beethoven exhibited.
+
+As early as 1801, Beethoven wrote to friends describing his symptoms and the difficulties they caused in both professional and social settings (although it is likely some of his close friends were already aware of the problems).<ref name="Cooper108">[[#Cooper|Cooper (2008)]], p. 108</ref>  Beethoven, on the advice of his doctor, lived in the small Austrian town of [[Heiligenstadt, Vienna|Heiligenstadt]], just outside Vienna, from April to October 1802 in an attempt to come to terms with his condition. There he wrote his [[Heiligenstadt Testament]], which records his resolution to continue living for and through his art.<ref name="Cooper120">[[#Cooper|Cooper (2008)]], p. 120</ref>  Over time, his hearing loss became profound: there is a well-attested story that, at the end of the premiere of his [[Symphony No. 9 (Beethoven)|Ninth Symphony]], he had to be turned around to see the tumultuous applause of the audience; hearing nothing, he began to weep.<ref>{{cite journal|title=Some Tributes to Beethoven in English Verse|first=Felix|last=White|journal=The Musical Times|volume=Vol. 68|number=No. 1010|month=1 April|year=1927}}</ref> Beethoven's hearing loss did not prevent his composing music, but it made playing at concerts&mdash;lucrative sources of income&mdash;increasingly difficult. After a failed attempt in 1811 to perform his own [[Piano Concerto No. 5 (Beethoven)|Piano Concerto No. 5 (the "Emperor")]], he never performed in public again.  
+
+[[Image:Beethoven Mähler 1815.jpg|thumb|left|Beethoven in 1815]]
+Beethoven used a special rod attached to the [[Sounding board|soundboard]] on a piano that he could bite&mdash;the vibrations would then transfer from the piano to his jaw to increase his perception of the sound. A large collection of his hearing aids such as special ear horns can be viewed at the Beethoven House Museum in Bonn, Germany. Despite his obvious distress, Carl Czerny remarked that Beethoven could still hear speech and music normally until 1812.<ref>{{cite journal|title=Of Ear Trumpets and a Resonance Plate: Early Hearing Aids and Beethoven's Hearing Perception|first=George Thomas|last=Ealy|journal=19th-Century Music|volume=Vol. 17|number=No. 3|month=Spring|year=1994|pages=262–273|url=http://www.jstor.org/pss/746569}}</ref> By 1814 however, Beethoven was almost totally deaf, and when a group of visitors saw him play a loud arpeggio of thundering bass notes at his piano remarking, "Ist es nicht schön?" (Is it not beautiful?), they felt deep sympathy considering his courage and sense of humor.<ref>Solomon (2001){{pn}}</ref>
+
+As a result of Beethoven's hearing loss, a unique historical record has been preserved: his conversation books. Used primarily in the last ten or so years of his life, his friends wrote in these books so that he could know what they were saying, and he then responded either orally or in the book. The books contain discussions about music and other issues, and give insights into his thinking; they are a source for investigation into how he felt his music should be performed, and also his perception of his relationship to art. Unfortunately, 264 out of a total of 400 conversation books were destroyed (and others were altered) after Beethoven's death by [[Anton Schindler]], in his attempt to paint an idealized picture of the composer.<ref name="Clive239">[[#Clive|Clive]], p. 239</ref>
+
+===Patronage===
+[[Image:Rudolf-habsburg-olmuetz.jpg|thumb|right|upright|Beethoven's patron, [[Rudolph of Austria (Cardinal)|Archduke Rudolph]]]]
+While Beethoven earned income from publication of his works and from public performances, he also depended on the generosity of patrons for income, for whom he gave private performances and copies of works they commissioned for an exclusive period prior to their publication.  Some of his early patrons, including Prince Lobkowitz and Prince Lichnowsky, gave him annual stipends in addition to commissioning works and purchasing published works.
+
+Perhaps Beethoven's most important aristocratic patron was [[Rudolph of Austria (Cardinal)|Archduke Rudolph]], the youngest son of [[Leopold II, Holy Roman Emperor|Emperor Leopold II]], who in 1803 or 1804 began to study piano and composition with Beethoven. The cleric ([[Cardinal-Priest]]) and the composer became friends, and their meetings continued until 1824. Beethoven dedicated 14 compositions to Rudolph, including the [[Piano Trio No. 7 (Beethoven)|Archduke Trio]] (1811) and his great [[Missa Solemnis (Beethoven)|Missa Solemnis]] (1823). Rudolph, in turn, dedicated one of his own compositions to Beethoven. The letters Beethoven wrote to Rudolph are today kept at the [[Gesellschaft der Musikfreunde]] in Vienna.
+
+In the fall of 1808, after having been rejected for a position at the royal theatre, Beethoven received an offer from [[Napoleon I of France|Napoleon]]'s brother [[Jérôme Bonaparte]], then king of [[Kingdom of Westphalia|Westphalia]], for a well-paid position as [[Kapellmeister]] at the court in [[Kassel|Cassel]]. To persuade him to stay in Vienna, the Archduke Rudolph, Count Kinsky and Prince Lobkowitz, after receiving representations from the composer's friends, pledged to pay Beethoven a pension of 4000 florins a year. Only Archduke Rudolph paid his share of the pension on the agreed date. Kinsky, immediately called to duty as an officer, did not contribute and soon died after falling from his horse. Lobkowitz stopped paying in September 1811. No successors came forward to continue the patronage, and Beethoven relied mostly on selling composition rights and a small pension after 1815.  The effects of these financial arrangements were undermined to some extent by [[Napoleonic Wars|war with France]], which caused significant inflation when the government printed money to fund its war efforts.
+
+===The Middle period===
+[[Image:Beethoven Letronne.jpg|thumb|upright|200px|Beethoven in 1814. Portrait by Louis-René Létronne]]
+Beethoven's return to Vienna from Heiligenstadt was marked by a change in musical style, now recognized as the start of his "Middle" or "Heroic" period.  According to Carl Czerny, Beethoven said, "I am not satisfied with the work I have done so far.  From now on I intend to take a new way".<ref name="Cooper131">[[#Cooper|Cooper (2008)]], p. 131</ref> The first major work of this new way was the [[Symphony No. 3 (Beethoven)|Third Symphony]] in E flat, known as the "Eroica". While other composers had written symphonies with implied programs, or stories, this work was longer and larger in scope than any previously written symphony. It made huge demands on the players, because at that time there were few orchestras devoted to concert music that were independent of royal or aristocratic patrons, and hence performance standards at concerts were often haphazard.{{Citation needed|date=June 2009}} When it premiered in early 1805 it received a mixed reception, with some listeners objecting to its length or failing to understand its structure, while others viewed it as another masterpiece.<ref name="Cooper148">[[#Cooper|Cooper (2008)]], p. 148</ref>
+
+Beethoven composed highly ambitious works throughout the Middle period, often heroic in tone, that extended the scope of the classical musical language Beethoven had inherited from Haydn and Mozart. The Middle period work includes the Third through [[Symphony No. 8 (Beethoven)|Eighth]] Symphonies, the string quartets 7–11, the [[Piano Sonata No. 21 (Beethoven)|"Waldstein"]] and [[Piano Sonata No. 23 (Beethoven)|"Appassionata"]] piano sonatas, ''Christ on the Mount of Olives'', the opera ''[[Fidelio]]'', the [[Violin Concerto (Beethoven)|Violin Concerto]] and many other compositions. During this time Beethoven earned his living from the sale and performance of his work, and from the continuing support of wealthy patrons.  His position at the Theater and der Wien was terminated when the theater changed management in early 1804, and he was forced to move temporarily to the suburbs of Vienna with his friend Stephan von Breuning.  This slowed work on ''Fidelio'', his largest work to date, for a time.  It was delayed again by the Austrian [[censorship|censor]], and finally premiered in November 1805 to houses that were nearly empty due to [[War of the Third Coalition|French occupation of the city]].  In addition to being a financial failure, this version of ''Fidelio'' was also a critical failure, and Beethoven began revising it.<ref name="Cooper150">[[#Cooper|Cooper (2008)]], p. 150</ref>
+
+[[Image:Masque de Beethoven.jpg|left|thumb|upright|Life mask made in 1812]]
+The work of the Middle period established Beethoven's reputation as a great composer. In a review from 1810, he was enshrined by [[Ernst Theodor Amadeus Hoffmann|E. T. A. Hoffman]] as one of the three great "[[Romantic music|Romantic]]" composers; Hoffman called Beethoven's [[Symphony No. 5 (Beethoven)|Fifth Symphony]] "one of the most important works of the age".  A particular trauma for Beethoven occurred during this period in May 1809, when the attacking forces of [[Napoleon]] [[Battle of Wagram#Initial hostilities|bombarded Vienna]]. According to Ferdinand Ries, Beethoven, very worried that the noise would destroy what remained of his hearing, hid in the basement of his brother's house, covering his ears with pillows.<ref name="Cooper185">[[#Cooper|Cooper (2008)]], p. 185</ref> He was composing the [[Piano Concerto No. 5 (Beethoven)|"Emperor" Concerto]] at the time.
+
+===Personal and family difficulties===
+Beethoven was introduced to Giulietta Guicciardi in about 1800 through the Brunsvik family. His mutual love-relationship with Guicciardi is mentioned in a November 1801 letter to his boyhood friend, Franz Wegeler. Beethoven dedicated to Giulietta his Sonata No. 14, popularly known as the [[Piano Sonata No. 14 (Beethoven)|''"Moonlight" Sonata'']]. Marriage plans were thwarted by Giulietta's father and perhaps Beethoven's common lineage. In 1803 she married Count Wenzel Robert von Gallenberg (1783-1839), himself an amateur composer. Though she revisited Beethoven in 1822 when this unhappy marriage was over, he rebuffed her and did not resume a relationship.{{Citation needed|date=July 2009|reason=letter acknowledged-the rest needs citation}}
+  
+Beethoven's relationship with Josephine Deym notably deepened after the death of her first husband in 1804.  There is some evidence that Beethoven may have proposed to her, at least informally.  While the relationship was apparently reciprocated, she, with some regret, turned him down, and their relationship effectively ended in 1807.  She cited her "duty", an apparent reference to the fact that she was born of nobility and he was a commoner.<ref name="CooperJosephine">[[#Cooper|Cooper (2008)]], pp. 146,168</ref>  It is also likely that he considered proposing (whether he actually did or not is unknown) to Therese Malfatti, the dedicatee of "[[Für Elise]]" in 1810; his common status may also have interfered with those plans.
+
+In the spring of 1811 Beethoven became seriously ill, suffering headaches and bad fevers.  On the advice of his doctor, he spent six weeks in the [[Bohemia]]n [[spa town]] of [[Teplice|Teplitz]].  The following winter, which was dominated by work on the Seventh symphony, he was again ill, and decided to spend the summer of 1812 at Teplitz.  It is likely that he was at Teplitz when he wrote three love letters to an "Immortal Beloved".<ref>[http://www.all-about-beethoven.com/immortalbeloved.html Beethoven's Immortal Beloved Letters]</ref>  While the intended recipient of these letters is an ongoing subject of debate, the most likely candidate, based on what is known about people's movements and the contents of the letters, is [[Antonie Brentano]], a married woman with whom he had begun a friendship in 1810.<ref>Oakley Beahrs, Virginia: The Immortal Beloved Riddle Reconsidered, Musical Times, Vol. 129, No. 1740 (Feb., 1988), pp. 64-70</ref><ref name="CooperImmortal">[[#Cooper|Cooper (2008)]], pp. 194, 208–210.  Cooper cites [[#Solomon|Solomon]] among other sources, and provides compelling evidence that it was neither Josephine Deym nor Marie Erdödy.</ref>  Beethoven traveled to Karlsbad in late July, where he stayed in the same guesthouse as the Brentanos.  After traveling with them for a time, he returned to Teplitz, where after another bout of gastric illness, he left for [[Linz]] to visit his brother Johann.<ref name="Cooper212"/>
+
+Beethoven's visit to his brother was made in an attempt to end the latter's immoral cohabitation with Therese Obermayer, a woman who already had an illegitimate child.  He was unable to convince Johann to end the relationship, so he appealed to the local civic and religious authorities.  The end result of Beethoven's meddling was that Johann and Therese married on November 9.<ref name="Cooper212">[[#Cooper|Cooper (2008)]], p. 212</ref>
+
+[[Image:Beethoven 7.jpg|thumb|Beethoven in 1818 by [[August Klöber]]]]
+In early 1813 Beethoven apparently went through a difficult emotional period, and his compositional output dropped for a time.  Historians have suggested a variety of causes, including his lack of success at romance.  His personal appearance, which had generally been neat, degraded, as did his manners in public, especially when dining.  Some of his (married) desired romantic partners had children (leading to assertions among historians of Beethoven's possible paternity), and his brother Carl was seriously ill.  Beethoven took care of his brother and his family, an expense that he claimed left him penniless.  He was unable to obtain a date for a concert in the spring of 1813, which, if successful, would have provided him with significant funds.
+
+Beethoven was finally motivated to begin significant composition again in June 1813, when news arrived of the [[Battle of Vitoria|defeat of one of Napoleon's armies]] at [[Vitoria, Spain]] by a coalition of forces under the [[Arthur Wellesley, 1st Duke of Wellington|Duke of Wellington]].  This news stimulated him to write the battle symphony known as ''[[Wellington's Victory]]''.  It was premiered on 8 December at a charity concert for victims of the war along with his Seventh Symphony.  The work was a popular hit, likely due to its programmatic style which was entertaining and easy to understand.  It received repeat performances at concerts Beethoven staged in January and February 1814.  Beethoven's renewed popularity led to demands for a revival of ''Fidelio'', which, in its third revised version, was also well-received when it opened in July.  That summer he also composed a piano sonata for the first time in five years ([[Piano Sonata No. 27 (Beethoven)|No. 27, Opus 90]]).  This work was in a markedly more [[Romanticism|Romantic]] style than his earlier sonatas.  He was also one of many composers who produced music in a patriotic vein to entertain the many heads of state and diplomats that came to the [[Congress of Vienna]] that began in November 1814.  His output of songs included his only [[song cycle]], "[[An die ferne Geliebte]]", and the extraordinarily expressive, but almost incoherent, "[[An die Hoffnung]]" (Opus 94).
+
+===Custody struggle and illness===
+Between 1815 and 1817 Beethoven's output dropped again.  Part of this Beethoven attributed to a lengthy illness (he called it an "inflammatory fever") that afflicted him for more than a year, starting in October 1816.<ref name="Cooper254">[[#Cooper|Cooper (2008)]], p. 254</ref>  Biographers have speculated on a variety of other reasons that also contributed to the decline in creative output, including the difficulties in the personal lives of his would-be paramours and the harsh censorship policies of the Austrian government.  The illness and death of his brother Carl from [[tuberculosis|consumption]] likely also played a role.
+
+Carl had been ill for some time, and Beethoven spent a small fortune in 1815 on his care.  When he finally died on 15 November 1815, Beethoven immediately became embroiled in a protracted legal dispute with Carl's wife Johanna over custody of their son Karl, then nine years old.  Beethoven, who considered Johanna an unfit parent due to questions of morality (she had a child born out of wedlock by a different father before marrying Carl, and had been convicted of theft) and financial management, had successfully applied to Carl to have himself named sole guardian of the boy, but a late [[codicil]] to Carl's will gave him and Johanna joint guardianship.  While Beethoven was successful at having his nephew removed from her custody in February 1816, the case was not fully resolved until 1820, and he was frequently preoccupied by the demands of the litigation and seeing to the welfare of the boy, whom he first placed in a private school.  The custody fight brought out the very worst aspects of Beethoven's character; in the lengthy court cases Beethoven stopped at nothing to ensure that he achieved this goal, and even stopped composing for long periods.
+
+The Austrian court system had one court for the [[nobility]], The R&I Landrechte, and another for commoners, The Civil Court of the Magistrate. Beethoven disguised the fact that the Dutch "van" in his name did not denote nobility as does the German "von",<ref name="landrecht">On 18 December 1818, The Landrechte, the Austrian court for the nobility, handed over the whole matter of guardianship to the Stadtmagistrat, the court for commoners " It .... appears from the statement of Ludwig van Beethoven, as the accompanying copy of the court minutes of 11 December of this year shows, that he is unable to prove nobility: hence the matter of guardianship is transferred to an honorable magistrate" Landrechte of the Magisterial tribunal.</ref> and his case was tried in the Landrechte. Owing to his influence with the court, Beethoven felt assured of a favorable outcome. Beethoven was awarded sole guardianship. While giving evidence to the Landrechte, however, Beethoven inadvertently<ref name="landrecht"/> admitted that he was not nobly born. The case was transferred to the Magistracy on 18 December 1818, where he lost sole guardianship.
+
+Beethoven appealed, and regained custody of Karl. Johanna's appeal for justice to the Emperor was not successful: the Emperor "washed his hands of the matter". Beethoven stopped at nothing to blacken her name, as can be read in surviving court papers.  During the years of custody that followed, Beethoven attempted to ensure that Karl lived to the highest of moral standards.  His overbearing manner and frequent interference in his nephew's life, especially as he grew into a young man, apparently drove Karl to attempt suicide on 31 July 1826 by shooting himself in the head. He survived, and was brought to his mother's house, where he recuperated.  He and Beethoven reconciled, but Karl was insistent on joining the army, and last saw Beethoven in early 1827.
+
+The only major works he produced during this time were [[Cello Sonatas No. 4 and No. 5, Opus 102 (Beethoven)|two cello sonatas]], a piano sonata, and collections of folk song settings.  He began sketches for the Ninth Symphony in 1817.
+
+===Late works===
+[[Image:Beethoven Waldmuller 1823.jpg|right|thumb|250px|Beethoven in 1823; copy of a destroyed portrait by [[Ferdinand Georg Waldmüller]]]]
+Beethoven began a renewed study of older music, including works by [[Johann Sebastian Bach|J. S. Bach]] and [[George Frideric Handel|Handel]], that were then being published in the first attempts at complete editions. He composed the [[Consecration of the House Overture]], which was the first work to attempt to incorporate his new influences. But it is when he returned to the keyboard to compose his first new piano sonatas in almost a decade, that a new style, now called his "late period", emerged. The works of the late period are commonly held to include the last five piano sonatas and the [[Diabelli Variations]], the last two sonatas for cello and piano, the late quartets (see below), and two works for very large forces: the [[Missa Solemnis (Beethoven)|Missa Solemnis]] and the [[Symphony No. 9 (Beethoven)|Ninth Symphony]].
+
+By early 1818 Beethoven's health had improved, and his nephew had moved in with him in January.  On the downside, his hearing had deteriorated to the point that conversation became difficult, necessitating the use of conversation books.  His household management had also improved somewhat; Nanette Streicher, who had assisted in his care during his illness, continued to provide some support, and he finally found a decent cook.<ref name="Cooper260">[[#Cooper|Cooper (2008)]], p 260</ref>  His musical output in 1818 was still somewhat reduced, with song collections and the [[Hammerklavier Sonata]] his only notable compositions, although he continued to work on sketches for two symphonies (that eventually coalesced into the enormous Ninth Symphony).  In 1819 he was again preoccupied by the legal processes around Karl, and began work on the Diabelli Variations and the Missa Solemnis.
+
+For the next few years he continued to work on the Missa, composing piano sonatas and bagatelles to satisfy the demands of publishers and the need for income, and completing the Diabelli Variations.  He was ill again for an extended time in 1821, and completed the Missa in 1823, three years after its original due date.  He also opened discussions with his publishers over the possibility of producing a complete edition of his works, an idea that was arguably not fully realized until 1971.  Beethoven's brother Johann began to take a hand in his business affairs around this time, much in the way Carl had earlier, locating older unpublished works to offer for publication and offering the Missa to multiple publishers with the goal of getting a higher price for it.
+
+Two commissions in 1822 improved Beethoven's financial prospects.  The [[Philharmonic Society]] of [[London]] offered a commission for a symphony, and Prince Nikolay Golitsin of [[Saint Petersburg|St. Petersburg]] offered to pay Beethoven's price for three string quartets.  The first of these spurred Beethoven to finish the Ninth Symphony, which was premiered, along with the Missa Solemnis, on 7 May 1824, to great acclaim at the [[Kärntnertortheater]].  The ''Allgemeine musikalische Zeitung'' gushed "inexhaustible genius had shown us a new world", and Carl Czerny wrote that his symphony "breathes such a fresh, lively, indeed youthful spirit [...] so much power, innovation, and beauty as ever [came] from the head of this original man, although he certainly sometimes led the old wigs to shake their heads."<ref name="Cooper317">[[#Cooper|Cooper (2008)]], p. 317</ref>  Unlike his earlier concerts, Beethoven made little money on this one, as the expenses of mounting it were significantly higher.<ref name="Cooper317"/>  A second concert on 24 May, in which the producer guaranteed Beethoven a minimum fee, was poorly attended;  nephew Karl noted that "many people have already gone into the country".<ref name="Cooper318">[[#Cooper|Cooper (2008)]], p. 318</ref>  It was Beethoven's last public concert.<ref name="Cooper318"/>
+
+Beethoven then turned to writing the string quartets for Golitsin.  This [[Late String Quartets (Beethoven)|series of quartets]], known as the "Late Quartets", went far beyond what either musicians or audiences were ready for at that time. One musician commented that "we know there is something there, but we do not know what it is." Composer [[Louis Spohr]] called them "indecipherable, uncorrected horrors", though that opinion has changed considerably from the time of their first bewildered reception. They continued (and continue) to inspire musicians and composers, from [[Richard Wagner]] to [[Béla Bartók]], for their unique forms and ideas.  Of the late quartets, Beethoven's favorite was the [[String Quartet No. 14 (Beethoven)|Fourteenth Quartet, op. 131]] in C# minor, upon hearing which [[Franz Schubert|Schubert]] is said to have remarked, "After this, what is left for us to write?"
+
+Beethoven wrote the last quartets amidst failing health.  In April 1825 he was bedridden, and remained ill for about a month. The illness—or more precisely, his recovery from it—is remembered for having given rise to the deeply felt slow movement of the [[String Quartet No. 15 (Beethoven)|Fifteenth Quartet]], which Beethoven called "Holy song of thanks ('Heiliger dankgesang') to the divinity, from one made well". He went on to complete the (misnumbered) [[String Quartet No. 13 (Beethoven)|Thirteenth]], [[String Quartet No. 14 (Beethoven)|Fourteenth]], and [[String Quartet No. 16 (Beethoven)|Sixteenth]] Quartets.  The last work completed by Beethoven was the substitute final movement of the Thirteenth Quartet, deemed necessary to replace the difficult [[Große Fuge]]. Shortly thereafter, in December 1826, illness struck again, with episodes of vomiting and diarrhea that nearly ended his life.
+
+===Illness and death===
+[[Image:Zentralfriedhof Vienna - Beethoven.JPG|thumb|150px|right|Beethoven's grave site, [[Vienna]] [[Zentralfriedhof]]]]
+{{Main|Death of Beethoven}}
+Beethoven was bedridden for most of his remaining months, and many friends came to visit. He died on 26 March 1827, during a thunderstorm. His friend Anselm Hüttenbrenner, who was present at the time, claimed that there was a peal of thunder at the moment of death. An [[autopsy]] revealed significant liver damage, which may have been due to heavy alcohol consumption.<ref name="Cooper349">[[#Cooper|Cooper (2008)]], p. 349</ref>
+
+Unlike [[Wolfgang Amadeus Mozart|Mozart]], who was buried anonymously in a communal grave (such being the custom at the time), 20,000 Viennese citizens lined the streets for Beethoven's funeral on 29 March [[1827]].  [[Franz Schubert]], who died the following year and was buried next to Beethoven, was one of the torchbearers. After a Requiem Mass at the church of the Holy Trinity (Dreifaltigkeitskirche), Beethoven was buried in the [[Währing]] cemetery, north-west of Vienna. His remains were [[exhume]]d for study in [[1862]], and moved in [[1888]] to Vienna's [[Zentralfriedhof]].<ref name="Cooper349"/>
+
+Friends and visitors before and after his death clipped locks of his hair, some of which have been preserved and subjected to additional analysis, as have skull fragments removed during the 1862 [[exhumation]].<ref>{{cite journal|url=http://www2.sjsu.edu/depts/beethoven/skull/skullstory.pdf|accessdate=2009-03-27|ref=Meredith|first=William|last=Meredith|date=Spring &amp; Summer 2005|journal=The Beethoven Journal|volume=Volume 20, numbers 1 &amp; 2|title=The History of Beethoven's Skull Fragments|pages=2–3}}</ref>  Some of these analyses have led to controversial assertions that Beethoven was accidentally [[poison]]ed to death by excessive doses of lead-based treatments administered under instruction from his doctor.<ref>{{cite web
+|url = http://www.washingtonpost.com/wp-dyn/content/article/2007/08/28/AR2007082800980_pf.html
+|title = Pathologist: Doctor Killed Beethoven
+|accessdate = {{Date|2008-12-29}}
+|last = Jahn
+|first = George
+|date = {{Date|2007-08-28}}
+|publisher = [[The Washington Post]]}}</ref><ref>{{cite journal|first=Josef|last=Eisinger|title=The lead in Beethoven's hair|journal=Toxicological &amp; Environmental Chemistry|volume=Volume 90|date={{Date|2008-01-01}}|pages=1–5}}</ref><ref>Lorenz, Michael: 'Commentary on Wawruch’s Report: Biographies of Andreas Wawruch and Johann Seibert, Schindler’s Responses to Wawruch’s Report, and Beethoven’s Medical Condition and Alcohol Consumption', The Beethoven Journal, Winter 2007, Vol. 22, No 2, (San Jose: The  Ira  Brilliant  Center for Beethoven Studies, 2007), 92-100.</ref>
+
+==Character==
+Beethoven's personal life was troubled due to his encroaching [[post-lingual hearing impairment|deafness]] which led him to contemplate suicide (documented in his Heiligenstadt Testament). Beethoven was often irascible and may have suffered from [[bipolar disorder]]<ref>Beethoven bipolar? http://www.gazette.uottawa.ca/article_e_1529.html</ref> and irritability brought on by chronic abdominal pain beginning in his twenties that has been attributed to possible lead poisoning.<ref name="leadpoison">[http://www.cbsnews.com/stories/2007/08/29/world/main3216201.shtml?source=RSSattr=SciTech_3216201 Cold Case in Vienna: Who Killed Beethoven?] — [[CBS News]]</ref> Nevertheless, he had a close and devoted circle of friends all his life, thought to have been attracted by his reputed strength of personality. Toward the end of his life, Beethoven's friends competed in their efforts to help him cope with his incapacities.<ref name="GroveOnline">Grove Online</ref>
+
+Sources show Beethoven's disdain for authority, and for social rank. He stopped performing at the piano if the audience chatted among themselves, or afforded him less than their full attention. At soirées, he refused to perform if suddenly called upon to do so. Eventually, after many confrontations, the Archduke Rudolph decreed that the usual rules of court etiquette did not apply to Beethoven.<ref name="GroveOnline"/>
+
+===Beliefs and their musical influence===
+{{Main|Ludwig van Beethoven's religious beliefs}}
+Beethoven was attracted to the ideals of the [[the Age of Enlightenment|Enlightenment]]. In 1804, when Napoleon's imperial ambitions became clear, Beethoven took hold of the title-page of his Third Symphony and scratched the name Bonaparte out so violently that he made a hole in the paper. He later changed the work's title to "Sinfonia Eroica, composta per festeggiare il sovvenire d'un grand'uom" ("Heroic Symphony, composed to celebrate the memory of a great man"), and he rededicated it to his patron, Prince Joseph Franz von Lobkowitz, at whose palace it was first performed.
+
+The fourth movement of his [[Symphony No. 9 (Beethoven)|Ninth Symphony]] features an elaborate choral setting of [[Friedrich Schiller|Schiller's]] Ode ''[[Ode to Joy|An die Freude]]'' ("Ode to Joy"), an optimistic hymn championing the brotherhood of humanity.
+
+Scholars disagree about [[Ludwig van Beethoven's religious beliefs|Beethoven's religious beliefs]], and about the role they played in his work. It has been asserted, but not proven, that Beethoven was a [[Freemason]].<ref>[http://freemasonry.bcy.ca/biography/beethoven_l/beethoven_l.html Ludwig van Beethoven — Grand Lodge of British Columbia and Yukon]</ref>
+
+==Music==
+[[Image:Beethoven death mask4.jpg|left|thumb|A bust based upon Beethoven's [[death mask]].]]
+{{Further|[[Beethoven's musical style]], [[Beethoven and C minor]], and [[List of compositions by Ludwig van Beethoven]]}}
+
+Beethoven is acknowledged as one of the giants of [[classical music]]; occasionally he is referred to as one of the "[[three Bs|three ''B''s]]" (along with [[Johann Sebastian Bach|Bach]] and [[Johannes Brahms|Brahms]]) who epitomize that tradition. He was also a pivotal figure in the transition from 18th century musical [[Classical music era|classicism]] to 19th century [[Romantic music|romanticism]], and his influence on subsequent generations of composers was profound.<ref name="GroveOnline" />
+
+===Overview===
+Beethoven composed in several musical genres, and for a variety of instrument combinations. His works for [[symphony orchestra]] include nine [[symphony|symphonies]] (the Ninth Symphony includes a chorus), and about a dozen pieces of "occasional" music. He wrote nine [[concerto|concerti]] for one or more soloists and orchestra, as well as four shorter works that include soloists accompanied by orchestra. His only [[opera]] is [[Fidelio]]; other vocal works with orchestral accompaniment include two [[mass (music)|masses]] and a number of shorter works.
+
+His large body of compositions for [[piano]] includes 32 [[piano sonata]]s and numerous shorter pieces, including arrangements of some of his other works. Works with piano accompaniment include 10 violin sonatas, 5 cello sonatas, and a sonata for [[French horn]], as well as numerous [[lied]]er.
+
+Beethoven also wrote a significant quantity of chamber music.  In addition to 16 [[string quartet]]s, he wrote five works for [[string quintet]], seven for [[piano trio]], five for [[string trio]], and more than a dozen works for a variety of combinations of wind instruments.
+
+===The three periods===
+Beethoven's compositional career is usually divided into Early, Middle, and Late periods.<ref name="GroveOnline" /> In this scheme, his early period is taken to last until about 1802, the middle period from about 1803 to about 1814, and the late period from about 1815.
+
+In his Early period, Beethoven's work was strongly influenced by his predecessors [[Joseph Haydn|Haydn]] and [[Wolfgang Amadeus Mozart|Mozart]].  He also explored new directions and gradually expanded the scope and ambition of his work. Some important pieces from the Early period are the [[Symphony No. 1 (Beethoven)|first]] and [[Symphony No. 2 (Beethoven)|second]] symphonies, the set of six string quartets [[String Quartets Nos. 1 - 6, Opus 18 (Beethoven)|Opus 18]], the first two piano concertos, and the first dozen or so [[List of solo piano compositions by Ludwig van Beethoven#Piano sonatas|piano sonatas]], including the famous ''[[Piano Sonata No. 8 (Beethoven)|Pathétique]]'' sonata, Op. 13.
+
+His Middle (Heroic) period began shortly after Beethoven's personal crisis brought on by his recognition of encroaching deafness. It includes large-scale works that express heroism and struggle. Middle-period works include six symphonies (Nos. 3&ndash;8), the last three piano concertos, the [[Triple Concerto (Beethoven)|Triple Concerto]] and [[Violin Concerto (Beethoven)|violin concerto]], five string quartets (Nos. 7&ndash;11), several piano sonatas (including the ''[[Piano Sonata No. 14 (Beethoven)|Moonlight]]'', ''[[Piano Sonata No. 21 (Beethoven)|Waldstein]]'' and ''[[Piano Sonata No. 23 (Beethoven)|Appassionata]]'' sonatas), the ''[[Violin Sonata No. 9 (Beethoven)|Kreutzer]]'' violin sonata and Beethoven's only [[opera]], ''[[Fidelio]]''.
+
+Beethoven's Late period began around 1815. Works from this period are characterized by their intellectual depth, their formal innovations, and their intense, highly personal expression. The [[String Quartet No. 14 (Beethoven)|String Quartet, Op. 131]] has seven linked movements, and the [[Symphony No. 9 (Beethoven)|Ninth Symphony]] adds choral forces to the orchestra in the last movement.<ref name="GroveOnline" /> Other compositions from this period include the ''[[Missa Solemnis (Beethoven)|Missa Solemnis]]'', the last five string quartets (including the massive ''[[Große Fuge]]'') and the last five piano sonatas.
+
+==Beethoven on screen==
+{{Main|Eroica (1949 film)|Immortal Beloved (film)|Copying Beethoven}}
+
+''Eroica'' is a 1949 [[Cinema of Austria|Austrian]] film depicting life and works of Beethoven (''[[Ewald Balser]]''), which also entered into the [[1949 Cannes Film Festival]].<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/4138/year/1949.html |title=Festival de Cannes: Eroica |accessdate=2009-01-09|work=festival-cannes.com}}</ref> The film is directed by [[Walter Kolm-Veltée]], produced by Guido Bagier with Walter Kolm-Veltée and written by Walter Kolm-Veltée with Franz Tassié.<ref>{{imdb title|id=0041335|title=Eroica}}</ref>
+
+In [[1994 in film|1994]] a [[film]] about Beethoven ([[Gary Oldman]]) titled ''[[Immortal Beloved (film)|Immortal Beloved]]'' was written and directed by [[Bernard Rose (director)|Bernard Rose]]. The story follows Beethoven's [[secretary]] and first [[biographer]], [[Anton Schindler]] (portrayed by [[Jeroen Krabbé]]), as he attempts to ascertain the true identity of the ''Unsterbliche Geliebte'' ([[Immortal Beloved]]) addressed in three letters found in the late composer's private papers. Schindler journeys throughout the [[Austrian Empire]], interviewing women who might be potential candidates, as well as through Beethoven's own tumultuous life. Filming took place in the [[Czech Republic|Czech]] cities of [[Prague]] and [[Kromeriz]] and the [[Zentralfriedhof]] in [[Vienna]], [[Austria]], between May 23 and July 29, 1994.
+
+A movie titled ''[[Copying Beethoven]]'' was released in 2006, starring [[Ed Harris]] as Beethoven. This film was a fictionalized account of Beethoven's last days, and his struggle to produce his [[Symphony No. 9 (Beethoven)|Ninth Symphony]] before he died.
+
+==References==
+{{reflist|3}}
+
+==Sources==
+{{refbegin}}
+*{{cite book|last=Clive|first=Peter|title=Beethoven and His World: A Biographical Dictionary|city=New York|publisher=Oxford University Press|year=2001|isbn=0-19-816672-9|ref=Clive}}
+*{{cite book|title=Beethoven|first=Barry|last=Cooper|authorlink=Barry Cooper (musicologist)|publisher=Oxford University Press US|year=2008|isbn=9780195313314|ref=Cooper}}
+*{{cite book|first=Milton|last=Cross|coauthors=Ewen, David|title=The Milton Cross New Encyclopedia of the Great Composers and Their Music|publisher=Doubleday|year=1953|ref=Cross|oclc=17791083|location=Garden City, NJ}}
+*{{cite book|title=Beethoven: a documentary study|ref=Landon|first=H C Robbins|last=Landon|authorlink=H. C. Robbins Landon|coauthors=Göllerich; August|publisher=Macmillan|year=1970|oclc=87180}}
+*{{cite book|title=Beethoven: The Music And The Life|first=Lewis|last=Lockwood|publisher=W. W. Norton|year=2005|ref=Lockwood|isbn=9780393326383}}
+*{{cite book|authorlink=Maynard Solomon|last=Solomon|first=Maynard|title=Beethoven|edition=2nd revised|city=New York|publisher=Schirmer Books|year=2001|isbn=0-8256-7268-6}}
+*{{cite book|last=Stanley|first=Glenn (ed)|title=The Cambridge Companion to Beethoven|city=Cambridge|publisher=Cambridge University Press|year=2000|isbn=0-521-58074-9|ref=Stanley}}
+*{{cite book|url=http://books.google.com/books?id=VQw5AAAAIAAJ|ref=Thayer1|title=The Life of Ludwig Van Beethoven, Vol 1|first=A. W.|last=Thayer|coauthors=Krehbiel, Henry Edward (ed, trans); Deiters, Hermann; Riemann, Hugo|publisher=The Beethoven Association|year=1921|oclc=422583|authorlink=Alexander Wheelock Thayer}}
+*{{GroveOnline|Ludvig van Beethoven|Kerman, Joseph; Tyson, Alan; Burnham, Scott G|29 November|2006}}
+{{refend}}
+
+==Further reading==
+<!--This section is subject to cleanup for notability. Volumes have been written about Beethoven. Providing the most authoritative, scholarly, and accurate references is our responsibility.-->
+{{Refbegin|2}}
+* [[Theodore Albrecht|Albrecht, Theodore]], and Elaine Schwensen, "More Than Just Peanuts: Evidence for December&nbsp;16 as Beethoven's birthday." ''The Beethoven Newsletter'' 3 (1988): 49, 60–63.
+* Bohle, Bruce, and Robert Sabin. ''The International Cyclopedia of Music and Musicians.'' London: J.M.Dent & Sons LTD, 1975. ISBN 0-460-04235-1.
+* Davies, Peter J. ''The Character of a Genius: Beethoven in Perspective.'' Westport, Conn.: Greenwood Press, 2002. ISBN 0-313-31913-8.
+* Davies, Peter J. ''Beethoven in Person: His Deafness, Illnesses, and Death.'' Westport, Conn.: Greenwood Press, 2001. ISBN 0-313-31587-6.
+* [[Tia DeNora|DeNora, Tia]]. "Beethoven and the Construction of Genius: Musical Politics in Vienna, 1792–1803." Berkeley, California: University of California Press, 1995. ISBN 0-520-21158-8.
+* Geck, Martin. ''Beethoven''. Translated by Anthea Bell. London: Haus, 2003. ISBN 1-904341-03-9 (h), ISBN 1-904341-00-4 (p).
+* {{cite book
+ | last = Hatten
+ | first = Robert S
+ | year=1994
+ | title = Musical Meaning in Beethoven
+ | publisher = Indiana University Press
+ | location= Bloomington, IN
+ | isbn = 0-253-32742-3
+ }}
+* Kropfinger, Klaus. ''Beethoven''. Verlage Bärenreiter/Metzler, 2001. ISBN 3-7618-1621-9.
+* Martin, Russell. ''Beethoven's Hair''. New York: Broadway Books, 2000. ISBN 978-0767903509
+* Meredith, William. "The History of Beethoven's Skull Fragments." ''The Beethoven Journal'' 20 (2005): 3-46.
+* [[Edmund Morris (writer)|Morris, Edmund]]. ''Beethoven: The Universal Composer.'' New York: Atlas Books / HarperCollins, 2005. ISBN 0-06-075974-7.
+* [[Charles Rosen|Rosen, Charles]]. ''The Classical Style: Haydn, Mozart, Beethoven.'' (Expanded ed.) New York: W. W. Norton, 1998. ISBN 0-393-04020-8 (hc); ISBN 0-393-31712-9 (pb).
+* Solomon, Maynard. ''Late Beethoven: Music, Thought, Imagination.'' Berkeley: University of California Press, 2003. ISBN 0-520-23746-3.
+* [[Alexander Wheelock Thayer|Thayer, A. W.]], rev and ed. Elliot Forbes. ''Thayer's Life of Beethoven.'' (2 vols.) Princeton: Princeton University Press. ISBN 0-691-09103-X
+{{Refend}}
+
+==External links==
+{{Commons category|Ludwig van Beethoven}}
+{{Commons category|Compositions by Ludwig van Beethoven}}
+{{wikiquote}}
+{{Wikisource1911Enc|Beethoven, Ludwig van}}
+
+===General reference===
+* [http://www.madaboutbeethoven.com/ Mad About Beethoven] by British television and radio announcer [[John Suchet]]
+* [http://www.edepot.com/beethoven.html Beethoven Depot]. Contains all of his works in midi format.
+* Beethoven's Letters 1790–1826, [http://www.gutenberg.org/etext/13065 Volume 1], [http://www.gutenberg.org/etext/13272 Volume 2]. In English at Gutenberg.org.
+* [http://lucare.com/immortal Beethoven: The Immortal]. Introduction and detailed account of the composer's life. Articles include his deafness, demeanor, daily routine, medical history, final days, and letters.
+* [http://www.beethoven-haus-bonn.de/sixcms/detail.php//portal_en Beethoven-Haus Bonn]. Official website of ''Beethoven-Haus'' in [[Bonn, Germany]]. Links to extensive studio and digital archive, library holdings, the ''Beethoven-Haus'' Museum (including "internet exhibitions" and "virtual visits"), the ''Beethoven-Archiv'' research center, and information on Beethoven publications of interest to the specialist and general reader. Extensive collection of Beethoven's compositions and written documents, with sound samples and a digital reconstruction of his last house in Vienna.
+* [http://www.beethoven-haus-bonn.de/sixcms/detail.php?template=popup_webcam&_img=/webcam/beetcam/current.jpg Webcam pic from the ''Beethoven-Haus''] showing the rear of the building as photographed within the last minute.
+* [http://www.raptusassociation.org/ Raptus Association for Music Appreciation site on Beethoven]
+* [http://classicalmusic.about.com/od/onestopbeethoven/ One Stop Beethoven Resource] — articles and facts about Beethoven from Aaron Green, guide to Classical Music at About.com.
+* [http://www.all-about-beethoven.com All About Ludwig van Beethoven]
+*[http://www.wagele.com/Beeth-personality.html Beethoven’s Personality and Music: The Introverted Romantic]
+* [http://BeethovenBillyBragg.com  Beethoven Billy Bragg Ninth Concert in Los Angeles, August 2009]
+
+===Specific topics===
+* Pictures of [http://pagesperso-orange.fr/crampman/album_cris/musiciens_2.html "Beethoven in Vienna and Baden"]. In [[French language|French]].
+* [http://www.beethovenshair.ca Beethoven's Hair] — trace the journey of Beethoven's Hair.
+* [http://www2.sjsu.edu/depts/beethoven/hair/hair.html The Guevara Lock of Beethoven's Hair], from The Ira F. Brilliant Center for Beethoven Studies.
+* [http://www.cbc.ca/health/story/2000/10/18/beethoven001018.html Hair analysis says Beethoven died of lead poisoning]. CBC News, {{Date|2000-10-18}}.
+*[http://www.anl.gov/Media_Center/News/2005/news051206.html Researchers confirm lead as cause of Beethoven's illness] Argonne, Ill. (6 December 2005)
+* [http://www.marcus-frings.de/beethoven/index-en.htm Beethoven's last apartment in Vienna], digitally reconstructed 2004, on Multimedia CD-ROM edited by Beethoven-Haus Bonn
+
+===Lists of works===
+* [http://alambix.uquebec.ca/musique//catal/beethoven/beelv.html University of Quebec] In French. Contains links to the works arranged according to various criteria, and to a concordance of the various catalogues.
+* [http://www.lvbeethoven.com/Oeuvres/ListOpus.html Comprehensive lists of works by opus, WoO, Hess, Biamonti]
+
+===Scores===
+*{{IMSLP|id=Beethoven%2C_Ludwig_van}}
+* [http://kreusch-sheet-music.net/eng/index.php?action=search&page=show&order=op&query=beethoven Free sheet music] from Kreusch-sheet-music.net
+* {{ChoralWiki}}
+* {{gutenberg author | id=Ludwig_van_Beethoven | name=Ludwig van Beethoven}}
+* {{IckingArchive|idx=Beethoven|name=Ludwig van Beethoven}}
+* [http://www.mutopiaproject.org/cgibin/make-table.cgi?Composer=BeethovenLv Beethoven scores] from [[Mutopia Project]]
+* [https://urresearch.rochester.edu/handle/1802/291/simple-search?query=Beethoven Sibley Music Library resources]
+* [http://www.bl.uk/onlinegallery/themes/music/beethoven.html Beethoven manuscripts at the British Library]
+
+===Recordings===
+* [http://www.musopen.com/view.php?type=composer&id=23 Musopen.com] Free Public Domain MP3 Files, Including the Complete Piano Sonatas
+* [http://magnatune.com/collections/beethoven MP3 Creative Commons recordings] from ''[[Magnatune]]''
+* [http://www.archive.org/search.php?query=beethoven%20AND%20collection%3Aopensource_audio Beethoven] on the [[Internet Archive]]. Free, public domain/out of copyright, mp3 files, including the [[Violin Concerto (Beethoven)|Violin Concerto]] with [[Jascha Heifetz]].
+* [http://www.kunstderfuge.com/beethoven.htm Kunst der Fuge: hundreds of MIDI files]
+* [http://www.unheardbeethoven.org The Unheard Beethoven] — MIDI files of hundreds of Beethoven compositions never recorded and many that have never been published.
+* [http://cylinders.library.ucsb.edu/search.php?query=beethoven&queryType=%40attr+1%3D1 Beethoven cylinder recordings], from the [[Cylinder Preservation and Digitization Project]] at the [[University of California, Santa Barbara]] Library.
+* {{musicbrainz artist|id=1f9df192-a621-4f54-8850-2c5373b7eac9|name=Ludwig van Beethoven}}, a collection of information about commercial recordings.
+* {{Discogs artist|artist=Ludwig+van+Beethoven}}
+* Performances of works by Beethoven in MP3 and MIDI formats at [http://www.logoslibrary.org/classical/beethoven/index.html Logos Virtual Library]
+* [http://www.bl.uk/sounds The British Library [[Archival Sound Recordings]]] online audio service includes 100&nbsp;years of String Quartets.
+
+{{Ludwig van Beethoven}}
+
+<!-- sort key intentional -->
+
+{{Persondata
+|NAME=Beethoven, Ludwig van
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION=German composer
+|DATE OF BIRTH=1770-12-16
+|PLACE OF BIRTH=[[Bonn]]
+|DATE OF DEATH=1827-03-26
+|PLACE OF DEATH=[[Vienna]]
+}}
+{{DEFAULTSORT:Beethoven, Ludwig Van}}
+[[Category:1770 births]]
+[[Category:1827 deaths]]
+[[Category:People from Bonn]]
+[[Category:Ludwig van Beethoven| ]]
+[[Category:German composers]]
+[[Category:Viennese composers]]
+[[Category:Classical era composers]]
+[[Category:Romantic composers]]
+[[Category:Opera composers]]
+[[Category:German classical pianists]]
+[[Category:The Enlightenment]]
+[[Category:Deaf musicians]]
+[[Category:Smallpox survivors]]
+[[Category:Walhalla enshrinees]]
+[[Category:German Roman Catholics]]
+[[Category:People from the Electorate of Cologne]]
+[[Category:Germans of Belgian descent]]
+[[Category:Austrians of German descent]]
+[[Category:Burials at the Zentralfriedhof]]
+[[Category:18th-century Austrian people]]
+[[Category:18th-century German people]]
+
+{{Link FA|ceb}}
+{{Link FA|eo}}
+{{Link FA|mt}}
+{{Link FA|it}}
+{{Link FA|zh}}
+
+[[af:Ludwig van Beethoven]]
+[[als:Ludwig van Beethoven]]
+[[ang:Ludwig van Beethoven]]
+[[ar:لودفيج فان بيتهوفن]]
+[[an:Ludwig van Beethoven]]
+[[ast:Ludwig van Beethoven]]
+[[az:Lüdviq van Bethoven]]
+[[bn:লুটভিগ ফান বেটোফেন]]
+[[zh-min-nan:Ludwig van Beethoven]]
+[[be:Людвіг ван Бетховен]]
+[[be-x-old:Людвіґ ван Бэтховэн]]
+[[bcl:Ludwig Van Beethoven]]
+[[bar:Ludwig van Beethoven]]
+[[bs:Ludwig van Beethoven]]
+[[br:Ludwig van Beethoven]]
+[[bg:Лудвиг ван Бетховен]]
+[[ca:Ludwig van Beethoven]]
+[[ceb:Ludwig van Beethoven]]
+[[cs:Ludwig van Beethoven]]
+[[cy:Ludwig van Beethoven]]
+[[da:Ludwig van Beethoven]]
+[[de:Ludwig van Beethoven]]
+[[et:Ludwig van Beethoven]]
+[[el:Λούντβιχ βαν Μπετόβεν]]
+[[es:Ludwig van Beethoven]]
+[[eo:Ludwig van Beethoven]]
+[[ext:Ludwig van Beethoven]]
+[[eu:Ludwig van Beethoven]]
+[[fa:لودویگ وان بتهوون]]
+[[hif:Ludwig van Beethoven]]
+[[fr:Ludwig van Beethoven]]
+[[fy:Ludwig van Beethoven]]
+[[fur:Ludwig van Beethoven]]
+[[ga:Ludwig van Beethoven]]
+[[gv:Ludwig van Beethoven]]
+[[gd:Ludwig van Beethoven]]
+[[gl:Ludwig van Beethoven]]
+[[gan:貝多芬]]
+[[xal:Бетховен, Людвиг ван]]
+[[ko:루트비히 판 베토벤]]
+[[haw:Ludwig van Beethoven]]
+[[hy:Լուդվիգ վան Բեթհովեն]]
+[[hr:Ludwig van Beethoven]]
+[[io:Ludwig van Beethoven]]
+[[ilo:Ludwig van Beethoven]]
+[[id:Ludwig van Beethoven]]
+[[ia:Ludwig van Beethoven]]
+[[ie:Ludwig van Beethoven]]
+[[is:Ludwig van Beethoven]]
+[[it:Ludwig van Beethoven]]
+[[he:לודוויג ואן בטהובן]]
+[[jv:Ludwig van Beethoven]]
+[[kn:ಲುಡ್ವಿಗ್ ವಾನ್ ಬೆಟ್ಹೋವನ್]]
+[[pam:Ludwig van Beethoven]]
+[[ka:ლუდვიგ ვან ბეთჰოვენი]]
+[[kk:Беетховн, Лудвиг ван]]
+[[sw:Ludwig van Beethoven]]
+[[ku:Ludwig van Beethoven]]
+[[la:Ludovicus van Beethoven]]
+[[lv:Ludvigs van Bēthovens]]
+[[lb:Ludwig van Beethoven]]
+[[lt:Ludwig van Beethoven]]
+[[lij:Ludwig van Beethoven]]
+[[li:Ludwig van Beethoven]]
+[[jbo:ludvix.fan.beitoven]]
+[[hu:Ludwig van Beethoven]]
+[[mk:Лудвиг ван Бетовен]]
+[[ml:ബീഥോവന്‍]]
+[[mt:Ludwig van Beethoven]]
+[[mr:लुडविग व्हान बीथोव्हेन]]
+[[arz:بيتهوفين]]
+[[ms:Ludwig van Beethoven]]
+[[mn:Людвиг ван Бетховен]]
+[[nah:Ludwig van Beethoven]]
+[[nl:Ludwig van Beethoven]]
+[[nds-nl:Ludwig van Beethoven]]
+[[ja:ルートヴィヒ・ヴァン・ベートーヴェン]]
+[[no:Ludwig van Beethoven]]
+[[nn:Ludwig van Beethoven]]
+[[oc:Ludwig van Beethoven]]
+[[uz:Ludwig van Beethoven]]
+[[pag:Ludwig van Beethoven]]
+[[pms:Ludwig van Beethoven]]
+[[nds:Ludwig van Beethoven]]
+[[pl:Ludwig van Beethoven]]
+[[pt:Ludwig van Beethoven]]
+[[ro:Ludwig van Beethoven]]
+[[qu:Ludwig van Beethoven]]
+[[ru:Бетховен, Людвиг ван]]
+[[sc:Ludwig van Beethoven]]
+[[sco:Ludwig van Beethoven]]
+[[sq:Ludwig van Beethoven]]
+[[scn:Ludwig van Beethoven]]
+[[simple:Ludwig van Beethoven]]
+[[sk:Ludwig van Beethoven]]
+[[sl:Ludwig van Beethoven]]
+[[ckb:لودویگ ڤان بێتهۆڤن]]
+[[sr:Лудвиг ван Бетовен]]
+[[sh:Ludwig van Beethoven]]
+[[su:Ludwig van Beethoven]]
+[[fi:Ludwig van Beethoven]]
+[[sv:Ludwig van Beethoven]]
+[[tl:Ludwig van Beethoven]]
+[[ta:லுடுவிக் ஃவான் பேத்தோவன்]]
+[[tt:Людвиг ван Бетховен]]
+[[th:ลุดวิก ฟาน เบโทเฟน]]
+[[tr:Ludwig van Beethoven]]
+[[uk:Людвіг ван Бетховен]]
+[[ur:لڈوگ بیتھوون]]
+[[ug:بىتخوۋىن]]
+[[za:Ludwig van Beethoven]]
+[[vi:Ludwig van Beethoven]]
+[[vo:Ludwig van Beethoven]]
+[[fiu-vro:Van Beethoveni Ludwig]]
+[[zh-classical:貝多芬]]
+[[war:Ludwig van Beethoven]]
+[[yi:לודוויג וואן בעטהאווען]]
+[[zh-yue:貝多芬]]
+[[bat-smg:Liudvėks van Bethuovens]]
+[[zh:路德维希·范·贝多芬]]

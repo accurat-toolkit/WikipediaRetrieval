@@ -1,0 +1,189 @@
+{{dablink|Due to [[Wikipedia:Naming conventions (technical restrictions)#Characters totally forbidden in page titles|technical restraints]], A# redirects here. For other uses, see [[A-sharp]].}}
+{{pp-semi-vandalism|small=yes}}
+
+{{Two other uses|the letter|the indefinite article|A and an}}
+
+{{wiktionarypar2|A|a}}
+{{Latin alphabet navbox|uc=A|lc=a}}
+<!--When inserting apostrophes in this section, be careful-->
+The letter ‹'''A'''› is the first letter in the [[Latin alphabet]]. Its name in [[English language|English]] ({{pron-en|ˈeɪ}}) is spelled ‹'''a'''›;<!--Yes, it is spelled "a" in the OED and other dictionaries.--> the plural is ''aes,'' though this is rare.<ref>"A" ''Oxford English Dictionary,'' 2nd edition (1989). ''Aes'' is the plural of the name of the letter. The plural of the letter itself is ''A''s, A's, ''a''s, a's.</ref>
+== History ==
+‹A› can be traced to a [[pictogram]] of an [[ox]] head in [[Egyptian hieroglyph]]s or the [[Proto-Sinaitic alphabet]].<ref>{{cite encyclopedia|title=A|encyclopedia=The World Book Encyclopedia|volume=1|page=1|publisher=Field Enterprises, Inc|date=1956}}</ref>
+
+{| class="wikitable"
+|- style="background-color:#EEEEEE; text-align:center;"
+! Egyptian
+! Proto-Semitic<br> ox's head
+! Phoenician <br>''[[aleph]]''
+! Greek <br>''[[Alpha (letter)|Alpha]]''
+! Etruscan <br>A
+! Roman <br>A
+|- style="background-color:white; text-align:center;"
+|[[Image:EgyptianA-01.svg|Egyptian hieroglyphic ox head]]
+|[[Image:Proto-semiticA-01.svg|Proto-semitic ox head]]
+|[[Image:PhoenicianA-01.svg|Phoenician aleph]]
+|[[Image:Alpha uc lc.svg|65px|Greek alpha]]
+|[[Image:EtruscanA.svg|Etruscan A]]
+|[[Image:RomanA-01.svg|Roman A]]
+|}
+
+Circa 1600 B.C. the [[Phoenician alphabet]]'s letter had a linear form that served as the base for some later forms. Its name must have corresponded closely to the [[Hebrew alphabet|Hebrew]] [[aleph]].
+
+{| cellspacing="10" cellpadding="0" style="background-color: white; float: right;"
+|- align="center"
+|[[Image:BlackletterA-01.png|Blackletter A]]<br />[[Blackletter]] A 
+|[[Image:UncialA-01.svg|Uncial A]]<br />[[Uncial]] A
+|[[Image:Acap.svg|Another Capital A]]<br />Another Blackletter A&nbsp;
+|- align="center"
+|[[Image:ModernRomanA-01.svg|64 px|Modern Roman A]]<br />Modern Roman A
+|[[Image:Modern Italic A.svg|64 px|Modern Italic A]]<br />Modern Italic A
+|[[Image:Modern Script A.svg|64 px|Modern Script A]]<br />Modern Script A
+|}
+When the [[Ancient Greece|Ancient Greeks]] adopted the alphabet, they had no use for the [[glottal stop]] that the letter had denoted in [[Phoenician languages|Phoenician]] and other [[Semitic languages]], so they used the sign to represent the vowel {{IPA|/a/}}, and kept its name with a minor change ([[alpha (letter)|alpha]]). In the earliest Greek inscriptions after the [[Greek Dark Ages]], dating to the 8th century BC, the letter rests upon its side, but in the [[Greek alphabet]] of later times it generally resembles the modern capital letter, although many local varieties can be distinguished by the shortening of one leg, or by the angle at which the cross line is set.
+
+The [[Etruscans]] brought the Greek alphabet to their civilization in the [[Italian Peninsula]] and left the letter unchanged. The Romans later adopted the [[Old Italic alphabet|Etruscan alphabet]] to write [[Latin]], and the resulting letter was preserved in the modern [[Latin alphabet]] used to write many languages, including [[English language|English]].
+
+[[Image:LowercaseA.svg|right|thumb|200|Typographic variants include a double-story and single-story '''a'''.]]
+The letter has two [[Lower case|minuscule]] (lower-case) forms. The form used in most current [[handwriting]], and in [[italic type]], consists of a circle and vertical stroke (‹{{Unicode|ɑ}}›), called [[Latin alpha]] or "script a". Most printed material uses a form consisting of a small loop with an arc over it (‹{{Unicode|a}}›). Both derive from the [[majuscule]] (capital) form. In Greek handwriting, it was common to join the left leg and horizontal stroke into a single loop, as demonstrated by the Uncial version shown. Many fonts then made the right leg vertical. In some of these, the [[serif]] that began the right leg stroke developed into an arc, resulting in the printed form, while in others it was dropped, resulting in the modern handwritten form.
+
+== Usage ==
+In [[English language|English]], ‹a› by itself usually denotes the [[near-open front unrounded vowel]] ({{IPA|/æ/}}) as in ''pad'', the [[open back unrounded vowel]] ({{IPA|/ɑː/}}) as in ''father'', or, in concert with a later orthographic vowel, the diphthong {{IPA|/eɪ/}} as in ''ace'' and ''major'', due to effects of the [[great vowel shift]].  
+
+In most other languages that use the Latin alphabet, ‹a› denotes an [[open central unrounded vowel]] ({{IPA|/a/}}). In the [[help:IPA|International Phonetic Alphabet]], variants of ‹a› denote various [[vowel]]s. In [[X-SAMPA]], capital ‹A› denotes the [[open back unrounded vowel]] and lowercase ‹a› denotes the [[open front unrounded vowel]].
+
+‹A› is the third most common letter in English, and the second most common in [[Spanish language|Spanish]] and [[French language|French]]. In one study, on average, about 3.68% of letters used in English tend to be ‹a›s, while the number is 6.22% in Spanish and 3.95% in French.<ref>{{cite web|url=http://starbase.trincoll.edu/~crypto/resources/LetFreq.html|title=Percentages of Letter frequencies per Thousand words|accessdate=2006-05-01}}</ref>
+
+‹A› is often used to denote something or someone of a better or more prestigious quality or status: A, A+ or A*, the best grade that can be assigned by teachers for students' schoolwork; A grade for clean restaurants; [[A-List]] celebrities, etc. The number [[1]] is used in a similar way.
+
+A [[turned a|turned ‹a›]] (‹{{IPA|ɐ}}›) is used by the [[International Phonetic Alphabet]] for the [[near-open central vowel]], while a turned capital ‹A› (‹∀›) is used in [[predicate logic]] to indicate [[universal quantification]].
+
+{{Letter
+|NATO=Alpha<!--don't change to official "alfa" until Commons images are moved to this spelling, or redirects are set up, as otherwise the table does not display the semaphore and flag images-->
+|Morse=·–
+|Character=A1
+|Braille=⠁
+}}
+
+== Codes for computing ==
+In [[Unicode]] the [[majuscule|capital]] ‹A› is codepoint U+0041 and the [[lower case]] ‹a› is U+0061.<ref name="unicode">{{cite web|url=http://macchiato.com/unicode/chart/|title=Javascript Unicode Chart|language=en|accessdate=2009-03-08}}</ref>
+
+The [[ASCII]] code for capital ‹A› is 65 and for lower case ‹a› is 97; or in [[Binary numeral system|binary]] 01000001 and 01100001, respectively.
+
+The [[EBCDIC]] code for capital ‹A› is 193 and for lowercase ‹a› is 129.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#65;</tt>" and "<tt>&amp;#97;</tt>" for upper and lower case, respectively.
+
+== See also ==
+
+{{Commons|A}}
+{{Wikisource1911Enc|A}}
+* <big>[[ª]]</big>
+* [[Æ]]
+* [[Alpha (letter)|Alpha]]
+* [[A (Cyrillic)|Cyrillic A]]
+
+== References ==
+{{reflist}}
+
+{{Latin alphabet|A|}}
+
+[[Category:Latin letters]]
+[[Category:Vowel letters]]
+[[Category:Requests for audio pronunciation (English)]]
+
+[[af:A]]
+[[als:A]]
+[[ar:A]]
+[[an:A]]
+[[arc:A]]
+[[ast:A]]
+[[az:A]]
+[[zh-min-nan:A]]
+[[ba:A (латин хәрефе)]]
+[[bar:A]]
+[[bs:A]]
+[[br:A (lizherenn)]]
+[[bg:A]]
+[[ca:A]]
+[[cs:A]]
+[[co:A]]
+[[cy:A]]
+[[da:A]]
+[[de:A]]
+[[dv:އޭ]]
+[[et:A]]
+[[el:A]]
+[[eml:A]]
+[[es:A]]
+[[eo:A]]
+[[eu:A]]
+[[fa:A]]
+[[fr:A (lettre)]]
+[[fy:A]]
+[[fur:A]]
+[[gv:Aittyn]]
+[[gd:A]]
+[[gl:A]]
+[[gan:A]]
+[[ko:A]]
+[[hr:A]]
+[[io:A]]
+[[ilo:A]]
+[[id:A]]
+[[ia:A]]
+[[is:A]]
+[[it:A]]
+[[he:A]]
+[[jv:A]]
+[[ka:A]]
+[[kw:A]]
+[[sw:A]]
+[[ht:A]]
+[[ku:A (herf)]]
+[[la:A]]
+[[lv:A]]
+[[lb:A (Buschtaf)]]
+[[lt:A]]
+[[hu:A]]
+[[mk:A (Латиница)]]
+[[mg:A]]
+[[ml:A]]
+[[mzn:A]]
+[[ms:A]]
+[[nah:A]]
+[[nl:A (letter)]]
+[[ja:A]]
+[[no:A]]
+[[nn:A]]
+[[nrm:A]]
+[[uz:A (harf)]]
+[[pl:A]]
+[[pt:A]]
+[[crh:A]]
+[[ro:A]]
+[[qu:A]]
+[[ru:A (латиница)]]
+[[se:A]]
+[[stq:A]]
+[[scn:A]]
+[[simple:A]]
+[[sk:A]]
+[[sl:A]]
+[[szl:A]]
+[[srn:A]]
+[[sr:A (слово латинице)]]
+[[fi:A]]
+[[sv:A]]
+[[tl:A]]
+[[th:A]]
+[[tr:A (harf)]]
+[[tk:A]]
+[[uk:A (латиниця)]]
+[[vi:A]]
+[[vo:A]]
+[[yi:A]]
+[[yo:A]]
+[[zh-yue:A]]
+[[diq:A]]
+[[bat-smg:A]]
+[[zh:A]]

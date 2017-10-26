@@ -1,0 +1,348 @@
+{{novec|pirmssezonas spēļu informācija}}
+'''Rīgas "Dinamo" 2008-09''' bija tās pati pirmā '''sezona'''. [[Rīgas "Dinamo"]] spēlēja [[Kontinentālā hokeja līga|Kontinentālās hokeja līgas]] [[Harlamova divīzija|Harlamova divīzijā]]. Sezona sākās [[2. septembris|2. septembrī]] ar izbraukuma spēli pret [[Habarovskas "Amur"]], kurā "Dinamo" izcīnīja uzvaru ar 4-2.  
+
+Lielāko daļu savu mājas spēļu "Dinamo" aizvadīja uz [[Arēna Rīga|Arēnas Rīgas]] ledus, bet tā kā klubs tika izveidots vienīgi maijā, kad vairāki datumi arēnas grafikā jau bija aizņemti, četras no mājas spēlēm "Dinamo" neaizvadīja Arēnā Rīga - divas spēlēs tiks aizvadītas [[Inbox.lv ledus halle|Inbox.lv ledus hallē]], bet vēl divas - [[Espo]], [[Somija|Somijā]] - tas notika ''Promotion Tour'' ietvaros.<ref>{{cite web |url=http://allhockey.ru/news/33656/ |title=Рига: два домашних матча "Динамо" пройдут в Хельсинки}}</ref>
+
+==Regulārā sezona==
+Regulārajā sezonā Rīgas "Dinamo" aizvadīja 56 spēles. Sezonu tā pabeidza augstajā 10. vietā, kas nozīmē, ka pirmajā izslēgšanas kārtā tā tiksies ar 7. vietas ieguvēju - [[Maskavas "Dinamo" (hokejs)|Maskavas "Dinamo"]]. Rezultatīvākais spēlētājs "Dinamo" rindās bija [[Marcels Hosa]].
+
+===Divīzijas rezultātu tabula===
+<!-- bgcolor="#CCFFCC"-->
+<small>SP-spēles, U-uzvaras, UP-uzvaras pagarinājumā, US-uzvaras pēcspēles metienos, ZS-zaudējumi pēcspēles metienos, ZP-zaudējumi pagarinājumā, Z-zaudējumi, IV-iemestie vārti, IEV-ielaistie vārti, P-ti-punkti</small>
+{| class="wikitable sortable"
+! width=20 | P
+! width=250 | [[Harlamova divīzija]]
+! width=20 | SP
+! width=20 | U
+! width=20 | UP
+! width=20 | ZP
+! width=20 | Z
+! width=20 | IV
+! width=20 | IEV
+! width=20 | P-ti
+|- align=center 
+| 1 ||align=left| '''[[Jaroslavļas "Lokomotiv"]]''' || 56 || 32 || 4 || 7 || 13 || 175 || 111 || '''111'''
+|- align=center bgcolor="#DDFFDD" 
+| 2 ||align=left| '''[[Rīgas "Dinamo"]]''' || 56 || 24 || 5 || 4 || 23 || 132 || 156 || '''86''' 
+|- align=center 
+| 3 ||align=left| '''[[Toljati "Lada"]]''' || 56 || 21 || 8 || 5 || 22 || 120 || 116 || '''84''' 
+|- align=center 
+| 4 ||align=left| '''[[Omskas "Avangard"]]''' || 56 || 19 || 8 || 5 || 24 || 161 || 164 || '''78'''
+|- align=center 
+| 5 ||align=left| [[Novosibirskas "Sibirj"]] || 56 || 15 || 6 || 7 || 28 || 146 || 172 || '''64'''
+|- align=center 
+| 6 ||align=left| [[Habarovskas "Amur"]] || 56 || 15 || 4 || 7 || 30 || 111 || 158 || '''60'''
+|}
+
+===Līgas rezultātu tabula===
+{| class="wikitable sortable"
+! width=20 | P
+! width=250 | Komanda
+! width=20 | SP
+! width=20 | U
+! width=20 | UP
+! width=20 | ZP
+! width=20 | Z
+! width=20 | IV
+! width=20 | IEV
+! width=20 | P-ti
+|- align=center 
+| 1 ||align=left| '''[[Ufas "Salavat Julajev"]]''' || 56 || 38 || 5 || 5 || 8 || 203 || 116 || '''129'''
+|- align=center 
+| 2 ||align=left| '''[[Kazaņas "Ak Bars"]]''' || 56 || 36 || 4 || 6 || 10 || 189 || 123 || '''122'''
+|- align=center 
+| 3 ||align=left| '''[[Mitišču "Atlant"]]''' || 56 || 35 || 7 || 3 || 11 || 189 || 111 || '''122'''
+|- align=center 
+| 4 ||align=left| '''[[Jaroslavļas "Lokomotiv"]]''' || 56 || 32 || 4 || 7 || 13 || 175 || 111 || '''111'''
+|- align=center 
+| 5 ||align=left| '''[[Maskavas "CSKA" (hokejs)|Maskavas "CSKA"]]''' || 56 || 27 || 7 || 11 || 11 || 176 || 141 || '''106''' 
+|- align=center 
+| 6 ||align=left| '''[[Magņitogorskas "Metallurg"]]''' || 56 || 25 || 13 || 3 || 15 || 174 || 148 || '''104'''
+|- align=center 
+| 7 ||align=left| '''[[Maskavas "Dinamo" (hokejs)|Maskavas "Dinamo"]]''' || 56 || 27 || 7 || 5 || 17 || 184 || 143 || '''100'''
+|- align=center 
+| 8 ||align=left| '''[[Sanktpēterburgas "SKA"]]''' || 56 || 26 || 9 || 4 || 17 || 143 || 105 || '''100'''
+|- align=center 
+| 9 ||align=left| '''[[Maskavas "Spartak" (hokejs)|Maskavas "Spartak"]]''' || 56 || 26 || 6 || 3 || 21 || 173 || 158 || '''93'''
+|- align=center bgcolor="#DDFFDD" 
+| 10 ||align=left| '''[[Rīgas "Dinamo"]]''' || 56 || 24 || 5 || 4 || 23 || 132 || 156 || '''86''' 
+|- align=center  
+| 11 ||align=left| '''[[Ņižņijnovgorodas "Torpedo"]]''' || 56 || 24 || 4 || 4 || 24 || 162 || 162 || '''84''' 
+|- align=center 
+| 12 ||align=left| '''[[Čeļabinskas "Traktor"]]''' || 56 || 24 || 2 || 8 || 22 || 142 || 166 || '''84'''
+|- align=center 
+| 13 ||align=left| '''[[Toljati "Lada"]]''' || 56 || 21 || 8 || 5 || 22 || 120 || 116 || '''84'''
+|- align=center 
+| 14 ||align=left| '''[[Ņižņekamskas "Ņeftehimik"]]''' || 56 || 22 || 3 || 7 || 24 || 146 || 140 || '''79'''
+|- align=center 
+| 15 ||align=left| '''[[Astanas "Baris"]]''' || 56 || 20 || 7 || 4 || 25 || 174 || 191 || '''78'''
+|- align=center 
+| 16 ||align=left| '''[[Omskas "Avangard"]]''' || 56 || 19 || 8 || 5 || 24 || 161 || 164 || '''78'''
+|- align=center 
+| 17 ||align=left| [[Čerepovecas "Severstal"]] || 56 || 19 || 8 || 4 || 25 || 142 || 171 || '''77''' 
+|- align=center 
+| 18 ||align=left| [[Maskavas apgabala "MVD"]] || 56 || 20 || 6 || 1 || 29 || 142 || 159 || '''73'''
+|- align=center 
+| 19 ||align=left| [[Novosibirskas "Sibirj"]] || 56 || 15 || 6 || 7 || 28 || 146 || 172 || '''64'''
+|- align=center 
+| 20 ||align=left| [[Habarovskas "Amur"]] || 56 || 15 || 4 || 7 || 30 || 111 || 158 || '''60'''
+|- align=center 
+| 21 ||align=left| [[Novokuzņeckas "Metallurg"]] || 56 || 12 || 5 || 7 || 31 || 127 || 157 || '''54'''
+|- align=center 
+| 22 ||align=left| [[Minskas "Dinamo"]] || 56 || 12 || 3 || 7 || 34 || 124 || 197 || '''49'''
+|- align=center 
+| 23 ||align=left| [[Čehovas "Vitjaz"]] || 56 || 6 || 5 || 12 || 33 || 134 || 225 || '''40'''
+|- align=center 
+| 24 ||align=left| [[Voskresenskas "Himik"]] || 56 || 8 || 3 || 9 || 36 || 108 || 187 || '''39'''
+|}
+
+===Rezultāti===
+<small>P - pagarinājumā, SM - pēcspēles metienos</small>
+{| class="wikitable" border=1 cellspacing=2 cellpadding=2
+|- bgcolor="#efefef" align=left 
+!Datums
+!Mājnieki
+!
+!Viesi
+|-
+|[[2. septembris|02.09.]][[2008|08.]]||'''[[Habarovskas "Amur"]]'''||2-4||'''[[Rīgas "Dinamo"]]'''
+|-
+|[[3. septembris|03.09.]][[2008|08.]]||'''[[Habarovskas "Amur"]]'''||7-6 (SM)||'''[[Rīgas "Dinamo"]]'''
+|-
+|[[5. septembris|05.09.]][[2008|08.]]||'''[[Novokuzņeckas "Metallurg"]]'''||7-0||'''[[Rīgas "Dinamo"]]'''
+|-
+|[[7. septembris|07.09.]][[2008|08.]]||'''[[Novosibirskas "Sibirj"]]'''||2-1 (P)||'''[[Rīgas "Dinamo"]]'''
+|-
+|[[8. septembris|08.09.]][[2008|08.]]||'''[[Novosibirskas "Sibirj"]]'''||6-1||'''[[Rīgas "Dinamo"]]'''
+|-
+|[[11. septembris|11.09.]][[2008|08.]]||'''[[Rīgas "Dinamo"]]'''||2-1||'''[[Balašihas "HK MVD"]]'''
+|-
+|[[14. septembris|14.09.]][[2008|08.]]||'''[[Rīgas "Dinamo"]]'''||2-0||'''[[Mitišču "Atlant"]]'''
+|-
+|[[15. septembris|15.09.]][[2008|08.]]||'''[[Rīgas "Dinamo"]]'''||4-1||'''[[Ņižņijnovgorodas "Torpedo"]]'''
+|-
+|[[22. septembris|22.09.]][[2008|08.]]||'''[[HK Maskavas "CSKA"|Maskavas "CSKA"]]'''||3-4||'''[[Rīgas "Dinamo"]]'''
+|-
+|[[24. septembris|24.09.]][[2008|08.]]||'''[[HK Maskavas "Spartak"|Maskavas "Spartak"]]'''||5-1||'''[[Rīgas "Dinamo"]]'''
+|-
+|[[26. septembris|26.09.]][[2008|08.]]||'''[[Čehovas "Vitjaz"]]'''||2-3 (SM)||'''[[Rīgas "Dinamo"]]'''
+|}
+
+===Sastāva statistika===
+====Vārtsargi====
+<small>Sp - spēles, U - uzvaras, Z - zaudējumi, IV - ielaistie vārti, AM - atvairītie metieni, AM% - atvairīto metienu procents, VS - ielaistie vārti vidēji spēlē, MIN - minūtes uz ledus, S - "sausās" spēles, SM - soda minūtes</small>
+{| class="wikitable sortable" border="0" width="100%"
+|- bgcolor="#dddddd"
+!Nr
+! width="200px"| Spēlētājs
+!Sp*
+!U
+!Z
+!IV
+!AM
+!AM%
+!VS
+!MIN
+!S
+!SM
+|- align="center"
+|30||{{flaga|Latvija}} [[Sergejs Naumovs]]||'''29'''||'''12'''||9||86||'''725'''||89,3||3,61||'''1489'''||0||2
+|- align="center"
+|35||{{flaga|Čehija}} [[Martins Pruseks]]||19||11||5||32||502||'''94,0'''||'''1,74'''||1104||'''6'''||0
+|- align="center"
+|31||{{flaga|Latvija}} [[Edgars Masaļskis]]||8||4||2||18||193||91,5||2,66||406||1||0
+|- align="center"
+|40||{{flaga|Zviedrija}} [[Daniels Sperle]]||5||1||3||11||108||90,8||2,61||252||0||0
+|- align="center"
+|39||{{flaga|Latvija}} [[Ervīns Muštukovs]]||2||0||1||4||38||90,5||3,00||80||0||0
+|- align="center"
+|85||{{flaga|Latvija}} [[Uģis Avotiņš]]||1||0||0||0||0||-||-||1||0||0
+|}
+<small>* - neiskaitot izslēgšanas kārtas spēles</small>
+
+====Laukuma spēlētāji====
+<small>Sp - spēles, V - [[vārti (hokejā)|vārti]], RP - [[rezultatīva piespēle (hokejā)|rezultatīva piespēle]], P - punkti, +/- - lietderības koeficients, SM - soda minūtes</small>
+{| class="wikitable sortable" border="0" width="100%"
+|- bgcolor="#dddddd"
+!Nr
+! width="200px"| Spēlētājs
+!Poz
+!Sp
+![[vārti (hokejā)|V]]
+![[rezultatīva piespēle (hokejā)|RP]]
+!P
+!+/-
+!SM
+|- align="center"
+|81||{{flaga|Slovākija}} [[Marcels Hosa]]||U||55||'''24'''||23||'''47'''||0||118
+|- align="center"
+|83||{{flaga|Kanāda}} [[Mets Elisons]]||U||58||15||'''25'''||40||-2||84
+|- align="center"
+|12||{{flaga|Kanāda}} [[Marks Hartigans]]||U||58||21||17||38||0||125
+|- align="center"
+|17||{{flaga|Latvija}} [[Aleksandrs Ņiživijs]]||U||56||10||19||29||-7||18
+|- align="center"
+|47||{{flaga|Latvija}} [[Mārtiņš Cipulis]]||U||'''59'''||9||12||21||-11||28
+|- align="center"
+|15||{{flaga|Kanāda}} [[Duvijs Vestkots]]||A||53||2||17||19||-3||'''157'''
+|- align="center"
+|14||{{flaga|Čehija}} [[Filips Novāks]]||A||53||4||14||18||-8||99
+|- align="center"
+|19||{{flaga|Latvija}} [[Miķelis Rēdlihs]]||U||58||9||8||17||-12||57
+|- align="center"
+|10||{{flaga|Latvija}} [[Lauris Dārziņš]]||U||'''59'''||8||9||17||-8||60
+|- align="center"
+|75||{{flaga|Latvija}} [[Ģirts Ankipāns]]||U||54||7||7||14||-6||32
+|- align="center"
+|21||{{flaga|Latvija}} [[Armands Bērziņš]]||U||47||5||8||13||-1||81
+|- align="center"
+|24||{{flaga|Latvija}} [[Aleksejs Širokovs]]||U||48||2||8||10||-9||30
+|- align="center"
+|9||{{flaga|Latvija}} [[Krišjānis Rēdlihs]]||A||27||4||6||10||-4||16
+|- align="center"
+|23||{{flaga|Latvija}} [[Atvars Tribuncovs]]||A||38||2||7||9||-11||58
+|- align="center"
+|5||{{flaga|Latvija}} [[Guntis Galviņš]]||A||48||1||7||8||-11||24
+|- align="center"
+|2||{{flaga|Latvija}} [[Rodrigo Laviņš]]||A||52||1||6||7||'''2'''||26
+|- align="center"
+|28||{{flaga|Latvija}} [[Oļegs Sorokins]]||A||30||0||6||6||-2||44
+|- align="center"
+|27||{{flaga|Slovākija}} [[Ronalds Petrovickis]]||U||30||2||3||5||-4||49
+|- align="center"
+|78||{{flaga|Latvija}} [[Georgijs Pujacs]]||A||15||1||4||5||'''2'''||6
+|- align="center"
+|6||{{flaga|Latvija}} [[Juris Štāls]]||U||19||1||2||3||0||8
+|- align="center"
+|8||{{flaga|Latvija}} [[Viktors Bļinovs]]||U||24||2||1||3||-7||16
+|- align="center"
+|11||{{flaga|Latvija}} [[Kristaps Sotnieks]]||A||49||2||0||2||-13||36
+|- align="center"
+|29||{{flaga|Latvija}} [[Aigars Cipruss]]||U||35||1||1||2||-6||16
+|- align="center"
+|91||{{flaga|Latvija}} [[Edijs Brahmanis]]||U||4||1||0||1||0||2
+|- align="center"
+|72||{{flaga|Latvija}} [[Sergejs Pečura]]||U||6||0||0||0||-1||2
+|- align="center"
+|4||{{flaga|Latvija}} [[Agris Saviels]]||A||2||0||0||0||0||4
+|- align="center"
+|87||{{flaga|Latvija}} [[Gints Meija]]||U||18||0||0||0||-2||0
+|- align="center"
+|22||{{flaga|Latvija}} [[Toms Hartmanis]]||U||5||0||0||0||-2||0
+|- align="center"
+|3||{{flaga|Latvija}} [[Ronalds Cinks]]||U||7||0||0||0||-1||0
+|- align="center"
+|12||{{flaga|Latvija}} [[Jānis Straupe]]||U||5||0||0||0||0||0
+|- align="center"
+|13||{{flaga|Latvija}} [[Maksims Širokovs]]||A||1||0||0||0||-1||0
+|}
+
+==Pirmssezonas sagatavošanās spēles==
+<small>P - uzvara pagarinājumā, SM - uzvara soda metienos</small>
+{| class="prettytable" 
+!Mājnieku komanda!!Rez.!!Viesu komanda!!Datums!!Vieta!!Turnīrs
+|-
+|[[HK Liptovskimikulašas "32"]]||1-2 (SM)||[[Rīgas "Dinamo"]]||{{dat||7|25}}||[[Liptovskimikulaša]], [[Slovākija]]
+|-
+|[[Rīgas "Dinamo"]]||3-2||[[Habarovskas "Amur"]]||{{dat||8|2}}||[[Piņķi]], [[Latvija]]||
+|-
+|[[Rīgas "Dinamo"]]||5-1||[[Minskas "Dinamo"]]||{{dat||8|4}}||[[Piņķi]], [[Latvija]]||Inbox.lv kauss
+|-
+|[[Rīgas "Dinamo"]]||7-2||[[Astanas "Baris"]]||{{dat||8|6}}||[[Piņķi]], [[Latvija]]||Inbox.lv kauss
+|-
+|[[Tamperes "Tappara"]]||1-3||[[Rīgas "Dinamo"]]||{{dat||8|13}}||[[Tampere]], [[Somija]]||Tamperes kauss
+|-
+|[[Tamperes "Ilves"]]||3-1||[[Rīgas "Dinamo"]]||{{dat||8|14}}||[[Tampere]], [[Somija]]||Tamperes kauss
+|-
+|[[Espo "Blues"]]|| ||[[Rīgas "Dinamo"]]||{{dat||8|15}}||[[Tampere]], [[Somija]]||Tamperes kauss
+|-
+|''Vēl nav zināms''|| ||[[Rīgas "Dinamo"]]||{{dat||8|16}}||[[Tampere]], [[Somija]]||Tamperes kauss
+|-
+|[[Mitišču "Atlant"]]|| ||[[Rīgas "Dinamo"]]||{{dat||8|23}}||[[Mitišči]], [[Krievija]]||Gubernatora kauss
+|-
+|[[Ņižņekamskas "Ņeftehimik"]]|| ||[[Rīgas "Dinamo"]]||{{dat||8|24}}||[[Mitišči]], [[Krievija]]||Gubernatora kauss
+|-
+|[[Toljati "Lada"]]|| ||[[Rīgas "Dinamo"]]||{{dat||8|26}}||[[Mitišči]], [[Krievija]]||Gubernatora kauss
+|}
+
+===Sastāva statistika pirmssezonas spēlēs===
+====Vārtsargi====
+<small>Sp - spēles, V - [[vārti (hokejā)|vārti]], RP - [[rezultatīva piespēle (hokejā)|rezultatīva piespēle]], P - punkti, SM - soda minūtes, +/- - lietderības koeficients, IV - ielaistie vārti, VS - ielaistie vārti spēlē, AM% - procentuāli atvairītie metieni</small>
+{| class="sortable" border="0"
+|- bgcolor="#dddddd"
+!Spēlētājs!!Nac!!Sp!!V!!RP!!P!!SM!!+/-!!IV!!VS!!AM%
+|- bgcolor="#eeeeee"
+|[[Edgars Masaļskis]]||{{flaga|Latvija}}||4||0||0||0||0||+4||7||1,75||?
+|- bgcolor="#eeeeee"
+|[[Sergejs Naumovs]]||{{flaga|Latvija}}||3||0||0||0||0||+8||3||1||?
+|}
+
+====Laukuma spēlētāji====
+<small>Sp - spēles, V - [[vārti (hokejā)|vārti]], RP - [[rezultatīva piespēle (hokejā)|rezultatīva piespēle]], P - punkti, SM - soda minūtes, +/- - lietderības koeficients</small>
+{| class="sortable" border="0"
+|- bgcolor="#dddddd"
+!Spēlētājs!!Nac!!Poz!!Sp!!V!!RP!!P!!SM!!+/-
+|- bgcolor="#eeeeee"
+|[[Guntis Galviņš]]||{{flaga|Latvija}}||{{HOK-A}}||6||0||1||1||0||?
+|- bgcolor="#eeeeee"
+|[[Rodrigo Laviņš]]||{{flaga|Latvija}}||{{HOK-A}}||5||0||1||1||6||?
+|- bgcolor="#eeeeee"
+|[[Filips Novāks]]||{{flaga|Čehija}}||{{HOK-A}}||6||0||2||2||27||?
+|- bgcolor="#eeeeee"
+|[[Krišjānis Rēdlihs]]||{{flaga|Latvija}}||{{HOK-A}}||6||0||0||0||0||?
+|- bgcolor="#eeeeee"
+|[[Agris Saviels]]||{{flaga|Latvija}}||{{HOK-A}}||5||0||2||2||3||?
+|- bgcolor="#eeeeee"
+|[[Oļegs Sorokins]]||{{flaga|Latvija}}||{{HOK-A}}||6||0||3||3||25||?
+|- bgcolor="#eeeeee"
+|[[Kristaps Sotnieks]]||{{flaga|Latvija}}||{{HOK-A}}||5||0||0||0||4||?
+|- bgcolor="#eeeeee"
+|[[Atvars Tribuncovs]]||{{flaga|Latvija}}||{{HOK-A}}||6||0||2||2||6||?
+|- bgcolor="#eeeeee"
+|[[Duvijs Vestkots]]||{{flaga|Kanāda}}||{{HOK-A}}||5||1||2||3||6||?
+|- bgcolor="#eeeeee"
+|[[Armands Bērziņš]]||{{flaga|Latvija}}||{{HOK-U}}||5||1||2||3||52||?
+|- bgcolor="#eeeeee"
+|[[Viktors Bļinovs]]||{{flaga|Latvija}}||{{HOK-U}}||2||0||0||0||0||?
+|- bgcolor="#eeeeee"
+|[[Ronalds Cinks]]||{{flaga|Latvija}}||{{HOK-U}}||3||0||1||1||0||?
+|- bgcolor="#eeeeee"
+|[[Mārtiņš Cipulis]]||{{flaga|Latvija}}||{{HOK-U}}||6||3||1||4||2||?
+|- bgcolor="#eeeeee"
+|[[Lauris Dārziņš]]||{{flaga|Latvija}}||{{HOK-U}}||6||4||1||5||4||?
+|- bgcolor="#eeeeee"
+|[[Andris Džeriņš]]||{{flaga|Latvija}}||{{HOK-U}}||1||0||0||0||0||?
+|- bgcolor="#eeeeee"
+|[[Mets Elisons]]||{{flaga|Kanāda}}||{{HOK-U}}||2||0||1||1||0||?
+|- bgcolor="#eeeeee"
+|[[Marks Hartigans]]||{{flaga|Kanāda}}||{{HOK-U}}||5||2||2||4||4||?
+|- bgcolor="#eeeeee"
+|[[Toms Hartmanis]]||{{flaga|Latvija}}||{{HOK-U}}||6||0||0||0||0||?
+|- bgcolor="#eeeeee"
+|[[Marsels Hosa]]||{{flaga|Slovākija}}||{{HOK-U}}||5||1||1||2||27||?
+|- bgcolor="#eeeeee"
+|[[Aleksandrs Ņiživijs]]||{{flaga|Latvija}}||{{HOK-U}}||6||3||3||6||0||?
+|- bgcolor="#eeeeee"
+|[[Jānis Ozoliņš]]||{{flaga|Latvija}}||{{HOK-U}}||1||0||0||0||0||?
+|- bgcolor="#eeeeee"
+|[[Ronalds Petrovickis]]||{{flaga|Slovākija}}||{{HOK-U}}||6||2||1||3||6||?
+|- bgcolor="#eeeeee"
+|[[Miķelis Rēdlihs]]||{{flaga|Latvija}}||{{HOK-U}}||5||1||4||5||6||?
+|- bgcolor="#eeeeee"
+|[[Aleksejs Širokovs]]||{{flaga|Latvija}}||{{HOK-U}}||6||0||3||3||27||?
+|- bgcolor="#eeeeee"
+|[[Juris Štāls]]||{{flaga|Latvija}}||{{HOK-U}}||6||2||2||4||4||?
+|}
+
+==Atsauces==
+{{atsauces}}
+
+==Skatīt arī==
+* [[Kontinentālā hokeja līga 2008-09]]
+
+[[Kategorija:2008. gads sportā]]
+[[Kategorija:2009. gads sportā]]
+[[Kategorija:Rīgas "Dinamo"|2008-09]]
+
+[[en:2008–09 Dinamo Riga season]]
+[[ru:Динамо Рига в сезоне 2008-2009]]

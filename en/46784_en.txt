@@ -1,0 +1,134 @@
+{{Infobox scientist
+| name              = Daniel Bernoulli
+| box_width         = 300px
+| image             = Danielbernoulli.jpg
+| image_width       = 200px
+| caption           = Daniel Bernoulli
+| birth_date        = 29 February 1700
+| birth_place       = [[Groningen (city)|Groningen]], [[Netherlands]]
+| death_date        = 8 March 1782 (aged 82)
+| death_place       = [[Basel]], [[Switzerland]]
+| residence         =Trizzy
+| citizenship       =
+| nationality       =
+| ethnicity         =
+| fields            =
+| workplaces        =
+| alma_mater        =
+| doctoral_advisor  =
+| academic_advisors =
+| doctoral_students =
+| notable_students  =
+| known_for         = [[Bernoulli's Principle]], early [[Kinetic theory of gases]], [[Thermodynamics]]
+| influences        =
+| influenced        =
+| prizes            =
+| footnotes         =
+| signature         =
+}}
+
+'''Daniel Bernoulli''' ([[Groningen (city)|Groningen]], 8 February 1700 &ndash; [[Basel]], 8 March 1782) was a [[Netherlands|Dutch]]-[[Switzerland|Swiss]] [[mathematician]] and was one of the many prominent mathematicians in the [[Bernoulli family]]. He is particularly remembered for his applications of mathematics to mechanics, especially [[fluid mechanics]], and for his pioneering work in [[probability]] and [[statistics]]. Bernoulli's work is still studied at length by many schools of science throughout the world.
+
+==Early life==
+[[File:HYDRODYNAMICA, Danielis Bernoulli.png|thumb|right|200px|Frontpage of ''[[Hydrodynamica]]'' (1738)]]
+Born in [[Groningen (city)|Groningen]], in the Netherlands, the son of [[Johann Bernoulli]], nephew of [[Jus II Bernoulli]], and older brother of Johann II, Daniel Bernoulli has been described as "by far the ablest of the younger Bernoullis". <ref name="ball">Rouse Ball (1908)</ref> He is said to have had a bad relationship with his father. Upon both of them entering and tying for first place in a scientific contest at the [[University of Paris]], Johann, unable to bear the "shame" of being compared to his offspring, banned Daniel from his house. Johann Bernoulli also tried to steal Daniel's book ''Hydrodynamica'' and rename it ''Hydraulica.'' Despite Daniel's attempts at reconciliation, his father carried the grudge until his death.<ref name="mactutor">O'Connor & Robertson (1998)</ref> 
+
+When Daniel was six, his younger brother Johann II Bernoulli was born. Around schooling age, his father, Johann Bernoulli, encouraged him to study business, there being poor rewards awaiting a mathematician. However, Daniel refused, because he wanted to study mathematics. He later gave in to his father's wish and studied business. His father then asked him to study in [[medicine]], and Daniel agreed under the condition that his father would teach him mathematics privately, which they continued for some time.<ref name="mactutor"/>
+
+He was a contemporary and close friend of [[Leonhard Euler]]. He went to [[Saint Petersburg|St. Petersburg]] in 1724 as professor of mathematics, but was unhappy there, and a temporary illness in 1733 gave him an excuse for leaving.<ref name="mactutor"/> He returned to the [[University of Basel]], where he successively held the chairs of [[medicine]], [[metaphysics]] and [[natural philosophy]] until his death.<ref name="eb"/>
+
+==Mathematical work==
+His earliest mathematical work was the ''Exercitationes'' (''Mathematical Exercises''), published in 1724 with the help of [[Christian Goldbach|Goldbach]].  Two years later he pointed out for the first time the frequent desirability of resolving a compound motion into motions of translation and motions of rotation.  His chief work is his ''Hydrodynamique'' (''Hydrodynamica''), published in 1738; it resembles [[Joseph Louis Lagrange]]'s ''Méchanique Analytique'' in being arranged so that all the results are consequences of a single principle, namely, conservation of energy.  This was followed by a memoir on the theory of the tides, to which, conjointly with the memoirs by Euler and [[Colin Maclaurin]], a prize was awarded by the French Academy: these three memoirs contain all that was done on this subject between the publication of [[Isaac Newton]]'s ''[[Philosophiae Naturalis Principia Mathematica]]'' and the investigations of [[Pierre-Simon Laplace]].  Bernoulli also wrote a large number of papers on various mechanical questions, especially on problems connected with vibrating strings, and the solutions given by [[Brook Taylor]] and by [[Jean le Rond d'Alembert]].<ref name="ball">Rouse Ball (1908)</ref>
+
+==Statistics==
+Daniel Bernoulli was also the author in 1738 of ''Specimen theoriae novae de mensura sortis (Exposition of a New Theory on the Measurement of Risk)'',<ref>English translation in ''Econometrica'' '''22''' (1954) ''pp''23-36</ref> in which the [[St. Petersburg paradox]] was the base of the economic theory of [[risk aversion]], [[risk premium]] and [[utility]].<ref>Martin (2004)</ref>
+
+One of the earliest attempts to analyse a statistical problem involving [[censoring (statistics)|censored data]] was Bernoulli's 1766 analysis of [[smallpox]] morbidity and mortality data to demonstrate the efficacy of [[vaccination]].<ref>reprinted in Blower (2004)</ref>
+
+==Physics==
+{{Thermodynamics timeline context|Bernoulli's work on kinetictheory}} 
+He is the earliest writer who attempted to formulate a [[kinetic theory of gases]], and he applied the idea to explain [[Boyle's law]].<ref name="ball"/>
+
+He worked with Euler on [[elasticity]] and the development of the [[Euler-Bernoulli beam equation]].<ref>Timoshenko (1983)</ref> [[Bernoulli's principle]] is of critical use in [[aerodynamics]].<ref name="eb">[Anon.] (2001) "Daniel Bernoulli", ''[[Encyclopaedia Britannica]]''</ref>
+
+==References==
+{{reflist}}
+
+==Bibliography==
+''Original entry based  on the [[public domain]] [[Rouse History of Mathematics]]''
+----
+*[Anon.] (1911) "[http://www.1911encyclopedia.org/Bernoulli Bernoulli], ''[[Encyclopaedia Britannica]]''
+*[Anon.] (2001) "Daniel Bernoulli", ''[[Encyclopaedia Britannica]]''
+*Blower, S. (2004), D, Bernoulli's "{{PDF|[http://www.semel.ucla.edu/biomedicalmodeling/pdf/Bernoulli&Blower.pdf An attempt at a new analysis of the mortality caused by smallpox and of the advantages of inoculation to prevent it]|146&nbsp;[[Kibibyte|KiB]]<!-- application/pdf, 149703 bytes -->}}", ''Reviews of Medical Virolology'', '''14''': 275–288
+*{{cite book | author=Cardwell, D.S.L. | title=From Watt to Clausius: The Rise of Thermodynamics in the Early Industrial Age | location=Heinemann | publisher=London | year=1971 | isbn=0-435-54150-1 }}
+*Mikhailov, G.K., 2005, "Hydrodynamica" in [[Ivor Grattan-Guinness|Grattan-Guinness, I.]], ed., ''Landmark Writings in Western Mathematics''. Elsevier: 131-42.
+*Pacey, A.J. & Fisher, S.J. (1967) "Daniel Bernoulli and the ''vis viva'' of compressed air", ''British Journal for the History of Science'' '''3''', 388-92
+*[[W. W. Rouse Ball|Rouse Ball, W. W.]] [1908] (2003) "[http://www.maths.tcd.ie/pub/HistMath/People/Bernoullis/RouseBall/RB_Bernoullis.html The Bernoullis,]" in ''A Short Account of the History of Mathematics'', 4th ed., Dover, ISBN 0486206300
+* {{cite encyclopedia | last =Straub | first =Hans | title =Bernoulli, Daniel | encyclopedia = [[Dictionary of Scientific Biography]] | volume = 2 | pages =36-46  | publisher = Charles Scribner's Sons | location = New York | date = 1970 | isbn = 0684101149}}
+*{{ cite book | title=History of Strength of Materials | authorlink=Stephen Timoshenko | author=Timoshenko, S. P. | origyear=1953 | year=1983 | isbn=0486611876 | location=New York | publisher=Dover Publications }}
+
+== External links ==
+*[[Stanford Encyclopedia of Philosophy]]: "[http://plato.stanford.edu/entries/paradox-stpetersburg/ The St. Petersburg Paradox] by R. M. Martin.
+*{{MacTutor Biography|id=Bernoulli_Daniel}} (1998)
+*{{ cite web | url=http://www.mathematik.ch/mathematiker/daniel_bernoulli.php | title=Bernoulli Daniel | work=Mathematik.ch | accessdate=2007-09-07 }}
+*{{ScienceWorldBiography | urlname=BernoulliDaniel | title=Bernoulli, Daniel (1700-1782)}}
+----
+{{Bernoulli family}}
+
+{{DEFAULTSORT:Bernoulli, Daniel}}
+[[Category:1700 births]]
+[[Category:1782 deaths]]
+[[Category:18th-century Latin writers]]
+[[Category:18th-century mathematicians]]
+[[Category:Dutch mathematicians]]
+[[Category:Fluid dynamicists]]
+[[Category:Mathematical analysts]]
+[[Category:People from Groningen (city)]]
+[[Category:Probability theorists]]
+[[Category:Swiss mathematicians]]
+[[Category:University of Heidelberg alumni]]
+[[Category:Swiss Calvinists]]
+
+[[als:Daniel Bernoulli]]
+[[ar:دانييل برنولي]]
+[[bn:দানিয়েল বার্নুয়ি]]
+[[bs:Daniel Bernoulli]]
+[[bg:Даниел Бернули]]
+[[ca:Daniel Bernoulli]]
+[[cs:Daniel Bernoulli]]
+[[da:Daniel Bernoulli]]
+[[de:Daniel Bernoulli]]
+[[et:Daniel Bernoulli]]
+[[el:Ντάνιελ Μπερνούλι]]
+[[es:Daniel Bernoulli]]
+[[eo:Daniel Bernoulli]]
+[[eu:Daniel Bernoulli]]
+[[fa:دانیل برنولی]]
+[[fr:Daniel Bernoulli]]
+[[ko:다니엘 베르누이]]
+[[hr:Daniel Bernoulli]]
+[[io:Daniel Bernoulli]]
+[[is:Daniel Bernoulli]]
+[[it:Daniel Bernoulli]]
+[[he:דניאל ברנולי]]
+[[ht:Daniel Bernoulli]]
+[[la:Daniel Bernoulli]]
+[[lv:Daniels Bernulli]]
+[[mk:Даниел Бернули]]
+[[nl:Daniel Bernoulli]]
+[[ja:ダニエル・ベルヌーイ]]
+[[no:Daniel Bernoulli]]
+[[pms:Daniel Bernoulli]]
+[[pl:Daniel Bernoulli]]
+[[pt:Daniel Bernoulli]]
+[[ro:Daniel Bernoulli]]
+[[ru:Бернулли, Даниил]]
+[[scn:Daniel Bernoulli]]
+[[sk:Daniel Bernoulli]]
+[[sl:Daniel Bernoulli]]
+[[sr:Данијел Бернули]]
+[[fi:Daniel Bernoulli]]
+[[sv:Daniel Bernoulli]]
+[[tr:Daniel Bernoulli]]
+[[uk:Даніель Бернуллі]]
+[[zh:丹尼尔·伯努利]]

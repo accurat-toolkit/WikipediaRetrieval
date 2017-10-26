@@ -1,0 +1,727 @@
+{{Otheruses1|the U.S. State of Iowa}}
+{{pp-move-indef}}
+
+{{US state
+| Name = Iowa
+| Fullname = State of Iowa
+| Flag = Flag of Iowa.svg
+| Flaglink = [[Flag of Iowa|Flag]]
+| Seal = SEAL IOWA.png
+| Map = Map of USA IA.svg
+| Nickname = The Hawkeye State (official), The Tall Corn State<ref>{{cite web|url=http://www.uni.edu/iowaonline/6.htm|title=What children's literature might I use while teaching Iowa History?|work=Iowa History Online|publisher=Malcolm Price Laboratory School, Department of Curriculum and Instruction, [[University of Northern Iowa]]|accessdate=June 26, 2009}}</ref>
+| Former = Iowa Territory
+| Demonym = Iowan
+| Motto = Our liberties we prize and our rights we will maintain.
+| Capital = [[Des Moines, Iowa|Des Moines]]
+| OfficialLang = English
+| LargestCity = [[Des Moines, Iowa|Des Moines]]
+| LargestMetro = [[Des Moines metropolitan area]]
+| Governor = [[Chet Culver]] (D)
+| Lieutenant Governor = [[Patty Judge]] (D)
+| Senators = [[Chuck Grassley]] (R)<br />[[Tom Harkin]] (D)
+|Representative=3 Democrats, 2 Republicans
+| PostalAbbreviation = IA
+| AreaRank = 26<sup>th</sup>
+| TotalAreaUS = 56,272
+| TotalArea = 145,743
+| LandArea = 144 700.8
+| Number of counties 99
+| WaterAreaUS = 402
+| WaterArea = 1,042
+| PCWater = 0.71
+| PopRank = 30th
+| 2000Pop = 3,002,555 (2008 est.)<ref name=08CenEst>{{cite web | title = Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2000 to July 1, 2008 | publisher = United States Census Bureau | accessdate = 2009-01-26 | url = http://www.census.gov/popest/states/tables/NST-EST2008-01.csv}}</ref>
+| DensityRank = 35th
+| 2000DensityUS = 53.5
+| 2000Density = 20.7
+| MedianHouseholdIncome = $48,075
+| IncomeRank = 24<sup>th</sup>
+| AdmittanceOrder = 29<sup>th</sup>
+| AdmittanceDate = December 28, 1846
+| TimeZone = [[Central Standard Time Zone|Central]]: [[Coordinated Universal Time|UTC]]-6/[[Daylight saving time|DST]]-5
+| Latitude = 40° 23′ N to 43° 30′ N
+| Longitude = 90° 8′ W to 96° 38′ W
+| LengthUS = 199
+| Length = 320
+| WidthUS = 310
+| Width = 500
+| HighestPoint = [[Hawkeye Point]]<ref name="usgs">{{cite web| date =29 April 2005 | url =http://erg.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html#Highest| title =Elevations and Distances in the United States| publisher =U.S Geological Survey| dateformat = mdy | accessdate = November 6, 2006}}</ref>
+| HighestElevUS = 1,670
+| HighestElev = 509
+| MeanElevUS = 1,099
+| MeanElev = 335
+| LowestPoint = [[Mississippi River]]<ref name="usgs"/> at Keokuk
+| LowestElevUS = 480
+| LowestElev = 146
+| ISOCode = US-IA
+| Website = www.iowa.gov
+}}
+'''Iowa''' ({{Audio-IPA|en-us-Iowa.ogg|/ˈaɪəwə/}}) is a [[U.S. state|state]] located in the [[Midwestern]] region of the [[United States of America]], an area often referred to as the "American [[Heartland]]." It derives its name from the [[Ioway]] people, one of the many [[Indigenous peoples of the Americas|American Indian]] tribes that occupied the state at the time of [[Europe]]an exploration.<ref>{{cite book|author=Alex, Lynn M. |date=2000 |title=Iowa's Archaeological Past |publisher=University of Iowa Press, Iowa City}}</ref> Iowa was a part of the French [[French colonial empire|colony]] of [[New France]]. After the [[Louisiana Purchase]], settlers laid the foundation for an agriculture-based economy in the heart of the [[Corn Belt]].<ref>{{cite web|author=Merry, Carl A.|date=1996|title=The Historic Period|publisher=Office of the State Archeologist at the University of Iowa|url=http://www.uiowa.edu/~osa/learn/historic/hisper.htm|accessdate=June 29, 2009}}</ref>  Iowa is often known as the "Food Capital of the World",<ref name=iaindustries>{{cite web|title=Major Industries in Iowa|publisher=Iowa Department of Economic Development|url=http://www.iowalifechanging.com/downloads/iaindustries.pdf|format=pdf|archiveurl=http://www.iowalifechanging.com/downloads/iaindustries.pdf|archivedate=May 20, 2005|accessdate=June 29, 2009}}</ref> but Iowa’s economy, culture, and landscape are diverse. In the mid and late 20th century, Iowa’s agricultural economy transitioned to a diversified economy of advanced manufacturing, processing, financial services, biotechnology, and green energy production.<ref name=iaindustries /><ref name="energy.iastate.edu">{{cite web|title=Wind Energy in Iowa|url=http://www.energy.iastate.edu/renewable/wind/|publisher=Iowa Energy Center|accessdate=August 8, 2009}}</ref> Iowa has been listed as one of the safest states in which to live<ref>{{cite web |title= N.H. Receives Lowest Crime Ranking; Nevada Ranks as Worst State|url= http://www.insurancejournal.com/news/national/2009/03/25/99012.htm?print=1|work= Insurance Journal|publisher= Wells Publishing, Inc.|date= March 25, 2009|accessdate=August 8, 2009}}</ref>. [[Des Moines]] is Iowa's [[List of capitals in the United States|capital]] and largest city.
+
+==Geography==
+===Boundaries===
+[[Image:Iowa topography.jpg|thumb|250px|left|Topography of Iowa, with counties and major streams.]] Iowa is bordered by the [[Mississippi River]] on the east; the [[Missouri River]] and the [[Big Sioux River]] on the west; the northern boundary is a line along 43 degrees, 30 minutes north latitude.<ref>{{cite book |title=Preamble to the 1857 Constitution of the State of Iowa |url=http://www.legis.state.ia.us/Constitution.html#pre1 |accessdate=August 9, 2009}}</ref><ref group=note>It should be noted that the Missouri and Mississippi river boundaries are as they were mapped in the 19th century, which can vary from their modern courses.</ref>  The southern border is the [[Des Moines River]] and a line along approximately 40 degrees 35 minutes north, as decided by the U.S. Supreme Court in ''Missouri v. Iowa''<ref>[[Case citation|48 U.S. (7 How.) 660 (1849).]]</ref> after a standoff between [[Missouri]] and Iowa known as the [[Honey War]].<ref>{{cite web |first=Jeff|last=Morrison|title=Forty-Thirty-five or fight?  Sullivan's Line, the Honey War, and latitudinal estimations|url=http://homepage.mac.com/jeffmorrison/maps/sullivanline.html|date=January 13, 2005|accessdate=August 9, 2009}}</ref> Iowa has 99 [[county|counties]], but 100 [[county seat]]s because [[Lee County, Iowa|Lee County]] has two. The state capital, [[Des Moines, Iowa|Des Moines]], is located in [[Polk County, Iowa|Polk County]].
+
+===Geology and terrain===
+{{Main|Geology of Iowa}}
+Iowa's bedrock geology generally increases in age from west to east. In northwest Iowa [[Cretaceous]] bedrock is ca. 74 million years old, in eastern Iowa [[Cambrian]] bedrock dates to ca. 500 million years ago.<ref>{{cite book |last1=Prior |first1=Jean Cutler |others=Adapted from ''Iowa Geology 2007'', [[Iowa Department of Natural Resources]] |title=Geology of Iowa: Iowa's Earth History Shaped by Ice, Wind, Rivers, and Ancient Seas |url=http://www.igsb.uiowa.edu/Browse/geoiowa/GEOIOWA.HTM |accessdate=August 9, 2009 |publisher=Iowa Department of Natural Resources Geological Survey}}</ref>
+
+Despite popular perception, Iowa is generally not flat; most of the state consists of rolling hills. Prior<ref>Prior, Jean C. (1991) ''Landforms of Iowa.'' University of Iowa Press, Iowa City. http://www.igsb.uiowa.edu/Browse/landform.htm</ref> divides Iowa into eight [[landform]]s based on [[glaciation]], [[soil]]s, [[topography]], and [[river]] drainage.  [[Loess]] hills lie along the western border of the state, some of which are several hundred feet thick.<ref>{{cite web | url=http://pubs.usgs.gov/info/loess/ | title= Geology of the Loess Hills, Iowa | year= 1999 | month= July | accessdate= 2008-03-26 | publisher= [[United States Geological Survey]]}}</ref>  In the northeast, along the Mississippi River, is a section of the [[Driftless Zone]], which in Iowa consists of steep hills and valleys which appear almost mountainous.
+
+There are several natural lakes in the state, most notably [[Spirit Lake (Iowa)|Spirit Lake]], [[West Okoboji Lake]], and [[East Okoboji Lake]] in northwest Iowa (''see [[Iowa Great Lakes]]''). To the east lies [[Clear Lake, Iowa|Clear Lake]]. Man-made lakes include Lake Odessa,<ref name=Odessa>{{cite web|url=http://www.iowadnr.com/fish/fishing/lakes/ode58.html|title=Odessa|publisher=Iowa Department of Natural Resources|accessdate=2009-06-06}}</ref> [[Saylorville Lake]], [[Lake Red Rock (Des Moines River)|Lake Red Rock]], [[Coralville Lake]], Lake MacBride, and Rathbun Lake.  The northwest part of the state also contains a considerable number of remnants of the once common wetland areas such as [[Barringer Slough]].
+
+===Ecology===
+Iowa's natural vegetation is [[tallgrass prairie]] and [[savanna]] in upland areas, with dense forest and wetlands in floodplains and protected river valleys, and pothole wetlands in northern prairie areas.<ref>Prior, Jean C. (1991) ''Landforms of Iowa.'' University of Iowa Press, Iowa City.</ref> Most of Iowa is used for agriculture, crops cover 60% of the state, grasslands (mostly pasture and hay with some prairie and wetland) cover 30%, and forests cover 7%; urban areas and water cover another 1% each.<ref>Iowa DNR: Iowa's Statewide Land Cover Inventory, http://www.igsb.uiowa.edu/Browse/landcvr/landcvr.htm</ref> Less than 1% of the tallgrass prairie that once covered most of Iowa remain intact, only about 5% of the state's prairie pothole wetlands remain, and most of the original forest has been lost.<ref>Iowa's Threatened and Endangered Species Program, http://www.iowadnr.gov/other/threatened.html</ref> Iowa ranks 49th of U.S. states in public land holdings.<ref>Iowa Must Step Up Investment in Public Lands "Des Moines Register", June 1, 2005, http://www.nicholasjohnson.org/politics/IaChild/eddmr601.html</ref> Threatened or endangered animals include the [[Bald Eagle]], [[Least Tern|Interior Least Tern]], [[Piping Plover]], [[Indiana Bat]], [[Sturgeon|Pallid Sturgeon]], the [[Discus macclintocki|Iowa Pleistocene Land Snail]], [[Mussel|Higgins' Eye Pearly Mussel]], and the [[Shiner (fish)|Topeka Shiner]].<ref>Federally Listed Animals in Iowa, http://www.agriculture.state.ia.us/livingOnTheEdge/endangeredAnimals.asp</ref> Endangered or threatened plants include [[Western Prairie Fringed Orchid]], [[Eastern Prairie Fringed Orchid]], [[Milkweed|Mead's Milkweed]], [[Bush Clover|Prairie Bush Clover]], and [[Northern Wild Monkshood]].<ref>Federally Listed Plants in Iowa, http://www.agriculture.state.ia.us/livingOnTheEdge/endangeredPlants.asp</ref>
+
+===Climate===
+[[Image:Iowa rainfall.jpg|thumb|right|Iowa annual rainfall, in inches.]]
+
+Iowa, like most of the [[Midwest]], has a [[humid continental climate]] throughout the state ([[Koppen climate classification]] ''Dfa'') with extremes of both heat and cold. The average annual temperature at [[Des Moines, Iowa|Des Moines]] is {{convert|50|F}}; for some locations in the north the figure is under {{convert|45|F}}, while [[Keokuk, Iowa|Keokuk]], on the [[Mississippi River]], averages {{convert|52|F}}. Winters are brisk and snowfall is common. Spring ushers in the beginning of the [[severe weather]] season. Iowa averages about 50 days of [[thunderstorm]] activity per year.<ref name="Thunderstorm Hazard"> [http://www.srh.noaa.gov/key/HTML/tstmhazards.htm US Thunderstorm distribution]. src.noaa.gov. Last accessed February 13, 2008.</ref> [[Tornado]]es are common during the spring and summer months, with an average of 37 tornadoes in a single year.<ref name="Annual Average Number of Tornadoes">[http://www.ncdc.noaa.gov/img/climate/research/tornado/small/avgt5304.gif Mean Annual Average Number of Tornadoes 1953–2004]. ncdc.noaa.gov. Last accessed November 1, 2006.</ref> In 2008, twelve people were killed by tornadoes in Iowa, making it the deadliest year since 1968 and also the second most tornadoes in a year with 105, which matched the total from 2001.<ref>[http://www.usatoday.com/weather/storms/tornadoes/2009-01-02-iowa-tornadoes_N.htm?csp=34 2008 Iowa tornadoes deadliest since 1968]. USA Today. Last accessed January 2, 2009.</ref> Iowa summers are known for heat and humidity, with daytime temperatures often near {{convert|90|F}} and sometimes exceeding {{convert|100|F}}. Average winters in the southeastern part of the state have been known to drop well below freezing, even dropping below {{convert|0|F}}.
+
+{| class="wikitable" "text-align:center;font-size:90%;"|
+| colspan="13" style="text-align:center;font-size:120%;background:#E8EAFA;"|Monthly Normal High and Low Temperatures For Various Iowa Cities (°F)
+|-
+! style="background: #E5AFAA; color: #000000" height="17" | City
+! style="background: #E5AFAA; color:#000000;" | Jan
+! style="background: #E5AFAA; color:#000000;" | Feb
+! style="background: #E5AFAA; color:#000000;" | Mar
+! style="background: #E5AFAA; color:#000000;" | Apr
+! style="background: #E5AFAA; color:#000000;" | May
+! style="background: #E5AFAA; color:#000000;" | Jun
+! style="background: #E5AFAA; color:#000000;" | Jul
+! style="background: #E5AFAA; color:#000000;" | Aug
+! style="background: #E5AFAA; color:#000000;" | Sep
+! style="background: #E5AFAA; color:#000000;" | Oct
+! style="background: #E5AFAA; color:#000000;" | Nov
+! style="background: #E5AFAA; color:#000000;" | Dec
+|-
+! style="background: #C5DFE1; color:#000000;" height="16;" | Davenport<ref name= weather.com>{{cite web|title=Monthly Averages for Davenport, IA|url=
+http://www.weather.com/outlook/health/allergies/wxclimatology/monthly/52804|publisher=Weather.com|accessdate =2008-11-01}}</ref>
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 30/13
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 36/19
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 48/29
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 61/41
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 72/52
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 81/63
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 85/68
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 83/66
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 76/57
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 65/45
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 48/32
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 35/20
+|-
+! style="background: #F8F3CA; color:#000000;" height="16;" | Des Moines
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 29/12
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 35/18
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 48/29
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 61/40
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 72/51
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 82/61
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 86/66
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 84/64
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 76/54
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 64/42
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 47/29
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 33/17
+|-
+! style="background: #C5DFE1; color:#000000;" height="16;" | Dubuque
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 25/9
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 31/15
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 43/26
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 57/38
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 69/49
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 79/58
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 82/62
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 80/60
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 72/52
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 60/40
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 44/28
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 30/15
+|-
+! style="background: #F8F3CA; color:#000000;" height="16;" | Sioux City
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 29/8
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 35/15
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 47/26
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 62/37
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 73/49
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 82/58
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 86/63
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 84/61
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 76/50
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 64/38
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 45/25
+| style="text-align:center; background: #F8F3CA; color:#000000;" | 32/13
+|-
+! style="background: #C5DFE1; color:#000000;" height="16;" | Waterloo
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 26/6
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 32/13
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 45/25
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 60/36
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 72/48
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 82/58
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 85/62
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 83/60
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 75/50
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 62/38
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 45/25
+| style="text-align:center; background: #C5DFE1; color:#000000;" | 31/12
+|-
+| colspan="13" style="text-align:center;font-size:90%;background:#E8EAFA;"|''[http://www.ustravelweather.com/weather-iowa/]''
+|}
+
+==Prehistory==
+[[Image:Iowa archaeology edgewater.JPG|thumb|left|Excavation of the 3,800 year old [[Edgewater Park Site]].]]
+
+{{Main|Iowa archaeology}}
+{{main|Indians of Iowa}}
+When [[Indigenous peoples of the Americas|American Indians]] first arrived in what is now Iowa more than 13,000 years ago, they were hunters and gatherers living in a [[Pleistocene]] glacial landscape. By the time European explorers visited Iowa, American Indians were largely settled farmers with complex economic, social, and political systems. This transformation happened gradually. During the Archaic period (10,500-2,800 years ago), American Indians adapted to local environments and ecosystems, slowly becoming more sedentary as populations increased. More than 3,000 years ago, during the Late Archaic period, American Indians in Iowa began utilizing domesticated plants. The subsequent Woodland period saw an increase reliance on agriculture and social complexity, with increased use of mounds, ceramics, and specialized subsistence. During the Late Prehistoric period (beginning about A.D. 900) increased use of maize and social changes led to social flourishing and nucleated settlements. The arrival of European trade goods and diseases in the Protohistoric period led to dramatic population shifts and economic and social upheaval, with the arrival of new tribes and early European explorers and traders. There were numerous Indian tribes living in Iowa at the time of early European exploration. Tribes which were probably descendants of the prehistoric [[Oneota]] include the [[Sioux|Dakota]], [[Ho-Chunk]], [[Ioway]], and [[Otoe (tribe)|Otoe]]. Tribes which arrived in Iowa in the late prehistoric or protohistoric periods include the [[Illiniwek]], [[Meskwaki]], [[Omaha (tribe)|Omaha]], and [[Sauk]].<ref>Alex, Lynn M. (2000) ''Iowa's Archaeological Past.'' University of Iowa Press, Iowa City.</ref>
+
+==History==
+{{Main|History of Iowa}}
+===Early exploration and trade, 1673-1808===
+[[Image:Iowa 1718.jpg|thumb|250px|Iowa in 1718. Modern state area highlighted.]]
+The first known European explorers to document Iowa were [[Jacques Marquette]] and [[Louis Jolliet]] who traveled the [[Mississippi River]] in 1673 documenting several Indian villages on the Iowa side.<ref name="peterson2009">{{cite book|last=Peterson|first=Cynthia L.|title=Frontier Forts of Iowa: Indians, Traders, and Soldiers, 1682–1862|editor=William E. Whittaker|publisher=University of Iowa Press|location=Iowa City|date=2009|pages=12-29|chapter=Historical Tribes and Early Forts|isbn=978-1-58729-831-8|url=http://uipress.uiowa.edu/books/2009-fall/whittaker.htm}}</ref><ref>History of Iowa, Iowa Official Register, http://publications.iowa.gov/135/1/history/7-1.html</ref> The area of Iowa was claimed for [[France]] and remained a French territory until 1763. When the French, realizing defeat in the [[French and Indian War]], they transferred ownership to its ally, [[Spain]]. Spain practiced very loose control over the Iowa region, granting trading licenses to French and [[British people|British]] traders, who established trading posts along the Mississippi and Des Moines Rivers.<ref name="peterson2009" /> Iowa was part of a territory known as [[Louisiana (New France)|''La Louisiane'']] or [[Louisiana]], and European traders were interested in [[lead]] and furs obtained by Indians. The [[Sauk]] and [[Meskwaki]] effectively controlled trade on the Mississippi in the late 18th and early 19th century. Among the early traders on the Mississippi were [[Julien Dubuque]], [[René-Robert Cavelier, Sieur de La Salle|Robert La Salle]], and [[Paul Marin de la Malgue|Paul Marin]].<ref name="peterson2009" /> Along the [[Missouri River]] at least five French and English trading houses were built prior to 1808.<ref name="carlson2009">{{cite book|last=Carlson|first=Gayle F.|title=Frontier Forts of Iowa: Indians, Traders, and Soldiers, 1682–1862|editor=William E. Whittaker|publisher=University of Iowa Press|location=Iowa City|date=2009|pages=104-120|chapter=Fort Atkinson, Nebraska, 1820-1827, and Other Missouri River Sites|isbn=978-1-58729-831-8|url=http://uipress.uiowa.edu/books/2009-fall/whittaker.htm}}</ref> In 1800, [[Napoleon Bonaparte]] took control of Louisiana from Spain in a [[Third Treaty of San Ildefonso|treaty]]. After the 1803 [[Louisiana Purchase]], Iowa was placed under United States control. Much of Iowa was mapped by [[Zebulon Pike]] in 1805,<ref>Pike (1965): The expeditions of Zebulon Montgomery Pike to headwaters of the [[Mississippi River]], through [[Louisiana Territory]], and in [[New Spain]], during the years 1805-6-7, Ross & Haines</ref> but it was not until the construction of [[Fort Madison, Iowa|Fort Madison]] in 1808 that the U.S. established tenuous military control over the region.<ref name="mckusick2009">{{cite book|last=McKusick|first=Marshall B.|title=Frontier Forts of Iowa: Indians, Traders, and Soldiers, 1682–1862|editor=William E. Whittaker|publisher=University of Iowa Press|location=Iowa City|date=2009|pages=55-74|chapter=Fort Madison, 1808-1813|isbn=978-1-58729-831-8|url=http://uipress.uiowa.edu/books/2009-fall/whittaker.htm}}</ref>
+
+===War of 1812 and unstable U.S. control===
+[[Image:Fort Madison 1810.jpg|thumb|left|Plan of [[Fort Madison]], 1810.]]
+[[Fort Madison, Iowa|Fort Madison]] was built to control trade and establish U.S. dominance over the Upper Mississippi, but it was poorly designed and disliked by the Sauk and [[Ho-Chunk]], many of whom allied with the British, who had not abandoned claims to the territory.<ref name="mckusick2009" /><ref>Prucha, Francis P. (1969) ''The Sword of the Republic: The United States Army on the Frontier 1783–1846''. Macmillan, New York.</ref> Fort Madison was defeated by British-supported Indians in 1813 during the [[War of 1812]], and [[Fort Shelby (Wisconsin)|Fort Shelby]] in [[Prairie du Chien, Wisconsin]], also fell to the British. [[Black Hawk (chief)|Black Hawk]] took part in the siege of Fort Madison.<ref>Jackson, Donald (1960), ''A Critic’s View of Old Fort Madison'', Iowa Journal of History and Politics 58(1) pp.31&ndash;36</ref><ref>Black Hawk (1882) ''Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak or Black Hawk.'' Continental Printing, St. Louis. (Originally published 1833)</ref> After the war, the U.S. reestablished control of the region through the construction of [[Fort Armstrong]], [[Fort Snelling]] in [[Minnesota]], and [[Fort Atkinson (Nebraska)|Fort Atkinson]] in [[Nebraska]].<ref name="iowaforts">{{cite book|last=Whittaker|first=William E. (editor)|title=Frontier Forts of Iowa: Indians, Traders, and Soldiers, 1682–1862|publisher=University of Iowa Press|location=Iowa City|date=2009|isbn=978-1-58729-831-8|url=http://uipress.uiowa.edu/books/2009-fall/whittaker.htm}}</ref>
+
+===Trade and Indian removal, 1814-1832===
+The U.S. encouraged settlement of the east side of the Mississippi and removal of Indians to the west. Trade continued in furs and lead, but disease and forced population movement decimated Indian cultures and economies. A disputed 1804 treaty between [[Quashquame]] and [[William Henry Harrison]] that surrendered much of [[Illinois]] to the U.S. enraged many Sauk and led to the 1832 [[Black Hawk War]]. As punishment for the uprising, and as part of a larger settlement strategy, treaties were subsequently designed to remove all Indians from Iowa. The Sauk and Meskwaki were pushed out of the Mississippi valley in 1832, out of the [[Iowa River]] valley in 1843, and out of Iowa altogether in 1846, although many Meskwaki clandestinely returned, founding the [[Meskwaki Settlement]] that remains to this day. The [[Ho-Chunk]] were removed in 1850, and the [[Sioux|Dakota]] were removed by the late 1850s. Western Iowa around modern [[Council Bluffs, Iowa|Council Bluffs]] was used as a way station for other tribes being moved west, including the [[Potawatomi]].
+
+===U.S. settlement and statehood, 1832-1860===
+[[Image:Iowa territorial seal.jpg|thumb|100px|Iowa Territorial Seal.]] The first American settlers officially moved to Iowa in June 1833.<ref name=Settlers>{{cite web|url=http://publications.iowa.gov/135/1/history/7-1.html|title=History of Iowa|publisher=Iowa State University|author=Schwieder, Dorothy|accessdate=2009-06-06}}</ref>  Primarily, they were families from [[Ohio]], [[Pennsylvania]], [[New York]], [[Indiana]], [[Kentucky]], and [[Virginia]].<ref name=Settlers/>  On July 4, 1838, the [[U.S. Congress]] established the [[Territory of Iowa]].  President [[Martin Van Buren]] appointed [[Robert Lucas]] governor of the territory, which at the time had 22 counties and a population of 23,242.<ref>Iowa Official Register, Volume Number 60, page 314</ref>
+
+Almost immediately after achieving territorial status, a clamor arose for statehood.  On December 28, 1846, Iowa became the 29<sup>th</sup> state in the Union when President [[James K. Polk]] signed Iowa's admission bill into law.  Once admitted to the Union, the state's boundary issues resolved, and most of its land purchased from the Indians. Iowa set its direction to development and organized campaigns for settlers and investors, boasting the young frontier state's rich farmlands, fine citizens, free and open society, and good government.<ref>"Official Encouragement of Immigration to Iowa", Marcus L. Hansen, ''IJHP", 19 (April 1921):159-95</ref>
+
+===Civil War, 1861-1865===
+Iowa supported the Union during the Civil War, voting heavily for [[Abraham Lincoln]], though there was a strong antiwar "[[Copperheads (politics)|Copperhead]]" movement among settlers of southern origins and among [[Catholics]]. There were no battles in the state, but Iowa sent large supplies of food to the armies and the eastern cities. Much of Iowa’s support for the Union can be attributed to [[Samuel J. Kirkwood]], its wartime governor.  Of a total population of 675,000, about 116,000 men were subjected to military duty.  Iowa contributed proportionately more men to Civil War military service than did any other state, north or south, sending more than 75,000 volunteers to the armed forces, over one-sixth of whom were in their graves before [[Appomattox]].<ref name="Iowa Official Register page 315">Iowa Official Register, Volume No. 60, page 315</ref>
+
+Most fought in the great campaigns in the [[Mississippi Valley]] and in the [[American South|South]].<ref>http://www.iowanationalguard.com/Museum/IA_History/CivilWar.htm</ref> Iowa troops fought at Wilson's Creek in [[Missouri]], Pea Ridge in [[Arkansas]], Forts Henry and Donelson, Shiloh, Chattanooga, Chickamauga, Missionary Ridge, and Rossville Gap as well as Vicksburg, Iuka, and Corinth.  They served with the Army of the Potomoc in [[Virginia]] and fought under Union General [[Philip Sheridan]] in the [[Shenandoah Valley]].  Many died and were buried at Andersonville.  They marched on General [[Nathaniel Banks]]' ill-starred expedition to the Red River.  Twenty-seven [[Iowans]] won the [[Congressional Medal of Honor]], first awarded in the Civil War.<ref>Iowa Official Register, Volume No. 60, pages 315-316</ref>
+
+Iowa had several brigadier generals and four major generals—[[Grenville Mellen Dodge]], Samuel B. Curtis, [[Francis J. Herron]], and [[Frederick Steele]]—and saw many of its generals go on to state and national prominence following the war.<ref name="Iowa Official Register page 315"/>
+
+===Agricultural expansion, 1865-1930===
+[[Image:Barclay barn 1875.jpg|thumb|Iowa farm, 1875.]]
+Following the Civil War, Iowa's population continued to grow dramatically, from 674,913 people in 1860 to 1,194,020 in 1870. The introduction of railroads in the 1850s and 1860s transformed Iowa into a major agricultural producer. In 1917, the United States entered [[World War I]] and farmers as well as all Iowans experienced a wartime economy. For farmers, the change was significant. Since the beginning of the war in 1914, Iowa farmers had experienced economic prosperity. In the economic sector, Iowa also has undergone considerable change. Beginning with the first farm-related industries developed in the 1870s, Iowa has experienced a gradual increase in the number of business and manufacturing operations. 
+
+===Depression, World War II, and the rise of manufacturing, 1930-1985===
+The transition from an agricultural economy to a mixed economy happened slowly. The [[Great Depression]] and [[World War II]] accelerated the shift away from smallholder farming to larger farms, and began a trend of urbanization that continues. The period since World War II has witnessed a particular increase in manufacturing operations. While [[agriculture]] continued to be the state's dominant industry, Iowans also produce a wide variety of products including refrigerators, washing machines, fountain pens, farm implements, and food products. The Farm Crisis of the 1980s caused a major recession in Iowa, causing poverty not seen since the Depression.<ref>The Midwest Farm Crisis of the 1980s, http://eightiesclub.tripod.com/id395.htm</ref> The crisis spurred a major population decline in Iowa that lasted a decade.<ref name="iwin.iwd.state.ia.us">Population Trends: The Changing Face of Iowa, http://iwin.iwd.state.ia.us/iowa/ArticleReader?itemid=00003011</ref>
+
+===Reemergence as a mixed economy, 1985-present===
+After bottoming out in the 1980s, Iowa’s economy began to become increasingly less dependent on agriculture, and now has a mix of manufacturing, biotechnology, finance and insurance services, and government services.<ref name="iowalifechanging.com">''Iowa Industries'', Iowa Workforce Development. http://www.iowalifechanging.com/downloads/iaindustries.pdf</ref> The population of Iowa has increased at a faster rate than the U.S. as a whole,<ref name="iwin.iwd.state.ia.us"/> and Iowa now has a predominantly urban population.<ref name="data.iowadatacenter.org">Iowa Data Center, 2000 Census: http://data.iowadatacenter.org/datatables/urbanrural/urstagesexbymalefemale2000.pdf</ref>
+
+==Demographics==
+=== Population ===
+{{USCensusPop
+| 1840 = 43112
+| 1850 = 192214
+| 1860 = 674913
+| 1870 = 1194020
+| 1880 = 1624615
+| 1890 = 1912297
+| 1900 = 2231853
+| 1910 = 2224771
+| 1920 = 2404021
+| 1930 = 2470939
+| 1940 = 2538268
+| 1950 = 2621073
+| 1960 = 2757537
+| 1970 = 2824376
+| 1980 = 2913808
+| 1990 = 2776755
+| 2000 = 2926324
+| estyear = 2008<ref name=08CenEst/>
+| estimate = 3002555}}
+[[Image:Iowa population map.png|thumb|left|215px|Iowa Population Density Map]]
+As of 2008, Iowa has an estimated population of 3,002,555, which is an increase of about 19,000 or 0.6%, from the prior year and an increase of 76,000 or 2.6%, since the year 2000. This is the first time the state has topped the three million mark in population.<ref>{{cite web | title = DSM Register | publisher = United States Census Bureau | accessdate = 2008-12-28 | url = http://www.desmoinesregister.com/article/20081222/NEWS/81222009/1001/}}</ref> In 2007, the latest demographic information available shows that the state had a natural increase of 53,706 people in population from the last census (that is 197,163 births minus 143,457 deaths) and a decrease of 11,754 due to net migration of people out of the state.
+
+[[Immigration to the United States|Immigration]] from outside the United States resulted in a net increase of 29,386 people, while migration within the country produced a net loss of 41,140 people. 6.1% of Iowa's population were reported as under the age of five, 22.6% under 18, and 14.7% were 65 or older. Males made up approximately 49.2% of the population.<ref name="Census_Iowa_QuickFacts"/>  The population density of the state is 52.7 people per square mile.<ref>[Title=The New York Times 2008 Almanac|Author=edited by John W. Wright|Date=2007|Page=178]</ref> The [[center of population]] of Iowa is located in [[Marshall County, Iowa|Marshall County]], in the city of [[Marshalltown, Iowa|Marshalltown]].<ref>{{cite web | title = U.S. Census quickfacts | publisher = United States Census Bureau | accessdate = 2008-12-28 | url = http://quickfacts.census.gov/qfd/states/19000.html}}</ref>
+
+===Race and ancestry===
+{{US Demographics}}
+Iowa's population included about 97,000 foreign-born (3.3%).<ref name="Census_Iowa_QuickFacts"/> Iowans are mostly of [[Western Europe]]an descent. The five largest ancestry groups in Iowa are: [[German American|German]] (35.7%), [[Irish American|Irish]] (13.5%), [[British American|English]] (9.5%), [[United States|American]] (6.6%), and [[Norwegian American|Norwegian]] (5.7%).
+
+The racial make up of the state is 91.0% White (non-Hispanic), 3.8% [[Hispanic]], 2.5% Black or [[African American]], 1.6% [[Asian people|Asian]], and 0.4% [[Indigenous peoples of the Americas|American Indian]]. One percent of respondents report two or more races.<ref name="Census_Iowa_QuickFacts">{{cite web|url=http://quickfacts.census.gov/qfd/states/19000.html|title=Iowa QuickFacts from the US Census Bureau<!-- Bot generated title -->}}</ref>
+
+===Rural to urban population shift===
+[[Image:Iowa pop 00 to 08.jpg|thumb|left|Percent population changes by counties in Iowa, 2000-2008. Purple counties have gains of more than 5%.<ref>Data from U.S. Census Bureau, Population Division. Modeled after Iowa Data Center Map, http://www.iowadatacenter.org/maps/copercent2008</ref>]]
+[[Image:Rural flight2.jpg|thumb|right|250px||Population age comparison between rural [[Pocahontas County, Iowa|Pocahontas County]] and urban [[Polk County, Iowa|Polk County]], illustrating the flight of young adults (red) to urban centers in Iowa.<ref>based on 2000 U.S. Census Data</ref>]]
+Iowa's population is more urban than rural, with 61 percent living in urban areas in 2000, a trend that began in the early 20th century.<ref name="data.iowadatacenter.org"/> Urban counties in Iowa grew 8.5% from 2000 to 2008, while rural counties declined by 4.2%.<ref>Iowans still flocking to cities, census stats show. ''Cedar Rapids Gazette'', June 30, 2009, http://www.gazetteonline.com/apps/pbcs.dll/article?AID=/20090701/NEWS/707019956/1001/NEWS</ref>  The shift from rural to urban has caused population increases in more urbanized counties such as [[Dallas County, Iowa|Dallas]], [[Johnson County, Iowa|Johnson]], [[Linn County, Iowa|Linn]], and [[Polk County, Iowa|Polk]], at the expense of more rural counties.<ref>U.S. Census Bureal State and County Quick Facts, http://quickfacts.census.gov/qfd/states/19000.html</ref>
+
+Iowa, in common with other Midwestern states (especially [[Kansas]], [[Nebraska]], [[North Dakota]], and [[South Dakota]]), is feeling the brunt of [[rural flight]], although Iowa has been gaining population since approximately 1990. Some smaller communities, such as [[Denison, Iowa|Denison]] and [[Storm Lake, Iowa|Storm Lake]], have mitigated this population loss through gains in immigrant laborers.<ref>In This Small Town in Iowa the Future Speaks Spanish. ''New York Times''September 14, 2005, http://www.nytimes.com/2005/09/14/books/14grim.html</ref>
+
+===Religion===
+[[Image:Amana Colonies.JPG|thumb|left|[[Amana Colonies]], founded by German [[Pietists]].]]
+A 2001 survey from the [[City University of New York]] found that 52% of Iowans are [[Protestantism|Protestant]], while 23% are [[Roman Catholic Church|Roman Catholic]], and other religions made up 6%. 13% responded with non-religious, and 5% did not answer.<ref>{{cite web | title = American Religious Identification Survey 2001 | publisher = The Graduate Center of the City University of New York| url = http://www.gc.cuny.edu/faculty/research_studies/aris.pdf |format=PDF| accessdate = 2007-08-16}}</ref> The largest Protestant denominations by number of adherents are the [[Evangelical Lutheran Church in America]] with 268,543; and the [[United Methodist Church]] with 248,211.<ref>http://www.thearda.com/mapsReports/reports/state/19_2000.asp</ref>
+
+The study ''Religious Congregations & Membership: 2000'' <ref>{{cite web | title = Religious Congregations & Membership: 2000 | publisher = Glenmary Research Center| url = http://www.glenmary.org/grc/RCMS_2000/maps/Largest_Group.jpg |format=jpg| accessdate = 2009-04-24}}</ref> found that in the southernmost two tiers of Iowa counties and in other counties in the center of the state, the largest religious group was the [[United Methodist Church]]; in the northeast part of the state, including [[Dubuque County, Iowa|Dubuque]] and Linn counties (where [[Cedar Rapids]] is located), the [[Roman Catholic Church]] was the largest; and in ten counties, including three in the northern tier, the [[Evangelical Lutheran Church in America]] was the largest. The study also found rapid growth in Evangelical Christian denominations.
+
+Historically, religious sects and orders who desired to live apart from the rest of society established themselves in Iowa, such as the [[Amish]] and [[Mennonite]] near [[Kalona, Iowa|Kalona]] and in other parts of eastern Iowa such as [[Davis County, Iowa|Davis County]] and [[Buchanan County, Iowa|Buchanan County]].<ref>Elmer Schwieder and Dorothy Schwieder (2009) ''A Peculiar People: Iowa's Old Order Amish'' University of Iowa Press</ref> Other religious sects and orders living apart include [[Quakers]] around [[West Branch, Iowa|West Branch]] and [[Le Grand, Iowa|Le Grand]], German [[Pietists]] who founded the [[Amana Colonies]], followers of [[Transcendental Meditation]] who founded [[Maharishi Vedic City, Iowa|Maharishi Vedic City]], and [[Cistercian]] monks and nuns at the [[New Melleray Abbey|New Melleray]] and [[Our Lady of the Mississippi Abbey|Our Lady of the Mississippi]] Abbies near [[Dubuque, Iowa|Dubuque]].
+
+===Linguistic regions===
+[[William Labov]] and colleagues, in the monumental ''Atlas of North American English''<ref> Labov, W., S. Ash, and C. Boberg, ''Atlas of North American English.'' Berlin, Germany: Mouton de Gruyter, 2006. http://www.mouton-online.com/anae.php </ref> found that the English spoken in Iowa divides into two large linguistic regions. Natives of northern Iowa — including [[Sioux City]], [[Fort Dodge]], and the [[Waterloo, Iowa|Waterloo]] region — tend to speak the dialect that linguists call [[North Central American English]], which is also found in [[North]] and [[South Dakota]], [[Minnesota]], [[Wisconsin]], and [[Michigan]]. Natives of central and southern Iowa — including such cities as [[Council Bluffs]], [[Des Moines]], and [[Iowa City]] — tend to speak the "North Midlands" dialect also found in Nebraska, central Illinois, and northern Indiana.<ref>{{cite web | title = Atlas of North American English | publisher = The University of Pennsylvania| url = http://www.ling.upenn.edu/phono_atlas/maps/MapsNC/Map1NC.html | accessdate = 2008-01-05}}</ref>
+
+==Culture==
+===Central Iowa===
+[[Image:Des Moines skyline.jpg|right|thumb|Skyline of [[Des Moines]], Iowa's capital and largest city.]]
+[[Des Moines, Iowa|Des Moines]] is the largest city in Iowa and the state's political, economic, and cultural center.  It is home to the state government, the State of Iowa Historical Museum, Science Center of Iowa and Blank IMAX Dome Theater, [[Des Moines Art Center]], [[Des Moines Botanical Center]], and various cultural events and attractions, including the annual [[Iowa State Fair]], [[Drake Relays]], World Food Festival, and the Des Moines Arts Festival. [[Adventureland (Iowa)|Adventureland]] is an amusement park located in [[Altoona, Iowa|Altoona]] just northeast of Des Moines, [[Living History Farms]] is located in [[Urbandale, Iowa|Urbandale]], and the [[Iowa Speedway]] is located in [[Newton, Iowa|Newton]], east of Des Moines. [[Terrace Hill]] is located in Des Moines and is the official residence of the [[List of Governors of Iowa|governor]].
+
+[[Ames, Iowa|Ames]] is the home of [[Iowa State University]], the [[Iowa State Center]], Brunnier Art Gallery, [[Reiman Gardens]], and the Christian Petersen Art Gallery. The [[Meskwaki Settlement]] west of [[Tama, Iowa|Tama]] is the only American Indian settlement in Iowa and is host to a large annual [[Pow-wow]]. The [[Clint Eastwood]] movie [[The Bridges of Madison County (film)|''The Bridges of Madison County'']] took place and was filmed in [[Madison County, Iowa|Madison County]]. The John Wayne Birthplace Museum is in [[Winterset, Iowa|Winterset]]. Other communities with vibrant historic downtown areas include [[Indianola, Iowa|Indianola]], [[Pella, Iowa|Pella]], [[Knoxville, Iowa|Knoxville]], [[Perry, Iowa|Perry]], and [[Marshalltown, Iowa|Marshalltown]].
+
+===Eastern Iowa===
+[[Image:Old capital iowa city.jpg|left|thumb|Old Capitol, [[Iowa City]].]]
+[[Iowa City]] prides itself on being a cultural destination, and is home to the [[University of Iowa]] and its famed [[Iowa Writers' Workshop]], the [[Iowa Old Capitol Building|Old Capitol building]] (Iowa's original capitol), the [[Ped Mall (Iowa City)|Ped Mall]], the [[Iowa City Englert Theatre]], and the [[Landlocked Film Festival]]. [[Iowa City]] is the first U.S. "[[City of Literature]]" in the [[UNESCO]] Creative Cities Network. The [[Herbert Hoover National Historic Site]] and [[Herbert Hoover Presidential Library and Museum]] are located in [[West Branch, Iowa|West Branch]]. They contain the birthplace and grave of former President [[Herbert Hoover]] along with his presidential museum. The [[Amana Colonies, Iowa|Amana Colonies]] are a group of settlements of [[Germans|German]] [[Pietists]] comprising of seven villages which have been named an American cultural [[National Historic Landmark]].
+
+The [[Cedar Rapids Museum of Art]] has one of the most significant collections of paintings by [[Grant Wood]] and [[Marvin Cone]].  [[Cedar Rapids, Iowa|Cedar Rapids]] is also home to the [[National Czech & Slovak Museum & Library]] and the historic [[Queen Anne Style architecture|Queen Anne]]-style [[Brucemore]] mansion.  [[Davenport, Iowa|Davenport]] boasts several cultural attractions, including the new [[Figge Art Museum]], [[River Music Experience]], and [[Putnam Museum and IMAX Theater]], and plays host to the annual [[Bix Beiderbecke Memorial Jazz Festival]]. Other communities with vibrant historic downtown areas include [[West Liberty, Iowa|West Liberty]], [[Fairfield, Iowa|Fairfield]], [[Mount Pleasant, Iowa|Mount Pleasant]], [[Fort Madison, Iowa|Fort Madison]], [[Mount Vernon, Iowa|Mount Vernon]], [[Ottumwa, Iowa|Ottumwa]], [[Washington, Iowa|Washington]], and [[Wilton, Iowa|Wilton]].
+
+===Western Iowa===
+[[Image:Kurmmann block sioux city.jpg|left|100px|thumb|[[Fourth Street Historic District (Sioux City, Iowa)|Fourth Street]], [[Sioux City, Iowa|Sioux City]].]]
+Some of the most dramatic scenery in Iowa is found in the west, home of the unique [[Loess Hills]]. The [[Iowa Great Lakes]] include several resort areas such as [[Spirit Lake, Iowa|Spirit Lake]], [[Arnolds Park, Iowa|Arnolds Park]], and the [[Okoboji]] Lakes. The Sanford Museum and Planetarium in [[Cherokee, Iowa|Cherokee]], [[Grotto of the Redemption]] in [[West Bend]], Danish Immigrant Museum in [[Elk Horn, Iowa|Elk Horn]], and the Fort Museum and Frontier Village in [[Fort Dodge, Iowa|Fort Dodge]] are regional destinations. [[Sioux City, Iowa|Sioux City]] considers itself to be the cultural capital of northwest Iowa and boasts a revitalized downtown and beautiful riverfront.  The [[Missouri River]] city is home to the [[Sergeant Floyd Monument]], [[Sergeant Floyd]] River Museum, Trinity Heights, and the restored [[Orpheum Theater (Sioux City)|Orpheum Theater]]. [[Image:Loess hills.jpg|thumb|right|250px|Loess Hills east of [[Mondamin, Iowa|Mondamin]].]]
+
+[[Council Bluffs, Iowa|Council Bluffs]], the major city of southwest Iowa, sits at the base of the [[Loess Hills]] National Scenic Byway and has become a gaming and entertainment destination.  With three casino resorts, the city also includes such cultural attractions as the Western Hills Trails Center, [[Union Pacific Railroad]] Museum, historic General Dodge House, and a [[Lewis and Clark]] Monument and scenic overlook. Northwest Iowa is home to some of the largest concentrations of [[wind turbine]] farms in the world. Other western communities with vibrant historic downtown areas include [[Storm Lake, Iowa|Storm Lake]], [[Spencer, Iowa|Spencer]], [[Le Mars, Iowa|Le Mars]], [[Glenwood, Iowa|Glenwood]], [[Carroll, Iowa|Carroll]], [[Atlantic, Iowa|Atlantic]], [[Denison, Iowa|Denison]], [[Creston, Iowa|Creston]], [[Mount Ayr, Iowa|Mount Ayr]], [[Sac City, Iowa|Sac City]], and [[Walnut, Iowa|Walnut]].
+
+===Northeast and Northern Iowa===
+The [[Driftless Area]] of northeast Iowa has many steep hills and deep valleys, checked with forest and terraced fields. [[Effigy Mounds National Monument]] in [[Allamakee County, Iowa|Allamakee]] and [[Clayton County, Iowa|Clayton Counties]] has the largest assemblage of animal-shaped prehistoric mounds in the world. 
+
+[[Image:Fort Atkinson Iowa.jpg|left|thumb|Ruins of historic [[Fort Atkinson State Preserve|Fort Atkinson]].]]
+
+Together, the largest cities in northern Iowa are the twin cities of [[Waterloo, Iowa|Waterloo]] and [[Cedar Falls, Iowa|Cedar Falls]], home of the [[Grout Museum]] and the [[University of Northern Iowa]], respectively.
+
+[[Dubuque, Iowa|Dubuque]] is transforming itself into a regional tourist destination with cultural features such as the [[National Mississippi River Museum and Aquarium]], along with many of the other new businesses booming in the [[Port of Dubuque]], like the [[Diamond Jo Casino]]. Much of the movie [[Field of Dreams|''Field of Dreams'']] was shot in [[Dyersville, Iowa|Dyersville]]. [[Maquoketa Caves State Park]] is located in [[Jackson County, Iowa|Jackson County]], northwest of [[Maquoketa, Iowa|Maquoketa]], which contains more caves than any other state park in Iowa. [[Fort Atkinson, Iowa|Fort Atkinson]] has the remains of an original 1840s [[Dragoon]] fortification. Other communities with vibrant historic downtown areas include [[Decorah, Iowa|Decorah]], [[McGregor, Iowa|McGregor]], [[Mason City, Iowa|Mason City]], [[Elkader, Iowa|Elkader]], [[Algona, Iowa|Algona]], [[Spillville, Iowa|Spillville]], [[Charles City, Iowa|Charles City]], and [[Independence, Iowa|Independence]].
+
+===Statewide===
+[[RAGBRAI]] — the Register's Annual Great Bike Ride Across Iowa — attracts thousands of bicyclists and support personnel. It has crossed the state on various routes each year since 1973. Iowa is home to more than 70 wineries,<ref>ISU Extension Midwest Grape and Wine Industry Institute, http://www.extension.iastate.edu/Wine/Resources/iowawineries.htm</ref> and hosts five regional wine tasting trails.<ref>Iowa Wine Growers Association, https://iowawinegrowers.org/mos/Frontpage/Itemid,1/</ref> Many Iowa communities hold farmers' markets during warmer months, these are typically weekly events, but larger cities can host multiple markets.<ref>Iowa Farmers Market Association, http://www.iafarmersmarkets.org/About_Us.html</ref>
+
+==Economy==
+[[Image:Iowa quarter, reverse side, 2004.jpg|thumb|right|130px|Iowa [[State Quarters|state quarter]] with reverse image based on a painting by American artist [[Grant Wood]]]]
+[[Image:Iowa products 2006.jpg|thumb|left|Iowa gross state products by industry, 2006.<ref>Bureau of Economic Analysis, U.S. Department of Commerce, as presented in the 2007 ''Iowa Factbook'' Des Moines:Iowa Legislative Services Agency.</ref>]]
+While Iowa is often viewed as a farming state, in reality agriculture is a small portion of a diversified economy, with manufacturing, biotechnology, finance and insurance services, and government services contributing substantially to Iowa's economy.<ref name="iowalifechanging.com"/> This economic diversity has helped Iowa weather the [[Late-2000s recession|late 2000s recession]] better than most states, with unemployment substantially lower than the rest of the nation.<ref>Iowa's initial jobless claims grow. ''Des Moines Register'' April 2, 2009,  http://www.desmoinesregister.com/article/20090402/BUSINESS/90402018/-1/NEWS04</ref><ref>City has lowest unemployment in nation, ''Iowa City Press-Citizen'' May 5., 2009,http://www.press-citizen.com/article/20090604/NEWS01/906040336/1079/news01</ref>
+
+If the economy is measured by gross domestic product, in 2005 Iowa's GDP was about US $124 billion.<ref>Iowa State University. [http://www.recap.iastate.edu/atlas/industries/gdp-by-state-industry.php Gross domestic product by sector and state]. Regional Capacity Analysis Program. Retrieved on: April 26, 2008.</ref>  
+If measured by gross state product, for 2005 it was US $113.5 billion.<ref name="Facts">{{cite web|url=http://www.statelibraryofiowa.org/datacenter/quickfacts|title=Iowa Quick Facts — State Data Center<!-- Bot generated title -->}}</ref> Its [[per capita income]] for 2006 was US $23,340.<ref name="Facts"/>
+
+On July 2, 2009, [[Standard and Poor's]] rated the state of Iowa's credit as AAA (the highest of its credit ratings, held by only 11 U.S. state governments). <ref>Iowa officials tout credit rating, argue it shows state's finances are strong, ''Associated Press'' July 3, 2009,http://www.timesrepublican.com/page/content.detail/id/84311.html?isap=1&nav=5013</ref>
+
+===Manufacturing===
+Manufacturing is the largest sector of Iowa's economy, with $20.8 billion (21%) of Iowa’s 2003 gross state product. Major manufacturing sectors include food processing, heavy machinery, and agricultural chemicals.  Sixteen percent of Iowa’s workforce is dedicated to manufacturing.<ref name="iowalifechanging.com"/> Food processing is the largest component of manufacturing.  Its industrial outputs include food processing, machinery, electric equipment, chemical products, publishing, and primary metals. Companies with direct or indirect processing facilities in Iowa include [[ConAgra Foods]], [[Wells Dairy|Wells Blue Bunny]], [[Barilla]], [[H. J. Heinz Company|Heinz]], [[Wonder Bread]]/[[Hostess]] Snack Cakes, Tone’s Spices, [[General Mills]], and [[Quaker Oats]].  Major non-food advanced manufacturing firms with production facilities in Iowa include [[3M]], [[ALCOA]], [[Amana Corporation]], Dexter Apache Holdings, Inc., [[Electrolux]]/[[Frigidaire]], [[Emerson Process Management|Emerson Process]], [[Fisher Controls|Fisher Controls International]], [[HON Industries]], IPSCO Steel, [[John Deere]], [[Lenox (company)|Lennox Manufacturing]], [[Maytag Corporation]], [[Pella (company)|Pella Corporation]], [[Rockwell Collins]], [[Vermeer Company]], and [[Winnebago Industries]].
+
+===Agriculture===
+[[Image:Ethanol butler co iowa.jpg|thumb|right|Ethanol plant under construction, [[Butler County, Iowa]].]]
+Directly and indirectly, agriculture has always been a major component of Iowa's economy. However, the direct production and sale of raw agricultural products contributes only about 3.5% of Iowa's gross state product.<ref> 2007 ''Iowa Factbook'' p. 59, Des Moines:Iowa Legislative Services Agency.</ref> The indirect role of agriculture in Iowa's economy can be measured in multiple ways, but its total impact, including agriculture-affiliated business, has been measured at 16.4% in terms of value added and 24.3% in terms of total output. This is lower than the economic impact in Iowa of non-farm manufacturing, which accounts for 22.4% of total value added and 26.5% of total output.<ref>{{cite web|url=http://ideas.repec.org/p/isu/genres/10180.html|title=Multiple Measures of the Role of Agriculture in Iowa's Economy}}</ref>  Iowa's main agricultural outputs are [[pig|hogs]], [[maize|corn]], [[soybean]]s, [[oat]]s, [[cattle]], eggs, and [[dairy]] products. Iowa is the nation's largest producer of [[ethanol]] and [[maize|corn]].  Major Iowa agricultural product processors include [[Cargill, Inc.]], [[Pioneer Hi-Bred International]], [[Monsanto Company]], [[Ajinomoto]], [[Hy-Vee]], Garst Seed Company, and Heartland Pork Enterprises.
+
+===Other sectors===
+[[Image:Turbines iowa.jpg|thumb|left|Wind turbines near [[Williams, Iowa|Williams]].]]
+Iowa also has a strong financial and insurance sector, with approximately 6,100 firms<ref name="iowalifechanging.com"/>, including [[AEGON]], [[Nationwide Mutual Insurance Company|Nationwide Group]], [[Aviva|Aviva USA]], [[Nationwide Mutual Insurance Company|Farm Bureau Financial Services]], [[ING Group|ING]], [[Marsh & McLennan Companies|Marsh Affinity Group]], [[MetLife]], [[Principal Financial Group]], [[Principal Capital Management]], Wellmark Blue Cross & Blue Shield (which, according to the American Medical Association, provided 71% of the state's health insurance in 2007)<ref>Competition in Health Insurance: 2007 update || https://catalog.ama-assn.org/Catalog/product/product_detail.jsp?productId=prod1350008</ref>, [[Wells Fargo]], and Wells Fargo Financial Services.  Biotechnology has expanded dramatically in Iowa in the past decade, with firms including Bio-Research Products Inc., [[Boehringer Ingelheim]], [[Boehringer-Ingelheim|Vetmedica]], Diosynth, Inc., [[Wyeth|Fort Dodge Animal Health]], Penford Products Co., [[IDT Corp.]], [[Roche Applied Science]], [[Wacker Chemie|Wacker Biochem Corp.]], and [[Wyeth]].  In addition to ethanol, renewable energy has become a major economic force in western Iowa, with [[wind turbine]] electrical generation increasing exponentally since 1990.<ref name="energy.iastate.edu"/> As of 2008, wind accounted for 15% of energy produced and 7.1% of the state's power needs; Iowa ranked second in wind generating capacity of U.S. states.<ref>Report: Iowa's Wind Leadership not hurting consumers. ''Cedar Rapids Gazette'' April 14, 2009, p. 8B.</ref> Major producers of turbines and componets in Iowa include [[Acciona Energy]] of [[West Branch, Iowa|West Branch]], TPI Composites of [[Newton, Iowa|Newton]], and [[Siemens]] Energy of [[Fort Madison]].
+
+Iowa is the headquarters for seven of the top 1,000 companies for revenue.<ref>{{cite web|url=http://money.cnn.com/magazines/fortune/fortune500/states/I.html|title=FORTUNE 500 2006: States<!-- Bot generated title -->}}</ref> They include [[Principal Financial]], [[Rockwell Collins]], [[Casey's]] General Stores, [[HNI]], ACT (which was called "American College Testing" until 1996), and John Deere.  Iowa is also headquarters to other companies including [[Hy-Vee]], [[Pella (company)|Pella Corporation]], [[Vermeer Company]], [[Kum & Go]] gas stations, [[Von Maur]], [[Pioneer Hi-Bred]], [[McLeodUSA]], and [[Fareway]] grocery stores, among others.
+
+===Taxation===
+Iowa imposes taxes on net state income of individuals and estates and trusts. There are currently nine [[income tax]] brackets, ranging from 0.36% to 8.98%. The state [[sales tax]] rate is 6%, with non-prepared food having no tax.<ref>Iowa Department of Revenue, Iowa Tax / Fee Descriptions and Rates, http://www.iowa.gov/tax/taxlaw/taxtypes.html#sales</ref> Iowa has two local option sales taxes that may be imposed by counties after an election, a ''regular'' local option tax and a ''school infrastructure'' local option tax.<ref>Iowa Department of Revenue, Iowa Local Option Tax Information, http://www.iowa.gov/tax/educate/localoption.html</ref> Property tax is levied on the taxable value of real property, Iowa has more than 2,000 taxing authorities. Most property is taxed by more than one taxing authority. The tax rate differs in each locality and is a composite of county, city or rural township, [[school district]] and special levies. Iowa allows its residents to deduct their [[federal income tax]]es from their state income taxes.<ref>{{cite web|url=http://www.desmoinesregister.com/apps/pbcs.dll/article?AID=2009905300328|title=No tax increases planned for next year, Culver says|author=Thomas Beaumont|work=[[The Des Moines Register]]|date=2009-05-30|accessdate=2009-05-31}}</ref>
+
+==Transportation==
+[[File:Iowa license plate.gif|thumb|left|The current [[Vehicle registration plates of Iowa|state license plate]] design, introduced in 1996.]]
+===Interstate highways===
+[[Image:Iowa overview.jpg|thumb|right|300px|Iowa's major interstates, larger cities, and counties.]]
+Iowa has four primary [[interstate highways]]. [[Interstate 29]] runs along the western edge of the state through [[Council Bluffs]] and [[Sioux City, Iowa|Sioux City]]. [[Interstate 35]] goes from the southern border to the northern border through the center of the state, including [[Des Moines, Iowa|Des Moines]]. [[Interstate 74]] begins at [[Interstate 80]] just north and east of [[Davenport, Iowa|Davenport]].  [[Interstate 80]] goes from the west end of the state to the east end through [[Council Bluffs, Iowa|Council Bluffs]], Des Moines, [[Iowa City, Iowa|Iowa City]], and the [[Quad Cities]]. [[Interstate 380 (Iowa)|Interstate 380]] is an [[List of auxiliary Interstate Highways|auxiliary Interstate Highway]], which runs from Interstate 80 near Iowa City through [[Cedar Rapids, Iowa|Cedar Rapids]] ending in [[Waterloo, Iowa|Waterloo]] and is part of the [[Avenue of the Saints]] highway.
+
+===Airports with scheduled flights===
+Iowa is served by several major airports including the [[Des Moines International Airport]], the [[Eastern Iowa Airport]], in Cedar Rapids, [[Quad City International Airport]], which is located in [[Moline, Illinois]], and [[Eppley Airfield]], located in [[Omaha, Nebraska]]. Smaller airports in the state include the [[Dubuque Regional Airport]], [[Fort Dodge Regional Airport]], [[Mason City Municipal Airport]], [[Sioux Gateway Airport]], [[Southeast Iowa Regional Airport]], and [[Waterloo Regional Airport]].
+
+===Railroads===
+[[Amtrak]]'s ''[[California Zephyr]]'' serves the south of Iowa with stops at [[Burlington, Iowa|Burlington]], [[Mount Pleasant, Iowa|Mount Pleasant]], [[Ottumwa, Iowa|Ottumwa]], [[Osceola, Iowa|Osceola]], and [[Creston, Iowa|Creston]] on its daily route between [[Chicago, Illinois|Chicago]] and [[Emeryville, California]] (across the bay from [[San Francisco, California|San Francisco]]). Burlington and [[Fort Madison, Iowa|Fort Madison]] are also served by Amtrak's ''[[Southwest Chief]]'', running daily between Chicago and [[Los Angeles, California|Los Angeles]].
+
+==Law and government==
+[[Image:Iowa capitol.jpg|thumb|250px|Capitol in 2003 after regilding]]
+:''See [[List of Governors of Iowa]], [[Iowa General Assembly]], and [[Iowa State Capitol]]''
+The current Governor is [[Chet Culver]] (D)
+
+Other statewide elected officials are:
+*[[Patty Judge]] (D) - Lieutenant Governor
+*[[Michael Mauro]] (D) - Secretary of State
+*[[David Vaudt]] (R) - Auditor of State
+*[[Michael Fitzgerald (Iowa politician)|Michael Fitzgerald]] (D) - Treasurer of State
+*[[Bill Northey]] (R) - Secretary of Agriculture
+*[[Thomas John Miller|Tom Miller]] (D) - Attorney General
+
+The two U.S. Senators:
+{{See|List of United States Senators from Iowa}}
+*[[Tom Harkin]] (D)
+*[[Chuck Grassley]] (R)
+
+The five U.S. Congressmen:
+*[[Bruce Braley]] (D) - [[Iowa's 1st congressional district|First District]]
+*[[Dave Loebsack]] (D) - [[Iowa's 2nd congressional district|Second District]]
+*[[Leonard Boswell]] (D) - [[Iowa's 3rd congressional district|Third District]]
+*[[Tom Latham]] (R) - [[Iowa's 4th congressional district|Fourth District]]
+*[[Steve King]] (R) - [[Iowa's 5th congressional district|Fifth District]]
+
+The [[Code of Iowa]] contains the [[statutory law]]s of the State of Iowa. It is periodically updated by the Iowa Legislative Service Bureau, with a new edition published in odd-numbered years and a supplement published in even-numbered years.
+
+Iowa is an alcohol monopoly or [[Alcoholic beverage control state]].
+
+===Political parties===
+{{Main|Political party strength in Iowa}}
+[[Image:Samuel Jordan Kirkwood.jpg|thumb|left|[[Samuel J. Kirkwood]], founder of the Iowa Republican Party, abolitionist, and Iowa's Civil War governor.]]
+
+In Iowa, the term "political party" refers to political organizations which have received two percent or more of the votes cast for president or governor in the "last preceding general election".<ref>{{cite web
+| url = http://www.sos.state.ia.us/pdfs/elections/FormingPoliticalParty.pdf
+| title = Forming a New Political Party in Iowa
+| accessdate = 2007-07-26
+| format = PDF
+| publisher = Elections Division, [[Iowa Secretary of State]]
+}}</ref> Iowa recognizes two political parties - the [[Republican Party of Iowa|Republican Party]] and the [[Iowa Democratic Party|Democratic Party]]. [[Third party (politics)|Third parties]], officially termed "nonparty political organizations" can appear on the ballot as well - five of these have had candidates on the ballot in Iowa since 2004 for various positions: the [[Constitution Party (United States)|Constitution Party]], the [[Green Party (United States)|Iowa Green Party]], the [[Libertarian Party (United States)|Libertarian Party]], the [[Pirate Party#International|Pirate Party]], and the [[Socialist Workers Party (United States)|Socialist Workers Party]].<ref>{{cite web
+| url = http://www.sos.state.ia.us/pdfs/GenOffResults.pdf
+| title = Official Results Report - Statewide: 2006 General Election
+| accessdate = 2007-07-26
+| format = PDF
+| publisher = [[Iowa Secretary of State]]
+}}</ref><ref>{{cite web
+| url = http://www.sos.state.ia.us/pdfs/elections/2004/general/CanvassSummary.pdf
+| title = Canvass Summary: 2004 General Election
+| accessdate = 2007-07-26
+| format = PDF
+| publisher = [[Chet Culver|Chester J. Culver]], [[Iowa Secretary of State]]
+}}</ref>
+
+===Voter trends===
+{| align="right" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 79%;"
+|+ '''Presidential elections results'''
+|- bgcolor = lightgrey
+! Year
+! [[Republican Party (United States)|Republican]]
+! [[Democratic Party (United States)|Democratic]]
+|-
+| align="center" bgcolor="#f0f0ff"|[[United States presidential election, 2008|2008]]
+| align="center" bgcolor="#fff3f3"|44.74% ''677,508
+| align="center" bgcolor="#f0f0ff"|'''54.04%''' ''818,240
+|-
+| align="center" bgcolor="#fff3f3"|[[United States presidential election, 2004|2004]]
+| align="center" bgcolor="#fff3f3"|'''49.92%''' ''751,957
+| align="center" bgcolor="#f0f0ff"|49.28% ''741,898
+|-
+| align="center" bgcolor="#f0f0ff"|[[United States presidential election, 2000|2000]]
+| align="center" bgcolor="#fff3f3"|48.22% ''634,373
+| align="center" bgcolor="#f0f0ff"|'''48.60%''' ''638,517
+|-
+| align="center" bgcolor="#f0f0ff"|[[United States presidential election, 1996|1996]]
+| align="center" bgcolor="#fff3f3"|39.92% ''492,644
+| align="center" bgcolor="#f0f0ff"|'''50.31%''' ''620,258
+|-
+| align="center" bgcolor="#f0f0ff"|[[United States presidential election, 1992|1992]]
+| align="center" bgcolor="#fff3f3"|37.33% ''504,890
+| align="center" bgcolor="#f0f0ff"|'''43.35%''' ''586,353
+|-
+| align="center" bgcolor="#f0f0ff"|[[United States presidential election, 1988|1988]]
+| align="center" bgcolor="#fff3f3"|44.8% ''545,355
+| align="center" bgcolor="#f0f0ff"|'''55.1%''' ''670,557
+|-
+| align="center" bgcolor="#fff3f3"|[[United States presidential election, 1984|1984]]
+| align="center" bgcolor="#fff3f3"|'''53.32%''' ''703,088
+| align="center" bgcolor="#f0f0ff"|45.97% ''605,620
+|-
+|}
+Iowa is currently listed as a [[swing state]] in national politics. The state currently leans slightly [[Democratic]], according to the [[Cook Partisan Voting Index]], which by analyzing recent elections gives Iowa a score of D+1. However, the state is far from homogeneous in its political leanings; Cook finds that Iowa's five political districts range in political orientation. [[Iowa's 2nd congressional district]], in the Eastern/Southeastern part of the state, leans distinctly Democratic, with a D+7 (strong Democratic) score; but [[Iowa's 5th congressional district]], which covers most of Western Iowa, leans strongly Republican, scoring R+9.
+
+From 1968 to 1984, Iowa voted for the Republican candidate in the presidential election, and from 1988 to 2000 the state voted for the Democrat; in the latter election, the Democratic candidate won by little more than 1000 votes. In the [[United States presidential election, 2004|2004]] election, Iowa went by about 10,000 votes for [[George W. Bush]] but in [[United States presidential election, 2008|2008]], [[Barack Obama]] won by a much larger margin of about 150,000 votes.
+
+In the 2006 elections, the Iowa Democrats gained two seats in the Iowa delegation to the [[United States House of Representatives]], and Democrats won a majority in both houses of the [[Iowa General Assembly]].
+
+===Presidential caucus===
+{{Main|Iowa caucus}}
+The state gets considerable attention every four years because it holds the first presidential [[Iowa caucus|caucuses]], gatherings of voters to select delegates to the state conventions. Along with the [[New Hampshire primary]] the following week, Iowa's caucuses have become the starting points for choosing the two major-party candidates for president. The caucuses, held in January of the election year, involve people gathering in homes or public places and choosing their candidates, rather than casting secret ballots as is done in a [[Presidential primary|primary]] [[election]]. The national and international media give Iowa (and [[New Hampshire]]) much of the attention accorded the national candidate selection process, which gives Iowa voters enormous leverage. Those who enter the caucus race often expend enormous effort to reach voters in each of Iowa's 99 counties.
+
+===Civil rights===
+[[Image:union block.jpg|thumb||The [[Union Block (Mount Pleasant, Iowa)|Union Block]] building, [[Mount Pleasant, Iowa|Mount Pleasant]], scene of early civil rights and women’s rights activities. Listed as one of the most endangered historic sites in Iowa.<ref>[[Iowa Historic Preservation Alliance]]: Iowa’s Most Endangered Historic Sites, http://www.iowapreservation.org/endangered.php</ref>]]
+In the 19th century Iowa was among the earliest states to enact prohibitions against race discrimination, especially in education, but was slow to achieve full integration in the 20th century. In the very first decision of the [[Iowa Supreme Court]] — ''In Re the Matter of Ralph'',<ref>1 Morris 1 (Iowa 1839)</ref> decided July 1839 — the Court rejected slavery in a decision that found that a slave named Ralph became free when he stepped on Iowa soil, 26 years before the end of the Civil War.<ref name="civil rights">http://www.judicial.state.ia.us/Public_Information/Iowa_Courts_History/Civil_Rights/</ref> The state did away with racial barriers to marriage in 1851, more than 100 years before the U.S. Supreme Court would ban [[Anti-miscegenation laws|miscegenation statutes]] nationwide.<ref name="ChicagoTrib">[http://www.chicagotribune.com/news/chi-defending-iowa-web,0,2979128.story Gay marriage and Iowa: Why's everyone so surprised?], [[Chicago Tribune]], April 10, 2009</ref> The Iowa Supreme Court decided ''Clark v. The Board of Directors''<ref>24 Iowa 266 (1868)</ref> in 1868, ruling that racially segregated “separate but equal” schools had no place in Iowa, 85 years before ''[[Brown v. Board of Education]]''.<ref name="civil rights" /> By 1875 a number of additional court rulings effectively ended segregation in Iowa schools.<ref>{{cite journal|last=Brodnax|first=David|date=2004|title=The Equality of Right: Alexander Clark and the Desegregation of Iowa’s Public Schools, 1834-1875|journal=Law and Society Association|url=http://www.allacademic.com/meta/p_mla_apa_research_citation/1/1/7/4/2/p117420_index.html}}</ref> Social and housing discrimination continued against Blacks at state universities until the 1950s.<ref>Breaux, Richard M. (2004) "Maintaining a Home for Girls": The Iowa Federation of Colored Women's Clubs at the University of Iowa 1919-1950, ''Cultural Capital and Black Education'' ed. V.P. Franklin and C.J. Savage. Information Age, Greenwich</ref> The Court heard ''Coger v. The North Western Union Packet Co.''<ref>37 Iowa 145 (1873)</ref> in 1873, ruling against racial discrimination in public accommodations 91 years before the U.S. Supreme Court reached the same decision.<ref name="civil rights" /> In 1884, the Iowa Civil Rights Act apparently outlawed discrimination by businesses, reading: "All persons within this state shall be entitled to the full and equal enjoyment of the accommodations, advantages, facilities, and privileges of inns, restaurants, chophouses, eating houses, lunch counters, and all other places where refreshments are served, public conveyances, barber shops, bathhouses, theaters, and all other places of amusement." However, the courts chose to narrowly apply this act, allowing de-facto discrimination to continue.<ref>Iowa Civil Rights Commission, http://www.iowa.gov/government/crc/docs/annual66activities.html</ref> Racial discrimination at public businesses was not deemed illegal until 1949, when the court ruled in ''[[State of Iowa v. Katz]]'' that businesses had to serve customers regardless of race; the case began when [[Edna Griffin]] was denied service at a Des Moines drugstore.<ref>African-Americans in Iowa, 1838-2005, http://www.iptv.org/IowaPathways/myPath.cfm?ounid=ob_000238</ref> Full racial civil rights were codified under the Iowa Civil Rights Act of 1965.<ref>Iowa Civil Rights Commission http://www.state.ia.us/government/crc/publications/brochures/english_brochure.html</ref>
+
+As with racial equality, Iowa was a vanguard in women's rights in the mid 19th century, but was slow to give women the right to vote. In 1847, the [[University of Iowa]] became the first public university in the U.S. to admit men and women on an equal basis.<ref>About Iowa, http://www.uiowa.edu/homepage/about-UI/index.html</ref> In 1869, Iowa became the first state in the union to admit women to the practice of law, with the Court ruling that women may not be denied the right to practice law in Iowa and admitting [[Arabella A. Mansfield]] to the practice of law.<ref name="civil rights" /> Several attempts to grant full voting rights to Iowa women were defeated between 1870 and 1919. In 1894 women were given "partial suffrage", which allowed them to vote on issues, but not for candidates. It was not until the [[Nineteenth Amendment to the United States Constitution]] was ratified in 1920 that women had full suffrage in Iowa.<ref>The Fight for Women's Suffrage, http://www.iptv.org/iowapathways/myPath.cfm?ounid=ob_000320</ref> Although Iowa supported the Federal [[Equal Rights Amendment]], in 1980 and 1992 Iowa voters rejected an Equal Rights Amendment to the state constitution.<ref>How Did Iowa Coalitions Campaign for the Equal Rights Amendment in 1980 and 1992? http://womhist.alexanderstreet.com/iowaera/intro.htm</ref>
+
+Post-[[Civil Rights era]] court decisions in Iowa clarified and expanded citizens' rights. The landmark U.S. Supreme Court case [[Tinker v. Des Moines Independent Community School District|Tinker v. Des Moines]] (1969) confirmed the right of students to express political views. On April 3, 2009, the Iowa Supreme Court decided ''[[Varnum v. Brien]]'',<ref>WL 874044
+(Iowa 2009) (Publication to N.W.2d pending as of April 09, 2009.)</ref> holding in a [[unanimous]] decision,<ref>http://iowaindependent.com/13495/iowa-supreme-court-same-sex-couples-can-marry-in-iowa</ref> that the state’s law forbidding [[same-sex marriage]] was [[unconstitutional]].  This makes Iowa the third state in the U.S. and first in the Midwest to permit same-sex marriage.<ref>http://hrcbackstory.org/2009/04/breaking-iowa-supreme-court-rules-in-favor-of-marriage-equality</ref>
+<ref>[http://blogs.usatoday.com/ondeadline/2009/04/iowa-court-upholds-gay-marriage.html USA Today, Iowa Court Upholds Gay Marriage]</ref>
+
+==Sister states==
+Iowa has seven official partner states:<ref>{{cite web|url=http://www.iowasisterstates.org/|title=Iowa Sister States<!-- Bot generated title -->}}</ref>
+
+*[[Hebei]] Province, People's Republic of China (1983)
+*[[Stavropol Krai]], Russia (1989)
+*[[Taiwan]], Republic of China (1989)
+*[[Terengganu]], Malaysia (1987)
+*[[Veneto]] Region, Italy (1997)
+*[[Yamanashi Prefecture]], Japan (1960)
+*[[Yucatán]], Mexico (1964)
+
+==Education==
+===Primary and secondary schools===
+
+{{See also|List of school districts in Iowa}}
+
+The graduation rate for high school seniors has gradually increased to 90.8% in 2006.<ref name="Report">{{cite web | title = The State Report Card For No Child Left Behind| publisher = Iowa Department of Education| url = http://www.iowa.gov/educate/index2.php?option=com_docman&task=doc_view&gid=4184&Itemid=55| date = | accessdate =2008-01-23 }}</ref> The state has the third highest graduation rate in the nation.<ref name="UHF">{{cite web | title = High School Graduation| publisher = United Health Foundation| url = http://www.unitedhealthfoundation.com/shr2005/components/hsgrad.html| date = | accessdate =2008-01-23 }}</ref> Iowa continually ranks in the top 3 for [[ACT (examination)|ACT]] and [[SAT]] scores.<ref name="Schools">{{cite web | title = Quick Facts about Iowa Schools| publisher = Iowa Department of Education| url = http://www.iowa.gov/educate/content/view/281/1003/| date = | accessdate =2008-01-23 }}</ref> In 2008, Iowa ranked top in the nation for average [[SAT]] scores per student and second in the nation for average [[ACT (examination)|ACT]] scores per student.<ref name="2008 SAT scores">{{cite web | title = News Releases| publisher = Iowa Department of Education| url = http://www.iowa.gov/educate/index.php?option=com_docman&task=cat_view&gid=430&dir=DESC&order=name&Itemid=99999999&limit=20&limitstart=20| date = | accessdate =2009-01-22 }}</ref> Iowa has 365 school districts,<ref name="Schools"/> and has the twelfth best student to teacher ratio of 13.8 students per teacher.<ref name="NEA"/> Teacher's pay, however, is ranked forty-second with the average salary being $39,284.<ref name="NEA">{{cite web | title = Education Stats| publisher = National Education Association| url = http://www.nea.org/edstats/RankFull06b.htm| date = | accessdate =2008-01-23 }}</ref> 
+
+The Iowa State Board of Education works with the Iowa Department of Education to provide oversight, supervision, and support for the state's education system that includes all public elementary and secondary schools, nonpublic schools that receive state accreditation, area education agencies, community colleges, and teacher preparation programs.  The State Board consists of ten members: nine voting members who are appointed by the governor for six-year terms and subject to Senate confirmation; and one nonvoting student member who serves a one-year term, also appointed by the governor.
+
+===Colleges and universities===
+
+{{See also|List of colleges and universities in Iowa}}
+[[Image:Fountain of Four Seasons.jpg|right|thumb|Fountain of Four Seasons and Campanile at [[Iowa State University]] in [[Ames, Iowa|Ames]].]]
+The Iowa Board of Regents is composed of nine citizen volunteers appointed by the governor to provide policymaking, coordination, and oversight of the state's public universities, two special K-12 schools, and affiliated centers.
+
+Iowa's three public universities include:
+
+*[[Iowa State University]], [[Ames, Iowa|Ames]]
+*[[University of Iowa]], [[Iowa City, Iowa|Iowa City]]
+*[[University of Northern Iowa]], [[Cedar Falls, Iowa|Cedar Falls]]
+
+The special K-12 schools include the Iowa School for the Deaf in [[Council Bluffs, Iowa|Council Bluffs]] and the [[Iowa Braille and Sight Saving School]] in [[Vinton, Iowa|Vinton]].  Both [[Iowa State University]] and the [[University of Iowa]] are major research institutions and members of the prestigious [[Association of American Universities]]. In addition to the three state universities, Iowa has multiple private colleges and universities.
+
+Private colleges and universities include:
+*[[Buena Vista University]], [[Storm Lake, Iowa|Storm Lake]]
+*[[Clarke College]], [[Dubuque, Iowa|Dubuque]]
+*[[Des Moines University]], [[Des Moines, Iowa|Des Moines]]
+*[[Divine Word College]], [[Epworth, Iowa|Epworth]]
+*[[Drake University]], Des Moines
+*[[Emmaus Bible College]], Dubuque
+*[[Faith Baptist Bible College and Theological Seminary]], [[Ankeny, Iowa|Ankeny]]
+*[[Graceland University]], [[Lamoni, Iowa|Lamoni]]
+*[[Iowa Wesleyan College]], [[Mount Pleasant, Iowa|Mount Pleasant]]
+*[[Kaplan University]], [[Cedar Falls, Iowa|Cedar Falls]], [[Cedar Rapids, Iowa|Cedar Rapids]], [[Council Bluffs, Iowa|Council Bluffs]], [[Davenport, Iowa|Davenport]], [[Mason City, Iowa|Mason City]], and [[Urbandale, Iowa|Urbandale]]
+*[[Maharishi University of Management]], [[Fairfield, Iowa|Fairfield]]
+*[[Palmer College of Chiropractic]], Davenport
+*[[Saint Ambrose University]], Davenport
+*[[University of Dubuque]], Dubuque
+*[[Upper Iowa University]], [[Fayette, Iowa|Fayette]]
+*[[Waldorf College]], [[Forest City, Iowa|Forest City]]
+*[[William Penn University]], [[Oskaloosa, Iowa|Oskaloosa]]
+
+Private liberal arts colleges include:
+*[[Ashford University]], [[Clinton, Iowa|Clinton]]
+*[[Briar Cliff University]], [[Sioux City, Iowa|Sioux City]]
+*[[Central College]], [[Pella, Iowa|Pella]]
+*[[Coe College]], [[Cedar Rapids, Iowa|Cedar Rapids]]
+*[[Cornell College]], [[Mount Vernon, Iowa|Mount Vernon]]
+*[[Dordt College]], [[Sioux Center, Iowa|Sioux Center]]
+*[[Grand View University]], [[Des Moines, Iowa|Des Moines]]
+*[[Grinnell College]], [[Grinnell, Iowa|Grinnell]]
+*[[Loras College]], [[Dubuque, Iowa|Dubuque]]
+*[[Luther College]], [[Decorah, Iowa|Decorah]]
+*[[Morningside College]], Sioux City
+*[[Mount Mercy College]], Cedar Rapids
+*[[Northwestern College]], [[Orange City, Iowa|Orange City]]
+*[[Simpson College]], [[Indianola, Iowa|Indianola]]
+*[[Wartburg College]], [[Waverly, Iowa|Waverly]]
+
+==Sports==
+{{See also|Sports teams from Iowa}}
+Iowa has professional sports teams in all major sports, including baseball, football, hockey, basketball, soccer, and wrestling. The state has four major college teams playing in [[Division I]] for all sports.  In football, [[Iowa State University]] and the [[University of Iowa]] compete in the [[Division I#Football Bowl Subdivision|Football Bowl Subdivision]] (FBS), whereas the [[University of Northern Iowa]] and [[Drake University]] compete in the [[Division I#Football Championship Subdivision|Football Championship Subdivision]] (FCS).
+
+===Baseball===
+Iowa has four Class A [[Minor league baseball|minor league]] teams in the [[Midwest League]]. They are the [[Burlington Bees]], [[Cedar Rapids Kernels]], [[Clinton LumberKings]], and the [[Quad Cities River Bandits]]. The [[Sioux City Explorers]] are part of the [[American Association of Independent Professional Baseball]]. The [[Waterloo Bucks]] play in the [[Northwoods League]]. [[Des Moines]] is home to the [[Iowa Cubs]], a Class AAA team in the [[Pacific Coast League]].
+
+===Football===
+The [[Sioux City Bandits]] are an [[Indoor football]] team in the [[United Indoor Football]] League. The [[Quad City Steamwheelers]] are an [[af2]] football team whose home games are played in [[Moline, Illinois]]. The [[Iowa Barnstormers (AF2)|Iowa Barnstormers]] resumed play after a seven season layoff in the [[af2]] football league. They play their home games at Wells Fargo Arena.
+
+===Hockey===
+The [[Quad City Mallards]] games are played in [[Moline, Illinois]] are part of the [[International Hockey League]].
+
+The [[United States Hockey League]] has four teams in Iowa: the [[Cedar Rapids RoughRiders]], [[Sioux City Musketeers]], [[Waterloo Black Hawks]], and [[Des Moines Buccaneers]].  The [[Omaha Lancers]] previously played in [[Council Bluffs, Iowa|Council Bluffs]] from 2002 to 2009, but have since moved back to [[Omaha, Nebraska]]. The [[North Iowa Outlaws]] play in the [[North American Hockey League]] in [[Mason City, Iowa|Mason City]]
+
+===Basketball===
+Iowa has two professional basketball teams. The [[Iowa Energy]], an [[NBA Development League]] team that plays in [[Des Moines]], is affiliated with the [[Chicago Bulls]] and [[Phoenix Suns]] of the [[National Basketball Association|NBA]].  The [[Quad Cities Riverhawks]] of the [[Premier Basketball League]] are based in [[Davenport, Iowa|Davenport]], but play at [[Wharton Field House]] in [[Moline, Illinois]].
+
+===Soccer===
+The [[Des Moines Menace]] play their home games at Valley Stadium on the grounds of [[Valley High School (West Des Moines, Iowa)|Valley High School]] in [[West Des Moines, Iowa|West Des Moines]].
+
+===College===
+The state has four NCAA Division I college teams. In [[Football_Bowl_Subdivision|NCAA FBS]] The [[Iowa State University]] [[Iowa State Cyclones|Cyclones]] of the [[Big 12 Conference]] and the [[University of Iowa]] [[Iowa Hawkeyes|Hawkeyes]] of the [[Big Ten Conference]]. In [[Division_I#Football_Championship_Subdivision|NCAA FCS]] the [[University of Northern Iowa]] [[Northern Iowa Panthers|Panthers]] of the [[Missouri Valley Conference]], and the [[Drake University]] [[Drake Bulldogs|Bulldogs]] of the [[Missouri Valley Conference]] (basketball) and [[Pioneer Football League|Pioneer League]] (football).
+
+==Notable Iowans==
+<!-- STOP!  Before adding to the list, consider if the article [[List of people from Iowa]] would be more appropriate.  See the talk page for guidelines about who is notable enough to be listed here  -->
+[[Image:HerbertClarkHoover.jpg|thumb|left|President [[Herbert Hoover]].]]
+[[Image:HenryAgardWallace.jpg|thumb|right|Vice President [[Henry Wallace]].]]
+{{Main|List of people from Iowa}}
+Iowa has been the birthplace of [[List of Presidents of the United States|U.S. President]] [[Herbert Hoover]], [[Vice President of the United States|Vice-president]] [[Henry A. Wallace]], and two [[first ladies]], [[Lou Henry Hoover]] and [[Mamie Eisenhower]]. Other national leaders who lived in Iowa include [[John L. Lewis]], [[Harry Hopkins]], [[Carrie Chapman Catt]], and [[Jefferson Davis]].
+
+Three [[Nobel Prize]] winners hail from Iowa: [[Norman Borlaug]], recipient of the [[Nobel Peace Prize]]; [[Alan J. Heeger]], recipient of the [[Nobel Prize in Chemistry]]; and [[Stanley B. Prusiner]], recipient of the [[Nobel Prize in Physiology or Medicine]]. Other notable scientists who worked or were born in Iowa include astronomer and space pioneer [[James A. Van Allen]], ecologist [[Aldo Leopold]], computer pioneer [[John Vincent Atanasoff]], inventor and plant scientist [[George Washington Carver]], geochemist [[Clair Cameron Patterson]], and [[Intel]] founder [[Robert Noyce]].
+
+Notable writers, artists, and news personalities born in Iowa include [[Bill Bryson]], [[George Gallup]], [[Ann Landers]], [[Harry Reasoner]], [[Abigail Van Buren]], and [[Grant Wood]]. Entertainers from Iowa include [[Tom Arnold (actor)|Tom Arnold]], [[Bix Beiderbecke]], [[Johnny Carson]], [[Buffalo Bill Cody]], [[Simon Estes]], [[Ashton Kutcher]], [[Cloris Leachman]], [[Glenn Miller]], [[Donna Reed]], [[Corey Taylor]], [[John Wayne]], [[Andy Williams]], [[Meredith Willson]], and [[Elijah Wood]].
+
+Famous Iowa athletes include [[Bob Feller]], [[Dan Gable]], [[Frank Gotch]], [[Shawn Johnson]], [[Zach Johnson]], [[Nile Kinnick]], and [[Kurt Warner]].
+
+==State symbols==
+[[Image:Carduelis-tristis-002.jpg|thumb|right|200px|[[Eastern Goldfinch]], Iowa state bird.]]
+
+*Nickname: The [[Hawkeye State]]<ref>{{cite web | title=Iowa State Nickname - The Hawkeye State | url=http://www.statesymbolsusa.org/Iowa/nickname_hawkeye.html |  dateformat=mdy |accessdate=November 2, 2009}}</ref><ref>{{cite web | title=State Nicknames | url=http://www.50states.com/bio/nickname2.htm |  dateformat=mdy |accessdate=November 2, 2009}}</ref>
+*Bird: [[Eastern Goldfinch]]<ref name="statesymbols"/>
+*Flower: [[Rosa_arkansana|Wild Rose]]<ref name="statesymbols"/>
+*Grass: [[Bluebunch Wheatgrass]]<ref name="Census_Facts4Students">{{cite web | url = http://www.census.gov/schools/facts/iowa.html | title = State Facts for Students - Iowa | accessdate = 2007-11-20 | publisher = U.S. Census Bureau }}</ref>
+*Tree: [[Oak]]<ref name="statesymbols"/>
+*Motto: "Our liberties we prize and our rights we will maintain."<ref name="statesymbols"/>
+*Rock: [[Geode]]<ref name="statesymbols">{{cite web | title=Iowa General Assembly - Iowa State Symbols | url=http://www.legis.state.ia.us/Pubinfo/StateSymbols/ | publisher=www.legis.state.ia.us | dateformat=mdy | accessdate=November 24, 2006}}</ref>
+
+==See also==
+<!-- {{portal|Iowa|Flag of Iowa.svg}} -->
+{{Main|Outline of Iowa}}
+
+* [[Index of Iowa-related articles]] <!-- Please place links to all topics directly related to the State of Iowa in the [[Index of Iowa-related articles]] -->
+{{clear}}
+
+==References==
+{{reflist|2}}
+
+==Notes==
+{{reflist|group=note}}
+
+==External links==
+{{sisterlinks|Iowa}}
+*[http://www.iowa.gov/ Official State of Iowa Website]
+**[http://www.legis.state.ia.us/Constitution.html Constitution of the state of Iowa]
+*[http://tonto.eia.doe.gov/state/state_energy_profiles.cfm?sid=IA Energy Data & Statistics for Iowa- From the U.S. Department of Energy]
+*[http://wikis.ala.org/godort/index.php/Iowa Iowa State Databases] - Annotated list of searchable databases produced by Iowa state agencies and compiled by the Government Documents Roundtable of the American Library Association.
+*[http://quickfacts.census.gov/qfd/states/19000.html U.S. Census Bureau Quick Facts]
+*{{dmoz|Regional/North_America/United_States/Iowa}}
+{{-}}
+{{Geographic Location
+|Centre    = Iowa
+|North     = [[Minnesota]]
+|Northeast = [[Wisconsin]]
+|East      = [[Illinois]]
+|Southeast = 
+|South     = [[Missouri]]
+|Southwest = 
+|West      = [[Nebraska]]
+|Northwest = [[South Dakota]]
+}}
+
+{{Iowa|expand}}
+{{USPoliticalDivisions}}
+{{IA Parks}}
+
+{{succession
+| preceded = [[Texas]]
+| office = [[List of U.S. states by date of statehood]]
+| years = Admitted on December 28, 1846 (29th)
+| succeeded = [[Wisconsin]]
+}}
+
+{{Coord|display=title|42|N|93|W|region:US-IA_type:adm1st_scale:3000000}}
+{{United States topics}}
+
+[[Category:Iowa|*]]
+[[Category:States of the United States]]
+[[Category:Midwestern United States]]
+[[Category:States and territories established in 1846]]
+
+[[af:Iowa]]
+[[ang:Iowa]]
+[[ar:آيوا]]
+[[an:Iowa]]
+[[arc:ܐܝܐܘܐ]]
+[[frp:Iowa]]
+[[ast:Iowa]]
+[[az:Ayova]]
+[[bn:আইওয়া]]
+[[zh-min-nan:Iowa]]
+[[be:Штат Аява]]
+[[bcl:Iowa]]
+[[bs:Iowa]]
+[[br:Iowa]]
+[[bg:Айова]]
+[[ca:Estat d'Iowa]]
+[[cv:Айова]]
+[[cs:Iowa]]
+[[co:Iowa]]
+[[cy:Iowa]]
+[[da:Iowa]]
+[[de:Iowa]]
+[[et:Iowa]]
+[[el:Αϊόβα]]
+[[es:Iowa]]
+[[eo:Iovao]]
+[[eu:Iowa]]
+[[fa:آیووا]]
+[[fo:Iowa]]
+[[fr:Iowa]]
+[[fy:Iowa]]
+[[ga:Iowa]]
+[[gv:Iowa]]
+[[gd:Iowa]]
+[[gl:Iowa]]
+[[hak:Oi-hò-fà]]
+[[ko:아이오와 주]]
+[[haw:‘Iowa]]
+[[hi:आयोवा]]
+[[hy:Այովա]]
+[[hr:Iowa]]
+[[io:Iowa]]
+[[ig:Iowa]]
+[[bpy:আইৱা]]
+[[id:Iowa]]
+[[ik:Aioua]]
+[[os:Айовæ]]
+[[is:Iowa]]
+[[it:Iowa]]
+[[he:איווה]]
+[[jv:Iowa]]
+[[pam:Iowa]]
+[[ka:აიოვა]]
+[[ks:आयोवा]]
+[[kw:Iowa]]
+[[sw:Iowa]]
+[[ht:Ayowa]]
+[[ku:Iowa]]
+[[lad:Iowa]]
+[[la:Iova]]
+[[lv:Aiova]]
+[[lt:Ajova]]
+[[lij:Iowa]]
+[[hu:Iowa]]
+[[mk:Ајова]]
+[[mg:Iowa]]
+[[ml:ഐയവ]]
+[[mi:Iowa]]
+[[mr:आयोवा]]
+[[ms:Iowa]]
+[[mn:Айова]]
+[[nah:Iowa]]
+[[nl:Iowa]]
+[[ja:アイオワ州]]
+[[no:Iowa]]
+[[nn:Iowa]]
+[[oc:Iowa]]
+[[uz:Ayova]]
+[[pnb:آئیووا]]
+[[pms:Iowa]]
+[[nds:Iowa]]
+[[pl:Iowa]]
+[[pt:Iowa]]
+[[ro:Iowa (stat SUA)]]
+[[qu:Iowa suyu]]
+[[ru:Айова]]
+[[sa:आयोवा]]
+[[sq:Iowa]]
+[[scn:Iowa]]
+[[simple:Iowa]]
+[[sk:Iowa]]
+[[sl:Iowa]]
+[[szl:Iowa]]
+[[sr:Ајова]]
+[[fi:Iowa]]
+[[sv:Iowa]]
+[[tl:Ayowa]]
+[[ta:அயோவா]]
+[[th:รัฐไอโอวา]]
+[[tg:Айова]]
+[[tr:Iowa]]
+[[uk:Айова]]
+[[ur:آئیووا]]
+[[ug:Lowa Shitati]]
+[[vi:Iowa]]
+[[vo:Iowa]]
+[[war:Iowa]]
+[[wuu:爱荷华州]]
+[[yi:אייאווע]]
+[[yo:Iowa]]
+[[diq:İowa]]
+[[bat-smg:Ajova]]
+[[zh:艾奥瓦州]]

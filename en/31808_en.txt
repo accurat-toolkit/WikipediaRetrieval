@@ -1,0 +1,123 @@
+{{Otherusesof|U}}
+{{wiktionarypar2|U|u}}
+{{Latin alphabet navbox|uc=U|lc=u}}
+'''U''' is the twenty-first letter in the [[basic modern Latin alphabet]].  Its name in [[English language|English]] ({{pron-en|ˈjuː}}) is spelled '''u''';<ref>"U" ''Oxford English Dictionary,'' 2nd edition (1989); ''Merriam-Webster's Third New International Dictionary of the English Language, Unabridged'' (1993)</ref> the plural is ''ues,'' though this is rare.<ref>Brown & Kiddle (1870) ''The institutes of English grammar,'' p 19. <br>''Ues'' is the plural of the name of the letter; the plural of the letter itself is U's, ''U''s, u's, or ''u''s.</ref>
+
+==History==
+The letter U ultimately comes from the Semitic letter ''[[Waw (letter)|Waw]]'' by way of the letter [[V]]. See the letter [[V]] for details.
+
+During the late [[Middle Ages]], two forms of "v" developed, which were both used for modern ''u'' and ''v''. The pointed form "v" was written at the beginning of a word, while a rounded form "u" was used in the middle or end, regardless of sound. So whereas ''valor'' and ''excuse'' appeared as in modern printing, "have" and "upon" were printed ''haue'' and ''vpon''. The first distinction between the letters "u" and "v" is recorded in a Gothic alphabet from 1386, where "v" preceded "u". By the mid-1500s, the "v" form was used to represent the [[consonant]] and "u" the vowel sound, giving us the modern letter "u". Capital "U" was not accepted as a distinct letter until many years later.<ref>{{cite book |last1=Pflughaupt |first1=Laurent |others=trans. Gregory Bruhn |title=Letter by Letter: An Alphabetical Miscellany |url=http://books.google.com/books?id=63Qnbt2CMiMC&pg=PA124 |accessdate=2009-06-21 |year=2008 |publisher=Princeton Architectural Press |isbn=9781568987378 |pages=123–124}}</ref>
+
+==Codes for computing==
+{{Letter
+|NATO=Uniform
+|Morse=··–
+|Character=U
+|Braille=⠥
+}}
+In [[Unicode]] the [[majuscule|capital]] U is codepoint U+0055 and the [[Lower case|lowercase]] u is U+0075.
+
+The [[ASCII]] code for capital U is 85 and for lowercase u is 117; or in [[Binary numeral system|binary]] 01010101 and 01110101, correspondingly.
+
+The [[EBCDIC]] code for capital U is 228 and for lowercase u is 164.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are "<tt>&amp;#85;</tt>" and "<tt>&amp;#117;</tt>" for upper and lower case respectively.
+
+==See also==
+{{col-begin}}
+{{col-3}}
+*[[V]]
+*[[W]]
+*[[Ŭ]]
+*{{Unicode|[[Ʉ]]}}
+{{col-3}}
+* Υ, υ - [[Upsilon]] (Greek)
+* [[Yu (Cyrillic)|Ю, ю - Yu (Cyrillic)]]
+
+{{col-3}}
+{{Commons|U}}
+{{col-end}}
+
+==References==
+{{Reflist}}
+
+{{Latin alphabet|U|}}
+
+[[Category:Vowel letters]]
+[[Category:Latin letters]]
+
+[[af:U]]
+[[als:U]]
+[[ar:U]]
+[[arc:U]]
+[[ast:U]]
+[[az:U]]
+[[zh-min-nan:U]]
+[[bs:U]]
+[[br:U (lizherenn)]]
+[[ca:U]]
+[[cs:U]]
+[[co:U]]
+[[cy:U]]
+[[da:U]]
+[[de:U]]
+[[el:U]]
+[[es:U]]
+[[eo:U]]
+[[eu:U]]
+[[fa:U]]
+[[fr:U (lettre)]]
+[[fy:U]]
+[[fur:U]]
+[[gv:Unjin (lettyr)]]
+[[gd:U]]
+[[gl:U]]
+[[gan:U]]
+[[ko:U]]
+[[hr:U]]
+[[ilo:U]]
+[[is:U]]
+[[it:U]]
+[[he:U]]
+[[ka:U]]
+[[kw:U]]
+[[sw:U]]
+[[ht:U]]
+[[la:U]]
+[[lv:U]]
+[[lt:U]]
+[[hu:U]]
+[[mk:U (Латиница)]]
+[[mzn:U]]
+[[ms:U]]
+[[nah:U]]
+[[nl:U (letter)]]
+[[ja:U]]
+[[no:U]]
+[[nn:U]]
+[[nrm:U]]
+[[uz:U (harf)]]
+[[pl:U]]
+[[pt:U]]
+[[ro:U]]
+[[qu:U]]
+[[ru:U (латиница)]]
+[[se:U]]
+[[stq:U]]
+[[scn:U]]
+[[simple:U]]
+[[sk:U]]
+[[sl:U]]
+[[sr:U (слово латинице)]]
+[[fi:U]]
+[[sv:U]]
+[[tl:U]]
+[[th:U]]
+[[tr:U (harf)]]
+[[uk:U (латиниця)]]
+[[vi:U (mẫu tự)]]
+[[vo:U]]
+[[yo:U]]
+[[zh-yue:U]]
+[[bat-smg:U]]
+[[zh:U]]

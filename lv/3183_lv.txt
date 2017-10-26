@@ -1,0 +1,65 @@
+{{teksts+}}
+<table border=1 cellpadding=2 cellspacing=0 align=right width=275px>
+<caption><font size=+1>'''Севастополь'''</font></caption>
+<tr><td style=background:#efefef; align=center colspan=2>
+<table border=0 cellpadding=2 cellspacing=0>
+<tr><td align=center width=135px>[[Image:Map_of_Ukraine_political_simple_City_Sewastopol.png|275px]]
+</table>
+<tr><td>Platība<td>864 km²
+<tr><td>Iedzīvotāju skaits (2005)<td>365 381
+<tr><td>Rajonu skaits<td>4
+</table>
+
+{{Ukraina-aizmetnis}}
+{{Ukrainas administratīvais iedalījums}}
+
+[[Kategorija:Ukrainas pilsētas]]
+
+[[af:Sewastopol]]
+[[ar:سيفاستوبول]]
+[[be:Горад Севастопаль]]
+[[be-x-old:Севастопаль]]
+[[bg:Севастопол]]
+[[ca:Sebastòpol]]
+[[crh:Aqyar]]
+[[cs:Sevastopol]]
+[[da:Sevastopol]]
+[[de:Sewastopol]]
+[[en:Sevastopol]]
+[[eo:Sebastopolo]]
+[[es:Sebastopol]]
+[[et:Sevastopol]]
+[[eu:Sebastopol]]
+[[fa:سواستوپول]]
+[[fi:Sevastopol]]
+[[fr:Sébastopol]]
+[[gl:Sebastopol - Севастополь]]
+[[he:סבסטופול]]
+[[hr:Sevastopolj]]
+[[hu:Szevasztopol]]
+[[id:Sevastopol]]
+[[it:Sebastopoli]]
+[[ja:セヴァストポリ]]
+[[ka:სევასტოპოლი]]
+[[ko:세바스토폴]]
+[[la:Sebastopolis]]
+[[lt:Sevastopolis]]
+[[mn:Севастополь]]
+[[nl:Sebastopol]]
+[[no:Sevastopol]]
+[[os:Севастополь]]
+[[pl:Sewastopol]]
+[[pt:Sebastopol]]
+[[ro:Sevastopol]]
+[[ru:Севастополь]]
+[[simple:Sevastopol]]
+[[sk:Sevastopoľ]]
+[[sl:Sevastopol]]
+[[sr:Севастопољ]]
+[[sv:Sevastopol]]
+[[tr:Sivastopol]]
+[[tt:Aqyar]]
+[[uk:Севастополь]]
+[[vi:Sevastopol]]
+[[wa:Sebastopol]]
+[[zh:塞瓦斯托波爾]]

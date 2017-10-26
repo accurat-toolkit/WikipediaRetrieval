@@ -1,0 +1,86 @@
+{{Info zinātnieks
+| vārds_orig =Daniel Bernoulli
+| attēls =Danielbernoulli.jpg
+| att_izmērs =150px
+| att_nosaukums =Daniels Bernulli 
+| dz_gads =1700
+| dz_mēnesis =1
+| dz_diena =29
+| dz_vieta =[[Groningene]], [[Nīderlande]]
+| m_gads =1782
+| m_mēnesis=3
+| m_diena=17
+| m_vieta =[[Bāzele]], [[Šveice]]
+| pilsonība =
+| vecāki = tēvs-[[Johans Bernulli]], māte Dorotea Bernulli
+| darba_vietas =[[Pēterburgas akadēmija]],<br>[[Bāzeles universitāte]]
+| alma_mater =[[Heidelbergas universitāte]],<br>[[Strasbūras universitāte]],<br>[[Bāzeles universitāte]]
+| zinātne =[[matemātika]],[[fizika]]
+| pasniedzēji =
+| studenti =
+| sasniegumi =[[Bernulli vienādojums]],<br> nozīmīgi pētījumi [[varbūtību teorija|varbūtību teorijā]] un [[diferenciālvienādojums|diferenciālvienādojumos]]
+| apbalvojumi =
+| paraksts =
+| piezīmes = 
+}}
+
+'''Daniels Bernulli''' ({{val|de|Daniel Bernoulli}}, dzimis {{dat|1700|1|29}}, miris {{dat|1782|3|17}}) - [[Šveice|šveiciešu]] matemātiķis, fiziķis, viens no [[gāzu kinētiskā teorija|gāzu kinētiskās teorijas]], [[hidrodinamika|hidrodinamikas]] un [[matemātiskā fizika|matemātiskās fizikas]] pamatlicējiem.
+
+Dzimis [[Groningene|Groningenē]], [[Nīderlande]]. Studējis [[medicīna|medicīnu]], filosofiju un loģiku [[Heidelbergas universitāte|Heidelbergas]], [[Strasbūras universitāte|Strasbūras]] un [[Bāzeles universitāte|Bāzeles universitātēs]]. Strādājis Pēterburgā (1725-1733), pēc tam fizioloģijas un mehānikas profesors Bāzelē. Izvedis [[hidrodinamika|hidrodinamikas]] pamatvienādojumu ([[Bernulli vienādojums]]), izveidojis [[gāzu kinētiskā teorija|gāzu kinētisko teoriju]], kā arī Bernulli metodi algebrisko vienādojumu atrisināšanai. 
+
+==Ārējās saites==
+* [http://www.universityscience.ie/pages/scientists/sci_daniel_bernoulli.php universityscience.ie]
+
+
+{{Cilv-aizmetnis}}
+
+{{DEFAULTSORT:Bernulli, Daniels}}
+
+[[Kategorija:Šveices matemātiķi]]
+[[Kategorija:Šveiciešu fiziķi]]
+[[Kategorija:Latīņu valodā rakstošie]]
+
+[[als:Daniel Bernoulli]]
+[[an:Daniel Bernoulli]]
+[[ar:دانييل برنولي]]
+[[bg:Даниел Бернули]]
+[[bn:দানিয়েল বার্নুয়ি]]
+[[bs:Daniel Bernoulli]]
+[[ca:Daniel Bernoulli]]
+[[cs:Daniel Bernoulli]]
+[[da:Daniel Bernoulli]]
+[[de:Daniel Bernoulli]]
+[[el:Ντάνιελ Μπερνούλι]]
+[[en:Daniel Bernoulli]]
+[[eo:Daniel Bernoulli]]
+[[es:Daniel Bernoulli]]
+[[et:Daniel Bernoulli]]
+[[eu:Daniel Bernoulli]]
+[[fa:دانیل برنولی]]
+[[fi:Daniel Bernoulli]]
+[[fr:Daniel Bernoulli]]
+[[he:דניאל ברנולי]]
+[[hr:Daniel Bernoulli]]
+[[ht:Daniel Bernoulli]]
+[[io:Daniel Bernoulli]]
+[[is:Daniel Bernoulli]]
+[[it:Daniel Bernoulli]]
+[[ja:ダニエル・ベルヌーイ]]
+[[ko:다니엘 베르누이]]
+[[la:Daniel Bernoulli]]
+[[mk:Даниел Бернули]]
+[[nl:Daniel Bernoulli]]
+[[no:Daniel Bernoulli]]
+[[pl:Daniel Bernoulli]]
+[[pms:Daniel Bernoulli]]
+[[pt:Daniel Bernoulli]]
+[[ro:Daniel Bernoulli]]
+[[ru:Бернулли, Даниил]]
+[[scn:Daniel Bernoulli]]
+[[sk:Daniel Bernoulli]]
+[[sl:Daniel Bernoulli]]
+[[sr:Данијел Бернули]]
+[[sv:Daniel Bernoulli]]
+[[tr:Daniel Bernoulli]]
+[[uk:Даніель Бернуллі]]
+[[zh:丹尼尔·伯努利]]
